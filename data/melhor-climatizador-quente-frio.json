@@ -1,0 +1,145 @@
+[
+	{
+		"id": "philco-pcl10qf",
+		"name": "Philco PCL10QF",
+		"image": "/images/posts/climatizador-quente-frio-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1BFy9q4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura 5 em 1 reúne ventilação, climatização, aquecimento, umidificação e resfriamento",
+			"Reservatório de 5 litros reduz a necessidade de reabastecimento",
+			"Acompanha controle remoto e timer programável de até 7 horas",
+			"Função oscilar distribui o fluxo de ar em ângulo de até 120°",
+			"Sistema com filtro colmeia auxilia no resfriamento evaporativo"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "5 litros" },
+			{ "label": "Modos", "value": "climatização, umidificação, ventilação, aquecimento e resfriamento" },
+			{ "label": "Velocidades", "value": "3 (ventilação); 2 (aquecimento)" },
+			{ "label": "Potência", "value": "não especificado" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar 120°; timer de até 7h; controle remoto; mostrador luminoso touch; rodas; alça de transporte; filtro colmeia; pré-filtro removível; garrafas de gel; medidor de nível de água"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "66,5 x 28,5 x 25,4cm" },
+			{ "label": "Peso", "value": "5,75kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-ecl70q",
+		"name": "Eos ECL70Q",
+		"image": "/images/posts/climatizador-quente-frio-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2rgRcdD",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema Dual Tank facilita o abastecimento pelo tanque superior",
+			"Potência elevada de 1500W no modo aquecimento",
+			"Dois ice packs reforçam a sensação de resfriamento",
+			"Painel digital Touch e controle remoto integrados",
+			"Reservatório amplo de 7 litros com autonomia de até 12 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "7 litros" },
+			{ "label": "Modos", "value": "climatização, ventilação, purificação, umidificação e aquecimento" },
+			{ "label": "Velocidades", "value": "não especificado" },
+			{ "label": "Potência", "value": "1500W (aquecimento); 80W (climatização)" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "dual tank; painel Digital Touch; controle remoto; 2 ice packs; desligamento automático; área de resfriamento até 20m²; nível de ruído 65dB; 4 rodinhas"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "73 x 27 x 30,5cm" },
+			{ "label": "Peso", "value": "6,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "praxis-cp20-qf",
+		"name": "Praxis CP20-QF",
+		"image": "/images/posts/climatizador-quente-frio-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2BagbBw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 20 litros reduz reabastecimentos frequentes",
+			"Função ozonizador auxilia na purificação do ar",
+			"Possui função repelente e aromatizador",
+			"Timer programado de até 7,5 horas",
+			"Três velocidades ajustam a intensidade do fluxo de ar"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "20 litros" },
+			{
+				"label": "Modos",
+				"value": "ventilação, resfriamento, aquecimento, purificação com ozonizador, repelente e aromatização"
+			},
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "não especificado" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "ozonizador; função repelente; aromatizador; timer de até 7,5h; 4 rodinhas"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "92 x 45 x 32,5cm" },
+			{ "label": "Peso", "value": "não especificado" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "yesop-y-801",
+		"name": "Yesop Y-801",
+		"image": "/images/posts/climatizador-quente-frio-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia cerâmica PTC oferece aquecimento em 2 segundos",
+			"Funcionamento silencioso abaixo de 25dB",
+			"Fluxo de ar com oscilação de 120° e timer de até 12 horas",
+			"Painel touch combinado com controle remoto",
+			"Proteção contra tombamento e superaquecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Modos", "value": "refrigeração, aquecimento, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3 (ventilação); 2 (aquecimento)" },
+			{ "label": "Potência", "value": "1800W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "oscilação 120°; tecnologia cerâmica PTC; painel touch; controle remoto; timer de até 12h; proteção contra tombamento e superaquecimento; 2 bolsas de gelo; filtro colmeia; aletas móveis"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "86 x 28 x 34cm" },
+			{ "label": "Peso", "value": "6,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "yesop-y-800",
+		"name": "Yesop Y-800",
+		"image": "/images/posts/climatizador-quente-frio-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/33mHdh4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato mais estreito ocupa menos espaço no ambiente",
+			"Timer programável de até 12 horas e dois níveis de aquecimento",
+			"Inclui controle remoto e painel touch com mostrador luminoso",
+			"Função oscilar com ângulo de 180° para amplo fluxo de ar",
+			"Permite ventilar, aquecer, resfriar, umidificar e climatizar"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Modos", "value": "climatização, aquecimento, umidificação, resfriamento e ventilação" },
+			{ "label": "Velocidades", "value": "3 (ventilação); 2 (aquecimento)" },
+			{ "label": "Potência", "value": "1800W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer de até 12h; controle remoto; mostrador luminoso touch; aviso sonoro; alça de transporte; filtro colmeia"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "80 x 25 x 20cm" },
+			{ "label": "Peso", "value": "6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

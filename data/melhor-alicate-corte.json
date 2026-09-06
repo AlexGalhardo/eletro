@@ -1,0 +1,127 @@
+[
+	{
+		"id": "irwin-2078308",
+		"name": "IRWIN 2078308 8\" (200mm)",
+		"image": "/images/posts/alicate-corte-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/31StKRN",
+		"shopeeUrl": null,
+		"advantages": [
+			"Empunhadura ergonômica ProTouch",
+			"Corte endurecido por indução",
+			"Construção em aço cromado",
+			"Maior durabilidade",
+			"Garantia vitalícia"
+		],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "8\" (200mm)" },
+			{ "label": "Material", "value": "Aço cromado de níquel" },
+			{ "label": "Isolação", "value": "Não" }
+		]
+	},
+	{
+		"id": "gedore-r28402165",
+		"name": "Gedore R28402165 6.1/2\" (165mm)",
+		"image": "/images/posts/alicate-corte-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2H5geF5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Isolação até 1000V",
+			"Cabeça estreita para espaços confinados",
+			"Aço cromo-vanádio",
+			"Normas DIN/ISO",
+			"Alta precisão"
+		],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "6.1/2\" (165mm)" },
+			{ "label": "Isolação", "value": "1000V" },
+			{ "label": "Material", "value": "Aço cromo-vanádio" }
+		]
+	},
+	{
+		"id": "tramontina-41006106",
+		"name": "Tramontina 41006106 6\" (159mm) 1000V",
+		"image": "/images/posts/alicate-corte-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1JsMsYu",
+		"shopeeUrl": null,
+		"advantages": [
+			"Isolação 1000V",
+			"Aço vanádio forjado",
+			"Têmpera especial no corte",
+			"Ergonômico",
+			"Mais vendido"
+		],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "6\" (159mm)" },
+			{ "label": "Isolação", "value": "1000V" },
+			{ "label": "Material", "value": "Aço vanádio" }
+		]
+	},
+	{
+		"id": "vonder-adv1503",
+		"name": "Vonder ADV1503 6\" (152mm) 1000V",
+		"image": "/images/posts/alicate-corte-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ku9J8G",
+		"shopeeUrl": null,
+		"advantages": ["Isolação 1000V", "Preço acessível", "Cabo antiderrapante", "Compacto", "Bom e barato"],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "6\" (152mm)" },
+			{ "label": "Isolação", "value": "1000V" },
+			{ "label": "Material", "value": "Aço cromo-vanádio" }
+		]
+	},
+	{
+		"id": "irwin-1864036",
+		"name": "IRWIN 1864036 6\" (150mm)",
+		"image": "/images/posts/alicate-corte-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/23LANJH",
+		"shopeeUrl": null,
+		"advantages": ["Corte temperado", "Empunhadura confortável", "Alta resistência", "Versátil", "Durável"],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "6\" (150mm)" },
+			{ "label": "Material", "value": "Aço cromo-vanádio" }
+		]
+	},
+	{
+		"id": "stanley-84054",
+		"name": "Stanley 84054 6\" (152mm)",
+		"image": "/images/posts/alicate-corte-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/18rnw7P",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aço cromo-níquel",
+			"Cabo com duplo revestimento",
+			"Abas protetoras",
+			"Resistente",
+			"Profissional"
+		],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "6\" (152mm)" },
+			{ "label": "Material", "value": "Aço cromo-níquel" }
+		]
+	},
+	{
+		"id": "mtx-175479",
+		"name": "MTX 175479 7\" (180mm)",
+		"image": "/images/posts/alicate-corte-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1YXDm9H",
+		"shopeeUrl": null,
+		"advantages": [
+			"Comprimento maior",
+			"Revestimento niquelado",
+			"Cabo de dupla injeção",
+			"Resistente à corrosão",
+			"Bom alcance"
+		],
+		"technicalDetails": [
+			{ "label": "Comprimento", "value": "7\" (180mm)" },
+			{ "label": "Material", "value": "Aço CR-V" }
+		]
+	}
+]

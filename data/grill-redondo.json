@@ -1,0 +1,171 @@
+[
+	{
+		"id": "mondial-ultra-pe-28-1200w",
+		"name": "Mondial Ultra PE-28 1200W",
+		"image": "/images/posts/grill-redondo-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2xyacj3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Revestimento Red Ceramic antiaderente",
+			"Controle de temperatura de 40°C a 240°C",
+			"Serve para aquecer, assar, tostar, gratinar e grelhar",
+			"Área de preparo de 30cm",
+			"Tampa de vidro temperado com saída de vapor",
+			"Lâmpada piloto",
+			"Pode servir os alimentos diretamente à mesa",
+			"Potência de 1200W",
+			"Cabo de 1,5 metro",
+			"Garantia de 1 ano",
+			"Preço acessível"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Capacidade", "value": "3 litros (6 xícaras)" },
+			{ "label": "Revestimento", "value": "Red Ceramic antiaderente" },
+			{ "label": "Tampa", "value": "vidro temperado com saída de vapor" },
+			{ "label": "Luz indicadora", "value": "sim" },
+			{ "label": "Tipo de placa", "value": "lisa" },
+			{ "label": "Temperatura", "value": "40°C a 240°C" },
+			{ "label": "Dimensões (A x L x P)", "value": "16 x 37 x 33cm" },
+			{ "label": "Peso", "value": "1,8kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mondial-cook-grill-40-g03-1270w",
+		"name": "Mondial Cook & Grill 40 G-03 1270W",
+		"image": "/images/posts/grill-redondo-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2E5AR5w",
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa ondulada",
+			"Superfície de 40cm",
+			"Revestimento antiaderente",
+			"Diversas funções de preparo",
+			"Tampa de vidro temperado",
+			"Alças isotérmicas",
+			"7 níveis de temperatura",
+			"Pode servir diretamente à mesa",
+			"Potência de 1270W",
+			"Sistema de inclinação com bandeja coletora",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Não possui indicador luminoso"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1270W" },
+			{ "label": "Capacidade", "value": "3 litros (6 xícaras)" },
+			{ "label": "Revestimento", "value": "antiaderente" },
+			{ "label": "Tampa", "value": "vidro temperado com saída de vapor" },
+			{ "label": "Luz indicadora", "value": "não" },
+			{ "label": "Tipo de placa", "value": "ondulada" },
+			{ "label": "Temperatura", "value": "7 níveis de ajuste" },
+			{ "label": "Dimensões (A x L x P)", "value": "12,5 x 46 x 42cm" },
+			{ "label": "Peso", "value": "2,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "cadence-rouge-pan610-1250w",
+		"name": "Cadence Rouge PAN610 1250W",
+		"image": "/images/posts/grill-redondo-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ezn5Hj",
+		"shopeeUrl": null,
+		"advantages": [
+			"Suporte para servir à mesa",
+			"Alças isotérmicas",
+			"Tampa de vidro temperado",
+			"Revestimento antiaderente",
+			"Diversas funções de preparo",
+			"5 níveis de temperatura",
+			"Pés antiderrapantes",
+			"Potência de 1250W",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Capacidade", "value": "2,8 litros" },
+			{ "label": "Revestimento", "value": "antiaderente" },
+			{ "label": "Tampa", "value": "vidro temperado com aro de inox" },
+			{ "label": "Tipo de placa", "value": "lisa" },
+			{ "label": "Temperatura", "value": "5 níveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "17,5 x 36,5 x 40cm" },
+			{ "label": "Peso", "value": "2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "cadence-perfect-taste-grl300-1250w",
+		"name": "Cadence Perfect Taste GRL300 1250W",
+		"image": "/images/posts/grill-redondo-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1z5KSj1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1250W",
+			"Chapa de 30cm",
+			"Chapa ondulada antiaderente",
+			"Tampa de vidro",
+			"5 níveis de temperatura",
+			"Pode ser levado à mesa",
+			"Peso reduzido",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Capacidade", "value": "2,5 litros" },
+			{ "label": "Revestimento", "value": "antiaderente" },
+			{ "label": "Tampa", "value": "vidro temperado com saída de vapor" },
+			{ "label": "Tipo de placa", "value": "ondulada" },
+			{ "label": "Temperatura", "value": "5 níveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "11,5 x 41,5 x 37,5cm" },
+			{ "label": "Peso", "value": "1,8kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 4,
+				"powerEfficiency": 4.5,
+				"buildQuality": 4,
+				"easeOfUse": 4.5,
+				"features": 4,
+				"cleaning": 4.5
+			}
+		}
+	},
+	{
+		"id": "britania-top-grill-bpe01-1200w",
+		"name": "Britânia Top Grill BPE01 1200W",
+		"image": "/images/posts/grill-redondo-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1y5EifT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle de temperatura removível",
+			"Chapa ondulada antiaderente de 36cm",
+			"Pode ser levado à mesa",
+			"Coletor de gordura",
+			"Sistema de inclinação",
+			"Tampa de vidro temperado",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Capacidade", "value": "3 xícaras" },
+			{ "label": "Revestimento", "value": "antiaderente" },
+			{ "label": "Tampa", "value": "vidro temperado com saída de vapor" },
+			{ "label": "Tipo de placa", "value": "ondulada" },
+			{ "label": "Recursos", "value": "coletor de gordura; sistema de inclinação; seletor removível" },
+			{ "label": "Dimensões (A x L x P)", "value": "15,5 x 44,5 x 47cm" },
+			{ "label": "Peso", "value": "2,8kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

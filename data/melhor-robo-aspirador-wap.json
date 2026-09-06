@@ -1,0 +1,212 @@
+[
+	{
+		"id": "wap-robot-w4000",
+		"name": "WAP ROBOT W4000",
+		"image": "/images/posts/robo-aspirador-wap-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Comandos via controle remoto ou app WAP CONNECT",
+			"Navegação 360° com mapeamento em tempo real e rotas otimizadas",
+			"Retorna automaticamente à base e esvazia o compartimento de pó",
+			"Limpeza 3 em 1: varre, aspira e passa pano",
+			"Quatro modos de sucção e integração com Alexa e Google Assistant"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,6cm" },
+			{ "label": "Tempo de funcionamento", "value": "2 horas" },
+			{ "label": "Tempo de recarga", "value": "3 horas e 45 minutos" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "260ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral; inteligente; umedecida" },
+			{ "label": "Potência", "value": "48W" },
+			{ "label": "Dimensões", "value": "32,4 x 32 x 9,6cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wap-robot-w3000",
+		"name": "WAP ROBOT W3000",
+		"image": "/images/posts/robo-aspirador-wap-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2PtBPSB",
+		"shopeeUrl": null,
+		"advantages": [
+			"Três funções: varre, aspira e passa pano",
+			"Programação de horários e 5 modos de limpeza via app WAP CONNECT",
+			"Navegação inteligente 360° com tecnologia SLAM e sensor LDS",
+			"Sensor antiqueda e anticolisão desvia de obstáculos automaticamente",
+			"Filtro HEPA, duas escovas laterais e escova central rotativa"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,6cm" },
+			{ "label": "Tempo de funcionamento", "value": "2 horas" },
+			{ "label": "Tempo de recarga", "value": "3 horas e 45 minutos" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "260ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral; inteligente; umedecida" },
+			{ "label": "Potência", "value": "48W" },
+			{ "label": "Dimensões", "value": "32,4 x 32 x 9,6cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-robot-w90",
+		"name": "WAP ROBOT W90",
+		"image": "/images/posts/robo-aspirador-wap-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2TMKFMb",
+		"shopeeUrl": null,
+		"advantages": [
+			"Equipado com MOP de microfibra lavável em máquina",
+			"Limpeza completa 3 em 1: varre, aspira e passa pano",
+			"Sensores de impacto e antiqueda desviam de obstáculos",
+			"Remove cabelos e pelos de pisos, tapetes e carpetes",
+			"Filtro e recipiente de pó removíveis e laváveis"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "8cm" },
+			{ "label": "Tempo de funcionamento", "value": "1 hora e 40 minutos" },
+			{ "label": "Tempo de recarga", "value": "4 horas" },
+			{ "label": "Base de carregamento", "value": "não" },
+			{ "label": "Capacidade do reservatório de pó", "value": "250ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "não" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral" },
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Dimensões", "value": "27 x 28,5 x 8cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-robot-w1000",
+		"name": "WAP ROBOT W1000",
+		"image": "/images/posts/robo-aspirador-wap-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1wed22F",
+		"shopeeUrl": null,
+		"advantages": [
+			"Navegação inteligente 360° com mapeamento em tempo real",
+			"Sensor anticolisão desvia automaticamente de obstáculos",
+			"Função 3 em 1: varre, aspira e passa pano",
+			"Reservatório 2 em 1 armazena água e pó",
+			"Controle via app WAP CONNECT e compatível com Alexa/Google Assistente"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "8cm" },
+			{ "label": "Tempo de funcionamento", "value": "2 horas e 40 minutos" },
+			{ "label": "Tempo de recarga", "value": "5 horas" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "260ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral; inteligente; umedecida" },
+			{ "label": "Potência", "value": "36W" },
+			{ "label": "Dimensões", "value": "32 x 32 x 8cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-robot-w100",
+		"name": "WAP ROBOT W100",
+		"image": "/images/posts/robo-aspirador-wap-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ZCUXTe",
+		"shopeeUrl": null,
+		"advantages": [
+			"Varre, aspira e passa pano seco ou úmido com MOP de microfibra",
+			"Escovas giratórias alcançam cantos e bordas",
+			"Rápida remoção de cabelos e pelos de pisos e carpetes",
+			"Sensores inteligentes evitam obstáculos",
+			"Mede apenas 7,5cm, alcançando áreas de difícil acesso"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "7,5cm" },
+			{ "label": "Tempo de funcionamento", "value": "1 hora e 40 minutos" },
+			{ "label": "Tempo de recarga", "value": "5 horas" },
+			{ "label": "Base de carregamento", "value": "não" },
+			{ "label": "Capacidade do reservatório de pó", "value": "250ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "não" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral" },
+			{ "label": "Potência", "value": "17W" },
+			{ "label": "Dimensões", "value": "27,5 x 27,5 x 7,5cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-robot-w400",
+		"name": "WAP ROBOT W400",
+		"image": "/images/posts/robo-aspirador-wap-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2X1BFSr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Limpeza 3 em 1: aspira, varre e passa pano",
+			"Sensores infravermelhos evitam quedas e obstáculos",
+			"Comandos via aplicativo de celular ou controle remoto",
+			"Compatível com Alexa e Google Assistente",
+			"Sistema de filtragem triplo com filtro HEPA, espuma e tela"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "7,5cm" },
+			{ "label": "Tempo de funcionamento", "value": "1 hora e 40 minutos" },
+			{ "label": "Tempo de recarga", "value": "5 horas" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "300ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "não" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; em espiral" },
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Dimensões", "value": "30 x 31 x 7,5cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-robot-wsmart",
+		"name": "WAP ROBOT WSMART",
+		"image": "/images/posts/robo-aspirador-wap-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1dhDys6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Escovas giratórias facilitam alcançar cantos e bordas",
+			"Sensores infravermelhos previnem colisões e quedas",
+			"Reservatório com MOP para aspirar, varrer e passar pano",
+			"Inclui dois filtros HEPA e reservatório de 450ml",
+			"Função Turbo intensifica a sucção para limpeza mais potente"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "7,5cm" },
+			{ "label": "Tempo de funcionamento", "value": "2 horas" },
+			{ "label": "Tempo de recarga", "value": "6 horas" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "450ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "não" },
+			{ "label": "Modos de limpeza", "value": "cantos; aleatória; círculo" },
+			{ "label": "Potência", "value": "37,4W" },
+			{ "label": "Dimensões", "value": "33,5 x 33 x 7,5cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	}
+]

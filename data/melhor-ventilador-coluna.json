@@ -1,0 +1,184 @@
+[
+	{
+		"id": "wap-flow-turbo-8-pas-180w",
+		"name": "WAP Flow Turbo (8 pás) 180W",
+		"image": "/images/posts/ventilador-coluna-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/27Wesu6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Silent Flow reduz o ruído e aumenta a performance",
+			"Oscilação horizontal de até 90° e inclinação ajustável de até 45°",
+			"Altura regulável até 1,5 metro",
+			"Hélice de 40cm com 8 pás e motor de 180W",
+			"Selo Procel de eficiência energética e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Número de pás", "value": "8" },
+			{ "label": "Diâmetro", "value": "50cm (grade); 40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "90° (-45° a +45°)" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 50 x 40cm" },
+			{ "label": "Peso", "value": "5,6kg" }
+		]
+	},
+	{
+		"id": "mallory-max-control-15-pas-140w",
+		"name": "Mallory Max Control (15 pás) 140W",
+		"image": "/images/posts/ventilador-coluna-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1LjuUo4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Grade em alumínio com 50cm de diâmetro e hélice de 15 pás",
+			"Ajuste de inclinação, oscilação horizontal e altura regulável",
+			"Controle remoto com função Oscilar e Turbo",
+			"Timer programável e painel Touch",
+			"Integração com controle via app e garantia de 12 meses"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "15" },
+			{ "label": "Diâmetro", "value": "50cm (grade); 40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "130 x 39 x 48cm" },
+			{ "label": "Peso", "value": "5,7kg" }
+		]
+	},
+	{
+		"id": "britania-bvt450-maxx-force-6-pas-160w",
+		"name": "Britânia BVT450 Maxx Force (6 pás) 160W",
+		"image": "/images/posts/ventilador-coluna-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Zh56FL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de interrupção automática, ideal para uso prolongado",
+			"Classificação energética A para baixo consumo",
+			"Altura e inclinação ajustáveis",
+			"Oscilação horizontal automática",
+			"Grade removível que facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "161,7 x 48,5 x 45cm" },
+			{ "label": "Peso", "value": "5,49kg" }
+		]
+	},
+	{
+		"id": "mondial-vsp-40c-b-6-pas-140w",
+		"name": "Mondial VSP-40C-B (6 pás) 140W",
+		"image": "/images/posts/ventilador-coluna-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2hbQeX5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funcionamento silencioso, excelente para uso noturno",
+			"Coluna com altura regulável entre 1,19m e 1,5 metro",
+			"Estrutura estável com alça para transporte e porta-fio embutido",
+			"Oscilação horizontal e grade removível para limpeza",
+			"1 ano de garantia contra defeitos de fabricação"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 47,5 x 47,5cm" },
+			{ "label": "Peso", "value": "4,81kg" }
+		]
+	},
+	{
+		"id": "mallory-air-timer-ts-plus-6-pas-126w",
+		"name": "Mallory Air Timer TS+ (6 pás) 126W",
+		"image": "/images/posts/ventilador-coluna-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2tMpxYz",
+		"shopeeUrl": null,
+		"advantages": [
+			"Autodesligamento programável de até 7 horas",
+			"Controle remoto incluso",
+			"Grade com sistema TS para máxima vazão e mínimo ruído",
+			"Inclinação e altura ajustáveis",
+			"Selo Procel A e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "130 x 39 x 48cm" },
+			{ "label": "Peso", "value": "6,3kg" }
+		]
+	},
+	{
+		"id": "mallory-coluna-eolo-6-pas-126w",
+		"name": "Mallory Coluna Eolo (6 pás) 126W",
+		"image": "/images/posts/ventilador-coluna-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/32S8y91",
+		"shopeeUrl": null,
+		"advantages": [
+			"Fácil de desmontar e limpar, ideal para ambientes com poeira",
+			"Oscilação horizontal e inclinação vertical ajustáveis",
+			"Coluna com altura regulável",
+			"Função Turbo",
+			"Eficiência energética classe A em todas as velocidades"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "50cm (grade); 40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "130 x 33 x 50cm" },
+			{ "label": "Peso", "value": "5,9kg" }
+		]
+	},
+	{
+		"id": "mallory-delfos-ts-plus-6-pas-126w",
+		"name": "Mallory Delfos TS+ (6 pás) 126W",
+		"image": "/images/posts/ventilador-coluna-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1nvKjdP",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design moderno e diferenciado",
+			"Inclinação, oscilação horizontal e altura regulável",
+			"Grade removível que facilita a limpeza",
+			"Alça integrada para facilitar a locomoção",
+			"Selo Procel A e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "130 x 39 x 48cm" },
+			{ "label": "Peso", "value": "6,05kg" }
+		]
+	}
+]

@@ -1,0 +1,150 @@
+[
+	{
+		"id": "bosch-gsb-20-2-re",
+		"name": "Bosch GSB 20-2 RE 800W",
+		"image": "/images/posts/furadeira-bosch-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/19pJYSw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potente motor de 800W",
+			"Embreagem de segurança antirrotação",
+			"Duas velocidades variáveis",
+			"Caixa de engrenagem metálica",
+			"Maleta de transporte inclusa"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "800W" },
+			{ "label": "Velocidade", "value": "Até 3000 RPM" },
+			{ "label": "Mandril", "value": "13mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "2,6 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-16-re",
+		"name": "Bosch GSB 16 RE 850W",
+		"image": "/images/posts/furadeira-bosch-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2SSPB66",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 850W",
+			"Função impacto e sem impacto",
+			"Velocidade de até 3500 RPM",
+			"Empunhadura emborrachada",
+			"Botão de trava para uso contínuo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "850W" },
+			{ "label": "Velocidade", "value": "Até 3500 RPM" },
+			{ "label": "Mandril", "value": "13mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "1,8 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-450-re",
+		"name": "Bosch GSB 450 RE 450W",
+		"image": "/images/posts/furadeira-bosch-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/32yVqGi",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo mais vendido",
+			"Leve e compacta (1,2 kg)",
+			"Função impacto",
+			"Velocidade variável",
+			"Bom custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "450W" },
+			{ "label": "Velocidade", "value": "Até 3100 RPM" },
+			{ "label": "Mandril", "value": "10mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "1,2 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-13-re-m",
+		"name": "Bosch GSB 13 RE-M 750W",
+		"image": "/images/posts/furadeira-bosch-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2i6dGBR",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 750W",
+			"Empunhadura emborrachada",
+			"Trava de acionamento",
+			"Inclui acessórios",
+			"Ótimo equilíbrio"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Velocidade", "value": "Até 3800 RPM" },
+			{ "label": "Mandril", "value": "13mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "1,7 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-550",
+		"name": "Bosch GSB 550 550W",
+		"image": "/images/posts/furadeira-bosch-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ZX2iXR",
+		"shopeeUrl": null,
+		"advantages": ["Compacta e potente", "Modo impacto", "Leve (1,3 kg)", "Trava do gatilho", "Preço acessível"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "550W" },
+			{ "label": "Velocidade", "value": "Até 3100 RPM" },
+			{ "label": "Mandril", "value": "13mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "1,3 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsr-7-14",
+		"name": "Bosch GSR 7-14 400W",
+		"image": "/images/posts/furadeira-bosch-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/13F4sQB",
+		"shopeeUrl": null,
+		"advantages": [
+			"Torque ajustável em 25 níveis",
+			"Cabo longo de 4 metros",
+			"Mandril de aperto rápido",
+			"Versátil (parafusadeira/furadeira)",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Velocidade", "value": "450 a 1400 RPM" },
+			{ "label": "Mandril", "value": "10mm" },
+			{ "label": "Funções", "value": "Parafusar e furar" },
+			{ "label": "Peso", "value": "1,6 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-18v-90c",
+		"name": "Bosch GSB 18V-90C",
+		"image": "/images/posts/furadeira-bosch-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1GMgWSX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor brushless",
+			"Bateria 18V com 2 unidades",
+			"Torque de até 64Nm",
+			"Função impacto",
+			"KickBack Control"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "18V" },
+			{ "label": "Velocidade", "value": "Até 2100 RPM" },
+			{ "label": "Mandril", "value": "13mm" },
+			{ "label": "Funções", "value": "Com impacto" },
+			{ "label": "Peso", "value": "1,2 kg (sem bateria)" }
+		]
+	}
+]

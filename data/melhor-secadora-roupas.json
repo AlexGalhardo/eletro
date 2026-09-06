@@ -1,0 +1,182 @@
+[
+	{
+		"id": "samsung-dv12b-12kg",
+		"name": "Samsung DV12B 12kg",
+		"image": "/images/posts/melhor-secadora-roupa-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1E2XsY4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de secagem de 12kg",
+			"Sensor Dry monitora a umidade e evita excesso de calor",
+			"Motor Digital Inverter com 20 anos de garantia",
+			"Tambor Diamond Drum protege tecidos delicados",
+			"Porta com abertura reversível",
+			"Iluminação interna no tambor",
+			"Função Antirrugas reduz vincos após a secagem",
+			"Ciclo Sanitize elimina alérgenos e bactérias",
+			"Secagem rápida e programas para toalhas, roupas pesadas e esportivas",
+			"Função Air Fluff utiliza ar frio para remover poeira e pelos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade de secagem", "value": "12kg" },
+			{ "label": "Potência", "value": "Não especificado" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Timer", "value": "Não especificado" },
+			{ "label": "Painel", "value": "Display LED" },
+			{
+				"label": "Sistema de secagem",
+				"value": "Ventilação com resistência elétrica; Sensor Dry; Tambor Diamond Drum; Secagem com ar frio"
+			},
+			{ "label": "Abertura", "value": "Porta frontal com abertura reversível" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65,5cm" },
+			{ "label": "Peso", "value": "39kg" },
+			{ "label": "Voltagem", "value": "220V" }
+		]
+	},
+	{
+		"id": "electrolux-sth11-11kg",
+		"name": "Electrolux STH11 11kg",
+		"image": "/images/posts/melhor-secadora-roupa-2.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2THF5Gn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 11kg",
+			"16 programas de secagem",
+			"Função Antirrugas",
+			"Função Passa Fácil com ar frio",
+			"Filtro elimina fiapos",
+			"Visualizador de etapas do ciclo",
+			"Painel digital",
+			"Porta frontal com visor transparente",
+			"Pés niveladores",
+			"Alças laterais facilitam a movimentação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade de secagem", "value": "11kg" },
+			{ "label": "Potência", "value": "Não especificado" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Timer", "value": "Não especificado" },
+			{ "label": "Painel", "value": "Digital" },
+			{
+				"label": "Sistema de secagem",
+				"value": "Tombamento com circulação de ar"
+			},
+			{ "label": "Abertura", "value": "Porta frontal" },
+			{ "label": "Dimensões (A x L x P)", "value": "84 x 59,5 x 55,5cm" },
+			{ "label": "Peso", "value": "33kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "fischer-28200-63977-8kg",
+		"name": "Fischer 28200-63977 8kg",
+		"image": "/images/posts/melhor-secadora-roupa-3.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1XzQeXw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Instalação na parede economiza espaço",
+			"Capacidade de 8kg",
+			"Timer de até 120 minutos",
+			"Modo contínuo de funcionamento",
+			"Ciclo amaciante de 15 minutos",
+			"Temperatura máxima de 65°C",
+			"Baixo consumo de energia",
+			"Bag em PVC transparente",
+			"Acompanha 3 varais e 6 cabides removíveis",
+			"Estrutura leve de 5,5kg"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade de secagem", "value": "8kg" },
+			{ "label": "Potência", "value": "1450W (127V) / 1150W (220V)" },
+			{ "label": "Quantidade de programas", "value": "Não especificado" },
+			{ "label": "Timer", "value": "Até 120 minutos ou modo contínuo" },
+			{ "label": "Painel", "value": "Botão giratório" },
+			{
+				"label": "Sistema de secagem",
+				"value": "Circulação de ar quente até 65°C"
+			},
+			{ "label": "Abertura", "value": "Zíper e velcro" },
+			{ "label": "Dimensões (A x L x P)", "value": "96 x 47 x 51cm" },
+			{ "label": "Peso", "value": "5,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-svb11-11kg",
+		"name": "Electrolux SVB11 11kg",
+		"image": "/images/posts/melhor-secadora-roupa-4.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2iQbb8G",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 11kg",
+			"Seca edredons de casal e solteiro",
+			"Reduz em até 3x os amassados",
+			"Filtro retém até 86% dos fiapos",
+			"Cesto interno em aço inox",
+			"Funcionamento silencioso",
+			"5 programas e 5 temperaturas",
+			"Função Tira Odor",
+			"Classificação EcoPlus",
+			"Funções Passa Fácil, Antirrugas e Secar por Tempo"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade de secagem", "value": "11kg" },
+			{ "label": "Potência", "value": "Não especificado" },
+			{ "label": "Quantidade de programas", "value": "5" },
+			{ "label": "Timer", "value": "Não especificado" },
+			{ "label": "Painel", "value": "Digital" },
+			{
+				"label": "Sistema de secagem",
+				"value": "Tombamento com controle de tempo"
+			},
+			{ "label": "Abertura", "value": "Porta frontal" },
+			{ "label": "Dimensões (A x L x P)", "value": "68 x 60 x 56,5cm" },
+			{ "label": "Peso", "value": "25kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mueller-solaris-8kg",
+		"name": "Mueller Solaris 8kg",
+		"image": "/images/posts/melhor-secadora-roupa-5.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1m3psHL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade para até 8kg",
+			"Opção de ar quente e ar frio",
+			"Timer entre 45 e 120 minutos",
+			"Função amaciante manual",
+			"Aletas reaproveitam o ar quente",
+			"Câmara em PVC transparente",
+			"Sistema Giro Fácil para dobrar junto à parede",
+			"6 varões fixos e 5 cabides removíveis",
+			"Motor com protetor térmico",
+			"Estrutura leve para instalação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade de secagem", "value": "8kg" },
+			{ "label": "Potência", "value": "1520W" },
+			{ "label": "Quantidade de programas", "value": "3" },
+			{ "label": "Timer", "value": "45 a 120 minutos" },
+			{ "label": "Painel", "value": "Botão giratório" },
+			{
+				"label": "Sistema de secagem",
+				"value": "Circulação de ar quente ou frio; Aletas para reaproveitamento do ar quente"
+			},
+			{ "label": "Abertura", "value": "Zíper" },
+			{ "label": "Dimensões (A x L x P)", "value": "105 x 62 x 57cm" },
+			{ "label": "Peso", "value": "6,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

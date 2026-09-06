@@ -1,0 +1,146 @@
+[
+	{
+		"id": "bosch-gsb-185-li-1b",
+		"name": "Bosch GSB 185 LI-1B 1900RPM",
+		"image": "/images/posts/parafusadeira-bosch-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1UsE9Dp",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor brushless durável",
+			"Função impacto",
+			"Mandril metálico",
+			"Alta rotação de 1900 RPM",
+			"Ideal para profissionais"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "18V" },
+			{ "label": "Velocidade", "value": "1900 RPM" },
+			{ "label": "Torque", "value": "50 Nm" },
+			{ "label": "Mandril", "value": "Metálico" },
+			{ "label": "Peso", "value": "1,3 kg" }
+		]
+	},
+	{
+		"id": "bosch-gsb-18v-50",
+		"name": "Bosch GSB 18V-50 1800RPM",
+		"image": "/images/posts/parafusadeira-bosch-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/19LEhxE",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor brushless",
+			"Mandril metálico",
+			"Ajuste de torque",
+			"Duas velocidades",
+			"Ótima para uso constante"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "18V" },
+			{ "label": "Velocidade", "value": "1800 RPM" },
+			{ "label": "Torque", "value": "50 Nm" },
+			{ "label": "Mandril", "value": "13mm" }
+		]
+	},
+	{
+		"id": "bosch-gsr-7-14",
+		"name": "Bosch GSR 7-14 1400RPM",
+		"image": "/images/posts/parafusadeira-bosch-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/13F4sQB",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo mais vendido",
+			"Cabo longo de 4 metros",
+			"Controle de torque",
+			"Preço acessível",
+			"Bom para uso contínuo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Velocidade", "value": "1400 RPM" },
+			{ "label": "Mandril", "value": "10mm" }
+		]
+	},
+	{
+		"id": "bosch-gsr-1000",
+		"name": "Bosch GSR 1000 700RPM",
+		"image": "/images/posts/parafusadeira-bosch-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2vPdB8a",
+		"shopeeUrl": null,
+		"advantages": [
+			"Compacta e leve",
+			"Bateria de longa duração",
+			"Luz LED integrada",
+			"Ideal para montagens",
+			"Bom e barato"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "12V" },
+			{ "label": "Velocidade", "value": "700 RPM" },
+			{ "label": "Torque", "value": "15 Nm" },
+			{ "label": "Peso", "value": "900g" }
+		]
+	},
+	{
+		"id": "bosch-gsb-120-li",
+		"name": "Bosch GSB 120-LI 1500RPM",
+		"image": "/images/posts/parafusadeira-bosch-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1u9Bpqj",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função impacto",
+			"Leve e compacta",
+			"Bom custo-benefício",
+			"Duas velocidades",
+			"Versátil para vários materiais"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "12V" },
+			{ "label": "Velocidade", "value": "1500 RPM" },
+			{ "label": "Torque", "value": "30 Nm" }
+		]
+	},
+	{
+		"id": "bosch-gsb-18v-90c",
+		"name": "Bosch GSB 18V-90C 2100RPM",
+		"image": "/images/posts/parafusadeira-bosch-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1S46nvP",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor brushless",
+			"Mandril metálico",
+			"KickBack Control",
+			"Alta potência",
+			"Indicada para uso profissional"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "18V" },
+			{ "label": "Velocidade", "value": "2100 RPM" },
+			{ "label": "Torque", "value": "90 Nm" }
+		]
+	},
+	{
+		"id": "bosch-gsb-12v-30",
+		"name": "Bosch GSB 12V-30 1600RPM",
+		"image": "/images/posts/parafusadeira-bosch-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor brushless",
+			"Muito leve (810g)",
+			"Compacta",
+			"Proteção ECP da bateria",
+			"Boa para trabalhos leves"
+		],
+		"technicalDetails": [
+			{ "label": "Voltagem", "value": "12V" },
+			{ "label": "Velocidade", "value": "1600 RPM" },
+			{ "label": "Torque", "value": "30 Nm" }
+		]
+	}
+]

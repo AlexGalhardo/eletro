@@ -1,0 +1,170 @@
+[
+	{
+		"id": "amvox-acl-9022-230w-3-em-1",
+		"name": "Amvox ACL 9022 230W (3 em 1)",
+		"image": "/images/posts/melhor-climatizador-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/31CSCfj",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potente para até 40m², ideal para salas ou quartos grandes",
+			"Reservatório com capacidade de 90 litros",
+			"3 em 1: climatiza, umidifica e ventila",
+			"Filtro removível e lavável com aletas móveis",
+			"Inclui 2 caixas de gel e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "90 litros" },
+			{ "label": "Modos", "value": "Climatização, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "90W" },
+			{ "label": "Dimensões (AxLxP)", "value": "118 x 65 x 43cm" },
+			{ "label": "Peso", "value": "19,85kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philco-pcl10qf-5-em-1",
+		"name": "Philco PCL10QF (5 em 1)",
+		"image": "/images/posts/melhor-climatizador-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PditKZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funções de climatizar, aquecer, umidificar, resfriar e ventilar",
+			"2 níveis de aquecimento e 3 velocidades de ventilação",
+			"Timer de até 7 horas com mostrador touch",
+			"Controle remoto para ajustes à distância",
+			"Sistema de filtro colmeia para melhor qualidade do ar"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "5 litros" },
+			{ "label": "Modos", "value": "Climatização, aquecimento, umidificação, resfriação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "Não especificado" },
+			{ "label": "Dimensões (AxLxP)", "value": "66,5 x 28,5 x 25,4cm" },
+			{ "label": "Peso", "value": "5,75kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wap-air-fresh-90w-4-em-1",
+		"name": "WAP Air Fresh 90W (4 em 1)",
+		"image": "/images/posts/melhor-climatizador-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1w9c515",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estilo torre com 4 funções: climatiza, ventila, perfuma e umidifica",
+			"Funcionamento silencioso com controle intuitivo",
+			"Cobre uma área de até 20m²",
+			"Sistema de oscilação e compartimento para essência",
+			"Acompanha 2 bolsas de gel e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Modos", "value": "Climatização, ventilação, aromatização e umidificação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "90W" },
+			{ "label": "Dimensões (AxLxP)", "value": "98 x 29 x 29cm" },
+			{ "label": "Peso", "value": "6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-akaf1-60w-3-em-1",
+		"name": "Midea AKAF1 60W (3 em 1)",
+		"image": "/images/posts/melhor-climatizador-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/24VeeQx",
+		"shopeeUrl": null,
+		"advantages": [
+			"3 modos de ventilação: dormir, normal e eco",
+			"Timer de 7 horas com 3 níveis de filtragem",
+			"Filtro colmeia e persianas ajustáveis",
+			"Acompanha controle remoto e 2 bolsas de gel",
+			"Funcionamento silencioso e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "4,5 litros" },
+			{ "label": "Modos", "value": "Umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "60W" },
+			{ "label": "Dimensões (AxLxP)", "value": "67,5 x 27,5 x 26cm" },
+			{ "label": "Peso", "value": "6,1kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wap-clima-control-digital-100w-3-em-1",
+		"name": "WAP Clima Control Digital 100W (3 em 1)",
+		"image": "/images/posts/melhor-climatizador-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1q7tzKy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funções climatizar, ventilar e umidificar",
+			"Timer inteligente de 12 horas",
+			"Reservatório duplo com 2 blocos de congelamento",
+			"Oscilação vertical automática e aletas horizontais reguláveis",
+			"Rodinhas e pegador para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "8,5 litros" },
+			{ "label": "Modos", "value": "Climatização, ventilação e umidificação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "100W" },
+			{ "label": "Dimensões (AxLxP)", "value": "62,5 x 28,7 x 32,8cm" },
+			{ "label": "Peso", "value": "4,92kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "ventisol-clin60-pro-150w-3-em-1",
+		"name": "Ventisol CLIN60 PRO 150W (3 em 1)",
+		"image": "/images/posts/melhor-climatizador-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 3 em 1: climatiza, umidifica e ventila",
+			"Abastecimento pela tampa superior e pelas laterais",
+			"Bomba com desligamento automático em caso de falta de água",
+			"Sistema evaporativo em colmeia",
+			"Garantia de 1 ano contra defeitos de fabricação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "35 litros ou 60 litros" },
+			{ "label": "Modos", "value": "Climatização, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Dimensões (AxLxP)", "value": "104,5 x 35,5 x 50cm" },
+			{ "label": "Peso", "value": "12kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-ecl300m-180w-4-em-1",
+		"name": "Eos ECL300M 180W (4 em 1)",
+		"image": "/images/posts/melhor-climatizador-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2xg27WF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funcionamento 4 em 1: ventila, umidifica, filtra e resfria",
+			"Sistema auto-fill para abastecimento direto pela rede hidráulica",
+			"Oscilação vertical e horizontal",
+			"Modo turbo com baixo nível de ruído",
+			"Rodas para facilitar o transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "30 litros" },
+			{ "label": "Modos", "value": "Ventilação, umidificação, filtragem e resfriamento" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Dimensões (AxLxP)", "value": "83 x 54 x 37cm" },
+			{ "label": "Peso", "value": "10kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"id": "electrolux-gt20i-1800w",
+		"name": "Electrolux GT20i 1800W",
+		"image": "/images/posts/aspirador-po-agua-1.jpg",
+		"category": "limpeza",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2bRCUK2",
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril em inox com capacidade total de 20 litros",
+			"Potência de 1800W para limpezas pesadas",
+			"Aspira líquidos e sólidos",
+			"Controle de sucção ajustável",
+			"Função sopro para folhas, infláveis e pequenas sujeiras",
+			"Sistema duplo de filtragem com filtro de espuma e saco coletor",
+			"Tecnologia TermoControl protege o motor contra superaquecimento",
+			"Acompanha tubos extensores e bocais para diferentes superfícies",
+			"Porta-acessórios integrado",
+			"Cabo elétrico de 3,5 metros",
+			"Suporte organizador para o cabo",
+			"Alça ergonômica e rodas com giro 360°"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "20 litros" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Tipo de filtro", "value": "duplo (filtro de espuma e saco coletor)" },
+			{ "label": "Comprimento do cabo", "value": "3,5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 tubos extensores; saco coletor descartável; bocal para cantos e frestas; bocal para pisos com cerdas"
+			},
+			{ "label": "Nível de ruído", "value": "84dB" },
+			{ "label": "Peso", "value": "4,4kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wap-gtw-inox-15-1700w",
+		"name": "WAP GTW INOX 15 1700W",
+		"image": "/images/posts/aspirador-po-agua-2.jpg",
+		"category": "limpeza",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16USRzm",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aspira sólidos, líquidos e sujeiras úmidas",
+			"Potência de 1700W",
+			"Reservatório em aço inox resistente",
+			"Função sopro para folhas, infláveis e churrasqueiras",
+			"Capacidade útil de 9,1L para sólidos e 6,5L para líquidos",
+			"Alcance total de até 6 metros",
+			"Filtros laváveis para pó e líquidos",
+			"Porta-acessórios integrado",
+			"Enrolador de cabo elétrico",
+			"Alça ergonômica e rodas para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{
+				"label": "Capacidade do reservatório",
+				"value": "6,5 litros (líquidos) / 9,1 litros (pó)"
+			},
+			{ "label": "Potência", "value": "1700W" },
+			{ "label": "Tipo de filtro", "value": "espuma e tecido laváveis" },
+			{ "label": "Comprimento do cabo", "value": "2,5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 extensores retos; bico curvo; bico múltiplo; bico canto e escova"
+			},
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "3,4kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wap-gtw-10-1400w",
+		"name": "WAP GTW 7 1400W",
+		"image": "/images/posts/aspirador-po-agua-3.jpg",
+		"category": "limpeza",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1sxu58s",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 7 litros",
+			"Potência de 1400W",
+			"Capacidade útil de 7L para sólidos e 3,4L para líquidos",
+			"Função sopro",
+			"Regulagem de sucção",
+			"Filtro de tecido lavável",
+			"Filtro de espuma para líquidos",
+			"Boia de proteção do motor",
+			"Acompanha tubos extensores e diversos bocais",
+			"Porta-acessórios integrado",
+			"Alça ergonômica com rodas",
+			"Design compacto e fácil de guardar"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{
+				"label": "Capacidade do reservatório",
+				"value": "7 litros (líquidos) / 3,4 litros (pó)"
+			},
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "espuma e pano laváveis" },
+			{ "label": "Comprimento do cabo", "value": "2 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico canto e escova; 3 extensores; bico múltiplo; filtro de espuma e pano"
+			},
+			{ "label": "Nível de ruído", "value": "92dB (127V) / 96dB (220V)" },
+			{ "label": "Peso", "value": "3kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-aqp20-1400w",
+		"name": "Electrolux AQP20 1400W",
+		"image": "/images/posts/aspirador-po-agua-4.jpg",
+		"category": "limpeza",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2ecw8Cy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 1400W",
+			"Reservatório de 11 litros",
+			"Alcance total de 6,2 metros",
+			"Função sopro",
+			"Sistema de tripla filtragem",
+			"Saco coletor incluso",
+			"Interrupção inteligente da sucção quando o reservatório enche",
+			"Rodas com giro 360°",
+			"Suporte para enrolar o cabo",
+			"Acompanha tubos prolongadores e três bocais"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "11 litros" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "saco coletor descartável e microfibra" },
+			{ "label": "Comprimento do cabo", "value": "3,4 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 tubos prolongadores; bocal para pisos; bocal para estofados; bocal para cantos e frestas"
+			},
+			{ "label": "Nível de ruído", "value": "91dB (127V) / 94dB (220V)" },
+			{ "label": "Peso", "value": "3,6kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "black-decker-apb3600-3-6v",
+		"name": "Black+Decker APB3600 3,6V",
+		"image": "/images/posts/aspirador-po-agua-5.jpg",
+		"category": "limpeza",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Gxa6r3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aspirador portátil para sólidos e líquidos",
+			"Bateria de lítio 3,6V",
+			"Consumo de apenas 5,4Wh",
+			"Reservatório de 370mL",
+			"Botão pulsar para acionamento rápido",
+			"Carregador bivolt automático",
+			"Suporte de carregamento com fixação na parede",
+			"Filtro e reservatório laváveis",
+			"Escova para pelos em estofados e cortinas",
+			"Estrutura leve e portátil",
+			"Ideal para carros, sofás e pequenas limpezas",
+			"Garantia de 2 anos"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "portátil" },
+			{ "label": "Capacidade do reservatório", "value": "370mL" },
+			{ "label": "Potência", "value": "3,6V" },
+			{ "label": "Tipo de filtro", "value": "não especificado" },
+			{ "label": "Comprimento do cabo", "value": "—" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para líquidos; bocal estreito; escova para pelos de estofados e cortinas"
+			},
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "não especificado" },
+			{ "label": "Alimentação", "value": "bivolt" }
+		]
+	}
+]

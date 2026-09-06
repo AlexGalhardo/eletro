@@ -1,0 +1,111 @@
+[
+	{
+		"id": "electrolux-erc20-35l-700w",
+		"name": "Electrolux ERC20 3,5L 700W",
+		"image": "/images/posts/panela-arroz-eletrico-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2kNbdXF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 3,5 litros, ideal para famílias grandes",
+			"Potência de 700W para cozimento rápido e uniforme",
+			"Acompanha bandeja para cozimento no vapor"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "700W" },
+			{ "label": "Capacidade", "value": "3,5L" },
+			{ "label": "Recurso extra", "value": "Bandeja para cozimento no vapor" }
+		]
+	},
+	{
+		"id": "electrolux-erc10-2l-350w",
+		"name": "Electrolux ERC10 2L 350W",
+		"image": "/images/posts/panela-arroz-eletrico-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2AV7AXt",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 2 em 1: prepara arroz e cozinha legumes no vapor",
+			"Capacidade para até 6 xícaras de arroz por vez",
+			"Baixo consumo de energia, com apenas 350W"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "350W" },
+			{ "label": "Capacidade", "value": "2L" },
+			{ "label": "Rendimento", "value": "Até 6 xícaras de arroz" }
+		]
+	},
+	{
+		"id": "britania-bpa5bi-12l-400w",
+		"name": "Britânia BPA5BI 1,2L 400W",
+		"image": "/images/posts/panela-arroz-eletrico-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1QGSCvu",
+		"shopeeUrl": null,
+		"advantages": [
+			"Revestimento antiaderente resistente a desgaste e corrosão",
+			"Desligamento automático",
+			"Cozimento no vapor incluso"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Capacidade", "value": "1,2L" },
+			{ "label": "Revestimento", "value": "Antiaderente" }
+		]
+	},
+	{
+		"id": "oster-facile-600ml-350w",
+		"name": "Oster Facile 600ml 350W",
+		"image": "/images/posts/panela-arroz-eletrico-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2wfWdXr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design compacto, ideal para cozinhas pequenas",
+			"Cozinha legumes no vapor simultaneamente ao arroz",
+			"Prepara até 3 xícaras de arroz por vez"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "350W" },
+			{ "label": "Capacidade", "value": "600ml" },
+			{ "label": "Rendimento", "value": "Até 3 xícaras de arroz" }
+		]
+	},
+	{
+		"id": "elgin-1l-400w",
+		"name": "Elgin 1L 400W",
+		"image": "/images/posts/panela-arroz-eletrico-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17NBDnV",
+		"shopeeUrl": null,
+		"advantages": [
+			"Baixo consumo de energia, ideal para casais",
+			"Volume compacto de 1 litro",
+			"Acompanha bandeja para cozimento no vapor"
+		],
+		"technicalDetails": [{ "label": "Potência", "value": "400W" }, { "label": "Capacidade", "value": "1L" }]
+	},
+	{
+		"id": "electrolux-rcb50-13l-500w",
+		"name": "Electrolux RCB50 1,3L 500W",
+		"image": "/images/posts/panela-arroz-eletrico-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2cwZ1rZ",
+		"shopeeUrl": null,
+		"advantages": ["Design moderno com tampa de vidro resistente", "Acompanha grelha, copo medidor e espátula"],
+		"technicalDetails": [{ "label": "Potência", "value": "500W" }, { "label": "Capacidade", "value": "1,3L" }]
+	},
+	{
+		"id": "mondial-pe-46-10x-24l-700w",
+		"name": "Mondial PE-46-10X 2,4L 700W",
+		"image": "/images/posts/panela-arroz-eletrico-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21y5Y5S",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 700W, ideal para o preparo de diversos pratos",
+			"Acompanha livro de receitas incluso na caixa"
+		],
+		"technicalDetails": [{ "label": "Potência", "value": "700W" }, { "label": "Capacidade", "value": "2,4L" }]
+	}
+]

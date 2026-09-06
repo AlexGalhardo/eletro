@@ -1,0 +1,176 @@
+[
+	{
+		"id": "philips-walita-ais6020",
+		"name": "Philips Walita AIS6020 3 em 1",
+		"image": "/images/posts/ferro-passar-philips-walita-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/324v9hX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 3 em 1 reúne ferro, vaporizador e tábua integrada",
+			"Tecnologia OptimalTEMP evita queimaduras nos tecidos",
+			"Sistema Smart Calc-Clean para limpeza e controle de calcário",
+			"Vapor intenso elimina amassados e até 99,9% de bactérias e ácaros dos tecidos",
+			"Tábua inclinável com rodas integradas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1600W" },
+			{ "label": "Capacidade do reservatório", "value": "1,1 litro" },
+			{ "label": "Base", "value": "cerâmica" },
+			{ "label": "Vapor contínuo", "value": "45g/min" },
+			{ "label": "Tempo de aquecimento", "value": "80s" },
+			{ "label": "Comprimento do cabo", "value": "1,8 metro" },
+			{ "label": "Peso", "value": "9,07kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-psg6026",
+		"name": "Philips Walita PSG6026",
+		"image": "/images/posts/ferro-passar-philips-walita-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2UaTsRi",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia OptimalTEMP dispensa ajuste de temperatura e evita queimar os tecidos",
+			"Vapor forte e contínuo de até 130g/min para remover vincos difíceis",
+			"Pode ser usado diretamente em roupas penduradas graças ao vapor vertical",
+			"Reservatório removível com capacidade de 1,8 litro",
+			"Base SteamGlide Plus para deslizamento suave"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1800W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "1,8 litro" },
+			{ "label": "Base", "value": "cerâmica SteamGlide Plus" },
+			{ "label": "Vapor contínuo", "value": "90g/min (127V) / 130g/min (220V)" },
+			{ "label": "Autonomia", "value": "até 1h30 de uso contínuo" },
+			{ "label": "Comprimento do cabo", "value": "1,65 metro" },
+			{ "label": "Peso", "value": "3,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-dst5040",
+		"name": "Philips Walita DST5040",
+		"image": "/images/posts/ferro-passar-philips-walita-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1usZ921",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base de cerâmica SteamGlide Plus com deslizamento suave e resistente a arranhões",
+			"Desligamento automático após inatividade (30s na horizontal, 8min na vertical)",
+			"Modo Eco reduz o consumo de energia em até 20%",
+			"Função Calc-Clean remove acúmulo de cálcio e impurezas",
+			"Sistema corta-pingos evita manchas nas roupas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1470W" },
+			{ "label": "Capacidade do reservatório", "value": "320mL" },
+			{ "label": "Base", "value": "cerâmica SteamGlide Plus" },
+			{ "label": "Vapor contínuo", "value": "45g/min" },
+			{ "label": "Comprimento do cabo", "value": "2 metros" },
+			{ "label": "Peso", "value": "1,45kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-dst5030",
+		"name": "Philips Walita DST5030",
+		"image": "/images/posts/ferro-passar-philips-walita-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/25XC8Xe",
+		"shopeeUrl": null,
+		"advantages": [
+			"Longa durabilidade com base de cerâmica SteamGlide Plus",
+			"Sistema corta-pingos evita manchas de água",
+			"Vapor vertical para peças no cabide e cortinas",
+			"Desligamento automático após período sem uso",
+			"Modo Eco com economia de até 20% de energia"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1400W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "320mL" },
+			{ "label": "Base", "value": "cerâmica SteamGlide Plus" },
+			{ "label": "Comprimento do cabo", "value": "2 metros" },
+			{ "label": "Peso", "value": "1,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-dst3010",
+		"name": "Philips Walita DST3010",
+		"image": "/images/posts/ferro-passar-philips-walita-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Q6BFvN",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aquecimento rápido com potência de 1400W (127V)",
+			"Vapor de até 140g remove vincos mais difíceis",
+			"Base de cerâmica resistente a arranhões",
+			"Passa roupas no cabide graças ao vapor vertical",
+			"Ponta de alta precisão para áreas próximas a botões"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1400W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "300mL" },
+			{ "label": "Base", "value": "cerâmica" },
+			{ "label": "Comprimento do cabo", "value": "1,9 metro" },
+			{ "label": "Peso", "value": "1,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-dst2020",
+		"name": "Philips Walita DST2020",
+		"image": "/images/posts/ferro-passar-philips-walita-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/12boamb",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 2000W",
+			"Pronto para uso em aproximadamente 30 segundos",
+			"Quatro níveis de ajuste de vapor",
+			"Jato de vapor de até 110g para vincos difíceis",
+			"Sistema corta-pingos integrado"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1400W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "250mL" },
+			{ "label": "Base", "value": "cerâmica" },
+			{ "label": "Vapor contínuo", "value": "25g/min" },
+			{ "label": "Comprimento do cabo", "value": "1,9 metro" },
+			{ "label": "Peso", "value": "1,15kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-gc6842",
+		"name": "Philips Walita GC6842",
+		"image": "/images/posts/ferro-passar-philips-walita-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2RdgsHL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia OptimalTEMP dispensa ajuste de temperatura",
+			"Vapor extra de até 360g remove vincos rapidamente",
+			"Reservatório com capacidade de 1,3 litro",
+			"Desligamento automático para maior segurança",
+			"Trava de segurança facilita transporte e armazenamento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Capacidade do reservatório", "value": "1,3 litro" },
+			{ "label": "Base", "value": "cerâmica" },
+			{ "label": "Comprimento do cabo", "value": "1,65 metro" },
+			{ "label": "Peso", "value": "2,9kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

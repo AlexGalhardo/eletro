@@ -1,0 +1,206 @@
+[
+	{
+		"id": "electrolux-erg26-vertical-sem-fio",
+		"name": "Electrolux ERG26 (vertical sem fio)",
+		"image": "/images/posts/aspirador-po-electrolux-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2ef7g8R",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 2 em 1 permite usar como aspirador vertical ou de mão",
+			"Bateria de Lithium com até 45 minutos de autonomia na potência mínima",
+			"Bocal Pet Care remove pelos de animais em estofados e pisos",
+			"Tecnologia Cyclonic evita obstruções e mantém a sucção constante",
+			"Filtro HEPA e iluminação frontal de LED para cantos escuros"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "420ml" },
+			{ "label": "Potência", "value": "não especificado" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "—" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal Pet; base para carregamento; bocal para cantos e frestas com escova"
+			},
+			{ "label": "Nível de ruído", "value": "80dB" },
+			{ "label": "Peso", "value": "3,6kg" },
+			{ "label": "Alimentação", "value": "bateria recarregável bivolt" }
+		]
+	},
+	{
+		"id": "electrolux-eas30-1600w-convencional",
+		"name": "Electrolux EAS30 1600W (convencional)",
+		"image": "/images/posts/aspirador-po-electrolux-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2BCS9rr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance total de 5,5 metros (cabo + aspirador + mangueira + tubo + bocal)",
+			"Potência de 1600W com filtro HEPA duplo que retém até 99,9% das impurezas",
+			"Tecnologias Cyclone e Double Step otimizam o desempenho de limpeza",
+			"Enrolador automático de cabo facilita o armazenamento",
+			"Tubo retrátil metálico ajustável para diferentes alturas"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "1,8 litro" },
+			{ "label": "Potência", "value": "1600W" },
+			{ "label": "Tipo de filtro", "value": "HEPA duplo (entrada e saída de ar)" },
+			{ "label": "Comprimento do cabo", "value": "3 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo prolongador telescópico metálico; bocal para pisos com regulagem; bocal para estofados; bocal para cantos e frestas"
+			},
+			{ "label": "Nível de ruído", "value": "81dB (127V) / 82dB (220V)" },
+			{ "label": "Peso", "value": "6,27kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-stk15-1450w-vertical-com-fio",
+		"name": "Electrolux STK15 1450W (vertical com fio)",
+		"image": "/images/posts/aspirador-po-electrolux-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1r5ZMrL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 2 em 1 permite uso como aspirador vertical ou de mão",
+			"Potência de 1450W, desempenho 2x mais forte que o modelo STK10",
+			"Reservatório de 1,6L e filtro HEPA Allergy Protect",
+			"Bocal 180° para pisos e bocal UltraClean 2 em 1 para cantos e frestas",
+			"Função de estacionamento vertical e tecnologia bagless"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,6 litro" },
+			{ "label": "Potência", "value": "1450W" },
+			{ "label": "Tipo de filtro", "value": "HEPA Allergy Protect" },
+			{ "label": "Comprimento do cabo", "value": "6 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para pisos; bocal UltraClean 2 em 1 para cantos, frestas e estofados"
+			},
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "1,91kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-aqp20-1400w-convencional",
+		"name": "Electrolux AQP20 1400W (convencional)",
+		"image": "/images/posts/aspirador-po-electrolux-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Cx2EaH",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aspira sólidos e líquidos com motor de 1400W",
+			"Capacidade útil de 11 litros",
+			"Função sopro facilita secagem em locais de difícil acesso",
+			"Alcance total de 6,2 metros de comprimento",
+			"Design leve (3,6kg) facilita o transporte e o manuseio"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "11 litros" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "saco coletor descartável" },
+			{ "label": "Comprimento do cabo", "value": "3,4 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 tubos prolongadores; bocal para pisos; bocal para estofados; bocal para cantos e frestas"
+			},
+			{ "label": "Nível de ruído", "value": "91dB (127V) / 94dB (220V)" },
+			{ "label": "Peso", "value": "3,6kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-awd01-1400w-convencional",
+		"name": "Electrolux AWD01 1400W (convencional)",
+		"image": "/images/posts/aspirador-po-electrolux-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/25QxfvZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aspira pó e líquidos, incluindo lama",
+			"Função sopro útil para inflar objetos e secar superfícies",
+			"Capacidade de 5 litros para líquidos e 3 litros para sólidos",
+			"Rodas 360° proporcionam mobilidade durante o uso",
+			"Design compacto e leve (3,4kg), fácil de transportar"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "5 litros (líquidos) / 3 litros (sólidos)" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "espuma" },
+			{ "label": "Comprimento do cabo", "value": "3,4 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos e líquidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 tubos prolongadores; bocal para pisos; bocal para estofados; bocal para cantos e frestas"
+			},
+			{ "label": "Nível de ruído", "value": "94dB (127V) ou 95dB (220V)" },
+			{ "label": "Peso", "value": "3,4kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-stk12-1100w-vertical-com-fio",
+		"name": "Electrolux STK12 1100W (vertical com fio)",
+		"image": "/images/posts/aspirador-po-electrolux-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/33rD8Bb",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 2 em 1: aspirador vertical ou de mão",
+			"Filtro HEPA Allergy Protect ajuda a reter ácaros e fungos",
+			"Bocal 180° alcança cantos e frestas com maior precisão",
+			"Cabo elétrico longo de 5 metros de comprimento",
+			"Estacionamento vertical e tecnologia bagless"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,2 litro" },
+			{ "label": "Potência", "value": "1100W" },
+			{ "label": "Tipo de filtro", "value": "HEPA Allergy Protect" },
+			{ "label": "Comprimento do cabo", "value": "5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para pisos 180°; bocal para cantos e frestas" },
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "2kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-eqp40-1800w-convencional",
+		"name": "Electrolux EQP40 1800W (convencional)",
+		"image": "/images/posts/aspirador-po-electrolux-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1800W para limpeza profunda",
+			"Filtro HEPA com tripla filtragem elimina até 98% das impurezas",
+			"Controle de potência ajustável",
+			"Indicador de reservatório cheio alerta quando esvaziar",
+			"Enrolador automático de cabo com um toque"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "convencional" },
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Tipo de filtro", "value": "HEPA com tripla filtragem" },
+			{ "label": "Comprimento do cabo", "value": "3,5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para cantos e frestas" },
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "5,36kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,176 @@
+[
+	{
+		"id": "arno-ultimate-150w",
+		"name": "Arno Ultimate 150W",
+		"image": "/images/posts/ventilador-teto-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1vEEjXT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ideal para ambientes de até 25m²",
+			"Acompanha controle remoto com 6 velocidades",
+			"4 funções exclusivas: Dormir, Brisa, Exaustor e Timer programável de 1h a 8h",
+			"Compatível com 2 lâmpadas de até 14cm cada",
+			"Bivolt e fácil de instalar"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "260RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "105cm" },
+			{ "label": "Velocidades", "value": "6 níveis" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "Bivolt" }
+		]
+	},
+	{
+		"id": "ventisol-fenix-370-130w",
+		"name": "Ventisol Fênix 370 130W",
+		"image": "/images/posts/ventilador-teto-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2yn6PsL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ventila ambientes de até 28m² com boa eficiência energética",
+			"430 rotações por minuto",
+			"Pás leves que preservam o motor",
+			"Lustre embutido com espaço para 2 lâmpadas",
+			"Motor e haste em aço com pintura anticorrosiva"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "130W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "430RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "96cm" },
+			{ "label": "Velocidades", "value": "Variável (ventilação e exaustão)" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não possui; modelo chave de parede" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "ventisol-wind-30w",
+		"name": "Ventisol Wind 30W",
+		"image": "/images/posts/ventilador-teto-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2xXYJeY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modos ventilação e exaustão com funcionamento silencioso",
+			"Possui lustre para 2 lâmpadas de até 20W",
+			"Fácil instalação com controle remoto incluso",
+			"Timer de até 4 horas",
+			"Função Wave e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "430RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "96cm" },
+			{ "label": "Velocidades", "value": "6 níveis" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "ventilador-led-lampada-30w",
+		"name": "Ventilador LED Lâmpada 30W",
+		"image": "/images/posts/ventilador-teto-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1zBVUMo",
+		"shopeeUrl": null,
+		"advantages": [
+			"Instalação direta no bocal da lâmpada",
+			"Acompanha controle remoto e lâmpada de LED integrada",
+			"3 modos de ventilação",
+			"Luz de LED com 3 temperaturas de cor",
+			"Bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "42cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Modo reverso", "value": "Não" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "Bivolt" }
+		]
+	},
+	{
+		"id": "ventisol-aires-inverter-30w",
+		"name": "Ventisol Aires Inverter 30W",
+		"image": "/images/posts/ventilador-teto-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1HAjq1t",
+		"shopeeUrl": null,
+		"advantages": [
+			"Silencioso e até 75% mais econômico que ventiladores convencionais",
+			"Motor inverter com 420 rotações por minuto",
+			"6 velocidades e função Wave",
+			"Timer programável de até 4 horas",
+			"Bivolt com pás em design pétala"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "420RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "105cm" },
+			{ "label": "Velocidades", "value": "6" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "Bivolt" }
+		]
+	},
+	{
+		"id": "ventisol-sunny-30w",
+		"name": "Ventisol Sunny 30W",
+		"image": "/images/posts/ventilador-teto-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1DGiCFW",
+		"shopeeUrl": null,
+		"advantages": [
+			"Lustre de alto brilho com instalação simplificada",
+			"Função Wave que alterna automaticamente entre as 6 velocidades",
+			"Área de ventilação de 25m²",
+			"Motor e haste em aço tratado",
+			"Acompanha controle remoto e timer de até 4 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "30W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "400RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "90cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Sim" },
+			{ "label": "Voltagem", "value": "Bivolt" }
+		]
+	},
+	{
+		"id": "tron-solano-130w",
+		"name": "Tron Solano 130W",
+		"image": "/images/posts/ventilador-teto-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17WurQa",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design elegante com pás em tom amadeirado, ideal para estilos rústico, clássico ou contemporâneo",
+			"480 rotações por minuto",
+			"Espaço para 2 lâmpadas de LED 9W",
+			"Recomendado para ambientes de 25m²",
+			"Disponível nas cores aço escovado ou cobre"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "130W" },
+			{ "label": "Velocidade de rotação (RPM)", "value": "480RPM" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "110cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Modo reverso", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não possui; modelo chave de parede" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

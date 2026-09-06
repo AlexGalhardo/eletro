@@ -1,0 +1,204 @@
+[
+	{
+		"id": "tekna-hl30002v-2610psi-3000w",
+		"name": "Tekna HL30002V (2610psi) 3000W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oFQoAs",
+		"shopeeUrl": null,
+		"advantages": [
+			"Pressão máxima de 2610psi, suficiente para limpar veículos, pisos, calçadas e paredes",
+			"Estrutura resistente com design moderno e rodas integradas para facilitar o transporte",
+			"Sistema Auto-Stop interrompe o motor ao soltar o gatilho",
+			"Potência máxima de 3000W com motor elétrico de escova",
+			"Vazão máxima de 9,2L/min e proteção IPX5 contra jatos d'água"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "3000W" },
+			{ "label": "Pressão", "value": "2610psi" },
+			{ "label": "Vazão de água", "value": "492L/h" },
+			{ "label": "Tipo de motor", "value": "escova" },
+			{ "label": "Comprimento da mangueira", "value": "7,5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; lança regulável; conector HPC" },
+			{ "label": "Extras", "value": "rodas; sistema Auto-Stop; proteção IPX5; recipiente para detergente" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "tekna-hlx200v-2030psi-1800w",
+		"name": "Tekna HLX200V (2030psi) 1800W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PU97Nr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor universal com escovas e 1800W de potência",
+			"Pressão máxima de 14MPa (2030psi) para remoção eficiente de sujeiras pesadas",
+			"Sistema Auto-Stop interrompe o funcionamento ao soltar o gatilho",
+			"Rodas integradas e encaixe para acessórios que facilitam o uso",
+			"Grau de proteção IPX5 Classe 2 contra jatos d'água"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Pressão", "value": "2030psi" },
+			{ "label": "Vazão de água", "value": "432L/h" },
+			{ "label": "Tipo de motor", "value": "universal com escovas" },
+			{ "label": "Comprimento da mangueira", "value": "5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; lança regulável; esguicho" },
+			{
+				"label": "Extras",
+				"value": "rodas; sistema Auto-Stop; recipiente para detergente; proteção IPX5 classe 2"
+			},
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "tekna-hlx1600-1305psi-1000w",
+		"name": "Tekna HLX1600 (1305psi) 1000W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1dTMFks",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor elétrico de escovas e 1000W de potência para limpezas leves e rápidas",
+			"Sistema Auto-Stop desliga o aparelho ao soltar o gatilho",
+			"Lança com bico regulável entre jato leque e jato concentrado",
+			"Estrutura compacta, leve e com menos de 40cm de altura",
+			"Preço acessível, sendo um dos modelos mais vendidos da marca"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Pressão", "value": "1305psi" },
+			{ "label": "Vazão de água", "value": "270L/h" },
+			{ "label": "Tipo de motor", "value": "elétrico" },
+			{ "label": "Comprimento da mangueira", "value": "3 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; lança regulável; extensor" },
+			{ "label": "Extras", "value": "sistema Auto-Stop; porta mangueira e pistola" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Peso", "value": "4kg" }
+		]
+	},
+	{
+		"id": "tekna-smart-wash-tk3-2320psi-2100w",
+		"name": "Tekna Smart Wash TK3 (2320psi) 2100W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2LtuJDn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Pressão máxima de 16MPa (2320psi) para limpeza profunda",
+			"Motor elétrico de 2100W com escovas de carbono e proteção térmica",
+			"Sistema de sucção de água permite uso com reservatórios e cisternas",
+			"Vazão máxima de 5,3L/min traz economia de água",
+			"Estrutura compacta, leve e fácil de transportar"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "2100W" },
+			{ "label": "Pressão", "value": "2320psi" },
+			{ "label": "Vazão de água", "value": "318L/h" },
+			{ "label": "Tipo de motor", "value": "elétrico com escovas" },
+			{ "label": "Comprimento da mangueira", "value": "5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "não especificado" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; lança regulável" },
+			{ "label": "Extras", "value": "proteção contra superaquecimento; sistema de sucção de água; rodas" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "tekna-hlx140v-1950psi-1850w",
+		"name": "Tekna HLX140V (1950psi) 1850W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2bRrccq",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1850W com bomba em alumínio para maior durabilidade",
+			"Temperatura máxima da água de 60°C para sujeiras difíceis",
+			"Sistema Auto Stop para uso seguro e econômico",
+			"Mangueira e cabo elétrico somam 10m de comprimento",
+			"Kit inclui detergente, conector HPC e filtro de água"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1850W" },
+			{ "label": "Pressão", "value": "1885psi" },
+			{ "label": "Vazão de água", "value": "342L/h" },
+			{ "label": "Tipo de motor", "value": "não especificado" },
+			{ "label": "Comprimento da mangueira", "value": "5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; conector HPC; filtro de água" },
+			{ "label": "Extras", "value": "sistema Auto Stop; rodas; recipiente para detergente" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "47,5 x 25 x 28cm" },
+			{ "label": "Peso", "value": "7,69kg" }
+		]
+	},
+	{
+		"id": "tekna-fast-1500-hlx1001vn-1500psi-1400w",
+		"name": "Tekna Fast 1500 HLX1001VN (1500psi) 1400W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1A5Ntip",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor potente de 1400W com pressão máxima de 105bar (1500psi)",
+			"Bom rendimento de água com vazão de 6,8L/min",
+			"Dispensador de detergente incorporado",
+			"Sistema Auto Stop que desliga ao soltar o gatilho",
+			"Produto certificado pelo INMETRO, leve e compacto"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Pressão", "value": "1500psi" },
+			{ "label": "Vazão de água", "value": "408L/h" },
+			{ "label": "Tipo de motor", "value": "elétrico com escovas" },
+			{ "label": "Comprimento da mangueira", "value": "3 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "não especificado" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; lança com bico regulável; extensor de lança; engate rápido"
+			},
+			{ "label": "Extras", "value": "dispensador de detergente; sistema Auto Stop" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "40 x 18 x 23cm" },
+			{ "label": "Peso", "value": "6kg" }
+		]
+	},
+	{
+		"id": "tekna-smart-wash-tk4-pro-2320psi-2200w",
+		"name": "Tekna Smart Wash TK4 Pro (2320psi) 2200W",
+		"image": "/images/posts/lavadora-alta-pressao-tekna-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Ukn4uK",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 2200W para limpezas exigentes",
+			"Motor de indução garante funcionamento mais silencioso e maior durabilidade",
+			"Economia de água com vazão máxima de 6,4L/min",
+			"Mangueira de 6m e tanque de detergente integrado",
+			"Sistema de engate rápido para montagem ágil"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "2200W" },
+			{ "label": "Pressão", "value": "2320psi" },
+			{ "label": "Vazão de água", "value": "384L/h" },
+			{ "label": "Tipo de motor", "value": "indução" },
+			{ "label": "Comprimento da mangueira", "value": "6 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "não especificado" },
+			{ "label": "Acessórios inclusos", "value": "pistola; lança com bico regulável; engate rápido" },
+			{ "label": "Extras", "value": "tanque de detergente; rodas" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Peso", "value": "16,6kg" }
+		]
+	}
+]

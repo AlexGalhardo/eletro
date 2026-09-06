@@ -1,0 +1,7 @@
+bun run format
+
+bun run update-dates
+
+bun run create-sitemap && bun run check-mdx && bun run check-sitemap
+
+bun run format

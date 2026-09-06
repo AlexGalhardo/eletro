@@ -1,0 +1,170 @@
+[
+	{
+		"id": "midea-accm761-76-litros",
+		"name": "Midea ACCM761 (76 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2wGehDf",
+		"shopeeUrl": null,
+		"advantages": [
+			"Fluxo de ar de 2100m³/h alcança áreas maiores",
+			"Reservatório amplo de 76 litros com duplo compartimento",
+			"Inclui quatro bolsas de gel para potencializar o frescor",
+			"Oscilação automática com direcionamento horizontal e vertical",
+			"Rede de filtragem lavável e rodízios para movimentação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "76 litros" },
+			{ "label": "Modos", "value": "climatização, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "210W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "oscilação automática das aletas; direcionamento horizontal e vertical; duplo reservatório; rede de filtragem lavável; 4 caixas de gel; abastecimento superior e traseiro; indicador de nível de água; rodízios"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "116,0 x 41,5 x 62,0cm" },
+			{ "label": "Peso", "value": "15,95kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-mac500r0apw2-5-litros",
+		"name": "Midea MAC500R0APW2 (5 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/19Xt8x3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acompanha controle remoto e display digital touch",
+			"Timer programável de até 7 horas",
+			"Três modos de ventilação: dormir, normal e brisa",
+			"Reservatório removível facilita o abastecimento",
+			"Estrutura compacta com baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "5 litros" },
+			{ "label": "Modos", "value": "climatização, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "55W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "timer de até 7h; controle remoto; display digital touch; 3 modos de ventilação; oscilação automática horizontal; rede de filtragem lavável; 2 caixas de gel; reservatório removível; baixo nível de ruído"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85,1 x 22,8 x 29,4cm" },
+			{ "label": "Peso", "value": "5,68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-akaf1-4-5-litros",
+		"name": "Midea AKAF1 (4,5 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/24VeeQx",
+		"shopeeUrl": null,
+		"advantages": [
+			"Possui rodinhas para transporte e painel digital integrado",
+			"Funciona com controle remoto e timer de até 7 horas",
+			"Três modos de ventilação: normal, natural e dormir",
+			"Três níveis de filtragem do ar mais filtro colmeia",
+			"Reservatório removível e visor frontal de nível de água"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "4,5 litros" },
+			{ "label": "Modos", "value": "ventilação e umidificação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "60W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "três modos de ventilação; timer de até 7h; controle remoto; oscilação automática horizontal; painel digital; filtro colmeia; três níveis de filtragem; 2 caixas de gel; reservatório removível; rodinhas"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "67,5 x 27,5 x 26,0cm" },
+			{ "label": "Peso", "value": "6,1kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-akap2-4-5-litros",
+		"name": "Midea AKAP2 (4,5 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1iRjMK8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acabamento moderno com rodinhas com travas",
+			"Três níveis de filtragem do ar e filtro colmeia",
+			"Acompanha controle remoto e duas caixas de gel",
+			"Timer programável com até 7 horas de antecedência",
+			"Reservatório removível para fácil limpeza e abastecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "4,5 litros" },
+			{ "label": "Modos", "value": "ventilação e umidificação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "60W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "timer de até 7h; controle remoto; três modos de ventilação; oscilação automática horizontal; painel digital; filtro colmeia; três níveis de filtragem; 2 caixas de gel; reservatório removível; rodinhas; suporte para cabo"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "67,5 x 27,5 x 26,0cm" },
+			{ "label": "Peso", "value": "6,1kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-acm51-2-5-litros",
+		"name": "Midea ACM51/2 (5 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17UDHAt",
+		"shopeeUrl": null,
+		"advantages": [
+			"Oscilação vertical automática",
+			"Reservatório removível com 5 litros de capacidade",
+			"Acompanha duas caixas de gel e rede de filtragem lavável",
+			"Estrutura portátil com rodinhas e travas traseiras",
+			"Funções de ventilação, climatização e umidificação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "5 litros" },
+			{ "label": "Modos", "value": "ventilação, climatização e umidificação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "50W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "oscilação vertical automática; filtro colmeia; rede de filtragem lavável; reservatório removível; 2 caixas de gel; rodinhas com travas; baixo nível de ruído"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "71 x 26,5 x 28cm" },
+			{ "label": "Peso", "value": "6,45kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-accm342-34-5-litros",
+		"name": "Midea ACCM342 (34,5 litros)",
+		"image": "/images/posts/climatizador-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1yjiz2W",
+		"shopeeUrl": null,
+		"advantages": [
+			"Vazão de ar de 1500m³/h para ambientes amplos",
+			"Reservatório duplo de 34,5 litros no total",
+			"Painel digital intuitivo com oscilação automática das aletas",
+			"Inclui quatro caixas de gel para reforçar o frescor",
+			"Abastecimento pela tampa superior ou inferior"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade do reservatório", "value": "34,5 litros" },
+			{ "label": "Modos", "value": "climatização, umidificação e ventilação" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Potência", "value": "110W" },
+			{
+				"label": "Funções e recursos extras",
+				"value": "painel digital; oscilação automática das aletas; direcionamento horizontal e vertical; duplo reservatório; 4 caixas de gel; indicador de nível de água; rodízios; tampa superior e inferior; suporte para fixação na parede"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "101 x 34,3 x 50cm" },
+			{ "label": "Peso", "value": "10,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

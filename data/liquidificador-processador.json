@@ -1,0 +1,181 @@
+[
+	{
+		"id": "philco-pmp1600p-1700w",
+		"name": "Philco PMP1600P 1700W",
+		"image": "/images/posts/liquidificador-processador-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Zdn6uM",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1700W",
+			"Processador de 2,1 litros",
+			"Liquidificador de 3,2 litros (1,7L útil)",
+			"9 funções em 1",
+			"Espremedor de frutas",
+			"Emulsificador e batedor para massas",
+			"2 velocidades + função pulsar",
+			"Pés antiderrapantes",
+			"Trava de segurança",
+			"Peças compatíveis com lava-louças",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": [
+			"Disponível apenas em 127V ou 220V (não é bivolt)",
+			"Preço elevado",
+			"Não acompanha filtro para o liquidificador"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1700W" },
+			{ "label": "Capacidade", "value": "2,1L (processador); 3,2L (liquidificador)" },
+			{ "label": "Velocidades", "value": "2 + função pulsar" },
+			{
+				"label": "Funções",
+				"value": "processar, ralar, cortar, misturar, fatiar, espremer, emulsificar, picar e liquidificar"
+			},
+			{ "label": "Tipo de jarra", "value": "plástico AS" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "45,5 x 29 x 27,5cm" },
+			{ "label": "Peso", "value": "4,02kg" }
+		]
+	},
+	{
+		"id": "philips-walita-ri7301-91-750w",
+		"name": "Philips Walita PowerChop RI7301/91 750W",
+		"image": "/images/posts/liquidificador-processador-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1dCecGT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia PowerChop",
+			"Compacto",
+			"Jarras de 1,5 litro",
+			"2 velocidades + pulsar",
+			"Tampa medidora",
+			"Base antiderrapante",
+			"Peças laváveis em lava-louças",
+			"Trava de segurança",
+			"Discos para ralar e fatiar",
+			"Garantia de 2 anos"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Capacidade", "value": "1,5L (processador); 1,5L (liquidificador)" },
+			{ "label": "Velocidades", "value": "2 + função pulsar" },
+			{ "label": "Funções", "value": "processar, liquidificar, ralar e fatiar" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "39,3 x 19,4 x 21,2cm" },
+			{ "label": "Peso", "value": "1,82kg" }
+		]
+	},
+	{
+		"id": "mondial-mpn-01-be-1000w",
+		"name": "Mondial Turbo Chef MPN-01-BE 1000W",
+		"image": "/images/posts/liquidificador-processador-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/32NPGwo",
+		"shopeeUrl": null,
+		"advantages": [
+			"Filtro para sucos",
+			"Função turbo",
+			"Liquidificador de 3 litros",
+			"Processador de 3,2 litros",
+			"Potência de 1000W",
+			"Espremedor de frutas",
+			"Bocal alimentador",
+			"Pés antiderrapantes",
+			"Trava de segurança",
+			"Lâminas em aço inox",
+			"Peças removíveis",
+			"Cabo de 1,5 metro",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Capacidade", "value": "3,2L (processador); 3L (liquidificador)" },
+			{ "label": "Velocidades", "value": "2 + turbo" },
+			{ "label": "Funções", "value": "processar, misturar, ralar, picar, fatiar, triturar e liquidificar" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "40 x 27,5 x 26cm" },
+			{ "label": "Peso", "value": "2,3kg" }
+		]
+	},
+	{
+		"id": "britania-bmp2000-1300w",
+		"name": "Britânia BMP2000 1300W",
+		"image": "/images/posts/liquidificador-processador-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Rpb19d",
+		"shopeeUrl": null,
+		"advantages": [
+			"5 funções em 1",
+			"Lâminas Maxx Supreme",
+			"Potência de 1300W",
+			"Processador de 2,1 litros",
+			"Liquidificador de 3 litros",
+			"Espremedor de frutas",
+			"2 velocidades + pulsar",
+			"Pés antiderrapantes",
+			"Trava de segurança",
+			"Peças compatíveis com lava-louças",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Peso elevado"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Capacidade", "value": "2,1L (processador); 3L (liquidificador)" },
+			{ "label": "Velocidades", "value": "2 + função pulsar" },
+			{ "label": "Funções", "value": "processar, ralar, cortar, fatiar, espremer, picar e liquidificar" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "43,8 x 28,2 x 25cm" },
+			{ "label": "Peso", "value": "3,49kg" }
+		]
+	},
+	{
+		"id": "philco-pmp10a-1000w",
+		"name": "Philco PMP10A 1000W",
+		"image": "/images/posts/liquidificador-processador-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2xptByq",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema Microstore",
+			"Espremedor de frutas",
+			"Lâminas em aço inox",
+			"Liquidificador de 2,2 litros",
+			"Peças laváveis em lava-louças",
+			"2 velocidades + pulsar",
+			"Pés antiderrapantes",
+			"Potência de 1000W",
+			"Trava de segurança",
+			"Proteção contra superaquecimento",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Processador de apenas 1,25 litro"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Capacidade", "value": "1,25L (processador); 2,2L (liquidificador)" },
+			{ "label": "Velocidades", "value": "2 + função pulsar" },
+			{
+				"label": "Funções",
+				"value": "processar, picar, misturar, cortar, ralar, fatiar, espremer e liquidificar"
+			},
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "43,7 x 27,2 x 22,5cm" },
+			{ "label": "Peso", "value": "2,65kg" }
+		]
+	}
+]

@@ -1,0 +1,169 @@
+[
+	{
+		"id": "exposis-casa-repelente-liquido",
+		"name": "Exposis Casa Repelente Líquido",
+		"image": "/images/posts/repelente-eletrico-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1bVFLZ3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Proteção contínua contra mosquitos por até 24 dias",
+			"Funcionamento sem fragrância, mais confortável no ambiente",
+			"Potência ajustável conforme o tamanho do cômodo",
+			"Acompanha refil de 32,9ml",
+			"Produto bivolt, auxilia na prevenção contra dengue, zika e chikungunya"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "líquido" },
+			{ "label": "Volume do refil", "value": "32,9mL" },
+			{ "label": "Duração do refil", "value": "24 noites" },
+			{ "label": "Controle de intensidade", "value": "sim" },
+			{ "label": "Indicador de funcionamento", "value": "não especificado" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "32,5g" }
+		]
+	},
+	{
+		"id": "raid-family-45-noites",
+		"name": "Raid Family 45 Noites",
+		"image": "/images/posts/repelente-eletrico-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2KDXr4i",
+		"shopeeUrl": null,
+		"advantages": [
+			"Refil líquido de fácil encaixe",
+			"Proteção contínua por até 45 noites contra mosquitos",
+			"Funcionamento silencioso e sem odor, com luz suave indicativa",
+			"Seguro para bebês acima de 6 meses em ambientes internos",
+			"Protege contra dengue, zika e chikungunya"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "líquido" },
+			{ "label": "Volume do refil", "value": "32,9mL" },
+			{ "label": "Duração do refil", "value": "45 noites" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "luz LED" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "32,9g" }
+		]
+	},
+	{
+		"id": "sbp-repelente-liquido-45-noites",
+		"name": "SBP Repelente Líquido 45 Noites",
+		"image": "/images/posts/repelente-eletrico-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/24CLmkz",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acompanha refil líquido com funcionamento bivolt 127V–220V",
+			"Proteção por até 45 noites usando 8h/noite na regulagem mínima",
+			"Eficaz contra o Aedes aegypti, transmissor de dengue, zika e chikungunya",
+			"Proteção contínua e silenciosa",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "líquido" },
+			{ "label": "Volume do refil", "value": "35mL" },
+			{ "label": "Duração do refil", "value": "45 noites" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "não" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "raid-45-noites",
+		"name": "Raid 45 Noites",
+		"image": "/images/posts/repelente-eletrico-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/28S7Mgn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Proteção contínua contra mosquitos e pernilongos",
+			"Funciona por até 45 noites (8h/noite)",
+			"Indicado para quartos, salas e ambientes internos",
+			"Inclui 1 refil líquido",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "líquido" },
+			{ "label": "Volume do refil", "value": "32,9mL" },
+			{ "label": "Duração do refil", "value": "45 noites" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "não" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "sbp-45-noites-cheiro-suave-bebe",
+		"name": "SBP 45 Noites Cheiro Suave Bebê",
+		"image": "/images/posts/repelente-eletrico-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Ujqfw5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Proteção contra pernilongos e mosquitos por até 45 noites (8h/noite)",
+			"Aroma mais suave que a versão regular",
+			"Ação eficaz contra o transmissor da dengue, zika e chikungunya",
+			"Uso seguro para ambientes internos durante a noite"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "líquido" },
+			{ "label": "Volume do refil", "value": "32,9mL" },
+			{ "label": "Duração do refil", "value": "45 noites" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "não especificado" },
+			{ "label": "Voltagem", "value": "não especificado" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "raid-repelente-eletrico-pastilha",
+		"name": "Raid Repelente Elétrico Pastilha",
+		"image": "/images/posts/repelente-eletrico-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acompanha 4 refis em pastilha",
+			"Versões disponíveis: regular, eucalipto e citronela",
+			"Funcionamento bivolt (110V–240V)",
+			"Fácil substituição do refil",
+			"Ideal para uso temporário, como em viagens"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "pastilha" },
+			{ "label": "Volume do refil", "value": "4 refis" },
+			{ "label": "Duração do refil", "value": "1 noite" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "não especificado" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "pest-repeller",
+		"name": "Pest Repeller",
+		"image": "/images/posts/repelente-eletrico-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2QXsApC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Kit com 3 unidades e cobertura de até 60m² por aparelho",
+			"Tecnologia ultrassônica imperceptível para pessoas e pets",
+			"Funcionamento contínuo sem odores",
+			"Operação bivolt 127V–220V com luz indicadora",
+			"Consumo ultrabaixo mesmo ligado 24h por dia"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "ultrassônico" },
+			{ "label": "Volume do refil", "value": "—" },
+			{ "label": "Duração do refil", "value": "—" },
+			{ "label": "Controle de intensidade", "value": "não especificado" },
+			{ "label": "Indicador de funcionamento", "value": "luz LED" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "não especificado" }
+		]
+	}
+]

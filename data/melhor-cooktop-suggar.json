@@ -1,0 +1,179 @@
+[
+	{
+		"id": "suggar-fg4002vc-inducao-4-bocas",
+		"name": "Suggar FG4002VC (indução) 4 bocas",
+		"image": "/images/posts/cooktop-suggar-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/195Kwd1",
+		"shopeeUrl": null,
+		"advantages": [
+			"FlexZone reúne duas áreas de aquecimento para recipientes grandes",
+			"Preparo mais rápido com a Função Turbo",
+			"Controle do aquecimento em 9 níveis de potência",
+			"Detecção automática da panela",
+			"Superfície vitrocerâmica selada que simplifica a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "7000W" },
+			{ "label": "Número de bocas", "value": "4" },
+			{ "label": "Material da mesa", "value": "Vitrocerâmica" },
+			{ "label": "Controle de temperatura", "value": "Painel touch (9 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "5,6 x 59 x 52cm" },
+			{ "label": "Peso", "value": "8,9kg" },
+			{ "label": "Voltagem", "value": "220V" }
+		]
+	},
+	{
+		"id": "suggar-fg0422vc-inducao-4-bocas",
+		"name": "Suggar FG0422VC (indução) 4 bocas",
+		"image": "/images/posts/cooktop-suggar-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/11KMTEn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Preparo rápido com a função Turbo",
+			"9 níveis de potência",
+			"Mesa vitrocerâmica selada facilita a limpeza",
+			"Timer ajustável de até 99 minutos",
+			"Aquecimento ativado por sensor de panela"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "7000W" },
+			{ "label": "Número de bocas", "value": "4" },
+			{ "label": "Material da mesa", "value": "Vitrocerâmica" },
+			{ "label": "Controle de temperatura", "value": "Painel touch (9 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "4 x 59 x 52cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "56,5 x 49,5cm" },
+			{ "label": "Peso", "value": "4kg" },
+			{ "label": "Voltagem", "value": "220V" }
+		]
+	},
+	{
+		"id": "suggar-fg4004avp-a-gas-4-bocas",
+		"name": "Suggar FG4004AVP (a gás) 4 bocas",
+		"image": "/images/posts/cooktop-suggar-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oY4TJ9",
+		"shopeeUrl": null,
+		"advantages": [
+			"Quatro queimadores de tamanhos diferentes",
+			"Acendimento superautomático",
+			"Sistema MultiControl com botões removíveis",
+			"Superfície em vidro temperado resistente",
+			"Bivolt: funciona em 127V e 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "A gás" },
+			{ "label": "Potência", "value": "7050W" },
+			{ "label": "Número de bocas", "value": "4" },
+			{ "label": "Material da mesa", "value": "Vidro temperado" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "9,9 x 55 x 46cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "49,5 x 34,5cm" },
+			{ "label": "Peso", "value": "6,66kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	},
+	{
+		"id": "suggar-fg4134ix-a-gas-4-bocas",
+		"name": "Suggar FG4134IX (a gás) 4 bocas",
+		"image": "/images/posts/cooktop-suggar-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1NZQyBY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Queimador tripla chama",
+			"Mesa de aço inox resistente",
+			"Potência térmica de 10.200W",
+			"Trempes esmaltadas reduzem deslocamento das panelas",
+			"Botões removíveis facilitam a higienização"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "A gás" },
+			{ "label": "Potência", "value": "10.200W" },
+			{ "label": "Número de bocas", "value": "4" },
+			{ "label": "Material da mesa", "value": "Aço inox" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "11,5 x 59 x 51cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "55,5 x 47,5cm" },
+			{ "label": "Peso", "value": "6,96kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	},
+	{
+		"id": "suggar-fg2002fvp-a-gas-2-bocas",
+		"name": "Suggar FG2002FVP (a gás) 2 bocas",
+		"image": "/images/posts/cooktop-suggar-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/142K2KL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura compacta com 30,2cm de largura",
+			"Trempes de ferro fundido aumentam a durabilidade",
+			"Sistema de acendimento superautomático",
+			"Bivolt: 127V ou 220V",
+			"Botões MultiControl removíveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "A gás" },
+			{ "label": "Potência", "value": "3750W" },
+			{ "label": "Número de bocas", "value": "2" },
+			{ "label": "Material da mesa", "value": "Vidro temperado" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "9,9 x 30,2 x 51cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "26 x 47cm" },
+			{ "label": "Peso", "value": "5,06kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	},
+	{
+		"id": "suggar-fg2002avp-a-gas-2-bocas",
+		"name": "Suggar FG2002AVP (a gás) 2 bocas",
+		"image": "/images/posts/cooktop-suggar-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2chDVCy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Queimador tripla chama",
+			"Mesa resistente de vidro temperado",
+			"Ocupa apenas 30,2cm de largura",
+			"Botões MultiControl destacáveis",
+			"Sistema de acendimento superautomático"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "A gás" },
+			{ "label": "Potência", "value": "3750W" },
+			{ "label": "Número de bocas", "value": "2" },
+			{ "label": "Material da mesa", "value": "Vidro temperado" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "9,9 x 30,2 x 51cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "26 x 47cm" },
+			{ "label": "Peso", "value": "4,4kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	},
+	{
+		"id": "suggar-fg0222vc-inducao-2-bocas",
+		"name": "Suggar FG0222VC (indução) 2 bocas",
+		"image": "/images/posts/cooktop-suggar-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/31r72wt",
+		"shopeeUrl": null,
+		"advantages": [
+			"Dimensões compactas, com 29cm de largura",
+			"Função Turbo intensifica a potência",
+			"9 níveis de potência",
+			"Timer de até 99 minutos",
+			"Mesa vitrocerâmica selada resistente ao calor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "3500W" },
+			{ "label": "Número de bocas", "value": "2" },
+			{ "label": "Material da mesa", "value": "Vitrocerâmica" },
+			{ "label": "Controle de temperatura", "value": "Painel touch (9 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "7 x 29 x 52cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "26,5 x 49,5cm" },
+			{ "label": "Peso", "value": "4kg" },
+			{ "label": "Voltagem", "value": "220V" }
+		]
+	}
+]

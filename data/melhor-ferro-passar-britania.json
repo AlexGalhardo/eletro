@@ -1,0 +1,172 @@
+[
+	{
+		"id": "britania-bfe1000az",
+		"name": "Britânia BFE1000AZ 1200W",
+		"image": "/images/posts/ferro-passar-britania-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1zF4Kr1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base em cerâmica antiaderente desliza com facilidade e evita marcas",
+			"98 saídas de vapor auxiliam na remoção de vincos difíceis",
+			"Função jato d'água umedece áreas específicas do tecido",
+			"Função autolimpeza e modo Eco para uso mais econômico",
+			"Salva botões reduz o risco de danos em áreas delicadas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Capacidade do reservatório", "value": "430mL" },
+			{ "label": "Base", "value": "cerâmica antiaderente" },
+			{ "label": "Vapor contínuo", "value": "18g/min" },
+			{ "label": "Comprimento do cabo", "value": "1,42m" },
+			{ "label": "Peso", "value": "1,16kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfv2000p",
+		"name": "Britânia BFV2000P 1200W",
+		"image": "/images/posts/ferro-passar-britania-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2bdY6Ys",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base Nano Ceramic facilita o deslizamento sobre diferentes tecidos",
+			"38 saídas de vapor com vazão de 19g/min",
+			"Função jato d'água para áreas específicas da peça",
+			"Pode ser utilizado na vertical para roupas no cabide",
+			"Função autolimpeza e salva botões"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Capacidade do reservatório", "value": "245mL" },
+			{ "label": "Base", "value": "Nano Ceramic" },
+			{ "label": "Vapor contínuo", "value": "19g/min" },
+			{ "label": "Comprimento do cabo", "value": "1,5m" },
+			{ "label": "Peso", "value": "0,918kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfv202az",
+		"name": "Britânia BFV202AZ 1250W",
+		"image": "/images/posts/ferro-passar-britania-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1DVcCdr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Super Carbon com pintura antiaderente facilita o deslizamento",
+			"23 saídas de vapor com 4 níveis de temperatura",
+			"Função spray remove vincos mais rápido",
+			"Seletor para vapor variável/seco",
+			"Acabamento da base protege botões e tecidos delicados"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Capacidade do reservatório", "value": "190mL" },
+			{ "label": "Base", "value": "antiaderente com tecnologia Super Carbon" },
+			{ "label": "Comprimento do cabo", "value": "1,5m" },
+			{ "label": "Peso", "value": "0,725kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfv201r",
+		"name": "Britânia BFV201R 1250W",
+		"image": "/images/posts/ferro-passar-britania-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1xkTNNq",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base antiaderente com aquecimento 57% mais rápido",
+			"Tecnologia Super Carbon facilita o deslizamento",
+			"23 saídas de vapor com função vapor extra",
+			"Vapor vertical desamassa roupas diretamente no cabide",
+			"Acabamento da base evita danos em botões e tecidos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Capacidade do reservatório", "value": "190mL" },
+			{ "label": "Base", "value": "antiaderente com tecnologia Super Carbon" },
+			{ "label": "Comprimento do cabo", "value": "1,5m" },
+			{ "label": "Peso", "value": "0,76kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfv07",
+		"name": "Britânia BFV07 1200W/1600W",
+		"image": "/images/posts/ferro-passar-britania-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1y9bKve",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 210mL com visualização do nível de água",
+			"Base antiaderente para deslizamento fácil",
+			"23 saídas de vapor com função jato d'água",
+			"Vapor vertical para desamassar roupas no cabide",
+			"Recurso Salva botões evita danos em áreas delicadas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1200W (127V) / 1600W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "210mL" },
+			{ "label": "Base", "value": "antiaderente" },
+			{ "label": "Comprimento do cabo", "value": "1,5m" },
+			{ "label": "Peso", "value": "0,73kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfs30",
+		"name": "Britânia BFS30 1250W",
+		"image": "/images/posts/ferro-passar-britania-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2yGkTM6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aquecimento rápido em apenas 26 segundos",
+			"5 níveis de temperatura com máxima de 200°C",
+			"Design compacto e leve, pesando apenas 570g",
+			"Salva botões protege áreas delicadas",
+			"Cordão giratório de 360º com 1,7m de comprimento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a seco" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Base", "value": "revestimento antiaderente" },
+			{ "label": "Tempo de aquecimento", "value": "26s" },
+			{ "label": "Comprimento do cabo", "value": "1,7m" },
+			{ "label": "Peso", "value": "0,57kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bfv08",
+		"name": "Britânia BFV08 1250W/2000W",
+		"image": "/images/posts/ferro-passar-britania-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2HHrsQn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base Super Carbon aquece até 57% mais rápido",
+			"23 saídas de vapor para jato contínuo e mais intenso",
+			"Função spray e vapor extra desamassam vincos profundos",
+			"4 níveis de temperatura e função autolimpeza",
+			"Inclui copo dosador de 60mL"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "a vapor" },
+			{ "label": "Potência", "value": "1250W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "190mL" },
+			{ "label": "Base", "value": "Super Carbon antiaderente" },
+			{ "label": "Comprimento do cabo", "value": "1,50m" },
+			{ "label": "Peso", "value": "0,72kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]
