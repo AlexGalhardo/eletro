@@ -1,0 +1,162 @@
+[
+	{
+		"id": "geladeira-hq-426mdff",
+		"name": "HQ HQ-426MDFF",
+		"image": "/images/posts/melhores-geladeiras-hq-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Multidoor de 4 portas com 426L e sistema Frost Free",
+			"Compressor inverter e painel digital touch",
+			"Controle de temperatura independente e funções de congelamento/resfriamento rápido",
+			"Selo Procel A+++ (30,3 kWh/mês)"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "multidoor (4 portas)" },
+			{ "label": "Capacidade", "value": "426L" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "185 x 73 x 70,8 cm" },
+			{ "label": "Peso", "value": "76kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (30,3 kWh/mês)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "geladeira-hq-460sbsff",
+		"name": "HQ HQ-460SBSFF",
+		"image": "/images/posts/melhores-geladeiras-hq-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Side by side de 460L com Frost Free",
+			"Compressor inverter com 10 anos de garantia",
+			"Ajuste de temperatura com IA e display touch digital",
+			"Nível de ruído de 39 dB; Procel A+++"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "side by side" },
+			{ "label": "Capacidade", "value": "460L" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "178,5 x 70 x 68 cm" },
+			{ "label": "Peso", "value": "70kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (30,3 kWh/mês)" },
+			{ "label": "Ruído", "value": "39 dB" }
+		]
+	},
+	{
+		"id": "geladeira-hq-480sbsffk",
+		"name": "HQ HQ-480SBSFFK",
+		"image": "/images/posts/melhores-geladeiras-hq-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Side by side de 480L com Frost Free e Multi Airflow",
+			"Compressor inverter e modos Fast/Fast Freezer",
+			"EcoMode, gaveta Fresh Zone e trava de segurança para crianças",
+			"Iluminação LED; 39 dB"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "side by side" },
+			{ "label": "Capacidade", "value": "480L" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "171,4 x 78 x 71,3 cm" },
+			{ "label": "Peso", "value": "69kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (52,32 kWh/mês)" }
+		]
+	},
+	{
+		"id": "geladeira-hq-290rdf",
+		"name": "HQ HQ-290RDF",
+		"image": "/images/posts/melhores-geladeiras-hq-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Duplex de 290L com degelo manual",
+			"Controle mecânico de temperatura",
+			"Prateleiras de vidro removíveis, gaveta de frutas e porta reversível",
+			"Baixo consumo: 14,4 kWh/mês"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duplex" },
+			{ "label": "Capacidade", "value": "290L" },
+			{ "label": "Sistema", "value": "degelo manual" },
+			{ "label": "Dimensões", "value": "170 x 55 x 55 cm" },
+			{ "label": "Peso", "value": "45kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (14,4 kWh/mês)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "geladeira-hq-140rdf",
+		"name": "HQ HQ-140RDF",
+		"image": "/images/posts/melhores-geladeiras-hq-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Compacta de 140L (freezer de 45L) com degelo manual",
+			"Estrutura slim para espaços pequenos",
+			"Freezer dedicado na parte superior",
+			"Gás refrigerante R600a; controle mecânico"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duplex compacta" },
+			{ "label": "Capacidade", "value": "140L (freezer 45L)" },
+			{ "label": "Sistema", "value": "degelo manual" },
+			{ "label": "Dimensões", "value": "121 x 46 x 51,6 cm" },
+			{ "label": "Peso", "value": "26kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (19,67 kWh/mês)" }
+		]
+	},
+	{
+		"id": "geladeira-hq-310rdf",
+		"name": "HQ HQ-310RDF",
+		"image": "/images/posts/melhores-geladeiras-hq-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Duplex de 310L com degelo manual",
+			"Controle mecânico de temperatura",
+			"Prateleiras de vidro removíveis, gaveta de legumes e porta reversível",
+			"Espaço para garrafas; ruído de 42 a 49 dB"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duplex" },
+			{ "label": "Capacidade", "value": "310L" },
+			{ "label": "Sistema", "value": "degelo manual" },
+			{ "label": "Dimensões", "value": "175 x 59,9 x 57,8 cm" },
+			{ "label": "Peso", "value": "50kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (42,3 kWh/mês)" }
+		]
+	},
+	{
+		"id": "geladeira-hq-230rdfs",
+		"name": "HQ HQ-230RDFS",
+		"image": "/images/posts/melhores-geladeiras-hq-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Duplex de 230L (freezer de 45L) com degelo manual",
+			"Termostato mecânico e iluminação LED",
+			"Pés ajustáveis e porta reversível",
+			"Ruído abaixo de 41 dB"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duplex" },
+			{ "label": "Capacidade", "value": "230L (freezer 45L)" },
+			{ "label": "Sistema", "value": "degelo manual" },
+			{ "label": "Dimensões", "value": "143 x 54,5 x 53,5 cm" },
+			{ "label": "Peso", "value": "37,5kg" },
+			{ "label": "Eficiência", "value": "Procel A+++ (24,62 kWh/mês)" }
+		]
+	}
+]

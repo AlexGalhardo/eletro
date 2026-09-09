@@ -1,0 +1,270 @@
+[
+	{
+		"id": "lixeira-com-rodas-limppy-basculante-240l",
+		"name": "Limppy Basculante 240L",
+		"image": "/images/posts/melhor-lixeira-com-rodas-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Contêiner de 240L em polietileno de alta densidade",
+			"Tampa basculante e rodas de 200mm com eixo metálico",
+			"Proteção contra raios UV e compatível com sacos de 300L",
+			"Segue as normas ABNT/EN840; 9 opções de cor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "240L"
+			},
+			{
+				"label": "Material",
+				"value": "polietileno de alta densidade"
+			},
+			{
+				"label": "Tampa",
+				"value": "basculante"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 de 200mm"
+			},
+			{
+				"label": "Dimensões",
+				"value": "100 x 59,5 x 74,5 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-antares-90l",
+		"name": "Antares 90L",
+		"image": "/images/posts/melhor-lixeira-com-rodas-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"90L em polipropileno com aditivos",
+			"Tampa acionada por pedal, sem contato com as mãos",
+			"Vedação que reduz odor",
+			"Alça ergonômica integrada; indicada para coleta seletiva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "90L"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 de 200mm"
+			},
+			{
+				"label": "Dimensões",
+				"value": "81,2 x 46,5 x 64,8 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-arqplast-25754-60l",
+		"name": "Arqplast 25754 (60L)",
+		"image": "/images/posts/melhor-lixeira-com-rodas-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"60L em plástico, com sistema de pedal e trava tipo clique",
+			"Bordas arredondadas, fáceis de limpar",
+			"Uso interno e externo",
+			"Leve, com 2,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "60L"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal com trava clique"
+			},
+			{
+				"label": "Rodas",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "60,5 x 40,4 x 42,4 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-jsn-p100",
+		"name": "JSN P100",
+		"image": "/images/posts/melhor-lixeira-com-rodas-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"100L em polipropileno, formato quadrado",
+			"Tampa por pedal e aro plástico para fixar o saco",
+			"Rodas em PP/PVC e alça",
+			"Várias opções de cor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "100L"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 (PP/PVC)"
+			},
+			{
+				"label": "Dimensões",
+				"value": "92,7 x 55,5 x 53 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,7kg"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-arqplast-25749-120l",
+		"name": "Arqplast 25749 (120L)",
+		"image": "/images/posts/melhor-lixeira-com-rodas-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"120L em polipropileno, com pedal e trava tipo clique",
+			"Vedação integrada, que controla odor e pragas",
+			"Rodas traseiras e alça",
+			"Uso interno e externo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "120L"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal com trava clique"
+			},
+			{
+				"label": "Rodas",
+				"value": "traseiras"
+			},
+			{
+				"label": "Dimensões",
+				"value": "86,5 x 51,5 x 59,7 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-arqplast-cf100rpt",
+		"name": "Arqplast CF100RPT",
+		"image": "/images/posts/melhor-lixeira-com-rodas-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"100L em plástico, formato circular",
+			"Tampa manual removível",
+			"Roletes de 52mm e alça reforçada",
+			"Bordas arredondadas, de limpeza fácil; apenas 2,4kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "100L"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Tampa",
+				"value": "manual removível"
+			},
+			{
+				"label": "Rodas",
+				"value": "roletes de 52mm"
+			},
+			{
+				"label": "Dimensões",
+				"value": "64 x 54 x 54 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			}
+		]
+	},
+	{
+		"id": "lixeira-com-rodas-nobre-modelo-europeu-120l",
+		"name": "Nobre Modelo Europeu 120L",
+		"image": "/images/posts/melhor-lixeira-com-rodas-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"120L em polietileno de alta densidade, formato quadrado",
+			"Tampa manual e rodas maciças de 19cm",
+			"Proteção UV; suporta até 55kg",
+			"6 opções de cor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "120L"
+			},
+			{
+				"label": "Material",
+				"value": "polietileno de alta densidade"
+			},
+			{
+				"label": "Tampa",
+				"value": "manual"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 maciças de 19cm"
+			},
+			{
+				"label": "Dimensões",
+				"value": "95 x 47 x 57 cm"
+			}
+		]
+	}
+]

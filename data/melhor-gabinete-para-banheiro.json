@@ -1,0 +1,254 @@
+[
+	{
+		"id": "gabinete-para-banheiro-astra-max",
+		"name": "Astra Max",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Plástico resistente à umidade, com cuba e sifão inclusos",
+			"2 portas, sem gavetas",
+			"Versões suspensa (63x50x81cm) e de piso (63x50x92cm)",
+			"Leve, lavável e indicado para banheiros compactos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "63cm"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "2"
+			},
+			{
+				"label": "Instalação",
+				"value": "suspensa ou de piso"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-shop-master-mix-pequin-de-coluna",
+		"name": "Shop Master Mix Pequin de Coluna",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"MDP de 12mm em formato coluna, para contornar o pé da pia",
+			"1 porta e 6 compartimentos internos",
+			"4 rodízios e puxador de alumínio anodizado",
+			"Suporta até 30kg; acabamento brilhante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "61,5cm"
+			},
+			{
+				"label": "Material",
+				"value": "MDP (12mm)"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "não"
+			},
+			{
+				"label": "Portas",
+				"value": "1"
+			},
+			{
+				"label": "Instalação",
+				"value": "coluna (de piso)"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-veneto-riverzza-gianduia",
+		"name": "Veneto Riverzza Gianduia",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Corpo em MDF com cuba de BMC, suspenso",
+			"1 porta, sem gavetas",
+			"Pré-furado para torneira",
+			"Compacto, com apenas 8kg; montagem inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "41cm"
+			},
+			{
+				"label": "Material",
+				"value": "MDF com cuba de BMC"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "1"
+			},
+			{
+				"label": "Instalação",
+				"value": "suspensa"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-astra-fit",
+		"name": "Astra Fit",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Plástico 100% lavável, com cuba, sifão e válvula inclusos",
+			"2 portas",
+			"Instalação suspensa",
+			"Bom custo-benefício"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "58cm"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "2"
+			},
+			{
+				"label": "Instalação",
+				"value": "suspensa"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-riverzza-cremona-lineo",
+		"name": "Riverzza Cremona Lineo",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"MDF com cuba de BMC, suspenso",
+			"1 porta, pré-furado para torneira",
+			"Leve e fácil de montar",
+			"Suporta até 10kg; indicado para banheiros pequenos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "41cm"
+			},
+			{
+				"label": "Material",
+				"value": "MDF com cuba de BMC"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "1"
+			},
+			{
+				"label": "Instalação",
+				"value": "suspensa"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-eccos-fabrimoveis-de-coluna",
+		"name": "Eccos Fabrimóveis de Coluna",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"MDP em formato coluna, para encaixar em volta do encanamento",
+			"2 portas com puxador de toque e 3 prateleiras internas",
+			"4 rodízios",
+			"Compacto e funcional"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "61,5cm"
+			},
+			{
+				"label": "Material",
+				"value": "MDP"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "não"
+			},
+			{
+				"label": "Portas",
+				"value": "2"
+			},
+			{
+				"label": "Instalação",
+				"value": "coluna (de piso)"
+			}
+		]
+	},
+	{
+		"id": "gabinete-para-banheiro-riverzza-gianduia-zoff",
+		"name": "Riverzza Gianduia Zoff",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"100% MDF com cuba de BMC, suspenso",
+			"Sem portas, design minimalista",
+			"Revestimento sustentável resistente a UV",
+			"Pré-furado para torneira; apenas 6,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Largura",
+				"value": "31cm"
+			},
+			{
+				"label": "Material",
+				"value": "MDF com cuba de BMC"
+			},
+			{
+				"label": "Cuba inclusa",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "0"
+			},
+			{
+				"label": "Instalação",
+				"value": "suspensa"
+			}
+		]
+	}
+]

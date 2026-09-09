@@ -1,0 +1,270 @@
+[
+	{
+		"id": "chave-impacto-bateria-bosch-gds-18v-1000",
+		"name": "Bosch GDS 18V-1000",
+		"image": "/images/posts/melhor-chave-impacto-bateria-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 18V e torque máximo de 1600 Nm",
+			"Motor brushless BITURBO",
+			"3 níveis de rotação (800 a 1750 rpm) e 2600 impactos por minuto",
+			"Display, clipe de cinto e proteções ECP/EMP"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "18V"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "1600 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "2600 ipm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-dewalt-dcf892b-b3",
+		"name": "DeWalt DCF892B-B3",
+		"image": "/images/posts/melhor-chave-impacto-bateria-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 20V e torque de 812 Nm",
+			"Motor brushless e formato compacto",
+			"4 níveis de rotação (até 2000 rpm) e 3250 impactos por minuto",
+			"Luz LED ajustável; apenas 1,96kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "812 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "3250 ipm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,96kg"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-sigma-tools-sgt-7500",
+		"name": "Sigma Tools SGT-7500",
+		"image": "/images/posts/melhor-chave-impacto-bateria-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 20V (4000mAh) e torque de 620 Nm",
+			"Motor brushless e 3 níveis de rotação (até 2250 rpm)",
+			"Acompanha 2 baterias e carregador rápido (2h)",
+			"Acompanha maleta; apenas 1,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "20V (4000mAh)"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "620 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-oz-ch3500",
+		"name": "OZ CH3500",
+		"image": "/images/posts/melhor-chave-impacto-bateria-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 20V (4000mAh) e torque de 430 Nm",
+			"Motor brushless e 2 níveis de rotação (1900 a 2400 rpm)",
+			"3000 impactos por minuto e função reversível",
+			"Acompanha 4 soquetes de impacto e indicador de carga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "20V (4000mAh)"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "430 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "3000 ipm"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-black-tools-tb-21i",
+		"name": "Black Tools TB-21I",
+		"image": "/images/posts/melhor-chave-impacto-bateria-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 21V (4000mAh) e torque de 430 Nm",
+			"Motor brushless e 3000 impactos por minuto",
+			"Empunhadura emborrachada",
+			"Acompanha maleta com acessórios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "21V (4000mAh)"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "430 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "3000 ipm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-potente-cord120002",
+		"name": "Potente CORD120002",
+		"image": "/images/posts/melhor-chave-impacto-bateria-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 20V (4000mAh) e torque de 880 Nm",
+			"Motor brushless e controle eletrônico de velocidade",
+			"2200 impactos por minuto",
+			"Acompanha 2 baterias; empunhadura ergonômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "20V (4000mAh)"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "880 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "2200 ipm"
+			}
+		]
+	},
+	{
+		"id": "chave-impacto-bateria-dewalt-dcf922",
+		"name": "DeWalt DCF922",
+		"image": "/images/posts/melhor-chave-impacto-bateria-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bateria de 20V e torque de 610 Nm",
+			"Motor brushless e formato 28% menor que o convencional",
+			"4 níveis de rotação (até 2500 rpm) e 3550 impactos por minuto",
+			"3 luzes LED com brilho ajustável; apenas 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "610 Nm"
+			},
+			{
+				"label": "Encaixe",
+				"value": "1/2\""
+			},
+			{
+				"label": "Motor",
+				"value": "brushless"
+			},
+			{
+				"label": "Impactos",
+				"value": "3550 ipm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	}
+]

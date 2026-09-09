@@ -1,0 +1,155 @@
+[
+	{
+		"id": "frigobar-hq-130fbpvl",
+		"name": "HQ HQ-130FBPVL",
+		"image": "/images/posts/melhor-frigobar-hq-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"130L com compressor e gás R600a",
+			"Porta de vidro duplo com luz interna",
+			"Prateleiras de vidro ajustáveis e porta reversível",
+			"Degelo manual"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "130L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Degelo", "value": "manual" },
+			{ "label": "Dimensões", "value": "81,5 x 51 x 55 cm" },
+			{ "label": "Peso", "value": "29,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "frigobar-hq-90rdf",
+		"name": "HQ HQ-90RDF",
+		"image": "/images/posts/melhor-frigobar-hq-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"90L com compartimento freezer a -12 °C",
+			"Compressor com gás R600a; classificação energética B",
+			"Prateleiras de vidro ajustáveis e gaveta de frutas",
+			"Porta reversível"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "90L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Degelo", "value": "manual" },
+			{ "label": "Eficiência", "value": "B" },
+			{ "label": "Dimensões", "value": "83,3 x 48,6 x 53,1 cm" },
+			{ "label": "Peso", "value": "21kg" }
+		]
+	},
+	{
+		"id": "frigobar-hq-bc-52",
+		"name": "HQ BC-52",
+		"image": "/images/posts/melhor-frigobar-hq-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"52L compacto, com consumo de apenas 12,2 kWh/mês",
+			"Compressor com gás R600a",
+			"Prateleiras removíveis e porta reversível",
+			"Leve, com 11 kg"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "52L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Degelo", "value": "manual" },
+			{ "label": "Consumo", "value": "12,2 kWh/mês" },
+			{ "label": "Dimensões", "value": "50,6 x 47 x 44,5 cm" },
+			{ "label": "Peso", "value": "11kg" }
+		]
+	},
+	{
+		"id": "frigobar-hq-bc-93",
+		"name": "HQ BC-93",
+		"image": "/images/posts/melhor-frigobar-hq-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"93L com baixo nível de ruído (42 dB)",
+			"Compressor com gás R600a",
+			"Prateleiras removíveis e porta reversível",
+			"Degelo manual"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "93L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Degelo", "value": "manual" },
+			{ "label": "Ruído", "value": "42 dB" },
+			{ "label": "Dimensões", "value": "83,5 x 47 x 44,5 cm" },
+			{ "label": "Peso", "value": "16kg" }
+		]
+	},
+	{
+		"id": "frigobar-hq-50fb",
+		"name": "HQ HQ-50FB",
+		"image": "/images/posts/melhor-frigobar-hq-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"50L compacto, com apenas 42 dB de ruído",
+			"Compressor com gás R600a",
+			"Classificação energética A+++",
+			"Leve, com 13 kg"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "50L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Eficiência", "value": "A+++" },
+			{ "label": "Ruído", "value": "42 dB" },
+			{ "label": "Dimensões", "value": "50,5 x 45 x 43 cm" },
+			{ "label": "Peso", "value": "13kg" }
+		]
+	},
+	{
+		"id": "frigobar-hq-95fbpv",
+		"name": "HQ HQ-95FBPV",
+		"image": "/images/posts/melhor-frigobar-hq-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"95L com porta de vidro duplo e iluminação LED",
+			"Compressor com gás R600a",
+			"Prateleiras de vidro ajustáveis e porta reversível",
+			"Degelo manual"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "95L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Degelo", "value": "manual" },
+			{ "label": "Dimensões", "value": "83 x 47,2 x 43,4 cm" },
+			{ "label": "Peso", "value": "19kg" }
+		]
+	},
+	{
+		"id": "frigobar-hq-124fb",
+		"name": "HQ HQ-124FB",
+		"image": "/images/posts/melhor-frigobar-hq-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"124L com consumo reduzido de 13,89 kWh/mês",
+			"Compressor com gás R600a; classificação A+++",
+			"Prateleiras de vidro e porta reversível",
+			"Degelo manual"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "124L" },
+			{ "label": "Refrigeração", "value": "compressor (R600a)" },
+			{ "label": "Eficiência", "value": "A+++" },
+			{ "label": "Consumo", "value": "13,89 kWh/mês" },
+			{ "label": "Dimensões", "value": "83 x 48 x 48 cm" },
+			{ "label": "Peso", "value": "23kg" }
+		]
+	}
+]

@@ -1,0 +1,198 @@
+[
+	{
+		"id": "aparelho-de-jantar-oxford-flat-samambaia-30-pecas",
+		"name": "Oxford Flat Samambaia 30 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"30 peças em cerâmica, serve 6 pessoas",
+			"Decoração de folhagem de samambaia",
+			"Pratos rasos de 26cm, fundos de 20,5cm e sobremesa de 20cm",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "30 (serve 6)"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-oxford-ryo-maresia-30-pecas",
+		"name": "Oxford Ryo Maresia 30 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"30 peças em porcelana, serve 6 pessoas",
+			"Design wabi-sabi com esmalte reativo aplicado à mão",
+			"Pratos rasos de 27,5cm e xícaras de 220ml",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "30 (serve 6)"
+			},
+			{
+				"label": "Material",
+				"value": "porcelana"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-oxford-unni-brisa-20-pecas",
+		"name": "Oxford Unni Brisa 20 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"20 peças em cerâmica, serve 4 pessoas",
+			"Estética minimalista com filete inspirado em bambu",
+			"Prato fundo com 820ml de capacidade",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "20 (serve 4)"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-tramontina-floralis-20-pecas",
+		"name": "Tramontina Floralis 20 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"20 peças em porcelana, serve 4 pessoas",
+			"Decoração floral delicada em preto e branco",
+			"Porcelana de porosidade quase nula",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "20 (serve 4)"
+			},
+			{
+				"label": "Material",
+				"value": "porcelana"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-duralex-nadir-opaline-16-pecas",
+		"name": "Duralex Nadir Opaline 16 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"16 peças em vidro opalino temperado, serve 4 pessoas",
+			"Resistente a riscos e com baixa porosidade",
+			"Inclui 4 bowls de 13cm",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "16 (serve 4)"
+			},
+			{
+				"label": "Material",
+				"value": "vidro opalino temperado"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-porcelana-schmidt-relevo-pomerode-42-pecas",
+		"name": "Porcelana Schmidt Relevo Pomerode 42 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"42 peças em porcelana, serve 6 pessoas",
+			"Inclui conjuntos de café e de chá",
+			"Decoração em relevo",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "42 (serve 6)"
+			},
+			{
+				"label": "Material",
+				"value": "porcelana"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	},
+	{
+		"id": "aparelho-de-jantar-porto-brasil-roma-branco-42-pecas",
+		"name": "Porto Brasil Roma Branco 42 Peças",
+		"image": "/images/posts/melhor-aparelho-de-jantar-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"42 peças em cerâmica feldspática, serve 6 pessoas",
+			"Bordas em relevo inspiradas em colunas romanas",
+			"Inclui xícaras de café de 72ml e de chá de 161ml",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peças",
+				"value": "42 (serve 6)"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica feldspática"
+			},
+			{
+				"label": "Micro-ondas / lava-louças",
+				"value": "sim / sim"
+			}
+		]
+	}
+]

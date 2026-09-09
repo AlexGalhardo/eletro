@@ -1,0 +1,170 @@
+[
+	{
+		"id": "amolador-tramontina-profio-24031000",
+		"name": "Tramontina Profio 24031000",
+		"image": "/images/posts/melhor-amolador-de-facas-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema manual de dupla face com discos diamantados",
+			"Duas etapas de trabalho: desbaste e acabamento",
+			"Base antiderrapante e cabo ergonômico",
+			"Corpo em ABS com detalhes em aço inox, pesando 170g",
+			"Garantia de 90 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de dupla face" },
+			{ "label": "Abrasivos", "value": "discos diamantados" },
+			{ "label": "Estágios", "value": "2 (desbaste e acabamento)" },
+			{ "label": "Material do corpo", "value": "ABS com detalhes em aço inox" },
+			{ "label": "Dimensões", "value": "6,6 x 5,2 x 19,8 cm" },
+			{ "label": "Peso", "value": "170g" },
+			{ "label": "Base", "value": "antiderrapante" },
+			{ "label": "Limitações", "value": "não afia facas serrilhadas nem tesouras" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "amolador-vonder-12-40-100-400",
+		"name": "Vonder 12.40.100.400",
+		"image": "/images/posts/melhor-amolador-de-facas-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 3 em 1: afia, alinha o fio e atende tesouras",
+			"Sistema manual de três estágios",
+			"Corpo em aço inox",
+			"Abrasivos de vídia e cerâmica",
+			"Cabo com pegada ergonômica"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de 3 estágios" },
+			{ "label": "Abrasivos", "value": "vídia e cerâmica" },
+			{ "label": "Estágios", "value": "3" },
+			{ "label": "Material do corpo", "value": "aço inox" },
+			{ "label": "Compatibilidade", "value": "facas e tesouras" }
+		]
+	},
+	{
+		"id": "amolador-sq-50775-jfz",
+		"name": "SQ 50775-JFZ",
+		"image": "/images/posts/melhor-amolador-de-facas-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema manual com canal em V",
+			"Corpo em aço inox e polipropileno",
+			"Cabo anatômico",
+			"Base firme para apoio durante o uso",
+			"Construção simples e leve"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual com canal em V" },
+			{ "label": "Material do corpo", "value": "aço inox e polipropileno" }
+		]
+	},
+	{
+		"id": "amolador-mor-003904",
+		"name": "Mor 003904",
+		"image": "/images/posts/melhor-amolador-de-facas-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Três estágios com pontas de tungstênio, pedra de esmeril e cerâmica",
+			"Compatível com facas e tesouras, além de polir o fio",
+			"Base antiderrapante em EVA",
+			"Corpo em ABS com aço inox",
+			"Garantia de 90 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de 3 estágios" },
+			{ "label": "Abrasivos", "value": "tungstênio, pedra de esmeril e cerâmica" },
+			{ "label": "Estágios", "value": "3" },
+			{ "label": "Material do corpo", "value": "ABS com aço inox" },
+			{ "label": "Dimensões", "value": "8,5 x 5,5 x 23 cm" },
+			{ "label": "Peso", "value": "252g" },
+			{ "label": "Base", "value": "EVA antiderrapante" },
+			{ "label": "Compatibilidade", "value": "facas e tesouras" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "amolador-lumai-phoenix",
+		"name": "Lumai Phoenix",
+		"image": "/images/posts/melhor-amolador-de-facas-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Base com ventosa que fixa com força de até 25 kg na bancada",
+			"Permite afiar usando apenas uma das mãos",
+			"Dois estágios: tungstênio para recuperar o fio e cerâmica para finalizar",
+			"Compartimento próprio para tesouras",
+			"Corpo em aço inox"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de 2 estágios com base a vácuo" },
+			{ "label": "Abrasivos", "value": "tungstênio e cerâmica" },
+			{ "label": "Estágios", "value": "2" },
+			{ "label": "Material do corpo", "value": "aço inox" },
+			{ "label": "Fixação", "value": "ventosa com até 25 kg de aderência" },
+			{ "label": "Compatibilidade", "value": "facas e tesouras" }
+		]
+	},
+	{
+		"id": "amolador-mor-003901",
+		"name": "Mor 003901",
+		"image": "/images/posts/melhor-amolador-de-facas-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Design compacto e portátil, com apenas 66g",
+			"Dois estágios com tungstênio e cerâmica de zircônio",
+			"Base antiderrapante integrada",
+			"Corpo em ABS com aço inox",
+			"Garantia de 90 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de 2 estágios" },
+			{ "label": "Abrasivos", "value": "tungstênio e cerâmica de zircônio" },
+			{ "label": "Estágios", "value": "2" },
+			{ "label": "Material do corpo", "value": "ABS com aço inox" },
+			{ "label": "Dimensões", "value": "4 x 5 x 9,5 cm" },
+			{ "label": "Peso", "value": "66g" },
+			{ "label": "Base", "value": "antiderrapante integrada" },
+			{ "label": "Limitações", "value": "indicado apenas para facas de aço inox" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "amolador-tramontina-profio-base-24038000",
+		"name": "Tramontina Profio com Base 24038000",
+		"image": "/images/posts/melhor-amolador-de-facas-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Base fixa antiderrapante para apoiar na superfície",
+			"Dois estágios com abrasivo de cerâmica",
+			"Operação simples, exigindo pouca pressão",
+			"Formato compacto, com 75g",
+			"Garantia de 90 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual de 2 estágios com base fixa" },
+			{ "label": "Abrasivo", "value": "cerâmica" },
+			{ "label": "Estágios", "value": "2" },
+			{ "label": "Material do corpo", "value": "plástico/resina" },
+			{ "label": "Dimensões", "value": "6 x 6,6 x 6,6 cm" },
+			{ "label": "Peso", "value": "75g" },
+			{ "label": "Base", "value": "fixa antiderrapante" },
+			{ "label": "Limitações", "value": "não afia facas serrilhadas nem tesouras" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	}
+]

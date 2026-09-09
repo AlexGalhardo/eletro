@@ -1,0 +1,153 @@
+[
+	{
+		"id": "saco-dormir-deuter-astro-pro-400",
+		"name": "Deuter Astro Pro 400",
+		"image": "/images/posts/melhor-saco-de-dormir-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Enchimento em pluma de ganso, com conforto de 0 °C a -6 °C",
+			"Formato sarcófago e capuz ajustável para reter calor",
+			"Apenas 850g, com saco de compressão incluso",
+			"Tecido nylon ripstop com repelência à água e certificação RDS"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "conforto 0 °C a -6 °C; extremo -24 °C" },
+			{ "label": "Formato", "value": "sarcófago" },
+			{ "label": "Enchimento", "value": "pluma de ganso" },
+			{ "label": "Tecido externo", "value": "nylon ripstop + DWR" },
+			{ "label": "Dimensões", "value": "205 x 68 cm" },
+			{ "label": "Peso", "value": "850g" }
+		]
+	},
+	{
+		"id": "saco-dormir-nautika-freedom",
+		"name": "Nautika Freedom",
+		"image": "/images/posts/melhor-saco-de-dormir-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato envelope com enchimento em fibra oca de 200 g/m²",
+			"Tecido em poliéster 190T resinado com poliuretano",
+			"Forro interno em algodão",
+			"Acompanha saco de transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "conforto -1,5 °C; extremo -3,5 °C" },
+			{ "label": "Formato", "value": "envelope" },
+			{ "label": "Enchimento", "value": "fibra oca 200 g/m²" },
+			{ "label": "Tecido externo", "value": "poliéster 190T resinado" },
+			{ "label": "Dimensões", "value": "210 x 75 cm" }
+		]
+	},
+	{
+		"id": "saco-dormir-nautika-viper",
+		"name": "Nautika Viper",
+		"image": "/images/posts/melhor-saco-de-dormir-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Indicado para temperaturas de 5 °C a 12 °C",
+			"Capuz ajustável e bolso interno",
+			"Zíper lateral completo com aba de proteção contra ar frio",
+			"Acompanha saco de transporte; 950g"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "5 °C a 12 °C" },
+			{ "label": "Formato", "value": "envelope" },
+			{ "label": "Enchimento", "value": "fibra oca 200 g/m²" },
+			{ "label": "Tecido externo", "value": "poliéster 190T" },
+			{ "label": "Dimensões", "value": "210 x 75 cm" },
+			{ "label": "Peso", "value": "950g" }
+		]
+	},
+	{
+		"id": "saco-dormir-nautika-bugy",
+		"name": "Nautika Bugy",
+		"image": "/images/posts/melhor-saco-de-dormir-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Leve, com 650g, indicado para 8 °C a 15 °C",
+			"Abre por completo e vira cobertor",
+			"Tecido externo em poliamida com forro de algodão",
+			"Acompanha saco de transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "conforto 8 °C a 15 °C" },
+			{ "label": "Formato", "value": "envelope" },
+			{ "label": "Enchimento", "value": "fibra oca" },
+			{ "label": "Tecido externo", "value": "poliamida" },
+			{ "label": "Dimensões", "value": "180 x 75 cm" },
+			{ "label": "Peso", "value": "650g" }
+		]
+	},
+	{
+		"id": "saco-dormir-guepardo-ultralight",
+		"name": "Guepardo Ultralight",
+		"image": "/images/posts/melhor-saco-de-dormir-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato sarcófago com capuz, indicado para 5 °C a 15 °C",
+			"Fibra oca de 150 g/m² em disposição zigue-zague",
+			"Apenas 800g, com saco compacto e inflador embutido",
+			"Tecido em poliéster 190T com repelência à água"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "conforto 5 °C a 15 °C" },
+			{ "label": "Formato", "value": "sarcófago" },
+			{ "label": "Enchimento", "value": "fibra oca 150 g/m²" },
+			{ "label": "Tecido externo", "value": "poliéster 190T W/R W/P" },
+			{ "label": "Dimensões", "value": "200 x 80 cm" },
+			{ "label": "Peso", "value": "800g" }
+		]
+	},
+	{
+		"id": "saco-dormir-azteq-zion",
+		"name": "Azteq Zion",
+		"image": "/images/posts/melhor-saco-de-dormir-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Enchimento híbrido (60% pluma de ganso, 40% fibra oca)",
+			"Formato sarcófago com capuz ajustável e bolsos internos",
+			"Estrutura em duas camadas com bom isolamento nos pés",
+			"Acompanha saco de compressão"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "conforto 0 °C a -4 °C; extremo -10 °C" },
+			{ "label": "Formato", "value": "sarcófago" },
+			{ "label": "Enchimento", "value": "híbrido 60% pluma de ganso / 40% fibra oca" },
+			{ "label": "Tecido externo", "value": "poliamida 300T40D" },
+			{ "label": "Dimensões", "value": "230 x 80 cm" }
+		]
+	},
+	{
+		"id": "saco-dormir-nautika-kuple-casal",
+		"name": "Nautika Kuple Casal",
+		"image": "/images/posts/melhor-saco-de-dormir-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Versão casal que se separa em 2 sacos individuais",
+			"Indicado para -5 °C a 5 °C",
+			"Também pode ser usado aberto como cobertor",
+			"Acompanha saco de transporte com tiras de compressão e 2 travesseiros"
+		],
+		"technicalDetails": [
+			{ "label": "Temperatura", "value": "-5 °C a 5 °C" },
+			{ "label": "Formato", "value": "casal desmembrável" },
+			{ "label": "Enchimento", "value": "fibra oca" },
+			{ "label": "Tecido externo", "value": "poliéster 210T" },
+			{ "label": "Dimensões", "value": "210 x 150 cm" }
+		]
+	}
+]

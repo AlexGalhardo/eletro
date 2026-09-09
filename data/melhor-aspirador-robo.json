@@ -1,0 +1,298 @@
+[
+	{
+		"id": "aspirador-robo-xiaomi-robot-vacuum-x20-max",
+		"name": "Xiaomi Robot Vacuum X20 MAX",
+		"image": "/images/posts/melhor-aspirador-robo-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sucção de 8000Pa e autonomia de 120 minutos",
+			"Navegação a laser e mapeamento de vários andares",
+			"Dois mops rotativos com autolavagem a 55 °C",
+			"Base que esvazia o pó e seca os panos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sucção",
+				"value": "8000Pa"
+			},
+			{
+				"label": "Bateria",
+				"value": "5200mAh (120 min)"
+			},
+			{
+				"label": "Navegação",
+				"value": "laser"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "2,5L"
+			},
+			{
+				"label": "Água",
+				"value": "4L limpa + 3,8L suja"
+			},
+			{
+				"label": "Base de autoesvaziamento",
+				"value": "sim"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-xiaomi-robot-vacuum-x20",
+		"name": "Xiaomi Robot Vacuum X20+",
+		"image": "/images/posts/melhor-aspirador-robo-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sucção de 6000Pa e autonomia de 140 minutos",
+			"Navegação a laser LDS com tecnologia S-Cross",
+			"Dois mops rotativos a 180 rpm",
+			"Base que esvazia o pó; detecção de carpete"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sucção",
+				"value": "6000Pa"
+			},
+			{
+				"label": "Bateria",
+				"value": "5200mAh (140 min)"
+			},
+			{
+				"label": "Navegação",
+				"value": "laser LDS"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "2,5L"
+			},
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Base de autoesvaziamento",
+				"value": "sim"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-samsung-vr5000rm",
+		"name": "Samsung VR5000RM",
+		"image": "/images/posts/melhor-aspirador-robo-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Design ultrafino, com 8,5cm de altura",
+			"Autonomia de 150 minutos e 8 modos de limpeza",
+			"Navegação por giroscópio com sensores anticolisão e antiqueda",
+			"Função 2 em 1 (aspira e passa pano); app SmartThings"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Autonomia",
+				"value": "150 minutos"
+			},
+			{
+				"label": "Navegação",
+				"value": "giroscópio"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "0,2L"
+			},
+			{
+				"label": "Altura",
+				"value": "8,5cm"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-xiaomi-robot-vacuum-s20",
+		"name": "Xiaomi Robot Vacuum S20+",
+		"image": "/images/posts/melhor-aspirador-robo-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sucção de 6000Pa e autonomia de 170 minutos, a maior da seleção",
+			"Navegação a laser LDS 360°",
+			"Dois mops rotativos com elevação automática de 7mm",
+			"Filtro HEPA e sensores antiqueda"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sucção",
+				"value": "6000Pa"
+			},
+			{
+				"label": "Bateria",
+				"value": "5200mAh (170 min)"
+			},
+			{
+				"label": "Navegação",
+				"value": "laser LDS 360°"
+			},
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Base de autoesvaziamento",
+				"value": "não"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-electrolux-erb30",
+		"name": "Electrolux ERB30",
+		"image": "/images/posts/melhor-aspirador-robo-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Design ultrafino, com 7cm de altura",
+			"Autonomia de 140 minutos e função 3 em 1 (varre, aspira e passa pano)",
+			"Duas escovas laterais e filtro HEPA Allergy Protect",
+			"Base de recarga; controle remoto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Autonomia",
+				"value": "140 minutos"
+			},
+			{
+				"label": "Navegação",
+				"value": "sensor antiqueda"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "310ml"
+			},
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "não (controle remoto)"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-xiaomi-s20-xm806bra",
+		"name": "Xiaomi S20 XM806BRA",
+		"image": "/images/posts/melhor-aspirador-robo-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sucção de 5000Pa e autonomia de 120 minutos",
+			"Navegação a laser LDS",
+			"Reservatório 2 em 1 (400ml de pó + 270ml de água)",
+			"Sobe obstáculos de até 2cm; app com Alexa e Google Assistente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sucção",
+				"value": "5000Pa"
+			},
+			{
+				"label": "Autonomia",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Navegação",
+				"value": "laser LDS"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "400ml"
+			},
+			{
+				"label": "Água",
+				"value": "270ml"
+			},
+			{
+				"label": "Altura",
+				"value": "10,3cm"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "aspirador-robo-karcher-rcv-5",
+		"name": "Kärcher RCV 5",
+		"image": "/images/posts/melhor-aspirador-robo-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sucção de 5000Pa e autonomia de 120 minutos",
+			"Navegação por LiDAR duplo, câmera e IA",
+			"Função 3 em 1 (seco, úmido e combinado) com Auto Boost",
+			"Sobe degraus de até 18mm; modo silencioso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sucção",
+				"value": "5000Pa"
+			},
+			{
+				"label": "Autonomia",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Navegação",
+				"value": "LiDAR duplo + câmera + IA"
+			},
+			{
+				"label": "Reservatório de pó",
+				"value": "330ml"
+			},
+			{
+				"label": "Água",
+				"value": "240ml"
+			},
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "App / Wi-Fi",
+				"value": "sim (2,4GHz)"
+			}
+		]
+	}
+]

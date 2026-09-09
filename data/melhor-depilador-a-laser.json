@@ -1,0 +1,262 @@
+[
+	{
+		"id": "depilador-a-laser-ulike-me-mi01-cb",
+		"name": "Ulike ME MI01 CB",
+		"image": "/images/posts/melhor-depilador-a-laser-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com sistema de resfriamento Sapphire Ice",
+			"4 níveis de energia e disparos de 3 por segundo",
+			"Aprovado pela ANVISA e certificado pelo INMETRO",
+			"Uso em rosto, axilas, pernas, braços e virilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "999.999"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "4"
+			},
+			{
+				"label": "Sensor de tom de pele",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-mlay-t14",
+		"name": "Mlay T14",
+		"image": "/images/posts/melhor-depilador-a-laser-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com sistema de resfriamento duplo",
+			"5 níveis de energia e janela de 3,9 cm²",
+			"Cartuchos intercambiáveis (3 x 500.000 disparos)",
+			"Uso em pernas, braços, axilas e virilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "1.500.000 (3 cartuchos)"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "5"
+			},
+			{
+				"label": "Janela",
+				"value": "3,9 cm²"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-mlay-t18",
+		"name": "Mlay T18",
+		"image": "/images/posts/melhor-depilador-a-laser-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com sistema Ice Cooling",
+			"3 níveis de energia e disparos ilimitados",
+			"Faixa de comprimento de onda de 510 a 1200nm",
+			"Uso em braços, pernas, costas, buço, axilas e virilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "ilimitados"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "3"
+			},
+			{
+				"label": "Janela",
+				"value": "3,5 cm²"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-lescolton-t-009i",
+		"name": "Lescolton T-009i",
+		"image": "/images/posts/melhor-depilador-a-laser-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com sensor de contato de tom de pele",
+			"5 níveis de energia e janela de 4 cm²",
+			"Cartuchos intercambiáveis para depilação e cuidados com a pele",
+			"Uso no rosto e no corpo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "300.000"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "5"
+			},
+			{
+				"label": "Sensor de tom de pele",
+				"value": "sim"
+			},
+			{
+				"label": "Janela",
+				"value": "4 cm²"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-mlay-t11",
+		"name": "Mlay T11",
+		"image": "/images/posts/melhor-depilador-a-laser-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com design compacto e ergonômico",
+			"3 níveis de energia e disparos ilimitados",
+			"Energia de até 14,4J",
+			"Uso em rosto, axilas, pernas, braços, costas, peito e virilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "ilimitados"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "3"
+			},
+			{
+				"label": "Janela",
+				"value": "3,5 cm²"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-ahnsock-ipl-02",
+		"name": "Ahnsock IPL-02",
+		"image": "/images/posts/melhor-depilador-a-laser-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com sensor de tom de pele",
+			"8 níveis de energia e até 125 disparos por minuto",
+			"Energia de 12,2J e sistema de resfriamento embutido",
+			"Uso em braços, pernas, costas, abdômen, axilas, rosto e virilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "999.999"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "8"
+			},
+			{
+				"label": "Sensor de tom de pele",
+				"value": "sim"
+			},
+			{
+				"label": "Janela",
+				"value": "3 cm²"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V (não bivolt)"
+			}
+		]
+	},
+	{
+		"id": "depilador-a-laser-innza-jd-tm016",
+		"name": "Innza JD-TM016",
+		"image": "/images/posts/melhor-depilador-a-laser-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia IPL com resfriamento por gelo integrado",
+			"9 níveis de energia",
+			"Modos automático e manual",
+			"Uso em costas, braços, peito, pernas, buço, axilas e virilha; garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL"
+			},
+			{
+				"label": "Disparos",
+				"value": "999.999"
+			},
+			{
+				"label": "Níveis de energia",
+				"value": "9"
+			},
+			{
+				"label": "Sensor de tom de pele",
+				"value": "não"
+			},
+			{
+				"label": "Modos",
+				"value": "automático e manual"
+			}
+		]
+	}
+]

@@ -1,0 +1,294 @@
+[
+	{
+		"id": "air-fryer-ninja-ninja-fo101",
+		"name": "Ninja FO101",
+		"image": "/images/posts/melhor-air-fryer-ninja-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Forno air fryer de 28,4L com design French Door",
+			"1800W e temperatura de 37 a 232 °C",
+			"10 funções e pré-aquecimento em 90 segundos",
+			"Livre de PFAS; acessórios podem ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "28,4L"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "37 a 232 °C"
+			},
+			{
+				"label": "Funções",
+				"value": "10"
+			},
+			{
+				"label": "Dimensões",
+				"value": "34,2 x 40,1 x 42 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-sfp701",
+		"name": "Ninja SFP701",
+		"image": "/images/posts/melhor-air-fryer-ninja-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"13,6L com função 3 em 1 (panela elétrica, forno e air fryer)",
+			"1760W e tecnologia HyperSteam",
+			"14 funções e receitas em 15 minutos",
+			"Livre de PFAS"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13,6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1760W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Funções",
+				"value": "14"
+			},
+			{
+				"label": "Dimensões",
+				"value": "43 x 43,5 x 46,5 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-dz201",
+		"name": "Ninja DZ201",
+		"image": "/images/posts/melhor-air-fryer-ninja-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"8L com tecnologia DualZone e dois cestos independentes",
+			"1690W e temperatura de até 204 °C",
+			"Função Match Cook, que replica os ajustes nos dois cestos",
+			"Revestimento cerâmico antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8L (2 cestos)"
+			},
+			{
+				"label": "Potência",
+				"value": "1690W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Funções",
+				"value": "6"
+			},
+			{
+				"label": "Dimensões",
+				"value": "38,3 x 40,2 x 45 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-sl201",
+		"name": "Ninja SL201",
+		"image": "/images/posts/melhor-air-fryer-ninja-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"8L com design vertical DoubleStack e dois cestos empilhados",
+			"1690W",
+			"Prepara até 4 alimentos ao mesmo tempo com divisórias",
+			"Função Smart Finish, que termina tudo junto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8L (2 cestos empilhados)"
+			},
+			{
+				"label": "Potência",
+				"value": "1690W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Funções",
+				"value": "6"
+			},
+			{
+				"label": "Dimensões",
+				"value": "45 x 33,4 x 49,4 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-af161",
+		"name": "Ninja AF161",
+		"image": "/images/posts/melhor-air-fryer-ninja-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5,5L com tecnologia Max Crisp",
+			"1750W e temperatura de 40 a 232 °C",
+			"7 modos automáticos",
+			"Pausa automática ao remover o cesto; revestimento cerâmico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "40 a 232 °C"
+			},
+			{
+				"label": "Funções",
+				"value": "7"
+			},
+			{
+				"label": "Dimensões",
+				"value": "37,6 x 27,9 x 35,6 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,3kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-dg551",
+		"name": "Ninja DG551",
+		"image": "/images/posts/melhor-air-fryer-ninja-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"3,8L, híbrido de grill e air fryer",
+			"1760W e temperatura de até 260 °C",
+			"Termômetro embutido e Smart Cook System",
+			"Grelhamento ciclônico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8L"
+			},
+			{
+				"label": "Potência",
+				"value": "1760W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "até 260 °C"
+			},
+			{
+				"label": "Funções",
+				"value": "6"
+			},
+			{
+				"label": "Dimensões",
+				"value": "36,7 x 45,6 x 47,6 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,9kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-ninja-ninja-af101",
+		"name": "Ninja AF101",
+		"image": "/images/posts/melhor-air-fryer-ninja-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"3,8L com tecnologia MaxCrisp, compacta",
+			"1550W e temperatura de 40 a 200 °C",
+			"4 funções",
+			"Revestimento cerâmico antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8L"
+			},
+			{
+				"label": "Potência",
+				"value": "1550W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "40 a 200 °C"
+			},
+			{
+				"label": "Funções",
+				"value": "4"
+			},
+			{
+				"label": "Dimensões",
+				"value": "33 x 27 x 35 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	}
+]

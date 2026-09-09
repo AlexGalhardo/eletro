@@ -1,0 +1,302 @@
+[
+	{
+		"id": "air-fryer-arno-arno-oven-grill-expert-ufe9",
+		"name": "Arno Oven & Grill Expert UFE9",
+		"image": "/images/posts/melhor-air-fryer-arno-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Forno air fryer de 11L com função 2 em 1 (air fryer e forno)",
+			"1800W, temperatura de 40 a 200 °C",
+			"Modo rotisserie e função grill",
+			"Painel digital com 8 programas automáticos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11L"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "40 a 200 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões",
+				"value": "37 x 32,5 x 32,3 cm"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-mega-afd7",
+		"name": "Arno Mega AFD7",
+		"image": "/images/posts/melhor-air-fryer-arno-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"7,5L com tecnologia Hot Air",
+			"1700W, temperatura de 40 a 200 °C",
+			"Painel digital com 8 programas automáticos",
+			"Cesto removível com revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "40 a 200 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões",
+				"value": "44 x 35,5 x 35,5 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-dual-afd2",
+		"name": "Arno Dual AFD2",
+		"image": "/images/posts/melhor-air-fryer-arno-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"8,3L com dois cestos independentes (5,2L + 3,1L)",
+			"1800W, com função SYNC para sincronizar os cestos",
+			"Controle individual de temperatura",
+			"Painel digital com 7 programas automáticos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8,3L (2 cestos)"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "40 a 200 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões",
+				"value": "43,5 x 47,5 x 34 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,8kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-easy-fry-turbo-afi6",
+		"name": "Arno Easy Fry Turbo AFI6",
+		"image": "/images/posts/melhor-air-fryer-arno-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6L com tecnologia Direct Heat",
+			"Painel digital com 12 programas automáticos",
+			"Compartimento de água e visor transparente com luz interna",
+			"1735W (127V) / 1835W (220V)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1735W (127V) / 1835W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32,6 x 36,4 x 25,9 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-air-fryer-mega-afm7",
+		"name": "Arno Air Fryer Mega AFM7",
+		"image": "/images/posts/melhor-air-fryer-arno-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"7,5L com cesto quadrado XXL",
+			"1700W, temperatura de 80 a 200 °C",
+			"Tecnologia Hot Air e grelha removível",
+			"Painel analógico; revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80 a 200 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Dimensões",
+				"value": "31,5 x 31 x 39,6 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-airfry-moderna-pfry",
+		"name": "Arno Airfry Moderna PFRY",
+		"image": "/images/posts/melhor-air-fryer-arno-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"3,5L com design circular compacto",
+			"1350W, temperatura de até 200 °C",
+			"Tecnologia Hot Air",
+			"Cesto antiaderente compatível com lava-louças; painel analógico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "até 200 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Dimensões",
+				"value": "37,6 x 29,8 x 29,8 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,9kg"
+			}
+		]
+	},
+	{
+		"id": "air-fryer-arno-arno-easy-fry-extra-surface-afp4",
+		"name": "Arno Easy Fry Extra Surface AFP4",
+		"image": "/images/posts/melhor-air-fryer-arno-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4L com design horizontal e sistema de aquecimento duplo",
+			"80 a 230 °C e função pizza",
+			"Visor de vidro com iluminação",
+			"Painel digital com 10 programas automáticos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4L"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W (127V) / 2200W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80 a 230 °C"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões",
+				"value": "19 x 31 x 31 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,9kg"
+			}
+		]
+	}
+]

@@ -66,6 +66,57 @@ import ventiladorDeTetoData from "@/data/melhor-ventilador-teto.json";
 import ventiladorDeColunaData from "@/data/melhor-ventilador-coluna.json";
 import melhorVentiladorData from "@/data/melhor-ventilador.json";
 import climatizadorDeArData from "@/data/melhor-climatizador.json";
+import amoladorDeFacasData from "@/data/melhor-amolador-de-facas.json";
+import microretificaData from "@/data/melhor-microretifica.json";
+import cooktopSuggar5BocasData from "@/data/melhor-cooktop-suggar-5-bocas.json";
+import sacoDeDormirData from "@/data/melhor-saco-de-dormir.json";
+import bebedouroDeMesaData from "@/data/melhor-bebedouro-de-mesa.json";
+import geladeirasHqData from "@/data/melhores-geladeiras-hq.json";
+import escovaSecadoraGamaData from "@/data/melhor-escova-secadora-gama.json";
+import coolerComRodinhaData from "@/data/melhor-cooler-com-rodinha.json";
+import maquinaTosarCachorroData from "@/data/melhor-maquina-tosar-cachorro.json";
+import frigobarHqData from "@/data/melhor-frigobar-hq.json";
+import cafeteiraNespressoData from "@/data/melhor-cafeteira-nespresso.json";
+import modeladorDeCachosData from "@/data/melhor-modelador-de-cachos.json";
+import jogoDeXicarasData from "@/data/melhor-jogo-de-xicaras.json";
+import tesouraDePodaData from "@/data/melhor-tesoura-de-poda.json";
+import organizadorDeParafusosData from "@/data/melhor-organizador-de-parafusos.json";
+import geladeiraPanasonicData from "@/data/melhor-geladeira-panasonic.json";
+import cadeirinhaDescansoBebeData from "@/data/melhor-cadeirinha-descanso-bebe.json";
+import panelaPressaoEletricaMideaData from "@/data/melhor-panela-pressao-eletrica-midea.json";
+import airFryerPolishopData from "@/data/melhor-air-fryer-polishop.json";
+import trenaDigitalData from "@/data/melhor-trena-digital.json";
+import motosserraData from "@/data/melhor-motosserra.json";
+import garrafaoTermicoData from "@/data/melhor-garrafao-termico.json";
+import aparelhoDeJantarData from "@/data/melhor-aparelho-de-jantar.json";
+import cooktopInducaoEosData from "@/data/melhor-cooktop-inducao-eos.json";
+import chaveImpactoBateriaData from "@/data/melhor-chave-impacto-bateria.json";
+import andadorInfantilData from "@/data/melhor-andador-infantil.json";
+import aspiradorRoboData from "@/data/melhor-aspirador-robo.json";
+import arCondicionado9000BtusData from "@/data/melhor-ar-condicionado-9000-btus.json";
+import casinhaDeCachorroData from "@/data/melhor-casinha-de-cachorro.json";
+import airFryerNinjaData from "@/data/melhor-air-fryer-ninja.json";
+import paquimetroDigitalData from "@/data/melhor-paquimetro-digital.json";
+import lixeiraComRodasData from "@/data/melhor-lixeira-com-rodas.json";
+import irrigadorOralData from "@/data/melhor-irrigador-oral.json";
+import lixeiraGrandeTampaData from "@/data/melhor-lixeira-grande-tampa.json";
+import panelaEletricaElectroluxData from "@/data/melhor-panela-eletrica-electrolux.json";
+import frigideiraTramontinaData from "@/data/melhor-frigideira-tramontina.json";
+import ventilador30cmData from "@/data/melhor-ventilador-30cm.json";
+import cafeteiraArnoData from "@/data/melhor-cafeteira-arno.json";
+import airFryerArnoData from "@/data/melhor-air-fryer-arno.json";
+import depiladorALaserData from "@/data/melhor-depilador-a-laser.json";
+import caixaTermicaData from "@/data/melhor-caixa-termica.json";
+import miniSecadorCabeloData from "@/data/melhor-mini-secador-cabelo.json";
+import espelhoParaBanheiroData from "@/data/melhor-espelho-para-banheiro.json";
+import lanternaProfissionalData from "@/data/melhor-lanterna-profissional.json";
+import lixeiraAutomaticaData from "@/data/melhor-lixeira-automatica.json";
+import gabineteParaBanheiroData from "@/data/melhor-gabinete-para-banheiro.json";
+import sanduicheiraMondialData from "@/data/melhor-sanduicheira-mondial.json";
+import melhoresCafeteirasData from "@/data/melhores-cafeteiras.json";
+import churrasqueiraApartamentoData from "@/data/melhor-churrasqueira-apartamento.json";
+import cooktopData from "@/data/melhor-cooktop.json";
+import grillEletricoData from "@/data/melhor-grill-eletrico.json";
 
 interface TechnicalDetail {
 	label: string;
@@ -195,6 +246,57 @@ const categoryData: Record<string, ProductData[]> = {
 	ventiladorDeColuna: ventiladorDeColunaData as unknown as ProductData[],
 	melhorVentilador: melhorVentiladorData as unknown as ProductData[],
 	climatizadorDeAr: climatizadorDeArData as unknown as ProductData[],
+	amoladorDeFacas: amoladorDeFacasData as unknown as ProductData[],
+	microretifica: microretificaData as unknown as ProductData[],
+	cooktopSuggar5Bocas: cooktopSuggar5BocasData as unknown as ProductData[],
+	sacoDeDormir: sacoDeDormirData as unknown as ProductData[],
+	bebedouroDeMesa: bebedouroDeMesaData as unknown as ProductData[],
+	geladeirasHq: geladeirasHqData as unknown as ProductData[],
+	escovaSecadoraGama: escovaSecadoraGamaData as unknown as ProductData[],
+	coolerComRodinha: coolerComRodinhaData as unknown as ProductData[],
+	maquinaTosarCachorro: maquinaTosarCachorroData as unknown as ProductData[],
+	frigobarHq: frigobarHqData as unknown as ProductData[],
+	cafeteiraNespresso: cafeteiraNespressoData as unknown as ProductData[],
+	modeladorDeCachos: modeladorDeCachosData as unknown as ProductData[],
+	jogoDeXicaras: jogoDeXicarasData as unknown as ProductData[],
+	tesouraDePoda: tesouraDePodaData as unknown as ProductData[],
+	organizadorDeParafusos: organizadorDeParafusosData as unknown as ProductData[],
+	geladeiraPanasonic: geladeiraPanasonicData as unknown as ProductData[],
+	cadeirinhaDescansoBebe: cadeirinhaDescansoBebeData as unknown as ProductData[],
+	panelaPressaoEletricaMidea: panelaPressaoEletricaMideaData as unknown as ProductData[],
+	airFryerPolishop: airFryerPolishopData as unknown as ProductData[],
+	trenaDigital: trenaDigitalData as unknown as ProductData[],
+	motosserra: motosserraData as unknown as ProductData[],
+	garrafaoTermico: garrafaoTermicoData as unknown as ProductData[],
+	aparelhoDeJantar: aparelhoDeJantarData as unknown as ProductData[],
+	cooktopInducaoEos: cooktopInducaoEosData as unknown as ProductData[],
+	chaveImpactoBateria: chaveImpactoBateriaData as unknown as ProductData[],
+	andadorInfantil: andadorInfantilData as unknown as ProductData[],
+	aspiradorRobo: aspiradorRoboData as unknown as ProductData[],
+	arCondicionado9000Btus: arCondicionado9000BtusData as unknown as ProductData[],
+	casinhaDeCachorro: casinhaDeCachorroData as unknown as ProductData[],
+	airFryerNinja: airFryerNinjaData as unknown as ProductData[],
+	paquimetroDigital: paquimetroDigitalData as unknown as ProductData[],
+	lixeiraComRodas: lixeiraComRodasData as unknown as ProductData[],
+	irrigadorOral: irrigadorOralData as unknown as ProductData[],
+	lixeiraGrandeTampa: lixeiraGrandeTampaData as unknown as ProductData[],
+	panelaEletricaElectrolux: panelaEletricaElectroluxData as unknown as ProductData[],
+	frigideiraTramontina: frigideiraTramontinaData as unknown as ProductData[],
+	ventilador30cm: ventilador30cmData as unknown as ProductData[],
+	cafeteiraArno: cafeteiraArnoData as unknown as ProductData[],
+	airFryerArno: airFryerArnoData as unknown as ProductData[],
+	depiladorALaser: depiladorALaserData as unknown as ProductData[],
+	caixaTermica: caixaTermicaData as unknown as ProductData[],
+	miniSecadorCabelo: miniSecadorCabeloData as unknown as ProductData[],
+	espelhoParaBanheiro: espelhoParaBanheiroData as unknown as ProductData[],
+	lanternaProfissional: lanternaProfissionalData as unknown as ProductData[],
+	lixeiraAutomatica: lixeiraAutomaticaData as unknown as ProductData[],
+	gabineteParaBanheiro: gabineteParaBanheiroData as unknown as ProductData[],
+	sanduicheiraMondial: sanduicheiraMondialData as unknown as ProductData[],
+	melhoresCafeteiras: melhoresCafeteirasData as unknown as ProductData[],
+	churrasqueiraApartamento: churrasqueiraApartamentoData as unknown as ProductData[],
+	cooktop: cooktopData as unknown as ProductData[],
+	grillEletrico: grillEletricoData as unknown as ProductData[],
 };
 
 const MAX_POINTS = 5;

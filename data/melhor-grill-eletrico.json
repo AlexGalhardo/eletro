@@ -1,0 +1,254 @@
+[
+	{
+		"id": "grill-eletrico-mondial-dual-grill-premium-g-10",
+		"name": "Mondial Dual Grill Premium G-10",
+		"image": "/images/posts/melhor-grill-eletrico-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa dupla (lisa e grelhada) antiaderente",
+			"Controle de temperatura ajustável",
+			"Bandeja coletora removível e tampa de vidro",
+			"Tamanho para a família; compacta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1270W (127V) / 1500W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "dupla (lisa + grelha)"
+			},
+			{
+				"label": "Antiaderente",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11 x 48,5 x 35 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-mondial-cook-grill-40-g-03",
+		"name": "Mondial Cook & Grill 40 G-03",
+		"image": "/images/posts/melhor-grill-eletrico-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa ondulada de 40cm, para grandes quantidades",
+			"7 níveis de temperatura",
+			"Sistema de escoamento de gordura e tampa de vidro",
+			"Bandeja coletora removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1270W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "ondulada de 40cm"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Dimensões",
+				"value": "12,5 x 46 x 42 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-mondial-ultra-pe-28",
+		"name": "Mondial Ultra PE-28",
+		"image": "/images/posts/melhor-grill-eletrico-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Grill multifuncional com chapa lisa de 30cm e capacidade de 3L",
+			"Temperatura de 40 a 240 °C",
+			"Revestimento antiaderente e tampa de vidro",
+			"Luz indicadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "lisa de 30cm"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40 a 240 °C"
+			},
+			{
+				"label": "Dimensões",
+				"value": "16 x 37 x 33 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-britania-top-grill-bpe01",
+		"name": "Britânia Top Grill BPE01",
+		"image": "/images/posts/melhor-grill-eletrico-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 5 em 1, com chapa ondulada de 36cm",
+			"Seletor de temperatura removível",
+			"Sistema de inclinação e bandeja coletora de 60ml",
+			"Tampa de vidro; portátil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "ondulada de 36cm"
+			},
+			{
+				"label": "Antiaderente",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "15,5 x 44,5 x 47 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-cadence-perfect-taste-grl300",
+		"name": "Cadence Perfect Taste GRL300",
+		"image": "/images/posts/melhor-grill-eletrico-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa ondulada de 30cm com capacidade de 2,5L",
+			"5 níveis de temperatura",
+			"Tampa de vidro",
+			"Versátil e portátil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "ondulada de 30cm"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "5 níveis"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,5 x 41,5 x 37,5 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-agratto-mangiare-apeq01i",
+		"name": "Agratto Mangiare APEQ01i",
+		"image": "/images/posts/melhor-grill-eletrico-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa quadrada com capacidade de 4,6L",
+			"5 níveis de temperatura (90 a 190 °C)",
+			"Alta potência e cabo removível",
+			"Alças isotérmicas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "quadrada"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "90 a 190 °C (5 níveis)"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,5 x 30,3 x 42,5 cm"
+			}
+		]
+	},
+	{
+		"id": "grill-eletrico-mondial-smart-grill-g-04",
+		"name": "Mondial Smart Grill G-04",
+		"image": "/images/posts/melhor-grill-eletrico-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Chapa ondulada de 30cm, compacta e multifuncional",
+			"7 níveis de temperatura",
+			"Bandeja coletora e tampa de vidro",
+			"Alças isotérmicas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "ondulada de 30cm"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Dimensões",
+				"value": "12 x 37 x 34 cm"
+			}
+		]
+	}
+]

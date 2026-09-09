@@ -1,0 +1,163 @@
+[
+	{
+		"id": "geladeira-panasonic-nr-db99gvwba",
+		"name": "Panasonic NR-DB99GVWBA",
+		"image": "/images/posts/melhor-geladeira-panasonic-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"French door de 4 portas com 618L e compressor inverter",
+			"Gavetas Prime Fresh e compartimento Prime Freeze",
+			"Tecnologias Econavi e NanoeX antibacteriana",
+			"Fábrica de gelo automática e dispenser de água"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "French door (4 portas)" },
+			{ "label": "Capacidade", "value": "618L" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "179 x 90 x 75 cm" },
+			{ "label": "Peso", "value": "114kg" },
+			{ "label": "Eficiência", "value": "A+" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nr-bb64pv2x",
+		"name": "Panasonic NR-BB64PV2X",
+		"image": "/images/posts/melhor-geladeira-panasonic-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Freezer inferior, 475L totais (166L no freezer)",
+			"Compressor inverter e classificação A+++",
+			"Sistema antibactéria Ag e gaveta FreshZone",
+			"Compartimento Extra Cold e painel LED touch"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "freezer inferior" },
+			{ "label": "Capacidade", "value": "475L (freezer 166L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "185 x 69,4 x 76 cm" },
+			{ "label": "Peso", "value": "74kg" },
+			{ "label": "Eficiência", "value": "A+++" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nr-bt41pd1x",
+		"name": "Panasonic NR-BT41PD1X",
+		"image": "/images/posts/melhor-geladeira-panasonic-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Freezer superior, 387L totais (95L no freezer)",
+			"Compressor inverter e classificação A+++",
+			"Antibactéria Ag com filtro de carvão",
+			"Gaveta FreshZone e compartimento Extra Cold"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "freezer superior" },
+			{ "label": "Capacidade", "value": "387L (freezer 95L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "180 x 60 x 77 cm" },
+			{ "label": "Peso", "value": "57kg" },
+			{ "label": "Eficiência", "value": "A+++" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nr-bt56pd4xa",
+		"name": "Panasonic NR-BT56PD4XA",
+		"image": "/images/posts/melhor-geladeira-panasonic-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Freezer superior, 435L totais (102L no freezer)",
+			"Compressor inverter e classificação A+++",
+			"Antibactéria Ag e gaveta FreshZone",
+			"Compartimento Extra Cold e Ice Twister"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "freezer superior" },
+			{ "label": "Capacidade", "value": "435L (freezer 102L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "174,6 x 69,7 x 75,8 cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Eficiência", "value": "A+++" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nr-bb71gv7b",
+		"name": "Panasonic NR-BB71GV7B",
+		"image": "/images/posts/melhor-geladeira-panasonic-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Duas portas, 511L totais (137L no freezer)",
+			"Compressor inverter e acabamento Black Glass",
+			"Sistema SmartSense e Fresh Freezer",
+			"Painel LED touch"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duas portas" },
+			{ "label": "Capacidade", "value": "511L (freezer 137L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "195 x 69,5 x 75,1 cm" },
+			{ "label": "Peso", "value": "86kg" },
+			{ "label": "Eficiência", "value": "A" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nr-bb41pv2t",
+		"name": "Panasonic NR-BB41PV2T",
+		"image": "/images/posts/melhor-geladeira-panasonic-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Freezer inferior, 407L totais (137L no freezer)",
+			"Compressor inverter e sistema SmartSense",
+			"Antibactéria Ag e gaveta FreshZone",
+			"Turbo Freezer e painel LED Easy Touch"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "freezer inferior" },
+			{ "label": "Capacidade", "value": "407L (freezer 137L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "186 x 60 x 76 cm" },
+			{ "label": "Peso", "value": "66kg" },
+			{ "label": "Eficiência", "value": "A" }
+		]
+	},
+	{
+		"id": "geladeira-panasonic-nb-bb65gv7ba",
+		"name": "Panasonic NB-BB65GV7BA",
+		"image": "/images/posts/melhor-geladeira-panasonic-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Duas portas, 467L totais (166L no freezer)",
+			"Fresh Freezer com 4 temperaturas independentes (-5 °C a 4 °C)",
+			"Compressor inverter e acabamento Black Glass",
+			"Sistema SmartSense e Drink Cooler"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "duas portas" },
+			{ "label": "Capacidade", "value": "467L (freezer 166L)" },
+			{ "label": "Sistema", "value": "Frost Free" },
+			{ "label": "Compressor", "value": "inverter" },
+			{ "label": "Dimensões", "value": "185 x 69,4 x 74,5 cm" },
+			{ "label": "Peso", "value": "79kg" },
+			{ "label": "Eficiência", "value": "A" }
+		]
+	}
+]

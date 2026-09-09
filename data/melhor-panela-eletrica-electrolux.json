@@ -1,0 +1,270 @@
+[
+	{
+		"id": "panela-eletrica-electrolux-electrolux-pce20",
+		"name": "Electrolux PCE20",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de pressão elétrica de 5L (21 xícaras), 900W",
+			"Programas automáticos, função para feijão e manter aquecido",
+			"Panela interna de aço inox",
+			"9 dispositivos de segurança; cabo removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "pressão elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "5L"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão rotativo"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-pcc20",
+		"name": "Electrolux PCC20",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de pressão elétrica de 6L (25 xícaras), 1000W",
+			"15 receitas pré-programadas, cozimento lento e início programado (24h)",
+			"3 níveis de pressão ajustáveis",
+			"10 dispositivos de segurança; panela interna antiaderente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "pressão elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "display digital"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-ecc20",
+		"name": "Electrolux ECC20",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela multifunção de 1,8L (8 xícaras), 630W (sem pressão)",
+			"4 modos programáveis (rápido, lento, sopa, manter aquecido)",
+			"Painel LED com Pro-Select",
+			"Tampa de vidro, suporte para vapor e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multifunção"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8L"
+			},
+			{
+				"label": "Potência",
+				"value": "630W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 12 horas"
+			},
+			{
+				"label": "Painel",
+				"value": "LED Pro-Select"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-erc10",
+		"name": "Electrolux ERC10",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de arroz de 2L (8 xícaras), 350W",
+			"Função 2 em 1 (arroz e vapor), cozinhar/refogar e manter aquecido",
+			"Panela interna antiaderente removível",
+			"Tampa de vidro e bandeja para vapor; formato compacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "panela de arroz"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2L"
+			},
+			{
+				"label": "Potência",
+				"value": "350W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Painel",
+				"value": "mecânico"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-rcb50",
+		"name": "Electrolux RCB50",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de arroz de 1,3L (7 xícaras)",
+			"Funções arroz, sopa, macarrão e vapor simultâneo, além de manter aquecido",
+			"Panela interna antiaderente removível",
+			"Tampa de vidro, bandeja para vapor e desligamento automático; leve"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "panela de arroz"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,3L"
+			},
+			{
+				"label": "Potência",
+				"value": "500W (127V) / 450W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Painel",
+				"value": "mecânico"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-pcc15",
+		"name": "Electrolux PCC15",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de pressão elétrica de 5L (21 xícaras), 1000W",
+			"10 programas (feijão, arroz, carne, macarrão), cozimento lento e início programado (24h)",
+			"Operação silenciosa e cabo removível",
+			"10 dispositivos de segurança; painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "pressão elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Painel",
+				"value": "display digital"
+			}
+		]
+	},
+	{
+		"id": "panela-eletrica-electrolux-electrolux-erc30",
+		"name": "Electrolux ERC30",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Panela de arroz de 3,5L (15 xícaras), 700W",
+			"Função 2 em 1 (arroz e vapor), cozinhar/refogar e manter aquecido",
+			"Panela interna antiaderente removível",
+			"Tampa de vidro, bandeja para vapor e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "panela de arroz"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Painel",
+				"value": "mecânico"
+			}
+		]
+	}
+]

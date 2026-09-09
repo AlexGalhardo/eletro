@@ -1,0 +1,145 @@
+[
+	{
+		"id": "tesoura-poda-okatsune-103c-g",
+		"name": "Okatsune 103C G",
+		"image": "/images/posts/melhor-tesoura-de-poda-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura bypass manual com aço de alto carbono Izumo Yasugi",
+			"Lâmina com dois ângulos de afiação e dupla curvatura",
+			"Corta galhos de até 25mm",
+			"Acompanha molas de reposição"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "bypass manual" },
+			{ "label": "Lâmina", "value": "aço alto carbono Izumo Yasugi" },
+			{ "label": "Corte máximo", "value": "25mm" }
+		]
+	},
+	{
+		"id": "tesoura-poda-tramontina-78363105",
+		"name": "Tramontina 78363105",
+		"image": "/images/posts/melhor-tesoura-de-poda-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura de poda alta (galhos) com cabos extensíveis de 45 a 82cm",
+			"Lâmina de aço carbono temperado, corta até 30mm",
+			"Batente emborrachado e trava de segurança",
+			"Cabos metálicos com pegada emborrachada"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "bypass manual" },
+			{ "label": "Lâmina", "value": "aço carbono temperado" },
+			{ "label": "Corte máximo", "value": "30mm" },
+			{ "label": "Comprimento", "value": "66cm (cabos de 45 a 82cm)" },
+			{ "label": "Peso", "value": "1,296kg" }
+		]
+	},
+	{
+		"id": "tesoura-poda-tramontina-78304511",
+		"name": "Tramontina 78304511",
+		"image": "/images/posts/melhor-tesoura-de-poda-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura bypass leve, com corpo de alumínio",
+			"Lâmina de aço carbono temperado, corta até 17mm",
+			"Ajuste de aproximação entre as lâminas",
+			"Trava de segurança; apenas 231g"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "bypass manual" },
+			{ "label": "Lâmina", "value": "aço carbono temperado" },
+			{ "label": "Corte máximo", "value": "17mm" },
+			{ "label": "Comprimento", "value": "21cm" },
+			{ "label": "Peso", "value": "231g" }
+		]
+	},
+	{
+		"id": "tesoura-poda-tramontina-78316501",
+		"name": "Tramontina 78316501",
+		"image": "/images/posts/melhor-tesoura-de-poda-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura bypass com cabo de alumínio revestido em borracha",
+			"Lâmina de aço carbono temperado, corta até 20mm",
+			"Batente emborrachado e trava de segurança",
+			"Leve, com apenas 226g"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "bypass manual" },
+			{ "label": "Lâmina", "value": "aço carbono temperado" },
+			{ "label": "Corte máximo", "value": "20mm" },
+			{ "label": "Comprimento", "value": "20,1cm" },
+			{ "label": "Peso", "value": "226g" }
+		]
+	},
+	{
+		"id": "tesoura-poda-tramontina-78300001",
+		"name": "Tramontina 78300001",
+		"image": "/images/posts/melhor-tesoura-de-poda-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura bypass ultraleve, com 109g",
+			"Lâmina de aço carbono temperado, corta até 17mm",
+			"Eixo de corte centralizado e batentes internos",
+			"Cabo plástico ergonômico curvado"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "bypass manual" },
+			{ "label": "Lâmina", "value": "aço carbono temperado" },
+			{ "label": "Corte máximo", "value": "17mm" },
+			{ "label": "Comprimento", "value": "17,8cm" },
+			{ "label": "Peso", "value": "109g" }
+		]
+	},
+	{
+		"id": "tesoura-poda-palisad-605038",
+		"name": "PALISAD 605038",
+		"image": "/images/posts/melhor-tesoura-de-poda-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura de poda manual com mecanismo de mola",
+			"Corta galhos de até 15mm",
+			"Cabo revestido em borracha",
+			"Trava de segurança"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual" },
+			{ "label": "Corte máximo", "value": "15mm" },
+			{ "label": "Comprimento", "value": "180mm" }
+		]
+	},
+	{
+		"id": "tesoura-poda-vonder-30-85-760-000",
+		"name": "Vonder 30.85.760.000",
+		"image": "/images/posts/melhor-tesoura-de-poda-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tesoura de poda alta com cabo de alumínio de 76cm",
+			"Ajuste lateral que gira o cabo em 180°",
+			"Lâmina de aço carbono, corta até 10mm",
+			"Mecanismo de garra plástica, indicada para colheita de frutas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual (cabo alto)" },
+			{ "label": "Lâmina", "value": "aço carbono" },
+			{ "label": "Corte máximo", "value": "10mm" },
+			{ "label": "Comprimento", "value": "76cm" },
+			{ "label": "Peso", "value": "560g" }
+		]
+	}
+]

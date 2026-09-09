@@ -1,0 +1,156 @@
+[
+	{
+		"id": "nespresso-vertuo-creatista",
+		"name": "Nespresso Vertuo Creatista",
+		"image": "/images/posts/melhor-cafeteira-nespresso-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1500W com tecnologia Centrifusion e leitura de código de barras da cápsula",
+			"Reservatório de 2L e 7 tamanhos de bebida",
+			"Vaporizador de leite integrado com 3 níveis de temperatura",
+			"Conectividade Bluetooth/Wi-Fi"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Reservatório", "value": "2L" },
+			{ "label": "Cápsula", "value": "Original e Vertuo" },
+			{ "label": "Vaporizador de leite", "value": "sim, integrado" },
+			{ "label": "Dimensões", "value": "32,2 x 24,5 x 41,7 cm" },
+			{ "label": "Desligamento automático", "value": "2 minutos" }
+		]
+	},
+	{
+		"id": "nespresso-pixie-redesign",
+		"name": "Nespresso Pixie Redesign",
+		"image": "/images/posts/melhor-cafeteira-nespresso-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1350W e pressão de 19 bar",
+			"Aquecimento rápido em cerca de 25 segundos",
+			"Construção compacta em metal com 2 botões pré-programados",
+			"Reservatório de 700ml"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1350W" },
+			{ "label": "Pressão", "value": "19 bar" },
+			{ "label": "Reservatório", "value": "700ml" },
+			{ "label": "Cápsula", "value": "Original" },
+			{ "label": "Dimensões", "value": "23,5 x 11,1 x 32,6 cm" },
+			{ "label": "Peso", "value": "2,4kg" }
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini",
+		"name": "Nespresso Essenza Mini",
+		"image": "/images/posts/melhor-cafeteira-nespresso-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1260W e pressão de 19 bar",
+			"Design slim, a mais compacta da seleção",
+			"Botões programáveis",
+			"Operação econômica; reservatório de 600ml"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1260W" },
+			{ "label": "Pressão", "value": "19 bar" },
+			{ "label": "Reservatório", "value": "600ml" },
+			{ "label": "Cápsula", "value": "Original" },
+			{ "label": "Dimensões", "value": "20,5 x 11 x 33 cm" },
+			{ "label": "Peso", "value": "2,3kg" }
+		]
+	},
+	{
+		"id": "nespresso-citiz",
+		"name": "Nespresso CitiZ",
+		"image": "/images/posts/melhor-cafeteira-nespresso-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1260W com 4 opções de bebida (espresso, lungo, americano e americano XL)",
+			"Função de água quente",
+			"Corpo em aço inox",
+			"Aquecimento em 25 segundos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1260W" },
+			{ "label": "Cápsula", "value": "Original" },
+			{ "label": "Dimensões", "value": "27,4 x 13 x 38,9 cm" },
+			{ "label": "Peso", "value": "4kg" },
+			{ "label": "Desligamento automático", "value": "9 minutos" }
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini-d30",
+		"name": "Nespresso Essenza Mini D30",
+		"image": "/images/posts/melhor-cafeteira-nespresso-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1260W e pressão de 19 bar",
+			"Acompanha espumador de leite Aeroccino3 (espuma quente ou fria)",
+			"Botões programáveis e 2 tamanhos de café",
+			"Design compacto; reservatório de 600ml"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1260W" },
+			{ "label": "Pressão", "value": "19 bar" },
+			{ "label": "Reservatório", "value": "600ml" },
+			{ "label": "Cápsula", "value": "Original" },
+			{ "label": "Espumador de leite", "value": "sim, Aeroccino3 incluso" },
+			{ "label": "Dimensões", "value": "20,5 x 11 x 32,5 cm" }
+		]
+	},
+	{
+		"id": "nespresso-vertuo-pop",
+		"name": "Nespresso Vertuo Pop",
+		"image": "/images/posts/melhor-cafeteira-nespresso-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Centrifusion com leitor de código de barras",
+			"Operação em um botão e 6 tamanhos de bebida",
+			"Conectividade Bluetooth/Wi-Fi via app",
+			"Aquecimento em 30 segundos; reservatório de 600ml"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300 a 1500W" },
+			{ "label": "Reservatório", "value": "600ml" },
+			{ "label": "Cápsula", "value": "Vertuo" },
+			{ "label": "Dimensões", "value": "25 x 13,6 x 42,6 cm" },
+			{ "label": "Peso", "value": "3,5kg" },
+			{ "label": "Desligamento automático", "value": "2 minutos" }
+		]
+	},
+	{
+		"id": "nespresso-creatista-plus",
+		"name": "Nespresso Creatista Plus",
+		"image": "/images/posts/melhor-cafeteira-nespresso-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1600W e pressão de 19 bar",
+			"Vaporizador profissional com controle de temperatura e sistema autolimpante",
+			"Interface digital e 7 opções de bebida",
+			"Reservatório de 1,5L; aquecimento em 3 segundos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1600W" },
+			{ "label": "Pressão", "value": "19 bar" },
+			{ "label": "Reservatório", "value": "1,5L" },
+			{ "label": "Cápsula", "value": "Original" },
+			{ "label": "Vaporizador de leite", "value": "sim, profissional" },
+			{ "label": "Dimensões", "value": "31 x 16,8 x 41,4 cm" },
+			{ "label": "Peso", "value": "5,2kg" }
+		]
+	}
+]

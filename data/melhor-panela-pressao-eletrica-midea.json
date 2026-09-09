@@ -1,0 +1,234 @@
+[
+	{
+		"id": "panela-pressao-eletrica-midea-midea-nutripro-pp5ms1",
+		"name": "Midea NutriPro PP5MS1",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5L com função NutriPro para preservar nutrientes",
+			"9 programas automáticos e modo vapor",
+			"Regulagem automática de vapor e função manter aquecido",
+			"Panela interna com revestimento Blackstone; 9 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Programas",
+				"value": "9"
+			},
+			{
+				"label": "Painel",
+				"value": "display digital"
+			},
+			{
+				"label": "Válvulas de segurança",
+				"value": "9 dispositivos"
+			}
+		]
+	},
+	{
+		"id": "panela-pressao-eletrica-midea-midea-ppa71",
+		"name": "Midea PPA71",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6L com funções cozinhar, assar, refogar, fritar e cozimento lento",
+			"Timer de até 24 horas e função manter aquecido",
+			"Personalização My Flavor e My Recipe",
+			"Panela interna antiaderente; 9 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Painel",
+				"value": "display digital"
+			},
+			{
+				"label": "Válvulas de segurança",
+				"value": "9 dispositivos"
+			}
+		]
+	},
+	{
+		"id": "panela-pressao-eletrica-midea-midea-ppg70s1",
+		"name": "Midea PPG70S1",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6L com 12 programas automáticos pré-definidos",
+			"Timer de até 24 horas e início programado",
+			"Acompanha bandeja para cozimento a vapor",
+			"Painel LED digital; 9 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Programas",
+				"value": "12"
+			},
+			{
+				"label": "Timer",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Painel",
+				"value": "LED digital"
+			}
+		]
+	},
+	{
+		"id": "panela-pressao-eletrica-midea-midea-ppm41",
+		"name": "Midea PPM41",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4L, compacta, com função 4 em 1 (cozinhar, assar, refogar, fritar)",
+			"Controle por botão rotativo",
+			"Panela interna com revestimento Blackstone",
+			"Timer de até 45 minutos; 9 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4L"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 45 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão rotativo"
+			}
+		]
+	},
+	{
+		"id": "panela-pressao-eletrica-midea-midea-ppb71",
+		"name": "Midea PPB71",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6L com função 4 em 1 (cozinhar, assar, refogar, fritar)",
+			"Controle por botão rotativo",
+			"Cabo de força removível e livro de receitas incluso",
+			"8 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Timer",
+				"value": "até 90 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão rotativo"
+			},
+			{
+				"label": "Válvulas de segurança",
+				"value": "8 dispositivos"
+			}
+		]
+	},
+	{
+		"id": "panela-pressao-eletrica-midea-midea-nutripro-ppd5p1-2",
+		"name": "Midea NutriPro PPD5P1/2",
+		"image": "/images/posts/melhor-panela-pressao-eletrica-midea-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5L com função NutriPro e regulagem automática de vapor",
+			"Modo vapor e função manter aquecido",
+			"Panela interna com revestimento Blackstone",
+			"9 sistemas de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W (127V) / 915W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Painel",
+				"value": "display digital"
+			},
+			{
+				"label": "Válvulas de segurança",
+				"value": "9 dispositivos"
+			}
+		]
+	}
+]

@@ -1,0 +1,278 @@
+[
+	{
+		"id": "motosserra-husqvarna-forestal-120-14",
+		"name": "Husqvarna Forestal 120 14\"",
+		"image": "/images/posts/melhor-motosserra-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 35cc",
+			"Sabre de 14\", leve e compacto (4,4kg)",
+			"Tecnologia Air Injection e partida facilitada",
+			"Bomba de injeção para lubrificação e sistema antivibração"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "35cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "14\""
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 3/4\""
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			},
+			{
+				"label": "Antivibração",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "motosserra-stihl-ms-162-16",
+		"name": "Stihl MS 162 16\"",
+		"image": "/images/posts/melhor-motosserra-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 30,1cc",
+			"Sabre de 12\", compacto (4,5kg)",
+			"Lubrificação automática e reservatório de óleo de 280ml",
+			"Baixa vibração, de 3,7 m/s²"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "30,1cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "12\" (30cm)"
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 3/8\" P"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Reservatório de óleo",
+				"value": "280ml"
+			}
+		]
+	},
+	{
+		"id": "motosserra-tekna-cs58p18-18",
+		"name": "Tekna CS58P18 18\"",
+		"image": "/images/posts/melhor-motosserra-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 54,5cc",
+			"Sabre de 18\" com corrente Oregon",
+			"Bomba de óleo automática e freio de segurança",
+			"Até 12.000 rpm; design ergonômico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,5cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "18\""
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 3/8\""
+			},
+			{
+				"label": "Peso",
+				"value": "5,9kg"
+			},
+			{
+				"label": "Rotação máxima",
+				"value": "12.000 rpm"
+			}
+		]
+	},
+	{
+		"id": "motosserra-nakasaki-nk-780at-s-22",
+		"name": "Nakasaki NK-780AT-S 22\"",
+		"image": "/images/posts/melhor-motosserra-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 78cc, de uso profissional",
+			"Sabre longo, de 22\"",
+			"Proteção contra superaquecimento",
+			"Freio de corrente automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "78cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "22\""
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "motosserra-vonder-ev-2000-16",
+		"name": "Vonder EV 2000 16\"",
+		"image": "/images/posts/melhor-motosserra-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor elétrico com fio de 2000W",
+			"Sabre de 16\" e freio de corrente automático",
+			"Reservatório de óleo de 110ml com lubrificação automática",
+			"Dupla isolação e trava de segurança; 6.300 rpm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica (com fio)"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Sabre",
+				"value": "16\""
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 3/8\""
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			},
+			{
+				"label": "Reservatório de óleo",
+				"value": "110ml"
+			}
+		]
+	},
+	{
+		"id": "motosserra-toyama-tcs58h-18snb-18",
+		"name": "Toyama TCS58H-18SNB 18\"",
+		"image": "/images/posts/melhor-motosserra-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 54,4cc (3,2 HP)",
+			"Sabre de 18\" com ponteira de roletes",
+			"Lubrificação automática e ajustável, reservatório de 550ml",
+			"Refrigeração a ar; até 12.000 rpm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,4cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "18\""
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 3/8\""
+			},
+			{
+				"label": "Peso",
+				"value": "5,32kg"
+			},
+			{
+				"label": "Reservatório de óleo",
+				"value": "550ml"
+			}
+		]
+	},
+	{
+		"id": "motosserra-vonder-mgp-546-18",
+		"name": "Vonder MGP 546 18\"",
+		"image": "/images/posts/melhor-motosserra-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina 2 tempos de 54,6cc",
+			"Sabre de 18\" e sistema antivibração",
+			"Filtro HEPA e pino de segurança",
+			"Reservatório de óleo de 560ml; acompanha kit de ferramentas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina (2 tempos)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,6cc"
+			},
+			{
+				"label": "Sabre",
+				"value": "18\""
+			},
+			{
+				"label": "Corrente",
+				"value": "passo 0.325\""
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Reservatório de óleo",
+				"value": "560ml"
+			},
+			{
+				"label": "Antivibração",
+				"value": "sim"
+			}
+		]
+	}
+]

@@ -1,0 +1,286 @@
+[
+	{
+		"id": "trena-digital-bosch-glm-50-12",
+		"name": "Bosch GLM 50-12",
+		"image": "/images/posts/melhor-trena-digital-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 50m com precisão de ±1,5mm",
+			"Modos de distância, área, volume e altura indireta",
+			"Display colorido e memória de 15 medições",
+			"Proteção IP54; medição em 0,5s"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "50m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±1,5mm"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "15 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-bosch-glm-40",
+		"name": "Bosch GLM 40",
+		"image": "/images/posts/melhor-trena-digital-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 40m com precisão de ±1,5mm",
+			"Modos de distância, área, volume e altura indireta",
+			"Display retroiluminado e memória de 10 medições",
+			"Resistente a queda de 1m; proteção IP54"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "40m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±1,5mm"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "10 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "90g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "10,5 x 4,1 x 2,4 cm"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-philco-ptl01",
+		"name": "Philco PTL01",
+		"image": "/images/posts/melhor-trena-digital-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 40m com precisão de ±2mm",
+			"Modos de distância, área, volume e medição indireta",
+			"Display LCD retroiluminado e memória de 20 medições",
+			"Três unidades (metros, pés e polegadas); preço acessível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "40m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "20 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "120g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "12,5 x 6,0 x 3,0 cm"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-vonder-vd050",
+		"name": "Vonder VD050",
+		"image": "/images/posts/melhor-trena-digital-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 50m com precisão de ±0,2mm",
+			"Modos de distância, área, volume, Pitágoras e máx/mín",
+			"Dois pontos de referência e memória de 99 medições",
+			"Proteção IP54"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "50m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,2mm"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "99 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "120g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,2 x 5,0 x 2,5 cm"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-wap-tlp-40",
+		"name": "WAP TLP 40",
+		"image": "/images/posts/melhor-trena-digital-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 40m com precisão de ±2mm",
+			"Modos de distância, área, volume e Pitágoras",
+			"Medição contínua em tempo real",
+			"Display LCD retroiluminado e indicador de bateria fraca; apenas 72g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "40m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "20 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "72g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "4,6 x 11,0 x 2,5 cm"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-milessey-s6",
+		"name": "Milessey S6",
+		"image": "/images/posts/melhor-trena-digital-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 40m com precisão de ±2mm",
+			"Cálculo de área e volume",
+			"Nível de bolha integrado",
+			"Design compacto; proteção IP54; opção econômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "40m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Medição mínima",
+				"value": "0,01m"
+			}
+		]
+	},
+	{
+		"id": "trena-digital-bosch-glm-25-23",
+		"name": "Bosch GLM 25-23",
+		"image": "/images/posts/melhor-trena-digital-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Alcance de 25m com precisão de ±2mm",
+			"Modos de distância, área e medição contínua",
+			"Interface simples, com operação em dois botões",
+			"Foco em reparos domésticos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alcance",
+				"value": "25m"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Bateria",
+				"value": "2x AAA"
+			},
+			{
+				"label": "Memória",
+				"value": "10 medições"
+			},
+			{
+				"label": "Peso",
+				"value": "90g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "10 x 4,3 x 2,4 cm"
+			}
+		]
+	}
+]

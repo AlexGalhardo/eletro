@@ -1,0 +1,147 @@
+[
+	{
+		"id": "cooler-coleman-316-series-62qt",
+		"name": "Coleman 316 Séries 62QT",
+		"image": "/images/posts/melhor-cooler-com-rodinha-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"59L com retenção térmica de até 6 dias a 32 °C",
+			"Tampa reforçada que serve de assento e suporta até 113 kg",
+			"Rodas de 16cm e alças retráteis giratórias",
+			"Dreno com trava à prova de vazamento; comporta 50 latas + 12 kg de gelo"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "59L" },
+			{ "label": "Retenção térmica", "value": "até 6 dias a 32 °C" },
+			{ "label": "Dimensões", "value": "41 x 75 x 45 cm" },
+			{ "label": "Peso", "value": "6,1kg" },
+			{ "label": "Material", "value": "plástico reciclado; forro interno em PU" },
+			{ "label": "Rodas", "value": "2 rodas de 16cm" }
+		]
+	},
+	{
+		"id": "cooler-soprano-tropical-s",
+		"name": "Soprano Tropical S",
+		"image": "/images/posts/melhor-cooler-com-rodinha-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"50L com retenção de até 36 horas com gelo",
+			"Isolamento em espuma de PU e exterior em polipropileno",
+			"Rodas embutidas e alça retrátil articulada",
+			"Livre de BPA; comporta 68 latas de 350ml"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "50L" },
+			{ "label": "Retenção térmica", "value": "até 36 horas com gelo" },
+			{ "label": "Dimensões", "value": "37,5 x 54,5 x 44,5 cm" },
+			{ "label": "Peso", "value": "5,15kg" },
+			{ "label": "Material", "value": "polipropileno; espuma de PU" }
+		]
+	},
+	{
+		"id": "cooler-mor-25108221",
+		"name": "Mor 25108221",
+		"image": "/images/posts/melhor-cooler-com-rodinha-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"42L com retenção de até 48 horas com gelo",
+			"Alça retrátil ajustável em 3 alturas",
+			"4 porta-copos embutidos; comporta 56 latas",
+			"Superfície lisa, fácil de limpar"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "42L" },
+			{ "label": "Retenção térmica", "value": "até 48 horas com gelo" },
+			{ "label": "Dimensões", "value": "51,5 x 43,5 x 46 cm" },
+			{ "label": "Peso", "value": "4,76kg" },
+			{ "label": "Material", "value": "polipropileno virgem; interior em EPS" }
+		]
+	},
+	{
+		"id": "cooler-antares-03010604002",
+		"name": "Antares 03010604002",
+		"image": "/images/posts/melhor-cooler-com-rodinha-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"54L com mesa-tampa e 6 porta-copos",
+			"2 divisórias internas e 2 bandejas removíveis",
+			"Duas opções de alça (reboque e lateral)",
+			"Comporta 74 latas ou 6 garrafas de 2 litros"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "54L" },
+			{ "label": "Dimensões", "value": "43 x 67 x 43 cm" },
+			{ "label": "Peso", "value": "6,5kg" },
+			{ "label": "Material", "value": "polipropileno; isolamento em EPS" }
+		]
+	},
+	{
+		"id": "cooler-antares-03010601005",
+		"name": "Antares 03010601005",
+		"image": "/images/posts/melhor-cooler-com-rodinha-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"34L, leve, com apenas 3 kg",
+			"Tampa com 4 porta-copos e pés elevados",
+			"2 tipos de alça com trava",
+			"Comporta 46 latas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34L" },
+			{ "label": "Dimensões", "value": "31 x 51 x 46 cm" },
+			{ "label": "Peso", "value": "3kg" },
+			{ "label": "Material", "value": "polipropileno; isolamento em EPS" }
+		]
+	},
+	{
+		"id": "cooler-ntk-ice-box-560454",
+		"name": "NTK Ice Box Cooler 560454",
+		"image": "/images/posts/melhor-cooler-com-rodinha-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"54L com trava integrada à alça para fechar a tampa",
+			"2 divisórias internas e 2 bandejas removíveis",
+			"Duas alças (curta e longa) e 6 porta-copos",
+			"Comporta 74 latas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "54L" },
+			{ "label": "Dimensões", "value": "43 x 67 x 43 cm" },
+			{ "label": "Peso", "value": "6,2kg" },
+			{ "label": "Material", "value": "polipropileno, polietileno; interior em EPS" }
+		]
+	},
+	{
+		"id": "cooler-insmeer-od014-bk",
+		"name": "INSMEER OD014-BK",
+		"image": "/images/posts/melhor-cooler-com-rodinha-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"40L flexível, 100% à prova de vazamento e água",
+			"Carrinho removível com 2 rodas traseiras e base dobrável",
+			"Alça retrátil de até 90cm e alça de ombro ajustável",
+			"Bolsos laterais e frontais; comporta 60 latas; abridor incluso"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "40L" },
+			{ "label": "Retenção térmica", "value": "até 24 horas abaixo de 10 °C com gelo reutilizável" },
+			{ "label": "Dimensões", "value": "31 x 38 x 34 cm" },
+			{ "label": "Peso", "value": "6,3kg" },
+			{ "label": "Material", "value": "Oxford 900D; isolamento EPE 10mm; forro PEVA" }
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": "lanterna-profissional-bosch-gli-18v-1900",
+		"name": "Bosch GLI 18V-1900",
+		"image": "/images/posts/melhor-lanterna-profissional-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Holofote de 1900 lúmens",
+			"Bateria recarregável de 18V, com 8 horas de autonomia",
+			"5 posições de inclinação e compatível com tripé (5/8\")",
+			"Alerta de bateria fraca; corpo em poliamida, metal e elastômero"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "1900"
+			},
+			{
+				"label": "Bateria",
+				"value": "18V recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "8 horas"
+			},
+			{
+				"label": "Modos",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-bosch-gli-18v-300",
+		"name": "Bosch GLI 18V-300",
+		"image": "/images/posts/melhor-lanterna-profissional-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"300 lúmens com alcance de 1300 metros",
+			"Bateria recarregável de 18V, com 10 horas de autonomia",
+			"6 modos e dobradiça articulada",
+			"Gancho metálico; empunhadura ergonômica; 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "300"
+			},
+			{
+				"label": "Alcance",
+				"value": "1300m"
+			},
+			{
+				"label": "Bateria",
+				"value": "18V recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "10 horas"
+			},
+			{
+				"label": "Modos",
+				"value": "6"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-makita-dml815",
+		"name": "Makita DML815",
+		"image": "/images/posts/melhor-lanterna-profissional-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"160 lúmens com autonomia de até 54 horas",
+			"Bateria recarregável 18V LXT",
+			"Cabeça ajustável em 12 posições e rotação de 170°",
+			"Gancho metálico incluso; corpo em alumínio; 930g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "160"
+			},
+			{
+				"label": "Bateria",
+				"value": "18V LXT recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "54 horas"
+			},
+			{
+				"label": "Corpo",
+				"value": "alumínio e plástico"
+			},
+			{
+				"label": "Peso",
+				"value": "930g"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-dewalt-dcl040",
+		"name": "DeWalt DCL040",
+		"image": "/images/posts/melhor-lanterna-profissional-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"160 lúmens com autonomia de 11 a 25 horas",
+			"Bateria recarregável",
+			"Cabeça ajustável em 120°",
+			"Alça traseira ergonômica; 600g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "160"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "11 a 25 horas"
+			},
+			{
+				"label": "Corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Peso",
+				"value": "600g"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-vonder-ilv1809",
+		"name": "Vonder ILV1809",
+		"image": "/images/posts/melhor-lanterna-profissional-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"180 lúmens",
+			"Bateria Vonder intercambiável recarregável",
+			"Cabeça com rotação de 85° a 180°",
+			"Lente de 5,5cm e clipe de cinto; 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "180"
+			},
+			{
+				"label": "Bateria",
+				"value": "Vonder intercambiável"
+			},
+			{
+				"label": "Rotação da cabeça",
+				"value": "85° a 180°"
+			},
+			{
+				"label": "Corpo",
+				"value": "plástico e borracha"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-dewalt-dcl044",
+		"name": "DeWalt DCL044",
+		"image": "/images/posts/melhor-lanterna-profissional-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"165 lúmens com alcance de 460 metros",
+			"Bateria de íon de lítio recarregável",
+			"Proteção IP55 e rotação de cabeça de 360°",
+			"Base magnética e clipe de cinto; garantia de 3 anos; 260g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "165"
+			},
+			{
+				"label": "Alcance",
+				"value": "460m"
+			},
+			{
+				"label": "Bateria",
+				"value": "Li-ion recarregável"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP55"
+			},
+			{
+				"label": "Peso",
+				"value": "260g"
+			}
+		]
+	},
+	{
+		"id": "lanterna-profissional-bosch-gli-12v-330",
+		"name": "Bosch GLI 12V-330",
+		"image": "/images/posts/melhor-lanterna-profissional-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"330 lúmens",
+			"Bateria recarregável de 12V, com 3 horas de autonomia",
+			"Ajuste flexível de 200° e base magnética",
+			"Compatível com tripé (1/4\"); mosquetão e gancho; 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Lúmens",
+				"value": "330"
+			},
+			{
+				"label": "Bateria",
+				"value": "12V recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "3 horas"
+			},
+			{
+				"label": "Modos",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	}
+]

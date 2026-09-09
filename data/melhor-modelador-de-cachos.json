@@ -1,0 +1,156 @@
+[
+	{
+		"id": "modelador-taiff-curves-automatic-32mm",
+		"name": "Taiff Curves Automatic 32mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril rotativo automático que enrola a mecha sozinho",
+			"3 níveis de temperatura (170, 190 e 210 °C) com display digital",
+			"Revestimento cerâmico com emissão de íons negativos",
+			"Desligamento automático em 1 hora; cabo de 2,5m giratório"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "39W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "32mm" },
+			{ "label": "Temperaturas", "value": "170, 190 e 210 °C" },
+			{ "label": "Revestimento", "value": "cerâmica com íons negativos" },
+			{ "label": "Peso", "value": "200g" }
+		]
+	},
+	{
+		"id": "modelador-taiff-curves-25mm",
+		"name": "Taiff Curves 25mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril de 25mm com temperatura fixa de 210 °C",
+			"Revestimento cerâmico e aquecimento uniforme",
+			"Ponta com proteção térmica",
+			"Cabo de 3m giratório 360°"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "48 a 51W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "25mm" },
+			{ "label": "Temperatura", "value": "210 °C fixa" },
+			{ "label": "Revestimento", "value": "cerâmica" },
+			{ "label": "Peso", "value": "310g" }
+		]
+	},
+	{
+		"id": "modelador-philco-pec15-25mm",
+		"name": "Philco PEC15 25mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril de 25mm com temperatura fixa de 220 °C",
+			"Aquecimento PTC e revestimento cerâmico com turmalina",
+			"Ponta fria e suporte de apoio incluso",
+			"Cabo de 3m giratório 360°"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "25mm" },
+			{ "label": "Temperatura", "value": "220 °C fixa" },
+			{ "label": "Revestimento", "value": "cerâmica com turmalina" },
+			{ "label": "Peso", "value": "320g" }
+		]
+	},
+	{
+		"id": "modelador-mondial-em-12-25mm",
+		"name": "Mondial EM-12 25mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril de 25mm com temperatura fixa de 210 °C",
+			"Revestimento cerâmico e aquecimento uniforme",
+			"Base de apoio inclusa",
+			"Preço acessível; apenas 200g"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "25mm" },
+			{ "label": "Temperatura", "value": "210 °C fixa" },
+			{ "label": "Revestimento", "value": "cerâmica" },
+			{ "label": "Peso", "value": "200g" }
+		]
+	},
+	{
+		"id": "modelador-taiff-curves-13mm",
+		"name": "Taiff Curves 13mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Barril fino de 13mm para cachos bem marcados",
+			"Temperatura fixa de 210 °C",
+			"Ponta protetora em termoplástico e indicador LED",
+			"Cabo de 3m giratório 360°"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "26 a 27W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "13mm" },
+			{ "label": "Temperatura", "value": "210 °C fixa" },
+			{ "label": "Revestimento", "value": "cerâmica" },
+			{ "label": "Peso", "value": "262g" }
+		]
+	},
+	{
+		"id": "modelador-kiss-instawave-25mm",
+		"name": "Kiss Instawave 25mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Rotação automática, com giro nos dois sentidos",
+			"2 níveis de temperatura (204 a 210 °C)",
+			"Revestimento cerâmico com íons negativos e alerta sonoro",
+			"Desligamento automático em 90 minutos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "40W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Diâmetro do barril", "value": "25mm" },
+			{ "label": "Temperaturas", "value": "204 a 210 °C" },
+			{ "label": "Revestimento", "value": "cerâmica com íons negativos" },
+			{ "label": "Peso", "value": "393g" }
+		]
+	},
+	{
+		"id": "modelador-mondial-mct-ju-03-32mm",
+		"name": "Mondial MCT-JU-03 32mm",
+		"image": "/images/posts/melhor-modelador-de-cachos-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Três barris de 32mm para efeito de ondas largas",
+			"2 níveis de temperatura, até 210 °C, com painel digital",
+			"Revestimento com cerâmica, titânio, turmalina e nano prata",
+			"Desligamento automático; base de apoio inclusa"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Barris", "value": "3 x 32mm" },
+			{ "label": "Temperatura", "value": "até 210 °C (2 níveis)" },
+			{ "label": "Revestimento", "value": "cerâmica, titânio, turmalina e nano prata" },
+			{ "label": "Peso", "value": "670g" }
+		]
+	}
+]

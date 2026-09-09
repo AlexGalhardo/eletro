@@ -1,0 +1,270 @@
+[
+	{
+		"id": "cafeteira-arno-arno-espresso-opio-soleil-scsp",
+		"name": "Arno Espresso Opio Soleil SCSP",
+		"image": "/images/posts/melhor-cafeteira-arno-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira espresso com bomba de 15 bar",
+			"Reservatório de 1,2L e bico vaporizador para leite",
+			"Prepara dois cafés ao mesmo tempo",
+			"Aquecedor de xícaras integrado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L de água"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W"
+			},
+			{
+				"label": "Pressão",
+				"value": "15 bar"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-dolce-gusto-genio-s-basic-dgs1",
+		"name": "Arno Dolce Gusto Genio S Basic DGS1",
+		"image": "/images/posts/melhor-cafeteira-arno-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de cápsula, com pressão de 15 bar",
+			"Reservatório removível de 800ml",
+			"Mais de 45 opções de bebida, quentes e geladas",
+			"Desligamento automático em 1 minuto; alerta LED de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml de água"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W (127V) / 1340W (220V)"
+			},
+			{
+				"label": "Pressão",
+				"value": "15 bar"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-dolce-gusto-mini-me",
+		"name": "Arno Dolce Gusto Mini Me",
+		"image": "/images/posts/melhor-cafeteira-arno-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de cápsula compacta, com pressão de 15 bar",
+			"Reservatório removível de 800ml",
+			"Preparo de bebidas quentes e geladas",
+			"Modo eco com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml de água"
+			},
+			{
+				"label": "Potência",
+				"value": "1340W"
+			},
+			{
+				"label": "Pressão",
+				"value": "15 bar"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-soleil-marfim-sfcm",
+		"name": "Arno Soleil Marfim SFCM",
+		"image": "/images/posts/melhor-cafeteira-arno-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro com design retrô, faz até 25 xícaras",
+			"Programável em até 24 horas e desligamento automático (30 min)",
+			"Corta-pingos e visor lateral de nível de água",
+			"Jarra de vidro e placa aquecedora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,25L (25 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Corta-pingos",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "programável até 24h"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-preferita-cfpf",
+		"name": "Arno Preferita CFPF",
+		"image": "/images/posts/melhor-cafeteira-arno-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro compacta, faz até 18 xícaras",
+			"Filtro permanente reutilizável",
+			"Placa aquecedora por 30 minutos",
+			"Corta-pingos e visor lateral; acompanha colher medidora; opção econômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750ml (18 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente"
+			},
+			{
+				"label": "Corta-pingos",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-perfectta-inox-cfpi",
+		"name": "Arno Perfectta Inox CFPI",
+		"image": "/images/posts/melhor-cafeteira-arno-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro compacta em inox, faz até 15 xícaras",
+			"Filtro permanente removível",
+			"Placa aquecedora",
+			"Corta-pingos e visor lateral; acompanha colher medidora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml (12 a 15 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "650W (127V) / 600W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente removível"
+			},
+			{
+				"label": "Corta-pingos",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "cafeteira-arno-arno-new-element-inox-cfne",
+		"name": "Arno New Element Inox CFNE",
+		"image": "/images/posts/melhor-cafeteira-arno-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro em inox, faz até 44 xícaras, com painel digital",
+			"Programável em 24 horas com ajuste de intensidade",
+			"Tubo misturador Flavormix e retenção de calor por 4 horas",
+			"Corta-pingos, visor lateral e desligamento automático (30 min)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8L (44 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente"
+			},
+			{
+				"label": "Timer",
+				"value": "programável 24h"
+			}
+		]
+	}
+]

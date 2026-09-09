@@ -1,0 +1,148 @@
+[
+	{
+		"id": "tosa-andis-emerge-lite",
+		"name": "Andis Emerge Lite",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com cerca de 1,5 hora de autonomia",
+			"Motor rotativo e lâmina de aço inox",
+			"Acompanha 6 pentes adaptadores",
+			"Acompanha carregador e óleo para lâmina"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "sem fio" },
+			{ "label": "Autonomia", "value": "1,5 hora" },
+			{ "label": "Lâmina", "value": "aço inox" },
+			{ "label": "Pentes", "value": "6 adaptadores" },
+			{ "label": "Velocidade", "value": "3800 GPM" }
+		]
+	},
+	{
+		"id": "tosa-wahl-romeo",
+		"name": "Wahl Romeo",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Com fio, para uso profissional em pet shop",
+			"Motor brushless silencioso, com 2 velocidades (3000 e 3600 rpm)",
+			"Desempenho estável em jornadas longas",
+			"Acompanha bolsa para guardar"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "com fio" },
+			{ "label": "Motor", "value": "brushless" },
+			{ "label": "Velocidades", "value": "3000 e 3600 rpm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "tosa-kemei-km-1991",
+		"name": "Kemei KM-1991",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com até 2 horas de autonomia e display LCD",
+			"Lâmina de aço inox ajustável",
+			"Acompanha 4 pentes (3, 6, 10 e 13mm)",
+			"Acompanha cortador de unhas e escova; opção de baixo custo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "5W" },
+			{ "label": "Tipo", "value": "sem fio" },
+			{ "label": "Autonomia", "value": "2 horas" },
+			{ "label": "Lâmina", "value": "aço inox ajustável" },
+			{ "label": "Pentes", "value": "4 (3, 6, 10, 13mm)" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "tosa-propetz-mo3",
+		"name": "Propetz MO3",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com mais de 3 horas de autonomia",
+			"Lâmina de cerâmica que esquenta menos",
+			"Baixo ruído e vibração; 6500 rpm",
+			"Acompanha 3 adaptadores de aço (3, 6 e 10mm) e kit de limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "sem fio" },
+			{ "label": "Autonomia", "value": "mais de 3 horas" },
+			{ "label": "Lâmina", "value": "cerâmica" },
+			{ "label": "Velocidade", "value": "6500 rpm" },
+			{ "label": "Pentes", "value": "3 (3, 6, 10mm)" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "tosa-wahl-pet-clipper-kit",
+		"name": "Wahl Pet Clipper Kit",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Com fio, para uso doméstico",
+			"Lâminas de aço alto carbono autoafiáveis",
+			"Cabo de 2,4m",
+			"Acompanha 4 pentes graduados e maleta"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "com fio" },
+			{ "label": "Lâmina", "value": "aço alto carbono autoafiável" },
+			{ "label": "Pentes", "value": "4 graduados" },
+			{ "label": "Cabo", "value": "2,4m" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "tosa-oneisall-dtj001",
+		"name": "Oneisall DTJ001",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com até 5 horas de autonomia e recarga USB",
+			"Projeto de baixo ruído (45 dB)",
+			"Lâminas removíveis de aço inox",
+			"Funciona em diferentes tipos de pelagem"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "sem fio (recarga USB)" },
+			{ "label": "Autonomia", "value": "5 horas" },
+			{ "label": "Ruído", "value": "45 dB" },
+			{ "label": "Lâmina", "value": "aço inox removível" }
+		]
+	},
+	{
+		"id": "tosa-andis-vida-clipper",
+		"name": "Andis Vida Clipper",
+		"image": "/images/posts/melhor-maquina-tosar-cachorro-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, para uso profissional; 5500 GPM",
+			"Lâmina ajustável em 5 posições",
+			"Acompanha 6 adaptadores (3, 6, 10, 13, 19 e 25mm)",
+			"Acompanha carregador USB e kit de limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "sem fio" },
+			{ "label": "Velocidade", "value": "5500 GPM" },
+			{ "label": "Lâmina", "value": "ajustável em 5 posições" },
+			{ "label": "Pentes", "value": "6 (3, 6, 10, 13, 19, 25mm)" }
+		]
+	}
+]

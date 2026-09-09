@@ -1,0 +1,142 @@
+[
+	{
+		"id": "xicaras-majestic-glass-6-250ml",
+		"name": "Majestic Glass 6 Xícaras 250ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras de vidro borossilicato com parede dupla",
+			"Parede dupla ajuda a manter a temperatura da bebida",
+			"250ml por xícara, sem pires",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras (sem pires)" },
+			{ "label": "Material", "value": "vidro borossilicato" },
+			{ "label": "Volume", "value": "250ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	},
+	{
+		"id": "xicaras-oxford-ryo-maresias-6-220ml",
+		"name": "Oxford Ryo Maresias 6 Xícaras com Pires 220ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras com pires em porcelana",
+			"Formato orgânico de inspiração wabi-sabi",
+			"Decoração com tema de mar; 220ml por xícara",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras + 6 pires" },
+			{ "label": "Material", "value": "porcelana" },
+			{ "label": "Volume", "value": "220ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	},
+	{
+		"id": "xicaras-porto-brasil-roma-6-161ml",
+		"name": "Porto Brasil Roma 6 Xícaras com Pires 161ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras com pires em cerâmica feldspática",
+			"Relevo simétrico inspirado na arquitetura romana",
+			"161ml por xícara, tamanho de café",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras + 6 pires" },
+			{ "label": "Material", "value": "cerâmica feldspática" },
+			{ "label": "Volume", "value": "161ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	},
+	{
+		"id": "xicaras-wolff-pearl-4-180ml",
+		"name": "Wolff Pearl 4 Xícaras com Pires 180ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4 xícaras com pires em cristal com chumbo",
+			"Transparência valoriza a cor de chás e infusões",
+			"180ml por xícara",
+			"Também disponível em rosé e âmbar"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "4 xícaras + 4 pires" },
+			{ "label": "Material", "value": "cristal (com chumbo)" },
+			{ "label": "Volume", "value": "180ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "não / não" }
+		]
+	},
+	{
+		"id": "xicaras-oxford-ryo-white-6-220ml",
+		"name": "Oxford Ryo White 6 Xícaras com Pires 220ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras com pires em porcelana branca",
+			"Design orgânico de filosofia wabi-sabi",
+			"Pires de 16cm; 220ml por xícara",
+			"Pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras + 6 pires" },
+			{ "label": "Material", "value": "porcelana" },
+			{ "label": "Volume", "value": "220ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	},
+	{
+		"id": "xicaras-porto-brasil-madeleine-6-161ml",
+		"name": "Porto Brasil Madeleine 6 Xícaras com Pires 161ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras com pires em cerâmica feldspática",
+			"Relevo que imita bordado artesanal, com acabamento esmaltado",
+			"Ajuda a manter a bebida quente por mais tempo",
+			"161ml por xícara; pode ir ao micro-ondas e à lava-louças"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras + 6 pires" },
+			{ "label": "Material", "value": "cerâmica feldspática" },
+			{ "label": "Volume", "value": "161ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	},
+	{
+		"id": "xicaras-schmidt-prisma-077-6-200ml",
+		"name": "Porcelana Schmidt Prisma 077 6 Xícaras com Pires 200ml",
+		"image": "/images/posts/melhor-jogo-de-xicaras-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"6 xícaras com pires em porcelana branca",
+			"Design octogonal com linhas geométricas",
+			"200ml por xícara",
+			"Pode ir ao micro-ondas, à lava-louças e ao freezer"
+		],
+		"technicalDetails": [
+			{ "label": "Peças", "value": "6 xícaras + 6 pires" },
+			{ "label": "Material", "value": "porcelana" },
+			{ "label": "Volume", "value": "200ml por xícara" },
+			{ "label": "Micro-ondas / lava-louças", "value": "sim / sim" }
+		]
+	}
+]

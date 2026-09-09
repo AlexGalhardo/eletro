@@ -1,0 +1,270 @@
+[
+	{
+		"id": "andador-infantil-safety-1st-spacewalker",
+		"name": "Safety 1st Spacewalker",
+		"image": "/images/posts/melhor-andador-infantil-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 3 em 1: andador, centro de atividades e balanço",
+			"Suporta até 12kg, com 3 alturas reguláveis",
+			"Bandeja removível com sons, luzes e botões",
+			"Assento removível e lavável; certificado pelo Inmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Alturas",
+				"value": "3 posições"
+			},
+			{
+				"label": "Assento lavável",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "65,5 x 50 x 71,5 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-kababy-30400c",
+		"name": "KaBaby 30400C",
+		"image": "/images/posts/melhor-andador-infantil-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 2 em 1, com haste de empurrar para os pais",
+			"Suporta até 12kg",
+			"Bandeja com brinquedos musicais e capota removível",
+			"Rodas multidirecionais e travas nas rodas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Haste para empurrar",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "80 x 65,5 x 74 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-styll-baby-softway",
+		"name": "Styll Baby Softway",
+		"image": "/images/posts/melhor-andador-infantil-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Andador tradicional dobrável para guardar",
+			"Suporta até 12kg, com altura regulável",
+			"Bandeja removível com brinquedos e música",
+			"Assento acolchoado removível e lavável; preço acessível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Assento lavável",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "40 x 55 x 61 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-maxi-baby-la-bamba",
+		"name": "Maxi Baby La Bamba",
+		"image": "/images/posts/melhor-andador-infantil-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Suporta até 12kg, com 3 alturas reguláveis",
+			"Bandeja removível com música e tapete para os pés",
+			"4 freios antiqueda",
+			"Assento macio e removível; aprovado pelo Inmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Alturas",
+				"value": "3 posições"
+			},
+			{
+				"label": "Freios",
+				"value": "4 antiqueda"
+			},
+			{
+				"label": "Dimensões",
+				"value": "68 x 55 x 58 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3,9kg"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-multmaxx-mtx001",
+		"name": "Multmaxx MTX001",
+		"image": "/images/posts/melhor-andador-infantil-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Andador de empurrar, tipo brinquedo educativo",
+			"8 brinquedos educativos inclusos",
+			"Estimula o desenvolvimento motor",
+			"Formato compacto e preço acessível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Tipo",
+				"value": "de empurrar (sem assento)"
+			},
+			{
+				"label": "Brinquedos",
+				"value": "8 educativos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "45 x 34 x 42 cm"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-infanti-appia",
+		"name": "Infanti Appia",
+		"image": "/images/posts/melhor-andador-infantil-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Suporta até 12kg, com 3 alturas reguláveis",
+			"Bandeja removível com brinquedos e 12 melodias",
+			"Base firme com rodas giratórias 360° e espelho",
+			"Assento acolchoado e removível; travas na base"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Alturas",
+				"value": "3 posições"
+			},
+			{
+				"label": "Músicas",
+				"value": "12 melodias"
+			},
+			{
+				"label": "Dimensões",
+				"value": "57 x 61 x 68 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "4,26kg"
+			}
+		]
+	},
+	{
+		"id": "andador-infantil-tutti-baby-safari-ii",
+		"name": "Tutti Baby Safari II",
+		"image": "/images/posts/melhor-andador-infantil-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Suporta até 12kg, com 3 alturas reguláveis",
+			"Sistema de travas automáticas antiqueda",
+			"Rodas dianteiras giratórias",
+			"Capa acolchoada removível; leve, com 2,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso máximo",
+				"value": "12kg"
+			},
+			{
+				"label": "Idade",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Alturas",
+				"value": "3 posições"
+			},
+			{
+				"label": "Freios",
+				"value": "travas automáticas antiqueda"
+			},
+			{
+				"label": "Dimensões",
+				"value": "51 x 61 x 70 cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2,7kg"
+			}
+		]
+	}
+]

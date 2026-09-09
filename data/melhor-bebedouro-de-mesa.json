@@ -1,0 +1,163 @@
+[
+	{
+		"id": "bebedouro-electrolux-pe12g",
+		"name": "Electrolux PE12G",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Purificador de mesa ligado à rede, com água natural, fresca e gelada",
+			"Filtração Acqua Pure que reduz cloro e odores",
+			"Refrigeração eletrônica, reservatório de 0,8L",
+			"Bivolt e compacto"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "purificador (ligado à rede)" },
+			{ "label": "Temperaturas", "value": "natural, fresca e gelada" },
+			{ "label": "Refrigeração", "value": "eletrônica" },
+			{ "label": "Reservatório", "value": "0,8L" },
+			{ "label": "Dimensões", "value": "35 x 16 x 42 cm" },
+			{ "label": "Peso", "value": "4,3kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-consul-cpb34as",
+		"name": "Consul CPB34AS",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Purificador ligado à rede, com água natural e gelada",
+			"Filtração classe A com retenção bacteriológica de até 99%",
+			"Refrigeração eletrônica, reservatório de 0,8L",
+			"Bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "purificador (ligado à rede)" },
+			{ "label": "Temperaturas", "value": "natural e gelada" },
+			{ "label": "Refrigeração", "value": "eletrônica" },
+			{ "label": "Reservatório", "value": "0,8L" },
+			{ "label": "Dimensões", "value": "37,6 x 26,1 x 29 cm" },
+			{ "label": "Peso", "value": "4,5kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-cadence-aguo-beb110",
+		"name": "Cadence Aguô BEB110",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bebedouro de garrafão com água natural e gelada",
+			"Sistema eletrônico silencioso",
+			"Furador de galão integrado",
+			"Leve, com 2,35kg; bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "garrafão" },
+			{ "label": "Temperaturas", "value": "natural e gelada" },
+			{ "label": "Refrigeração", "value": "eletrônica" },
+			{ "label": "Dimensões", "value": "39 x 29 x 31 cm" },
+			{ "label": "Peso", "value": "2,35kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-electrolux-be11x",
+		"name": "Electrolux BE11X",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bebedouro de garrafão com água natural, fresca e gelada",
+			"Modo de fluxo contínuo",
+			"Refrigeração eletrônica, reservatório de 0,8L",
+			"Bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "garrafão" },
+			{ "label": "Temperaturas", "value": "natural, fresca e gelada" },
+			{ "label": "Refrigeração", "value": "eletrônica" },
+			{ "label": "Reservatório", "value": "0,8L" },
+			{ "label": "Dimensões", "value": "44 x 29 x 37,8 cm" },
+			{ "label": "Peso", "value": "4,1kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-philco-pbe15b",
+		"name": "Philco PBE15B",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bebedouro de garrafão com 2 torneiras independentes",
+			"Compatível com galões de 10L e 20L",
+			"Sistema furador e bandeja removível",
+			"Design compacto; bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "garrafão" },
+			{ "label": "Temperaturas", "value": "natural e gelada" },
+			{ "label": "Torneiras", "value": "2 independentes" },
+			{ "label": "Compatibilidade", "value": "galões de 10L e 20L" },
+			{ "label": "Dimensões", "value": "41 x 28,5 x 33,5 cm" },
+			{ "label": "Peso", "value": "2,46kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-britania-bbe12p",
+		"name": "Britânia BBE12P",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bebedouro de garrafão com 2 torneiras e válvula de dreno",
+			"Compatível com galões de 10L e 20L",
+			"Sistema furador e bandeja removível",
+			"Reservatório de 0,8L; bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "garrafão" },
+			{ "label": "Temperaturas", "value": "natural e gelada" },
+			{ "label": "Torneiras", "value": "2" },
+			{ "label": "Compatibilidade", "value": "galões de 10L e 20L" },
+			{ "label": "Reservatório", "value": "0,8L" },
+			{ "label": "Dimensões", "value": "40,8 x 28,5 x 33 cm" },
+			{ "label": "Peso", "value": "2,47kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "bebedouro-midea-slimpure",
+		"name": "Midea SlimPure",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Purificador ultrafino, cerca de 48% mais compacto",
+			"Água natural, fresca e gelada",
+			"Instalação em parede ou bancada",
+			"Refrigeração eletrônica; bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "purificador (ligado à rede)" },
+			{ "label": "Temperaturas", "value": "natural, fresca e gelada" },
+			{ "label": "Refrigeração", "value": "eletrônica" },
+			{ "label": "Reservatório", "value": "0,8L" },
+			{ "label": "Dimensões", "value": "36 x 16,4 x 42 cm" },
+			{ "label": "Peso", "value": "3,0kg" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	}
+]

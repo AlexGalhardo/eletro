@@ -1,0 +1,254 @@
+[
+	{
+		"id": "sanduicheira-mondial-mondial-press-grill-180-pg-02",
+		"name": "Mondial Press Grill 180° PG-02",
+		"image": "/images/posts/melhor-sanduicheira-mondial-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"2000W com aquecimento nas duas chapas onduladas",
+			"Revestimento antiaderente Red Ceramic",
+			"Dobradiça flutuante que abre 180°",
+			"Cabo tipo cool-touch e bandeja coletora de gordura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "onduladas (dupla)"
+			},
+			{
+				"label": "Antiaderente",
+				"value": "Red Ceramic"
+			},
+			{
+				"label": "Cabo cool-touch",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-master-press-pg-01",
+		"name": "Mondial Master Press PG-01",
+		"image": "/images/posts/melhor-sanduicheira-mondial-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1000W com chapas onduladas antiaderentes",
+			"Função 2 em 1 (sanduíche e grill)",
+			"Cabo cool-touch e luz indicadora",
+			"Trava para guardar na vertical; compacta (1,1kg)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "onduladas (dupla)"
+			},
+			{
+				"label": "Antiaderente",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-fast-grill-sandwich-s-12",
+		"name": "Mondial Fast Grill & Sandwich S-12",
+		"image": "/images/posts/melhor-sanduicheira-mondial-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"750W com controle automático de temperatura",
+			"Função 2 em 1, para 2 sanduíches",
+			"Cabo cool-touch e luz indicadora",
+			"Trava de fechamento; compacta (1,1kg)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "antiaderentes (dupla)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-inox-grill-premium-s-07",
+		"name": "Mondial Inox Grill Premium S-07",
+		"image": "/images/posts/melhor-sanduicheira-mondial-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"800W com acabamento em aço inox",
+			"Controle automático de temperatura",
+			"Função 2 em 1 (sanduíche e grill)",
+			"Cabo cool-touch e trava de fechamento; 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "antiaderentes (dupla)"
+			},
+			{
+				"label": "Acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-master-grill-inox-s-20",
+		"name": "Mondial Master Grill Inox S-20",
+		"image": "/images/posts/melhor-sanduicheira-mondial-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"750W com acabamento em aço inox",
+			"Controle automático de temperatura",
+			"Função 2 em 1 e trava de fechamento",
+			"Cabo cool-touch; compacta (1kg)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "antiaderentes (dupla)"
+			},
+			{
+				"label": "Acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-ultra-grill-s-13",
+		"name": "Mondial Ultra Grill S-13",
+		"image": "/images/posts/melhor-sanduicheira-mondial-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"750W com chapa ondulada antiaderente",
+			"Controle automático de temperatura",
+			"Função 2 em 1, para 2 sanduíches",
+			"Presilha no cabo e enrolador de fio; 0,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "ondulada antiaderente"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Peso",
+				"value": "0,9kg"
+			}
+		]
+	},
+	{
+		"id": "sanduicheira-mondial-mondial-super-premium-g-09",
+		"name": "Mondial Super Premium G-09",
+		"image": "/images/posts/melhor-sanduicheira-mondial-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1700W com chapas onduladas antiaderentes",
+			"Sistema de grelha inclinada com bandeja coletora",
+			"Área de cocção ampliada (maxigrelha)",
+			"Tampa com ajuste automático de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Chapas",
+				"value": "onduladas (dupla)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Peso",
+				"value": "3,54kg"
+			}
+		]
+	}
+]

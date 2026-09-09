@@ -1,0 +1,175 @@
+[
+	{
+		"id": "cooktop-suggar-fg5002vc",
+		"name": "Suggar FG5002VC (indução)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop de indução com 5 zonas de 180mm",
+			"1500W por zona e modo Turbo de 2000W",
+			"Função Flex Zone, 9 níveis de potência e timer de até 99 minutos",
+			"Sensor de panela, proteção contra superaquecimento e aviso de superfície quente"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "indução" },
+			{ "label": "Bocas", "value": "5 zonas de 180mm" },
+			{ "label": "Potência", "value": "1500W por zona / 2000W Turbo" },
+			{ "label": "Mesa", "value": "vitrocerâmica selada" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Acendimento", "value": "painel touch com display digital" },
+			{ "label": "Dimensões", "value": "5,5 x 77 x 52 cm" },
+			{ "label": "Peso", "value": "10kg" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5135ix",
+		"name": "Suggar FG5135IX",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa em aço inox com 5 queimadores, sendo um central de tripla chama de 3200W",
+			"Acendimento superautomático",
+			"Botões multicontrole removíveis para facilitar a limpeza",
+			"Grades de aço esmaltado antiderrapantes e laváveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 auxiliar 1000W, 2 semirrápidos 1750W, 1 rápido 2500W, 1 tripla chama central 3200W" },
+			{ "label": "Mesa", "value": "aço inox" },
+			{ "label": "Grades", "value": "aço esmaltado" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Acendimento", "value": "superautomático" },
+			{ "label": "Dimensões", "value": "11,5 x 76 x 51 cm" },
+			{ "label": "Peso", "value": "10,2kg" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5005avp",
+		"name": "Suggar FG5005AVP",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa de vidro temperado com 5 queimadores e potência térmica total de 9,4kW",
+			"Acendimento superautomático ou manual",
+			"Botões multicontrole removíveis",
+			"Grades individuais de aço esmaltado, laváveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 rápido 2800W, 4 semirrápidos 1650W" },
+			{ "label": "Potência térmica total", "value": "9,4kW" },
+			{ "label": "Mesa", "value": "vidro temperado" },
+			{ "label": "Grades", "value": "aço esmaltado" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Dimensões", "value": "10 x 70 x 46 cm" },
+			{ "label": "Peso", "value": "8,64kg" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5305fvp",
+		"name": "Suggar FG5305FVP",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa de vidro temperado e potência térmica total de 11,25kW",
+			"Queimador central de tripla chama de 3500W",
+			"Grades de ferro fundido, mais estáveis para panelas pesadas",
+			"Acendimento superautomático ou manual"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 rápido 2800W, 3 semirrápidos 1650W, 1 tripla chama 3500W" },
+			{ "label": "Potência térmica total", "value": "11,25kW" },
+			{ "label": "Mesa", "value": "vidro temperado" },
+			{ "label": "Grades", "value": "ferro fundido" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Dimensões", "value": "11 x 70 x 46 cm" },
+			{ "label": "Peso", "value": "11,2kg" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5305avp",
+		"name": "Suggar FG5305AVP",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa de vidro temperado e potência térmica total de 11,25kW",
+			"Queimador lateral de tripla chama de 3500W",
+			"Botões multicontrole removíveis",
+			"Grades de aço esmaltado, laváveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 rápido 2800W, 3 semirrápidos 1650W, 1 tripla chama 3500W" },
+			{ "label": "Potência térmica total", "value": "11,25kW" },
+			{ "label": "Mesa", "value": "vidro temperado" },
+			{ "label": "Grades", "value": "aço esmaltado" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Acendimento", "value": "superautomático" },
+			{ "label": "Dimensões", "value": "11 x 70 x 46 cm" },
+			{ "label": "Peso", "value": "9,36kg" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5335vpix",
+		"name": "Suggar FG5335VPIX",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa de vidro temperado com moldura de aço inox",
+			"Potência térmica total de 11,25kW e queimador lateral de tripla chama de 3500W",
+			"Grades duplas de ferro fundido, laváveis",
+			"Acendimento superautomático ou manual"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 rápido 2800W, 3 semirrápidos 1650W, 1 tripla chama lateral 3500W" },
+			{ "label": "Potência térmica total", "value": "11,25kW" },
+			{ "label": "Mesa", "value": "vidro temperado com moldura de aço inox" },
+			{ "label": "Grades", "value": "ferro fundido (duplas)" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Dimensões", "value": "11 x 78,5 x 46 cm" },
+			{ "label": "Peso", "value": "14,16kg" }
+		]
+	},
+	{
+		"id": "cooktop-suggar-fg5335vp",
+		"name": "Suggar FG5335VP",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Mesa de vidro temperado e potência térmica total de 11,25kW",
+			"Queimador lateral de tripla chama de 3500W",
+			"Grades de ferro fundido",
+			"Botões multicontrole removíveis e acendimento superautomático"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gás" },
+			{ "label": "Queimadores", "value": "1 rápido 2800W, 3 semirrápidos 1650W, 1 tripla chama lateral 3500W" },
+			{ "label": "Potência térmica total", "value": "11,25kW" },
+			{ "label": "Mesa", "value": "vidro temperado" },
+			{ "label": "Grades", "value": "ferro fundido" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Dimensões", "value": "11 x 78,5 x 46 cm" },
+			{ "label": "Peso", "value": "13,94kg" }
+		]
+	}
+]

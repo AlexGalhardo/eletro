@@ -1,0 +1,156 @@
+[
+	{
+		"id": "escova-gama-marula-multicabecas-3d",
+		"name": "GA.MA Italy Marula Multicabeças 3D 1200W",
+		"image": "/images/posts/melhor-escova-secadora-gama-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W com 3 cabeças intercambiáveis para escovar, modelar e dar volume",
+			"3 velocidades mais jato de ar frio e 2 níveis de temperatura",
+			"Tecnologia iônica 3D Therapy contra frizz",
+			"Cabo de 2m giratório e cerdas mistas"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "2 níveis" },
+			{ "label": "Velocidades", "value": "3 + jato de ar frio" },
+			{ "label": "Ionização", "value": "3D Therapy" },
+			{ "label": "Cabo", "value": "2m giratório" }
+		]
+	},
+	{
+		"id": "escova-gama-gold-ion-3d",
+		"name": "GA.MA Italy Multicabeças Gold Ion 3D 1200W",
+		"image": "/images/posts/melhor-escova-secadora-gama-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W com 2 cabeças intercambiáveis",
+			"3 velocidades mais jato de ar frio e 2 temperaturas",
+			"Ionização 3D Therapy e tratamento com óleo de argan",
+			"Cerdas mistas de nylon; 591g"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "2 níveis" },
+			{ "label": "Velocidades", "value": "3 + jato de ar frio" },
+			{ "label": "Ionização", "value": "3D Therapy" },
+			{ "label": "Peso", "value": "591g" }
+		]
+	},
+	{
+		"id": "escova-gama-stylish-keration-3d",
+		"name": "GA.MA Italy Stylish Keration Brush 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1300W com formato oval",
+			"3 velocidades e 2 níveis de temperatura",
+			"Ionização 3D Therapy e tecnologia Micro Glitt",
+			"Cerdas de nylon; cabo de 1,70m giratório"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "2 níveis" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Ionização", "value": "3D Therapy + Micro Glitt" },
+			{ "label": "Peso", "value": "606g" }
+		]
+	},
+	{
+		"id": "escova-gama-lichia-3d",
+		"name": "GA.MA Italy Lichia 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1300W e apenas 423g, a mais leve da seleção",
+			"3 níveis de temperatura e 2 velocidades",
+			"Ionização 3D Therapy com óleo de lichia e vitamina C",
+			"Cerdas duplas de nylon; cabo de 1,70m giratório"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "3 níveis" },
+			{ "label": "Velocidades", "value": "2" },
+			{ "label": "Ionização", "value": "3D Therapy" },
+			{ "label": "Peso", "value": "423g" }
+		]
+	},
+	{
+		"id": "escova-gama-eleganza-plus",
+		"name": "GA.MA Italy Eleganza Plus 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1300W com função 4 em 1: seca, alisa, modela e dá volume",
+			"3 níveis de temperatura e 2 velocidades",
+			"Ionização Ceramic Ion",
+			"Formato oval e preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "3 níveis" },
+			{ "label": "Velocidades", "value": "2" },
+			{ "label": "Ionização", "value": "Ceramic Ion" },
+			{ "label": "Peso", "value": "507g" }
+		]
+	},
+	{
+		"id": "escova-gama-babosa-brush-3d",
+		"name": "GA.MA Italy Babosa Brush 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1300W com cerdas de nylon infundidas com óleo de babosa",
+			"3 níveis de temperatura e 2 velocidades",
+			"Ionização 3D Therapy",
+			"Cabo de 1,70m giratório"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Temperaturas", "value": "3 níveis" },
+			{ "label": "Velocidades", "value": "2" },
+			{ "label": "Ionização", "value": "3D Therapy" },
+			{ "label": "Peso", "value": "608g" }
+		]
+	},
+	{
+		"id": "escova-gama-glamour-pink-brush",
+		"name": "GA.MA Italy Glamour Pink Brush 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1300W com função 4 em 1",
+			"3 velocidades e ponta fria para controle",
+			"Ionização Ceramic Ion com tecnologia Thermal Plus",
+			"Cerdas mistas com pontas arredondadas; cabo de 1,70m com giro de 360°"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não bivolt)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Ionização", "value": "Ceramic Ion + Thermal Plus" },
+			{ "label": "Peso", "value": "599g" },
+			{ "label": "Cabo", "value": "1,70m com giro 360°" }
+		]
+	}
+]

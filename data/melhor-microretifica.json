@@ -1,0 +1,167 @@
+[
+	{
+		"id": "microretifica-dremel-4000",
+		"name": "Dremel 4000",
+		"image": "/images/posts/melhor-microretifica-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 175W com controle eletrônico de rotação constante sob carga",
+			"Velocidade regulável de 5.000 a 35.000 rpm em 7 níveis",
+			"Mandril EZ Twist para troca de acessórios sem chave",
+			"Acompanha 26 acessórios e bolsa de transporte",
+			"Uso profissional contínuo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "175W" },
+			{ "label": "Rotação", "value": "5.000 a 35.000 rpm" },
+			{ "label": "Níveis de velocidade", "value": "7" },
+			{ "label": "Pinça", "value": "3,2mm (1/8\")" },
+			{ "label": "Alimentação", "value": "com fio (127V ou 220V, não bivolt)" },
+			{ "label": "Peso", "value": "~600g" },
+			{ "label": "Acessórios", "value": "26 peças + bolsa" }
+		]
+	},
+	{
+		"id": "microretifica-dremel-8240",
+		"name": "Dremel 8240",
+		"image": "/images/posts/melhor-microretifica-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com bateria 12V 2Ah recarregável por USB",
+			"Rotação de 5.000 a 35.000 rpm",
+			"Trabalha com temperatura de operação mais baixa",
+			"Cabo Softgrip e sistema EZ Twist",
+			"Acompanha 5 acessórios"
+		],
+		"technicalDetails": [
+			{ "label": "Alimentação", "value": "bateria 12V 2Ah (recarga USB)" },
+			{ "label": "Rotação", "value": "5.000 a 35.000 rpm" },
+			{ "label": "Pinça", "value": "3,2mm (1/8\")" },
+			{ "label": "Peso", "value": "~660g" },
+			{ "label": "Dimensões", "value": "25,4 x 5,4 x 4,5 cm" },
+			{ "label": "Acessórios", "value": "5 peças" }
+		]
+	},
+	{
+		"id": "microretifica-dremel-stylo-plus",
+		"name": "Dremel Stylo+",
+		"image": "/images/posts/melhor-microretifica-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato de caneta, com apenas 110g, para trabalhos de detalhe",
+			"Rotação de 5.000 a 22.000 rpm em 5 níveis",
+			"Interruptor liga/desliga separado do controle de velocidade",
+			"Cabo de 2m",
+			"Acompanha 11 acessórios"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "9W" },
+			{ "label": "Rotação", "value": "5.000 a 22.000 rpm" },
+			{ "label": "Níveis de velocidade", "value": "5" },
+			{ "label": "Pinça", "value": "3,2mm (1/8\")" },
+			{ "label": "Alimentação", "value": "com fio, cabo de 2m" },
+			{ "label": "Peso", "value": "~110g" },
+			{ "label": "Acessórios", "value": "11 peças" }
+		]
+	},
+	{
+		"id": "microretifica-dremel-3000",
+		"name": "Dremel 3000",
+		"image": "/images/posts/melhor-microretifica-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 130W com velocidade variável de 10.000 a 33.000 rpm",
+			"Mandril EZ Twist para troca rápida de acessórios",
+			"Ventilação lateral que ajuda a dissipar calor",
+			"Cabo Softgrip e design simétrico",
+			"Acompanha 10 acessórios"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "130W" },
+			{ "label": "Rotação", "value": "10.000 a 33.000 rpm" },
+			{ "label": "Níveis de velocidade", "value": "5" },
+			{ "label": "Pinça", "value": "3,2mm (1/8\")" },
+			{ "label": "Alimentação", "value": "com fio (127V ou 220V, não bivolt)" },
+			{ "label": "Peso", "value": "~620g" },
+			{ "label": "Acessórios", "value": "10 peças" }
+		]
+	},
+	{
+		"id": "microretifica-vonder-mrv-115",
+		"name": "Vonder MRV-115",
+		"image": "/images/posts/melhor-microretifica-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 115W com velocidade variável",
+			"Rotação de até 30.000 rpm",
+			"Acesso facilitado às escovas de carvão para manutenção",
+			"Acompanha chave e pinça",
+			"Opção de custo acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "115W" },
+			{ "label": "Rotação", "value": "até 30.000 rpm" },
+			{ "label": "Pinça", "value": "3,1mm (1/8\")" },
+			{ "label": "Alimentação", "value": "com fio (127V ou 220V, não bivolt)" },
+			{ "label": "Peso", "value": "~764g" },
+			{ "label": "Acessórios", "value": "8 peças" }
+		]
+	},
+	{
+		"id": "microretifica-vonder-mbv-036",
+		"name": "Vonder MBV-036",
+		"image": "/images/posts/melhor-microretifica-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio, com bateria de 3,6V recarregável por USB",
+			"Três níveis de velocidade, até 15.000 rpm",
+			"Carga completa em cerca de 2 horas",
+			"Acompanha 24 acessórios e maleta plástica",
+			"Garantia de 90 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Alimentação", "value": "bateria 3,6V (recarga USB, carregador bivolt)" },
+			{ "label": "Rotação", "value": "até 15.000 rpm" },
+			{ "label": "Níveis de velocidade", "value": "3" },
+			{ "label": "Pinça", "value": "2,3mm (3/32\")" },
+			{ "label": "Peso", "value": "~414g" },
+			{ "label": "Acessórios", "value": "24 peças + maleta" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "microretifica-black-decker-rt18ka",
+		"name": "Black+Decker RT18KA",
+		"image": "/images/posts/melhor-microretifica-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor de 180W com rotação de até 35.000 rpm",
+			"Velocidade ajustável",
+			"Kit extenso, com 113 acessórios",
+			"Acompanha eixo flexível e gancho para pendurar",
+			"Aceita pinças de 1/16\", 3/32\" e 1/8\""
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Rotação", "value": "até 35.000 rpm" },
+			{ "label": "Pinças", "value": "1/16\", 3/32\" e 1/8\"" },
+			{ "label": "Alimentação", "value": "com fio (127V ou 220V, não bivolt)" },
+			{ "label": "Peso", "value": "~680g" },
+			{ "label": "Acessórios", "value": "113 peças + eixo flexível" }
+		]
+	}
+]

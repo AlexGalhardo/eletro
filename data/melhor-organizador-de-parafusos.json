@@ -1,0 +1,142 @@
+[
+	{
+		"id": "organizador-dewalt-dwst17804",
+		"name": "DeWalt DWST17804",
+		"image": "/images/posts/melhor-organizador-de-parafusos-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"2 gavetas com corrediças metálicas de esferas",
+			"Divisórias removíveis e fecho de dupla trava",
+			"Empilhável no sistema TSTAK",
+			"Vedação resistente à água; suporta 7,5 kg"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "2 gavetas" },
+			{ "label": "Divisórias removíveis", "value": "sim" },
+			{ "label": "Empilhável", "value": "sim (TSTAK)" },
+			{ "label": "Dimensões", "value": "17,5 x 42,9 x 31,1 cm" }
+		]
+	},
+	{
+		"id": "organizador-vonder-opv310",
+		"name": "Vonder OPV310",
+		"image": "/images/posts/melhor-organizador-de-parafusos-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"64 gavetinhas fixas em polipropileno",
+			"Pode ser usado na bancada ou fixado na parede",
+			"Suporta 13 kgf na bancada e 6 kgf na parede",
+			"Tampa transparente para ver o conteúdo"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "64 gavetas fixas" },
+			{ "label": "Material", "value": "polipropileno" },
+			{ "label": "Fixação em parede", "value": "sim" },
+			{ "label": "Dimensões", "value": "40 x 16 x 50,5 cm" }
+		]
+	},
+	{
+		"id": "organizador-vonder-vd8020",
+		"name": "Vonder VD8020",
+		"image": "/images/posts/melhor-organizador-de-parafusos-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"8 divisões fixas em polipropileno",
+			"Formato compacto com alça integrada",
+			"Suporta 2 kgf",
+			"Leve, com 400g"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "8 divisões fixas" },
+			{ "label": "Material", "value": "polipropileno" },
+			{ "label": "Dimensões", "value": "5 x 22 x 32,5 cm" },
+			{ "label": "Peso", "value": "400g" }
+		]
+	},
+	{
+		"id": "organizador-vonder-opv500",
+		"name": "Vonder OPV500",
+		"image": "/images/posts/melhor-organizador-de-parafusos-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"9 divisões móveis em polipropileno",
+			"Alça integrada para transporte",
+			"Suporta 17 kgf",
+			"Divisórias reposicionáveis"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "9 divisões móveis" },
+			{ "label": "Material", "value": "polipropileno" },
+			{ "label": "Divisórias removíveis", "value": "sim" },
+			{ "label": "Dimensões", "value": "11 x 34 x 38 cm" }
+		]
+	},
+	{
+		"id": "organizador-stanley-stst14026",
+		"name": "Stanley STST14026",
+		"image": "/images/posts/melhor-organizador-de-parafusos-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"17 divisões, sendo 10 com divisórias removíveis",
+			"Sistema de tripla trava",
+			"Muitas combinações de organização",
+			"Alça integrada"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "17 divisões (10 removíveis)" },
+			{ "label": "Material", "value": "polipropileno" },
+			{ "label": "Divisórias removíveis", "value": "parcial" },
+			{ "label": "Dimensões", "value": "8,8 x 33,3 x 43,1 cm" }
+		]
+	},
+	{
+		"id": "organizador-fasterr-fst019",
+		"name": "Fasterr FST019",
+		"image": "/images/posts/melhor-organizador-de-parafusos-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"16 compartimentos com 12 divisórias modulares",
+			"Tampa transparente e trava dupla",
+			"Suporta 5 kg",
+			"Abertura para cadeado na alça"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "16 (12 divisórias modulares)" },
+			{ "label": "Material", "value": "plástico" },
+			{ "label": "Divisórias removíveis", "value": "sim" },
+			{ "label": "Dimensões", "value": "6 x 25,5 x 31,5 cm" }
+		]
+	},
+	{
+		"id": "organizador-stanley-stst14021",
+		"name": "Stanley STST14021",
+		"image": "/images/posts/melhor-organizador-de-parafusos-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"10 divisões ajustáveis",
+			"Empilhável, até 3 unidades",
+			"Tampa interna evita que as peças se misturem no transporte",
+			"Divisórias removíveis"
+		],
+		"technicalDetails": [
+			{ "label": "Compartimentos", "value": "10 divisões ajustáveis" },
+			{ "label": "Material", "value": "polipropileno" },
+			{ "label": "Empilhável", "value": "sim (até 3)" },
+			{ "label": "Divisórias removíveis", "value": "sim" }
+		]
+	}
+]

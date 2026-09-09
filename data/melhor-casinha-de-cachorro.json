@@ -1,0 +1,238 @@
+[
+	{
+		"id": "casinha-de-cachorro-mecpet-n6",
+		"name": "MecPet N6",
+		"image": "/images/posts/melhor-casinha-de-cachorro-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura em polipropileno de alta resistência, tamanho grande",
+			"Ventilação lateral",
+			"Proteção contra chuva e vento",
+			"Fácil de montar e de lavar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande (médio a grande porte)"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Teto",
+				"value": "fixo"
+			},
+			{
+				"label": "Dimensões",
+				"value": "66 x 57 x 75 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-dura-pet-durahouse-n5",
+		"name": "Dura Pet DuraHouse N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Polipropileno com proteção UV no teto, tamanho grande",
+			"Teto removível e sistema de encaixe rápido",
+			"Ventilação tipo chaminé",
+			"Lavável; garantia de 3 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Teto",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões",
+				"value": "72 x 72 x 85 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-tanatela-pet-2-em-1-n5",
+		"name": "Tánatela Pet 2 em 1 N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato iglu com proteção UV, para cães de até 22kg",
+			"Função 2 em 1 (casinha ou caminha)",
+			"Teto removível e encaixe simples",
+			"Resistente à água; apenas 800g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande (até 22kg)"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Teto",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões",
+				"value": "57 x 54 x 77 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-beethoven-agropet-n5",
+		"name": "Beethoven Agropet N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Madeira de pinus com tratamento impermeável, tamanho grande",
+			"Piso elevado que evita contato direto com o solo",
+			"Pintura atóxica",
+			"Proteção contra sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande"
+			},
+			{
+				"label": "Material",
+				"value": "madeira de pinus"
+			},
+			{
+				"label": "Teto",
+				"value": "fixo"
+			},
+			{
+				"label": "Piso elevado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "90 x 60 x 80 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-furacao-pet-iglu-n2",
+		"name": "Furacão Pet Iglu N2",
+		"image": "/images/posts/melhor-casinha-de-cachorro-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Polipropileno, tamanho pequeno, com piso elevado",
+			"Montagem por clipes, sem parafusos",
+			"Acompanha colchonete",
+			"Apenas 1,1kg; 6 opções de cor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "pequeno"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Teto",
+				"value": "removível"
+			},
+			{
+				"label": "Piso elevado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "40 x 37,5 x 51 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-home-universal-pet-n3",
+		"name": "Home Universal Pet N3",
+		"image": "/images/posts/melhor-casinha-de-cachorro-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Polipropileno com proteção UV, tamanho pequeno",
+			"Janelas laterais para ventilação",
+			"Montagem simples e rápida",
+			"Lavável; 2,5kg; preço acessível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "pequeno"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Teto",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões",
+				"value": "38 x 38 x 47 cm"
+			}
+		]
+	},
+	{
+		"id": "casinha-de-cachorro-beethoven-agropet-madeira-n5",
+		"name": "Beethoven Agropet Madeira N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Madeira de pinus com tratamento térmico, para cães de até 40kg",
+			"Piso elevado que isola calor e umidade do solo",
+			"Teto inclinado fixo",
+			"Pintura impermeável atóxica; acompanha kit de parafusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande (até 40kg)"
+			},
+			{
+				"label": "Material",
+				"value": "madeira de pinus"
+			},
+			{
+				"label": "Teto",
+				"value": "fixo inclinado"
+			},
+			{
+				"label": "Piso elevado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "70 x 40 x 60 cm"
+			}
+		]
+	}
+]

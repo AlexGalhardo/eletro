@@ -1,0 +1,254 @@
+[
+	{
+		"id": "lixeira-grande-tampa-vonder-63-56-055-003-55l-sensor",
+		"name": "Vonder 63.56.055.003 (55L sensor)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"55L em aço inox 410 com abertura por sensor infravermelho",
+			"Fechamento com amortecimento",
+			"Vedação contra odor e alças laterais",
+			"Base emborrachada antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "55L"
+			},
+			{
+				"label": "Tampa",
+				"value": "sensor (automática)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões",
+				"value": "62 x 42,5 x 28,5 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-vonder-63-56-050-003-50l-pedal",
+		"name": "Vonder 63.56.050.003 (50L pedal)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"50L em aço inox 410 com abertura por pedal",
+			"Balde interno plástico removível",
+			"Fechamento com amortecimento e vedação contra odor",
+			"Alças laterais e base emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "50L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "65 x 47,5 x 39 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-arqplast-25752-60l",
+		"name": "Arqplast 25752 (60L)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"60L em polipropileno preto com pedal e trava tipo clique",
+			"Rodinhas para deslocar",
+			"Dispenser menor na tampa",
+			"Uso interno e externo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "60L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal com trava clique"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cor",
+				"value": "preto"
+			},
+			{
+				"label": "Dimensões",
+				"value": "60,5 x 40,4 x 42,4 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-vonder-63-56-030-003-30l-pedal",
+		"name": "Vonder 63.56.030.003 (30L pedal)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"30L em aço inox 410 com abertura por pedal",
+			"Balde interno plástico com alça, removível",
+			"Sistema soft-close com amortecimento",
+			"Base emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "30L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões",
+				"value": "62 x 34,5 x 32,5 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-arqplast-25744-45l",
+		"name": "Arqplast 25744 (45L)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"45L em polipropileno com abertura por pedal",
+			"Aro interno para prender o saco de lixo",
+			"Estrutura compacta",
+			"Uso interno e externo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "45L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões",
+				"value": "62,5 x 33 x 41,5 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-jaguar-eco-nature-41325-40l",
+		"name": "Jaguar Eco Nature 41325 (40L)",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"40L em plástico reciclado com abertura por pedal",
+			"Estrutura retangular resistente",
+			"Vedação contra odor",
+			"Operação sem uso das mãos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "40L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Material",
+				"value": "plástico reciclado"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões",
+				"value": "53 x 34 x 43,5 cm"
+			}
+		]
+	},
+	{
+		"id": "lixeira-grande-tampa-ou-trium-46-4l-lx4450ptf",
+		"name": "Ou Trium 46+4L LX4450PTF",
+		"image": "/images/posts/melhor-lixeira-grande-tampa-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"46L em polipropileno com compartimento removível extra de 4L",
+			"Abertura por pedal e acabamento fosco",
+			"Duas divisões para separar resíduos",
+			"Anel interno para prender o saco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "46L + 4L"
+			},
+			{
+				"label": "Tampa",
+				"value": "pedal"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Balde interno removível",
+				"value": "sim (4L)"
+			},
+			{
+				"label": "Dimensões",
+				"value": "56 x 40 x 30,8 cm"
+			}
+		]
+	}
+]

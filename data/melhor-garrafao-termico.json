@@ -1,0 +1,242 @@
+[
+	{
+		"id": "garrafao-termico-stanley-jug-termica-7-5l",
+		"name": "Stanley Jug Térmica 7,5L",
+		"image": "/images/posts/melhor-garrafao-termico-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"7,5L com parede dupla e isolamento em espuma",
+			"Mantém a bebida gelada por até 13 horas (48h com gelo)",
+			"Torneira com sistema à prova de vazamento",
+			"Superfície externa que não transpira; alça reforçada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "13h gelado (48h com gelo)"
+			},
+			{
+				"label": "Dispensador",
+				"value": "torneira"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			},
+			{
+				"label": "Dimensões",
+				"value": "36 x 29 x 29 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-igloo-42255",
+		"name": "Igloo 42255",
+		"image": "/images/posts/melhor-garrafao-termico-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"18,9L, o maior da seleção, mantém gelo por até 3 dias",
+			"Corpo plástico resistente a impacto com isolamento em PU",
+			"Torneira angular com sistema antipingo",
+			"Tampa com trava de pressão e alças reforçadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "18,9L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "gelo por até 3 dias"
+			},
+			{
+				"label": "Dispensador",
+				"value": "torneira angular antipingo"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			},
+			{
+				"label": "Dimensões",
+				"value": "54 x 35 x 19 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-termolar-supertermo-5l",
+		"name": "Termolar Supertermo 5L",
+		"image": "/images/posts/melhor-garrafao-termico-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5L com conservação térmica de até 10 horas, quente ou frio",
+			"Plástico livre de BPA e isolamento em PU",
+			"Tampa limpa com bico direcionador removível",
+			"Copo de proteção com função de medida"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "10h quente/frio"
+			},
+			{
+				"label": "Dispensador",
+				"value": "bico direcionador"
+			},
+			{
+				"label": "Dimensões",
+				"value": "30,4 x 19,8 x 19,8 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-unitermi-arezzo-10l",
+		"name": "Unitermi Arezzo 10L",
+		"image": "/images/posts/melhor-garrafao-termico-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"10L com plástico injetado livre de BPA e isolamento em PU",
+			"Torneira para servir sem inclinar",
+			"Pés retráteis e superfície lisa, fácil de limpar",
+			"6 opções de cor; apenas 1,34kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10L"
+			},
+			{
+				"label": "Dispensador",
+				"value": "torneira"
+			},
+			{
+				"label": "Peso",
+				"value": "1,34kg"
+			},
+			{
+				"label": "Dimensões",
+				"value": "36,5 x 25 x 25 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-termolar-fliptop-2-5l",
+		"name": "Termolar Fliptop 2,5L",
+		"image": "/images/posts/melhor-garrafao-termico-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"2,5L, mantém frio por 20 horas com gelo (8h sem gelo)",
+			"Tampa flip-top com bico direcionador",
+			"Permite servir sem tirar a tampa",
+			"Boca larga e duas alças (móvel e fixa)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "2,5L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "20h com gelo / 8h sem gelo"
+			},
+			{
+				"label": "Dispensador",
+				"value": "tampa flip-top"
+			},
+			{
+				"label": "Dimensões",
+				"value": "26 x 17,5 x 21,5 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-soprano-atacama-2-5l",
+		"name": "Soprano Atacama 2,5L",
+		"image": "/images/posts/melhor-garrafao-termico-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"2,5L, leve, com 513g",
+			"Isolamento em PU e plástico livre de BPA",
+			"Bico retrátil",
+			"Duas alças; indicado para uso individual ou consumo leve"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "2,5L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "~4h gelado"
+			},
+			{
+				"label": "Dispensador",
+				"value": "bico retrátil"
+			},
+			{
+				"label": "Peso",
+				"value": "513g"
+			},
+			{
+				"label": "Dimensões",
+				"value": "26,5 x 16,5 x 21 cm"
+			}
+		]
+	},
+	{
+		"id": "garrafao-termico-invicta-royal-12l",
+		"name": "Invicta Royal 12L",
+		"image": "/images/posts/melhor-garrafao-termico-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"12L com plástico HDPE e isolamento em PU",
+			"Conservação de 6 horas, quente ou frio",
+			"Torneira com tripé retrátil de 10cm de altura",
+			"Boca larga e alças afastadas; livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12L"
+			},
+			{
+				"label": "Retenção térmica",
+				"value": "6h quente/frio"
+			},
+			{
+				"label": "Dispensador",
+				"value": "torneira com tripé"
+			},
+			{
+				"label": "Peso",
+				"value": "1,90kg"
+			},
+			{
+				"label": "Dimensões",
+				"value": "43,5 x 25 x 27,5 cm"
+			}
+		]
+	}
+]

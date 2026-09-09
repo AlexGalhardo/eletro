@@ -1,0 +1,298 @@
+[
+	{
+		"id": "cooktop-inducao-eos-eos-epci04ec",
+		"name": "EOS EPCI04EC",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4 zonas, 7000W totais, com coifa integrada de 650 m³/h",
+			"Função Flexzone e painel touch screen",
+			"9 níveis de potência e timer de 99 minutos",
+			"Trava de segurança para crianças e aviso de calor residual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "24 x 83 x 52 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci05epf1",
+		"name": "EOS ECI05EPF1",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5 zonas, 9500W totais, para famílias grandes",
+			"Superfície Full Glass e função Turbo",
+			"10 níveis de potência e timer de 99 minutos",
+			"Bandeja Safety Lock e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "5"
+			},
+			{
+				"label": "Potência",
+				"value": "9500W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "10"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci04epf",
+		"name": "EOS ECI04EPF",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4 zonas, 7000W totais",
+			"Função Freezone que une duas zonas",
+			"Painel digital e timer de 99 minutos",
+			"Trava de segurança para crianças; um dos mais vendidos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "6,2 x 59 x 52 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci04ep",
+		"name": "EOS ECI04EP",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"4 zonas, 7500W totais, com modo Turbo",
+			"Superfície de vidro cerâmico",
+			"9 níveis de potência e timer de 99 minutos",
+			"Trava para crianças, desligamento automático e proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7500W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "6 x 59 x 52 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci02ep",
+		"name": "EOS ECI02EP",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"2 zonas, 3500W totais, compacto para apartamentos pequenos",
+			"Função Turbo e painel digital",
+			"9 níveis de potência e timer de 99 minutos",
+			"Sensor de panela, trava para crianças e proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "2"
+			},
+			{
+				"label": "Potência",
+				"value": "3500W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "5,7 x 28,8 x 52 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci01pp",
+		"name": "EOS ECI01PP",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1 zona portátil, 2000W",
+			"10 níveis de potência (60 a 240 °C) e timer de 180 minutos",
+			"Sensor de panela e pés antiderrapantes",
+			"Desliga sozinho após 2 horas; opção econômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "1"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "10 (60 a 240 °C)"
+			},
+			{
+				"label": "Timer",
+				"value": "180 minutos"
+			},
+			{
+				"label": "Dimensões",
+				"value": "4 x 29 x 37 cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	},
+	{
+		"id": "cooktop-inducao-eos-eos-eci05epf",
+		"name": "EOS ECI05EPF",
+		"image": "/images/posts/melhor-cooktop-inducao-eos-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"5 zonas, 9500W totais, para cozinhar em grande volume",
+			"Função Freezone Duo e modo Turbo",
+			"Superfície Full Glass",
+			"10 níveis de potência e timer de 99 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Zonas",
+				"value": "5"
+			},
+			{
+				"label": "Potência",
+				"value": "9500W totais"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "10"
+			},
+			{
+				"label": "Timer",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			}
+		]
+	}
+]

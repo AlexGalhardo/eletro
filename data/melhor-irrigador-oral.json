@@ -1,0 +1,278 @@
+[
+	{
+		"id": "irrigador-oral-waterpik-wp660b",
+		"name": "Waterpik WP660B",
+		"image": "/images/posts/melhor-irrigador-oral-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 650ml com 10 níveis de pressão (10 a 100 PSI)",
+			"Modelo de bancada, com 1400 pulsações por minuto",
+			"Acompanha 7 bicos, incluindo ortodôntico",
+			"Bivolt; ponteira gira 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "650ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "10 níveis (10 a 100 PSI)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			},
+			{
+				"label": "Bicos",
+				"value": "7"
+			},
+			{
+				"label": "Pulsações",
+				"value": "1400/min"
+			},
+			{
+				"label": "Tipo",
+				"value": "bancada"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-waterpik-wp13",
+		"name": "Waterpik WP13",
+		"image": "/images/posts/melhor-irrigador-oral-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Portátil e sem fio, com bateria recarregável",
+			"Reservatório de 207ml e 2 níveis de pressão",
+			"Autonomia de cerca de 4 semanas por carga",
+			"Acompanha 4 bicos; bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "207ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Bicos",
+				"value": "4"
+			},
+			{
+				"label": "Pulsações",
+				"value": "1450/min"
+			},
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-multilaser-multi-hc037",
+		"name": "Multilaser Multi HC037",
+		"image": "/images/posts/melhor-irrigador-oral-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 600ml com 10 níveis de intensidade",
+			"Modelo de bancada",
+			"Acompanha 7 bicos e limpador de língua",
+			"Bivolt; ponteira gira 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "600ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "10 níveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			},
+			{
+				"label": "Bicos",
+				"value": "7"
+			},
+			{
+				"label": "Tipo",
+				"value": "bancada"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-multilaser-multi-hc038",
+		"name": "Multilaser Multi HC038",
+		"image": "/images/posts/melhor-irrigador-oral-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 1 litro com 10 níveis de pressão (150 PSI)",
+			"Compartimento com luz UV para higienizar os bicos",
+			"Modelo de bancada, alta capacidade",
+			"Acompanha 7 bicos; bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "1L"
+			},
+			{
+				"label": "Pressão",
+				"value": "10 níveis (150 PSI)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			},
+			{
+				"label": "Bicos",
+				"value": "7"
+			},
+			{
+				"label": "Esterilização UV",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo",
+				"value": "bancada"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-multilaser-multi-hc036",
+		"name": "Multilaser Multi HC036",
+		"image": "/images/posts/melhor-irrigador-oral-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Portátil e recarregável, para viagem",
+			"Reservatório de 200ml com 4 níveis de pressão (100 PSI)",
+			"Acompanha 2 bicos",
+			"Bivolt; ponteira gira 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "200ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "4 níveis (100 PSI)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Bicos",
+				"value": "2"
+			},
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-waterpulse-wp62",
+		"name": "Waterpulse WP62",
+		"image": "/images/posts/melhor-irrigador-oral-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 600ml com 10 níveis de pressão (21 a 145 PSI)",
+			"Modelo de bancada com proteção IPX7 e ruído abaixo de 75 dB",
+			"Acompanha 8 bicos e limpador de língua",
+			"Mangueira de 1,2m; bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "600ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "10 níveis (21 a 145 PSI)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (bivolt)"
+			},
+			{
+				"label": "Bicos",
+				"value": "8"
+			},
+			{
+				"label": "Pulsações",
+				"value": "1450/min"
+			},
+			{
+				"label": "Proteção",
+				"value": "IPX7"
+			},
+			{
+				"label": "Tipo",
+				"value": "bancada"
+			}
+		]
+	},
+	{
+		"id": "irrigador-oral-waterpik-wp100b",
+		"name": "Waterpik WP100B",
+		"image": "/images/posts/melhor-irrigador-oral-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 600ml com 10 níveis de pressão (100 PSI)",
+			"Modelo de bancada, com 1400 pulsações por minuto",
+			"Acompanha 6 bicos, ortodôntico e limpador de língua",
+			"Ponteira gira 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Reservatório",
+				"value": "600ml"
+			},
+			{
+				"label": "Pressão",
+				"value": "10 níveis (100 PSI)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "com fio (127V ou 220V, não bivolt)"
+			},
+			{
+				"label": "Bicos",
+				"value": "6"
+			},
+			{
+				"label": "Pulsações",
+				"value": "1400/min"
+			},
+			{
+				"label": "Tipo",
+				"value": "bancada"
+			}
+		]
+	}
+]

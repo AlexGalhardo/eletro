@@ -1,0 +1,254 @@
+[
+	{
+		"id": "paquimetro-digital-mitutoyo-500-171-30",
+		"name": "Mitutoyo 500-171-30",
+		"image": "/images/posts/melhor-paquimetro-digital-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 150mm com resolução de 0,01mm",
+			"Precisão de ±0,02mm até 200mm",
+			"Sistema por indução eletromagnética, resistente a líquidos",
+			"Botão ZERO/ABS para zerar em qualquer posição"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 150mm / 6\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,02mm (até 200mm)"
+			},
+			{
+				"label": "Display",
+				"value": "LCD"
+			},
+			{
+				"label": "Bateria",
+				"value": "SR44"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-digimess-100-178bl",
+		"name": "DIGIMESS 100-178BL",
+		"image": "/images/posts/melhor-paquimetro-digital-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa ampla, de 0 a 300mm, com resolução de 0,01mm",
+			"Aço inox temperado e dígitos grandes de 11mm no display",
+			"Parafuso de trava",
+			"Conversão mm/polegada e botão ZERO"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 300mm / 12\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,04mm"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox temperado"
+			},
+			{
+				"label": "Bateria",
+				"value": "1,5V (LR44/SR44)"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-mtx-316119",
+		"name": "MTX 316119",
+		"image": "/images/posts/melhor-paquimetro-digital-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 150mm com resolução de 0,01mm",
+			"Aço inox e precisão de ±0,03mm",
+			"Conversão mm/polegada",
+			"Opção de custo acessível, para uso técnico básico a intermediário"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 150mm / 6\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Bateria",
+				"value": "SR44 1,5V"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-vonder-pd-abs",
+		"name": "Vonder PD-ABS",
+		"image": "/images/posts/melhor-paquimetro-digital-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 150mm com resolução de 0,01mm",
+			"Proteção IP54 contra poeira e respingos",
+			"Função ABS para medição absoluta, sem precisar rezerar",
+			"Aço inox; precisão de ±0,03mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 150mm / 6\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Bateria",
+				"value": "CR-2032"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-eda-7vt",
+		"name": "EDA 7VT",
+		"image": "/images/posts/melhor-paquimetro-digital-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 200mm, para peças maiores",
+			"Aço inox e precisão de ±0,03mm",
+			"Conversão mm/polegada",
+			"Acompanha bateria LR44; uso profissional de baixo custo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 200mm / 8\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Bateria",
+				"value": "LR44"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-nybc-tnwg08572",
+		"name": "NYBC TNWG08572",
+		"image": "/images/posts/melhor-paquimetro-digital-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 150mm com resolução de 0,01mm",
+			"Aço inox e precisão de ±0,03mm",
+			"Ajuste de zero e conversão mm/polegada",
+			"Acompanha estojo de proteção; opção econômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 150mm / 6\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Bateria",
+				"value": "SR44 1,5V"
+			}
+		]
+	},
+	{
+		"id": "paquimetro-digital-vonder-pd300",
+		"name": "Vonder PD300",
+		"image": "/images/posts/melhor-paquimetro-digital-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Faixa de 0 a 300mm, para peças grandes",
+			"Aço inox e precisão constante",
+			"Conversão mm/polegada",
+			"Indicado para uso frequente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa",
+				"value": "0 a 300mm / 12\""
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,04mm"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Bateria",
+				"value": "CR-2032"
+			}
+		]
+	}
+]

@@ -1,0 +1,242 @@
+[
+	{
+		"id": "cafeteiras-oster-bvstem6801m",
+		"name": "Oster BVSTEM6801M",
+		"image": "/images/posts/melhores-cafeteiras-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Máquina de espresso multibebidas com bomba de 19 bar",
+			"Reservatório de 1,5L e painel touch",
+			"Limpeza automática dos tanques",
+			"Prepara dois espressos ao mesmo tempo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V) / 1050W (220V)"
+			},
+			{
+				"label": "Pressão",
+				"value": "19 bar"
+			},
+			{
+				"label": "Manter aquecido",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-nespresso-c30-br-bk-ne2",
+		"name": "Nespresso C30-BR-BK-NE2",
+		"image": "/images/posts/melhores-cafeteiras-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de cápsula com pressão de 19 bar",
+			"Reservatório de 600ml",
+			"Aquecimento rápido em 25 segundos",
+			"Design compacto; desligamento automático em 9 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Pressão",
+				"value": "19 bar"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-bialetti-nuova-moka-express",
+		"name": "Bialetti Nuova Moka Express",
+		"image": "/images/posts/melhores-cafeteiras-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira italiana para fogão, sem eletricidade",
+			"Capacidade de 1 a 18 xícaras conforme o tamanho",
+			"Design octogonal clássico com válvula de segurança",
+			"Filtro permanente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "italiana (fogão)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "60 a 810ml (1 a 18 xícaras)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "fogão (sem eletricidade)"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-electrolux-ecm25",
+		"name": "Electrolux ECM25",
+		"image": "/images/posts/melhores-cafeteiras-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro, faz até 25 xícaras",
+			"Timer programável em 24 horas",
+			"Sistema corta-pingos",
+			"Filtro permanente removível; placa aquecedora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L (25 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente removível"
+			},
+			{
+				"label": "Timer",
+				"value": "24 horas"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-oster-ocaf300",
+		"name": "Oster OCAF300",
+		"image": "/images/posts/melhores-cafeteiras-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro compacta, faz até 19 xícaras",
+			"Função manter aquecido",
+			"Filtro removível",
+			"Estrutura simples e de baixo custo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700ml (19 xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Filtro",
+				"value": "removível"
+			},
+			{
+				"label": "Manter aquecido",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-electrolux-ecm30",
+		"name": "Electrolux ECM30",
+		"image": "/images/posts/melhores-cafeteiras-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de filtro, faz mais de 30 xícaras",
+			"Controle de intensidade AromaStrength",
+			"Timer programável em 24 horas e corta-pingos",
+			"Filtro permanente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "filtro"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5L (30+ xícaras)"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Filtro",
+				"value": "permanente removível"
+			},
+			{
+				"label": "Timer",
+				"value": "24 horas"
+			}
+		]
+	},
+	{
+		"id": "cafeteiras-tres-coracoes-espresso-lov",
+		"name": "Três Corações Espresso LOV",
+		"image": "/images/posts/melhores-cafeteiras-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cafeteira de cápsula multibebidas com pressão de 15 bar",
+			"Reservatório de 900ml",
+			"Mais de 40 tipos de bebida",
+			"Extração automática e compartimento para cápsulas usadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "900ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Pressão",
+				"value": "15 bar"
+			}
+		]
+	}
+]

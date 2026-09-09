@@ -1,0 +1,282 @@
+[
+	{
+		"id": "cooktop-oster-otop402",
+		"name": "Oster OTOP402",
+		"image": "/images/posts/melhor-cooktop-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop de indução com 4 zonas, 6000W totais",
+			"Painel touch slide e 14 níveis de potência",
+			"Função Booster e timer de 99 minutos",
+			"Trava de segurança e desligamento ao remover a panela"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Bocas",
+				"value": "4 zonas"
+			},
+			{
+				"label": "Superfície",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Potência",
+				"value": "6000W totais"
+			},
+			{
+				"label": "Dimensões",
+				"value": "6,4 x 59 x 52 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-fischer-23678-54121",
+		"name": "Fischer 23678-54121",
+		"image": "/images/posts/melhor-cooktop-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop a gás com 5 queimadores, sendo um de tripla chama de 3700W",
+			"Mesa em aço inox e grades de ferro fundido",
+			"Acendimento superautomático",
+			"Câmara de gás fechada, que mantém a chama estável; compatível com GLP e GN"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gás"
+			},
+			{
+				"label": "Bocas",
+				"value": "5"
+			},
+			{
+				"label": "Superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Grades",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,5 x 76,7 x 46 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-mondial-ctg-01",
+		"name": "Mondial CTG-01",
+		"image": "/images/posts/melhor-cooktop-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop a gás com 4 queimadores, 8400W totais",
+			"Mesa de vidro temperado e grades de aço esmaltado",
+			"Acendimento automático e sistema bypass para chama precisa",
+			"Botões removíveis; conversão gratuita de GLP para GN"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gás"
+			},
+			{
+				"label": "Bocas",
+				"value": "4"
+			},
+			{
+				"label": "Superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Grades",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões",
+				"value": "17 x 60 x 46 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-itatiaia-ess-4q",
+		"name": "Itatiaia ESS 4Q",
+		"image": "/images/posts/melhor-cooktop-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop a gás com 4 queimadores de alumínio",
+			"Mesa de vidro temperado e grades de aço esmaltado",
+			"Acendimento superautomático",
+			"Botões removíveis; design discreto com bordas infinitas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gás"
+			},
+			{
+				"label": "Bocas",
+				"value": "4"
+			},
+			{
+				"label": "Superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Grades",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões",
+				"value": "16 x 56,5 x 45 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-elgin-double-cook",
+		"name": "Elgin Double Cook",
+		"image": "/images/posts/melhor-cooktop-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop elétrico portátil com 2 bocas, 2000W totais",
+			"Compatível com qualquer tipo de panela",
+			"5 níveis de temperatura com termostato",
+			"Mesa em aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico (portátil)"
+			},
+			{
+				"label": "Bocas",
+				"value": "2"
+			},
+			{
+				"label": "Superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W totais"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 43 x 21 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-fischer-26343-57174",
+		"name": "Fischer 26343-57174",
+		"image": "/images/posts/melhor-cooktop-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop a gás com 5 queimadores, 10000W totais",
+			"Mesa de vidro temperado e grades de aço esmaltado",
+			"Acendimento superautomático e suporte EasyClean",
+			"Classificação energética A; compatível com GLP e GN"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gás"
+			},
+			{
+				"label": "Bocas",
+				"value": "5"
+			},
+			{
+				"label": "Superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Grades",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,8 x 68,5 x 46 cm"
+			}
+		]
+	},
+	{
+		"id": "cooktop-fischer-33243-89825",
+		"name": "Fischer 33243-89825",
+		"image": "/images/posts/melhor-cooktop-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Cooktop de indução com 4 zonas",
+			"Painel full touch e 9 níveis de potência",
+			"Funções Booster e SmartHeat, com timer de 99 minutos",
+			"Trava de segurança e desligamento CookSense ao remover a panela"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Bocas",
+				"value": "4 zonas"
+			},
+			{
+				"label": "Superfície",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Potência",
+				"value": "1x3000W, 1x2300W, 2x1800W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "6,2 x 59 x 52 cm"
+			}
+		]
+	}
+]

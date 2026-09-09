@@ -1,0 +1,286 @@
+[
+	{
+		"id": "mini-secador-cabelo-ga-ma-italy-eolic-travel",
+		"name": "GA.MA Italy Eolic Travel",
+		"image": "/images/posts/melhor-mini-secador-cabelo-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1600W, um dos mais potentes da categoria",
+			"Cabo dobrável e voltagem bivolt manual",
+			"Íons de turmalina com infravermelho e Nano Silver antibacteriano",
+			"Bico concentrador; 384g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "384g"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-philco-travel-shine",
+		"name": "Philco Travel Shine",
+		"image": "/images/posts/melhor-mini-secador-cabelo-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bivolt, com cabo dobrável, apenas 290g",
+			"Íons de turmalina para reduzir frizz",
+			"2 velocidades e 2 temperaturas",
+			"Acompanha chapinha e bico concentrador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V) / 2750W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "290g"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-mondial-golden-rose-sc-47-gr",
+		"name": "Mondial Golden Rose SC-47-GR",
+		"image": "/images/posts/melhor-mini-secador-cabelo-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W, compacto e leve (300g)",
+			"Voltagem bivolt chaveável",
+			"Íons de turmalina",
+			"Bico concentrador; opção acessível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-mondial-max-travel-sc-10",
+		"name": "Mondial Max Travel SC-10",
+		"image": "/images/posts/melhor-mini-secador-cabelo-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W com jato de ar frio",
+			"Voltagem bivolt e cabo dobrável",
+			"2 velocidades e 2 temperaturas",
+			"Grade removível; operação simples; 340g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "340g"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-philco-titanium-travel",
+		"name": "Philco Titanium Travel",
+		"image": "/images/posts/melhor-mini-secador-cabelo-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"Bivolt, compacto e leve (350g)",
+			"Emissão de íons negativos",
+			"2 velocidades e 2 temperaturas",
+			"Indicado para cabelos finos e delicados"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V) / 750W (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "350g"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-philips-bhc010-81",
+		"name": "Philips BHC010/81",
+		"image": "/images/posts/melhor-mini-secador-cabelo-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W com tecnologia ThermoProtect",
+			"Jato de ar frio",
+			"3 velocidades e 3 temperaturas",
+			"Bico concentrador; indicado para cabelos finos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não bivolt)"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "3"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "mini-secador-cabelo-britania-bsc1200",
+		"name": "Britânia BSC1200",
+		"image": "/images/posts/melhor-mini-secador-cabelo-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": null,
+		"shopeeUrl": null,
+		"advantages": [
+			"1200W com motor DC",
+			"Voltagem bivolt e cabo dobrável",
+			"Íons de turmalina para reduzir frizz",
+			"2 velocidades e 2 temperaturas; 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Cabo dobrável",
+				"value": "sim"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Temperaturas",
+				"value": "2"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	}
+]
