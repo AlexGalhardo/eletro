@@ -1,16 +1,18 @@
 # CMS (fase BETA)
 
-Estado em 2026-10-06: a camada de servidor abaixo está escrita. Só o armazenamento e o serviço de conteúdo têm testes. Não existe nenhuma tela em `/admin` nem rota de API de conteúdo ainda. O que falta está no [`PLAN.md`](../PLAN.md).
+Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, e o painel tem login e layout. As telas de conteúdo e a API de conteúdo ainda não existem. O que falta está no [`PLAN.md`](../PLAN.md).
 
 ## Peças
 
 | Arquivo | Papel | Testado |
 |---|---|---|
-| `src/lib/server/db/schema.ts` | Tabelas do better-auth, `subscriber` e `newsletter_dispatch` | não |
-| `src/lib/server/db/index.ts` | `getDb()`: Neon com `DATABASE_URL`, PGlite local sem ela | não |
-| `drizzle/` | Migrations SQL geradas pelo drizzle-kit | não |
-| `src/lib/server/auth.ts` | better-auth com GitHub; `getAdmin(headers)` devolve o admin ou `null` | não |
-| `src/hooks.server.ts` | Protege `/admin`, entrega `/api/auth/*` ao better-auth, aplica `noindex` | parcial (e2e do `noindex`) |
+| `src/lib/server/db/schema.ts` | Tabelas do better-auth, `subscriber` e `newsletter_dispatch` | sim (PGlite) |
+| `src/lib/server/db/index.ts` | `getDb()`: Neon com `DATABASE_URL`, PGlite local sem ela | sim (PGlite; Neon real ainda não) |
+| `drizzle/` | Migrations SQL geradas pelo drizzle-kit | sim |
+| `src/lib/server/auth.ts` | better-auth com GitHub; `getAdmin(headers)` devolve o admin ou `null`; `testLogin` para testes | sim |
+| `src/hooks.server.ts` | Protege `/admin`, entrega `/api/auth/*` ao better-auth, aplica `noindex` | sim (e2e) |
+| `src/routes/admin/` | Layout do painel, `/admin` e `/admin/login` | sim (e2e) |
+| `src/routes/api/test/login/` | Login de testes, só com `AUTH_TEST_LOGIN_TOKEN` | sim (e2e) |
 | `src/lib/server/store/` | `ContentStore`: GitHub (commits) ou disco local | sim |
 | `src/lib/server/cms.ts` | Regras de posts, listas de produtos e imagens | sim |
 | `src/lib/content/validate-body.ts` | Recusa no corpo do post o que o mdsvex trataria como código | sim |
@@ -27,7 +29,10 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita. Só o armazenam
 - Login só pelo GitHub. O OAuth pede apenas identidade.
 - `ADMIN_GITHUB_USERS` é a lista de usuários permitidos. Quem está fora não ganha conta, e a lista é conferida de novo a cada requisição.
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
-- `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. É ignorado em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`). A rota que o usa ainda não foi escrita.
+- `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. É ignorado em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
+- `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
+- `/admin/login` mostra o botão "Entrar com GitHub" ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair".
+- Páginas do painel não carregam os scripts de analytics.
 
 ## Armazenamento de conteúdo
 

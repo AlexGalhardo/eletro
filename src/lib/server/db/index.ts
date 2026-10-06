@@ -27,7 +27,14 @@ async function connect(): Promise<Database> {
 	const { drizzle } = await import("drizzle-orm/pglite");
 	const { migrate } = await import("drizzle-orm/pglite/migrator");
 
-	const db = drizzle(new PGlite(PGLITE_DIR ?? ".data/pglite"), { schema });
+	const dir = PGLITE_DIR ?? ".data/pglite";
+	// PGlite creates only the last folder of the path, so a fresh clone (no `.data/`) would fail to start.
+	if (!dir.includes("://")) {
+		const { mkdir } = await import("node:fs/promises");
+		await mkdir(dir, { recursive: true });
+	}
+
+	const db = drizzle(new PGlite(dir), { schema });
 	await migrate(db, { migrationsFolder: "drizzle" });
 	return db;
 }

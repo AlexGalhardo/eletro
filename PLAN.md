@@ -108,19 +108,20 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 ### B1. Banco de dados
 
-- [~] Drizzle + Neon; PGlite quando `DATABASE_URL` não está definido (código escrito em `src/lib/server/db/`, ainda não exercitado por teste nem contra um Neon real)
+- [x] Drizzle + Neon; PGlite quando `DATABASE_URL` não está definido (PGlite coberto por teste; o caminho Neon só será exercitado quando o dono criar o banco)
 - [x] Migrations versionadas (`drizzle/0000_init.sql`) e scripts `db:generate` e `db:migrate`
 
 **Assert:** testes de integração sobem um PGlite limpo, aplicam as migrations e passam.
 
 ### B2. Autenticação
 
-- [~] better-auth com provedor GitHub e sessões no Postgres (`src/lib/server/auth.ts` escrito; falta testar o fluxo)
-- [~] Lista `ADMIN_GITHUB_USERS`; quem não está na lista não cria sessão (implementado, sem teste)
-- [~] `/admin/**` redireciona para `/admin/login` sem sessão; `/admin/login` redireciona para `/admin` com sessão (guarda em `hooks.server.ts`; a página de login ainda não existe)
+- [x] better-auth com provedor GitHub e sessões no Postgres (sessão testada pelo login de testes; o OAuth real depende do OAuth App do dono)
+- [x] Lista `ADMIN_GITHUB_USERS`; quem não está na lista não cria sessão, e quem sai da lista perde a sessão
+- [x] `/admin/**` redireciona para `/admin/login` sem sessão; `/admin/login` redireciona para `/admin` com sessão
+- [x] Login de testes `POST /api/test/login`, só com `AUTH_TEST_LOGIN_TOKEN` e fora de produção
 - [x] Cabeçalho `X-Robots-Tag: noindex` em `/admin` e `/api`
 
-**Assert:** e2e — visitante anônimo em `/admin` e `/admin/posts` cai em `/admin/login`; usuário fora da lista é recusado; API de escrita sem sessão responde 401.
+**Assert:** e2e — visitante anônimo em `/admin` e `/admin/posts` cai em `/admin/login`; usuário fora da lista é recusado; API de escrita sem sessão responde 401. (Os dois primeiros verificados em 2026-10-06; o 401 da API de escrita será verificado em B5, quando a rota existir.)
 
 ### B3. Camada de conteúdo com escrita
 
@@ -210,15 +211,13 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, a camada de servidor de B1, B2 e B3 está escrita; só B3 está coberta por testes. Ainda não existe nenhuma tela em `/admin`.
+Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1, B2 e B3 estão entregues e cobertas por testes. O painel tem login, layout e uma página inicial vazia; ainda não existe tela de conteúdo nem API de conteúdo.
 
 Próximos passos, nesta ordem:
 
-1. Teste de integração do banco (PGlite + migrations) e do `auth.ts`, incluindo a rota de login de teste (`AUTH_TEST_LOGIN_TOKEN`).
-2. `/admin/login` e o layout do painel; e2e do redirecionamento.
-3. Rotas `/api/v1` de posts, produtos e mídia sobre `cms.ts`.
-4. Telas de posts, produtos e mídia (B4).
-5. Newsletter (B6): as tabelas já estão no schema.
+1. Rotas `/api/v1` de posts, produtos e mídia sobre `cms.ts` (B5), com o 401 sem sessão que fecha o assert de B2.
+2. Telas de posts, produtos e mídia (B4).
+3. Newsletter (B6): as tabelas já estão no schema.
 
 ## Decisões
 

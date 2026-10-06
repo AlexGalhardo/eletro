@@ -22,5 +22,13 @@ export default defineConfig({
 		port: PORT,
 		reuseExistingServer: !process.env.CI,
 		timeout: 180_000,
+		// A throwaway admin: in-memory database and test login instead of GitHub.
+		env: {
+			PGLITE_DIR: "memory://",
+			BETTER_AUTH_SECRET: "e2e-only-secret-0123456789abcdef0123456789",
+			BETTER_AUTH_URL: `http://localhost:${PORT}`,
+			ADMIN_GITHUB_USERS: "e2e-admin",
+			AUTH_TEST_LOGIN_TOKEN: "e2e-login-token",
+		},
 	},
 });
