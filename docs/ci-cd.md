@@ -65,6 +65,8 @@ Para uma versão que a regra não calcula (release candidate, primeira estável)
 
 `actionlint` e `act` não são dependências do projeto: instale as ferramentas à parte.
 
+Resultado da última simulação e o que ela não cobre: grupo R1 do [`PLAN.md`](../PLAN.md). Em rede com inspeção de TLS (antivírus ou proxy corporativo), o `act` falha ao baixar o Chromium dentro do contêiner; isso não acontece nos runners do GitHub.
+
 ## Deploy
 
 O deploy não passa pelo Actions: Vercel e Netlify publicam a cada push na `main`, inclusive os commits `content:` feitos pelo painel. O passo a passo da hospedagem fica para `docs/deploy.md`.
