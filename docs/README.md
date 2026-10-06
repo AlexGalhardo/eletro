@@ -20,9 +20,10 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [testing.md](testing.md) | Escrever ou rodar testes |
 | [cms.md](cms.md) | Trabalhar no painel: banco, autenticação, armazenamento de conteúdo, serviço do CMS |
 | [api.md](api.md) | Usar ou alterar a API REST `/api/v1` |
+| [newsletter.md](newsletter.md) | Mexer na inscrição, nos e-mails ou no envio de avisos de post |
 | [prompts/](prompts/) | Prompts usados pelo dono para gerar posts, FAQs, JSON de produtos e capas |
 
-Documentos previstos para as próximas fases (ainda não existem): `newsletter.md`, `deploy.md`, `ci-cd.md`, `releases.md`.
+Documentos previstos para as próximas fases (ainda não existem): `deploy.md`, `ci-cd.md`, `releases.md`.
 
 ## Regras para manter esta pasta útil
 

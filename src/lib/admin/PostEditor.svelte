@@ -30,6 +30,7 @@
 	let slugTouched = $state(false);
 	let version = $state(initial.sha);
 	let list = $state("");
+	let announce = $state(false);
 	let saving = $state(false);
 	let errors = $state<string[]>([]);
 	let success = $state("");
@@ -57,6 +58,14 @@
 		list = "";
 	}
 
+	/** Queues the e-mail to subscribers. It only goes out once the post is live, and never twice. */
+	async function queueAnnouncement(target: string): Promise<boolean> {
+		if (!announce || form.draft) return false;
+		await api("POST", "/newsletter/dispatches", { slug: target });
+		announce = false;
+		return true;
+	}
+
 	async function save(event: SubmitEvent) {
 		event.preventDefault();
 		saving = true;
@@ -65,12 +74,15 @@
 		try {
 			if (isNew) {
 				await api("POST", "/posts", { slug: suggestedSlug, ...form });
+				await queueAnnouncement(suggestedSlug);
 				await goto(`/admin/posts/${suggestedSlug}`);
 				return;
 			}
 			const saved = await api<{ sha: string }>("PUT", `/posts/${slug}`, { sha: version, ...form });
 			version = saved.sha;
-			success = "Post salvo.";
+			success = (await queueAnnouncement(slug as string))
+				? "Post salvo. Os assinantes serão avisados quando ele estiver no ar."
+				: "Post salvo.";
 			await invalidateAll();
 		} catch (cause) {
 			errors = messagesOf(cause);
@@ -173,6 +185,11 @@
 		<label class="flex items-center gap-2 self-end pb-2 text-sm font-semibold">
 			<input type="checkbox" bind:checked={form.draft} class="size-4" />
 			Rascunho (fica fora do site)
+		</label>
+
+		<label class="flex items-center gap-2 text-sm font-semibold md:col-span-2">
+			<input type="checkbox" bind:checked={announce} disabled={form.draft} class="size-4" />
+			Avisar assinantes da newsletter quando o post estiver no ar
 		</label>
 
 		<div class="md:col-span-2">

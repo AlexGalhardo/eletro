@@ -38,6 +38,7 @@ describe("local database", () => {
 
 		expect(result.rows.map((row) => row.table_name)).toEqual([
 			"account",
+			"newsletter_delivery",
 			"newsletter_dispatch",
 			"session",
 			"subscriber",

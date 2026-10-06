@@ -10,6 +10,7 @@
 		{ href: "/admin/posts", label: "Posts" },
 		{ href: "/admin/products", label: "Produtos" },
 		{ href: "/admin/media", label: "Mídia" },
+		{ href: "/admin/newsletter", label: "Newsletter" },
 	];
 
 	const isCurrent = (href: string) =>

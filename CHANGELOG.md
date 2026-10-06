@@ -18,10 +18,14 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - Painel `/admin`: totais e últimas alterações, lista de posts com busca e filtros, editor de post (frontmatter, Markdown com pré-visualização, FAQ, capa, lista de produtos), editor de produtos em formulário e biblioteca de mídia com upload.
 - Indicador de status do deploy no painel, comparando o conteúdo salvo com o que está no ar.
 - Posts e listas que apontam para uma imagem local inexistente são recusados, porque quebrariam o build.
+- Newsletter: inscrição pelo rodapé com confirmação por e-mail, descadastro pelo link de cada e-mail, opção "avisar assinantes" no editor do post e tela `/admin/newsletter` com assinantes, envios e nova tentativa.
+- Envio de avisos só depois de o post estar no ar, em lotes pelo Resend, sem repetir e-mail para quem já recebeu; execução pelo painel ou por agendador com `CRON_SECRET`.
+- Templates react-email de confirmação de inscrição e de post novo.
 - Testes de integração do banco, da autenticação e da API, e testes e2e do acesso ao painel e da publicação de uma review pelo navegador.
 
 ### Changed
 
+- A Política de Privacidade passa a dizer que o e-mail é guardado para quem se inscreve na newsletter.
 - Páginas do painel não carregam os scripts de analytics.
 
 ### Fixed

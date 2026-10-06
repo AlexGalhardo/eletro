@@ -1,4 +1,4 @@
-import { boolean, integer, pgTable, text, timestamp } from "drizzle-orm/pg-core";
+import { boolean, integer, pgTable, primaryKey, text, timestamp } from "drizzle-orm/pg-core";
 
 const createdAt = timestamp("created_at", { withTimezone: true }).notNull().defaultNow();
 const updatedAt = timestamp("updated_at", { withTimezone: true }).notNull().defaultNow();
@@ -86,6 +86,21 @@ export const newsletterDispatch = pgTable("newsletter_dispatch", {
 	createdAt,
 	sentAt: timestamp("sent_at", { withTimezone: true }),
 });
+
+/** One row per e-mail already sent, so a dispatch that is retried skips whoever already received it. */
+export const newsletterDelivery = pgTable(
+	"newsletter_delivery",
+	{
+		dispatchId: text("dispatch_id")
+			.notNull()
+			.references(() => newsletterDispatch.id, { onDelete: "cascade" }),
+		subscriberId: text("subscriber_id")
+			.notNull()
+			.references(() => subscriber.id, { onDelete: "cascade" }),
+		createdAt,
+	},
+	(table) => [primaryKey({ columns: [table.dispatchId, table.subscriberId] })],
+);
 
 export type Subscriber = typeof subscriber.$inferSelect;
 export type NewsletterDispatch = typeof newsletterDispatch.$inferSelect;

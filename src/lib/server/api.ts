@@ -1,3 +1,4 @@
+import { createHash, timingSafeEqual } from "node:crypto";
 import { json } from "@sveltejs/kit";
 import type { z } from "zod";
 import type { AdminUser } from "./auth.ts";
@@ -62,6 +63,11 @@ export const parseQuery = <T>(schema: z.ZodType<T>, url: URL): T =>
 
 export const parseBody = async <T>(schema: z.ZodType<T>, request: Request): Promise<T> =>
 	parse(schema, await request.json().catch(() => null));
+
+const digest = (value: string) => createHash("sha256").update(value).digest();
+
+/** Compares two secrets in constant time. Hashing first gives both sides the length timingSafeEqual requires. */
+export const safeEqual = (a: string, b: string): boolean => timingSafeEqual(digest(a), digest(b));
 
 const hits = new Map<string, { count: number; resetAt: number }>();
 

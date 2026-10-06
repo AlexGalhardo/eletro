@@ -3,10 +3,11 @@
 | Tipo | Onde | Ferramenta | Cobre |
 |---|---|---|---|
 | Unitário | `src/**/*.test.ts` | Vitest | Parser de posts, pré-processador de Markdown, JSON-LD, formatação |
-| Integração | `tests/integration/` | Vitest | Todo o conteúdo real (schema, slugs, imagens, listas), serviço do CMS, banco (PGlite + migrations), autenticação e todo endpoint da API |
+| Integração | `tests/integration/` | Vitest | Todo o conteúdo real (schema, slugs, imagens, listas), serviço do CMS, banco (PGlite + migrations), autenticação, todo endpoint da API e newsletter |
 | Smoke | `tests/e2e/smoke.spec.ts` | Playwright (HTTP) | Toda URL pública responde; sitemap, robots e llms sem área privada |
 | E2E | `tests/e2e/site.spec.ts` | Playwright (navegador) | Filtro, rolagem, busca, tema, cookies, post, contato, menu móvel, 404 |
 | E2E | `tests/e2e/cms.spec.ts` | Playwright (navegador) | Review nova só pelo navegador: lista com dois produtos, capa, post, edição, recusa de conteúdo inválido, exclusão |
+| E2E | `tests/e2e/newsletter.spec.ts` | Playwright (navegador) | Inscrição pelo rodapé, assinante pendente no painel, links com token inválido, páginas fora dos buscadores |
 | E2E | `tests/e2e/admin.spec.ts` | Playwright (navegador) | Redirecionamento para o login, recusa de quem não é admin, entrada e saída do painel; API pública, 401 nas escritas sem sessão |
 
 ## Como rodar

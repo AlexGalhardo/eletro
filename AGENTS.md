@@ -33,6 +33,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/testing.md`](docs/testing.md) | Tipos de teste, onde ficam e como rodar |
 | [`docs/cms.md`](docs/cms.md) | Banco, autenticação, armazenamento de conteúdo e serviço do CMS (fase BETA) |
 | [`docs/api.md`](docs/api.md) | API REST `/api/v1`: endpoints, formato de erro, regras de escrita |
+| [`docs/newsletter.md`](docs/newsletter.md) | Newsletter: inscrição com confirmação, envio de avisos de post, descadastro |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |
 
 Ao entregar uma mudança que altera comportamento, atualize o documento correspondente e o `PLAN.md` na mesma entrega. Documento novo em `docs/` entra nesta tabela e no índice.

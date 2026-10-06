@@ -1,12 +1,12 @@
 # CMS (fase BETA)
 
-Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o painel publica posts, listas de produtos e imagens, e a API de conteúdo está em [`api.md`](api.md). Falta a newsletter. O que falta está no [`PLAN.md`](../PLAN.md).
+Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o painel publica posts, listas de produtos e imagens, a API de conteúdo está em [`api.md`](api.md) e a newsletter em [`newsletter.md`](newsletter.md). O que falta está no [`PLAN.md`](../PLAN.md).
 
 ## Peças
 
 | Arquivo | Papel | Testado |
 |---|---|---|
-| `src/lib/server/db/schema.ts` | Tabelas do better-auth, `subscriber` e `newsletter_dispatch` | sim (PGlite) |
+| `src/lib/server/db/schema.ts` | Tabelas do better-auth, `subscriber`, `newsletter_dispatch` e `newsletter_delivery` | sim (PGlite) |
 | `src/lib/server/db/index.ts` | `getDb()`: Neon com `DATABASE_URL`, PGlite local sem ela | sim (PGlite; Neon real ainda não) |
 | `drizzle/` | Migrations SQL geradas pelo drizzle-kit | sim |
 | `src/lib/server/auth.ts` | better-auth com GitHub; `getAdmin(headers)` devolve o admin ou `null`; `testLogin` para testes | sim |
