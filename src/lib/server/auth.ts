@@ -1,6 +1,6 @@
 import { betterAuth } from "better-auth";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
-import { testUtils } from "better-auth/plugins";
+import { type TestHelpers, testUtils } from "better-auth/plugins";
 import {
 	ADMIN_GITHUB_USERS,
 	AUTH_TEST_LOGIN_TOKEN,
@@ -27,7 +27,7 @@ const isProductionDeploy = () =>
 /** Test login is a backdoor by design, so it only exists outside production and behind a secret token. */
 export const testLoginToken = () => (isProductionDeploy() ? undefined : AUTH_TEST_LOGIN_TOKEN);
 
-const githubConfigured = () => Boolean(GITHUB_CLIENT_ID && GITHUB_CLIENT_SECRET);
+export const githubConfigured = () => Boolean(GITHUB_CLIENT_ID && GITHUB_CLIENT_SECRET);
 
 /** What is still missing before /admin can be used, phrased for the login page. */
 export function missingAuthConfig(): string[] {
@@ -86,6 +86,31 @@ export function getAuth() {
 	if (missingAuthConfig().length > 0) return null;
 	auth ??= createAuth();
 	return auth;
+}
+
+/**
+ * Signs a user in without GitHub, for automated tests. Returns the session cookie (`name=value`), or `null`
+ * when test login is off or the user is not on the allow list.
+ */
+export async function testLogin(githubLogin: string): Promise<string | null> {
+	const login = githubLogin.trim().toLowerCase();
+	if (!testLoginToken() || !isAllowedAdmin(login)) return null;
+
+	const instance = await getAuth();
+	if (!instance) return null;
+
+	// The plugin is added conditionally, which hides `test` from the inferred context type.
+	const context = await instance.$context;
+	const { test } = context as typeof context & { test: TestHelpers };
+
+	const email = `${login}@test.invalid`;
+	const existing = await context.internalAdapter.findUserByEmail(email);
+	const account =
+		existing?.user ?? (await test.saveUser(test.createUser({ email, name: login, githubLogin: login })));
+	if (!account) return null;
+
+	const { headers } = await test.login({ userId: account.id });
+	return headers.get("cookie");
 }
 
 /** The signed-in admin for this request, re-checked against the allow list every time. */

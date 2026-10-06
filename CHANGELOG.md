@@ -11,6 +11,17 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - Base da fase BETA, ainda sem interface: schema e migração do banco (Drizzle, Neon ou PGlite), autenticação com better-auth e GitHub restrita a `ADMIN_GITHUB_USERS`, e proteção das rotas `/admin`.
 - Camada de escrita de conteúdo: `ContentStore` com commits pela API do GitHub ou gravação em disco, com detecção de conflito de versão.
 - Serviço de CMS para posts, listas de produtos e imagens, com validação que impede um post de quebrar o build.
+- Página `/admin/login` com entrada pelo GitHub e aviso das variáveis de ambiente que faltam; layout do painel com navegação e botão "Sair".
+- Login de testes (`POST /api/test/login`), ativo só com `AUTH_TEST_LOGIN_TOKEN` e nunca em produção.
+- Testes de integração do banco e da autenticação e testes e2e do acesso ao painel.
+
+### Changed
+
+- Páginas do painel não carregam os scripts de analytics.
+
+### Fixed
+
+- O banco local (PGlite) não iniciava em um clone novo porque a pasta `.data/` não existia.
 
 ## [0.1.0] - 2026-10-06
 

@@ -3,6 +3,7 @@
 	import LoadingBar from "#lib/components/LoadingBar.svelte";
 	import { site } from "#lib/site.config.ts";
 	import { dev } from "$app/env";
+	import { page } from "$app/state";
 
 	let { children } = $props();
 
@@ -25,8 +26,8 @@
 	{#if googleSiteVerification}
 		<meta name="google-site-verification" content={googleSiteVerification} />
 	{/if}
-	<!-- Trackers stay out of development and tests so local traffic never pollutes the reports. -->
-	{#if !dev}
+	<!-- Trackers stay out of development, tests and the admin so only real visits reach the reports. -->
+	{#if !dev && !page.url.pathname.startsWith("/admin")}
 		{#if googleAnalyticsId}
 			<script async src="https://www.googletagmanager.com/gtag/js?id={googleAnalyticsId}"></script>
 		{/if}
