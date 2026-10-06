@@ -1,0 +1,154 @@
+[
+	{
+		"id": "netsofas-samurai",
+		"name": "Netsofas Samurai",
+		"image": "/images/posts/sofa-cama-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1VthEAw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sofá retrátil com sistema prático de abertura e fechamento",
+			"Conta com quatro entradas USB para carregar dispositivos",
+			"Possui quatro porta-copos, dois embutidos em cada braço",
+			"Estrutura resistente para uso diário",
+			"Design moderno que combina com diferentes ambientes"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "retrátil" },
+			{ "label": "Entradas USB", "value": "4" },
+			{ "label": "Porta-copos", "value": "4 (2 em cada braço)" },
+			{ "label": "Estrutura", "value": "madeira tratada" },
+			{ "label": "Revestimento", "value": "tecido suede" },
+			{ "label": "Indicação", "value": "sala de estar e ambientes compactos" }
+		]
+	},
+	{
+		"id": "amora-new-matrix",
+		"name": "Amora New Matrix",
+		"image": "/images/posts/sofa-cama-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2GBg25S",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ótimo custo-benefício para quem busca economia",
+			"Design compacto, ideal para espaços pequenos",
+			"Espuma de alta densidade D23 para maior conforto",
+			"Revestimento em Veloplus, resistente e fácil de limpar",
+			"Sistema retrátil simples de operar"
+		],
+		"technicalDetails": [
+			{ "label": "Largura (modo sofá)", "value": "1,38m" },
+			{ "label": "Comprimento (modo cama)", "value": "1,86m" },
+			{ "label": "Espuma", "value": "D23 alta densidade" },
+			{ "label": "Revestimento", "value": "Veloplus" },
+			{ "label": "Sistema", "value": "retrátil manual" },
+			{ "label": "Indicação", "value": "apartamentos e espaços reduzidos" }
+		]
+	},
+	{
+		"id": "king-house-verona-molas-bonnel",
+		"name": "King House Verona Molas Bonnel",
+		"image": "/images/posts/sofa-cama-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1vSaw7A",
+		"shopeeUrl": null,
+		"advantages": [
+			"Suporta até 120kg por pessoa",
+			"Assentos reforçados com molas espirais Bonnel",
+			"Estrutura espaçosa para acomodar várias pessoas",
+			"Alta durabilidade mesmo com uso diário",
+			"Boa opção para famílias grandes"
+		],
+		"technicalDetails": [
+			{ "label": "Sistema de molas", "value": "espiral Bonnel" },
+			{ "label": "Capacidade de peso", "value": "até 120kg por pessoa" },
+			{ "label": "Estrutura", "value": "madeira reforçada" },
+			{ "label": "Indicação", "value": "uso intenso e diário" }
+		]
+	},
+	{
+		"id": "adonai-estofados-vegas",
+		"name": "Adonai Estofados Vegas",
+		"image": "/images/posts/sofa-cama-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2y6qrWw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Espuma D-28 de alta densidade no assento",
+			"Encosto em fibra siliconada macia",
+			"Ajuste de inclinação em 3 estágios",
+			"Boa relação custo-benefício",
+			"Conforto indicado para uso diário"
+		],
+		"technicalDetails": [
+			{ "label": "Espuma do assento", "value": "D-28" },
+			{ "label": "Encosto", "value": "fibra siliconada" },
+			{ "label": "Estágios de inclinação", "value": "3" },
+			{ "label": "Estrutura", "value": "madeira" },
+			{ "label": "Indicação", "value": "uso diário e recebimento de visitas" }
+		]
+	},
+	{
+		"id": "king-house-zurique",
+		"name": "King House Zurique",
+		"image": "/images/posts/sofa-cama-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oAUM2f",
+		"shopeeUrl": null,
+		"advantages": [
+			"Assento reforçado com sistema de molas",
+			"Combina com diferentes estilos de decoração",
+			"Boa relação custo-benefício",
+			"Conforto indicado para uso frequente",
+			"Estrutura resistente"
+		],
+		"technicalDetails": [
+			{ "label": "Sistema de molas", "value": "sim" },
+			{ "label": "Estrutura", "value": "madeira reforçada" },
+			{ "label": "Revestimento", "value": "tecido" },
+			{ "label": "Indicação", "value": "qualquer estilo de ambiente" }
+		]
+	},
+	{
+		"id": "king-house-nivus",
+		"name": "King House Nivus",
+		"image": "/images/posts/sofa-cama-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1VXHKec",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estofamento em Linho Rústico",
+			"Amplo, com 2,5 metros de largura",
+			"Ideal para ambientes espaçosos",
+			"Conforto para acomodar várias pessoas",
+			"Visual sofisticado"
+		],
+		"technicalDetails": [
+			{ "label": "Largura", "value": "2,5m" },
+			{ "label": "Revestimento", "value": "Linho Rústico" },
+			{ "label": "Estrutura", "value": "madeira" },
+			{ "label": "Indicação", "value": "salas amplas" }
+		]
+	},
+	{
+		"id": "mobly-premium-divan",
+		"name": "Mobly Premium Divan",
+		"image": "/images/posts/sofa-cama-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/193vq9e",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acomoda até 3 pessoas",
+			"Linha premium com acabamento sofisticado",
+			"Agrega elegância ao ambiente",
+			"Conforto elevado",
+			"Boa opção para decoração refinada"
+		],
+		"technicalDetails": [
+			{ "label": "Número de lugares", "value": "3" },
+			{ "label": "Linha", "value": "premium" },
+			{ "label": "Revestimento", "value": "tecido nobre" },
+			{ "label": "Indicação", "value": "ambientes sofisticados" }
+		]
+	}
+]

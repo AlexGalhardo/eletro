@@ -1,0 +1,175 @@
+[
+	{
+		"id": "rebitador-irwin-r450-1887143",
+		"name": "IRWIN R450 1887143",
+		"image": "/images/posts/rebitador-manual-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oduvAG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Corpo compacto, leve e resistente",
+			"Acionamento por alavanca entrega mais potência na aplicação dos rebites",
+			"Acompanha cinco bicos, cobrindo diâmetros de 2,4mm a 6,4mm",
+			"Reservatório integrado armazena os mandris descartados",
+			"Compatível com rebites de alumínio e aço"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio e aço" },
+			{ "label": "Diâmetros compatíveis", "value": "2,4mm, 3,2mm, 4,0mm, 4,8mm e 6,4mm" },
+			{ "label": "Bicos inclusos", "value": "5" },
+			{ "label": "Acessórios", "value": "chave para troca dos bicos; reservatório para mandris descartados" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "rebitador-vonder-ra450",
+		"name": "Vonder RA450",
+		"image": "/images/posts/rebitador-manual-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1hjUSZf",
+		"shopeeUrl": null,
+		"advantages": [
+			"Construção em aço carbono para uso industrial reforçado",
+			"Cabo cromado com revestimento em borracha melhora o conforto e a firmeza",
+			"Compatível com rebites de alumínio, aço e aço inox",
+			"Inclui três bicos para diâmetros de 3,2mm, 4,0mm e 4,8mm",
+			"Comprimento de 45cm facilita aplicar força em peças resistentes"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca" },
+			{ "label": "Material do corpo", "value": "aço carbono" },
+			{ "label": "Comprimento", "value": "45cm" },
+			{ "label": "Peso", "value": "1,07kg" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio, aço e aço inox" },
+			{ "label": "Diâmetros compatíveis", "value": "3,2mm, 4,0mm e 4,8mm" },
+			{ "label": "Bicos inclusos", "value": "3" },
+			{ "label": "Acabamento do cabo", "value": "aço carbono cromado revestido com borracha" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "rebitador-vonder-rm244",
+		"name": "Vonder RM244",
+		"image": "/images/posts/rebitador-manual-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oZALb2",
+		"shopeeUrl": null,
+		"advantages": [
+			"Corpo em chapa de aço estampado garante maior resistência",
+			"Cabo plastificado melhora a pegada e o conforto",
+			"Inclui quatro bicos para rebites de 2,4mm até 4,0mm",
+			"Peso reduzido de 550g facilita o uso prolongado",
+			"Recomendado para pequenos reparos com uma só mão"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alicate" },
+			{ "label": "Material do corpo", "value": "aço estampado" },
+			{ "label": "Peso", "value": "550g" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio" },
+			{ "label": "Diâmetros compatíveis", "value": "2,4mm, 3,2mm e 4,0mm" },
+			{ "label": "Bicos inclusos", "value": "4" },
+			{ "label": "Acabamento do cabo", "value": "plastificado" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "rebitador-fertak-tools-1026",
+		"name": "Fertak Tools 1026",
+		"image": "/images/posts/rebitador-manual-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PBarsp",
+		"shopeeUrl": null,
+		"advantages": [
+			"Castanhas em aço especial aumentam a resistência do conjunto",
+			"Cabos tubulares cromados com revestimento especial melhoram firmeza e conforto",
+			"Comprimento de 41,5cm oferece boa alavanca com menos esforço",
+			"Compatível com rebites de 3,2mm, 4,0mm e 4,8mm",
+			"Estrutura resistente, indicada para trabalhos mais pesados"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca; alicate" },
+			{ "label": "Material do corpo", "value": "castanhas em aço especial" },
+			{ "label": "Comprimento", "value": "41,5cm" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio, aço ou mistos" },
+			{ "label": "Diâmetros compatíveis", "value": "3,2mm, 4,0mm e 4,8mm" },
+			{ "label": "Bicos inclusos", "value": "3" },
+			{ "label": "Acabamento do cabo", "value": "cabos tubulares cromados com revestimento especial" }
+		]
+	},
+	{
+		"id": "rebitador-fertak-tools-1009",
+		"name": "Fertak Tools 1009",
+		"image": "/images/posts/rebitador-manual-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2JE5Pz2",
+		"shopeeUrl": null,
+		"advantages": [
+			"Feito em aço especial, garantindo maior durabilidade",
+			"Cabo emborrachado melhora o conforto e a firmeza durante o uso",
+			"Possui trava nos cabos para fácil armazenamento e transporte",
+			"Inclui quatro bicos compatíveis com diâmetros de 2,4mm a 4,8mm",
+			"Acompanha chave para facilitar a troca dos bicos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca" },
+			{ "label": "Material do corpo", "value": "aço especial" },
+			{ "label": "Comprimento", "value": "25cm" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio" },
+			{ "label": "Diâmetros compatíveis", "value": "2,4mm, 3,2mm, 4,0mm e 4,8mm" },
+			{ "label": "Bicos inclusos", "value": "4" },
+			{ "label": "Acabamento do cabo", "value": "cabo emborrachado com trava" }
+		]
+	},
+	{
+		"id": "rebitador-vonder-m3-m10",
+		"name": "Vonder M3-m10",
+		"image": "/images/posts/rebitador-manual-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21vnX96",
+		"shopeeUrl": null,
+		"advantages": [
+			"Construção em aço carbono favorece uso industrial e automotivo",
+			"Inclui 6 mandris roscados, cobrindo tamanhos de M3 a M10",
+			"Indicado para áreas de difícil acesso que exigem fixação resistente",
+			"Estrutura firme facilita o manuseio e a aplicação",
+			"Comprimento de 32cm exige o mínimo de esforço"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca" },
+			{ "label": "Material do corpo", "value": "aço carbono" },
+			{ "label": "Comprimento", "value": "32cm" },
+			{ "label": "Peso", "value": "810g" },
+			{ "label": "Rebites compatíveis", "value": "rebites de rosca" },
+			{ "label": "Diâmetros compatíveis", "value": "M3, M4, M5, M6, M8 e M10" },
+			{ "label": "Bicos inclusos", "value": "6" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "rebitador-vonder-ra540",
+		"name": "Vonder RA540",
+		"image": "/images/posts/rebitador-manual-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oyZjLn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Fabricado em aço carbono, adequado para uso industrial",
+			"Cabo reforçado com pega emborrachada",
+			"Inclui cinco bicos, cobrindo diâmetros de 2,4mm a 6,4mm",
+			"Compatível com rebites de alumínio, aço e aço inox",
+			"Reservatório integrado armazena mandris descartados"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alavanca" },
+			{ "label": "Material do corpo", "value": "aço carbono" },
+			{ "label": "Comprimento", "value": "54cm" },
+			{ "label": "Peso", "value": "1,95kg" },
+			{ "label": "Rebites compatíveis", "value": "rebites de alumínio, aço e aço inox" },
+			{ "label": "Diâmetros compatíveis", "value": "2,4mm, 3,2mm, 4,0mm, 4,8mm e 6,4mm" },
+			{ "label": "Bicos inclusos", "value": "5" },
+			{ "label": "Acessórios", "value": "chave para troca de bicos; reservatório para mandris descartados" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	}
+]

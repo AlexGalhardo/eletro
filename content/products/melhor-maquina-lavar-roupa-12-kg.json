@@ -1,0 +1,189 @@
+[
+	{
+		"id": "lg-vc4-cv5012mc4",
+		"name": "LG VC4 CV5012MC4 12kg/7kg (lava e seca)",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ETVGph",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia AI DD com detecção inteligente do tipo de tecido",
+			"Ciclos com vapor (Steam) eliminam até 99,9% de agentes alérgenos",
+			"Função 4 em 1: lava, seca, higieniza e preserva os tecidos",
+			"Gerenciamento via aplicativo LG ThinQ com conexão Wi-Fi",
+			"Motor Direct Drive silencioso com 7 anos de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "13" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 56,5cm" },
+			{ "label": "Peso", "value": "73kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hisense-3s-wd3s1243bw1",
+		"name": "Hisense 3S WD3S1243BW1 12kg/8kg (lava e seca)",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/249Q7Fe",
+		"shopeeUrl": null,
+		"advantages": [
+			"Gerenciamento pelo aplicativo ConnectLife com conectividade Wi-Fi",
+			"Capacidade de secagem de 8kg e lavagem de 12kg",
+			"Sistema Jet Wash com ciclo a 90ºC elimina resíduos e bactérias",
+			"Ciclo de lavagem rápida com duração de até 15 minutos",
+			"Tambor Snowflake com maior cuidado para tecidos delicados"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg (lavagem); 8kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital e botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "59,5 x 61 x 84,5cm" },
+			{ "label": "Peso", "value": "74kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lca12",
+		"name": "Colormaq LCA12 12kg",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1WDoRPa",
+		"shopeeUrl": null,
+		"advantages": [
+			"9 programas de lavagem com duplo filtro de fiapos",
+			"Tecnologia antimanchas distribui melhor o sabão nos tecidos",
+			"Multidispenser indica a dosagem adequada de sabão e amaciante",
+			"Baixo consumo de energia com classificação energética A",
+			"Recurso de reaproveitamento da água para limpeza externa"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "9" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "150 litros" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "103 x 60,5 x 70cm" },
+			{ "label": "Peso", "value": "36,9kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-lfc12",
+		"name": "Electrolux LFC12 12kg",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2JvcJ1V",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ciclo Tira Manchas remove até 4x mais manchas difíceis",
+			"Tecnologia AutoSense ajusta automaticamente tempo, água e energia",
+			"Funcionamento mais econômico, com até 40% menos consumo de recursos",
+			"Sistema Vapor Care higieniza, neutraliza odores e desamassa",
+			"Tecnologia Color Care reduz até 70% do desbotamento das roupas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Velocidade de centrifugação", "value": "1200RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "8" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Consumo de água por ciclo", "value": "92 litros" },
+			{ "label": "Painel", "value": "digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65,9cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philco-plr12a",
+		"name": "Philco PLR12A 12kg",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1TgS4zH",
+		"shopeeUrl": null,
+		"advantages": [
+			"Classificação A em eficiência energética e desempenho de lavagem",
+			"Motor Inverter BLDC com funcionamento silencioso",
+			"16 programas para diferentes tipos de tecidos e sujeira",
+			"Ajuste de temperatura entre 20°C e 95°C",
+			"Sistema de bloqueio do painel e da porta evita acionamentos indevidos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Velocidade de centrifugação", "value": "400 a 1400RPM (ajustável)" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85,5 x 60 x 64cm" },
+			{ "label": "Peso", "value": "65kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwm12ab",
+		"name": "Consul CWM12AB 12kg",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/32FEGrU",
+		"shopeeUrl": null,
+		"advantages": [
+			"Copo medidor reduz o consumo de sabão em até 70%",
+			"Sistema Dual Dispenser adiciona sabão e amaciante automaticamente",
+			"Programa específico para edredons e ciclo dedicado a tênis",
+			"Função Mais Secas reduz umidade e tempo no varal",
+			"Direciona a água para reaproveitamento em outras atividades"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Velocidade de centrifugação", "value": "750RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "135 litros" },
+			{ "label": "Painel", "value": "digital e botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "101 x 58 x 65cm" },
+			{ "label": "Peso", "value": "32kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "haier-hwd120",
+		"name": "Haier HWD120 12kg/7kg (lava e seca)",
+		"image": "/images/posts/maquina-lavar-roupa-12-kg-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1HRHvu1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Lavagem com Essência intensifica a fragrância nas roupas",
+			"Proteção antibacteriana com tecnologia ABT",
+			"Sistema de vapor ajuda a eliminar odores e higienizar",
+			"Tambor de 525mm acomoda peças volumosas",
+			"Balanças digitais internas ajustam água e duração do ciclo"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 55,5cm" },
+			{ "label": "Peso", "value": "72kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

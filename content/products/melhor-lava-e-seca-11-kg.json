@@ -1,0 +1,219 @@
+[
+	{
+		"id": "samsung-smartthings-wd11t-11kg",
+		"name": "Samsung Smartthings WD11T 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Máquina 3 em 1: lava, seca e esteriliza a seco com AirWash",
+			"AirWash elimina odores indesejáveis e até 99,9% das bactérias e alérgenos",
+			"Tecnologia Ecobubble aumenta em até 40x a penetração do sabão",
+			"Motor Digital Inverter com 20 anos de garantia e menor ruído",
+			"Lava e centrifuga em 15 minutos no ciclo rápido para pequenas cargas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "22" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "AI Control; lavagem a seco (Air Wash); função manchas difíceis; Ecobubble; configuração de idioma; Smart Control; trava infantil; adiar fim; travar porta; lavagem do tambor; tambor Diamond Drum; Meus Ciclos; vapor; compatível com SmartThings"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "samsung-wd11m-11kg",
+		"name": "Samsung WD11M 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1BbnYYV",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor Digital Inverter com maior eficiência, silêncio e 20 anos de garantia",
+			"Máquina 3 em 1 que lava, seca e esteriliza a seco",
+			"AirWash remove odores e elimina até 99,9% de bactérias e alérgenos",
+			"Ciclo rápido lava em 15 minutos; lavagem e secagem completa em 59 minutos",
+			"Tambor Diamond Drum reduz atrito e evita que as roupas desfiem"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "13" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital LED e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Tecnologia Diamond Drum; lavagem do tambor Eco; dispenser autolimpante; ciclo rápido 15 minutos; lavagem a seco; ciclo lava e seca em 59 minutos; controle inteligente Smart Check; trava infantil"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "samsung-ecobubble-wd11a-11kg",
+		"name": "Samsung Ecobubble WD11A 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1pdgnyH",
+		"shopeeUrl": null,
+		"advantages": [
+			"Economiza cerca de 20% de água por ciclo",
+			"Ecobubble amplia em até 40x a penetração do sabão no tecido",
+			"Ciclo Vapor de Higiene remove até 99% de alérgenos e bactérias",
+			"Função Manchas Difíceis remove vinho, chá, grama, maquiagem e mais",
+			"Ciclo rápido em 15 minutos e lavagem e secagem em 59 minutos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Vapor de higiene; função Manchas Difíceis; Ecobubble; lavagem a seco; ciclo rápido 15 minutos; lavagem e secagem em 59 minutos; lavagem do tambor Eco; dispenser autolimpante; Smart Check"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-heathguard-smart-mf200w110wb-wk-02-11kg",
+		"name": "Midea Heathguard Smart MF200W110WB/WK-02 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17PRvDf",
+		"shopeeUrl": null,
+		"advantages": [
+			"14 programas mais 9 funções, com Wi-Fi, app e comandos de voz",
+			"Motor Inverter Quattro com 3x mais resistência e menos ruído",
+			"Tripla tecnologia Heathguard garante limpeza profunda e esterilização",
+			"Função Turbo lava roupas 40% mais rápido",
+			"Compatível com Google Assistente e Alexa"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (total)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "14" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Favorito; algodão; mix; sintético; esterilizar; centrifugar; rápido 15'/60'; super ECO; desodorizar; delicado/lã; pesado/jeans; edredom e limpeza do tambor; turbo; tira mancha; vapor; enxague +; adiar início; centrifugação; + roupa; pré-lavagem; tambor com tecnologia Diamond Drum; tecnologia Heathguard; compatível com comandos de voz"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 62cm" },
+			{ "label": "Peso", "value": "67kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hisense-wd3s11-11kg",
+		"name": "Hisense WD3S11 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Jet Wash otimiza a lavagem e ajuda a remover manchas",
+			"Compatível com Wi-Fi e controle via app ConnectLife",
+			"Função Quick Wash com ciclos de até 15 minutos",
+			"Tambor Snowflake oferece economia de energia e cuidado com tecidos",
+			"Motor inverter com 7 anos de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Vapor; pausa e adição de roupas; lavagem a jato; tambor Snowflake; bloqueio para crianças; adiar fim; compatível com app ConnectLife; Quick Wash; tecnologia Jet Wash"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "59,5 x 61 x 84,5cm" },
+			{ "label": "Peso", "value": "72kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-lsp11-11kg",
+		"name": "Electrolux LSP11 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema de vapor reduz até 30% das rugas e elimina 99,9% dos germes e alérgenos",
+			"Tecnologia SensiCare ajusta tempo, água e energia à carga",
+			"AutoSense monitora temperatura e umidade para evitar desgaste das roupas",
+			"Ciclo especial Seda e Lã preserva textura e forma dos tecidos",
+			"Três níveis de secagem: extra seco, seco e passa fácil"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "Não especificado" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "15" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Pré-lavagem; ciclo rápido; função tira odor; sistema de vapor; controle de temperatura; função passa fácil; função adiar início; AutoSense; função SensiCare; ciclo favorito; 7 níveis de centrifugação"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 65,9cm" },
+			{ "label": "Peso", "value": "78,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philco-pls11c-11kg",
+		"name": "Philco PLS11C 11kg",
+		"image": "/images/posts/lava-e-seca-11-kg-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/15CFsni",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor Invertplus garante economia energética e operação silenciosa",
+			"Tecnologia Optimuwash otimiza a lavagem e protege os tecidos",
+			"16 programas de lavagem, incluindo roupas íntimas, delicadas e lã",
+			"Opções de secagem extra, normal e delicada",
+			"Bloqueio de segurança do painel e da porta"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "Frontal" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções extras",
+				"value": "Ajuste de programas; rotação da centrifugação; temperatura de lavagem; secagem extra, normal e delicada; bloqueio do painel e da porta; pés niveladores ajustáveis; desligamento automático"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "84,5 x 59,5 x 62cm" },
+			{ "label": "Peso", "value": "65kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,159 @@
+[
+	{
+		"id": "esmaltec-rcd38pro-306-litros",
+		"name": "Esmaltec (RCD38PRO) 306 litros",
+		"image": "/images/posts/geladeira-esmaltec-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2k7zbwX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Compressor Inverter reduz o consumo de energia",
+			"Congelador separado com 66 litros",
+			"Gaveta dupla para legumes",
+			"Prateleiras internas reguláveis e removíveis",
+			"Controle de temperatura em 7 estágios"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "338 litros" },
+			{ "label": "Classificação energética", "value": "B (26,4kWh/mês em 127V) / B (23,5kWh/mês em 220V)" },
+			{ "label": "Sistema de refrigeração", "value": "Placa fria Roll Bond" },
+			{ "label": "Prateleiras", "value": "Reguláveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Não" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico" },
+			{ "label": "Gás refrigerante", "value": "R600a (ecológico)" },
+			{ "label": "Dimensões (A x L x P)", "value": "172,8 x 61,2 x 65cm" },
+			{ "label": "Peso", "value": "44,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "esmaltec-rcd38-306-litros",
+		"name": "Esmaltec (RCD38) 306 litros",
+		"image": "/images/posts/geladeira-esmaltec-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2udonvP",
+		"shopeeUrl": null,
+		"advantages": [
+			"306 litros de capacidade total, com 69 litros no congelador",
+			"Classificação energética A",
+			"Temperatura de até -18°C no congelador",
+			"Sistema Cycle Defrost reduz o degelo manual",
+			"Prateleiras internas removíveis"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "306 litros" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "Internas removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Não" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico" },
+			{ "label": "Dimensões (A x L x P)", "value": "173 x 66 x 61,1cm" },
+			{ "label": "Peso", "value": "49,22kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "esmaltec-roc31pro-293-litros",
+		"name": "Esmaltec (ROC31PRO) 293 litros",
+		"image": "/images/posts/geladeira-esmaltec-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2TDNUAi",
+		"shopeeUrl": null,
+		"advantages": [
+			"Gaveta de resfriamento rápido para bebidas e alimentos",
+			"Compressor Inverter com classificação energética A",
+			"Prateleiras internas reguláveis e removíveis",
+			"Compartimento extra-frio incluído",
+			"Gás ecológico R600a"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "293 litros" },
+			{ "label": "Classificação energética", "value": "A (13,0kWh/mês em 127V) / A (13,7kWh/mês em 220V)" },
+			{ "label": "Sistema de refrigeração", "value": "Serpentina com fluido R600a" },
+			{ "label": "Prateleiras", "value": "Reguláveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Sim" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico" },
+			{ "label": "Dimensões (A x L x P)", "value": "147,5 x 54 x 62cm" },
+			{ "label": "Peso", "value": "35,61kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "esmaltec-roc31pro-245-litros",
+		"name": "Esmaltec (ROC31PRO) 245 litros",
+		"image": "/images/posts/geladeira-esmaltec-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1g71YU8",
+		"shopeeUrl": null,
+		"advantages": [
+			"245 litros de capacidade, ideal para cozinhas compactas",
+			"Compressor Inverter para funcionamento econômico",
+			"Gaveta de resfriamento rápido para alimentos e bebidas",
+			"Porta-latas e porta-garrafas integrados",
+			"Compartimento extra-frio incluído"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "245 litros" },
+			{ "label": "Classificação energética", "value": "A+ ou A++ (20,2kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Serpentina com fluido R600a" },
+			{ "label": "Prateleiras", "value": "Reguláveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Sim" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico (7 níveis)" },
+			{ "label": "Dimensões (A x L x P)", "value": "147,5 x 54 x 62cm" },
+			{ "label": "Peso", "value": "38,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "esmaltec-roc35pro-259-litros",
+		"name": "Esmaltec (ROC35PRO) 259 litros",
+		"image": "/images/posts/geladeira-esmaltec-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2CWBE7f",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura compacta com 259 litros de capacidade",
+			"Compressor Inverter de baixo consumo",
+			"Sistema Cycle Defrost reduz a frequência de degelo",
+			"Compartimento extra-frio incluído",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "259 litros" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Sistema de refrigeração", "value": "Serpentina com fluido R600a" },
+			{ "label": "Prateleiras", "value": "Reguláveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Sim" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico" },
+			{ "label": "Dimensões (A x L x P)", "value": "155,7 x 54 x 66,5cm" },
+			{ "label": "Peso", "value": "42,5kg" },
+			{ "label": "Voltagem", "value": "127V" }
+		]
+	},
+	{
+		"id": "esmaltec-rcd34pro-276-litros",
+		"name": "Esmaltec (RCD34PRO) 276 litros",
+		"image": "/images/posts/geladeira-esmaltec-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1MmGa1g",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo duplex com congelador separado de 50 litros",
+			"Compressor Inverter de baixo consumo",
+			"Prateleiras internas reguláveis e removíveis",
+			"Gaveta específica para legumes",
+			"Disponível nas cores branca e preta"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "277 litros" },
+			{ "label": "Classificação energética", "value": "B (25,8kWh/mês em 127V) / B (26,7kWh/mês em 220V)" },
+			{ "label": "Sistema de refrigeração", "value": "Serpentina com fluido R600a" },
+			{ "label": "Prateleiras", "value": "Reguláveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "Não" },
+			{ "label": "Controle de temperatura", "value": "Interno, seletor mecânico" },
+			{ "label": "Dimensões (A x L x P)", "value": "159,1 x 55,7 x 65cm" },
+			{ "label": "Peso", "value": "37,64kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

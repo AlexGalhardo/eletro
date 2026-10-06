@@ -1,0 +1,152 @@
+[
+	{
+		"id": "fischer-26884-59096-inducao",
+		"name": "Fischer 26884-59096 (indução)",
+		"image": "/images/posts/cooktop-1-boca-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1GXPPUh",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de até 2000W com 7 níveis ajustáveis",
+			"Painel digital touch com timer",
+			"Trava de segurança integrada",
+			"Aquecimento restrito à base da panela melhora o aproveitamento de energia",
+			"Peso leve de 2,66kg"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "1500W (127V); 2000W (220V)" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Vitrocerâmico" },
+			{ "label": "Controle de temperatura", "value": "Painel digital touch (10 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "4 x 29,5 x 38cm" },
+			{ "label": "Peso", "value": "2,66kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-cydj11-inducao",
+		"name": "Midea CYDJ11 (indução)",
+		"image": "/images/posts/cooktop-1-boca-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17CXU1V",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ferve água até 2,6 vezes mais rápido com função Turbo",
+			"Tecnologia Even Pro mantém temperatura estável",
+			"6 funções pré-programadas para diferentes preparos",
+			"Timer de até 180 minutos com função Pausa",
+			"Desligamento automático ao retirar a panela"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "1500W (127V); 2000W (220V)" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Vitrocerâmico" },
+			{ "label": "Controle de temperatura", "value": "Painel digital touch (9 níveis + Turbo)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "5,6 x 28 x 35cm" },
+			{ "label": "Peso", "value": "2,37kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philco-pct12p-inducao",
+		"name": "Philco PCT12P (indução)",
+		"image": "/images/posts/cooktop-1-boca-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1qj1Dky",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle de temperatura entre 60°C e 240°C",
+			"10 níveis de potência",
+			"Timer integrado de até 180 minutos",
+			"Compatível com recipientes de 12 a 22cm",
+			"Modelo bivolt"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Vidro cerâmico" },
+			{ "label": "Controle de temperatura", "value": "Painel digital touch (10 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "4,7 x 29 x 37cm" },
+			{ "label": "Peso", "value": "2,3kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	},
+	{
+		"id": "dako-400000460-inducao",
+		"name": "Dako 400000460 (indução)",
+		"image": "/images/posts/cooktop-1-boca-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2NPFHhw",
+		"shopeeUrl": null,
+		"advantages": [
+			"6 funções: Manual, Fritar, Fondue, Manter Aquecido, Ferver e Sopa",
+			"2000W de potência com controle em 7 níveis",
+			"Detector de Panela e indicador de calor residual",
+			"Estrutura portátil e leve de 2kg",
+			"Interrompe o funcionamento em caso de superaquecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "1500W (127V); 2000W (220V)" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Vidro cerâmico" },
+			{ "label": "Controle de temperatura", "value": "Painel touch (10 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "4,5 x 29 x 36cm" },
+			{ "label": "Peso", "value": "2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bcte10a-inducao",
+		"name": "Britânia BCTE10A (indução)",
+		"image": "/images/posts/cooktop-1-boca-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1gadtW2",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura portátil com peso leve de 1,91kg",
+			"Ajuste de temperatura entre 60°C e 240°C",
+			"Timer integrado de até 180 minutos",
+			"6 programas: Cozinhar, Aquecer Leite, Refogar, Fritar, Sopa e Ferver Água",
+			"Indicador de calor residual e proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Indução" },
+			{ "label": "Potência", "value": "1100W (127V); 1600W (220V)" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Vidro cerâmico" },
+			{ "label": "Controle de temperatura", "value": "Painel touch (8 níveis)" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "4,4 x 28 x 36cm" },
+			{ "label": "Peso", "value": "1,91kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "suggar-fg1002ix-a-gas",
+		"name": "Suggar FG1002IX (a gás)",
+		"image": "/images/posts/cooktop-1-boca-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1mNZ7bk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Queimador tripla chama de 3200W",
+			"Acendimento superautomático",
+			"Trempe de ferro fundido robusta e estável",
+			"Mesa em aço inox resistente",
+			"Botão Multicontrol removível facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Gás" },
+			{ "label": "Potência", "value": "3200W" },
+			{ "label": "Número de bocas", "value": "1" },
+			{ "label": "Material da mesa", "value": "Aço inox" },
+			{ "label": "Dimensões do produto (A x L x P)", "value": "12 x 31 x 51cm" },
+			{ "label": "Dimensões do nicho (L x P)", "value": "27,5 x 47,5cm" },
+			{ "label": "Peso", "value": "4,4kg" },
+			{ "label": "Voltagem", "value": "127V/220V (bivolt)" }
+		]
+	}
+]

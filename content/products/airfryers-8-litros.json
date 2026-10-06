@@ -1,0 +1,276 @@
+[
+	{
+		"id": "arno-dual-afd2-8-3l",
+		"name": "Arno Dual AFD2 (8,3 litros) 1800W",
+		"image": "/images/posts/airfryers-8-litros-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1qG3vci",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade total de 8,3L com dois cestos independentes",
+			"Função SYNC sincroniza o preparo dos dois cestos",
+			"Painel digital com 7 programas",
+			"Controle individual de temperatura",
+			"Timer de até 7 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8,3 litros" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Controle de temperatura", "value": "40°C a 200°C" },
+			{ "label": "Tempo máximo", "value": "10 horas" },
+			{ "label": "Painel", "value": "digital" },
+			{
+				"label": "Funções especiais",
+				"value": "SYNC; 2 cestos independentes; 7 programas; Hot Air; timer; controle individual; antiaderente; lava-louças"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "43,5 x 47,5 x 34cm" },
+			{ "label": "Peso", "value": "7,8kg" }
+		]
+	},
+	{
+		"id": "mondial-afd-01-bi-8l",
+		"name": "Mondial AFD-01-BI (8 litros) 2200W",
+		"brand": "Mondial",
+		"image": "/images/posts/airfryers-8-litros-2.jpg",
+		"model": "AFD-01-BI",
+		"detailedModel": "8 litros 2200W",
+		"color": "Preto/Inox",
+		"badge": "nossa escolha",
+		"description": "Modelo DualZone com dois cestos independentes e ajustes separados de tempo e temperatura para preparar duas receitas simultaneamente.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "air-fryers-8-litros",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1wiy9XC",
+		"shopeeUrl": null,
+		"alphanumericModel": "AFD-01-BI",
+		"version": null,
+		"manufacturer": "Mondial",
+		"advantages": [
+			"11 programas automáticos",
+			"Dois cestos removíveis",
+			"Tecnologia DualZone",
+			"Função sincronizar",
+			"Potência de até 2200W",
+			"Revestimento Duraflon",
+			"Timer com desligamento automático",
+			"Design moderno",
+			"Livro de receitas",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Preço elevado"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8 litros" },
+			{ "label": "Potência", "value": "2000W (127V); 2200W (220V)" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo", "value": "60 minutos" },
+			{ "label": "Painel", "value": "digital" },
+			{
+				"label": "Funções especiais",
+				"value": "DualZone; sincronizar; 11 programas; Duraflon; timer; desligamento automático"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,7 x 38,2 x 37,8cm" },
+			{ "label": "Peso", "value": "7kg" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 4.5,
+				"capacity": 5,
+				"powerEfficiency": 5,
+				"buildQuality": 4.5,
+				"easeOfUse": 5,
+				"features": 5,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "mondial-afn-80-bi-8l",
+		"name": "Mondial AFN-80-BI (8 litros) 1900W",
+		"brand": "Mondial",
+		"image": "/images/posts/airfryers-8-litros-3.jpg",
+		"model": "AFN-80-BI",
+		"detailedModel": "8 litros 1900W",
+		"color": "Preto ou Vermelho",
+		"badge": "mais vendido",
+		"description": "Um dos modelos mais vendidos da categoria graças ao preço competitivo, cesto quadrado e grande capacidade de 8 litros.",
+		"price": null,
+		"discountPercent": 13,
+		"fastShipping": true,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "air-fryers-8-litros",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2YPu9sV",
+		"shopeeUrl": null,
+		"alphanumericModel": "AFN-80-BI",
+		"version": null,
+		"manufacturer": "Mondial",
+		"advantages": [
+			"Cesto quadrado",
+			"Capacidade para frango inteiro",
+			"Revestimento Duraflon",
+			"Timer com aviso sonoro",
+			"Desligamento automático",
+			"Potência de 1900W",
+			"Livro de receitas",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8 litros" },
+			{ "label": "Potência", "value": "1900W" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo", "value": "60 minutos" },
+			{ "label": "Painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "Duraflon; timer; desligamento automático; aviso sonoro" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "32,5 x 35 x 45cm" },
+			{ "label": "Peso", "value": "7,1kg" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 4.5,
+				"powerEfficiency": 4.5,
+				"buildQuality": 4.5,
+				"easeOfUse": 4.5,
+				"features": 4,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "midea-fwm85p1-8-5l",
+		"name": "Midea FWM85P1 (8,5 litros) 1900W",
+		"brand": "Midea",
+		"image": "/images/posts/airfryers-8-litros-4.jpg",
+		"model": "FWM85P1",
+		"detailedModel": "8,5 litros 1900W",
+		"color": "Preto/Inox",
+		"badge": "custo-benefício",
+		"description": "Modelo moderno com grande capacidade, aquecimento rápido e revestimento BlackStone que facilita a limpeza.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "air-fryers-8-litros",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1yDZ1bg",
+		"shopeeUrl": null,
+		"alphanumericModel": "FWM85P1",
+		"version": null,
+		"manufacturer": "Midea",
+		"advantages": [
+			"Capacidade de 8,5 litros",
+			"Revestimento BlackStone",
+			"Cesto e bandeja laváveis na lava-louças",
+			"Sensor de desligamento automático",
+			"Potência de 1900W",
+			"Acabamento em inox",
+			"Temperatura até 200°C",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8,5 litros" },
+			{ "label": "Potência", "value": "1900W" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo", "value": "60 minutos" },
+			{ "label": "Painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "BlackStone; sensor de desligamento; lava-louças; timer" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "29,2 x 31,5 x 45,6cm" },
+			{ "label": "Peso", "value": "6,2kg" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 5,
+				"powerEfficiency": 4.5,
+				"buildQuality": 4.5,
+				"easeOfUse": 4.5,
+				"features": 4,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "philco-gourmet-pfr13p-8-1l",
+		"name": "Philco Gourmet PFR13P (8,1 litros)",
+		"brand": "Philco",
+		"image": "/images/posts/airfryers-8-litros-5.jpg",
+		"model": "PFR13P",
+		"detailedModel": "8,1 litros",
+		"color": "Preto",
+		"badge": "bom e barato",
+		"description": "Air fryer potente e acessível, equipada com revestimento Ultra Maxx, tecnologia Air Fry 360° e amplo cesto quadrado.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "air-fryers-8-litros",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fVqr58",
+		"shopeeUrl": null,
+		"alphanumericModel": "PFR13P",
+		"version": null,
+		"manufacturer": "Philco",
+		"advantages": [
+			"Capacidade de 8,1L",
+			"Cesto interno de 7,2L",
+			"Revestimento Ultra Maxx",
+			"Tecnologia Air Fry 360°",
+			"Cesto quadrado lavável na lava-louças",
+			"Até 2000W (220V)",
+			"Temperatura de 80°C a 200°C",
+			"Proteção contra superaquecimento",
+			"Base antiderrapante",
+			"Trava de segurança",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8,1 litros (cesto interno de 7,2L)" },
+			{ "label": "Potência", "value": "2000W (220V)" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Painel", "value": "analógico" },
+			{
+				"label": "Funções especiais",
+				"value": "Air Fry 360°; Ultra Maxx; trava de segurança; proteção contra superaquecimento"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 4.5,
+				"powerEfficiency": 5,
+				"buildQuality": 4.5,
+				"easeOfUse": 4.5,
+				"features": 4,
+				"noiseLevel": 5
+			}
+		}
+	}
+]

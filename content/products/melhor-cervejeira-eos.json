@@ -1,0 +1,184 @@
+[
+	{
+		"id": "eos-bierhaus-ece110-100-litros",
+		"name": "EOS Bierhaus (ECE110) 100 litros",
+		"image": "/images/posts/cervejeira-eos-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1M3pbWt",
+		"shopeeUrl": null,
+		"advantages": [
+			"Resfriamento rápido com tecnologia Turbo Freeze",
+			"Faixa de temperatura de -6°C a 5°C",
+			"Painel digital touch externo com trava",
+			"Sistema Frost Free dispensa degelo manual",
+			"Acabamento inox titanium com iluminação em LED"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "100 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 5°C" },
+			{ "label": "Controle de temperatura", "value": "Painel touch digital" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro duplo, acabamento inox titanium" },
+			{ "label": "Dimensões (A x L x P)", "value": "83,5 x 52,2 x 53,5cm" },
+			{ "label": "Peso", "value": "30kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece120-100-litros",
+		"name": "EOS Bierhaus (ECE120) 100 litros",
+		"image": "/images/posts/cervejeira-eos-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2YneZyr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modo Eco Férias para economia de energia",
+			"Faixa de temperatura de -6°C a 18°C",
+			"Acomoda até 161 latas de 350mL",
+			"Porta Black Glass com visor",
+			"Garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "100 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 18°C" },
+			{ "label": "Controle de temperatura", "value": "Painel touch digital" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro preto com visor" },
+			{ "label": "Dimensões (A x L x P)", "value": "84,8 x 49,5 x 43cm" },
+			{ "label": "Peso", "value": "26,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece80-76-litros",
+		"name": "EOS Bierhaus (ECE80) 76 litros",
+		"image": "/images/posts/cervejeira-eos-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1eUXBep",
+		"shopeeUrl": null,
+		"advantages": [
+			"Porta de vidro duplo antiembaçante",
+			"Controle térmico de -6°C a 22°C",
+			"Tecnologia Turbo Freeze para resfriamento rápido",
+			"Estrutura compacta com 69cm de altura",
+			"Garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "76 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 22°C" },
+			{ "label": "Controle de temperatura", "value": "Painel digital" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro duplo antiembaçante, acabamento inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "69 x 43 x 47,5cm" },
+			{ "label": "Peso", "value": "27kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece51-48-litros",
+		"name": "EOS Bierhaus (ECE51) 48 litros",
+		"image": "/images/posts/cervejeira-eos-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1B5qAdu",
+		"shopeeUrl": null,
+		"advantages": [
+			"Compacta, ideal para uma pessoa ou casal",
+			"Resfriamento acelerado pela função Turbo",
+			"Painel digital com trava de segurança",
+			"Peso reduzido de apenas 16,5kg",
+			"Garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "48 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 10°C" },
+			{ "label": "Controle de temperatura", "value": "Painel touch digital" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Cega com puxador embutido" },
+			{ "label": "Dimensões (A x L x P)", "value": "51,5 x 43,4 x 49,5cm" },
+			{ "label": "Peso", "value": "16,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece550-550-litros",
+		"name": "EOS Bierhaus (ECE550) 550 litros",
+		"image": "/images/posts/cervejeira-eos-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade comercial de 550 litros",
+			"Porta de vidro antiembaçante com fechamento automático",
+			"Rodízios com trava facilitam o deslocamento",
+			"Termostato ajustável de -6°C a 10°C",
+			"Controle independente da iluminação interna"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira expositora vertical" },
+			{ "label": "Capacidade interna", "value": "550 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 10°C" },
+			{ "label": "Controle de temperatura", "value": "Termostato ajustável" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro antiembaçante com fechamento automático" },
+			{ "label": "Dimensões (A x L x P)", "value": "204,5 x 63 x 66,8cm" },
+			{ "label": "Peso", "value": "110kg" },
+			{ "label": "Voltagem", "value": "220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece130-115-litros",
+		"name": "EOS Bierhaus (ECE130) 115 litros",
+		"image": "/images/posts/cervejeira-eos-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1LjjUfA",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle pelo painel digital touch",
+			"Temperatura ajustável de -6°C a 22°C",
+			"Modo Turbo para resfriamento rápido",
+			"Porta de vidro duplo com acabamento inox",
+			"Garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "115 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 22°C" },
+			{ "label": "Controle de temperatura", "value": "Painel digital touch" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro duplo com acabamento em inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85,3 x 54 x 56,8cm" },
+			{ "label": "Peso", "value": "16,8kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece131-115-litros",
+		"name": "EOS Bierhaus (ECE131) 115 litros",
+		"image": "/images/posts/cervejeira-eos-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2AGk5eF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Porta com vidro duplo reduz troca de calor",
+			"Resfriamento rápido com função Turbo Freeze",
+			"Modo ECO Férias reduz gasto energético",
+			"Isolante térmico em ciclopentano",
+			"Cobertura de 7 anos para o compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Cervejeira vertical" },
+			{ "label": "Capacidade interna", "value": "115 litros" },
+			{ "label": "Faixa de temperatura", "value": "-6°C a 22°C" },
+			{ "label": "Controle de temperatura", "value": "Painel digital touch" },
+			{ "label": "Refrigeração", "value": "Frost Free" },
+			{ "label": "Porta", "value": "Vidro duplo, acabamento inox, abertura à esquerda" },
+			{ "label": "Dimensões (A x L x P)", "value": "85,3 x 54 x 56,8cm" },
+			{ "label": "Peso", "value": "32kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

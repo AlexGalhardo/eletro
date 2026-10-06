@@ -1,0 +1,66 @@
+{
+	"name": "sveltekit-blog-cms",
+	"description": "Open source blog CMS built with SvelteKit, Markdown content and a web admin dashboard.",
+	"version": "0.1.0",
+	"private": true,
+	"license": "MIT",
+	"type": "module",
+	"engines": {
+		"node": ">=22.17"
+	},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync && husky || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"lint": "biome check . && markdownlint-cli2",
+		"lint:code": "biome check .",
+		"lint:md": "markdownlint-cli2",
+		"format": "biome check --write . && markdownlint-cli2 --fix",
+		"test": "vitest run",
+		"test:watch": "vitest",
+		"test:e2e": "playwright test",
+		"test:e2e:install": "playwright install chromium",
+		"verify": "bun run check && bun run lint && bun run test && bun run build && bun run test:e2e"
+	},
+	"imports": {
+		"#lib": "./src/lib/index.js",
+		"#lib/*": "./src/lib/*"
+	},
+	"dependencies": {
+		"@fontsource/inter": "5.3.0",
+		"@fontsource/russo-one": "5.3.0",
+		"@lucide/svelte": "1.52.0",
+		"@react-email/components": "1.0.12",
+		"@react-email/render": "2.1.0",
+		"fuse.js": "7.5.0",
+		"gray-matter": "4.0.3",
+		"react": "19.3.0",
+		"react-dom": "19.3.0",
+		"resend": "6.32.0",
+		"zod": "4.6.5"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.5.15",
+		"@commitlint/cli": "21.2.3",
+		"@commitlint/config-conventional": "21.2.3",
+		"@playwright/test": "1.63.0",
+		"@sveltejs/adapter-auto": "8.0.0",
+		"@sveltejs/kit": "3.0.1",
+		"@sveltejs/vite-plugin-svelte": "7.3.1",
+		"@tailwindcss/vite": "4.3.3",
+		"@types/node": "24.19.1",
+		"@types/react": "19.3.0",
+		"@types/react-dom": "19.3.0",
+		"husky": "9.1.7",
+		"markdownlint-cli2": "0.23.3",
+		"mdsvex": "0.12.8",
+		"svelte": "5.57.2",
+		"svelte-check": "4.7.6",
+		"tailwindcss": "4.3.3",
+		"typescript": "6.0.3",
+		"vite": "8.3.3",
+		"vitest": "5.0.3"
+	}
+}

@@ -1,0 +1,226 @@
+[
+	{
+		"id": "electrolux-leb18-18kg",
+		"name": "Electrolux LEB18 18kg",
+		"image": "/images/posts/maquina-lavar-electrolux-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 18kg permite lavar grandes volumes, incluindo edredom king size",
+			"Tripla filtragem remove fiapos, microplásticos e pelos de pets com a função PET PRO",
+			"Jatos poderosos lavam sem agitação, reduzindo desgaste e desbotamento das peças",
+			"Tecnologia Jet&Clean dilui até 100% o sabão e amaciante no dispenser, evitando manchas",
+			"Nível de Roupa Inteligente ajusta a água automaticamente conforme a carga"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "18kg" },
+			{ "label": "Velocidade de centrifugação", "value": "630RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "152 litros" },
+			{ "label": "Painel", "value": "Digital e botão giratório" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções extras",
+				"value": "Tripla filtragem (fiapos, pelos de pet e microplásticos); função PET PRO; jatos poderosos com Dual Filter; Jet&Clean no dispenser; Checkup Automático; Nível de Roupa Inteligente; sistema de Lavagem Inteligente; Programa Extra Delicado; função Reutilizar Água; função molho; enxágue; dispenser para alvejante, amaciante, sabão em pó e sabão líquido; pés niveladores; operação silenciosa; eficiência energética A; 5 níveis de água"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105,2 x 66,2 x 72,4cm" },
+			{ "label": "Peso", "value": "46kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-led17-17kg",
+		"name": "Electrolux LED17 17kg",
+		"image": "/images/posts/maquina-lavar-electrolux-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2NNdddx",
+		"shopeeUrl": null,
+		"advantages": [
+			"Dispenser autolimpante com Jet&Clean dilui totalmente sabão e amaciante, evitando manchas",
+			"Ultra Filter com alta capacidade de retenção de fiapos e pelos",
+			"Capacidade de 17kg lava grandes volumes, como edredom king size",
+			"Programas específicos para tênis, edredom e delicado/fitness",
+			"Ciclos Rápidos e reaproveitamento da água do ciclo para outras tarefas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "17kg" },
+			{ "label": "Velocidade de centrifugação", "value": "630RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "180 litros" },
+			{ "label": "Painel", "value": "Mecânico" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções extras",
+				"value": "Jet&Clean no dispenser; Ultra Filter pega fiapos; Ciclos Rápidos (25 min); função reutilização de água; controle de duplo enxágue; turbo lavagem; ciclo silencioso; controle de molho; visualizador de etapas de lavagem; 11 programas (tira-manchas, limpeza de cesto, edredom, tênis); três modos de molho (longo, normal, curto); enxágue; centrifugação; dispenser para alvejante, amaciante, sabão em pó e sabão líquido; pés niveladores; eficiência energética A; 5 níveis de roupa"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105,2 x 66,2 x 72,4cm" },
+			{ "label": "Peso", "value": "46kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-led15-15kg",
+		"name": "Electrolux LED15 15kg",
+		"image": "/images/posts/maquina-lavar-electrolux-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 15kg lava até edredom tamanho queen",
+			"Sistema Jet&Clean dilui completamente sabão e amaciante, evitando manchas",
+			"Tecnologia Ultra Filter aumenta a retenção de fiapos",
+			"Ciclos Rápidos reduzem o tempo de lavagem para 25 minutos",
+			"Selo Procel A garante baixo consumo energético"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "15kg" },
+			{ "label": "Velocidade de centrifugação", "value": "630RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "160 litros" },
+			{ "label": "Painel", "value": "Mecânico" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções extras",
+				"value": "Jet&Clean no dispenser; Ultra Filter pega fiapos; Ciclos Rápidos (25 min); função reutilização de água; controle de duplo enxágue; turbo lavagem; ciclo silencioso; controle de molho; 11 programas (incluindo lavar tênis e delicado/fitness); molho longo, normal e curto; enxágue; centrifugação; Perfect Dilution; função avança etapas; dispenser para alvejante, amaciante, sabão em pó e sabão líquido; pés niveladores; eficiência energética A; 5 níveis de roupa"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105,2 x 66,2 x 72,4cm" },
+			{ "label": "Peso", "value": "46kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-led13-13kg",
+		"name": "Electrolux LED13 13kg",
+		"image": "/images/posts/maquina-lavar-electrolux-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"11 programas de lavagem, incluindo edredom tamanho casal",
+			"Sistema Jet&Clean dilui sabão e amaciante, evitando manchas",
+			"Ultra Filter retém maior número de fiapos",
+			"Função Turbo Agitação/Secagem ajuda a remover manchas mais difíceis",
+			"Limpeza automática do cesto em inox"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "13kg" },
+			{ "label": "Velocidade de centrifugação", "value": "630RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "160 litros" },
+			{ "label": "Painel", "value": "Analógico" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções extras",
+				"value": "Dispenser Jet&Clean; Ultra Filter pega fiapos; Ciclos Rápidos; função reutilização de água; 11 programas de lavagem (lava tênis, lava edredom, autolimpeza do cesto); função avança etapas; função turbo agitação; duplo enxágue; função iniciar/pausar"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105,2 x 66,2 x 72,4cm" },
+			{ "label": "Peso", "value": "46kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-les11-11kg",
+		"name": "Electrolux LES11 11kg",
+		"image": "/images/posts/maquina-lavar-electrolux-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1jVFzCv",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Easy Clean dilui totalmente sabão e amaciante, evitando manchas",
+			"Programa rápido de 19 minutos para roupas pouco sujas",
+			"8 programas para roupas pesadas, jeans, brancas, escuras, coloridas e delicadas",
+			"Ciclo silencioso reduz o nível de ruído durante o funcionamento",
+			"Função de reuso de água evita desperdícios"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg" },
+			{ "label": "Velocidade de centrifugação", "value": "680RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "8" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "107 litros" },
+			{ "label": "Painel", "value": "Botão mecânico" },
+			{ "label": "Material do cesto", "value": "Polipropileno" },
+			{
+				"label": "Funções extras",
+				"value": "Sistema Easy Clean; filtro pega fiapos; ciclo rápido de 19 minutos; programas específicos para edredom e roupas delicadas; função reuso de água; diluição inteligente; sistema de lavagem por agitação; reaproveitamento de água; pés niveladores"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "103 x 59,5 x 67cm" },
+			{ "label": "Peso", "value": "40kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-lac09-8-5kg",
+		"name": "Electrolux LAC09 8,5kg",
+		"image": "/images/posts/maquina-lavar-electrolux-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"12 programas específicos, incluindo tênis, edredom e delicado",
+			"Dispenser autolimpante com função Perfect Dilution",
+			"Cesto em plástico livre de BPA",
+			"Modo Turbo Agitação e Turbo Secagem",
+			"Permite reutilizar a água com função específica"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8,5kg" },
+			{ "label": "Velocidade de centrifugação", "value": "660RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "Não especificado" },
+			{ "label": "Painel", "value": "Botão" },
+			{ "label": "Material do cesto", "value": "Polipropileno" },
+			{
+				"label": "Funções extras",
+				"value": "Turbo Agitação; Turbo Secagem; dispenser autolimpante com Perfect Dilution; programas específicos para edredom, tênis e roupas delicadas; reaproveitamento de água; filtro elimina fiapos; ciclo rápido de 19 minutos"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "106 x 54 x 62cm" },
+			{ "label": "Peso", "value": "30,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	},
+	{
+		"id": "electrolux-lee18-18kg",
+		"name": "Electrolux LEE18 18kg",
+		"image": "/images/posts/maquina-lavar-electrolux-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1qgDjWB",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 18kg para lavar grandes volumes em um único ciclo",
+			"Tecnologia Jet&Clean evita manchas ao diluir completamente sabão e amaciante",
+			"Ultra Filter retém fiapos das roupas",
+			"Sistema de Lavagem Inteligente otimiza o tempo dos programas",
+			"Função Turbo intensifica a lavagem e a centrifugação"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "18kg" },
+			{ "label": "Velocidade de centrifugação", "value": "630RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "11" },
+			{ "label": "Abertura da tampa", "value": "Superior" },
+			{ "label": "Consumo de água por ciclo", "value": "170 litros" },
+			{ "label": "Painel", "value": "Mecânico" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções extras",
+				"value": "Tecnologia Jet&Clean; dispenser autolimpante; diluição inteligente; Ultra Filter pega-fiapos; sistema de Lavagem Inteligente (otimiza tempo dos ciclos); 11 programas de lavagem (lavar tênis e edredom king size); função avança etapas; molho; enxágue; centrifugação; dispenser para alvejante, amaciante, sabão em pó e sabão líquido; pés niveladores; classificação energética A; 5 níveis de água"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105,2 x 66,2 x 72,4cm" },
+			{ "label": "Peso", "value": "46kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V (não é bivolt)" }
+		]
+	}
+]

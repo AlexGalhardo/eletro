@@ -1,0 +1,173 @@
+[
+	{
+		"id": "britania-bas1500v-1400w",
+		"name": "Britânia BAS1500V (1400W)",
+		"image": "/images/posts/aspirador-po-britania-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ovSaeQ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1400W entrega alto poder de sucção",
+			"Sistema ciclone reduz entupimentos e amplia a vida útil do motor",
+			"Reservatório permanente, lavável e transparente com 1,5L",
+			"Estrutura 2 em 1, podendo ser usado como portátil",
+			"Acessórios com giro de 360° facilitam áreas de difícil acesso"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,5 litro" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "ciclone" },
+			{ "label": "Comprimento do cabo", "value": "4,7 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para canto e frestas; bocal para pisos e tapetes" },
+			{ "label": "Nível de ruído", "value": "89dB" },
+			{ "label": "Peso", "value": "1,79kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bas1295p-1250w",
+		"name": "Britânia BAS1295P (1250W)",
+		"image": "/images/posts/aspirador-po-britania-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1FFzp3s",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura 2 em 1 permite uso vertical ou portátil sem a haste",
+			"Potência de 1250W acelera a remoção de poeira em várias superfícies",
+			"Filtro HEPA permanente, removível e lavável retém ácaros e impurezas",
+			"Base com rotação de 360° facilita o acesso a áreas difíceis",
+			"Peso leve de 1,46kg e cabo de 5 metros"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1 litro" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para canto e frestas; bocal para pisos e tapetes" },
+			{ "label": "Nível de ruído", "value": "89dB" },
+			{ "label": "Peso", "value": "1,46kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bas1290v-1250w",
+		"name": "Britânia BAS1290V (1250W)",
+		"image": "/images/posts/aspirador-po-britania-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2dLWYS8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema com filtro HEPA permanente e lavável",
+			"Estrutura 2 em 1 alterna entre uso vertical e modo portátil",
+			"Motor com potência de 1250W",
+			"Base articulada com rotação de 360° contorna móveis",
+			"Estrutura leve de 1,43kg com cabo de 5 metros"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1 litro" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para canto e frestas; bocal para pisos e tapetes" },
+			{ "label": "Nível de ruído", "value": "89dB" },
+			{ "label": "Peso", "value": "1,43kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bas30-1400w",
+		"name": "Britânia BAS30 (1400W)",
+		"image": "/images/posts/aspirador-po-britania-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2i3tSe1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Turbo Ciclone mantém o fluxo de sucção estável",
+			"Reservatório permanente e lavável com 1,5L de capacidade",
+			"Permite uso como aspirador vertical ou portátil",
+			"Base com giro de 360° e porta cordão integrado",
+			"Potência de 1400W favorece sucção intensa"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,5 litro" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Tipo de filtro", "value": "ciclone" },
+			{ "label": "Comprimento do cabo", "value": "4,5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para cantos e frestas; acessório para pisos e carpetes"
+			},
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "1,79kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bas1010p-1000w",
+		"name": "Britânia BAS1010P (1000W)",
+		"image": "/images/posts/aspirador-po-britania-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16FassZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Filtro HEPA removível e lavável retém até 99,5% de ácaros e poeira",
+			"Modelo 2 em 1 permite uso portátil ou vertical",
+			"Cabo elétrico de 4,5 metros de comprimento",
+			"Construção compacta facilita o armazenamento",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "600mL" },
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "4,5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para cantos e frestas; acessório para pisos lisos e carpetes"
+			},
+			{ "label": "Nível de ruído", "value": "não especificado" },
+			{ "label": "Peso", "value": "1,45kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "britania-bas1380v-1250w",
+		"name": "Britânia BAS1380V (1250W)",
+		"image": "/images/posts/aspirador-po-britania-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2u3VLHL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acompanha três bocais para pisos, tapetes, estofados e frestas",
+			"Base com rotação de 360° facilita a movimentação",
+			"Estrutura leve, pesando 1,72kg",
+			"Potência de 1250W para bom desempenho diário",
+			"Filtro HEPA permanente e lavável"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1 litro" },
+			{ "label": "Potência", "value": "1250W" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "4,7 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para canto e frestas; bocal para pisos e tapetes; bocal para sofás"
+			},
+			{ "label": "Nível de ruído", "value": "89dB" },
+			{ "label": "Peso", "value": "1,72kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	}
+]

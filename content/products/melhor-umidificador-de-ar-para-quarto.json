@@ -1,0 +1,184 @@
+[
+	{
+		"id": "black-decker-air1000-2-5-litros",
+		"name": "Black+Decker AIR1000 2,5 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2mymNGX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Filtro interno elimina até 99,9% das impurezas da água",
+			"Reservatório de 2,5 litros gera autonomia de 20 horas",
+			"Funciona como aromatizador, com recipiente dedicado para essências",
+			"Saída de névoa com direcionamento ajustável",
+			"Desligamento automático quando o reservatório fica vazio"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "2,5 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "20 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "não especificado" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "britania-bud04b-4-8-litros",
+		"name": "Britânia BUD04B 4,8 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/11YHFZ7",
+		"shopeeUrl": null,
+		"advantages": [
+			"Vazão de vapor de 200ml/h acelera a umidificação",
+			"Reservatório amplo e removível de 4,8 litros",
+			"Indicador de reservatório vazio alerta antes do desligamento",
+			"Sistema ultrassônico gera névoa fria com menor consumo",
+			"Intensidade da névoa ajustável e autonomia de 17 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "4,8 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "17 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,5 x 20,5 x 23cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-air-flow-4-litros",
+		"name": "WAP Air Flow 4 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fcTa2F",
+		"shopeeUrl": null,
+		"advantages": [
+			"Iluminação com mudança de cores e compartimento para fragrâncias",
+			"Cobertura de até 30m² atende ambientes médios",
+			"Saída multidirecional oferece melhor distribuição da névoa",
+			"Operação silenciosa favorece uso noturno",
+			"Desligamento automático evita danos ao aparelho"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "4 litros" },
+			{ "label": "Área de cobertura", "value": "25m² a 30m²" },
+			{ "label": "Tempo de funcionamento", "value": "12 horas" },
+			{ "label": "Função luminária", "value": "sim" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "32 x 20,8 x 20,2cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "g-tech-allergy-free-dual-3-litros",
+		"name": "G-Tech Allergy Free Dual 3 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2hDJiNP",
+		"shopeeUrl": null,
+		"advantages": [
+			"Saída dupla de névoa amplia a distribuição no ambiente",
+			"Cobertura de até 30m² atende quartos médios",
+			"Funcionamento silencioso e indicador de nível de água",
+			"Desligamento automático quando fica sem água",
+			"Filtro removível facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Área de cobertura", "value": "até 30m²" },
+			{ "label": "Tempo de funcionamento", "value": "10 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "34 x 19 x 19cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-air-flow-u2-2-3-litros",
+		"name": "WAP Air Flow U2 2,3 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2YYvxVY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funcionamento 3 em 1 combina umidificação, iluminação e aromatização",
+			"Autonomia prolongada de 23 horas",
+			"Luz LED de 4000K cria ambiente com iluminação neutra",
+			"Bico direcionável ajusta o fluxo de vapor",
+			"Desligamento automático protege o sistema interno"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "2,3 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "23 horas" },
+			{ "label": "Função luminária", "value": "sim" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "23,5 x 16 x 17cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "elgin-45unzn02n0na-2-litros",
+		"name": "Elgin 45UNZN02N0NA 2 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1JNdvLD",
+		"shopeeUrl": null,
+		"advantages": [
+			"Botão para controlar a intensidade do vapor em três níveis",
+			"Vazão de 200ml/h acelera o processo de umidificação",
+			"Indicador luminoso de funcionamento e nível baixo de água",
+			"Funcionamento sem ruído e peso leve de 530g",
+			"Desligamento automático interrompe o uso ao esvaziar"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "2 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "10 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "12,2 x 27 x 14,7cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "g-tech-allergy-free-hm-3-litros",
+		"name": "G-Tech Allergy Free Hm 3 litros",
+		"image": "/images/posts/umidificador-de-ar-para-quarto-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1sFoZQH",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base compacta de 14cm facilita posicionamento em espaços reduzidos",
+			"Operação silenciosa, indicada para uso noturno",
+			"Autonomia superior a 7 horas",
+			"Filtro removível facilita a higienização",
+			"Sistema de desligamento automático"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "12 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "29 x 14 x 14cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	}
+]

@@ -1,0 +1,149 @@
+[
+	{
+		"id": "artepunto-fl-008a",
+		"name": "Artepunto FL-008A 55W",
+		"image": "/images/posts/pistola-cola-quente-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base de apoio inclusa",
+			"Compatível com bastão 7mm",
+			"Uso com ou sem fio",
+			"Bivolt",
+			"Luz de precisão"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Diâmetro bastão", "value": "7mm" },
+			{ "label": "Tensão", "value": "Bivolt" },
+			{ "label": "Bico", "value": "Com protetor" }
+		]
+	},
+	{
+		"id": "hikari-hpc-280",
+		"name": "Hikari HPC-280 280W",
+		"image": "/images/posts/pistola-cola-quente-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Alta potência 280W",
+			"Uso profissional contínuo",
+			"Bivolt",
+			"Gatilho anatômico",
+			"Bico com protetor de silicone"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "280W" },
+			{ "label": "Diâmetro bastão", "value": "11,5mm" },
+			{ "label": "Tensão", "value": "Bivolt" },
+			{ "label": "Temperatura", "value": "150°C a 190°C" }
+		]
+	},
+	{
+		"id": "vonder-pcv0018",
+		"name": "Vonder PCV0018 100W",
+		"image": "/images/posts/pistola-cola-quente-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo mais vendido",
+			"Temperatura de 220°C",
+			"Haste de apoio",
+			"Certificação Inmetro",
+			"Leve e ergonômica"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "100W" },
+			{ "label": "Diâmetro bastão", "value": "12mm" },
+			{ "label": "Temperatura", "value": "220°C" },
+			{ "label": "Peso", "value": "335g" }
+		]
+	},
+	{
+		"id": "mimo-20w",
+		"name": "Mimo Professional Glue Gun 20W",
+		"image": "/images/posts/pistola-cola-quente-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aquecimento rápido em 2 min",
+			"Sistema antigotejamento",
+			"Bivolt",
+			"Fluxo contínuo",
+			"Bom custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "20W" },
+			{ "label": "Diâmetro bastão", "value": "7,5mm" },
+			{ "label": "Tensão", "value": "Bivolt" },
+			{ "label": "Vazão", "value": "20g/min" }
+		]
+	},
+	{
+		"id": "vonder-pcv0007",
+		"name": "Vonder PCV0007 20W",
+		"image": "/images/posts/pistola-cola-quente-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo acessível",
+			"Haste de apoio",
+			"Luz LED",
+			"Certificação Inmetro",
+			"Ideal para pequenos reparos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "20W" },
+			{ "label": "Diâmetro bastão", "value": "8mm" },
+			{ "label": "Temperatura", "value": "170°C" },
+			{ "label": "Peso", "value": "200g" }
+		]
+	},
+	{
+		"id": "luatek-21v",
+		"name": "Luatek 21V Recarregável 100W",
+		"image": "/images/posts/pistola-cola-quente-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sem fio com bateria",
+			"Autonomia de até 3 horas",
+			"Aquecimento rápido",
+			"Sistema anti-gotejamento",
+			"Inclui maleta"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "100W" },
+			{ "label": "Diâmetro bastão", "value": "11mm" },
+			{ "label": "Temperatura", "value": "170°C" },
+			{ "label": "Peso", "value": "1 kg" }
+		]
+	},
+	{
+		"id": "tramontina-43755",
+		"name": "Tramontina 43755/510 12W",
+		"image": "/images/posts/pistola-cola-quente-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Bivolt automático",
+			"Acompanha bastões",
+			"Leve e resistente",
+			"Garantia de 1 ano",
+			"Ótima para artesanato"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "12W" },
+			{ "label": "Diâmetro bastão", "value": "7,5mm" },
+			{ "label": "Tensão", "value": "Bivolt" },
+			{ "label": "Peso", "value": "160g" }
+		]
+	}
+]

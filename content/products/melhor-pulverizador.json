@@ -1,0 +1,200 @@
+[
+	{
+		"id": "pulverizador-vonder-gasolina-25-litros",
+		"name": "Vonder 62.51.025.000 25 litros (gasolina)",
+		"image": "/images/posts/pulverizador-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Akd27F",
+		"shopeeUrl": null,
+		"advantages": [
+			"Alça ergonômica regulável para maior conforto no manuseio",
+			"Válvula de ajuste de pressão adapta o funcionamento à necessidade de uso",
+			"Motor 2 tempos monocilíndrico refrigerado a ar, com alcance máximo de 10m",
+			"Sistema de partida manual retrátil e ignição eletrônica",
+			"Acompanha kit completo de acessórios, incluindo mangueira, duas lanças e chaves"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "gasolina" },
+			{ "label": "Capacidade", "value": "25 litros" },
+			{ "label": "Pressurização", "value": "bomba pressurizadora" },
+			{ "label": "Vazão média", "value": "8L/min" },
+			{ "label": "Pressão máxima", "value": "45bar" },
+			{ "label": "Bicos inclusos", "value": "2 bicos leque; 1 bico cônico" },
+			{ "label": "Dimensões (A x L x P)", "value": "65 x 41 x 32cm" },
+			{ "label": "Peso", "value": "10,5kg" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "pulverizador-brudden-ss-20b-bateria-20-litros",
+		"name": "Brudden SS-20B 20 litros (costal a bateria)",
+		"image": "/images/posts/pulverizador-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1wfCuzT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema 2 em 1 com acionamento elétrico e opção de bombeamento manual",
+			"Bateria recarregável 12V 8Ah com autonomia de até 7 horas",
+			"Bomba de diafragma com pressão regulável e monitor de consumo da bateria",
+			"Lança telescópica com regulagem máxima de 90cm e gatilho metálico com trava",
+			"Jogo de 5 bicos de pulverização e kit de reparo incluso"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "costal a bateria" },
+			{ "label": "Bateria", "value": "12V – 8Ah (autonomia de até 7 horas)" },
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Pressurização", "value": "sistema híbrido manual + bateria" },
+			{ "label": "Vazão média", "value": "3,1L/min" },
+			{ "label": "Pressão máxima", "value": "4,5bar" },
+			{ "label": "Lança de pulverização", "value": "42cm a 90cm" },
+			{ "label": "Gatilho", "value": "metálico de acionamento com trava" },
+			{
+				"label": "Bicos inclusos",
+				"value": "bico leque; bico cônico vazio duplo; bico espelho; bico especial de 4 furos; bico especial de 5 furos"
+			},
+			{ "label": "Peso", "value": "5,8kg" },
+			{ "label": "Garantia", "value": "6 meses" }
+		]
+	},
+	{
+		"id": "pulverizador-intech-machine-gpm2000-bateria-20-litros",
+		"name": "Intech Machine GPM2000 20 litros (costal a bateria)",
+		"image": "/images/posts/pulverizador-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1JBv6uF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema 2 em 1 que permite uso no modo elétrico ou manual por alavanca",
+			"Indicado para herbicidas, fertilizantes, desinfetantes e combate a insetos",
+			"Bateria 12V 8Ah com autonomia de até 6 horas e visor de nível de bateria",
+			"Kit com 4 bicos diferentes e lança telescópica ajustável",
+			"Construção leve (cerca de 6kg) com bocal grande para facilitar o abastecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "costal a bateria" },
+			{ "label": "Bateria", "value": "12V – 8Ah (autonomia de até 6 horas)" },
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Pressurização", "value": "sistema híbrido manual + bateria" },
+			{ "label": "Vazão média", "value": "3,1L/min" },
+			{ "label": "Pressão máxima", "value": "2 a 4bar" },
+			{ "label": "Mangueira", "value": "1,18 metro" },
+			{ "label": "Lança de pulverização", "value": "82cm" },
+			{ "label": "Gatilho", "value": "com trava de acionamento" },
+			{ "label": "Bicos inclusos", "value": "leque; cone; cone duplo; ducha/regador" },
+			{ "label": "Dimensões (A x L x P)", "value": "54 x 40 x 20cm" },
+			{ "label": "Peso", "value": "5,95kg" },
+			{ "label": "Garantia", "value": "6 meses" }
+		]
+	},
+	{
+		"id": "pulverizador-jacto-pjh20-manual-20-litros",
+		"name": "Jacto PJH20 20 litros (costal manual)",
+		"image": "/images/posts/pulverizador-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2efzYu1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tanque em polietileno leve e resistente",
+			"Pressão máxima de 6,8bar favorece aplicações mais fortes e direcionadas",
+			"Bomba de pistão duplo em latão projetada para gerar maior pressão",
+			"Lança metálica de 60cm e mangueira de 1,35 metro",
+			"Acompanha filtro de bico e êmbolo, além de bocal de abastecimento de 140mm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "costal manual" },
+			{ "label": "Material do tanque", "value": "polietileno (PE)" },
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Pressurização", "value": "manual" },
+			{ "label": "Pressão máxima", "value": "6,8bar" },
+			{ "label": "Mangueira", "value": "1,35 metro" },
+			{ "label": "Lança de pulverização", "value": "60cm" },
+			{ "label": "Bicos inclusos", "value": "1 bico JD-12P; filtro do bico; êmbolo" },
+			{ "label": "Dimensões (A x L x P)", "value": "54,4 x 20,2 x 39,5cm" },
+			{ "label": "Peso", "value": "5kg" }
+		]
+	},
+	{
+		"id": "pulverizador-vonder-pc020-manual-20-litros",
+		"name": "Vonder PC020 20 litros (costal manual)",
+		"image": "/images/posts/pulverizador-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2m5reBC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura leve em polietileno, facilita o uso contínuo",
+			"Alavanca reversível para destros e canhotos",
+			"Trava no gatilho reduz o esforço da mão",
+			"Acompanha quatro bicos diferentes e jogo de acessórios para manutenção",
+			"Compatível com uso de álcool 70% líquido"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "costal manual" },
+			{ "label": "Material do tanque", "value": "polietileno (PE)" },
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Pressurização", "value": "compressão prévia" },
+			{ "label": "Vazão média", "value": "1,6L/min" },
+			{ "label": "Pressão máxima", "value": "4bar" },
+			{ "label": "Mangueira", "value": "PVC (1,20 metro)" },
+			{ "label": "Lança de pulverização", "value": "56cm" },
+			{ "label": "Gatilho", "value": "com trava" },
+			{ "label": "Bicos inclusos", "value": "leque; cone; cone duplo; ducha" },
+			{ "label": "Dimensões (A x L x P)", "value": "83 x 44 x 17,5cm" },
+			{ "label": "Peso", "value": "4,25kg" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "pulverizador-vonder-pl005-lateral-manual-5-litros",
+		"name": "Vonder PL005 5 litros (lateral manual)",
+		"image": "/images/posts/pulverizador-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1pWC7K9",
+		"shopeeUrl": null,
+		"advantages": [
+			"Haste para pressurização facilita criar pressão no reservatório",
+			"Bico com jato regulável e válvula de alívio de pressão em 3bar",
+			"Sistema de compressão prévia com 20 a 30 acionamentos antes do uso",
+			"Trava no gatilho e alça de transporte ajustável",
+			"Estrutura leve de 1,25kg, compatível com álcool 70% líquido"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "lateral manual" },
+			{ "label": "Capacidade", "value": "5 litros" },
+			{ "label": "Pressurização", "value": "compressão prévia" },
+			{ "label": "Pressão máxima", "value": "3bar" },
+			{ "label": "Gatilho", "value": "com trava para pulverização contínua" },
+			{ "label": "Bicos inclusos", "value": "1 bico com jato regulável" },
+			{ "label": "Peso", "value": "1,25kg" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	},
+	{
+		"id": "pulverizador-nove54-20029-manual-20-litros",
+		"name": "Nove54 20029 20 litros (costal manual)",
+		"image": "/images/posts/pulverizador-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oubVdb",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tanque de 20L com design inovador e sistema de compressão prévia",
+			"Bico regulável e kit com quatro bicos, incluindo leque e cone duplo",
+			"Lança de 56cm em plástico para maior alcance",
+			"Trava no gatilho e alavanca reversível para destros e canhotos",
+			"Estrutura leve de 2,7kg com válvula de segurança integrada"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "costal manual" },
+			{ "label": "Material do tanque", "value": "plástico" },
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Pressurização", "value": "compressão prévia" },
+			{ "label": "Pressão máxima", "value": "2,7bar" },
+			{ "label": "Mangueira", "value": "1,2 metro" },
+			{ "label": "Lança de pulverização", "value": "56cm" },
+			{ "label": "Gatilho", "value": "com trava para pulverização contínua" },
+			{ "label": "Bicos inclusos", "value": "leque; cone; cone duplo; bico de 4 furos" },
+			{ "label": "Dimensões (A x L x P)", "value": "51 x 19 x 38cm" },
+			{ "label": "Peso", "value": "2,7kg" },
+			{ "label": "Garantia", "value": "90 dias" }
+		]
+	}
+]

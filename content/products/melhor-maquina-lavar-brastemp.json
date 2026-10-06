@@ -1,0 +1,188 @@
+[
+	{
+		"id": "brastemp-lava-e-seca-bno11as",
+		"name": "Brastemp Lava e Seca BNO11AS 11kg/6kg",
+		"image": "/images/posts/maquina-lavar-brastemp-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2btC1Yh",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Lava & Seca deixa roupas limpas e secas em 59 minutos",
+			"Recurso Vaporizar reduz amassados e odores com vapor quente",
+			"Smart Sensor by AI ajusta água e energia conforme a carga",
+			"Ciclo Antibactéria elimina até 99,99% das bactérias dos tecidos",
+			"Ciclo Tira Manchas Pro remove mais de 50 tipos de manchas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem); 6kg (secagem)" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "15" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 64cm" },
+			{ "label": "Peso", "value": "76kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-lava-e-seca-bno10ab",
+		"name": "Brastemp Lava e Seca BNO10AB 10kg/6kg",
+		"image": "/images/posts/maquina-lavar-brastemp-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Economia de até 40% de água e energia com Smart Sensor by AI",
+			"Motor Xpert Inverter com 7 anos de garantia",
+			"Função Lavar com Vapor remove manchas difíceis",
+			"Elimina até 99,99% das bactérias com ciclo antibacteriano",
+			"Função Mais Roupas adiciona peças após o início do ciclo"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "10kg (lavagem); 6kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "15" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 64cm" },
+			{ "label": "Peso", "value": "84kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-bwf15ab",
+		"name": "Brastemp BWF15AB 15kg",
+		"image": "/images/posts/maquina-lavar-brastemp-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2D34pzC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 15kg para grandes volumes de roupas",
+			"Smart Sensor identifica o peso das roupas e ajusta a água",
+			"Ciclo Tira Manchas Advanced remove mais de 40 tipos de manchas",
+			"Função Antibolinhas preserva a aparência das roupas",
+			"Enxágue extra remove até 4x mais resíduos de sabão"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "15kg" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "171L" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "106 x 63 x 71cm" },
+			{ "label": "Peso", "value": "40kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-bwf16ab",
+		"name": "Brastemp BWF16AB 16kg",
+		"image": "/images/posts/maquina-lavar-brastemp-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2sG2J3i",
+		"shopeeUrl": null,
+		"advantages": [
+			"Smart Sensor ajusta água e agitação conforme o volume de roupas",
+			"Economia de até 25% de água com otimização do ciclo",
+			"Função Reduzir Tempo diminui a lavagem em até 45 minutos",
+			"Modo Reuso de Água reaproveita até 70L para outras tarefas",
+			"Capacidade para lavar até edredom Queen Size"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "16kg" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "234L" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "106 x 63 x 71cm" },
+			{ "label": "Peso", "value": "40kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-bwj14a9",
+		"name": "Brastemp BWJ14A9 14kg",
+		"image": "/images/posts/maquina-lavar-brastemp-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1u4Mpfp",
+		"shopeeUrl": null,
+		"advantages": [
+			"Economia de até 25% de água com Smart Sensor",
+			"Função Reduzir Tempo reduz o ciclo em até 45 minutos",
+			"Cesto em inox oferece mais resistência e durabilidade",
+			"Modo Reuso de Água reaproveita até 70L da lavagem",
+			"Lava peças volumosas como edredom de casal e jeans"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "14kg" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "173L" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "104 x 63 x 69,5cm" },
+			{ "label": "Peso", "value": "38kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-lava-e-seca-bnq10ab",
+		"name": "Brastemp Lava e Seca BNQ10AB 10kg/6kg",
+		"image": "/images/posts/maquina-lavar-brastemp-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1xLxZAa",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Lava e Seca em 59 minutos deixa roupas prontas para uso",
+			"Tecnologia com vapor evita vincos, amassados e odores",
+			"Ciclo 100% otimizado remove mais de 40 tipos de manchas",
+			"Programa dedicado para peças de lã com lavagem mais delicada",
+			"Permite deixar roupas na máquina por até 6 horas sem amassar"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "10,1kg (lavagem); 6kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "17" },
+			{ "label": "Abertura da tampa", "value": "frontal" },
+			{ "label": "Painel", "value": "digital full touch" },
+			{ "label": "Material do cesto", "value": "aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 60 x 64cm" },
+			{ "label": "Peso", "value": "83kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "brastemp-bw17lta",
+		"name": "Brastemp BW17LTA 17kg",
+		"image": "/images/posts/maquina-lavar-brastemp-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21wXUCF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ciclo Pets remove até 80% mais pelos das roupas",
+			"Economia de até 48% de água com otimização inteligente",
+			"Smart Sensor ajusta água e agitação conforme o peso das roupas",
+			"Ciclo Express lava roupas em menos de 30 minutos",
+			"Garantia de 5 anos no painel eletrônico e 7 anos no motor"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "17kg" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "170L" },
+			{ "label": "Painel", "value": "digital" },
+			{ "label": "Dimensões (A x L x P)", "value": "110 x 63 x 66cm" },
+			{ "label": "Peso", "value": "41,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

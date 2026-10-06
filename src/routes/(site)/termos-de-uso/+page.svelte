@@ -1,0 +1,86 @@
+<script lang="ts">
+	import Seo from "#lib/components/Seo.svelte";
+	import { site } from "#lib/site.config.ts";
+</script>
+
+<Seo
+	title="Termos de Uso - {site.name}.com.br"
+	description="Termos de uso do {site.name}.com.br"
+	path="/termos-de-uso"
+/>
+
+<main
+	class="bg-background mx-auto max-w-3xl px-4 py-12 text-black dark:border-transparent dark:bg-black dark:text-white"
+>
+	<div>
+		<h1 class="mb-8 text-center text-3xl font-bold text-black dark:text-white">Termos de Uso</h1>
+
+		<div class="mb-8 rounded-lg p-6">
+			<p class="mb-0 text-sm text-black dark:text-white">
+				<strong>Última atualização:</strong> 7 de Julho de 2026
+			</p>
+		</div>
+
+		<div class="space-y-6">
+			<section>
+				<h2 class="mb-4 text-xl font-semibold text-black dark:text-white">Aceitação dos Termos</h2>
+				<div class="rounded-lg p-4">
+					<p class="mb-3 text-black dark:text-white">
+						<strong>Ao acessar e utilizar este site</strong>, você concorda automaticamente com estes termos
+						de uso.
+					</p>
+				</div>
+			</section>
+
+			<section>
+				<h2 class="mb-4 text-xl font-semibold text-black dark:text-white">Uso do Conteúdo</h2>
+				<ul class="space-y-2 text-black dark:text-white">
+					<li>• Todo o conteúdo é fornecido apenas para fins educacionais e informativos</li>
+					<li>• Não oferecemos aconselhamento financeiro personalizado</li>
+					<li>• As informações não substituem a consulta com profissionais qualificados</li>
+					<li>• Você é responsável por suas próprias decisões financeiras</li>
+					<li>• O conteúdo pode ser compartilhado com a devida atribuição ao site</li>
+				</ul>
+			</section>
+
+			<section>
+				<h2 class="mb-4 text-xl font-semibold text-black dark:text-white">Propriedade Intelectual</h2>
+				<p class="mb-4 text-black dark:text-white">
+					Não é permitido copiar, reproduzir ou distribuir o conteúdo deste site sem autorização prévia.
+				</p>
+				<ul class="space-y-2 text-black dark:text-white">
+					<li>• Permitimos compartilhamento com atribuição adequada.</li>
+					<li>• Não permitimos cópia integral sem autorização</li>
+					<li>• Respeitamos os direitos de terceiros citados</li>
+					<li>• Use o conteúdo de forma ética e legal</li>
+				</ul>
+			</section>
+
+			<section>
+				<h2 class="mb-4 text-xl font-semibold text-black dark:text-white">Modificações</h2>
+				<p class="text-black dark:text-white">
+					Podemos atualizar estes termos a qualquer momento. A data da última atualização será sempre indicada
+					no topo desta página. O uso continuado do site após as alterações constitui aceitação dos novos
+					termos.
+				</p>
+			</section>
+
+			<section>
+				<h2 class="mb-4 text-xl font-semibold text-black dark:text-white">Contato</h2>
+				<p class="text-black dark:text-white">
+					Para dúvidas sobre estes termos de uso, entre em
+					<a class="text-blue-500" href="/contato">
+						contato através do do formulário disponível em nosso site
+					</a>
+				</p>
+			</section>
+
+			<section>
+				<p class="text-black dark:text-white">
+					Usamos links de afiliados. Ao comprar por eles, você apoia o site sem pagar nada a mais pelo produto
+					ou serviço. Obrigado!
+				</p>
+			</section>
+		</div>
+	</div>
+</main>

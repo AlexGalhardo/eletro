@@ -1,0 +1,155 @@
+[
+	{
+		"id": "arno-gpra-1000w",
+		"name": "Arno GPRA 1000W",
+		"image": "/images/posts/churrasqueira-eletrica-1.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/3257Zxk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Fácil de limpar",
+			"Revestimento antiaderente",
+			"Bandeja coletora de gordura removível",
+			"Ajuste de temperatura com termostato até 230°C",
+			"Alças laterais para manusear",
+			"Cabo removível",
+			"Garantia de 1 ano",
+			"Potência de 1000W",
+			"Pode ser usada diretamente na mesa para servir"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Cabo com apenas 40cm"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Temperatura ajustável", "value": "até 230°C" },
+			{ "label": "Material da grelha", "value": "antiaderente" },
+			{ "label": "Coletor de gordura", "value": "bandeja removível em inox" },
+			{
+				"label": "Acessórios",
+				"value": "bandeja removível em inox; placa antiaderente com alças de segurança; cabo removível com termostato"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "14 x 58,7 x 41,6cm" },
+			{ "label": "Peso", "value": "2,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mondial-ch-06-1800w",
+		"name": "Mondial CH-06 1800W",
+		"image": "/images/posts/churrasqueira-eletrica-2.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2ZfXb49",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1800W (127V) ou 2000W (220V)",
+			"Acompanha pedestal desmontável",
+			"Bandeja de água que reduz a fumaça",
+			"Controle de temperatura ajustável",
+			"Pegador lateral isotérmico",
+			"Pés antiderrapantes",
+			"Luz indicadora de funcionamento",
+			"Grelha com altura regulável",
+			"Prateleira inferior",
+			"Grelha e resistência removíveis",
+			"Garantia de 12 meses"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Sem revestimento antiaderente"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1800W (127V); 2000W (220V)" },
+			{ "label": "Temperatura ajustável", "value": "sim" },
+			{ "label": "Material da grelha", "value": "aço cromado" },
+			{ "label": "Coletor de gordura", "value": "bandeja de água" },
+			{ "label": "Acessórios", "value": "prateleira inferior; pedestal desmontável" },
+			{ "label": "Dimensões (A x L x P)", "value": "89 x 66 x 49cm" },
+			{ "label": "Peso", "value": "3,7kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "cadence-grill-menu-glr810-2000w",
+		"name": "Cadence Grill Menu GLR810 2000W",
+		"image": "/images/posts/churrasqueira-eletrica-3.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1tcfh4H",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle de temperatura entre 50°C e 250°C",
+			"Coletor de gordura de 300mL",
+			"Capacidade para até 8 hambúrgueres",
+			"Estrutura com ajuste de altura",
+			"Totalmente desmontável",
+			"Compacta e portátil",
+			"Guia rápido para preparo dos alimentos",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1800W (127V); 2000W (220V)" },
+			{ "label": "Temperatura ajustável", "value": "50°C a 250°C" },
+			{ "label": "Material da grelha", "value": "aço cromado" },
+			{ "label": "Coletor de gordura", "value": "reservatório de 300mL" },
+			{ "label": "Acessórios", "value": "—" },
+			{ "label": "Dimensões (A x L x P)", "value": "9 x 51 x 36cm" },
+			{ "label": "Peso", "value": "1,7kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "fischer-4513-9418-1800w",
+		"name": "Fischer 4513-9418 1800W",
+		"image": "/images/posts/churrasqueira-eletrica-4.webp",
+		"mercadolivreUrl": "https://meli.la/2SKb3nD",
+		"shopeeUrl": null,
+		"advantages": [
+			"Suportes laterais facilitam o manuseio",
+			"Pegadores com isolamento térmico",
+			"Garantia de 12 meses",
+			"Bandeja coletora de resíduos",
+			"Resistência blindada removível",
+			"Cuba com revestimento EasyClean",
+			"Portátil e prática para servir à mesa"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Não possui controle de temperatura"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1900W (127V); 1800W (220V)" },
+			{ "label": "Temperatura ajustável", "value": "não possui" },
+			{ "label": "Material da grelha", "value": "aço cromado" },
+			{ "label": "Coletor de gordura", "value": "bandeja coletora com revestimento EasyClean" },
+			{ "label": "Acessórios", "value": "—" },
+			{ "label": "Dimensões (A x L x P)", "value": "9 x 29,3 x 65,2cm" },
+			{ "label": "Peso", "value": "2,36kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mondial-ch-05-1800w",
+		"name": "Mondial CH-05 1800W",
+		"image": "/images/posts/churrasqueira-eletrica-5.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1amGHex",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1800W (127V) ou 2000W (220V)",
+			"Controle de temperatura ajustável",
+			"Bandeja de água reduz a fumaça",
+			"Luz indicadora de funcionamento",
+			"Grelha com altura regulável",
+			"Grelha e resistência removíveis",
+			"Compacta e portátil",
+			"Garantia de 1 ano"
+		],
+		"disadvantages": [
+			"Disponível apenas em 127V ou 220V (não é bivolt)",
+			"Pino de 20A pode não encaixar em qualquer tomada"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1800W (127V); 2000W (220V)" },
+			{ "label": "Temperatura ajustável", "value": "sim" },
+			{ "label": "Material da grelha", "value": "metal" },
+			{ "label": "Coletor de gordura", "value": "bandeja de água" },
+			{ "label": "Acessórios", "value": "grelha com altura regulável; resistência removível" },
+			{ "label": "Dimensões (A x L x P)", "value": "8,5 x 48,5 x 33cm" },
+			{ "label": "Peso", "value": "1,75kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,154 @@
+[
+	{
+		"id": "vonder-6251025000",
+		"name": "Vonder 62.51.025.000 25 Litros (Gasolina)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor a gasolina potente",
+			"Capacidade de 25 litros",
+			"Alcance de até 7 metros",
+			"Válvula de ajuste de pressão",
+			"Indicado para grandes áreas agrícolas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "25 litros" },
+			{ "label": "Tipo", "value": "Gasolina 2 tempos" },
+			{ "label": "Vazão", "value": "8 L/min" },
+			{ "label": "Pressão", "value": "45 bar" },
+			{ "label": "Peso", "value": "10,5 kg" }
+		]
+	},
+	{
+		"id": "brudden-ss-20b",
+		"name": "Brudden SS-20B 20 Litros (Elétrico e Manual)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema híbrido 2 em 1",
+			"Autonomia de até 7 horas",
+			"Lança telescópica ajustável",
+			"Gatilho com trava",
+			"5 bicos inclusos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Tipo", "value": "Elétrico + Manual" },
+			{ "label": "Bateria", "value": "12V 8Ah" },
+			{ "label": "Pressão", "value": "4,5 bar" },
+			{ "label": "Peso", "value": "5,8 kg" }
+		]
+	},
+	{
+		"id": "intech-gpm2000",
+		"name": "Intech Machine GPM2000 20 Litros (Elétrico e Manual)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Híbrido elétrico + manual",
+			"Autonomia de até 6 horas",
+			"Lança telescópica",
+			"Monitor de bateria",
+			"Bom custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Tipo", "value": "Elétrico + Manual" },
+			{ "label": "Bateria", "value": "12V 8Ah" },
+			{ "label": "Pressão", "value": "2 a 4 bar" },
+			{ "label": "Peso", "value": "5,95 kg" }
+		]
+	},
+	{
+		"id": "jacto-pjh20",
+		"name": "Jacto PJH20 20 Litros (Manual)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Um dos mais vendidos",
+			"Corpo em polietileno resistente",
+			"Pressão de até 6,8 bar",
+			"Lança metálica de 60cm",
+			"Leve e ergonômico"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Tipo", "value": "Manual" },
+			{ "label": "Pressão", "value": "6,8 bar" },
+			{ "label": "Peso", "value": "5 kg" }
+		]
+	},
+	{
+		"id": "vonder-pc020",
+		"name": "Vonder PC020 20 Litros (Manual)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ótimo custo-benefício",
+			"Compressão prévia",
+			"Alavanca reversível",
+			"Trava no gatilho",
+			"4 bicos inclusos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Tipo", "value": "Manual" },
+			{ "label": "Pressão", "value": "4 bar" },
+			{ "label": "Peso", "value": "4,25 kg" }
+		]
+	},
+	{
+		"id": "tramontina-78622206",
+		"name": "Tramontina 78622206 20 Litros (Elétrico e Manual)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Híbrido elétrico + manual",
+			"Autonomia de 4 a 6 horas",
+			"Regulador de pressão",
+			"Lança retrátil",
+			"5 bicos inclusos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "20 litros" },
+			{ "label": "Tipo", "value": "Elétrico + Manual" },
+			{ "label": "Bateria", "value": "12V 8A" },
+			{ "label": "Pressão", "value": "4,8 bar" },
+			{ "label": "Peso", "value": "5,8 kg" }
+		]
+	},
+	{
+		"id": "brudden-ss-12b",
+		"name": "Brudden SS-12B 12 Litros (Elétrico)",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"100% elétrico",
+			"Autonomia de até 7 horas",
+			"Lança telescópica",
+			"Gatilho com trava",
+			"Leve e prático"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12 litros" },
+			{ "label": "Tipo", "value": "Elétrico" },
+			{ "label": "Bateria", "value": "12V 8Ah" },
+			{ "label": "Pressão", "value": "5,5 bar" },
+			{ "label": "Peso", "value": "5,34 kg" }
+		]
+	}
+]

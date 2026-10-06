@@ -1,0 +1,163 @@
+[
+	{
+		"id": "samsung-windfree-pro-energy",
+		"name": "Samsung WindFree Pro Energy",
+		"image": "/images/posts/ar-condicionado-inverter-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1xTwDwy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Possui modo sem vento (WindFree) para resfriamento sem correntes de ar diretas",
+			"Economia de até 77% na conta de energia",
+			"Ajuste automático de temperatura pelo sistema AI Auto Comfort",
+			"Controle pelo aplicativo Samsung, incluindo monitoramento de consumo em tempo real",
+			"Filtro triplo antibacteriano e garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/1000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "790 x 548 x 285mm" },
+			{ "label": "Dimensões unidade interna", "value": "889 x 299 x 215mm" }
+		]
+	},
+	{
+		"id": "samsung-split-inverter-windfree-connect",
+		"name": "Samsung Split Inverter WindFree Connect",
+		"image": "/images/posts/ar-condicionado-inverter-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oEm9P5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Nota máxima em eficiência energética (A)",
+			"Até 77% de economia energética",
+			"Filtro lavável que elimina até 99% das bactérias",
+			"Conexão Wi-Fi para comandos de voz e controle pelo app",
+			"Instalação até 45% mais rápida e garantia de 7 anos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/12000/18000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "660 x 475 x 242mm" },
+			{ "label": "Dimensões unidade interna", "value": "820 x 299 x 215mm" }
+		]
+	},
+	{
+		"id": "samsung-split-digital-inverter-ultra",
+		"name": "Samsung Split Digital Inverter Ultra",
+		"image": "/images/posts/ar-condicionado-inverter-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2eXcAJx",
+		"shopeeUrl": null,
+		"advantages": [
+			"Economia de até 73% de energia elétrica",
+			"Função Good Sleep para noites de sono mais tranquilas",
+			"Fast Cooling resfria o ambiente 43% mais rápido",
+			"Filtro lavável e antibacteriano com limpeza automática",
+			"Compressor com 7 anos de garantia de fábrica"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/12000/18000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "660 x 475 x 242mm" },
+			{ "label": "Dimensões unidade interna", "value": "820 x 299 x 215mm" }
+		]
+	},
+	{
+		"id": "midea-split-hi-wall-inverter-springer-airvolution-connect",
+		"name": "Midea Split Hi Wall Inverter Springer Airvolution Connect",
+		"image": "/images/posts/ar-condicionado-inverter-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1t191th",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modo Eco Noite reduz o consumo em até 75%",
+			"Controle por comando de voz e app SmartHome",
+			"Filtro antibacteriano com íons de prata",
+			"Unidade externa compacta, ocupando 35% menos espaço",
+			"5 modos de operação e 5 modos de velocidade"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/12000/18000/22000/30000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "386 x 558 x 461mm" },
+			{ "label": "Dimensões unidade interna", "value": "715 x 285 x 194mm" }
+		]
+	},
+	{
+		"id": "midea-xtreme-save-connect-high-wall",
+		"name": "Midea Xtreme Save Connect High Wall",
+		"image": "/images/posts/ar-condicionado-inverter-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Atinge a temperatura ideal em apenas 6 segundos no modo Turbo",
+			"Ajusta a temperatura automaticamente por geolocalização",
+			"Compatível com Google Assistente e Alexa",
+			"Sistema Air Magic elimina até 99,9% de vírus e bactérias",
+			"Economia de até 70% com a função Eco Noite"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "792 x 495 x 280mm" },
+			{ "label": "Dimensões unidade interna", "value": "729 x 292 x 200mm" }
+		]
+	},
+	{
+		"id": "philco-split-inverter-espelhado",
+		"name": "Philco Split Inverter Espelhado",
+		"image": "/images/posts/ar-condicionado-inverter-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fvx9K6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Acabamento espelhado e revestimento anticorrosivo",
+			"Classificação energética A com economia de até 70%",
+			"Diversos modos de operação: Dormir, Timer, Oscilar e Turbo",
+			"Filtro lavável facilita a manutenção",
+			"Possibilidade de instalação do kit Wi-Fi separadamente"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/12000/18000/24000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "480 x 555 x 380mm" },
+			{ "label": "Dimensões unidade interna", "value": "780 x 250 x 195mm" }
+		]
+	},
+	{
+		"id": "lg-hi-wall-dual-inverter-voice",
+		"name": "LG Hi Wall Dual Inverter Voice",
+		"image": "/images/posts/ar-condicionado-inverter-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1kVMc9N",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Dual Inverter com refrigeração 40% mais rápida",
+			"Função SmartCare ajusta a temperatura automaticamente com IA",
+			"Controle por voz via Google Assistente, Alexa ou app LG ThinQ",
+			"Controle de energia 4 em 1 com a função Active Energy Control",
+			"Garantia de 7 anos no compressor"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade disponível", "value": "9000/12000BTUs" },
+			{ "label": "Função ventilação", "value": "Sim" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Dimensões unidade externa", "value": "717 x 495 x 230mm" },
+			{ "label": "Dimensões unidade interna", "value": "837 x 308 x 189mm" }
+		]
+	}
+]

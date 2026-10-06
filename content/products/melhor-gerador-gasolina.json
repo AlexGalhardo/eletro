@@ -1,0 +1,179 @@
+[
+	{
+		"id": "toyama-tg3100cxr-3-1kva",
+		"name": "Toyama TG3100CXR 3,1kVA",
+		"image": "/images/posts/melhor-gerador-gasolina-1.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1GXT9pf",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 3,1kVA para aplicações frequentes",
+			"Funcionamento bivolt com chave seletora",
+			"Motor a gasolina 4 tempos de 196cc refrigerado a ar",
+			"Alternador síncrono monofásico com regulador AVR",
+			"Tanque de 15L com autonomia média de até 7,5 horas",
+			"Saída auxiliar 12VDC/8A para carregamento de baterias",
+			"Voltímetro analógico integrado",
+			"Estrutura resistente para residências, comércios, chácaras e camping",
+			"Sistema de proteção contra sobrecarga",
+			"Partida manual retrátil"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Combustível", "value": "Gasolina comum" },
+			{ "label": "Potência máxima", "value": "3,1kVA" },
+			{ "label": "Potência nominal", "value": "2,8kVA" },
+			{ "label": "Tensão de saída", "value": "Bivolt" },
+			{ "label": "Fase", "value": "Monofásico" },
+			{ "label": "Partida", "value": "Manual retrátil" },
+			{ "label": "Capacidade do tanque", "value": "15 litros" },
+			{ "label": "Capacidade do óleo", "value": "0,6 litro" },
+			{ "label": "Autonomia", "value": "7,5 horas" },
+			{ "label": "Motor", "value": "4 tempos, 196cc, monocilíndrico, refrigerado a ar" },
+			{ "label": "Tomadas", "value": "2x 115V e 1x 230V" },
+			{ "label": "Frequência", "value": "60Hz" },
+			{ "label": "Nível de ruído", "value": "67dB" },
+			{ "label": "Proteção", "value": "Contra sobrecarga" },
+			{ "label": "Rodas para transporte", "value": "Não" },
+			{ "label": "Peso", "value": "50kg" }
+		]
+	},
+	{
+		"id": "toyama-tg3200cxr-3-1kva",
+		"name": "Toyama TG3200CXR 3,1kVA",
+		"image": "/images/posts/melhor-gerador-gasolina-2.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2cjoaaF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 3,1kVA e nominal de 2,8kVA",
+			"Funcionamento bivolt com chave seletora",
+			"Sistema AVR estabiliza a tensão",
+			"Motor 4 tempos de 212cc refrigerado a ar",
+			"Partida manual retrátil",
+			"Tanque de combustível de 9L",
+			"Voltímetro integrado",
+			"Carregador de bateria 12VDC/8A",
+			"Baixo nível de ruído de 67dB",
+			"Estrutura robusta para emergências, obras e eventos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Combustível", "value": "Gasolina comum" },
+			{ "label": "Potência máxima", "value": "3,1kVA" },
+			{ "label": "Potência nominal", "value": "2,8kVA" },
+			{ "label": "Tensão de saída", "value": "Bivolt" },
+			{ "label": "Fase", "value": "Monofásico" },
+			{ "label": "Partida", "value": "Manual retrátil" },
+			{ "label": "Capacidade do tanque", "value": "9 litros" },
+			{ "label": "Capacidade do óleo", "value": "0,6 litro" },
+			{ "label": "Motor", "value": "7HP (212cc), 4 tempos, monocilíndrico, refrigerado a ar" },
+			{ "label": "Frequência", "value": "60Hz" },
+			{ "label": "Nível de ruído", "value": "67dB" },
+			{ "label": "Proteção", "value": "Contra sobrecarga" },
+			{ "label": "Rodas para transporte", "value": "Não" },
+			{ "label": "Peso", "value": "50kg" }
+		]
+	},
+	{
+		"id": "tssaper-ts3900eb-3-75kva",
+		"name": "Tssaper TS3900EB 3,75kVA",
+		"image": "/images/posts/melhor-gerador-gasolina-3.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2dtqqTm",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 3,75kVA",
+			"Partida elétrica com chave e opção manual",
+			"Funcionamento bivolt",
+			"Alternador síncrono com AVR",
+			"Bateria 12V inclusa com recarga automática",
+			"Tanque de 15L com autonomia de até 7 horas",
+			"Saída auxiliar 12V/8,3A",
+			"Sensor de óleo e proteção contra sobrecarga",
+			"Consumo médio de aproximadamente 1,3L/h",
+			"Indicado para residências, comércios e ferramentas elétricas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Combustível", "value": "Gasolina comum" },
+			{ "label": "Potência máxima", "value": "3,75kVA" },
+			{ "label": "Potência nominal", "value": "3,5kVA" },
+			{ "label": "Tensão de saída", "value": "Bivolt" },
+			{ "label": "Fase", "value": "Monofásico" },
+			{ "label": "Partida", "value": "Elétrica ou manual retrátil" },
+			{ "label": "Capacidade do tanque", "value": "15 litros" },
+			{ "label": "Capacidade do óleo", "value": "0,6 litro" },
+			{ "label": "Autonomia", "value": "10 horas" },
+			{ "label": "Motor", "value": "4 tempos, 210cc, monocilíndrico, refrigerado a ar" },
+			{ "label": "Nível de ruído", "value": "69dB" },
+			{ "label": "Proteção", "value": "Sensor de óleo e proteção contra sobrecarga" },
+			{ "label": "Rodas para transporte", "value": "Não" },
+			{ "label": "Peso", "value": "47kg" }
+		]
+	},
+	{
+		"id": "tekna-gt3500fb-3100w",
+		"name": "Tekna GT3500FB 3100W",
+		"image": "/images/posts/melhor-gerador-gasolina-4.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/12L3LMd",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 3100W",
+			"Motor a gasolina 4 tempos de 196cc",
+			"Funcionamento bivolt",
+			"Sistema AVR para estabilização da tensão",
+			"Voltímetro integrado",
+			"Tanque de combustível de 15L",
+			"Carregador auxiliar de bateria",
+			"Alerta de nível de óleo",
+			"Proteção contra sobrecarga",
+			"Estrutura reforçada para maior durabilidade"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Combustível", "value": "Gasolina comum" },
+			{ "label": "Potência máxima", "value": "3100W" },
+			{ "label": "Tensão de saída", "value": "Bivolt" },
+			{ "label": "Capacidade do tanque", "value": "15 litros" },
+			{
+				"label": "Motor",
+				"value": "4 tempos, 196cc"
+			}
+		]
+	},
+	{
+		"id": "tekna-gt1200aw-1100w",
+		"name": "Tekna GT1200AW 1100W",
+		"image": "/images/posts/melhor-gerador-gasolina-5.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2ymu1Pk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência máxima de 1100W para usos leves",
+			"Motor a gasolina 4 tempos de 98cc",
+			"Baixo consumo de combustível",
+			"Sistema com capacitor para estabilização da energia",
+			"Voltímetro integrado",
+			"Carregador de bateria incluso",
+			"Alerta de nível de óleo",
+			"Estrutura reforçada para transporte",
+			"Ideal para acampamentos e iluminação emergencial",
+			"Construção compacta"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Combustível", "value": "Gasolina comum" },
+			{ "label": "Potência máxima", "value": "1100W" },
+			{ "label": "Tensão de saída", "value": "110V ou 220V" },
+			{ "label": "Motor", "value": "4 tempos, 98cc" },
+			{ "label": "Rodas para transporte", "value": "Não" }
+		]
+	}
+]

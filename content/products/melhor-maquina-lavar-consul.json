@@ -1,0 +1,193 @@
+[
+	{
+		"id": "consul-cwn16ab",
+		"name": "Consul CWN16AB 16kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/18tbPFG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 16kg para grandes volumes de roupa",
+			"Modo Eco otimiza água no enxágue e energia elétrica",
+			"Programa Reusar Água reaproveita água para outras tarefas",
+			"Ciclo específico para edredom queen e lavagem de tênis",
+			"Filtro de fiapos no interior do agitador"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "16kg" },
+			{ "label": "Velocidade de centrifugação", "value": "670 a 700RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "98 x 63 x 70cm" },
+			{ "label": "Peso", "value": "36kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwn13ab",
+		"name": "Consul CWN13AB 13kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura compacta para uma lavadora de 13kg com cesto em inox",
+			"Modo Eco economiza até 15% de água e até 25% de energia",
+			"Dosagem Econômica com economia de até 70% de sabão",
+			"Reaproveita até 70 litros com o programa Reusar Água",
+			"Sistema Antidesbalanceamento evita trepidações da máquina"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "13kg" },
+			{ "label": "Velocidade de centrifugação", "value": "670 a 700RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "129 litros (127V) / 131 litros (220V)" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "97 x 57,5 x 61,5cm" },
+			{ "label": "Peso", "value": "31,40kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwb09bb",
+		"name": "Consul CWB09BB 9kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Jq5f3q",
+		"shopeeUrl": null,
+		"advantages": [
+			"Dosagem Econômica economiza até 70% de sabão",
+			"Função Mais Secas reforça a centrifugação",
+			"Função Limpeza Pesada remove manchas difíceis",
+			"6 ciclos de lavagem com enxágue duplo",
+			"Formato compacto, ideal para lavanderias menores"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "9kg" },
+			{ "label": "Velocidade de centrifugação", "value": "750RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "103 litros" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "plástico" },
+			{ "label": "Dimensões (A x L x P)", "value": "101 x 58 x 60cm" },
+			{ "label": "Peso", "value": "29,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwn14ab",
+		"name": "Consul CWN14AB 14kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16Swuvh",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 14kg com Modo Eco de água e energia",
+			"Filtro Anti-Fiapo retém até 50% mais fiapos",
+			"Ciclo Reúso de Água reaproveita até 70 litros",
+			"12 programas de lavagem, incluindo Edredom e Tênis",
+			"Dosagem Econômica economiza até 70% de sabão"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "14kg" },
+			{ "label": "Velocidade de centrifugação", "value": "670 a 700RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "141 litros (127V) / 142 litros (220V)" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "97 x 58 x 65cm" },
+			{ "label": "Peso", "value": "32kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwb10bb",
+		"name": "Consul CWB10BB 10kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PJRoyZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Ciclo Praia remove mais de 80% de areia",
+			"Programa Uniforme remove sujeiras como massinha e suco de uva",
+			"Dosagem Econômica reduz até 70% do gasto de sabão",
+			"Ciclo Rápido lava em 29 minutos",
+			"Formato compacto, ideal para casais ou famílias pequenas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "10kg" },
+			{ "label": "Velocidade de centrifugação", "value": "750RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "121 litros (127V) / 117 litros (220V)" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "101 x 58 x 65cm" },
+			{ "label": "Peso", "value": "30kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwn15ab",
+		"name": "Consul CWN15AB 15kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2f78Mvc",
+		"shopeeUrl": null,
+		"advantages": [
+			"Cesto em inox com capacidade de até 15kg",
+			"Economiza até 40% de energia e 15% de água no Modo Eco",
+			"Reaproveita até 90 litros de água",
+			"Lava peças em 18 minutos com o ciclo Rápido",
+			"Max Dispenser com acesso facilitado para sabão e amaciante"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "15kg" },
+			{ "label": "Velocidade de centrifugação", "value": "670 a 700RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "12" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "186 litros" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Material do cesto", "value": "inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "98 x 62,5 x 69,5cm" },
+			{ "label": "Peso", "value": "35,65kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-cwh13ab",
+		"name": "Consul CWH13AB 13kg",
+		"image": "/images/posts/melhor-maquina-lavar-consul-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2rCsx2a",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Mais Secas reduz a umidade das roupas",
+			"Reutiliza até 40 litros de água da lavagem",
+			"Ciclo Uniforme retira manchas comuns em roupas escolares",
+			"Ciclo Praia remove mais de 54% de areia",
+			"Estrutura compacta com 58cm de largura"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "13kg" },
+			{ "label": "Velocidade de centrifugação", "value": "750RPM" },
+			{ "label": "Tipo", "value": "automática" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "122 litros (127V) / 120 litros (220V)" },
+			{ "label": "Painel", "value": "digital com botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "101 x 58 x 65cm" },
+			{ "label": "Peso", "value": "32kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

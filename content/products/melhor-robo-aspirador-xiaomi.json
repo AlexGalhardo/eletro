@@ -1,0 +1,230 @@
+[
+	{
+		"id": "xiaomi-robot-vacuum-5",
+		"name": "Xiaomi Robot Vacuum 5",
+		"image": "/images/posts/robo-aspirador-xiaomi-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16fNycy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Alta sucção de 20.000Pa remove sujeiras mais pesadas",
+			"Estrutura ultrafina com radar retrátil alcança áreas baixas de até 9,5cm",
+			"Base multifuncional lava os panos com água quente de até 80°C",
+			"Escova principal com corte automático reduz acúmulo de cabelos",
+			"Reservatório de água de 4L e coleta automática de sujeira por até 75 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "8,8cm" },
+			{ "label": "Tempo de funcionamento", "value": "140 minutos" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "2,5L (saco de coleta)" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; travessia de carpetes; cantos e bordas"
+			},
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Dimensões", "value": "35 x 35 x 8,8cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-x20-pro",
+		"name": "Xiaomi Robot Vacuum X20 Pro",
+		"image": "/images/posts/robo-aspirador-xiaomi-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/33vrP6f",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estação multifuncional automatiza lavagem, secagem e coleta de sujeira",
+			"Área de limpeza de até 120m² com reservatório de água de 4L",
+			"Potência de sucção de 7000Pa com quatro níveis ajustáveis",
+			"Reconhecimento inteligente eleva os mops ao detectar carpetes",
+			"Navegação LDS com mapeamento de múltiplos andares"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,7cm" },
+			{ "label": "Tempo de funcionamento", "value": "160 minutos" },
+			{ "label": "Tempo de recarga", "value": "3 horas" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "2,5L (saco de coleta)" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração; passagem de pano; aspiração e passagem de pano; aspiração antes da passagem de pano"
+			},
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Dimensões", "value": "35 x 35 x 9,7cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s40",
+		"name": "Xiaomi Robot Vacuum S40",
+		"image": "/images/posts/robo-aspirador-xiaomi-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/19fXnT8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de sucção de 10.000Pa limpa com mais intensidade",
+			"Autonomia de até 180 minutos e navegação LDS em 360°",
+			"Escova principal em formato V coleta cabelos e pelos com eficiência",
+			"Controle eletrônico de água com 3 níveis de fluxo",
+			"Compatível com Alexa e Google Assistente"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,8cm" },
+			{ "label": "Tempo de funcionamento", "value": "180 minutos" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "520ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "silencioso; padrão; forte; turbo; aspiração; aspiração e lavagem; ignorar carpete; aspirar apenas em carpetes; cruzar carpete; evitar carpete"
+			},
+			{ "label": "Potência", "value": "70W" },
+			{ "label": "Dimensões", "value": "34 x 34 x 9,8cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s40-pro",
+		"name": "Xiaomi Robot Vacuum S40 Pro",
+		"image": "/images/posts/robo-aspirador-xiaomi-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Ra35bw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Braços mecânicos expansíveis ampliam a limpeza em cantos e paredes",
+			"Sucção de 15.000Pa remove poeira fina, pelos e partículas maiores",
+			"Escova lateral extensível alcança cantos com distância mínima de 0mm",
+			"Bateria de 5200mAh cobre áreas de até 180m² por carga",
+			"Quatro modos dedicados para limpeza de tapetes"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,9cm" },
+			{ "label": "Tempo de funcionamento", "value": "não especificado" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "430ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração antes da passagem de pano; aspiração; passagem de pano; aspiração e passagem de pano; limpar carpete primeiro; evitar carpete; cruzar carpete; ignorar carpetes"
+			},
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Dimensões", "value": "35,5 x 35 x 9,9cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-h40",
+		"name": "Xiaomi Robot Vacuum H40",
+		"image": "/images/posts/robo-aspirador-xiaomi-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1TN4mny",
+		"shopeeUrl": null,
+		"advantages": [
+			"Coleta automática com saco de pó amplo de 4L",
+			"Potência de sucção de 10.000Pa facilita remoção de partículas",
+			"Controle inteligente de água com 3 níveis ajustáveis",
+			"Autonomia de até 180 minutos com mapeamento LDS de 360°",
+			"Função de limpeza programada e configurações para carpetes"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,7cm" },
+			{ "label": "Tempo de funcionamento", "value": "180 minutos" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "4L" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração; passar pano; aspiração e passar pano; aspiração antes de passar pano; travessia de carpete; ignorar carpete; evitar carpete; aspira apenas em carpetes"
+			},
+			{ "label": "Potência", "value": "70W" },
+			{ "label": "Dimensões", "value": "34 x 34 x 9,7cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s40c",
+		"name": "Xiaomi Robot Vacuum S40C",
+		"image": "/images/posts/robo-aspirador-xiaomi-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Navegação a laser LDS cria mapas precisos com escaneamento em 360°",
+			"Controle inteligente de água ajusta a umidade em 3 níveis",
+			"Sucção de 5000Pa aspira pelos, poeira e sujeiras maiores",
+			"Quatro modos de potência ajustáveis para diferentes necessidades",
+			"Supera degraus de até 20mm e permite limpeza por cômodos"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,7cm" },
+			{ "label": "Tempo de funcionamento", "value": "não especificado" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "520ml" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{ "label": "Modos de limpeza", "value": "silencioso; padrão; forte; turbo" },
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Dimensões", "value": "34 x 34 x 9,7cm" },
+			{ "label": "Voltagem", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-x20-max",
+		"name": "Xiaomi Robot Vacuum X20 Max",
+		"image": "/images/posts/robo-aspirador-xiaomi-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/17WLTVY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Lavagem automática dos esfregões com água quente a 55°C",
+			"Braço extensível do esfregão alcança paredes e pernas de móveis",
+			"Reservatório de água limpa (4L) e suja (3,8L)",
+			"Sensores ultrassônicos elevam os esfregões ao detectar tapetes",
+			"Dock multifuncional realiza coleta automática por até 75 dias"
+		],
+		"technicalDetails": [
+			{ "label": "Altura", "value": "9,7cm" },
+			{ "label": "Tempo de funcionamento", "value": "120 minutos" },
+			{ "label": "Tempo de recarga", "value": "não especificado" },
+			{ "label": "Base de carregamento", "value": "sim" },
+			{ "label": "Capacidade do reservatório de pó", "value": "não especificado" },
+			{ "label": "Escova giratória", "value": "sim" },
+			{ "label": "Passa pano", "value": "sim" },
+			{ "label": "Sensores de obstáculos", "value": "sim" },
+			{ "label": "Mapeamento inteligente", "value": "sim" },
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração; passar pano; aspiração e passar pano; aspiração antes de passar pano"
+			},
+			{ "label": "Potência", "value": "55W" },
+			{ "label": "Dimensões", "value": "35 x 35 x 9,7cm" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]
