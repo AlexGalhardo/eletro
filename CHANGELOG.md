@@ -13,7 +13,9 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - Serviço de CMS para posts, listas de produtos e imagens, com validação que impede um post de quebrar o build.
 - Página `/admin/login` com entrada pelo GitHub e aviso das variáveis de ambiente que faltam; layout do painel com navegação e botão "Sair".
 - Login de testes (`POST /api/test/login`), ativo só com `AUTH_TEST_LOGIN_TOKEN` e nunca em produção.
-- Testes de integração do banco e da autenticação e testes e2e do acesso ao painel.
+- API REST `/api/v1`: leitura pública de posts (paginação, categoria e busca), categorias e listas de produtos; escrita de posts, listas e imagens com sessão de admin; `openapi.json` e `docs/api.md`.
+- Formato único de erro, CORS de leitura e limite de 60 escritas por minuto por endereço na API.
+- Testes de integração do banco, da autenticação e da API, e testes e2e do acesso ao painel.
 
 ### Changed
 

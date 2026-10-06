@@ -1,6 +1,6 @@
 # CMS (fase BETA)
 
-Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, e o painel tem login e layout. As telas de conteúdo e a API de conteúdo ainda não existem. O que falta está no [`PLAN.md`](../PLAN.md).
+Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o painel tem login e layout, e a API de conteúdo está em [`api.md`](api.md). As telas de conteúdo ainda não existem. O que falta está no [`PLAN.md`](../PLAN.md).
 
 ## Peças
 
