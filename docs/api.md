@@ -25,6 +25,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `POST /media` | admin | Upload multipart (`file`, `folder`) |
 | `POST /newsletter/dispatches` | admin | Coloca o aviso de um post (`slug`) na fila |
 | `POST /newsletter/dispatches/run` | admin ou `CRON_SECRET` | Envia a fila; `GET` faz o mesmo só com o `CRON_SECRET` |
+| `POST /imports` | admin | Importa uma review de um site permitido como rascunho (`url`). Ver [webscrapping-modelation.md](webscrapping-modelation.md) |
 
 ## Regras
 

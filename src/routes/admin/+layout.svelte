@@ -11,6 +11,7 @@
 		{ href: "/admin/products", label: "Produtos" },
 		{ href: "/admin/media", label: "Mídia" },
 		{ href: "/admin/newsletter", label: "Newsletter" },
+		{ href: "/admin/import", label: "Importar" },
 	];
 
 	const isCurrent = (href: string) =>
