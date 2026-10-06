@@ -193,11 +193,25 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ### R1. CI/CD (inativo)
 
-- [ ] `ci.yml`: lint, check, testes unitários e de integração, build, e2e
-- [ ] `release.yml`: versão, changelog, tag e GitHub Release a cada push em `main` com `feat`/`fix`
-- [ ] Arquivos em `.github/workflows-disabled/` e passo a passo de ativação em `docs/ci-cd.md`
+- [x] `ci.yml`: lint, check, testes unitários e de integração, build, e2e
+- [x] `release.yml`: versão, changelog, tag e GitHub Release depois de um CI verde em `main` com `feat`/`fix`
+- [x] `scripts/release.ts`: calcula a versão pelos Conventional Commits e corta o `CHANGELOG.md`
+- [x] Arquivos em `.github/workflows-disabled/` e passo a passo de ativação em `docs/ci-cd.md`
 
 **Assert:** `actionlint` sem erros; o script de release rodado em modo simulação produz a versão e as notas esperadas; nenhum arquivo em `.github/workflows/`.
+
+Verificado em 2026-10-06:
+
+| Verificação | Resultado |
+|---|---|
+| `actionlint` 1.7.12 nos dois workflows | sem erros |
+| Job `quality` no contêiner `ubuntu-24.04` com `act` 0.2.89 | passou: install, lint, check, 331 testes, build |
+| Job `e2e` no contêiner com `act` | **não concluiu**: o download do Chromium falhou com `self-signed certificate in certificate chain`, por interceptação de TLS da máquina local dentro do contêiner. Os passos anteriores passaram e o passo que guarda o relatório em caso de falha rodou |
+| Passos do job `e2e` em um clone limpo, com `CI=true` | passou: 64 testes, sem nova tentativa |
+| Passos do `release.yml` em um clone descartável, sem push | `0.1.0 -> 0.2.0`, commit `chore(release): v0.2.0`, tag, changelog e links corretos; segunda execução e commit `content:` não geram versão |
+| `.github/workflows/` | não existe |
+
+Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner real do GitHub e o `release.yml` de ponta a ponta (o gatilho `workflow_run`, o push do bot e o `gh release create` não têm como ser simulados localmente).
 
 ### R2. Segurança
 
