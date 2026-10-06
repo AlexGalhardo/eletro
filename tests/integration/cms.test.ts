@@ -1,0 +1,241 @@
+import { mkdtemp, readFile, rm } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import path from "node:path";
+import { afterEach, beforeEach, describe, expect, it } from "vitest";
+import { validateBody } from "../../src/lib/content/validate-body.ts";
+import {
+	deletePost,
+	getPost,
+	getProductList,
+	listImages,
+	listPosts,
+	savePost,
+	saveProductList,
+	slugifyFilename,
+	uploadImage,
+	ValidationError,
+} from "../../src/lib/server/cms.ts";
+import { createGitHubStore } from "../../src/lib/server/store/github.ts";
+import { createLocalStore } from "../../src/lib/server/store/local.ts";
+import { blobSha, ConflictError, type ContentStore, encode } from "../../src/lib/server/store/types.ts";
+
+const author = { name: "Admin", email: "admin@example.com" };
+const product = {
+	id: "p1",
+	name: "Produto Um",
+	image: "/images/posts/p1.jpg",
+	mercadolivreUrl: "https://meli.la/x",
+};
+const post = {
+	title: "Melhor Cafeteira",
+	description: "Resumo",
+	date: "2026-01-10",
+	category: "cozinha",
+	body: 'Abertura.\n\n<CardsTable list="cafeteiras" />',
+};
+const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 1, 2, 3]);
+
+let root: string;
+let store: ContentStore;
+
+beforeEach(async () => {
+	root = await mkdtemp(path.join(tmpdir(), "cms-"));
+	store = createLocalStore(root);
+});
+afterEach(() => rm(root, { recursive: true, force: true }));
+
+describe("posts", () => {
+	it("creates, lists, updates and deletes a post through the store", async () => {
+		await saveProductList(store, "cafeteiras", [product], author);
+
+		const created = await savePost(store, "melhor-cafeteira", post, author);
+		const file = await readFile(path.join(root, "content/posts/melhor-cafeteira.mdx"), "utf8");
+		expect(file).toMatch(/^---\ntitle: Melhor Cafeteira\n/);
+		expect(file).toContain('<CardsTable list="cafeteiras" />');
+
+		expect(await listPosts(store)).toEqual([
+			expect.objectContaining({ slug: "melhor-cafeteira", status: "published", sha: created.sha }),
+		]);
+
+		const updated = await savePost(
+			store,
+			"melhor-cafeteira",
+			{ ...post, draft: true },
+			author,
+			created.sha,
+		);
+		expect((await getPost(store, "melhor-cafeteira"))?.status).toBe("draft");
+
+		await deletePost(store, "melhor-cafeteira", author, updated.sha);
+		expect(await getPost(store, "melhor-cafeteira")).toBeNull();
+	});
+
+	it("refuses to overwrite a newer version or an existing post", async () => {
+		await saveProductList(store, "cafeteiras", [product], author);
+		const created = await savePost(store, "melhor-cafeteira", post, author);
+		await savePost(store, "melhor-cafeteira", { ...post, title: "Outro" }, author, created.sha);
+
+		await expect(savePost(store, "melhor-cafeteira", post, author, created.sha)).rejects.toThrow(
+			ConflictError,
+		);
+		await expect(savePost(store, "melhor-cafeteira", post, author)).rejects.toThrow(ConflictError);
+	});
+
+	it("rejects bodies that would break the build, unknown lists and bad slugs", async () => {
+		await expect(savePost(store, "melhor-cafeteira", post, author)).rejects.toThrow(
+			/cafeteiras.*não existe/,
+		);
+		await expect(savePost(store, "x", { ...post, body: "Preço: {valor}" }, author)).rejects.toThrow(
+			ValidationError,
+		);
+		await expect(savePost(store, "../fora", { ...post, body: "ok" }, author)).rejects.toThrow(
+			ValidationError,
+		);
+		await expect(
+			savePost(store, "sem-titulo", { ...post, title: "", body: "ok" }, author),
+		).rejects.toThrow(/title/);
+	});
+
+	it("reuses bundled sources and still lists files that fail to parse", async () => {
+		await store.write("content/posts/quebrado.mdx", encode("---\ntitle: X\n---\n"), {
+			message: "m",
+			author,
+		});
+		const raw = "---\ntitle: Do Bundle\ndate: '2026-02-01'\ncategory: cozinha\n---\ntexto\n";
+		const reads: string[] = [];
+		const spy: ContentStore = {
+			...store,
+			list: async () => [
+				...(await store.list("content/posts")),
+				{ name: "do-bundle.mdx", path: "content/posts/do-bundle.mdx", sha: blobSha(encode(raw)) },
+			],
+			read: (file) => {
+				reads.push(file);
+				return store.read(file);
+			},
+		};
+
+		const posts = await listPosts(spy, new Map([["do-bundle", raw]]));
+
+		expect(posts.map((entry) => [entry.slug, entry.status])).toEqual([
+			["do-bundle", "published"],
+			["quebrado", "invalid"],
+		]);
+		expect(reads).toEqual(["content/posts/quebrado.mdx"]);
+	});
+});
+
+describe("product lists", () => {
+	it("saves formatted JSON and rejects repeated ids and empty lists", async () => {
+		const saved = await saveProductList(store, "cafeteiras", [product], author);
+
+		expect(await getProductList(store, "cafeteiras")).toMatchObject({
+			sha: saved.sha,
+			products: [{ id: "p1" }],
+		});
+		await expect(saveProductList(store, "x-lista", [product, product], author)).rejects.toThrow(
+			/repetido: p1/,
+		);
+		await expect(saveProductList(store, "y-lista", [], author)).rejects.toThrow(ValidationError);
+	});
+});
+
+describe("images", () => {
+	it("stores by real type, sanitizes the name and never overwrites", async () => {
+		const file = { folder: "covers", filename: "Minha Capa (1).JPG", type: "image/jpeg", bytes: PNG };
+
+		expect(await uploadImage(store, file, author)).toEqual({ url: "/images/covers/minha-capa-1.png" });
+		expect(await uploadImage(store, file, author)).toEqual({ url: "/images/covers/minha-capa-1-2.png" });
+		expect(await listImages(store, "covers")).toHaveLength(2);
+	});
+
+	it("rejects disguised files, oversize files and unknown folders", async () => {
+		const html = { folder: "covers", filename: "a.png", type: "image/png", bytes: encode("<html>") };
+
+		await expect(uploadImage(store, html, author)).rejects.toThrow(/WebP, JPEG ou PNG/);
+		await expect(uploadImage(store, { ...html, folder: "../.." }, author)).rejects.toThrow(/Pasta/);
+		await expect(
+			uploadImage(store, { ...html, bytes: new Uint8Array(5 * 1024 * 1024) }, author),
+		).rejects.toThrow(/4 MB/);
+	});
+
+	it("slugifies file names", () => {
+		expect(slugifyFilename("Máquina de Lavar_12kg.webp")).toBe("maquina-de-lavar-12kg");
+	});
+});
+
+describe("validateBody", () => {
+	it("accepts Markdown with the registered component", () => {
+		expect(validateBody('## Título\n\nTexto com <br> e **negrito**.\n\n<CardsTable list="x" />')).toEqual(
+			[],
+		);
+	});
+
+	it("flags code, scripts, event handlers and unknown components", () => {
+		expect(validateBody("a {b}")).toHaveLength(1);
+		expect(validateBody("<script>alert(1)</script>")).toHaveLength(1);
+		expect(validateBody('<img src="x" onerror="alert(1)">')).toHaveLength(1);
+		expect(validateBody("<svelte:head></svelte:head>")).toHaveLength(1);
+		expect(validateBody("<Outro />")[0]).toContain("Componente desconhecido");
+	});
+});
+
+describe("GitHub store", () => {
+	const calls: { method: string; url: string; body?: Record<string, unknown> }[] = [];
+	const respond = (status: number, body: unknown) => async (url: RequestInfo | URL, init?: RequestInit) => {
+		calls.push({
+			method: init?.method ?? "GET",
+			url: String(url),
+			body: init?.body ? JSON.parse(String(init.body)) : undefined,
+		});
+		return new Response(JSON.stringify(body), { status });
+	};
+	const github = (fetch: typeof globalThis.fetch) =>
+		createGitHubStore({ token: "t", repo: "owner/repo", branch: "main", fetch });
+
+	beforeEach(() => {
+		calls.length = 0;
+	});
+
+	it("commits a file with author, branch and base64 content", async () => {
+		const result = await github(respond(201, { content: { sha: "abc" } })).write(
+			"content/posts/novo post.mdx",
+			encode("olá"),
+			{ message: "content: add post novo", author },
+		);
+
+		expect(result).toEqual({ sha: "abc" });
+		expect(calls[0]).toMatchObject({
+			method: "PUT",
+			url: "https://api.github.com/repos/owner/repo/contents/content/posts/novo%20post.mdx",
+			body: { message: "content: add post novo", branch: "main", author, content: "b2zDoQ==" },
+		});
+	});
+
+	it("reads files, treats 404 as missing and lists only files", async () => {
+		expect((await github(respond(200, { content: "b2zDoQ==", sha: "s1" })).read("a.mdx"))?.sha).toBe(
+			"s1",
+		);
+		expect(await github(respond(404, {})).read("a.mdx")).toBeNull();
+		expect(
+			await github(
+				respond(200, [
+					{ type: "file", name: "a.mdx", path: "content/posts/a.mdx", sha: "1" },
+					{ type: "dir", name: "sub", path: "content/posts/sub", sha: "2" },
+				]),
+			).list("content/posts"),
+		).toEqual([{ name: "a.mdx", path: "content/posts/a.mdx", sha: "1" }]);
+	});
+
+	it("maps version clashes to ConflictError and other failures to errors", async () => {
+		const commit = { message: "m", author, sha: "old" };
+
+		await expect(github(respond(409, {})).write("a.mdx", encode("x"), commit)).rejects.toThrow(
+			ConflictError,
+		);
+		await expect(github(respond(422, {})).remove("a.mdx", commit)).rejects.toThrow(ConflictError);
+		await expect(
+			github(respond(500, { message: "boom" })).write("a.mdx", encode("x"), commit),
+		).rejects.toThrow(/failed with 500/);
+	});
+});

@@ -1,19 +1,10 @@
+import type { AdminUser } from "#lib/server/auth.ts";
+
 declare global {
 	namespace App {
-		// interface Error {}
-		// interface Locals {}
-		// interface PageData {}
-		// interface PageState {}
-		// interface Platform {}
+		interface Locals {
+			/** The signed-in admin, or `null`. Only resolved for /admin and /api requests. */
+			admin: AdminUser | null;
+		}
 	}
 }
-
-declare module "*.mdx" {
-	import type { Component } from "svelte";
-
-	const component: Component;
-	export default component;
-	export const metadata: Record<string, unknown>;
-}
-
-export {};
