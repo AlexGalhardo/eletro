@@ -1,4 +1,4 @@
-import { ConflictError, type ContentStore } from "./types.ts";
+import { ConflictError, type ContentStore, type HistoryEntry } from "./types.ts";
 
 type Options = { token: string; repo: string; branch: string; fetch?: typeof fetch };
 
@@ -13,18 +13,19 @@ export function createGitHubStore({ token, repo, branch, fetch: request = fetch 
 	const url = (filePath: string) =>
 		`https://api.github.com/repos/${repo}/contents/${filePath.split("/").map(encodeURIComponent).join("/")}`;
 
+	const headers = {
+		Accept: "application/vnd.github+json",
+		Authorization: `Bearer ${token}`,
+		"X-GitHub-Api-Version": "2022-11-28",
+		"User-Agent": "sveltekit-blog-cms",
+	};
+
 	async function call(method: string, filePath: string, body?: Record<string, unknown>) {
 		const target =
 			method === "GET" ? `${url(filePath)}?ref=${encodeURIComponent(branch)}` : url(filePath);
 		return request(target, {
 			method,
-			headers: {
-				Accept: "application/vnd.github+json",
-				Authorization: `Bearer ${token}`,
-				"X-GitHub-Api-Version": "2022-11-28",
-				"User-Agent": "sveltekit-blog-cms",
-				...(body ? { "Content-Type": "application/json" } : {}),
-			},
+			headers: { ...headers, ...(body ? { "Content-Type": "application/json" } : {}) },
 			body: body ? JSON.stringify({ ...body, branch }) : undefined,
 		});
 	}
@@ -83,6 +84,31 @@ export function createGitHubStore({ token, repo, branch, fetch: request = fetch 
 			const response = await call("DELETE", filePath, { message, sha, author, committer: author });
 			if (response.status === 409 || response.status === 422) throw new ConflictError(filePath);
 			if (!response.ok) await fail(response, `remove ${filePath}`);
+		},
+
+		// https://docs.github.com/en/rest/commits/commits#list-commits
+		async history(dir, limit) {
+			const query = new URLSearchParams({ sha: branch, path: dir, per_page: String(limit) });
+			const response = await request(`https://api.github.com/repos/${repo}/commits?${query}`, {
+				headers,
+			});
+			if (!response.ok) await fail(response, `history of ${dir}`);
+
+			const commits = (await response.json()) as {
+				sha: string;
+				html_url: string;
+				commit: { message: string; author: { name: string; date: string } };
+			}[];
+			return commits.map(
+				({ sha, html_url, commit }): HistoryEntry => ({
+					sha,
+					// Only the subject line: the dashboard shows a one-line list.
+					message: commit.message.split("\n")[0] ?? "",
+					author: commit.author.name,
+					date: commit.author.date,
+					url: html_url,
+				}),
+			);
 		},
 	};
 }

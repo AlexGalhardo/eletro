@@ -51,5 +51,9 @@ export function createLocalStore(root: string): ContentStore {
 			if (current?.sha !== sha) throw new ConflictError(relative);
 			await rm(resolve(relative));
 		},
+
+		async history() {
+			return [];
+		},
 	};
 }

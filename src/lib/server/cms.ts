@@ -70,6 +70,25 @@ const listPath = (name: string) => `${PRODUCTS}/${parseOrThrow(slugSchema, name)
 const statusOf = (post: Post): PostStatus =>
 	post.draft ? "draft" : isPublished(post) ? "published" : "scheduled";
 
+/**
+ * Messages for the local images (`/images/...`) that are not in the store.
+ * The site is prerendered, so a page pointing to a missing file fails the build, and with it the deploy.
+ */
+async function missingImages(store: ContentStore, urls: string[]): Promise<string[]> {
+	const local = [...new Set(urls.filter((url) => url.startsWith("/")))];
+	const folders = [...new Set(local.map((url) => url.slice(0, url.lastIndexOf("/"))))];
+
+	const listings = await Promise.all(folders.map((folder) => store.list(`static${folder}`)));
+	const listed = new Set(listings.flat().map((entry) => entry.path.slice("static".length)));
+	// A folder listing can be cut short (GitHub stops at 1,000 entries), so an apparent miss is confirmed by reading.
+	const unlisted = local.filter((url) => !listed.has(url));
+	const found = await Promise.all(unlisted.map((url) => store.read(`static${url}`)));
+
+	return unlisted
+		.filter((_, index) => !found[index])
+		.map((url) => `A imagem "${url}" não existe. Envie o arquivo antes de salvar.`);
+}
+
 // --- Posts ------------------------------------------------------------------------
 
 /**
@@ -128,6 +147,7 @@ async function validatePost(store: ContentStore, input: unknown): Promise<PostIn
 	for (const [index, list] of lists.entries()) {
 		if (!found[index]) problems.push(`A lista de produtos "${list}" não existe.`);
 	}
+	problems.push(...(await missingImages(store, [post.cover])));
 	if (problems.length > 0) throw new ValidationError(problems);
 
 	return post;
@@ -185,6 +205,12 @@ export async function saveProductList(
 	const repeated = ids.filter((id, index) => ids.indexOf(id) !== index);
 	if (repeated.length > 0)
 		throw new ValidationError([`Id de produto repetido: ${[...new Set(repeated)].join(", ")}.`]);
+
+	const missing = await missingImages(
+		store,
+		products.map((product) => product.image),
+	);
+	if (missing.length > 0) throw new ValidationError(missing);
 
 	const result = await store.write(path, encode(`${JSON.stringify(products, null, "\t")}\n`), {
 		message: `content: ${sha ? "update" : "add"} product list ${name}`,

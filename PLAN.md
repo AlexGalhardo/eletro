@@ -134,14 +134,14 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 ### B4. Dashboard `/admin`
 
-- [ ] Painel inicial: totais de posts, rascunhos, agendados, assinantes e últimos commits de conteúdo
-- [ ] Lista de posts com busca, filtro e status
-- [ ] Editor de post: campos do frontmatter, Markdown com preview, FAQ, capa, seleção da lista de produtos
-- [ ] Editor de produtos em formulário: dados, links de afiliado, vantagens, ficha técnica, ordem
-- [ ] Biblioteca de mídia com upload
-- [ ] Indicador de status do deploy após salvar
+- [x] Painel inicial: totais de posts, rascunhos, agendados, assinantes e últimos commits de conteúdo (os commits só com o store do GitHub; esse caminho está coberto por teste com a API simulada)
+- [x] Lista de posts com busca, filtro e status
+- [x] Editor de post: campos do frontmatter, Markdown com preview, FAQ, capa, seleção da lista de produtos
+- [x] Editor de produtos em formulário: dados, links de afiliado, vantagens, ficha técnica, ordem
+- [x] Biblioteca de mídia com upload
+- [x] Indicador de status do deploy após salvar (por hash do conteúdo, sem depender da plataforma)
 
-**Assert:** e2e — admin cria uma review nova (post, lista com dois produtos, capa) só pelo navegador e ela aparece na home e na URL própria após o rebuild.
+**Assert:** e2e — admin cria uma review nova (post, lista com dois produtos, capa) só pelo navegador e ela aparece na home e na URL própria após o rebuild. (Verificado em 2026-10-06 em duas partes: `tests/e2e/cms.spec.ts` cria a review pelo navegador e confere os arquivos gravados; o rebuild foi conferido à mão com uma review gravada pelo mesmo serviço: `bun run build`, home e URL própria com 200, cartões dos dois produtos e status "No ar" no editor. O e2e não refaz o build.)
 
 ### B5. API REST `/api/v1`
 
@@ -211,12 +211,14 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1, B2, B3 e B5 estão entregues e cobertas por testes. O painel tem login, layout e uma página inicial vazia; ainda não existe tela de conteúdo.
+Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1 a B5 estão entregues e cobertas por testes: o painel publica posts, listas de produtos e imagens. Falta a newsletter (B6).
 
 Próximos passos, nesta ordem:
 
-1. Telas de posts, produtos e mídia (B4), gravando pela API `/api/v1`.
-2. Newsletter (B6): as tabelas já estão no schema.
+1. Newsletter (B6): as tabelas já estão no schema.
+2. Fase 1.0.0-rc, começando por segurança (R2).
+
+Problema conhecido: o teste e2e `home › loads more posts while scrolling` falha de forma intermitente (cerca de 1 em 6 execuções, `page.goto` sem resposta do preview). Já falhava antes desta sessão; investigar em R5.
 
 ## Decisões
 

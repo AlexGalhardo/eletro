@@ -44,3 +44,14 @@ export function getProductListNames(): string[] {
 export function getBundledPostSources(): Map<string, string> {
 	return new Map(Object.entries(postFiles).map(([path, raw]) => [nameOf(path), raw]));
 }
+
+const productSources = import.meta.glob<string>("/content/products/*.json", {
+	eager: true,
+	query: "?raw",
+	import: "default",
+});
+
+/** Raw text of every bundled product list, keyed by name. Used by the admin to tell what is already deployed. */
+export function getBundledListSources(): Map<string, string> {
+	return new Map(Object.entries(productSources).map(([path, raw]) => [nameOf(path), raw]));
+}

@@ -104,9 +104,11 @@ export async function testLogin(githubLogin: string): Promise<string | null> {
 	const { test } = context as typeof context & { test: TestHelpers };
 
 	const email = `${login}@test.invalid`;
-	const existing = await context.internalAdapter.findUserByEmail(email);
+	const find = async () => (await context.internalAdapter.findUserByEmail(email))?.user ?? null;
+	// Two sign-ins at once (parallel test workers) both try to create the user; the loser reads the winner's.
 	const account =
-		existing?.user ?? (await test.saveUser(test.createUser({ email, name: login, githubLogin: login })));
+		(await find()) ??
+		(await test.saveUser(test.createUser({ email, name: login, githubLogin: login })).catch(find));
 	if (!account) return null;
 
 	const { headers } = await test.login({ userId: account.id });

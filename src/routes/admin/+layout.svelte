@@ -5,7 +5,12 @@
 
 	let { data, children } = $props();
 
-	const links = [{ href: "/admin", label: "Painel" }];
+	const links = [
+		{ href: "/admin", label: "Painel" },
+		{ href: "/admin/posts", label: "Posts" },
+		{ href: "/admin/products", label: "Produtos" },
+		{ href: "/admin/media", label: "Mídia" },
+	];
 
 	const isCurrent = (href: string) =>
 		href === "/admin" ? page.url.pathname === href : page.url.pathname.startsWith(href);

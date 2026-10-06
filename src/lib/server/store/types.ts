@@ -2,6 +2,8 @@ import { createHash } from "node:crypto";
 
 export type Entry = { name: string; path: string; sha: string };
 export type StoredFile = { path: string; bytes: Uint8Array; sha: string };
+/** One commit that touched the content, as shown on the dashboard. */
+export type HistoryEntry = { sha: string; message: string; author: string; date: string; url: string };
 export type Commit = { message: string; author: { name: string; email: string } };
 
 /**
@@ -16,6 +18,8 @@ export interface ContentStore {
 	/** Creates the file when `sha` is omitted (failing if it exists) or replaces that exact version. */
 	write(path: string, bytes: Uint8Array, commit: Commit & { sha?: string }): Promise<{ sha: string }>;
 	remove(path: string, commit: Commit & { sha: string }): Promise<void>;
+	/** Latest commits that touched `dir`, newest first. Empty where there is no history to read (local disk). */
+	history(dir: string, limit: number): Promise<HistoryEntry[]>;
 }
 
 /** The file changed (or appeared) since the version the caller was working on. */

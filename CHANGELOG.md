@@ -15,7 +15,10 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - Login de testes (`POST /api/test/login`), ativo só com `AUTH_TEST_LOGIN_TOKEN` e nunca em produção.
 - API REST `/api/v1`: leitura pública de posts (paginação, categoria e busca), categorias e listas de produtos; escrita de posts, listas e imagens com sessão de admin; `openapi.json` e `docs/api.md`.
 - Formato único de erro, CORS de leitura e limite de 60 escritas por minuto por endereço na API.
-- Testes de integração do banco, da autenticação e da API, e testes e2e do acesso ao painel.
+- Painel `/admin`: totais e últimas alterações, lista de posts com busca e filtros, editor de post (frontmatter, Markdown com pré-visualização, FAQ, capa, lista de produtos), editor de produtos em formulário e biblioteca de mídia com upload.
+- Indicador de status do deploy no painel, comparando o conteúdo salvo com o que está no ar.
+- Posts e listas que apontam para uma imagem local inexistente são recusados, porque quebrariam o build.
+- Testes de integração do banco, da autenticação e da API, e testes e2e do acesso ao painel e da publicação de uma review pelo navegador.
 
 ### Changed
 

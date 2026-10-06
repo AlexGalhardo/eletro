@@ -23,7 +23,7 @@ const author = { name: "Admin", email: "admin@example.com" };
 const product = {
 	id: "p1",
 	name: "Produto Um",
-	image: "/images/posts/p1.jpg",
+	image: "https://example.com/p1.jpg",
 	mercadolivreUrl: "https://meli.la/x",
 };
 const post = {
@@ -180,6 +180,32 @@ describe("validateBody", () => {
 	});
 });
 
+describe("local images", () => {
+	it("refuses a cover or a product image that is not in the store, since it would break the build", async () => {
+		const withImage = [{ ...product, image: "/images/posts/foto.png" }];
+		await expect(saveProductList(store, "cafeteiras", withImage, author)).rejects.toThrow(
+			'A imagem "/images/posts/foto.png" não existe',
+		);
+
+		await uploadImage(
+			store,
+			{ folder: "posts", filename: "foto.png", type: "image/png", bytes: PNG },
+			author,
+		);
+		await saveProductList(store, "cafeteiras", withImage, author);
+
+		const withCover = { ...post, cover: "/images/covers/capa.png" };
+		await expect(savePost(store, "melhor-cafeteira", withCover, author)).rejects.toThrow(ValidationError);
+
+		await uploadImage(
+			store,
+			{ folder: "covers", filename: "capa.png", type: "image/png", bytes: PNG },
+			author,
+		);
+		await savePost(store, "melhor-cafeteira", withCover, author);
+	});
+});
+
 describe("GitHub store", () => {
 	const calls: { method: string; url: string; body?: Record<string, unknown> }[] = [];
 	const respond = (status: number, body: unknown) => async (url: RequestInfo | URL, init?: RequestInit) => {
@@ -237,5 +263,29 @@ describe("GitHub store", () => {
 		await expect(
 			github(respond(500, { message: "boom" })).write("a.mdx", encode("x"), commit),
 		).rejects.toThrow(/failed with 500/);
+	});
+
+	it("lists the latest commits of a folder with only the subject line", async () => {
+		const commit = {
+			message: "content: add post x\n\nbody",
+			author: { name: "Ana", date: "2026-10-06T12:00:00Z" },
+		};
+		const history = await github(
+			respond(200, [{ sha: "c1", html_url: "https://github.com/c1", commit }]),
+		).history("content", 5);
+
+		expect(calls[0]?.url).toBe(
+			"https://api.github.com/repos/owner/repo/commits?sha=main&path=content&per_page=5",
+		);
+		expect(history).toEqual([
+			{
+				sha: "c1",
+				message: "content: add post x",
+				author: "Ana",
+				date: "2026-10-06T12:00:00Z",
+				url: "https://github.com/c1",
+			},
+		]);
+		expect(await createLocalStore(root).history("content", 5)).toEqual([]);
 	});
 });
