@@ -28,5 +28,8 @@ vite.config.ts.timestamp-*
 /playwright-report
 /coverage
 
+# Parallel worktrees created by agents
+/.claude/worktrees
+
 # Knowledge graph cache (rebuild with `graphify .`)
 /graphify-out
