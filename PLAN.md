@@ -205,13 +205,13 @@ Verificado em 2026-10-06:
 | Verificação | Resultado |
 |---|---|
 | `actionlint` 1.7.12 nos dois workflows | sem erros |
-| Job `quality` no contêiner `ubuntu-24.04` com `act` 0.2.89 | passou: install, lint, check, 331 testes, build |
-| Job `e2e` no contêiner com `act` | **não concluiu**: o download do Chromium falhou com `self-signed certificate in certificate chain`, por interceptação de TLS da máquina local dentro do contêiner. Os passos anteriores passaram e o passo que guarda o relatório em caso de falha rodou |
+| Job `quality` no contêiner `ubuntu-24.04` com `act` 0.2.89 | passou: install, lint, check, 334 testes, build (na `v1.0.0-rc.1`) |
+| Job `e2e` no contêiner com `act` | passou na `v1.0.0-rc.1`, com o antivírus da máquina desligado: Chromium instalado e 66 testes. Na primeira tentativa, com o antivírus ligado, o download do Chromium tinha falhado com `self-signed certificate in certificate chain` |
 | Passos do job `e2e` em um clone limpo, com `CI=true` | passou: 64 testes, sem nova tentativa |
 | Passos do `release.yml` em um clone descartável, sem push | `0.1.0 -> 0.2.0`, commit `chore(release): v0.2.0`, tag, changelog e links corretos; segunda execução e commit `content:` não geram versão |
 | `.github/workflows/` | não existe |
 
-Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner real do GitHub e o `release.yml` de ponta a ponta (o gatilho `workflow_run`, o push do bot e o `gh release create` não têm como ser simulados localmente).
+Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a ponta (o gatilho `workflow_run`, o push do bot e o `gh release create` não têm como ser simulados localmente).
 
 ### R2. Segurança
 
@@ -227,9 +227,9 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 
 - [x] Imagens responsivas (capas em 480, 768 e 1280 px geradas no build, com `srcset`) e carregamento tardio; fontes locais
 - [x] Navegação por teclado (teste e2e) e contraste AA (Lighthouse: acessibilidade 100)
-- [ ] Lighthouse com desempenho e boas práticas em 90 ou mais: medido localmente em 87 (home) e 84 (post) de desempenho e 77 de boas práticas, com distorções da máquina; conferir no PageSpeed Insights depois do deploy (detalhes em `docs/performance.md`)
+- [ ] Lighthouse com 90 ou mais nas quatro categorias: com o antivírus desligado, desempenho 91 (home) e 89 (post), acessibilidade 100, SEO 100, boas práticas 77. Boas práticas reprova pelos cookies de terceiros do Microsoft Clarity, carregado antes do aceite no banner (detalhes e opções em `docs/performance.md`)
 
-**Assert:** Lighthouse ≥ 90 em desempenho, acessibilidade, boas práticas e SEO nas duas páginas, no celular. (Em 2026-10-06, mediana de três execuções locais: acessibilidade 100 e SEO 100, **atendidos**; desempenho 87 e 84 e boas práticas 77, **não atendidos nesta medição**. As duas reprovações de boas práticas são do antivírus da máquina, e o servidor local não comprime nem cacheia. O assert só fecha com a medição do site publicado.)
+**Assert:** Lighthouse ≥ 90 em desempenho, acessibilidade, boas práticas e SEO nas duas páginas, no celular. (Em 2026-10-06, mediana de três execuções locais com o antivírus desligado: acessibilidade 100, SEO 100 e desempenho da home 91, **atendidos**; desempenho do post 89 e boas práticas 77, **não atendidos**. Boas práticas reprova pelos cookies de terceiros do Clarity. Uma medição anterior, com o antivírus ligado, tinha atribuído essa nota ao antivírus: estava errado.)
 
 ### R4. Documentação e template
 
@@ -262,9 +262,9 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 | A6 | `test` e `test:e2e` verdes | Atendido |
 | B1 a B7 | Testes de integração e e2e de cada grupo | Atendido |
 | B4 | Review criada pelo navegador aparece no site depois do rebuild | Atendido em duas partes, como registrado no grupo; o rebuild não é automatizado |
-| R1 | `actionlint` sem erros; release em simulação; nada em `.github/workflows/` | Atendido. O job `e2e` em contêiner e o `release.yml` de ponta a ponta só fecham com os workflows ativos |
+| R1 | `actionlint` sem erros; release em simulação; nada em `.github/workflows/` | Atendido. Os dois jobs do CI passaram em contêiner com `act`; o `release.yml` de ponta a ponta só fecha com os workflows ativos |
 | R2 | Nenhum achado alto ou crítico em aberto | Atendido |
-| R3 | Lighthouse 90 ou mais nas quatro categorias, no celular | **Parcial**: acessibilidade 100 e SEO 100; desempenho 87 e 84 e boas práticas 77 na medição local, com distorções da máquina. Fecha com a medição do site publicado |
+| R3 | Lighthouse 90 ou mais nas quatro categorias, no celular | **Parcial**: acessibilidade 100, SEO 100, desempenho 91 na home; desempenho 89 no post e boas práticas 77. Boas práticas depende de uma decisão sobre o Clarity |
 | R4 | Clone limpo roda seguindo só o README | Atendido |
 
 #### Pendências conhecidas para a 1.0.0
@@ -281,6 +281,7 @@ Dependem do primeiro deploy (lista completa em `docs/deploy.md`):
 Dependem de decisão do dono:
 
 - [ ] Comparação visual final com o site Next (A4)
+- [ ] Clarity só depois do aceite no banner de cookies, ou fora do site: é o que reprova boas práticas no Lighthouse
 - [ ] CSP (exige mover os scripts embutidos e testar o analytics)
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado (leva `mdsvex` para produção)
 - [ ] Reescrita do texto importado com LLM; convenção dos links `#`; uso das fotos do CDN da Amazon

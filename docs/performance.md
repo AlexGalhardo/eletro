@@ -23,24 +23,38 @@
 
 ## Lighthouse (celular), 2026-10-06
 
-Medido com o Lighthouse 13.5.0 no build de produção servido por `vite preview`, em `/` e em `/melhor-airfryer-8-litros`. Mediana de três execuções.
+Medido com o Lighthouse 13.5.0 no build de produção servido por `vite preview`, em `/` e em `/melhor-airfryer-8-litros`. Mediana de três execuções, com o antivírus da máquina desligado.
 
 | Página | Desempenho | Acessibilidade | Boas práticas | SEO |
 |---|---|---|---|---|
 | Home, antes | 70 | 96 | 77 | 100 |
-| Home, depois | 87 | 100 | 77 | 100 |
+| Home, depois | 91 | 100 | 77 | 100 |
 | Post, antes | 69 | 96 | 77 | 100 |
-| Post, depois | 84 | 100 | 77 | 100 |
+| Post, depois | 89 | 100 | 77 | 100 |
 
-LCP da home: de 8,4 s para 3,3 s. Peso da home: de 1.760 KB para cerca de 560 KB.
+LCP da home: de 8,4 s para 2,7 s. As três execuções deram 90, 91 e 91 na home e 89, 89 e 88 no post.
 
-**A meta de 90 em desempenho e boas práticas não foi confirmada.** A medição local tem três distorções que não existem em produção, e não há deploy desta versão para medir de fora:
+A meta de 90 está atendida em acessibilidade, SEO e no desempenho da home. **Não está atendida em boas práticas (77) nem no desempenho do post (89).**
 
-- O antivírus da máquina (Kaspersky) injeta um script em toda página aberta no navegador e bloqueia o script do Clarity. As duas reprovações de boas práticas vêm daí (uma requisição `http://` do antivírus e um erro no console), não do site.
-- `vite preview` não comprime as respostas nem envia cabeçalhos de cache; Vercel e Netlify fazem as duas coisas. O HTML da home tem 78 KB sem compressão.
-- O desempenho variou de 79 a 87 entre execuções iguais.
+### Boas práticas: 77
 
-O que ainda pesa de verdade no primeiro paint (FCP de 2,8 s na simulação): a folha de estilos, de 12 KB, é uma requisição que bloqueia a renderização, e o script do Google Analytics tem 177 KB.
+As duas reprovações têm a mesma origem, o Microsoft Clarity:
+
+- "Uses third-party cookies": 8 cookies de `clarity.ms` e `bing.com`.
+- "Issues logged in the Issues panel": avisos do Chrome sobre esses mesmos cookies.
+
+O Clarity é carregado para todo visitante, antes de qualquer escolha: o banner de cookies só informa. Para fechar a meta, as opções são carregar o Clarity só depois do aceite no banner, ou tirá-lo. As duas mudam o que o dono mede, então são decisão dele. O Google Analytics não entra nessa reprovação.
+
+### Desempenho do post: 89
+
+- A folha de estilos, de 12 KB, é uma requisição que bloqueia a renderização (cerca de 0,7 s na simulação).
+- O script do Google Analytics tem 177 KB, mais da metade do que a página baixa do próprio site.
+- As fotos dos produtos não declaram largura e altura.
+- `vite preview` não comprime as respostas nem envia cabeçalhos de cache; Vercel e Netlify fazem as duas coisas. O número em produção tende a ser melhor, mas só a medição do site publicado confirma.
+
+### Sobre a primeira medição
+
+A medição anterior, com o antivírus (Kaspersky) ligado, deu 87 e 84 de desempenho. Ele injeta um script em toda página e bloqueava o Clarity, o que escondia a reprovação real de boas práticas atrás de duas outras (uma requisição `http://` e um erro no console). Com ele desligado, boas práticas continuou em 77, pelos motivos acima.
 
 ## Como medir
 
