@@ -8,7 +8,7 @@ import { building } from "$app/env";
 const PRIVATE_PREFIXES = ["/admin", "/api"];
 const LOGIN = "/admin/login";
 const API = "/api/v1";
-/** Writes (content, uploads, forms, sign-in attempts) accepted from one address per minute. */
+/** Writes (content, uploads, forms, sign-in attempts) accepted per endpoint from one address per minute. */
 const WRITES_PER_MINUTE = 60;
 /** Changes state although it is a GET (schedulers can only call with GET), so it is limited like a write. */
 const DISPATCH_RUN = `${API}/newsletter/dispatches/run`;
@@ -25,7 +25,8 @@ export const handle: Handle = async ({ event, resolve }) => {
 	if (needsSession && !building) {
 		// Every write under /api, test login and auth included: guessing a token must not be free.
 		if (isUnder(pathname, "/api") && (event.request.method !== "GET" || pathname === DISPATCH_RUN)) {
-			const wait = rateLimit(clientAddress(event), WRITES_PER_MINUTE, 60_000);
+			// One bucket per endpoint: an admin uploading many images must not lock themselves out of saving a post.
+			const wait = rateLimit(`${clientAddress(event)} ${pathname}`, WRITES_PER_MINUTE, 60_000);
 			if (wait > 0) {
 				const response = fail(429, "rate_limited", "Too many requests. Try again shortly.");
 				response.headers.set("Retry-After", String(wait));

@@ -45,12 +45,25 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 | `/admin/posts/new`, `/admin/posts/<slug>` | Editor: campos do frontmatter, Markdown com pré-visualização, FAQ, capa, inserção de lista de produtos, exclusão |
 | `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem |
 | `/admin/media` | Imagens de `covers` e `posts`, com upload |
+| `/admin/import` | Importa uma review de um site permitido e cria um rascunho (ver "Importação por web scraping") |
 
 - As telas leem do `ContentStore` nos `+page.server.ts` e gravam pela API `/api/v1` (`src/lib/admin/api.ts`), que é o único caminho de escrita.
 - O formulário de produtos preserva as chaves que não conhece em cada produto. Id de produto deixado vazio é gerado do nome ao salvar.
 - A pré-visualização do Markdown roda em um `iframe` com `sandbox`: nenhum script do texto executa. Ela não renderiza os cartões de produto, só indica onde a lista entra.
 - **Status do deploy:** o painel compara o hash do arquivo salvo com o do arquivo empacotado no build em execução (`deploy.ts`). Diferente significa "aguardando deploy"; no editor a página se recarrega a cada 20 s até o deploy novo responder. Com o store local o aviso é "aparece no próximo build".
 - Limites conhecidos: um post cujo frontmatter não é mais válido aparece na lista como "Com erro" mas não abre no editor (corrija o arquivo no repositório); post excluído que ainda está no ar não entra na contagem "aguardando deploy"; imagem recém-enviada só carrega na biblioteca depois do deploy; os últimos commits só aparecem com o store do GitHub.
+
+## Importação por web scraping
+
+`/admin/import` recebe o endereço de uma review, chama `POST /api/v1/imports` e o serviço `importPost` (`src/lib/server/post-import.ts`) faz, em sequência: baixa a página, extrai os produtos (`webscrapping/parse.ts`), monta o rascunho (`webscrapping/build.ts`), envia as fotos com `uploadImage`, grava a lista com `saveProductList` e o post com `savePost`.
+
+- **Só sites permitidos:** `site.postImport` em `src/lib/site.config.ts` lista os hosts de página (`sourceHosts`) e de imagem (`imageHosts`). Só `https`, host exato, sem porta nem credenciais; cada redirecionamento é conferido de novo; toda requisição tem tempo limite e tamanho máximo.
+- **O que vem da origem:** nomes, fotos, ficha técnica e ordem dos `maxProducts` primeiros produtos. O texto da origem não é copiado: título, descrição, corpo e FAQ saem de modelos genéricos sobre a ficha técnica e precisam ser reescritos.
+- **O que fica para o admin:** links de afiliado (`#`), capa (vazia), revisão do texto e dos direitos das fotos. O post nasce com `draft: true`.
+- Importar a mesma página duas vezes é recusado antes de qualquer gravação. Se uma etapa falhar no meio, as fotos já enviadas ficam no store sem uso.
+- O parser é escrito para o layout do primeiro site de origem. Site novo exige host na lista e, quase sempre, parser novo.
+
+Relatório completo, limites e como rodar pela linha de comando: [webscrapping-modelation.md](webscrapping-modelation.md).
 
 ## Armazenamento de conteúdo
 

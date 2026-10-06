@@ -363,6 +363,31 @@ export function openApiDocument(version: string): Json {
 					},
 				},
 			},
+			"/imports": {
+				post: {
+					summary: "Import a review post from an allowed source site as a draft",
+					description: `Scrapes the page, uploads the photos of the first ${site.postImport.maxProducts} products and stores a product list and a draft post. Allowed hosts: ${site.postImport.sourceHosts.join(", ")}.`,
+					...admin,
+					requestBody: body({
+						type: "object",
+						required: ["url"],
+						properties: { url: { type: "string", format: "uri" } },
+					}),
+					responses: {
+						"201": ok("Draft created", {
+							type: "object",
+							required: ["slug", "list", "products", "source"],
+							properties: {
+								slug: { type: "string" },
+								list: { type: "string" },
+								products: { type: "integer" },
+								source: { type: "string" },
+							},
+						}),
+						...writeErrors,
+					},
+				},
+			},
 			"/contact": {
 				post: {
 					summary: "Send a message through the contact form",

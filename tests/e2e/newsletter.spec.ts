@@ -1,18 +1,18 @@
 import { expect, test } from "@playwright/test";
-import { ADMIN, LOGIN_TOKEN } from "./env.ts";
+import { ADMIN, LOGIN_TOKEN, open } from "./env.ts";
 
 test("a visitor subscribes in the footer and the admin sees the pending address", async ({
 	page,
 }, testInfo) => {
 	const email = `leitor-${testInfo.project.name}-${Date.now().toString(36)}@example.com`;
 
-	await page.goto("/");
+	await open(page, "/");
 	await page.getByLabel("Receba as novas análises por e-mail").fill(email);
 	await page.getByRole("button", { name: "Inscrever" }).click();
 	await expect(page.getByText("confirme a inscrição pelo link")).toBeVisible();
 
 	await page.request.post("/api/test/login", { data: { token: LOGIN_TOKEN, githubLogin: ADMIN } });
-	await page.goto("/admin/newsletter");
+	await open(page, "/admin/newsletter");
 	const row = page.getByRole("row").filter({ hasText: email });
 	await expect(row).toContainText("Aguardando confirmação");
 
@@ -21,11 +21,11 @@ test("a visitor subscribes in the footer and the admin sees the pending address"
 });
 
 test("links with an unknown token confirm and cancel nothing", async ({ page }) => {
-	await page.goto("/newsletter/confirmar?token=desconhecido");
+	await open(page, "/newsletter/confirmar?token=desconhecido");
 	await page.getByRole("button", { name: "Confirmar minha inscrição" }).click();
 	await expect(page.getByRole("alert")).toContainText("Este link de confirmação não vale mais");
 
-	await page.goto("/newsletter/sair?token=desconhecido");
+	await open(page, "/newsletter/sair?token=desconhecido");
 	await page.getByRole("button", { name: "Cancelar minha inscrição" }).click();
 	await expect(page.getByRole("alert")).toContainText("Este link não vale mais");
 });

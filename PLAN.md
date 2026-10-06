@@ -163,6 +163,28 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 **Assert:** integração — inscrever, confirmar, publicar e disparar gera exatamente um e-mail por assinante confirmado (Resend simulado); descadastrado não recebe; disparo repetido não reenvia. (Verificado em 2026-10-06: `tests/integration/newsletter.test.ts` verde, incluindo a retomada de um envio que falhou no meio sem repetir e-mail. O envio real pelo Resend não foi exercitado: depende da chave do dono.)
 
+### B7. Importação por web scraping
+
+- [x] Estudo de viabilidade: `robots.txt` da origem lido e respeitado, HTML estático lido com `fetch`, sem navegador e sem bloqueio (relatório em `docs/webscrapping-modelation.md`)
+- [x] Dependência `cheerio` 1.2.0 (parser de HTML), versão exata
+- [x] `webscrapping/parse.ts`: função pura `html + url -> dados` (nome, foto, ficha técnica, ordem)
+- [x] `webscrapping/fetch.ts`: só `https`, lista de hosts, redirecionamento conferido, tempo limite e tamanho máximo
+- [x] `webscrapping/build.ts`: rascunho gerado por modelos a partir dos fatos, sem copiar o texto da origem; 7 primeiros produtos; links `#`; capa vazia
+- [x] `webscrapping/cli.ts`: execução manual (`bun webscrapping/cli.ts <url> [--write]`)
+- [x] Hosts permitidos em `site.postImport` (`src/lib/site.config.ts`)
+- [x] Serviço `importPost` (`src/lib/server/post-import.ts`) sobre `uploadImage`, `saveProductList` e `savePost`
+- [x] Endpoint `POST /api/v1/imports` (admin), descrito no `openapi.json` e em `docs/api.md`
+- [x] Tela `/admin/import` com link para o rascunho no editor
+- [x] Testes: unitários do parser, do construtor e do `fetch` com página sintética; integração do serviço e do endpoint com store em pasta temporária e `fetch` simulado; e2e da tela (acesso e recusa de endereço)
+- [x] Um rascunho real criado pelo próprio importador: `content/posts/melhor-lava-loucas-portatil.mdx`
+- [ ] Medir uma importação com o store do GitHub em produção (cerca de 9 commits em sequência) e ajustar o tempo limite da função se preciso
+- [ ] Reescrita do texto com um LLM (decisão do dono: exige chave de API e tem custo)
+- [ ] Capa gerada ou escolhida na importação (hoje fica vazia)
+- [ ] Parser para outros sites de origem
+- [ ] Limpeza das fotos órfãs quando a importação falha no meio
+
+**Assert:** integração — importar a página sintética grava 7 fotos, a lista e o post como rascunho, sem nenhum trecho do texto da origem, e recusa host fora da lista sem fazer requisição; execução real contra um post da origem cria um rascunho que passa em `bun run test` e não aparece no build. (Verificado em 2026-10-06: `webscrapping/webscrapping.test.ts`, `tests/integration/import.test.ts` e `tests/e2e/import.spec.ts` verdes; importação real em 3,1 s com o store local; `bun run build` com o rascunho fora de `sitemap.xml` e da API.)
+
 ---
 
 ## Fase 1.0.0-rc — endurecimento e entrega (1.0.0-rc.1 → 1.0.0)
@@ -215,14 +237,17 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1 a B6 estão entregues e cobertas por testes: o painel publica posts, listas de produtos e imagens e avisa os assinantes da newsletter. A importação por web scraping (B7) está em andamento em uma worktree separada.
+Fase ALPHA publicada como `v0.1.0`. A fase BETA (B1 a B7) está entregue e coberta por testes: o painel publica posts, listas de produtos e imagens, avisa os assinantes da newsletter e importa um rascunho de um post do site de origem. Da fase 1.0.0-rc, R1 (CI/CD inativo) e R2 (segurança) estão entregues.
 
 Próximos passos, nesta ordem:
 
-1. Concluir e integrar a importação por web scraping (B7).
-2. Fase 1.0.0-rc, começando por segurança (R2).
+1. R3: desempenho e acessibilidade (imagens responsivas, Lighthouse).
+2. R4: `README.md`, `docs/deploy.md` (Vercel, Netlify, OAuth App, Neon, agendador da newsletter) e guia de uso como template.
+3. R5: release candidate.
 
-Problema conhecido: o teste e2e `home › loads more posts while scrolling` falha de forma intermitente (cerca de 1 em 6 execuções, `page.goto` sem resposta do preview). Já falhava antes desta sessão; investigar em R5.
+Itens deixados em aberto de propósito dentro de grupos já entregues: comparação visual final (A4), agendador da newsletter (B6), itens `[ ]` de B7 e de R2.
+
+Problema conhecido: sob carga, uma navegação do Playwright para a home pode não completar em 30 s (cerca de 1 em 100 testes, sempre nos primeiros segundos do servidor de preview). No CI as duas novas tentativas configuradas absorvem; a causa não foi isolada.
 
 ## Decisões
 
@@ -239,6 +264,9 @@ Problema conhecido: o teste e2e `home › loads more posts while scrolling` falh
 | 2026-10-06 | Commit e push ao fim de cada grupo de tarefas | Pedido do dono, para não perder trabalho |
 | 2026-10-06 | Commits de conteúdo com `GITHUB_TOKEN` fine-grained, não com o token OAuth do login | O escopo `repo` do OAuth daria acesso a todos os repositórios da conta; o login pede só identidade |
 | 2026-10-06 | `types.ts` (2 mil linhas) e componentes sem uso não migram | Código morto no projeto Next |
+| 2026-10-06 | Importação por scraping com `fetch` + `cheerio` 1.2.0, sem navegador | A origem entrega HTML estático; roda em função serverless da Vercel e da Netlify. Playwright não cabe nesse ambiente |
+| 2026-10-06 | Texto do rascunho importado gerado por modelos, sem copiar a origem | O app não tem LLM; copiar o texto seria problema de direito autoral e conteúdo duplicado para SEO |
+| 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono
 
@@ -246,3 +274,5 @@ Problema conhecido: o teste e2e `home › loads more posts while scrolling` falh
 - [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
 - [ ] Criar o OAuth App no GitHub e o banco Neon (passo a passo virá em `docs/deploy.md`)
 - [ ] Corrigir o billing do GitHub e ativar os workflows
+- [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
+- [ ] Decidir se a importação ganha uma etapa de reescrita com LLM (chave de API e custo por post)

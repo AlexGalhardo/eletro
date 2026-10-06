@@ -6,5 +6,5 @@
 		"types": ["$app/types", "node"],
 		"jsx": "react-jsx"
 	},
-	"include": ["src", "tests", "scripts", "vite.config.ts", "playwright.config.ts"]
+	"include": ["src", "tests", "scripts", "webscrapping", "vite.config.ts", "playwright.config.ts"]
 }

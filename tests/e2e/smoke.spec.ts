@@ -1,8 +1,18 @@
-import { readdirSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { expect, test } from "@playwright/test";
+import { isPublished, parsePost } from "../../src/lib/content/parse.ts";
 
 // Fast checks over HTTP only: every public URL answers and nothing private leaks into the indexes.
-const slugs = readdirSync("content/posts").map((file) => file.replace(/\.mdx$/, ""));
+const posts = readdirSync("content/posts").map((file) => {
+	const slug = file.replace(/\.mdx$/, "");
+	return {
+		slug,
+		published: isPublished(parsePost(slug, readFileSync(`content/posts/${file}`, "utf8")).post),
+	};
+});
+const slugs = posts.filter((post) => post.published).map((post) => post.slug);
+// Drafts and scheduled posts live in the repository but must not exist on the site.
+const hidden = posts.filter((post) => !post.published).map((post) => post.slug);
 const pages = ["/", "/sobre", "/contato", "/politica-de-privacidade", "/termos-de-uso"];
 
 test.describe("smoke", () => {
@@ -32,6 +42,18 @@ test.describe("smoke", () => {
 			expect(html, slug).toContain('"@type":"FAQPage"');
 			expect(html, slug).toContain('data-testid="cards-table"');
 			expect(html, slug).not.toContain("Nenhum produto encontrado");
+		}
+	});
+
+	test("drafts and scheduled posts are not served, listed or exposed by the API", async ({ request }) => {
+		const sitemap = await (await request.get("/sitemap.xml")).text();
+		const llms = await (await request.get("/llms.txt")).text();
+
+		for (const slug of hidden) {
+			expect((await request.get(`/${slug}`)).status(), slug).toBe(404);
+			expect((await request.get(`/api/v1/posts/${slug}`)).status(), slug).toBe(404);
+			expect(sitemap, slug).not.toContain(`/${slug}</loc>`);
+			expect(llms, slug).not.toContain(`/${slug})`);
 		}
 	});
 

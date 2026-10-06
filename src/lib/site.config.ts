@@ -67,6 +67,17 @@ export const site = {
 	/** Used when a product has no store link at all. */
 	fallbackAffiliateUrl: "https://meli.la/1gvsK3J",
 
+	/**
+	 * Post import by web scraping (`/admin/import`). The server only fetches https URLs whose host is
+	 * listed here, matched exactly: pages from `sourceHosts`, product photos from `imageHosts`.
+	 * The parser in `webscrapping/parse.ts` is written for the layout of the first source.
+	 */
+	postImport: {
+		sourceHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br"],
+		imageHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br", "m.media-amazon.com"],
+		maxProducts: 7,
+	},
+
 	analytics: {
 		googleAnalyticsId: "G-YM6VCZJPJV",
 		clarityId: "xksnzl3r9x",
