@@ -32,6 +32,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 ### Fixed
 
 - O banco local (PGlite) não iniciava em um clone novo porque a pasta `.data/` não existia.
+- Na home, pular direto para o fim da página (tecla End ou rolagem rápida no celular) não carregava mais posts.
 
 ## [0.1.0] - 2026-10-06
 
