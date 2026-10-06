@@ -41,7 +41,9 @@
 			(entries) => {
 				if (entries[0]?.isIntersecting && hasMore) visibleCount += POSTS_PER_LOAD;
 			},
-			{ threshold: 0.1, rootMargin: "100px" },
+			// The top margin covers a jump straight to the end of the page (End key, a fast fling): the sentinel
+			// is then above the viewport, hidden by the footer, and would otherwise never be seen crossing it.
+			{ rootMargin: "2000px 0px 100px 0px" },
 		);
 		observer.observe(sentinel);
 		return () => observer.disconnect();
