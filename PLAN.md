@@ -240,28 +240,68 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 - [x] Skills próprias do projeto: `project-new-post`, `project-new-product-list`, `project-release`
 - [x] Entrada local no `/admin/login` (só com o banco embutido), para abrir o painel sem criar um OAuth App
 
-**Assert:** clone limpo + `bun install` + `bun run dev` funciona seguindo só o README, sem variável obrigatória para o site público.
+**Assert:** clone limpo + `bun install` + `bun run dev` funciona seguindo só o README, sem variável obrigatória para o site público. (Verificado em 2026-10-06 em um clone novo: sem nenhuma variável, a home, um post e a API respondem 200 e `/admin` leva ao login, que lista o que falta; com as três variáveis da seção "Abrindo o painel", a entrada local cria a sessão e o painel lista os 65 posts.)
 
 ### R5. Release candidate
 
-- [ ] Todos os asserts das fases anteriores reexecutados
-- [ ] `1.0.0-rc.1` no changelog e tag criada
-- [ ] Lista de pendências conhecidas para a `1.0.0`
+- [x] Todos os asserts das fases anteriores reexecutados (tabela abaixo; três não fecham sem um deploy ou sem o dono)
+- [x] `1.0.0-rc.1` no changelog e tag criada
+- [x] Lista de pendências conhecidas para a `1.0.0` (abaixo)
 
-**Assert:** suíte completa verde a partir de um clone limpo.
+**Assert:** suíte completa verde a partir de um clone limpo. (Verificado em 2026-10-06: clone novo, `bun install`, e com `CI=true`: `bun run check`, `bun run lint`, `bun run test` com 334 testes, `bun run build` e `bun run test:e2e` com 66 testes, todos com código 0.)
+
+#### Asserts reexecutados em 2026-10-06
+
+| Grupo | Assert | Resultado |
+|---|---|---|
+| A1 | Nenhum `.env` versionado; só commits convencionais; hook recusa mensagem fora do padrão | Atendido: só `.env.example`; 0 commits fora do padrão; `commitlint` devolve 1 para uma mensagem inválida e 0 para uma válida |
+| A2 | `check`, `lint` e `build` com código 0; nenhuma dependência com `^` ou `~` | Atendido |
+| A3 | Conteúdo válido, listas e imagens referenciadas existem | Atendido (`tests/integration/content.test.ts`; 65 posts, 70 listas) |
+| A4 | Comparação visual lado a lado com o site Next | **Não executado**: adiado pelo dono. Desde então o tema claro mudou de propósito em dois tons (contraste AA) e o rodapé ganhou o formulário da newsletter |
+| A5 | Toda URL de post responde com título e JSON-LD; `robots`, `sitemap` e `llms` sem `/admin` | Atendido (`tests/e2e/smoke.spec.ts`) |
+| A6 | `test` e `test:e2e` verdes | Atendido |
+| B1 a B7 | Testes de integração e e2e de cada grupo | Atendido |
+| B4 | Review criada pelo navegador aparece no site depois do rebuild | Atendido em duas partes, como registrado no grupo; o rebuild não é automatizado |
+| R1 | `actionlint` sem erros; release em simulação; nada em `.github/workflows/` | Atendido. O job `e2e` em contêiner e o `release.yml` de ponta a ponta só fecham com os workflows ativos |
+| R2 | Nenhum achado alto ou crítico em aberto | Atendido |
+| R3 | Lighthouse 90 ou mais nas quatro categorias, no celular | **Parcial**: acessibilidade 100 e SEO 100; desempenho 87 e 84 e boas práticas 77 na medição local, com distorções da máquina. Fecha com a medição do site publicado |
+| R4 | Clone limpo roda seguindo só o README | Atendido |
+
+#### Pendências conhecidas para a 1.0.0
+
+Dependem do primeiro deploy (lista completa em `docs/deploy.md`):
+
+- [ ] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend
+- [ ] Login real pelo GitHub e um post publicado pelo painel de ponta a ponta, com o commit e o deploy
+- [ ] Cabeçalhos de segurança de `vercel.json` e `static/_headers` conferidos em produção
+- [ ] PageSpeed Insights na home e em um post (assert de R3)
+- [ ] Importação de post com o store do GitHub dentro do tempo limite da função
+- [ ] Agendador da newsletter e um envio real pelo Resend
+
+Dependem de decisão do dono:
+
+- [ ] Comparação visual final com o site Next (A4)
+- [ ] CSP (exige mover os scripts embutidos e testar o analytics)
+- [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado (leva `mdsvex` para produção)
+- [ ] Reescrita do texto importado com LLM; convenção dos links `#`; uso das fotos do CDN da Amazon
+- [ ] Ativar os workflows de CI e release (billing do GitHub)
+- [ ] Revisar o texto da Política de Privacidade sobre a newsletter
+
+Técnicas, sem bloqueio externo:
+
+- [ ] Limite de requisições em armazenamento compartilhado (hoje em memória, por instância)
+- [ ] Registro de eventos de segurança (login, recusa, 401, 429)
+- [ ] Token próprio e com validade para o descadastro da newsletter
+- [ ] Busca e paginação em `/admin/newsletter`; exclusão de lista de produtos e de imagem
+- [ ] Causa da navegação que às vezes não completa nos testes e2e sob carga
 
 ---
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA publicada como `v0.1.0`. A fase BETA (B1 a B7) está entregue e coberta por testes: o painel publica posts, listas de produtos e imagens, avisa os assinantes da newsletter e importa um rascunho de um post do site de origem. Da fase 1.0.0-rc, R1 (CI/CD inativo), R2 (segurança) e R3 (desempenho e acessibilidade, com a meta de Lighthouse ainda por confirmar em produção) estão entregues.
+Todas as fases do plano foram percorridas. ALPHA publicada como `v0.1.0`; BETA (B1 a B7) e a fase 1.0.0-rc (R1 a R5) entregues, com a versão `v1.0.0-rc.1` marcada. O que separa o release candidate da `1.0.0` está em "Pendências conhecidas para a 1.0.0", no grupo R5: quase tudo depende do primeiro deploy ou de uma decisão do dono.
 
-Próximos passos, nesta ordem:
-
-1. R4: `README.md`, `docs/deploy.md` (Vercel, Netlify, OAuth App, Neon, agendador da newsletter) e guia de uso como template.
-2. R5: release candidate.
-
-Itens deixados em aberto de propósito dentro de grupos já entregues: comparação visual final (A4), agendador da newsletter (B6), itens `[ ]` de B7 e de R2.
+Próximo passo: fazer o primeiro deploy seguindo `docs/deploy.md` e marcar a lista de conferência.
 
 Problema conhecido: sob carga, uma navegação do Playwright para a home pode não completar em 30 s (cerca de 1 em 100 testes, sempre nos primeiros segundos do servidor de preview). No CI as duas novas tentativas configuradas absorvem; a causa não foi isolada.
 

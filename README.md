@@ -2,7 +2,7 @@
 
 Template open source de blog com CMS, feito em SvelteKit 3. Os posts são arquivos Markdown no repositório, o site público é estático e quem publica usa um painel no navegador, que grava o conteúdo com commits no próprio repositório. O conteúdo de demonstração é o [EletroRadar](https://eletroradar.com.br), um site de reviews de eletrodomésticos com links de afiliado.
 
-> **Estado:** release candidate da 1.0. O site público, o painel, a API e a newsletter estão implementados e testados localmente. Ainda não houve deploy desta versão: o que depende de produção está listado em [`docs/deploy.md`](docs/deploy.md) e no [`PLAN.md`](PLAN.md).
+> **Estado:** release candidate da 1.0 (`v1.0.0-rc.1`). O site público, o painel, a API e a newsletter estão implementados e testados localmente. Ainda não houve deploy desta versão: o que depende de produção está listado em [`docs/deploy.md`](docs/deploy.md) e no [`PLAN.md`](PLAN.md).
 
 ## Recursos
 
