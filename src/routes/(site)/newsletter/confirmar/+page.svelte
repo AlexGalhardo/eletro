@@ -39,7 +39,7 @@
 			type="button"
 			onclick={confirm}
 			disabled={loading}
-			class="mt-6 rounded-lg bg-green-600 px-5 py-2.5 font-semibold text-white transition-colors hover:bg-green-700 disabled:cursor-not-allowed disabled:opacity-60"
+			class="mt-6 rounded-lg bg-green-700 px-5 py-2.5 font-semibold text-white transition-colors hover:bg-green-800 disabled:cursor-not-allowed disabled:opacity-60"
 		>
 			{loading ? "Confirmando..." : "Confirmar minha inscrição"}
 		</button>

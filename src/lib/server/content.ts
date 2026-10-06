@@ -1,3 +1,4 @@
+import { coverWidths as widthsOf } from "../content/cover.ts";
 import { isPublished, parsePost } from "../content/parse.ts";
 import { type Post, type Product, productListSchema } from "../content/schema.ts";
 
@@ -11,6 +12,16 @@ const productFiles = import.meta.glob<unknown>("/content/products/*.json", {
 	eager: true,
 	import: "default",
 });
+
+// Only the keys are used: they tell which resized covers the build produced (none in development).
+const coverCopies = new Set(
+	Object.keys(import.meta.glob("/static/images/covers/w*/*.webp")).map((file) =>
+		file.slice("/static".length),
+	),
+);
+
+/** Widths of the resized copies of a cover. Sent to the page instead of the URLs, which it can rebuild. */
+export const coverWidths = (cover: string): number[] => widthsOf(cover, (url) => coverCopies.has(url));
 
 const nameOf = (path: string) => path.slice(path.lastIndexOf("/") + 1).replace(/\.(mdx|json)$/, "");
 

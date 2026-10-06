@@ -140,7 +140,7 @@
 					<a href="/" class="flex items-center gap-2 transition-opacity hover:opacity-80">
 						<img src={site.logo} alt="Logo" width="36" height="36" />
 						<span class="font-russo-one text-lg leading-none text-black uppercase dark:text-white">
-							{site.logoText[0]}<span class="text-green-600 dark:text-green-500">{` ${site.logoText[1]}`}</span>
+							{site.logoText[0]}<span class="text-green-700 dark:text-green-500">{` ${site.logoText[1]}`}</span>
 						</span>
 					</a>
 				</div>

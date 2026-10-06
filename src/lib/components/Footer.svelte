@@ -13,7 +13,7 @@
 		{ href: "/politica-de-privacidade", label: "Política de Privacidade" },
 	];
 
-	const heading = "text-xs font-bold tracking-wider text-gray-500 uppercase dark:text-gray-400";
+	const heading = "text-xs font-bold tracking-wider text-gray-600 uppercase dark:text-gray-400";
 	const link =
 		"text-sm font-semibold text-gray-800 transition-colors hover:text-blue-600 dark:text-gray-200 dark:hover:text-blue-400";
 </script>
@@ -25,7 +25,7 @@
 				<a href="/" class="inline-flex items-center gap-2 transition-opacity hover:opacity-80">
 					<img src={site.logo} alt="" width="36" height="36" loading="lazy" />
 					<span class="font-russo-one text-lg leading-none text-black uppercase dark:text-white">
-						{site.logoText[0]}<span class="text-green-600 dark:text-green-500">{` ${site.logoText[1]}`}</span>
+						{site.logoText[0]}<span class="text-green-800 dark:text-green-500">{` ${site.logoText[1]}`}</span>
 					</span>
 				</a>
 				<p class="mt-4 max-w-md text-sm! leading-relaxed text-gray-700 dark:text-gray-300">
@@ -80,7 +80,7 @@
 				© {year}
 				{site.domain}
 			</p>
-			<p class="text-xs! text-gray-500 dark:text-gray-400">Todos os direitos reservados.</p>
+			<p class="text-xs! text-gray-600 dark:text-gray-400">Todos os direitos reservados.</p>
 		</div>
 	</div>
 </footer>

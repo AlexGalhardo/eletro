@@ -76,7 +76,7 @@ Para criar um componente novo: adicione o arquivo em `src/lib/components/`, regi
 
 ## Imagens
 
-- Capas: `static/images/covers/`, WebP, proporção 16:9.
+- Capas: `static/images/covers/`, WebP, proporção 16:9. Envie no tamanho que tiver: o build gera as cópias menores (ver [`performance.md`](performance.md)). As pastas `w480/`, `w768/` e `w1280/` são saída de build.
 - Produtos: `static/images/posts/`.
 - Autores: `static/images/avatars/`.
 

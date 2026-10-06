@@ -1,4 +1,4 @@
-import { getPosts } from "#lib/server/content.ts";
+import { coverWidths, getPosts } from "#lib/server/content.ts";
 
 export function load() {
 	return {
@@ -7,6 +7,7 @@ export function load() {
 			title,
 			description,
 			cover,
+			coverWidths: coverWidths(cover),
 			date,
 			category,
 		})),

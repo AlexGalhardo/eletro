@@ -162,3 +162,40 @@ test("unknown pages show a 404 with a way back", async ({ page }) => {
 	await page.getByRole("link", { name: "Voltar para o início" }).click();
 	await expect(page).toHaveURL("/");
 });
+
+test.describe("keyboard", () => {
+	test.skip(({ isMobile }) => isMobile, "Tab navigation is a desktop interaction");
+
+	for (const path of ["/", POST]) {
+		test(`every Tab stop on ${path} is visible and has a name`, async ({ page }) => {
+			await page.goto(path);
+
+			const stops: string[] = [];
+			for (let index = 0; index < 12; index++) {
+				await page.keyboard.press("Tab");
+				const stop = await page.evaluate(() => {
+					const element = document.activeElement as HTMLElement | null;
+					if (!element || element === document.body) return null;
+					const box = element.getBoundingClientRect();
+					return {
+						name: (
+							element.getAttribute("aria-label") ||
+							element.textContent ||
+							element.getAttribute("placeholder") ||
+							element.getAttribute("title") ||
+							""
+						).trim(),
+						visible: box.width > 0 && box.height > 0,
+						tag: element.tagName.toLowerCase(),
+					};
+				});
+				expect(stop, `Tab ${index + 1} lost the focus`).not.toBeNull();
+				expect(stop?.visible, `Tab ${index + 1} landed on a hidden <${stop?.tag}>`).toBe(true);
+				expect(stop?.name, `Tab ${index + 1} landed on an unnamed <${stop?.tag}>`).not.toBe("");
+				stops.push(`${stop?.tag}:${stop?.name}`);
+			}
+			// Focus really moves: it is not stuck on one element.
+			expect(new Set(stops).size).toBeGreaterThan(6);
+		});
+	}
+});

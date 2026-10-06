@@ -27,7 +27,7 @@
 <form onsubmit={submit} class="max-w-md">
 	<label
 		for="newsletter-email"
-		class="text-xs font-bold tracking-wider text-gray-500 uppercase dark:text-gray-400"
+		class="text-xs font-bold tracking-wider text-gray-600 uppercase dark:text-gray-400"
 	>
 		Receba as novas análises por e-mail
 	</label>
@@ -45,7 +45,7 @@
 		<button
 			type="submit"
 			disabled={loading}
-			class="shrink-0 rounded-lg bg-green-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-green-700 disabled:cursor-not-allowed disabled:opacity-60"
+			class="shrink-0 rounded-lg bg-green-700 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-green-800 disabled:cursor-not-allowed disabled:opacity-60"
 		>
 			{loading ? "Enviando..." : "Inscrever"}
 		</button>
