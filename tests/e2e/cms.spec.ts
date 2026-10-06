@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { expect, test } from "@playwright/test";
-import { ADMIN, CONTENT_ROOT, LOGIN_TOKEN } from "./env.ts";
+import { ADMIN, CONTENT_ROOT, LOGIN_TOKEN, open } from "./env.ts";
 
 // Only the signature matters: the server recognises the format from the first bytes.
 const PNG = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 1, 2, 3]);
@@ -21,7 +21,7 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 	expect(login.status()).toBe(200);
 
 	await test.step("creates a product list with two products", async () => {
-		await page.goto("/admin/products");
+		await open(page, "/admin/products");
 		await page.getByRole("link", { name: "Nova lista" }).click();
 
 		await field("Nome da lista").fill(list);
@@ -56,7 +56,7 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 	});
 
 	await test.step("writes the post with a cover, the list and a FAQ", async () => {
-		await page.goto("/admin/posts");
+		await open(page, "/admin/posts");
 		await page.getByRole("link", { name: "Novo post" }).click();
 
 		await field("Título").fill("Melhor Cafeteira de Teste");
@@ -110,7 +110,7 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 	});
 
 	await test.step("finds the post in the list, edits it and refuses a broken body", async () => {
-		await page.goto("/admin/posts");
+		await open(page, "/admin/posts");
 		await field("Buscar").fill(slug);
 		const row = page.getByRole("row").filter({ hasText: "Melhor Cafeteira de Teste" });
 		await expect(row).toHaveCount(1);
@@ -131,16 +131,16 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 	});
 
 	await test.step("shows the upload in the media library and the totals on the dashboard", async () => {
-		await page.goto("/admin/media");
+		await open(page, "/admin/media");
 		await expect(page.getByText(`/images/covers/capa-${id}.png`)).toBeVisible();
 
-		await page.goto("/admin");
+		await open(page, "/admin");
 		await expect(page.getByText("Posts publicados")).toBeVisible();
 		await expect(page.getByText("Assinantes confirmados")).toBeVisible();
 	});
 
 	await test.step("deletes the post", async () => {
-		await page.goto(`/admin/posts/${slug}`);
+		await open(page, `/admin/posts/${slug}`);
 		page.once("dialog", (dialog) => dialog.accept());
 		await page.getByRole("button", { name: "Excluir" }).click();
 

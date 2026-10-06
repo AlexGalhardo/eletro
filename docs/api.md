@@ -26,6 +26,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `POST /media` | admin | Upload multipart (`file`, `folder`) |
 | `POST /newsletter/dispatches` | admin | Coloca o aviso de um post (`slug`) na fila |
 | `POST /newsletter/dispatches/run` | admin ou `CRON_SECRET` | Envia a fila; `GET` faz o mesmo só com o `CRON_SECRET` |
+| `POST /imports` | admin | Importa uma review de um site permitido como rascunho (`url`). Ver [webscrapping-modelation.md](webscrapping-modelation.md) |
 
 ## Regras
 
@@ -42,7 +43,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | 401 | `unauthorized` | Escrita sem sessão de admin |
 | 404 | `not_found` | Recurso não existe |
 | 409 | `conflict` | Já existe, ou `sha` desatualizado |
-| 429 | `rate_limited` | Mais de 60 escritas por minuto do mesmo endereço em todo `/api` (`Retry-After` em segundos) |
+| 429 | `rate_limited` | Mais de 60 escritas por minuto do mesmo endereço no mesmo endpoint, em todo `/api` (`Retry-After` em segundos) |
 | 500 | `internal_error` | Erro inesperado (detalhe só no log do servidor) |
 
 ## Limites conhecidos
