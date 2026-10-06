@@ -22,6 +22,8 @@
 		"test:watch": "vitest",
 		"test:e2e": "playwright test",
 		"test:e2e:install": "playwright install chromium",
+		"db:generate": "drizzle-kit generate",
+		"db:migrate": "drizzle-kit migrate",
 		"verify": "bun run check && bun run lint && bun run test && bun run build && bun run test:e2e"
 	},
 	"imports": {
@@ -29,13 +31,18 @@
 		"#lib/*": "./src/lib/*"
 	},
 	"dependencies": {
+		"@electric-sql/pglite": "0.5.8",
 		"@fontsource/inter": "5.3.0",
 		"@fontsource/russo-one": "5.3.0",
 		"@lucide/svelte": "1.52.0",
+		"@neondatabase/serverless": "1.2.0",
 		"@react-email/components": "1.0.12",
 		"@react-email/render": "2.1.0",
+		"better-auth": "1.7.7",
+		"drizzle-orm": "0.45.3",
 		"fuse.js": "7.5.0",
 		"gray-matter": "4.0.3",
+		"marked": "18.1.0",
 		"react": "19.3.0",
 		"react-dom": "19.3.0",
 		"resend": "6.32.0",
@@ -53,6 +60,7 @@
 		"@types/node": "24.19.1",
 		"@types/react": "19.3.0",
 		"@types/react-dom": "19.3.0",
+		"drizzle-kit": "0.31.11",
 		"husky": "9.1.7",
 		"markdownlint-cli2": "0.23.3",
 		"mdsvex": "0.12.8",

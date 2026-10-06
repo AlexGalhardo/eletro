@@ -22,7 +22,7 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 |---|---|
 | Framework | SvelteKit 3 + Svelte 5 (runes) + Vite 8, `adapter-auto` (Vercel e Netlify) |
 | Conteúdo | Arquivos no repositório: `content/posts/*.mdx` (mdsvex) e `content/products/*.json`. Site público pré-renderizado no build |
-| Escrita pelo admin | Commit via API do GitHub com o token OAuth de quem logou; o deploy publica em 1 a 2 min. Em dev e testes, grava no disco local |
+| Escrita pelo admin | Commit via API do GitHub com `GITHUB_TOKEN` (token fine-grained restrito a um repositório), assinado com o nome de quem logou; o deploy publica em 1 a 2 min. Em dev e testes, grava no disco local |
 | Autenticação | better-auth com login GitHub, restrito à lista `ADMIN_GITHUB_USERS`; sessões no Postgres |
 | Banco | Postgres Neon + Drizzle ORM (auth e newsletter). PGlite em dev e testes, sem Docker |
 | Newsletter | Double opt-in, descadastro em um clique, e-mails com react-email enviados pelo Resend. Disparo fica pendente até a URL do post responder 200 |
@@ -79,7 +79,7 @@ Objetivo: o site atual rodando em SvelteKit, idêntico para o visitante.
 - [x] Páginas Sobre, Contato (envio pelo Resend), Política de Privacidade, Termos de Uso, 404
 - [x] Redirects 301 antigos avaliados e descartados (nunca funcionaram no site Next e apontavam para slugs de outro site)
 - [x] Rodapé novo, mais profissional
-- [~] Comparação visual final contra o site Next após as últimas correções
+- [ ] Comparação visual final contra o site Next (adiada a pedido do dono em 2026-10-06; uma rodada já foi feita e corrigiu tipografia, borda dos cartões, ícone e logotipo)
 
 **Assert:** comparação visual lado a lado (Playwright) de home, post e contato contra o site Next atual, em claro e escuro, desktop e celular, sem diferença além do rodapé.
 
@@ -108,25 +108,26 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 ### B1. Banco de dados
 
-- [ ] Drizzle + Neon; PGlite quando `DATABASE_URL` não está definido
-- [ ] Migrations versionadas e script `db:migrate`
+- [~] Drizzle + Neon; PGlite quando `DATABASE_URL` não está definido (código escrito em `src/lib/server/db/`, ainda não exercitado por teste nem contra um Neon real)
+- [x] Migrations versionadas (`drizzle/0000_init.sql`) e scripts `db:generate` e `db:migrate`
 
 **Assert:** testes de integração sobem um PGlite limpo, aplicam as migrations e passam.
 
 ### B2. Autenticação
 
-- [ ] better-auth com provedor GitHub e sessões no Postgres
-- [ ] Lista `ADMIN_GITHUB_USERS`; quem não está na lista não cria sessão
-- [ ] `/admin/**` redireciona para `/admin/login` sem sessão; `/admin/login` redireciona para `/admin` com sessão
-- [ ] Cabeçalho `X-Robots-Tag: noindex` em `/admin` e `/api`
+- [~] better-auth com provedor GitHub e sessões no Postgres (`src/lib/server/auth.ts` escrito; falta testar o fluxo)
+- [~] Lista `ADMIN_GITHUB_USERS`; quem não está na lista não cria sessão (implementado, sem teste)
+- [~] `/admin/**` redireciona para `/admin/login` sem sessão; `/admin/login` redireciona para `/admin` com sessão (guarda em `hooks.server.ts`; a página de login ainda não existe)
+- [x] Cabeçalho `X-Robots-Tag: noindex` em `/admin` e `/api`
 
 **Assert:** e2e — visitante anônimo em `/admin` e `/admin/posts` cai em `/admin/login`; usuário fora da lista é recusado; API de escrita sem sessão responde 401.
 
 ### B3. Camada de conteúdo com escrita
 
-- [ ] `ContentStore` com implementação GitHub (commits) e disco local (dev e testes)
-- [ ] Criar, editar, despublicar e excluir post; criar e editar lista de produtos; upload de imagem
-- [ ] Mensagens de commit `content: ...` e tratamento de conflito de versão (SHA)
+- [x] `ContentStore` com implementação GitHub (commits) e disco local (dev e testes)
+- [x] Criar, editar, despublicar e excluir post; criar e editar lista de produtos; upload de imagem (`src/lib/server/cms.ts`)
+- [x] Validação do corpo do post contra tudo o que o mdsvex trataria como código, para um post nunca quebrar o deploy
+- [x] Mensagens de commit `content: ...` e tratamento de conflito de versão (SHA)
 
 **Assert:** testes de integração do store local cobrindo o ciclo completo; teste do store GitHub com a API simulada, incluindo conflito 409.
 
@@ -207,6 +208,18 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ---
 
+## Onde a sessão de 2026-10-06 parou
+
+Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, a camada de servidor de B1, B2 e B3 está escrita; só B3 está coberta por testes. Ainda não existe nenhuma tela em `/admin`.
+
+Próximos passos, nesta ordem:
+
+1. Teste de integração do banco (PGlite + migrations) e do `auth.ts`, incluindo a rota de login de teste (`AUTH_TEST_LOGIN_TOKEN`).
+2. `/admin/login` e o layout do painel; e2e do redirecionamento.
+3. Rotas `/api/v1` de posts, produtos e mídia sobre `cms.ts`.
+4. Telas de posts, produtos e mídia (B4).
+5. Newsletter (B6): as tabelas já estão no schema.
+
 ## Decisões
 
 | Data | Decisão | Motivo |
@@ -220,6 +233,7 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 | 2026-10-06 | Biome v2 no lugar de ESLint e Prettier; markdownlint para a documentação | Pedido do dono |
 | 2026-10-06 | Plugin de tipografia do Tailwind removido | As classes `prose` nunca estiveram ativas no site original; ativá-las mudava o visual |
 | 2026-10-06 | Commit e push ao fim de cada grupo de tarefas | Pedido do dono, para não perder trabalho |
+| 2026-10-06 | Commits de conteúdo com `GITHUB_TOKEN` fine-grained, não com o token OAuth do login | O escopo `repo` do OAuth daria acesso a todos os repositórios da conta; o login pede só identidade |
 | 2026-10-06 | `types.ts` (2 mil linhas) e componentes sem uso não migram | Código morto no projeto Next |
 
 ## Pendências do dono

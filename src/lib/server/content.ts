@@ -39,3 +39,8 @@ export function getProductList(list: string): Product[] | undefined {
 export function getProductListNames(): string[] {
 	return [...productLists.keys()].sort();
 }
+
+/** Raw text of every bundled post (drafts and scheduled included), keyed by slug. Used by the admin. */
+export function getBundledPostSources(): Map<string, string> {
+	return new Map(Object.entries(postFiles).map(([path, raw]) => [nameOf(path), raw]));
+}

@@ -57,3 +57,22 @@ export type Post = PostFrontmatter & {
 	readingMinutes: number;
 	wordCount: number;
 };
+
+// --- Input accepted by the admin dashboard and the REST API ---------------------
+
+export const slugSchema = z
+	.string()
+	.min(3)
+	.max(96)
+	.regex(SLUG_PATTERN, "Use lowercase letters, numbers and hyphens only");
+
+/** A post as edited: frontmatter fields plus the Markdown body. */
+export const postInputSchema = postFrontmatterSchema.extend({
+	body: z.string().min(1, "The post body is empty"),
+});
+
+export const productListInputSchema = z.object({
+	products: productListSchema.min(1, "Add at least one product"),
+});
+
+export type PostInput = z.infer<typeof postInputSchema>;
