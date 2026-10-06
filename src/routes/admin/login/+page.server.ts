@@ -1,5 +1,6 @@
-import { githubConfigured, missingAuthConfig } from "#lib/server/auth.ts";
+import { githubConfigured, missingAuthConfig, testLoginToken } from "#lib/server/auth.ts";
 
 export function load() {
-	return { missing: missingAuthConfig(), github: githubConfigured() };
+	// Only whether the local sign-in exists is sent to the page, never the token.
+	return { missing: missingAuthConfig(), github: githubConfigured(), local: Boolean(testLoginToken()) };
 }

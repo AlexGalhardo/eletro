@@ -31,7 +31,7 @@ Texto em Markdown.
 | `description` | não | Usado na home, em metatags e no `llms.txt` |
 | `date` | sim | `AAAA-MM-DD`. Data futura agenda o post |
 | `category` | sim | Um `id` de `site.categories` |
-| `cover` | não | Caminho em `static/` ou URL absoluta |
+| `cover` | não | `/images/covers/<arquivo>` que exista em `static/`, ou uma URL `https://` |
 | `draft` | não | `true` tira o post do site, do sitemap e da API |
 | `author` | não | Uma chave de `site.authors`; padrão `site.defaultAuthor` |
 | `faqData` | não | Vira JSON-LD `FAQPage` |

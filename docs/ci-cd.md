@@ -69,4 +69,4 @@ Resultado da última simulação e o que ela não cobre: grupo R1 do [`PLAN.md`]
 
 ## Deploy
 
-O deploy não passa pelo Actions: Vercel e Netlify publicam a cada push na `main`, inclusive os commits `content:` feitos pelo painel. O passo a passo da hospedagem fica para `docs/deploy.md`.
+O deploy não passa pelo Actions: Vercel e Netlify publicam a cada push na `main`, inclusive os commits `content:` feitos pelo painel. O passo a passo da hospedagem está em [`deploy.md`](deploy.md).
