@@ -165,6 +165,8 @@ Pattern: [LLM output handling](references/hardening-patterns.md#llm-output-handl
 
 Before sign-off, walk `../../references/security-checklist.md`: it covers authentication, authorization, input, data protection and privacy, headers and CORS, dependencies and supply chain, AI/LLM, and error handling, plus the OWASP quick-reference tables.
 
+Then check the change against the current [OWASP Top Ten](https://owasp.org/projects/top-ten): fetch the page, because the list is revised every few years and the categories in this skill may be behind it. Go through each category of the current edition and record, for every one, either the control that covers it or why it does not apply. A category with no answer is an open finding.
+
 ## Common Rationalizations
 
 | Rationalization | Reality |
@@ -204,6 +206,7 @@ After implementing security-relevant code:
 
 - [ ] The native audit has no unmitigated reachable critical/high findings; CI preserves the authoritative lockfile and blocks unreviewed dependency scripts
 - [ ] No secrets in source code or git history
+- [ ] Every category of the current OWASP Top Ten (<https://owasp.org/projects/top-ten>) has a control or a stated reason it does not apply
 - [ ] All user input validated at system boundaries
 - [ ] Destructive filesystem operations resolve symlinks, then verify allowlisted root, minimum depth, and ownership before running
 - [ ] Authentication and authorization checked on every protected endpoint
