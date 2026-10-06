@@ -6,6 +6,8 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.1] - 2026-10-06
+
 ### Added
 
 - Base da fase BETA, ainda sem interface: schema e migração do banco (Drizzle, Neon ou PGlite), autenticação com better-auth e GitHub restrita a `ADMIN_GITHUB_USERS`, e proteção das rotas `/admin`.
@@ -86,5 +88,6 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/compare/v1.0.0-rc.1...HEAD
+[1.0.0-rc.1]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/compare/v0.1.0...v1.0.0-rc.1
 [0.1.0]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/releases/tag/v0.1.0
