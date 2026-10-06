@@ -26,8 +26,9 @@
 	{#if googleSiteVerification}
 		<meta name="google-site-verification" content={googleSiteVerification} />
 	{/if}
-	<!-- Trackers stay out of development, tests and the admin so only real visits reach the reports. -->
-	{#if !dev && !page.url.pathname.startsWith("/admin")}
+	<!-- Trackers stay out of development, tests and the admin so only real visits reach the reports,
+		and out of the newsletter pages, whose address carries the token of a subscriber. -->
+	{#if !dev && !/^\/(admin|newsletter)(\/|$)/.test(page.url.pathname)}
 		{#if googleAnalyticsId}
 			<script async src="https://www.googletagmanager.com/gtag/js?id={googleAnalyticsId}"></script>
 		{/if}

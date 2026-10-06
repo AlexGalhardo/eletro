@@ -22,7 +22,8 @@ test("a visitor subscribes in the footer and the admin sees the pending address"
 
 test("links with an unknown token confirm and cancel nothing", async ({ page }) => {
 	await page.goto("/newsletter/confirmar?token=desconhecido");
-	await expect(page.getByRole("heading", { name: "Link inválido" })).toBeVisible();
+	await page.getByRole("button", { name: "Confirmar minha inscrição" }).click();
+	await expect(page.getByRole("alert")).toContainText("Este link de confirmação não vale mais");
 
 	await page.goto("/newsletter/sair?token=desconhecido");
 	await page.getByRole("button", { name: "Cancelar minha inscrição" }).click();
@@ -30,7 +31,7 @@ test("links with an unknown token confirm and cancel nothing", async ({ page }) 
 });
 
 test("newsletter pages stay out of search engines", async ({ request }) => {
-	for (const path of ["/newsletter/confirmar?token=x", "/newsletter/sair"]) {
+	for (const path of ["/newsletter/confirmar", "/newsletter/sair"]) {
 		expect(await (await request.get(path)).text(), path).toContain(
 			'<meta name="robots" content="noindex"',
 		);

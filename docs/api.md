@@ -15,6 +15,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `GET /openapi.json` | público | Descrição OpenAPI |
 | `POST /contact` | público | Mensagem do formulário de contato |
 | `POST /newsletter/subscribers` | público | Inscrição na newsletter (`email`); responde 202 sempre |
+| `POST /newsletter/confirm` | público | Confirma a inscrição com o `token` do e-mail |
 | `POST /newsletter/unsubscribe` | público | Descadastro com o `token` do e-mail |
 | `POST /posts` | admin | Cria um post (`slug` + campos do post) |
 | `PUT /posts/{slug}` | admin | Substitui o post (`sha` + campos do post) |
@@ -41,7 +42,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | 401 | `unauthorized` | Escrita sem sessão de admin |
 | 404 | `not_found` | Recurso não existe |
 | 409 | `conflict` | Já existe, ou `sha` desatualizado |
-| 429 | `rate_limited` | Mais de 60 escritas por minuto do mesmo endereço (`Retry-After` em segundos) |
+| 429 | `rate_limited` | Mais de 60 escritas por minuto do mesmo endereço em todo `/api` (`Retry-After` em segundos) |
 | 500 | `internal_error` | Erro inesperado (detalhe só no log do servidor) |
 
 ## Limites conhecidos

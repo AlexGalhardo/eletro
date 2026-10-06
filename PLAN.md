@@ -179,10 +179,13 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ### R2. Segurança
 
-- [ ] Revisão com a skill `security-and-hardening`: CSRF, cabeçalhos, CSP, sanitização do Markdown, validação de upload, limite de tentativas
-- [ ] Varredura de segredos no repositório e no histórico
+- [x] Revisão com a skill `security-and-hardening` e o OWASP Top Ten 2025: CSRF, cabeçalhos, sanitização do Markdown, validação de upload, limite de tentativas (relatório em `docs/security.md`)
+- [x] Varredura de segredos no repositório e no histórico (nada encontrado)
+- [ ] CSP: exige tirar os scripts embutidos de `app.html` e `+layout.svelte` e testar o analytics em um deploy real
+- [ ] Conferir em um deploy real os cabeçalhos de `vercel.json` e `static/_headers`
+- [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado que quebra o build (leva `mdsvex` para produção: decisão do dono)
 
-**Assert:** relatório de segurança sem achado alto ou crítico em aberto.
+**Assert:** relatório de segurança sem achado alto ou crítico em aberto. (Verificado em 2026-10-06: o único achado alto, o contorno do `validateBody` por chaves codificadas, foi corrigido com teste; em aberto ficam só médios e baixos, listados em `docs/security.md`.)
 
 ### R3. Desempenho e acessibilidade
 

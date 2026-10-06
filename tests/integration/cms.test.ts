@@ -1,7 +1,7 @@
 import { mkdtemp, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import path from "node:path";
-import { afterEach, beforeEach, describe, expect, it } from "vitest";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { validateBody } from "../../src/lib/content/validate-body.ts";
 import {
 	deletePost,
@@ -203,6 +203,31 @@ describe("local images", () => {
 			author,
 		);
 		await savePost(store, "melhor-cafeteira", withCover, author);
+	});
+});
+
+describe("store paths", () => {
+	it("never read or write outside the repository, whatever path reaches the store", async () => {
+		const github = createGitHubStore({ token: "t", repo: "owner/repo", branch: "main", fetch: vi.fn() });
+
+		for (const path of [
+			"static/../../../user/emails",
+			"content/posts/../../secret",
+			"./content",
+			"content//x",
+		]) {
+			await expect(store.read(path)).rejects.toThrow("Unsafe content path");
+			await expect(github.read(path)).rejects.toThrow("Unsafe content path");
+			await expect(store.write(path, encode("x"), { message: "m", author })).rejects.toThrow(
+				"Unsafe content path",
+			);
+		}
+	});
+
+	it("refuses a cover that points outside the images folder before touching the store", async () => {
+		await expect(
+			savePost(store, "melhor-cafeteira", { ...post, cover: "/../../secret.txt" }, author),
+		).rejects.toThrow(ValidationError);
 	});
 });
 

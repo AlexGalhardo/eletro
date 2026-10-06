@@ -1,4 +1,4 @@
-import { ConflictError, type ContentStore, type HistoryEntry } from "./types.ts";
+import { assertSafePath, ConflictError, type ContentStore, type HistoryEntry } from "./types.ts";
 
 type Options = { token: string; repo: string; branch: string; fetch?: typeof fetch };
 
@@ -10,8 +10,11 @@ const fromBase64 = (text: string) => new Uint8Array(Buffer.from(text, "base64"))
  * https://docs.github.com/en/rest/repos/contents
  */
 export function createGitHubStore({ token, repo, branch, fetch: request = fetch }: Options): ContentStore {
-	const url = (filePath: string) =>
-		`https://api.github.com/repos/${repo}/contents/${filePath.split("/").map(encodeURIComponent).join("/")}`;
+	const url = (filePath: string) => {
+		// encodeURIComponent leaves ".." alone, and the URL parser would then resolve it to another endpoint.
+		assertSafePath(filePath);
+		return `https://api.github.com/repos/${repo}/contents/${filePath.split("/").map(encodeURIComponent).join("/")}`;
+	};
 
 	const headers = {
 		Accept: "application/vnd.github+json",

@@ -15,9 +15,10 @@ import {
 // No RESEND_API_KEY: the mailer records every e-mail in `outbox` instead of sending it.
 vi.mock("$app/env/private", async () => {
 	const { testEnv } = await import("./env.ts");
-	return testEnv({ CRON_SECRET: "cron-secret" });
+	return testEnv({ CRON_SECRET: "cron-secret-0123456789abcdef0123456789" });
 });
 
+import * as confirmation from "../../src/routes/api/v1/newsletter/confirm/+server.ts";
 import * as dispatches from "../../src/routes/api/v1/newsletter/dispatches/+server.ts";
 import * as run from "../../src/routes/api/v1/newsletter/dispatches/run/+server.ts";
 import * as subscribers from "../../src/routes/api/v1/newsletter/subscribers/+server.ts";
@@ -78,7 +79,7 @@ describe("subscription", () => {
 	});
 
 	it("does not e-mail a pending address again right away, nor a confirmed one ever", async () => {
-		const later = new Date(Date.now() + 11 * 60 * 1000);
+		const later = new Date(Date.now() + 25 * 60 * 60 * 1000);
 
 		await subscribe(db, "ana@example.com", ORIGIN);
 		await subscribe(db, "ana@example.com", ORIGIN);
@@ -92,6 +93,23 @@ describe("subscription", () => {
 
 		await subscribe(db, "ana@example.com", ORIGIN, later);
 		expect(outbox).toHaveLength(2);
+	});
+
+	it("stops e-mailing confirmations once too many addresses were added within the hour", async () => {
+		await db.insert(subscriber).values(
+			Array.from({ length: 60 }, (_, index) => ({
+				id: `flood-${index}`,
+				email: `flood${index}@example.com`,
+				token: `flood-token-${index}`,
+			})),
+		);
+
+		await subscribe(db, "ana@example.com", ORIGIN);
+		expect(outbox).toHaveLength(0);
+
+		// An hour later the window is clear again.
+		await subscribe(db, "ana@example.com", ORIGIN, new Date(Date.now() + 61 * 60 * 1000));
+		expect(outbox).toHaveLength(1);
 	});
 
 	it("unsubscribes with the token and lets the address subscribe again later", async () => {
@@ -214,6 +232,16 @@ describe("endpoints", () => {
 		expect((await call(subscribers.POST, "POST", { email: "not-an-email" })).status).toBe(400);
 	});
 
+	it("confirms with the token of the e-mail and answers 404 to an unknown one", async () => {
+		await subscribe(db, "ana@example.com", ORIGIN);
+		const token = await tokenOf(outbox[0] as Email);
+
+		expect((await call(confirmation.POST, "POST", { token: "unknown" })).status).toBe(404);
+		expect(await statusOf("ana@example.com")).toBe("pending");
+		expect((await call(confirmation.POST, "POST", { token })).status).toBe(200);
+		expect(await statusOf("ana@example.com")).toBe("confirmed");
+	});
+
 	it("unsubscribes with a valid token and answers 404 to an unknown one", async () => {
 		const token = await confirmed("ana@example.com");
 
@@ -245,7 +273,7 @@ describe("endpoints", () => {
 		expect((await call(run.GET, "GET", undefined, "wrong-secret")).status).toBe(401);
 		expect((await call(run.GET, "GET", undefined, "admin")).status).toBe(401);
 
-		const sent = await call(run.GET, "GET", undefined, "cron-secret");
+		const sent = await call(run.GET, "GET", undefined, "cron-secret-0123456789abcdef0123456789");
 		expect(sent.json.data).toEqual([{ slug: "melhor-airfryer-8-litros", status: "sent", recipients: 1 }]);
 		expect(outbox).toHaveLength(1);
 

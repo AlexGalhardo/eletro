@@ -6,6 +6,7 @@ import {
 	AUTH_TEST_LOGIN_TOKEN,
 	BETTER_AUTH_SECRET,
 	BETTER_AUTH_URL,
+	DATABASE_URL,
 	GITHUB_CLIENT_ID,
 	GITHUB_CLIENT_SECRET,
 } from "$app/env/private";
@@ -24,8 +25,12 @@ export type AdminUser = {
 const isProductionDeploy = () =>
 	process.env.VERCEL_ENV === "production" || process.env.CONTEXT === "production";
 
-/** Test login is a backdoor by design, so it only exists outside production and behind a secret token. */
-export const testLoginToken = () => (isProductionDeploy() ? undefined : AUTH_TEST_LOGIN_TOKEN);
+/**
+ * Test login is a backdoor by design, so it fails closed: it only exists with the local PGlite database
+ * (never with a real DATABASE_URL, whose sessions a production deploy may share) and never in a production deploy.
+ */
+export const testLoginToken = () =>
+	isProductionDeploy() || DATABASE_URL ? undefined : AUTH_TEST_LOGIN_TOKEN;
 
 export const githubConfigured = () => Boolean(GITHUB_CLIENT_ID && GITHUB_CLIENT_SECRET);
 

@@ -30,6 +30,12 @@ export class ConflictError extends Error {
 	}
 }
 
+/** Store paths are built from validated names, but a path that climbs out of the repository is refused anyway. */
+export function assertSafePath(path: string): void {
+	if (path.split("/").some((segment) => segment === ".." || segment === "." || segment === ""))
+		throw new Error(`Unsafe content path: "${path}"`);
+}
+
 /** Same hash Git gives a file, so local and GitHub stores report identical versions. */
 export function blobSha(bytes: Uint8Array): string {
 	return createHash("sha1").update(`blob ${bytes.byteLength}\0`).update(bytes).digest("hex");

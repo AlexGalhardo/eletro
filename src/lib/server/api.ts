@@ -44,7 +44,8 @@ export async function respond(run: () => Response | Promise<Response>): Promise<
 /** The commit author for a write, or a 401 when nobody is signed in. */
 export function requireAdmin(locals: { admin: AdminUser | null }): Author {
 	if (!locals.admin) throw new ApiError(401, "unauthorized", "Sign in as an admin to use this endpoint");
-	return { name: locals.admin.name, email: locals.admin.email };
+	// The GitHub noreply address: content commits are public and must not carry the private e-mail of the account.
+	return { name: locals.admin.name, email: `${locals.admin.githubLogin}@users.noreply.github.com` };
 }
 
 export function parse<T>(schema: z.ZodType<T>, value: unknown): T {

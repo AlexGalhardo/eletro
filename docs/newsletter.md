@@ -5,7 +5,7 @@ Aviso por e-mail de post novo, com confirmação da inscrição (double opt-in) 
 ## Fluxo
 
 1. **Inscrição:** o formulário do rodapé (`NewsletterForm.svelte`) chama `POST /api/v1/newsletter/subscribers`. O endereço entra como `pending` e recebe o e-mail de confirmação. A resposta é sempre a mesma (202), para o formulário não revelar quem já é assinante.
-2. **Confirmação:** o link do e-mail abre `/newsletter/confirmar?token=...`, que marca o assinante como `confirmed`. Só quem confirmou recebe e-mail.
+2. **Confirmação:** o link do e-mail abre `/newsletter/confirmar?token=...`. A página pede um clique no botão, que chama `POST /api/v1/newsletter/confirm` e marca o assinante como `confirmed`. Só quem confirmou recebe e-mail.
 3. **Aviso de post:** no editor do post, a opção "Avisar assinantes da newsletter quando o post estiver no ar" cria um envio `pending` para aquele post (`POST /api/v1/newsletter/dispatches`).
 4. **Envio:** `POST /api/v1/newsletter/dispatches/run` envia cada envio da fila cujo post já está publicado no deploy em execução. Quem chama: o botão "Enviar fila agora" em `/admin/newsletter`, ou um agendador com `Authorization: Bearer <CRON_SECRET>` (também aceita `GET`, que é como o Vercel Cron chama).
 5. **Descadastro:** todo e-mail de post traz o link `/newsletter/sair?token=...` (e o cabeçalho `List-Unsubscribe`). A página pede um clique no botão, que chama `POST /api/v1/newsletter/unsubscribe`.
@@ -19,7 +19,7 @@ Aviso por e-mail de post novo, com confirmação da inscrição (double opt-in) 
 | Retomar sem duplicar | Cada e-mail enviado vira uma linha em `newsletter_delivery`; uma nova tentativa pula quem já recebeu |
 | Duas execuções ao mesmo tempo | A execução "pega" o envio com um `UPDATE ... WHERE status = 'pending'`; só uma consegue |
 | Só depois de o post estar no ar | O envio confere o conteúdo empacotado no build: rascunho, post agendado ou ainda não publicado fica na fila |
-| Caixa de entrada não vira alvo | Endereço `pending` só recebe nova confirmação depois de 10 minutos; a API limita escritas por endereço IP |
+| Caixa de entrada não vira alvo | Endereço `pending` recebe no máximo uma confirmação a cada 24 horas; no total saem até 60 confirmações por hora; a API limita escritas por endereço IP |
 
 ## Estados
 
@@ -32,7 +32,7 @@ Aviso por e-mail de post novo, com confirmação da inscrição (double opt-in) 
 |---|---|
 | `RESEND_API_KEY` | Sem ela os e-mails não saem: ficam registrados em memória e no log (é assim nos testes) |
 | `RESEND_FROM_EMAIL` | Remetente; o domínio precisa estar verificado no Resend |
-| `CRON_SECRET` | Token que o agendador envia para rodar a fila |
+| `CRON_SECRET` | Token que o agendador envia para rodar a fila. Com menos de 32 caracteres é ignorado |
 
 O agendador não está configurado no repositório. Sem ele, a fila só anda pelo botão do painel. Para automatizar, agende uma chamada a `/api/v1/newsletter/dispatches/run` com o `CRON_SECRET` (passo a passo previsto para `docs/deploy.md`).
 
@@ -40,7 +40,9 @@ O agendador não está configurado no repositório. Sem ele, a fila só anda pel
 
 - Os links dos e-mails usam `site.url` em produção (nunca o cabeçalho `Host` da requisição) e a origem da requisição em desenvolvimento.
 - Se o processo cair entre o envio de um lote (até 100 e-mails) e o registro dele, a nova tentativa repete aquele lote.
-- O descadastro pede um clique na página, não acontece ao abrir o link: leitores de e-mail abrem links sozinhos e cancelariam inscrições por engano. O `POST` de um clique do RFC 8058 não é oferecido, porque a proteção CSRF do SvelteKit recusa `POST` de formulário vindo de outra origem.
+- Com o teto de 60 confirmações por hora atingido, novas inscrições ficam registradas mas não recebem o e-mail naquela hora (o servidor registra um aviso no log).
+- As páginas da newsletter não carregam os scripts de analytics: o endereço delas leva o token do assinante.
+- A confirmação e o descadastro pedem um clique na página, não acontecem ao abrir o link: leitores de e-mail abrem links sozinhos e cancelariam inscrições por engano. O `POST` de um clique do RFC 8058 não é oferecido, porque a proteção CSRF do SvelteKit recusa `POST` de formulário vindo de outra origem.
 - Agendador deve chamar com `GET`. Um `POST` sem corpo vindo de fora do navegador é recusado pela proteção CSRF do SvelteKit (403), a não ser que envie `Content-Type: application/json`.
 - `/admin/newsletter` mostra os 200 assinantes e os 100 envios mais recentes, sem busca.
 

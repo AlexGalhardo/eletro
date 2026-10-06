@@ -22,8 +22,9 @@ export async function sendEmails(emails: Email[]): Promise<void> {
 
 	if (!RESEND_API_KEY) {
 		outbox.push(...emails);
+		// The address stays out of the log: subscriber e-mails are personal data.
 		for (const email of emails)
-			console.info(`[mailer] RESEND_API_KEY not set; skipped "${email.subject}" to ${email.to}`);
+			console.info(`[mailer] RESEND_API_KEY not set; skipped "${email.subject}"`);
 		return;
 	}
 

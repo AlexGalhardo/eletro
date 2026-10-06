@@ -1,5 +1,5 @@
 import { randomBytes, randomUUID } from "node:crypto";
-import { and, eq, inArray, ne, notInArray } from "drizzle-orm";
+import { and, count, eq, gt, inArray, ne, notInArray } from "drizzle-orm";
 import { site } from "../site.config.ts";
 import type { Database } from "./db/index.ts";
 import { type NewsletterDispatch, newsletterDelivery, newsletterDispatch, subscriber } from "./db/schema.ts";
@@ -8,8 +8,15 @@ import { type Email, sendEmails } from "./mailer.ts";
 
 /** Resend accepts at most 100 e-mails per batch request. */
 const BATCH = 100;
-/** A pending address is not e-mailed again before this, so the form cannot be used to flood an inbox. */
-const RESEND_CONFIRMATION_AFTER_MS = 10 * 60 * 1000;
+/** A pending address gets at most one confirmation e-mail per day, so the form cannot be used to flood an inbox. */
+const RESEND_CONFIRMATION_AFTER_MS = 24 * 60 * 60 * 1000;
+/**
+ * Confirmation e-mails sent per hour, all addresses together. A script feeding the form with made-up
+ * addresses would otherwise burn the e-mail quota and the reputation of the sending domain.
+ * ponytail: while the cap is hit, real visitors are silently not e-mailed either; raise it or add a
+ * challenge (Turnstile) to the form if the site ever gets more than this many sign-ups an hour.
+ */
+const CONFIRMATIONS_PER_HOUR = 60;
 
 const newToken = () => randomBytes(32).toString("base64url");
 
@@ -37,6 +44,20 @@ export async function subscribe(
 		now.getTime() - existing.createdAt.getTime() < RESEND_CONFIRMATION_AFTER_MS
 	)
 		return;
+
+	const [recent] = await db
+		.select({ total: count() })
+		.from(subscriber)
+		.where(
+			and(
+				eq(subscriber.status, "pending"),
+				gt(subscriber.createdAt, new Date(now.getTime() - 3_600_000)),
+			),
+		);
+	if ((recent?.total ?? 0) >= CONFIRMATIONS_PER_HOUR) {
+		console.warn("[newsletter] hourly confirmation cap reached; a subscription was not e-mailed");
+		return;
+	}
 
 	const token = newToken();
 	if (existing) {

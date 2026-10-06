@@ -6,6 +6,19 @@ export const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const categoryIds = site.categories.map((category) => category.id) as [string, ...string[]];
 const authorIds = Object.keys(site.authors) as [string, ...string[]];
 
+const isHttps = (url: string) => /^https:\/\/\S+$/.test(url);
+
+/**
+ * An image of the site (`/images/...`) or an https URL. Nothing else: these values end up in `src` and `href`
+ * attributes and in paths read from the content store, so no other scheme and no way out of the images folder.
+ */
+const imageUrl = z
+	.string()
+	.refine(
+		(url) => (/^\/images\/[A-Za-z0-9/_.-]+$/.test(url) && !url.includes("..")) || isHttps(url),
+		"Use an image under /images/ or an https:// address",
+	);
+
 export const faqItemSchema = z.object({
 	question: z.string().min(1),
 	answer: z.string().min(1),
@@ -18,7 +31,7 @@ export const postFrontmatterSchema = z.object({
 	/** Publication date (YYYY-MM-DD). A future date schedules the post. */
 	date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "Use the YYYY-MM-DD format"),
 	category: z.enum(categoryIds),
-	cover: z.string().default(""),
+	cover: z.union([z.literal(""), imageUrl]).default(""),
 	draft: z.boolean().default(false),
 	author: z.enum(authorIds).default(site.defaultAuthor),
 	faqData: z.array(faqItemSchema).default([]),
@@ -31,13 +44,17 @@ export const technicalDetailSchema = z.object({
 	value: z.string(),
 });
 
-const optionalUrl = z.string().nullish();
+/** A store link: empty or "#" while the admin has not filled it in, otherwise https only. */
+const optionalUrl = z
+	.string()
+	.refine((url) => url === "" || url === "#" || isHttps(url), "Use an https:// address")
+	.nullish();
 
 /** One product inside a list in `content/products/<list>.json`. Unknown keys are kept as they are. */
 export const productSchema = z.looseObject({
 	id: z.string().min(1),
 	name: z.string().min(1),
-	image: z.string().min(1),
+	image: z.union([z.literal("#"), imageUrl]),
 	mercadolivreUrl: optionalUrl,
 	shopeeUrl: optionalUrl,
 	amazonUrl: optionalUrl,

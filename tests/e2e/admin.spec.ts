@@ -15,6 +15,17 @@ test.describe("admin access", () => {
 		});
 	}
 
+	test("server-rendered responses carry the security headers", async ({ request }) => {
+		for (const path of ["/admin/login", "/api/v1/health"]) {
+			const headers = (await request.get(path)).headers();
+
+			expect(headers["x-frame-options"], path).toBe("DENY");
+			expect(headers["x-content-type-options"], path).toBe("nosniff");
+			expect(headers["referrer-policy"], path).toBe("strict-origin-when-cross-origin");
+		}
+		expect((await request.get("/admin/login")).headers()["cache-control"]).toBe("no-store");
+	});
+
 	test("the login page is never indexable", async ({ request }) => {
 		const response = await request.get("/admin/login");
 
