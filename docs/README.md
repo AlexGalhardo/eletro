@@ -22,6 +22,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [api.md](api.md) | Usar ou alterar a API REST `/api/v1` |
 | [newsletter.md](newsletter.md) | Mexer na inscrição, nos e-mails ou no envio de avisos de post |
 | [ci-cd.md](ci-cd.md) | Entender os workflows, ativar o CI ou lançar uma versão |
+| [webscrapping-modelation.md](webscrapping-modelation.md) | Entender ou alterar a importação de posts por web scraping (`webscrapping/`, `/admin/import`) |
 | [prompts/](prompts/) | Prompts usados pelo dono para gerar posts, FAQs, JSON de produtos e capas |
 
 Documentos previstos para as próximas fases (ainda não existem): `deploy.md`.
