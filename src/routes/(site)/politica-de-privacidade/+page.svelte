@@ -26,7 +26,9 @@
 				<h2 class="mb-4 text-xl font-semibold text-black dark:text-gray-200">O Que Coletamos</h2>
 				<div class="rounded-lg p-4">
 					<p class="mb-3 text-black dark:text-white">
-						<strong>Não coletamos dados pessoais</strong> como nome, email, telefone ou endereço.
+						<strong>Não coletamos dados pessoais</strong> como nome, telefone ou endereço. O seu email só é guardado
+						se você se inscrever para receber as novas análises: ele é usado apenas para esses avisos, nunca é
+						compartilhado, e todo email enviado traz um link para cancelar a inscrição.
 					</p>
 					<p class="mb-0 text-black dark:text-white">
 						Coletamos apenas informações técnicas através de cookies para melhorar sua experiência no site,

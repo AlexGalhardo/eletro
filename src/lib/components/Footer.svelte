@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { site } from "#lib/site.config.ts";
+	import NewsletterForm from "./NewsletterForm.svelte";
 
 	const year = new Date().getFullYear();
 
@@ -59,6 +60,10 @@
 					{/each}
 				</ul>
 			</nav>
+		</div>
+
+		<div class="border-t border-gray-200 py-8 dark:border-zinc-800">
+			<NewsletterForm />
 		</div>
 
 		<div class="border-t border-gray-200 py-6 dark:border-zinc-800">

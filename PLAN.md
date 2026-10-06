@@ -154,13 +154,14 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 ### B6. Newsletter
 
-- [ ] Tabelas de assinantes e de envios
-- [ ] Formulário de inscrição no site, confirmação por e-mail, descadastro em um clique
-- [ ] Templates react-email: confirmação, post novo, contato
-- [ ] Opção "avisar assinantes" ao publicar; envio pendente até a URL do post estar no ar; envio em lotes pelo Resend, sem duplicar
-- [ ] Tela `/admin/newsletter`: assinantes, envios e reenvio manual
+- [x] Tabelas de assinantes, de envios e de entregas (`newsletter_delivery`, migration `0001`)
+- [x] Formulário de inscrição no site, confirmação por e-mail, descadastro em um clique (um clique no botão da página aberta pelo link do e-mail)
+- [x] Templates react-email: confirmação, post novo, contato
+- [x] Opção "avisar assinantes" ao publicar; envio pendente até o post estar no ar; envio em lotes pelo Resend, sem duplicar
+- [x] Tela `/admin/newsletter`: assinantes, envios e reenvio manual
+- [ ] Agendador chamando `/api/v1/newsletter/dispatches/run` (fica para `docs/deploy.md`, em R4; até lá a fila anda pelo botão do painel)
 
-**Assert:** integração — inscrever, confirmar, publicar e disparar gera exatamente um e-mail por assinante confirmado (Resend simulado); descadastrado não recebe; disparo repetido não reenvia.
+**Assert:** integração — inscrever, confirmar, publicar e disparar gera exatamente um e-mail por assinante confirmado (Resend simulado); descadastrado não recebe; disparo repetido não reenvia. (Verificado em 2026-10-06: `tests/integration/newsletter.test.ts` verde, incluindo a retomada de um envio que falhou no meio sem repetir e-mail. O envio real pelo Resend não foi exercitado: depende da chave do dono.)
 
 ---
 
@@ -211,11 +212,11 @@ Objetivo: template pronto para outra pessoa clonar e colocar em produção.
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1 a B5 estão entregues e cobertas por testes: o painel publica posts, listas de produtos e imagens. Falta a newsletter (B6).
+Fase ALPHA entregue e publicada como `v0.1.0`. Na BETA, B1 a B6 estão entregues e cobertas por testes: o painel publica posts, listas de produtos e imagens e avisa os assinantes da newsletter. A importação por web scraping (B7) está em andamento em uma worktree separada.
 
 Próximos passos, nesta ordem:
 
-1. Newsletter (B6): as tabelas já estão no schema.
+1. Concluir e integrar a importação por web scraping (B7).
 2. Fase 1.0.0-rc, começando por segurança (R2).
 
 Problema conhecido: o teste e2e `home › loads more posts while scrolling` falha de forma intermitente (cerca de 1 em 6 execuções, `page.goto` sem resposta do preview). Já falhava antes desta sessão; investigar em R5.
@@ -239,5 +240,6 @@ Problema conhecido: o teste e2e `home › loads more posts while scrolling` falh
 ## Pendências do dono
 
 - [ ] Revogar no Resend a chave que estava no `.env.example` antigo, caso seja real
+- [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
 - [ ] Criar o OAuth App no GitHub e o banco Neon (passo a passo virá em `docs/deploy.md`)
 - [ ] Corrigir o billing do GitHub e ativar os workflows

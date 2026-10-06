@@ -41,6 +41,13 @@ const saved = (key: string) => ({
 	properties: { [key]: { type: "string" }, sha: { type: "string" } },
 });
 
+const status = { type: "object", required: ["status"], properties: { status: { type: "string" } } };
+const dispatch = {
+	type: "object",
+	required: ["slug", "status", "recipients"],
+	properties: { slug: { type: "string" }, status: { type: "string" }, recipients: { type: "integer" } },
+};
+
 /** Schemas come from the same zod definitions that validate the content, so the document cannot drift from them. */
 const inputSchema = (schema: z.ZodType) => {
 	const { $schema: _, ...rest } = z.toJSONSchema(schema, { io: "input" }) as Json;
@@ -269,6 +276,77 @@ export function openApiDocument(version: string): Json {
 					},
 				},
 			},
+			"/newsletter/subscribers": {
+				post: {
+					summary: "Subscribe to the newsletter (double opt-in)",
+					requestBody: body({
+						type: "object",
+						required: ["email"],
+						properties: { email: { type: "string", format: "email" } },
+					}),
+					responses: {
+						"202": ok(
+							"Confirmation e-mail on its way, whatever the state of the address",
+							status,
+						),
+						"400": failure("Invalid e-mail"),
+						"429": failure("Too many requests from this address"),
+					},
+				},
+			},
+			"/newsletter/unsubscribe": {
+				post: {
+					summary: "Unsubscribe with the token of a newsletter e-mail",
+					requestBody: body({
+						type: "object",
+						required: ["token"],
+						properties: { token: { type: "string" } },
+					}),
+					responses: {
+						"200": ok("Unsubscribed", status),
+						"400": failure("Missing token"),
+						"404": failure("Unknown token"),
+						"429": failure("Too many requests from this address"),
+					},
+				},
+			},
+			"/newsletter/dispatches": {
+				post: {
+					summary: "Queue the announcement of a post to the subscribers",
+					...admin,
+					requestBody: body({ type: "object", required: ["slug"], properties: { slug } }),
+					responses: {
+						"202": ok("Queued, or already queued or sent", dispatch),
+						...writeErrors,
+						"404": failure("Unknown post"),
+					},
+				},
+			},
+			"/newsletter/dispatches/run": {
+				post: {
+					summary: "Send the queued announcements whose post is live",
+					security: [{ session: [] }, { cron: [] }],
+					responses: {
+						"200": ok("What happened to each queued dispatch", {
+							type: "array",
+							items: dispatch,
+						}),
+						"401": failure("Neither an admin session nor the cron token"),
+						"429": failure("Too many writes from this address"),
+					},
+				},
+				get: {
+					summary: "Same as POST, for schedulers that only call with GET",
+					security: [{ cron: [] }],
+					responses: {
+						"200": ok("What happened to each queued dispatch", {
+							type: "array",
+							items: dispatch,
+						}),
+						"401": failure("Missing or wrong cron token"),
+					},
+				},
+			},
 			"/contact": {
 				post: {
 					summary: "Send a message through the contact form",
@@ -308,6 +386,7 @@ export function openApiDocument(version: string): Json {
 		components: {
 			securitySchemes: {
 				session: { type: "apiKey", in: "cookie", name: "better-auth.session_token" },
+				cron: { type: "http", scheme: "bearer", description: "The CRON_SECRET of the deploy" },
 			},
 			schemas: {
 				Error: {

@@ -14,6 +14,8 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `GET /products/{list}` | público | Produtos de uma lista |
 | `GET /openapi.json` | público | Descrição OpenAPI |
 | `POST /contact` | público | Mensagem do formulário de contato |
+| `POST /newsletter/subscribers` | público | Inscrição na newsletter (`email`); responde 202 sempre |
+| `POST /newsletter/unsubscribe` | público | Descadastro com o `token` do e-mail |
 | `POST /posts` | admin | Cria um post (`slug` + campos do post) |
 | `PUT /posts/{slug}` | admin | Substitui o post (`sha` + campos do post) |
 | `DELETE /posts/{slug}?sha=` | admin | Exclui o post |
@@ -21,6 +23,8 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `PUT /products/{list}` | admin | Substitui a lista (`sha`, `products`) |
 | `GET /media?folder=` | admin | Imagens de `covers` ou `posts` |
 | `POST /media` | admin | Upload multipart (`file`, `folder`) |
+| `POST /newsletter/dispatches` | admin | Coloca o aviso de um post (`slug`) na fila |
+| `POST /newsletter/dispatches/run` | admin ou `CRON_SECRET` | Envia a fila; `GET` faz o mesmo só com o `CRON_SECRET` |
 
 ## Regras
 
@@ -45,6 +49,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 - O limite de requisições fica na memória de cada instância do servidor. Em plataforma serverless cada instância conta separado; é uma barreira contra abuso simples, não uma garantia.
 - Requisição de escrita sem corpo (o `DELETE`) feita fora do navegador precisa do cabeçalho `Origin` do próprio site: sem ele a proteção CSRF do SvelteKit responde 403.
 - Não há endpoint para excluir lista de produtos nem imagem.
+- `GET /newsletter/dispatches/run` altera estado apesar de ser `GET`: existe porque agendadores como o Vercel Cron só chamam com `GET`. Detalhes em [`newsletter.md`](newsletter.md).
 - As operações não têm `operationId` no `openapi.json`.
 
 ## Onde fica o código

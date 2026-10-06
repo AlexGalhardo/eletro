@@ -1,11 +1,9 @@
-import { createHash, timingSafeEqual } from "node:crypto";
 import { error, json } from "@sveltejs/kit";
 import { z } from "zod";
+import { safeEqual } from "#lib/server/api.ts";
 import { testLogin, testLoginToken } from "#lib/server/auth.ts";
 
 const bodySchema = z.object({ token: z.string().min(1), githubLogin: z.string().min(1) });
-
-const digest = (value: string) => createHash("sha256").update(value).digest();
 
 /** Session shortcut for automated tests. It does not exist unless AUTH_TEST_LOGIN_TOKEN is set, and never in production. */
 export async function POST({ request }) {
@@ -13,8 +11,7 @@ export async function POST({ request }) {
 	if (!expected) error(404, "Not found");
 
 	const parsed = bodySchema.safeParse(await request.json().catch(() => null));
-	// Hashing first gives both sides the same length, which timingSafeEqual requires.
-	if (!parsed.success || !timingSafeEqual(digest(parsed.data.token), digest(expected))) {
+	if (!parsed.success || !safeEqual(parsed.data.token, expected)) {
 		return json(
 			{ error: { code: "unauthorized", message: "Invalid test login token" } },
 			{ status: 401 },
