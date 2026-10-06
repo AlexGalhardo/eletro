@@ -1,0 +1,219 @@
+[
+	{
+		"id": "mondial-vtx-40c-8p-140w-coluna",
+		"name": "Mondial VTX-40C-8P 140W (coluna)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1hF9FgZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Painel touch integrado com 3 velocidades ajustáveis",
+			"Design aerodinâmico Super Turbo com hélice de 8 pás",
+			"Coluna ajustável entre 1,19m e 1,50m",
+			"Possui ajustes com controle remoto",
+			"Sistema oscilante contínuo e grade/hélice removíveis para limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "coluna" },
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "8" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "sim" },
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal; coluna ajustável (1,19 a 1,50m); painel touch; alça de transporte; porta-fio embutido"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 50 x 47,5cm" },
+			{ "label": "Peso", "value": "5,1kg" }
+		]
+	},
+	{
+		"id": "arno-x-treme-9-ve90-160w-mesa",
+		"name": "Arno X-TREME 9 VE90 160W (mesa)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2D88FdZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 160W com alcance de vento de até 12 metros",
+			"Hélice de 9 pás com fluxo mais intenso",
+			"Área Power Zone direciona vento de alta intensidade",
+			"Design Chevron Zone reduz o ruído da grade",
+			"Estrutura desmontável facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Número de pás", "value": "9" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia X-TREME; Power Zone; grade Chevron Zone; oscilação horizontal de 80°; 4 inclinações verticais; base desmontável; alça traseira"
+			},
+			{ "label": "Voltagem", "value": "não especificado" },
+			{ "label": "Dimensões (A x L x P)", "value": "64,7 x 48,6 x 35,3cm" },
+			{ "label": "Peso", "value": "3kg" }
+		]
+	},
+	{
+		"id": "mondial-vsp-40-b-140w-mesa",
+		"name": "Mondial VSP-40-B 140W (mesa)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2PtVMZr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design leve com apenas 2,6kg",
+			"Sistema oscilante distribui melhor a ventilação",
+			"Três velocidades ajustáveis com baixo nível de ruído",
+			"Tecnologia Super Power oferece ventilação mais estável",
+			"Grade frontal e hélice destacáveis para limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio embutido; Vento Super Power; grade e hélice removíveis; alça de transporte; sistema Oscilante Contínuo; baixo nível de ruído"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "61 x 45 x 30,5cm" },
+			{ "label": "Peso", "value": "2,6kg" }
+		]
+	},
+	{
+		"id": "mondial-nvt-40c-8p-b-140w-coluna",
+		"name": "Mondial NVT-40C-8P-B 140W (coluna)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2eHKdXu",
+		"shopeeUrl": null,
+		"advantages": [
+			"Coluna com regulagem de altura até 1,50m",
+			"Ventilação intensa com hélices de 8 pás e potência de 140W",
+			"Oscilação horizontal amplia o alcance do ar",
+			"Funcionamento silencioso e inclinação vertical ajustável",
+			"Grades e hélice destacáveis facilitam a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "coluna" },
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "8" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "Vento Turbo; sistema oscilante horizontal; grade frontal/traseira e hélice removíveis; coluna ajustável (1,19 a 1,50m); inclinação vertical regulável; alça de transporte"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 48,5 x 48,5cm" },
+			{ "label": "Peso", "value": "4,9kg" }
+		]
+	},
+	{
+		"id": "arno-turbo-force-vf42-126w-mesa",
+		"name": "Arno Turbo Force VF42 126W (mesa)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2osMcPC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Instalação 2 em 1: pode ser usado na mesa ou parede",
+			"Motor potente de 126W com função Turbo",
+			"Classificação energética A reduz o consumo elétrico",
+			"Funcionamento silencioso em todas as velocidades",
+			"Oscilação e inclinação ajustáveis melhoram o direcionamento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa/parede" },
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "função turbo; tecnologia Power Zone; oscilação horizontal; grade removível; instalação 2 em 1; inclinação regulável; eficiência energética A"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "55,5 x 34,1 x 49,3cm" },
+			{ "label": "Peso", "value": "2,95kg" }
+		]
+	},
+	{
+		"id": "electrolux-efficient-efd40-126w-mesa",
+		"name": "Electrolux Efficient EFD40 126W (mesa)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/238iNL5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia DuoForce Air+ oferece alcance de até 17 metros",
+			"Hélice com design aerodinâmico e 6 pás",
+			"Eficiência energética A em todas as velocidades",
+			"Sistema oscilante com um toque e ajuste vertical em 3 posições",
+			"Modo Turbo aumenta o fluxo de ar em dias mais quentes"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia DuoForce Air+; sistema oscilante; base multifuncional; enrolador de cabo; alça de transporte; grades e hélice removíveis; ajuste vertical em 3 posições"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "65,4 x 47,9 x 34cm" },
+			{ "label": "Peso", "value": "3,55kg" }
+		]
+	},
+	{
+		"id": "mondial-vsp-40c-b-140w-coluna",
+		"name": "Mondial VSP-40C-B 140W (coluna)",
+		"image": "/images/posts/ventilador-40cm-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Lv88Va",
+		"shopeeUrl": null,
+		"advantages": [
+			"Três velocidades ajustáveis, incluindo modo turbo",
+			"Coluna ajustável entre 1,19m e 1,50m de altura",
+			"Funcionamento silencioso com sistema oscilante contínuo",
+			"Inclinação vertical regulável",
+			"Grade frontal/traseira e hélice fáceis de remover para limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "coluna" },
+			{ "label": "Potência", "value": "140W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{
+				"label": "Recursos extras",
+				"value": "vento Super Power; sistema oscilante contínuo; coluna ajustável entre 1,19m e 1,50m; grade frontal removível; porta-fio embutido; alça traseira; baixo nível de ruído"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 47,5 x 47,5cm" },
+			{ "label": "Peso", "value": "4,8kg" }
+		]
+	}
+]

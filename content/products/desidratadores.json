@@ -1,0 +1,178 @@
+[
+	{
+		"id": "desidratador-md-home-h24",
+		"name": "MD Home H24 2000W (24 bandejas)",
+		"image": "https://m.media-amazon.com/images/I/41zvpodrEAL._SS520_.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1pgPUty",
+		"shopeeUrl": null,
+		"advantages": [
+			"Possui 24 bandejas removíveis com capacidade total de 24kg",
+			"Alta potência de 2000W",
+			"Corpo e bandejas em aço inoxidável",
+			"Temperatura ajustável de 30°C a 90°C",
+			"Timer programável de 30 minutos a 24 horas com desligamento automático",
+			"Possui paredes duplas reforçadas que mantêm o calor interno",
+			"Luz interna com controle pelo painel",
+			"Funcionamento extremamente silencioso",
+			"Desidrata frutas, verduras, ervas, carnes, queijos, vegetais, massas, suspiro, glacê e temperos",
+			"Acompanha livro de receitas",
+			"Garantia de 3 meses"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Preço elevado"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "2000W" },
+			{ "label": "Capacidade", "value": "24 bandejas removíveis" },
+			{ "label": "Material", "value": "aço inoxidável" },
+			{ "label": "Faixa de temperatura", "value": "30°C a 90°C" },
+			{ "label": "Temporizador", "value": "ajustável (30 minutos a 24 horas)" },
+			{ "label": "Painel", "value": "digital" },
+			{ "label": "Iluminação interna", "value": "sim" },
+			{
+				"label": "Alimentos indicados",
+				"value": "frutas, verduras, ervas, suspiro, glacê, temperos, queijos, vegetais, massas, carnes, legumes"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "90 x 45 x 50cm" },
+			{ "label": "Peso", "value": "31kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "desidratador-md-home-h18",
+		"name": "MD Home H18 800W (18 bandejas)",
+		"image": "https://http2.mlstatic.com/D_Q_NP_2X_996161-MLB88813448600_082025-V-desidratadora-industrial-profissional-18-bandejas-800w.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1mqsTod",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle ajustável nos modos ventilador, baixo, médio e alto",
+			"Controle de temperatura com máxima de 90°C",
+			"Possui 800W de potência",
+			"Inclui 18 bandejas",
+			"Estrutura em aço inoxidável",
+			"Indicado para carnes, frutas, legumes, ervas, queijos, vegetais, massas, temperos, iogurte, flores secas e muito mais",
+			"Possui display digital",
+			"Garantia de 3 meses"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Preço relativamente alto"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "800W" },
+			{ "label": "Capacidade", "value": "18 bandejas removíveis" },
+			{ "label": "Material", "value": "aço inoxidável" },
+			{ "label": "Faixa de temperatura", "value": "35°C a 90°C" },
+			{ "label": "Temporizador", "value": "ajustável" },
+			{ "label": "Painel", "value": "digital" },
+			{
+				"label": "Alimentos indicados",
+				"value": "frutas, verduras, ervas, suspiro, glacê, temperos, queijos, vegetais, massas, carnes, legumes, peixes, batata frita, iogurte e flores secas"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "55 x 30 x 30cm" },
+			{ "label": "Peso", "value": "11,27kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "desidratador-ariete-0616-b-dry",
+		"name": "Ariete 0616 B-Dry 245W (5 bandejas)",
+		"image": "https://m.media-amazon.com/images/I/4134BKth1PL._SS520_.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1TJdnU6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Bandejas transparentes para acompanhar a secagem",
+			"Desidrata frutas, vegetais, legumes, cogumelos, ervas e carnes",
+			"Temperatura ajustável de 35°C a 70°C",
+			"Peso de apenas 2,40kg com estrutura compacta",
+			"Conta com 5 bandejas intercambiáveis"
+		],
+		"disadvantages": ["Ausência de temporizador", "Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "245W" },
+			{ "label": "Capacidade", "value": "5 bandejas removíveis" },
+			{ "label": "Material", "value": "não especificado" },
+			{ "label": "Faixa de temperatura", "value": "35°C a 70°C" },
+			{ "label": "Temporizador", "value": "não possui" },
+			{ "label": "Painel", "value": "mecânico" },
+			{ "label": "Iluminação interna", "value": "não especificado" },
+			{ "label": "Alimentos indicados", "value": "frutas, vegetais, legumes, cogumelos, ervas e carnes" },
+			{ "label": "Dimensões (A x L x P)", "value": "27 x 32 x 32cm" },
+			{ "label": "Peso", "value": "2,40kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "desidratador-md-home-h6",
+		"name": "MD Home H6 500W (6 bandejas)",
+		"image": "https://m.media-amazon.com/images/I/3104IUORX8L._SS520_.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/15ZAzpH",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade para 3kg de alimentos",
+			"Possui 6 bandejas removíveis e estrutura em aço inox",
+			"Temperatura com ajustes de 30°C a 90°C",
+			"Timer programável de 30 minutos a 24 horas com desligamento automático",
+			"Possui paredes duplas reforçadas",
+			"Conta com iluminação interna",
+			"Indicado para frutas, ervas, verduras, carnes, legumes, queijos, massas, cereais, suspiros e glacê",
+			"Acompanha livro de receitas",
+			"Garantia de 3 meses"
+		],
+		"disadvantages": [
+			"Disponível apenas em 127V ou 220V (não é bivolt)",
+			"Potência e capacidade um pouco menores do que outros modelos industriais da lista"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Capacidade", "value": "6 bandejas removíveis" },
+			{ "label": "Material", "value": "aço inoxidável" },
+			{ "label": "Faixa de temperatura", "value": "30°C a 90°C" },
+			{ "label": "Temporizador", "value": "ajustável (30 minutos a 24 horas)" },
+			{ "label": "Painel", "value": "digital" },
+			{ "label": "Iluminação interna", "value": "sim" },
+			{
+				"label": "Alimentos indicados",
+				"value": "cereais, ervas, frutas, glacê, queijos, suspiros, temperos, verduras, massas, carnes e legumes"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "33 x 39,5 x 45cm" },
+			{ "label": "Peso", "value": "8kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "desidratador-lmba-temp8",
+		"name": "LMBA Temp8 700W (8 bandejas)",
+		"image": "https://http2.mlstatic.com/D_Q_NP_2X_985179-MLB111812414996_062026-V.webp",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2LN6o3K",
+		"shopeeUrl": null,
+		"advantages": [
+			"Painel de controle por toque",
+			"Vem com 8 bandejas removíveis e laváveis de aço inoxidável",
+			"Corpo em aço inoxidável",
+			"Potência de 700W",
+			"Permite ajuste de temperatura de 35°C a 85°C",
+			"Timer ajustável de até 24 horas",
+			"Conta com porta transparente e luz LED interna para melhor visualização dos alimentos",
+			"Inclui bandeja de gotejamento",
+			"Acompanha livro de receitas",
+			"Permite desidratar frutas, legumes, carnes, ervas, peixes, pães, feijões e cogumelos",
+			"Equipado com duas ventoinhas para fluxo de ar horizontal e secagem em apenas 5 horas"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "700W" },
+			{ "label": "Capacidade", "value": "8 bandejas removíveis" },
+			{ "label": "Material", "value": "aço inoxidável" },
+			{ "label": "Faixa de temperatura", "value": "35°C a 85°C" },
+			{ "label": "Temporizador", "value": "ajustável (até 24 horas)" },
+			{ "label": "Painel", "value": "touch" },
+			{ "label": "Iluminação interna", "value": "sim (LED)" },
+			{
+				"label": "Alimentos indicados",
+				"value": "frutas, legumes, carnes, ervas, peixes, pães, feijões e cogumelos"
+			},
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,154 @@
+[
+	{
+		"id": "vonder-pev750",
+		"name": "Vonder PEV750 800mL 750W",
+		"image": "/images/posts/pistola-pintura-eletrica-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1msEjAf",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 750W",
+			"Suporte móvel com rodas",
+			"Três ajustes de jato",
+			"Sistema HVLP",
+			"Maior desempenho"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Capacidade", "value": "800mL" },
+			{ "label": "Fluxo", "value": "800mL/min" },
+			{ "label": "Tipo", "value": "HVLP" },
+			{ "label": "Peso", "value": "4,3 kg" }
+		]
+	},
+	{
+		"id": "deko-dksg60k1",
+		"name": "Deko DKSG60K1 1,2L 600W",
+		"image": "/images/posts/pistola-pintura-eletrica-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2HqFydx",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 1,2 litro",
+			"LED integrado",
+			"Três ajustes de jato",
+			"Bicos de 1,0mm, 1,8mm e 2,5mm",
+			"Alça de ombro"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "600W" },
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Tipo", "value": "HVLP" },
+			{ "label": "Viscosidade", "value": "80 DIN" },
+			{ "label": "Peso", "value": "1,5 kg" }
+		]
+	},
+	{
+		"id": "vonder-pev400",
+		"name": "Vonder PEV400 800mL 260W",
+		"image": "/images/posts/pistola-pintura-eletrica-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2LtdWK1",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo mais vendido",
+			"Leve (1,4 kg)",
+			"Sistema HVLP",
+			"Três ajustes de jato",
+			"Ótimo para uso doméstico"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "260W" },
+			{ "label": "Capacidade", "value": "800mL" },
+			{ "label": "Fluxo", "value": "700mL/min" },
+			{ "label": "Tipo", "value": "HVLP" },
+			{ "label": "Peso", "value": "1,4 kg" }
+		]
+	},
+	{
+		"id": "wap-epp400",
+		"name": "WAP EPP400 900mL 400W",
+		"image": "/images/posts/pistola-pintura-eletrica-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/324ELFP",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 900mL",
+			"Design ergonômico",
+			"3 regulagens de spray",
+			"Economia de tinta",
+			"Bom custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Capacidade", "value": "900mL" },
+			{ "label": "Fluxo", "value": "700mL/min" },
+			{ "label": "Viscosidade", "value": "60 DIN" },
+			{ "label": "Peso", "value": "1,4 kg" }
+		]
+	},
+	{
+		"id": "tssaper-tp550",
+		"name": "Tssaper TP550 800mL 550W",
+		"image": "/images/posts/pistola-pintura-eletrica-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2j7rRBz",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 550W",
+			"3 bicos de cobre",
+			"Ajuste de jato",
+			"Preço acessível",
+			"Bom para cobertura contínua"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "550W" },
+			{ "label": "Capacidade", "value": "800mL" },
+			{ "label": "Tipo", "value": "HVLP" },
+			{ "label": "Peso", "value": "1,56 kg" }
+		]
+	},
+	{
+		"id": "vonder-pev900",
+		"name": "Vonder PEV900 700mL 550W",
+		"image": "/images/posts/pistola-pintura-eletrica-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1pJJqGr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor separado da pistola",
+			"Pistola mais leve",
+			"Sistema HVLP",
+			"Ideal para trabalhos contínuos",
+			"Maior precisão"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "550W" },
+			{ "label": "Capacidade", "value": "700mL" },
+			{ "label": "Fluxo", "value": "800mL/min" },
+			{ "label": "Tipo", "value": "HVLP" },
+			{ "label": "Peso", "value": "3,2 kg" }
+		]
+	},
+	{
+		"id": "black-decker-bdph200b",
+		"name": "Black+Decker BDPH200B 800mL 350W",
+		"image": "/images/posts/pistola-pintura-eletrica-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1CDrbfa",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema SMART de ajuste",
+			"Fácil enchimento",
+			"Cobertura uniforme",
+			"Baixo ruído",
+			"Boa para acabamento"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "350W" },
+			{ "label": "Capacidade", "value": "800mL" },
+			{ "label": "Fluxo", "value": "800mL/min" },
+			{ "label": "Tipo", "value": "HVLP" }
+		]
+	}
+]

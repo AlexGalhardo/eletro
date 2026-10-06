@@ -1,0 +1,181 @@
+[
+	{
+		"id": "colormaq-lca18",
+		"name": "Colormaq LCA18 18kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1R7Vh4h",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade para até 18kg de roupa seca",
+			"Função Turbo Lavagem melhora a remoção de sujeiras difíceis",
+			"Sistema antimanchas dilui melhor o sabão",
+			"Dispenser inteligente com indicação de dosagem",
+			"16 programas de lavagem disponíveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "máquina de lavar automática" },
+			{ "label": "Capacidade", "value": "18kg" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "150 litros" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "103,1 x 68,1 x 70,7cm" },
+			{ "label": "Peso", "value": "51,1kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lca12",
+		"name": "Colormaq LCA12 12kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/29xviLJ",
+		"shopeeUrl": null,
+		"advantages": [
+			"9 ciclos de lavagem com sistema antimanchas",
+			"Função turbo lavagem para roupas mais sujas",
+			"Filtro duplo de fiapos retém mais resíduos",
+			"Multidispenser com indicação da dosagem correta",
+			"Classificação A em eficiência energética e centrifugação"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "máquina de lavar automática" },
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Quantidade de programas", "value": "9" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "150 litros" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "103 x 60,5 x 70cm" },
+			{ "label": "Peso", "value": "36,9kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lcs10",
+		"name": "Colormaq LCS10 10kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2efThAu",
+		"shopeeUrl": null,
+		"advantages": [
+			"5 programas de lavagem e 2 etapas de molho",
+			"Sistema de lavagem por turbilhonamento",
+			"Batedor gigante no fundo para maior limpeza",
+			"Motor com 370W de potência e eixo resistente em inox",
+			"Permite reutilizar a água do enxágue"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "tanquinho semiautomático" },
+			{ "label": "Capacidade", "value": "12kg" },
+			{ "label": "Quantidade de programas", "value": "5 ciclos + 2 molhos" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "96 x 48,5 x 55,5cm" },
+			{ "label": "Peso", "value": "9,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lcs20",
+		"name": "Colormaq LCS20 20kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2EqA5av",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 20kg para lavagens pesadas",
+			"Função lavagem rápida por turbilhonamento",
+			"6 programas de lavagem e 2 períodos de molho",
+			"Dispenser duplo para sabão e amaciante",
+			"Motor WEG de 380W com eixo em inox e bucha de bronze"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "tanquinho semiautomático" },
+			{ "label": "Capacidade", "value": "20kg" },
+			{ "label": "Quantidade de programas", "value": "6 ciclos + 2 molhos" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "96,5 x 55 x 60cm" },
+			{ "label": "Peso", "value": "11kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lcs15",
+		"name": "Colormaq LCS15 15kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1tdKFpQ",
+		"shopeeUrl": null,
+		"advantages": [
+			"7 ciclos de lavagem e 3 etapas de molho",
+			"Modos para roupas delicadas, jeans, cama e banho",
+			"Sistema de lavagem por turbilhonamento com batedor gigante",
+			"Motor com potência de 450W",
+			"Sistema de reaproveitamento de água"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "tanquinho semiautomático" },
+			{ "label": "Capacidade", "value": "20kg" },
+			{ "label": "Quantidade de programas", "value": "7 ciclos + 3 molhos" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "96,5 x 48,5 x 56,2cm" },
+			{ "label": "Peso", "value": "9,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lct6",
+		"name": "Colormaq LCT6 6kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2kshXLv",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura em plástico pós-consumo, proposta mais sustentável",
+			"Seis ciclos de lavagem e três intervalos de molho",
+			"Esfregador integrado facilita limpeza manual de áreas encardidas",
+			"Motor WEG de 250W com eixo em inox",
+			"Permite visualizar as etapas de lavagem no painel"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "tanquinho semiautomático" },
+			{ "label": "Capacidade", "value": "6kg" },
+			{ "label": "Quantidade de programas", "value": "6 ciclos + 3 molhos" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "86,5 x 49 x 65cm" },
+			{ "label": "Peso", "value": "9,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "colormaq-lca14",
+		"name": "Colormaq LCA14 14kg",
+		"image": "/images/posts/lavadora-roupas-colormaq-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema antimanchas dilui o sabão antes do contato com os tecidos",
+			"Dispenser inteligente para sabão, alvejante e amaciante",
+			"16 programas com mais de 300 combinações de configuração",
+			"Ultracentrifugação retira mais água das roupas",
+			"Lava desde peças delicadas até cargas pesadas, como edredom"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "máquina de lavar automática" },
+			{ "label": "Capacidade", "value": "14kg" },
+			{ "label": "Quantidade de programas", "value": "16" },
+			{ "label": "Abertura da tampa", "value": "superior" },
+			{ "label": "Consumo de água por ciclo", "value": "150 litros" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Material do cesto", "value": "plástico" },
+			{ "label": "Dimensões (A x L x P)", "value": "103,1 x 59 x 65cm" },
+			{ "label": "Peso", "value": "36,9kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

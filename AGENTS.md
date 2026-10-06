@@ -1,0 +1,62 @@
+# AGENTS.md
+
+Instruções para qualquer agente de código trabalhando neste repositório. O `CLAUDE.md` importa este arquivo; edite sempre aqui.
+
+## O que é o projeto
+
+Template open source de CMS de blog em SvelteKit 3. Os posts são Markdown (`content/posts/*.mdx`, compilados com mdsvex), os produtos são JSON (`content/products/*.json`) e o site público é estático. O dono publica pelo painel `/admin`, que grava o conteúdo com commits no próprio repositório. O EletroRadar (reviews de eletrodomésticos com links de afiliado) é o conteúdo de demonstração e o site em produção.
+
+## Início de toda sessão (obrigatório)
+
+Antes de responder ou editar qualquer coisa, nesta ordem:
+
+1. Carregue as skills abaixo com a ferramenta de skills (em agentes sem essa ferramenta, leia o `SKILL.md` de cada uma em `.claude/skills/<nome>/`):
+   - `using-agent-skills`: roteador das skills de engenharia do pacote agent-skills
+   - `karpathy-guidelines`: pensar antes de codar, simplicidade, mudanças cirúrgicas, critérios verificáveis
+   - `ponytail`: a solução mais simples que funciona; fica ativa a sessão inteira
+   - `graphify`: consulte o grafo (`graphify query "<pergunta>"`) antes de varrer o código, quando `graphify-out/` existir
+2. Leia o [`PLAN.md`](PLAN.md) para saber a fase atual e o próximo item em aberto.
+3. Leia o [`docs/README.md`](docs/README.md) e, dele, só a documentação do assunto em que vai mexer.
+4. Leia as regras em [`.claude/rules/`](.claude/rules/).
+
+Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quando o pedido estiver ambíguo, `spec-driven-development` e `planning-and-task-breakdown` antes de uma feature nova, `source-driven-development` para qualquer API de framework, `test-driven-development` ao escrever lógica, `security-and-hardening` em autenticação, entrada de usuário e integrações, `git-workflow-and-versioning` ao commitar e lançar versão.
+
+## Documentação (onboarding)
+
+| Documento | Assunto |
+|---|---|
+| [`PLAN.md`](PLAN.md) | Fases ALPHA, BETA e 1.0.0-rc, checklists e asserts de entrega |
+| [`docs/README.md`](docs/README.md) | Índice da documentação |
+| [`docs/architecture.md`](docs/architecture.md) | Visão geral, pastas, fluxo de dados, decisões |
+| [`docs/content.md`](docs/content.md) | Formato de posts e produtos, componentes disponíveis no Markdown |
+| [`docs/development.md`](docs/development.md) | Como rodar, scripts, variáveis de ambiente, convenções |
+| [`docs/testing.md`](docs/testing.md) | Tipos de teste, onde ficam e como rodar |
+| [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |
+
+Ao entregar uma mudança que altera comportamento, atualize o documento correspondente e o `PLAN.md` na mesma entrega. Documento novo em `docs/` entra nesta tabela e no índice.
+
+## Comandos
+
+```bash
+bun install          # dependências (versões exatas)
+bun run dev          # servidor de desenvolvimento
+bun run build        # build de produção (valida todo o conteúdo)
+bun run check        # svelte-check + TypeScript
+bun run lint         # Biome + markdownlint
+bun run format       # Biome com correção automática
+bun run test         # Vitest: unitários e integração
+bun run test:e2e     # Playwright: smoke e e2e
+```
+
+## Regras que não podem ser quebradas
+
+- **SvelteKit 3 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** Consulte o MCP do Svelte (`.mcp.json`) ou <https://svelte.dev/docs/kit/llms.txt> antes de usar qualquer API. Resumo do que mudou: configuração no `vite.config.ts` (não existe `svelte.config.js`), imports com `#lib/...` e extensão explícita (não existe `$lib`), `$app/env` e `$app/state` (não existem `$app/environment` nem `$app/stores`), runes em todo componente.
+- **Dependências:** sempre a última versão estável, com versão exata, sem `^` nem `~`. Confira no registry, não de memória. Ver `.claude/rules/dependencies.md`.
+- **Formatação:** tab com largura 4 (Biome e `.editorconfig`). YAML e Markdown usam 2 espaços.
+- **Commits:** Conventional Commits, validados pelo commitlint. Commits de conteúdo usam o tipo `content` e não geram release.
+- **Versão:** SemVer; toda mudança visível entra em `CHANGELOG.md` na seção `Unreleased`.
+- **Segredos:** nada de chave real no repositório. `.env.example` só tem placeholders.
+- **Indexação:** `/admin` e `/api` nunca aparecem em `robots.txt`, `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`.
+- **CI:** os workflows ficam em `.github/workflows-disabled/`. Não mova para `.github/workflows/` sem o dono pedir.
+- **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
+- **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.

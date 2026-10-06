@@ -1,0 +1,176 @@
+[
+	{
+		"id": "oster-gcstcc5000-2200w",
+		"name": "Oster GCSTCC5000 1650W / 2200W",
+		"image": "/images/posts/ferro-passar-oster-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1unnEZg",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design 2 em 1 com ou sem fio",
+			"Base de cerâmica com excelente deslizamento",
+			"54 saídas de vapor para maior eficiência",
+			"Vapor vertical para roupas no cabide e cortinas",
+			"Jato extra de vapor para vincos difíceis",
+			"Sistema anticalcário prolonga a vida útil",
+			"Sistema corta-pingos evita manchas",
+			"Desligamento automático em três posições",
+			"Função ECO reduz o consumo de energia",
+			"Autolimpeza e ponta de alta precisão"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Ferro a vapor" },
+			{ "label": "Potência", "value": "1650W (127V) / 2200W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "300mL" },
+			{ "label": "Base", "value": "Cerâmica" },
+			{ "label": "Tempo de aquecimento", "value": "10 segundos" },
+			{ "label": "Autonomia", "value": "70 segundos (sem fio)" },
+			{
+				"label": "Funções especiais",
+				"value": "2 em 1 com ou sem fio; Vapor vertical; Jato de vapor; Vapor seco; Spray de água; Sistema anticalcário; Sistema corta-pingos; Desligamento automático; Função ECO; Autolimpeza; Luz LED; Ponta de precisão; 54 saídas de vapor"
+			},
+			{ "label": "Comprimento do cabo", "value": "2,4m" },
+			{ "label": "Peso", "value": "1,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-gcstbs5956-1600w",
+		"name": "Oster GCSTBS5956 1200W / 1600W",
+		"image": "/images/posts/ferro-passar-oster-2.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1onWLr2",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base cerâmica com nano orifícios",
+			"Jato extra de vapor",
+			"Vapor vertical",
+			"Spray de água integrado",
+			"Sistema anticalcário",
+			"Função de autolimpeza",
+			"Reservatório de 240mL",
+			"Borda salva-botões",
+			"Cabo com giro 360°",
+			"Excelente para roupas delicadas e sociais"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Ferro a vapor" },
+			{ "label": "Potência", "value": "1200W (127V) / 1600W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "240mL" },
+			{ "label": "Base", "value": "Cerâmica aerodinâmica com nano orifícios" },
+			{
+				"label": "Funções especiais",
+				"value": "Jato extra de vapor; Vapor vertical; Spray de água; Sistema anticalcário; Autolimpeza; Borda salva-botões; Base com nano orifícios; Cabo com giro 360°"
+			},
+			{ "label": "Comprimento do cabo", "value": "1,6m" },
+			{ "label": "Peso", "value": "980g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-gcstbs5053-1400w",
+		"name": "Oster GCSTBS5053 1200W / 1400W",
+		"image": "/images/posts/ferro-passar-oster-3.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1u9r8ky",
+		"shopeeUrl": null,
+		"advantages": [
+			"Peso leve de apenas 780g",
+			"Base cerâmica Aeroceramic",
+			"Filtro anticalcário",
+			"25 saídas de vapor",
+			"Jato extra de vapor",
+			"Vapor vertical",
+			"Spray de água integrado",
+			"Cabo de 1,8m",
+			"Compatível com água da torneira",
+			"Excelente custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Ferro a vapor" },
+			{ "label": "Potência", "value": "1200W (127V) / 1400W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "200mL" },
+			{ "label": "Base", "value": "Cerâmica Aeroceramic" },
+			{
+				"label": "Funções especiais",
+				"value": "Jato extra de vapor; Vapor vertical; Spray de água; Filtro anticalcário; 25 saídas de vapor; Base Aeroceramic; Compatível com água da torneira"
+			},
+			{ "label": "Comprimento do cabo", "value": "1,8m" },
+			{ "label": "Peso", "value": "780g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-gcstes-101-1270w",
+		"name": "Oster GCSTES-101 1270W",
+		"image": "/images/posts/ferro-passar-oster-4.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21n6jPF",
+		"shopeeUrl": null,
+		"advantages": [
+			"Passadeira portátil para uso no cabide",
+			"Potência de 1270W",
+			"Vapor contínuo de até 189g/min",
+			"Aquecimento em 45 segundos",
+			"Placa em aço inox",
+			"Elimina odores e higieniza tecidos",
+			"Desligamento automático",
+			"Tanque removível",
+			"Autolimpeza",
+			"Cabo de 2,5 metros"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Passadeira a vapor portátil" },
+			{ "label": "Potência", "value": "1270W" },
+			{ "label": "Capacidade do reservatório", "value": "240mL" },
+			{ "label": "Base", "value": "Placa em aço inox" },
+			{ "label": "Vapor contínuo", "value": "189g/min" },
+			{ "label": "Tempo de aquecimento", "value": "45 segundos" },
+			{
+				"label": "Funções especiais",
+				"value": "Vapor contínuo; Placa em aço inox; 7 saídas de vapor; Luz LED; Desligamento automático; Autolimpeza; Tanque removível; Elimina odores; Higienização"
+			},
+			{ "label": "Comprimento do cabo", "value": "2,5m" },
+			{ "label": "Peso", "value": "1,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-gcstbs5907-1600w",
+		"name": "Oster GCSTBS5907 1200W / 1600W",
+		"image": "/images/posts/ferro-passar-oster-5.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1kbCjXn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Base antiaderente com nano orifícios",
+			"Microfuros para distribuição uniforme do vapor",
+			"Jato extra de vapor",
+			"Vapor vertical",
+			"Spray de água",
+			"Sistema anticalcário",
+			"Autolimpeza",
+			"Cabo giratório 360°",
+			"Borda salva-botões",
+			"Reservatório de 240mL"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Ferro a vapor" },
+			{ "label": "Potência", "value": "1200W (127V) / 1600W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "240mL" },
+			{ "label": "Base", "value": "Antiaderente com tecnologia de nano orifícios" },
+			{
+				"label": "Funções especiais",
+				"value": "Jato extra de vapor; Vapor vertical; Spray de água; Sistema anticalcário; Autolimpeza; Microfuros para vapor; Luz indicadora; Borda salva-botões; Cabo com giro 360°"
+			},
+			{ "label": "Comprimento do cabo", "value": "1,6m" },
+			{ "label": "Peso", "value": "980g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

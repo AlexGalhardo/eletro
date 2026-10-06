@@ -1,0 +1,312 @@
+[
+	{
+		"id": "electrolux-eek25-1-7l",
+		"name": "Electrolux EEK25 (1,7 litro)",
+		"brand": "Electrolux",
+		"image": "/images/posts/chaleira-eletrica-1.jpg",
+		"model": "EEK25",
+		"detailedModel": "1,7 litro",
+		"color": "Inox",
+		"badge": "top de linha",
+		"description": "Modelo de grande capacidade com aquecimento rápido, acabamento em aço inox e desligamento automático, ideal para preparar bebidas em maior quantidade.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "chaleiras-eletricas-inox",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2hKfRgW",
+		"shopeeUrl": null,
+		"alphanumericModel": "EEK25",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"advantages": [
+			"Capacidade de 1,7 litro",
+			"Desligamento automático",
+			"Base 360°",
+			"Indicador transparente do nível de água",
+			"Tampa Pop-Up com abertura por botão",
+			"Alça ergonômica",
+			"LED indicador de funcionamento",
+			"Enrolador de cabo",
+			"Filtro anti-impurezas removível"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Material", "value": "aço inoxidável escovado" },
+			{ "label": "Capacidade", "value": "1,7 litro" },
+			{ "label": "Potência", "value": "1200W (127V); 1850W (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Aquecimento rápido", "value": "sim" },
+			{
+				"label": "Recursos",
+				"value": "desligamento automático; tampa Pop-Up; indicador de nível; base 360°; chaleira sem fio; LED; enrolador de cabo; filtro removível"
+			},
+			{ "label": "Comprimento do fio", "value": "80cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "23 x 21,5 x 15cm" },
+			{ "label": "Peso", "value": "960g" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 4,
+				"capacity": 4.5,
+				"powerEfficiency": 5,
+				"buildQuality": 5,
+				"easeOfUse": 5,
+				"features": 5,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "electrolux-eek10-1-8l",
+		"name": "Electrolux EEK10 (1,8 litro)",
+		"brand": "Electrolux",
+		"image": "/images/posts/chaleira-eletrica-2.jpg",
+		"model": "EEK10",
+		"detailedModel": "1,8 litro",
+		"color": "Inox",
+		"badge": "nossa escolha",
+		"description": "Indicada para famílias e uso frequente, combina capacidade de 1,8 litro, aquecimento rápido e desligamento automático.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "chaleiras-eletricas-inox",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1DRSGhZ",
+		"shopeeUrl": null,
+		"alphanumericModel": "EEK10",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"advantages": [
+			"Capacidade de 1,8 litro",
+			"Base 360°",
+			"Alça ergonômica",
+			"Desligamento automático",
+			"Chaleira sem fio",
+			"Tampa Pop-Up",
+			"Indicador de nível de água",
+			"Enrolador de cabo",
+			"Luz indicadora de funcionamento"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Material", "value": "aço inoxidável escovado" },
+			{ "label": "Capacidade", "value": "1,8 litro" },
+			{ "label": "Potência", "value": "1200W (127V); 1850W (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Aquecimento rápido", "value": "sim" },
+			{
+				"label": "Recursos",
+				"value": "desligamento automático; tampa Pop-Up; base 360°; chaleira sem fio; indicador de nível; enrolador de cabo"
+			},
+			{ "label": "Comprimento do fio", "value": "75cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "23,2 x 21,3 x 15,9cm" },
+			{ "label": "Peso", "value": "780g" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 4.5,
+				"capacity": 5,
+				"powerEfficiency": 5,
+				"buildQuality": 4.5,
+				"easeOfUse": 5,
+				"features": 4.5,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "mondial-ce-06-2l",
+		"name": "Mondial CE-06 (2 litros)",
+		"brand": "Mondial",
+		"image": "/images/posts/chaleira-eletrica-3.jpg",
+		"model": "CE-06",
+		"detailedModel": "2 litros",
+		"color": "Inox",
+		"badge": "mais vendido",
+		"description": "Modelo de grande capacidade, resistente e com excelente custo, ideal para quem prepara grandes volumes de água.",
+		"price": null,
+		"discountPercent": 47,
+		"fastShipping": true,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "chaleiras-eletricas-inox",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1efQ4C5",
+		"shopeeUrl": null,
+		"alphanumericModel": "CE-06",
+		"version": null,
+		"manufacturer": "Mondial",
+		"advantages": [
+			"Capacidade de 2 litros",
+			"Jarra removível sem fio",
+			"Alça isotérmica",
+			"Desligamento automático",
+			"Tampa abre-fácil",
+			"Lâmpada piloto",
+			"Porta-fio",
+			"Potência de até 1500W"
+		],
+		"disadvantages": ["Cabo de apenas 50cm", "Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Material", "value": "PP com acabamento em inox" },
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Potência", "value": "1200W (127V); 1500W (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Aquecimento rápido", "value": "sim" },
+			{
+				"label": "Recursos",
+				"value": "desligamento automático; tampa abre-fácil; jarra sem fio; alça isotérmica; porta-fio"
+			},
+			{ "label": "Comprimento do fio", "value": "50cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "23 x 22 x 15,2cm" },
+			{ "label": "Peso", "value": "750g" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 5,
+				"powerEfficiency": 4.5,
+				"buildQuality": 4,
+				"easeOfUse": 4.5,
+				"features": 4,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "oster-ocel840-2l",
+		"name": "Oster OCEL840 (2 litros)",
+		"brand": "Oster",
+		"image": "/images/posts/chaleira-eletrica-4.jpg",
+		"model": "OCEL840",
+		"detailedModel": "2 litros",
+		"color": "Inox",
+		"badge": "custo-benefício",
+		"description": "Fabricada em aço inox 304, oferece grande capacidade e alta potência para quem utiliza a chaleira diariamente.",
+		"price": null,
+		"discountPercent": null,
+		"fastShipping": false,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "chaleiras-eletricas-inox",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/13BcJXd",
+		"shopeeUrl": null,
+		"alphanumericModel": "OCEL840",
+		"version": null,
+		"manufacturer": "Oster",
+		"advantages": [
+			"Aço inox 304",
+			"Capacidade de 2 litros",
+			"Base antiderrapante",
+			"Potência de até 1850W",
+			"Alça isotérmica",
+			"Indicador luminoso",
+			"Porta-fio",
+			"Desligamento automático"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Comprimento do fio não informado"],
+		"technicalDetails": [
+			{ "label": "Material", "value": "aço inoxidável 304" },
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Potência", "value": "1200W (127V); 1850W (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Aquecimento rápido", "value": "sim" },
+			{
+				"label": "Recursos",
+				"value": "desligamento automático; base antiderrapante; indicador luminoso; porta-fio; alça isotérmica"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "24 x 21,5 x 15cm" },
+			{ "label": "Peso", "value": "733g" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 5,
+				"powerEfficiency": 5,
+				"buildQuality": 5,
+				"easeOfUse": 4.5,
+				"features": 4.5,
+				"noiseLevel": 5
+			}
+		}
+	},
+	{
+		"id": "cadence-pure-inox-cel810-1-7l",
+		"name": "Cadence Pure Inox CEL810 (1,7 litro)",
+		"brand": "Cadence",
+		"image": "/images/posts/chaleira-eletrica-5.jpg",
+		"model": "CEL810",
+		"detailedModel": "1,7 litro",
+		"color": "Inox",
+		"badge": "bom e barato",
+		"description": "Modelo acessível com corpo em inox, aquecimento rápido e proteção Anti-dry para maior segurança durante o uso.",
+		"price": null,
+		"discountPercent": 48,
+		"fastShipping": true,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "chaleiras-eletricas-inox",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1TB9a3e",
+		"shopeeUrl": null,
+		"alphanumericModel": "CEL810",
+		"version": null,
+		"manufacturer": "Cadence",
+		"advantages": [
+			"Capacidade de 1,7 litro",
+			"Tampa Enche Fácil",
+			"Proteção Anti-dry",
+			"Base antiderrapante",
+			"Indicador luminoso",
+			"Potência de até 1850W",
+			"Porta-fio",
+			"Desligamento automático"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Comprimento do fio não informado"],
+		"technicalDetails": [
+			{ "label": "Material", "value": "inox" },
+			{ "label": "Capacidade", "value": "1,7 litro" },
+			{ "label": "Potência", "value": "1200W (127V); 1850W (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Aquecimento rápido", "value": "sim" },
+			{
+				"label": "Recursos",
+				"value": "tampa Enche Fácil; desligamento automático; proteção Anti-dry; base antiderrapante; porta-fio"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "25 x 14 x 22,2cm" },
+			{ "label": "Peso", "value": "720g" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 5,
+				"capacity": 4.5,
+				"powerEfficiency": 5,
+				"buildQuality": 4.5,
+				"easeOfUse": 4.5,
+				"features": 4.5,
+				"noiseLevel": 5
+			}
+		}
+	}
+]

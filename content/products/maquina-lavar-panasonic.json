@@ -1,0 +1,191 @@
+[
+	{
+		"id": "panasonic-s26mk1lbr-13kg-8kg",
+		"name": "Panasonic Lava e Seca S26MK1LBR 13kg/8kg",
+		"image": "/images/posts/maquina-lavar-panasonic-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://www.mercadolivre.com.br/lava-e-seca-panasonic-nas26mk1lbz-13kg-titanio-110v/up/MLBU4036612822",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 13kg para lavagem e 8kg para secagem",
+			"Recurso Vapor+ Antialérgico para higienização das roupas",
+			"Motor Inverter silencioso e eficiente",
+			"Centrifugação de até 1400RPM com ajuste de velocidade",
+			"Programa Tira Odor integrado",
+			"Ciclo + Curto reduz o tempo de lavagem",
+			"Cesto em inox resistente",
+			"Programa para edredons",
+			"Certificação Woolmark para roupas de lã",
+			"Início programado em até 24 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "13kg (lavagem) e 8kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "14" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "73,4 litros por ciclo" },
+			{ "label": "Painel", "value": "Botão giratório com visor digital LED branco" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Vapor+ Antialérgico; Motor Inverter; Ciclo + Curto; Tira Odor; Só Secar; Só Centrifugar; AG Antibacteria; Filtro de fiapos; Enxágue extra; Pré-lavagem; Ajuste de temperatura; Ajuste de centrifugação; Início programado até 24h; Woolmark; Limpeza do cesto"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 62cm" },
+			{ "label": "Peso", "value": "70kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "panasonic-na-f190g-19kg",
+		"name": "Panasonic NA-F190G 19kg",
+		"image": "/images/posts/maquina-lavar-panasonic-2.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Cc2rGQ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 19kg para grandes volumes",
+			"Tecnologia SmartSense ajusta automaticamente a lavagem",
+			"Sistema Ciclone sem agitador central",
+			"Ciclo Pet para remoção de pelos",
+			"JetWash+ melhora a eficiência da lavagem",
+			"Função Reuso de Água",
+			"Programa Aroma+ mantém as roupas perfumadas",
+			"Espuma Ativa potencializa o sabão",
+			"Filtro de fiapos de alta capacidade",
+			"Eficiência energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "19kg" },
+			{ "label": "Velocidade de centrifugação", "value": "600RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "10" },
+			{ "label": "Abertura", "value": "Superior" },
+			{ "label": "Consumo de água", "value": "161 litros por ciclo" },
+			{ "label": "Painel", "value": "Digital" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções especiais",
+				"value": "SmartSense; Sistema Ciclone; Ciclo Pet; Aroma+; JetWash+; Reuso de Água; Espuma Ativa; Favoritos; Timer; AG Antibacteria Ready+; Sensor de carga; 7 níveis de água"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "115 x 64 x 72cm" },
+			{ "label": "Peso", "value": "45kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "panasonic-na-f150b-15kg",
+		"name": "Panasonic NA-F150B 15kg",
+		"image": "/images/posts/maquina-lavar-panasonic-3.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2bVTpmw",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 15kg",
+			"Tecnologia SmartSense",
+			"Sistema Ciclone sem agitador",
+			"Função Reuso de Água",
+			"Turbo Secagem reduz a umidade das roupas",
+			"Programa Vanish melhora a remoção de manchas",
+			"Espuma Ativa",
+			"Programa para edredons",
+			"Filtro de fiapos integrado",
+			"Eficiência energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "15kg" },
+			{ "label": "Velocidade de centrifugação", "value": "700RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "8" },
+			{ "label": "Abertura", "value": "Superior" },
+			{ "label": "Consumo de água", "value": "110 litros por ciclo" },
+			{ "label": "Painel", "value": "Botão giratório" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções especiais",
+				"value": "SmartSense; Sistema Ciclone; Espuma Ativa; Reuso de Água; Avanço de etapas; Turbo Secagem; Programa Vanish; Sensor de carga; Programa para edredons; Economia de água"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105 x 60 x 69cm" },
+			{ "label": "Peso", "value": "38kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "panasonic-na-f140b-14kg",
+		"name": "Panasonic NA-F140B 14kg",
+		"image": "/images/posts/maquina-lavar-panasonic-4.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21nUkxk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 14kg",
+			"Consumo de apenas 97 litros por ciclo",
+			"Tecnologia SmartSense",
+			"Sistema Ciclone sem agitador",
+			"Programa Vanish para remoção de manchas",
+			"Turbo Secagem",
+			"Função Reuso de Água",
+			"Espuma Ativa",
+			"Programa para edredons",
+			"Eficiência energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "14kg" },
+			{ "label": "Velocidade de centrifugação", "value": "700RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "8" },
+			{ "label": "Abertura", "value": "Superior" },
+			{ "label": "Consumo de água", "value": "97 litros por ciclo" },
+			{ "label": "Painel", "value": "Botão giratório" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções especiais",
+				"value": "SmartSense; Sistema Ciclone; Espuma Ativa; Reuso de Água; Turbo Secagem; Programa Vanish; Avanço de etapas; Programa para edredons; Trava de segurança"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "105 x 60 x 69cm" },
+			{ "label": "Peso", "value": "38kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "panasonic-na-f180d-18kg",
+		"name": "Panasonic NA-F180D 18kg",
+		"image": "/images/posts/maquina-lavar-panasonic-5.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2SA2k9r",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 18kg",
+			"Ciclo Pet remove pelos de animais",
+			"Tecnologia SmartSense ajusta automaticamente a água",
+			"Sistema Ciclone preserva os tecidos",
+			"Função Reuso de Água",
+			"Programa Super Delicado",
+			"Aroma Plus mantém as roupas perfumadas",
+			"Espuma Ativa + JetWash+",
+			"Filtro de fiapos integrado",
+			"Eficiência energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "18kg" },
+			{ "label": "Velocidade de centrifugação", "value": "700RPM" },
+			{ "label": "Tipo", "value": "Automática" },
+			{ "label": "Quantidade de programas", "value": "10" },
+			{ "label": "Abertura", "value": "Superior" },
+			{ "label": "Painel", "value": "Digital" },
+			{ "label": "Material do cesto", "value": "Inox" },
+			{
+				"label": "Funções especiais",
+				"value": "SmartSense; Sistema Ciclone; Ciclo Pet; Reuso de Água; Super Delicado; Aroma Plus; Espuma Ativa; JetWash+; Tecla Pausar; Sensor de carga; AG Antibacteria Ready+"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "115 x 64 x 72cm" },
+			{ "label": "Peso", "value": "45kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

@@ -1,0 +1,179 @@
+[
+	{
+		"id": "philips-walita-ais6020",
+		"name": "Philips Walita AIS6020 3 em 1",
+		"image": "/images/posts/vaporizador-philips-walita-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/324v9hX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Combina ferro, vaporizador e tábua em um único aparelho",
+			"Tecnologia OptimalTEMP reduz o risco de queimar tecidos compatíveis",
+			"Reservatório removível com capacidade de 1,1 litro",
+			"Elimina até 99,9% de bactérias e ácaros",
+			"Tábua inclinável com rodas integradas para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical 3 em 1" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Capacidade do reservatório", "value": "1,1 litro" },
+			{ "label": "Tempo de aquecimento", "value": "80 segundos" },
+			{ "label": "Saída de vapor", "value": "45g/min" },
+			{ "label": "Dimensões (A x L x P)", "value": "44,4 x 42,6 x 166,7cm" },
+			{ "label": "Peso", "value": "9,07kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-ste3170",
+		"name": "Philips Walita STE3170",
+		"image": "/images/posts/vaporizador-philips-walita-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PwMXeD",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório transparente com capacidade de 2 litros",
+			"Prancha StyleBoard inclinável para apoiar as peças",
+			"Função MyEssence adiciona fragrância às roupas",
+			"Três ajustes de vapor para diferentes tecidos",
+			"Aquece em apenas 60 segundos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical" },
+			{ "label": "Potência", "value": "1600W (127V) / 2000W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "2 litros" },
+			{ "label": "Tempo de aquecimento", "value": "60 segundos" },
+			{ "label": "Níveis de vapor", "value": "3 níveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "36 x 32 x 31cm" },
+			{ "label": "Peso", "value": "5,72kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-sth3020",
+		"name": "Philips Walita STH3020",
+		"image": "/images/posts/vaporizador-philips-walita-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oXTpfm",
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato portátil e dobrável, ideal para viagens",
+			"Aquecimento rápido em apenas 30 segundos",
+			"Peso leve de 0,85kg facilita o manuseio",
+			"Pode ser usado direto no cabide",
+			"Remove odores e elimina até 99,9% de bactérias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "portátil" },
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Capacidade do reservatório", "value": "120mL" },
+			{ "label": "Tempo de aquecimento", "value": "30 segundos" },
+			{ "label": "Saída de vapor", "value": "até 20g/min" },
+			{ "label": "Dimensões (A x L x P)", "value": "12,5 x 12,4 x 22,7cm" },
+			{ "label": "Peso", "value": "0,85kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-sth5030",
+		"name": "Philips Walita STH5030",
+		"image": "/images/posts/vaporizador-philips-walita-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2pMZjCe",
+		"shopeeUrl": null,
+		"advantages": [
+			"Dois reservatórios removíveis, de 120mL e 200mL",
+			"Modos de vapor ECO e MAX",
+			"Uso vertical ou horizontal com sistema antigotejamento",
+			"Pronto para uso em apenas 35 segundos",
+			"Suporte StyleMat auxilia ao passar no cabide"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "portátil 2 em 1" },
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Capacidade do reservatório", "value": "120mL e 200mL" },
+			{ "label": "Tempo de aquecimento", "value": "35 segundos" },
+			{ "label": "Saída de vapor", "value": "24g/min" },
+			{ "label": "Níveis de vapor", "value": "2 modos (ECO e MAX)" },
+			{ "label": "Dimensões (A x L x P)", "value": "8,6 x 9,7 x 31,7cm" },
+			{ "label": "Peso", "value": "1,17kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-sth7020",
+		"name": "Philips Walita STH7020",
+		"image": "/images/posts/vaporizador-philips-walita-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2mDufC8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia OptimalTEMP protege os tecidos de queimaduras",
+			"Aquecimento rápido em apenas 30 segundos",
+			"Dois modos de vapor: ECO e MAX",
+			"Uso vertical e horizontal com base de cerâmica",
+			"Cabo de 2,5 metros para maior alcance"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "portátil" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Capacidade do reservatório", "value": "100mL" },
+			{ "label": "Tempo de aquecimento", "value": "30 segundos" },
+			{ "label": "Saída de vapor", "value": "28g/min" },
+			{ "label": "Níveis de vapor", "value": "2 modos (ECO e MAX)" },
+			{ "label": "Dimensões (A x L x P)", "value": "14,1 x 35,5 x 12,9cm" },
+			{ "label": "Peso", "value": "1,159kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-ste1010",
+		"name": "Philips Walita STE1010",
+		"image": "/images/posts/vaporizador-philips-walita-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2nUChrE",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório removível com capacidade de 1,8 litro",
+			"Duas configurações de vapor, baixa e alta",
+			"Pronto para uso em 45 segundos",
+			"Haste ajustável para apoiar as peças",
+			"Remove odores e elimina até 99,9% de bactérias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical" },
+			{ "label": "Potência", "value": "1600W" },
+			{ "label": "Capacidade do reservatório", "value": "1,8 litro" },
+			{ "label": "Tempo de aquecimento", "value": "45 segundos" },
+			{ "label": "Saída de vapor", "value": "32g/min" },
+			{ "label": "Níveis de vapor", "value": "2 níveis (baixo e alto)" },
+			{ "label": "Dimensões (A x L x P)", "value": "34,7 x 35,5 x 42,7cm" },
+			{ "label": "Peso", "value": "4,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philips-walita-gc362",
+		"name": "Philips Walita GC362",
+		"image": "/images/posts/vaporizador-philips-walita-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1pguj9A",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia SmartFlow para uso mais seguro nos tecidos",
+			"Vapor contínuo automático de 24g/min",
+			"Formato portátil, ideal para retoques rápidos",
+			"Cabo elétrico de 2,5 metros",
+			"Acompanha escova, luva e bolsa de armazenamento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "portátil" },
+			{ "label": "Potência", "value": "1300W" },
+			{ "label": "Capacidade do reservatório", "value": "70mL" },
+			{ "label": "Saída de vapor", "value": "24g/min" },
+			{ "label": "Dimensões (A x L x P)", "value": "15,4 x 12,3 x 37,8cm" },
+			{ "label": "Peso", "value": "1,15kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

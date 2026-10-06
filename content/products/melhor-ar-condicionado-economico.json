@@ -1,0 +1,115 @@
+[
+	{
+		"id": "lg-dual-inverter-voice-12000btus",
+		"name": "LG Dual Inverter Voice 9000BTUs (quente e frio)",
+		"image": "/images/posts/ar-condicionado-economico-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2kMAq4m",
+		"shopeeUrl": null,
+		"advantages": [
+			"Indicado para regiões com temperaturas variadas graças à função quente e frio",
+			"Equipado com tecnologia Dual Inverter"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Ciclo", "value": "Quente e frio" },
+			{ "label": "Tecnologia inverter", "value": "Sim (Dual Inverter)" }
+		]
+	},
+	{
+		"id": "samsung-inverter-windfree-connect-12000btus",
+		"name": "Samsung Inverter Windfree Connect 12.000BTUs",
+		"image": "/images/posts/ar-condicionado-economico-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2oEm9P5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função WindFree distribui o ar sem vento direto",
+			"Permite desligar o painel de LED para deixar o cômodo totalmente escuro"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tecnologia", "value": "WindFree Connect" },
+			{ "label": "Tecnologia inverter", "value": "Sim" }
+		]
+	},
+	{
+		"id": "tcl-hi-wall-12000btus",
+		"name": "TCL Hi Wall 12.000BTUs",
+		"image": "/images/posts/ar-condicionado-economico-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1p2KDCk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Filtro HD Silver Ion + Carvão Ativado que promete eliminar 99% de bactérias e vírus do ar",
+			"Opção acessível com bom custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tipo", "value": "Hi Wall" },
+			{ "label": "Filtro", "value": "HD Silver Ion + Carvão Ativado" }
+		]
+	},
+	{
+		"id": "elgin-eco-high-wall-12000btus",
+		"name": "Elgin Eco High Wall 12.000BTUs",
+		"image": "/images/posts/ar-condicionado-economico-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oph2Tq",
+		"shopeeUrl": null,
+		"advantages": ["Utiliza gás ecológico R-32", "Acompanha controle remoto", "Garantia de 7 anos no compressor"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tipo", "value": "High Wall" },
+			{ "label": "Tecnologia inverter", "value": "Sim" },
+			{ "label": "Gás refrigerante", "value": "R-32" },
+			{ "label": "Garantia do compressor", "value": "10 anos" }
+		]
+	},
+	{
+		"id": "consul-7500btus-janela",
+		"name": "Consul 7500BTUs (janela)",
+		"image": "/images/posts/ar-condicionado-economico-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2FsW5Wk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo de janela, ideal para espaços já preparados para instalação",
+			"Opção mais acessível da lista"
+		],
+		"technicalDetails": [{ "label": "Capacidade", "value": "7500 BTUs" }, { "label": "Tipo", "value": "Janela" }]
+	},
+	{
+		"id": "samsung-digital-inverter-ultra-connect-12000btus",
+		"name": "Samsung Digital Inverter Ultra Connect 12.000BTUs",
+		"image": "/images/posts/ar-condicionado-economico-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1QD4vTY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Conectividade Wi-Fi integrada",
+			"Compatível com comandos de voz via Bixby, Alexa e Google Assistente"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tecnologia inverter", "value": "Sim (Digital Inverter)" },
+			{ "label": "Conectividade", "value": "Wi-Fi" }
+		]
+	},
+	{
+		"id": "electrolux-color-adapt-9000btus",
+		"name": "Electrolux Color Adapt 9000BTUs",
+		"image": "/images/posts/ar-condicionado-economico-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PEa5a9",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função de autolimpeza",
+			"Recurso AutoSense ajusta a temperatura conforme as condições do ambiente"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "9000 BTUs" },
+			{ "label": "Recursos", "value": "Autolimpeza, AutoSense" }
+		]
+	}
+]

@@ -1,0 +1,190 @@
+[
+	{
+		"id": "forno-suggar-embutir-fe5001ix",
+		"name": "Suggar Embutir FE5001IX (50 litros)",
+		"image": "/images/posts/forno-eletrico-suggar-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1H7FPHT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo de embutir com 50 litros",
+			"5 funções de preparo",
+			"Resistências superior e inferior independentes",
+			"Função grill",
+			"Espeto giratório incluso",
+			"Temperatura ajustável entre 100°C e 250°C",
+			"Timer de até 120 minutos com aviso sonoro",
+			"Revestimento interno Easy Clean",
+			"Luz interna",
+			"Potência de 1800W",
+			"4 níveis de prateleira",
+			"Porta com abertura vertical",
+			"Frontal em aço escovado",
+			"Botões removíveis"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Preço acima da média"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "50 litros" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Temperatura", "value": "100°C a 250°C" },
+			{ "label": "Timer", "value": "analógico (120 minutos)" },
+			{ "label": "Luz interna", "value": "sim" },
+			{
+				"label": "Funções",
+				"value": "5 funções; grill; resistências independentes; Easy Clean; controle de temperatura"
+			},
+			{ "label": "Acessórios", "value": "espeto giratório; prateleira; grade cromada" },
+			{ "label": "Dimensões (A x L x P)", "value": "45 x 67 x 43,05cm" },
+			{ "label": "Peso", "value": "11kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "forno-suggar-fe6602pt",
+		"name": "Suggar FE6602PT (66 litros)",
+		"image": "/images/posts/forno-eletrico-suggar-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1eo144k",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 66 litros",
+			"Espeto giratório",
+			"Função grill",
+			"Duas resistências independentes",
+			"Temperatura de 100°C a 250°C",
+			"Timer de 60 minutos com alarme",
+			"Revestimento Easy Clean",
+			"Luz interna",
+			"Acompanha bandeja, grade e pegador",
+			"Lâmpada piloto"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "66 litros" },
+			{ "label": "Potência", "value": "1800W (127V) / 2200W (220V)" },
+			{ "label": "Temperatura", "value": "100°C a 250°C" },
+			{ "label": "Timer", "value": "analógico (60 minutos)" },
+			{ "label": "Luz interna", "value": "sim" },
+			{
+				"label": "Funções",
+				"value": "grill; resistências independentes; Easy Clean; timer; controle de temperatura"
+			},
+			{ "label": "Acessórios", "value": "grade deslizante; bandeja; pegador; espeto giratório" },
+			{ "label": "Dimensões (A x L x P)", "value": "39,6 x 63,5 x 44,5cm" },
+			{ "label": "Peso", "value": "10,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "forno-suggar-fe4201pt",
+		"name": "Suggar FE4201PT (42 litros)",
+		"image": "/images/posts/forno-eletrico-suggar-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/12xjXxM",
+		"shopeeUrl": null,
+		"advantages": [
+			"Resistências superior e inferior independentes",
+			"Função grill",
+			"Temperatura entre 100°C e 250°C",
+			"Timer com alarme",
+			"Capacidade de 42 litros",
+			"Grade deslizante",
+			"Lâmpada piloto"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Não possui luz interna"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "42 litros" },
+			{ "label": "Potência", "value": "1600W (127V) / 1800W (220V)" },
+			{ "label": "Temperatura", "value": "100°C a 250°C" },
+			{ "label": "Timer", "value": "analógico (60 minutos)" },
+			{ "label": "Luz interna", "value": "não" },
+			{ "label": "Funções", "value": "grill; resistências independentes; timer; controle de temperatura" },
+			{ "label": "Acessórios", "value": "grelha deslizante" },
+			{ "label": "Dimensões (A x L x P)", "value": "32,6 x 51,3 x 39,25cm" },
+			{ "label": "Peso", "value": "6,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "forno-suggar-fe501pt",
+		"name": "Suggar FE501PT (50 litros)",
+		"image": "/images/posts/forno-eletrico-suggar-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1XmjUCV",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função grill",
+			"Resistências superior e inferior",
+			"Temperatura até 250°C",
+			"Timer de 60 minutos",
+			"Acompanha bandeja e grade deslizante",
+			"Lâmpada piloto",
+			"Capacidade de 50 litros"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "50 litros" },
+			{ "label": "Potência", "value": "1600W (127V) / 1800W (220V)" },
+			{ "label": "Temperatura", "value": "100°C a 250°C" },
+			{ "label": "Timer", "value": "analógico (60 minutos)" },
+			{ "label": "Luz interna", "value": "não especificado" },
+			{ "label": "Funções", "value": "grill; resistências independentes; timer; controle de temperatura" },
+			{ "label": "Acessórios", "value": "grade deslizante; bandeja coletora" },
+			{ "label": "Dimensões (A x L x P)", "value": "36 x 56 x 43cm" },
+			{ "label": "Peso", "value": "9,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "forno-suggar-embutir-fe6802pt",
+		"name": "Suggar Embutir FE6802PT (68 litros)",
+		"image": "/images/posts/forno-eletrico-suggar-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2qroa7r",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia de convecção",
+			"5 funções programáveis",
+			"Função grill",
+			"Painel touch",
+			"Função Air Fryer",
+			"Temperatura entre 50°C e 250°C",
+			"Resistências superior e inferior",
+			"5 níveis de prateleira",
+			"Capacidade de 68 litros",
+			"Luz interna",
+			"Revestimento Easy Clean",
+			"Modelo de embutir",
+			"Potência de 2050W",
+			"Acompanha bandeja e cesto"
+		],
+		"disadvantages": ["Disponível apenas em 127V ou 220V (não é bivolt)", "Preço elevado"],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "68 litros" },
+			{ "label": "Potência", "value": "2050W (220V)" },
+			{ "label": "Temperatura", "value": "50°C a 250°C" },
+			{ "label": "Timer", "value": "touch" },
+			{ "label": "Luz interna", "value": "sim" },
+			{ "label": "Porta", "value": "vidro" },
+			{
+				"label": "Funções",
+				"value": "Air Fryer; convecção; grill; 5 programas; Easy Clean; timer; controle de temperatura"
+			},
+			{ "label": "Acessórios", "value": "bandeja; cesto Air Fryer" },
+			{ "label": "Dimensões (A x L x P)", "value": "40,1 x 59,5 x 59cm" },
+			{ "label": "Peso", "value": "24,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		],
+		"specs": {
+			"ratings": {
+				"costBenefit": 4,
+				"capacity": 5,
+				"powerEfficiency": 5,
+				"buildQuality": 5,
+				"easeOfUse": 5,
+				"features": 5,
+				"cleaning": 5
+			}
+		}
+	}
+]

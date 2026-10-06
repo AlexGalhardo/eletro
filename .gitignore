@@ -1,0 +1,32 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env: never commit real secrets
+.env
+.env.*
+!.env.example
+
+# Local database and uploads written by the dev content store
+/.data
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Tests
+/test-results
+/playwright-report
+/coverage
+
+# Knowledge graph cache (rebuild with `graphify .`)
+/graphify-out

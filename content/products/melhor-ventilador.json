@@ -1,0 +1,189 @@
+[
+	{
+		"id": "wap-flow-turbo-8-pas-180w",
+		"name": "WAP Flow Turbo (8 pás) 180W",
+		"image": "/images/posts/melhor-ventilador-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2qjvAqg",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor potente de 180W com 50cm de diâmetro e 8 pás",
+			"Oscilação horizontal de até 90° e inclinação ajustável de até 45°",
+			"Pode ser usado na mesa ou na parede (2 em 1)",
+			"Tecnologia Silent Flow para reduzir o ruído",
+			"Selo Procel de eficiência energética"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "2 em 1 (mesa e parede)" },
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Número de pás", "value": "8" },
+			{ "label": "Diâmetro", "value": "50cm (grade); 40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim (-45° a +45°)" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "50 x 34,5 x 65cm" },
+			{ "label": "Peso", "value": "3,2kg" }
+		]
+	},
+	{
+		"id": "britania-bvt450-maxx-6-pas-160w",
+		"name": "Britânia BVT450 Maxx (6 pás) 160W",
+		"image": "/images/posts/melhor-ventilador-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Zh56FL",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor potente de 160W",
+			"Modelo de coluna com altura ajustável até 1,50m",
+			"Oscilação horizontal automática e inclinação ajustável",
+			"Base estável",
+			"Grade removível para facilitar a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Coluna" },
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "161,7 x 48,5 x 45cm" },
+			{ "label": "Peso", "value": "5,49kg" }
+		]
+	},
+	{
+		"id": "mondial-vsp-40-b-6-pas-140w",
+		"name": "Mondial VSP-40-B (6 pás) 140W",
+		"image": "/images/posts/melhor-ventilador-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/24tLf2F",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design compacto com ventilação silenciosa",
+			"6 pás para melhor ventilação",
+			"Oscilação horizontal e inclinação ajustável",
+			"Base estável, alça para transporte e porta-fio embutido",
+			"Grade removível e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mesa" },
+			{ "label": "Potência", "value": "80W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "61 x 45 x 30,5cm" },
+			{ "label": "Peso", "value": "2,59kg" }
+		]
+	},
+	{
+		"id": "mondial-vsp-30-b-6-pas-60w",
+		"name": "Mondial VSP-30-B (6 pás) 60W",
+		"image": "/images/posts/melhor-ventilador-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/13mhXpk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo econômico e silencioso",
+			"Sistema de ar oscilante ideal para concentração e sono",
+			"Oscilação horizontal e inclinação ajustável",
+			"Base estável e alça para transporte",
+			"Grade removível e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mesa" },
+			{ "label": "Potência", "value": "60W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "30cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "49 x 35 x 24,5cm" },
+			{ "label": "Peso", "value": "1,67kg" }
+		]
+	},
+	{
+		"id": "wap-flow-turbo-de-coluna-8-pas-180w",
+		"name": "WAP Flow Turbo de coluna (8 pás) 180W",
+		"image": "/images/posts/melhor-ventilador-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2eYPuC6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Silent Flow reduz ruído e melhora o vento",
+			"Diâmetro de 50cm com 8 pás",
+			"Oscilação horizontal de até 90° e inclinação ajustável de até 45°",
+			"Altura regulável",
+			"Selo Procel de eficiência energética"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Coluna" },
+			{ "label": "Potência", "value": "180W" },
+			{ "label": "Número de pás", "value": "8" },
+			{ "label": "Diâmetro", "value": "50cm (grade); 40cm (hélice)" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim (-45° a +45°)" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "150 x 50 x 40cm" },
+			{ "label": "Peso", "value": "5,6kg" }
+		]
+	},
+	{
+		"id": "ventisol-fenix-370-3-pas-130w",
+		"name": "Ventisol Fênix 370 (3 pás) 130W",
+		"image": "/images/posts/melhor-ventilador-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fzssqG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modo exaustão e ventilação com design leve",
+			"Diâmetro de 96cm",
+			"Pás leves que aumentam a vida útil do motor",
+			"Lustre embutido com 2 lâmpadas",
+			"Motor e haste em aço tratado com pintura anticorrosiva"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Teto" },
+			{ "label": "Potência", "value": "130W" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Diâmetro", "value": "96cm" },
+			{ "label": "Velocidades", "value": "Variável (modo exaustão e ventilação)" },
+			{ "label": "Controle remoto", "value": "Chave de parede" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "3,15kg" }
+		]
+	},
+	{
+		"id": "britania-bvt400-maxx-force-6-pas-150w",
+		"name": "Britânia BVT400 Maxx Force (6 pás) 150W",
+		"image": "/images/posts/melhor-ventilador-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Ch7dVG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema de segurança contra superaquecimento",
+			"Modelo 2 em 1 (mesa e parede)",
+			"Oscilação horizontal e inclinação ajustável",
+			"Alça para transporte e grade removível para limpeza",
+			"Motor com fusível térmico de segurança"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "2 em 1 (mesa e parede)" },
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "Sim" },
+			{ "label": "Controle remoto", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "61,5 x 45 x 33cm" },
+			{ "label": "Peso", "value": "2,88kg" }
+		]
+	}
+]

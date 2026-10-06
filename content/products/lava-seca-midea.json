@@ -1,0 +1,192 @@
+[
+	{
+		"id": "midea-healthguard-smart-mf200d130wb-13kg",
+		"name": "Midea HealthGuard Smart (MF200D130WB) 13kg",
+		"image": "/images/posts/lava-seca-midea-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://www.mercadolivre.com.br/social/galhardoltda/lists",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 13kg para lavagem e 7kg para secagem",
+			"Conectividade Wi-Fi com controle pelo app MSmartHome",
+			"Compatível com Alexa e Google Assistente",
+			"Steam Care esteriliza até 99,99% das impurezas e alérgenos",
+			"Motor Inverter Quattro silencioso e econômico",
+			"Função Turbo reduz os ciclos em até 40%",
+			"Modo Desodorizar elimina odores das roupas",
+			"Função +Roupa adiciona peças durante o ciclo",
+			"14 programas e 9 funções extras",
+			"Selo Procel A de eficiência energética"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "13kg (lavagem) e 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1200RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "14" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "89,9L (127V) / 98,6L (220V)" },
+			{ "label": "Painel", "value": "Touch digital com botão lunar" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Wi-Fi; Alexa; Google Assistente; MSmartHome; Steam Care; Motor Inverter Quattro; Auto Clean; Turbo; Tira Mancha; Vapor; Enxágue+; Adiar início; Centrifugação; +Roupa; Secagem; Pré-lavagem; Desodorizar; Spray; Limpeza do tambor"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 62cm" },
+			{ "label": "Peso", "value": "69kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-healthguard-smart-mf200d110wb-11kg",
+		"name": "Midea HealthGuard Smart (MF200D110WB) 11kg",
+		"image": "/images/posts/lava-seca-midea-2.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1CnDV5u",
+		"shopeeUrl": null,
+		"advantages": [
+			"Wi-Fi com controle pelo app MSmartHome",
+			"Compatível com Alexa e Google Assistente",
+			"Motor Inverter Quattro silencioso",
+			"Steam Care para higienização das roupas",
+			"Função Turbo reduz o tempo dos ciclos",
+			"Auto Clean limpa o tambor automaticamente",
+			"Modo Desodorizar",
+			"14 programas de lavagem",
+			"Função +Roupa",
+			"Selo Procel A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem) e 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "14" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "84,7L (127V) / 81,5L (220V)" },
+			{ "label": "Painel", "value": "Touch digital com botão lunar" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Wi-Fi; Alexa; Google Assistente; MSmartHome; Steam Care; Motor Inverter Quattro; Auto Clean; Turbo; Tira Mancha; Vapor; Enxágue+; Adiar início; Centrifugação; +Roupa; Secagem; Pré-lavagem; Desodorizar; Spray; Limpeza do tambor"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 59cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-healthguard-titanium-mf200d105wb-10-5kg",
+		"name": "Midea HealthGuard Titanium (MF200D105WB) 10,5kg",
+		"image": "/images/posts/lava-seca-midea-3.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://www.mercadolivre.com.br/social/galhardoltda/lists",
+		"shopeeUrl": null,
+		"advantages": [
+			"Motor Inverter Quattro",
+			"Conectividade Wi-Fi",
+			"Compatível com Alexa e Google Assistente",
+			"Steam Care para higienização",
+			"Função Turbo",
+			"Modo Desodorizar",
+			"14 programas e 9 funções extras",
+			"Auto Clean",
+			"Função +Roupa",
+			"Garantia de 2 anos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "10,5kg (lavagem) e 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "14" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "84,2L (127V) / 79,8L (220V)" },
+			{ "label": "Painel", "value": "Touch digital com botão lunar" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Wi-Fi; Alexa; Google Assistente; MSmartHome; Steam Care; Motor Inverter Quattro; Auto Clean; Turbo; Tira Mancha; Vapor; Enxágue+; Adiar início; Centrifugação; +Roupa; Secagem; Pré-lavagem; Desodorizar; Spray; Limpeza do tambor"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 59cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-master-clean-smart-mfm01d110wb-11kg",
+		"name": "Midea Master Clean Smart (MFM01D110WB/WKBR04) 11kg",
+		"image": "/images/posts/lava-seca-midea-4.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://www.mercadolivre.com.br/social/galhardoltda/lists",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Master Clean para manchas específicas",
+			"Wi-Fi com app Midea SmartHome",
+			"Compatível com Alexa e Google Assistente",
+			"Motor Inverter silencioso",
+			"Função Turbo",
+			"Auto Weight ajusta o ciclo automaticamente",
+			"Função Favorito",
+			"18 programas completos",
+			"Limpeza automática do tambor",
+			"Selo Procel A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem) e 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1400RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "18" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "69,3L (127V) / 67,2L (220V)" },
+			{ "label": "Painel", "value": "Touch digital + Knob" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Wi-Fi; Alexa; Google Assistente; SmartHome; Motor Inverter; Master Clean; Auto Weight; Favorito; Turbo; Secagem+; Temperatura; Adiar início; Centrifugação+; Silenciar; Travar painel"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,9 x 57,1cm" },
+			{ "label": "Peso", "value": "68kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-slim-healthguard-mf201d110wb-11kg",
+		"name": "Midea Slim HealthGuard (MF201D110WB) 11kg",
+		"image": "/images/posts/lava-seca-midea-5.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1priQTg",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design Slim para lavanderias compactas",
+			"Wi-Fi e controle pelo aplicativo",
+			"Compatível com Alexa e Google Home",
+			"Painel touch com Knob Lunar Dial",
+			"14 programas + 5 extras no app",
+			"Função +Roupa",
+			"Tecnologia Inverter BLDC",
+			"Funciona com água fria e quente",
+			"Selo Procel A",
+			"Pés ajustáveis"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "11kg (lavagem) e 7kg (secagem)" },
+			{ "label": "Velocidade de centrifugação", "value": "1200RPM" },
+			{ "label": "Tipo", "value": "Lava e seca automática" },
+			{ "label": "Quantidade de programas", "value": "14 (+5 no app)" },
+			{ "label": "Abertura", "value": "Frontal" },
+			{ "label": "Consumo de água", "value": "81L (127V) / 83L (220V)" },
+			{ "label": "Painel", "value": "Touch + Knob Lunar Dial" },
+			{ "label": "Material do cesto", "value": "Aço inox" },
+			{
+				"label": "Funções especiais",
+				"value": "Wi-Fi; Alexa; Google Home; SmartHome; Turbo; Centrifugar; Temperatura; Adiar início; +Roupa; Vapor; Secagem; Tira Mancha; Enxágue+; Travar painel; Especialista via app"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "85 x 59,5 x 57,5cm" },
+			{ "label": "Peso", "value": "63,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

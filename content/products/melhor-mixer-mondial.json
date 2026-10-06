@@ -1,0 +1,190 @@
+[
+	{
+		"id": "mondial-m-18-bi-500w",
+		"name": "Mondial M-18-BI 500W",
+		"image": "/images/posts/mixer-mondial-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2mL57hr",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema 3 em 1: mixer, batedor e processador",
+			"Função Turbo para ingredientes mais consistentes",
+			"Quatro lâminas em aço inox com corte vertical e horizontal",
+			"Copo com capacidade de 800mL, tampa e graduação lateral",
+			"Corpo desmontável facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "3 em 1 (mixer, processador e batedor)" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "Inox" },
+			{ "label": "Acessórios inclusos", "value": "Copo 800mL com tampa; processador 600mL; batedor de claras" },
+			{ "label": "Peso", "value": "1,6kg" },
+			{ "label": "Dimensões (A x L x P)", "value": "36,5 x 13,5 x 13,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	},
+	{
+		"id": "mondial-m-14-500w",
+		"name": "Mondial M-14 500W",
+		"image": "/images/posts/mixer-mondial-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2DMDu12",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema 3 em 1: mixer, batedor e processador",
+			"Copo com tampa e capacidade de 600mL",
+			"Estrutura compacta ocupa pouco espaço",
+			"Corpo fácil de desmontar para limpeza",
+			"Potência de 500W com função Turbo"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "3 em 1 (mixer, processador e batedor)" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "PP" },
+			{ "label": "Acessórios inclusos", "value": "Copo 600mL com tampa; processador; batedor de claras" },
+			{ "label": "Peso", "value": "1,1kg" },
+			{ "label": "Dimensões (A x L x P)", "value": "36 x 13,5 x 13,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	},
+	{
+		"id": "mondial-m-15-b-200w",
+		"name": "Mondial M-15-B 200W",
+		"image": "/images/posts/mixer-mondial-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/18uC11i",
+		"shopeeUrl": null,
+		"advantages": [
+			"Copo de 600mL com tampa e graduação lateral",
+			"Pode ser utilizado diretamente em panelas e outros recipientes",
+			"Corpo desmontável facilita a limpeza",
+			"Design leve, compacto e ergonômico"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mixer" },
+			{ "label": "Potência", "value": "200W ou 350W" },
+			{ "label": "Velocidades", "value": "1 nível + função pulsar" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "PP" },
+			{ "label": "Acessórios inclusos", "value": "Copo 600mL com tampa" },
+			{ "label": "Peso", "value": "580g" },
+			{ "label": "Dimensões (A x L x P)", "value": "36,5 x 6,5 x 6,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "mondial-m-10-500w",
+		"name": "Mondial M-10 500W",
+		"image": "/images/posts/mixer-mondial-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1Hr7PHJ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Duas funções: mixer e processador",
+			"Função Turbo para ingredientes mais densos",
+			"Copo de 800mL com graduação lateral e tampa",
+			"Base antiderrapante no processador",
+			"Corpo desmontável facilita a limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mixer e processador" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "PP e inox" },
+			{ "label": "Acessórios inclusos", "value": "Copo 800mL com tampa; processador" },
+			{ "label": "Peso", "value": "730g" },
+			{ "label": "Dimensões (A x L x P)", "value": "38 x 6,5 x 6,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	},
+	{
+		"id": "mondial-m-16-bi-500w",
+		"name": "Mondial M-16-BI 500W",
+		"image": "/images/posts/mixer-mondial-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2MAPakT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Copo de 800mL com tampa e graduação lateral",
+			"Lâmina em aço inox com corte vertical e horizontal",
+			"Haste em aço inox não absorve odores nem mancha",
+			"Função Turbo para ingredientes mais firmes",
+			"Corpo de fácil desmontagem"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mixer" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "PP e inox" },
+			{ "label": "Acessórios inclusos", "value": "Copo 800mL com tampa" },
+			{ "label": "Peso", "value": "720g" },
+			{ "label": "Dimensões (A x L x P)", "value": "37,5 x 6,5 x 6,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	},
+	{
+		"id": "mondial-m-07-500w",
+		"name": "Mondial M-07 500W",
+		"image": "/images/posts/mixer-mondial-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2bhnXaT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função mixer e processador",
+			"Lâmina em aço inox com corte vertical e horizontal",
+			"Copo com tampa, graduação e capacidade de 800mL",
+			"Base antiderrapante no processador",
+			"Função Turbo tritura ingredientes mais resistentes"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mixer e processador" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "PP e inox" },
+			{ "label": "Acessórios inclusos", "value": "Copo 800mL com tampa; processador" },
+			{ "label": "Peso", "value": "730g" },
+			{ "label": "Dimensões (A x L x P)", "value": "38 x 6,5 x 6,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	},
+	{
+		"id": "mondial-m-17-bi-500w",
+		"name": "Mondial M-17-BI 500W",
+		"image": "/images/posts/mixer-mondial-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2RZD9aC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Haste e 4 lâminas em aço inox resistentes a altas temperaturas",
+			"Copo de 800mL com tampa e medição lateral",
+			"Corpo desmontável de fácil higienização",
+			"Processa ingredientes densos com função Turbo",
+			"Design ergonômico com manuseio confortável"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Mixer" },
+			{ "label": "Potência", "value": "500W" },
+			{ "label": "Velocidades", "value": "1 nível + função Turbo" },
+			{ "label": "Lâminas", "value": "Aço inoxidável" },
+			{ "label": "Material do corpo", "value": "Inox" },
+			{ "label": "Acessórios inclusos", "value": "Copo 800mL com tampa" },
+			{ "label": "Peso", "value": "612g" },
+			{ "label": "Dimensões (A x L x P)", "value": "37 x 6,5 x 6,5cm" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "12 meses" }
+		]
+	}
+]

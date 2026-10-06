@@ -1,0 +1,176 @@
+[
+	{
+		"id": "makita-hp0300-320w",
+		"name": "Makita HP0300 320W",
+		"image": "/images/posts/melhor-parafusadeira-com-fio-1.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2UPJ8TC",
+		"shopeeUrl": null,
+		"advantages": [
+			"Mandril de aperto rápido facilita a troca de brocas",
+			"Duas velocidades mecânicas para mais força ou maior velocidade",
+			"Seletor de função para alternar entre diferentes modos de operação",
+			"Torque máximo de 74Nm com 20 níveis de ajuste",
+			"Velocidade variável para maior controle durante o uso",
+			"Sistema de dupla isolação para maior segurança elétrica",
+			"Potência de 320W para uso frequente e serviços intensos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "320W" },
+			{ "label": "Comprimento do cabo", "value": "Não especificado" },
+			{ "label": "Velocidade (RPM)", "value": "1500RPM" },
+			{ "label": "Torque máximo", "value": "74Nm" },
+			{ "label": "Classe de proteção", "value": "Classe II" },
+			{ "label": "Mandril", "value": "10mm" },
+			{
+				"label": "Recursos adicionais",
+				"value": "Velocidade variável; controle de torque em 20 posições; duas velocidades; seletor de função; dupla isolação"
+			},
+			{ "label": "Acessórios incluídos", "value": "Não especificado" },
+			{ "label": "Dimensões (A x L x P)", "value": "20,6 x 6,7 x 23,5cm" },
+			{ "label": "Peso", "value": "1,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "bosch-gsr-7-14-400w",
+		"name": "Bosch GSR 7-14 400W",
+		"image": "/images/posts/melhor-parafusadeira-com-fio-2.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2JR3CVM",
+		"shopeeUrl": null,
+		"advantages": [
+			"Cabo elétrico de 4 metros",
+			"Potência de 400W",
+			"Controle de torque com 25 níveis",
+			"Duas velocidades mecânicas para perfuração e parafusamento",
+			"Embreagem de segurança reduz impactos em caso de travamento",
+			"Mandril sem chave de 0,8mm a 10mm",
+			"Interruptor eletrônico para controle da velocidade",
+			"Botão trava para uso contínuo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Comprimento do cabo", "value": "4 metros" },
+			{ "label": "Velocidade (RPM)", "value": "1400RPM" },
+			{ "label": "Torque máximo", "value": "10,3Nm" },
+			{ "label": "Classe de proteção", "value": "Não especificado" },
+			{ "label": "Mandril", "value": "10mm" },
+			{
+				"label": "Recursos adicionais",
+				"value": "Controle de torque em 25 níveis; embreagem de segurança; mandril sem chave; interruptor eletrônico; botão trava; duas velocidades"
+			},
+			{ "label": "Acessórios incluídos", "value": "Não especificado" },
+			{ "label": "Dimensões (A x L x P)", "value": "20,4 x 6,8 x 21,4cm" },
+			{ "label": "Peso", "value": "1,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "vonder-fpv300-280w",
+		"name": "Vonder FPV300 280W",
+		"image": "/images/posts/melhor-parafusadeira-com-fio-3.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2xyksq4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Perfura até 10mm em metal e 20mm em madeira",
+			"Aletas de ventilação para melhor resfriamento",
+			"Torque com 23 níveis de ajuste",
+			"Velocidade variável",
+			"Seletor de reversão para apertar e remover parafusos",
+			"Botão trava para trabalhos prolongados",
+			"Empunhadura emborrachada",
+			"Sistema de dupla isolação",
+			"Mandril de aperto rápido",
+			"Garantia de 12 meses"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "280W" },
+			{ "label": "Comprimento do cabo", "value": "Não especificado" },
+			{ "label": "Velocidade (RPM)", "value": "750RPM" },
+			{ "label": "Torque máximo", "value": "10Nm" },
+			{ "label": "Classe de proteção", "value": "Classe II" },
+			{ "label": "Mandril", "value": "10mm" },
+			{
+				"label": "Recursos adicionais",
+				"value": "Torque com 23 níveis; velocidade variável; seletor de reversão; botão trava; empunhadura emborrachada; função para perfurar; dupla isolação"
+			},
+			{ "label": "Acessórios incluídos", "value": "Não especificado" },
+			{ "label": "Dimensões (A x L x P)", "value": "Não especificado" },
+			{ "label": "Peso", "value": "1,47kg" },
+			{ "label": "Voltagem", "value": "127V" }
+		]
+	},
+	{
+		"id": "vonder-ppv438-400w",
+		"name": "Vonder PPV438 400W",
+		"image": "/images/posts/melhor-parafusadeira-com-fio-4.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1MBSUuT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura compacta para tarefas domésticas",
+			"Torque máximo de 32Nm com 19 níveis de ajuste",
+			"Duas velocidades: 450RPM e 1200RPM",
+			"Empunhadura emborrachada",
+			"Sistema de dupla isolação",
+			"Mandril de aperto rápido",
+			"Garantia de 12 meses"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "400W" },
+			{ "label": "Comprimento do cabo", "value": "Não especificado" },
+			{ "label": "Velocidade (RPM)", "value": "450RPM e 1200RPM" },
+			{ "label": "Torque máximo", "value": "32Nm" },
+			{ "label": "Classe de proteção", "value": "Classe II" },
+			{ "label": "Mandril", "value": "10mm" },
+			{
+				"label": "Recursos adicionais",
+				"value": "Torque com 19 níveis; duas velocidades; empunhadura emborrachada; função para perfurar; dupla isolação"
+			},
+			{ "label": "Acessórios incluídos", "value": "Não acompanha" },
+			{ "label": "Dimensões (A x L x P)", "value": "Não especificado" },
+			{ "label": "Peso", "value": "1,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "wesco-ws3231-300w",
+		"name": "Wesco WS3231 300W",
+		"image": "/images/posts/melhor-parafusadeira-com-fio-5.jpg",
+		"category": "ferramentas",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1oxu2pA",
+		"shopeeUrl": null,
+		"advantages": [
+			"Controle de torque regulável",
+			"16 níveis de torque mais função perfuração",
+			"Mandril de aperto rápido",
+			"Velocidade variável",
+			"Reversão do sentido de rotação",
+			"Interruptor liga/desliga",
+			"Botão trava para uso contínuo"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "300W" },
+			{ "label": "Comprimento do cabo", "value": "Não especificado" },
+			{ "label": "Velocidade (RPM)", "value": "800RPM" },
+			{ "label": "Torque máximo", "value": "16Nm" },
+			{ "label": "Classe de proteção", "value": "Classe II" },
+			{ "label": "Mandril", "value": "10mm" },
+			{
+				"label": "Recursos adicionais",
+				"value": "Torque com 17 níveis; mandril sem chave; velocidade variável; reversão; interruptor eletrônico; botão trava; função para perfurar"
+			},
+			{ "label": "Acessórios incluídos", "value": "Não especificado" },
+			{ "label": "Dimensões (A x L x P)", "value": "Não especificado" },
+			{ "label": "Peso", "value": "1,6kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

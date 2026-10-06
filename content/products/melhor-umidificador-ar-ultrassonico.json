@@ -1,0 +1,162 @@
+[
+	{
+		"id": "wap-air-flow-digital-2-3l",
+		"name": "WAP Air Flow Digital (2,3 litros)",
+		"image": "/images/posts/umidificador-ar-ultrassonico-1.jpg",
+		"category": "climatizacao",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2mymNGX",
+		"shopeeUrl": null,
+		"advantages": [
+			"Display digital com iluminação desligável",
+			"Autonomia de até 23 horas",
+			"Função 3 em 1: umidifica, aromatiza e ilumina o ambiente",
+			"Névoa direcional ajustável",
+			"Controle de umidade",
+			"3 níveis de intensidade de névoa",
+			"Temporizador de até 9 horas",
+			"Desligamento automático",
+			"Motor super silencioso",
+			"Acompanha adesivos com temática do fundo do mar",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "2,3 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "23 horas" },
+			{ "label": "Função luminária", "value": "sim" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "23,5 x 16,5 x 17cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "g-tech-allergy-free-dual-3l",
+		"name": "G-Tech Allergy Free Dual (3 litros)",
+		"image": "/images/posts/umidificador-ar-ultrassonico-2.jpg",
+		"category": "climatizacao",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/11YHFZ7",
+		"shopeeUrl": null,
+		"advantages": [
+			"Saída dupla de névoa com direcionamento em 360°",
+			"Reservatório de 3 litros",
+			"Funcionamento super silencioso",
+			"Desligamento automático quando falta água",
+			"Até 7 horas de funcionamento",
+			"Vazão de névoa de 250mL/h",
+			"Botão frontal com ajuste de intensidade",
+			"Indicador luminoso de funcionamento",
+			"Alça integrada para transporte",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "3 litros" },
+			{ "label": "Área de cobertura", "value": "20m² a 25m²" },
+			{ "label": "Tempo de funcionamento", "value": "10 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "34 x 19 x 19cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "wap-air-flow-4l",
+		"name": "WAP Air Flow (4 litros)",
+		"image": "/images/posts/umidificador-ar-ultrassonico-3.jpg",
+		"category": "climatizacao",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fcTa2F",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 4 litros",
+			"Autonomia de até 12 horas",
+			"Sistema de luzes com alternância de cores",
+			"Difusor para fragrâncias e óleos essenciais",
+			"Indicadores luminosos de funcionamento e falta de água",
+			"Saída de névoa multidirecional",
+			"Intensidade de névoa ajustável",
+			"Funcionamento super silencioso",
+			"Desligamento automático",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "4 litros" },
+			{ "label": "Área de cobertura", "value": "25m² a 30m²" },
+			{ "label": "Tempo de funcionamento", "value": "12 horas" },
+			{ "label": "Função luminária", "value": "sim" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "32 x 20,8 x 20,2cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "britania-bud04b-4-8l",
+		"name": "Britânia BUD04B (4,8 litros)",
+		"image": "/images/posts/umidificador-ar-ultrassonico-4.jpg",
+		"category": "climatizacao",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2hDJiNP",
+		"shopeeUrl": null,
+		"advantages": [
+			"Vazão de vapor de 200mL/h",
+			"Estrutura compacta",
+			"Modelo bivolt",
+			"Garantia de 1 ano",
+			"Potência de 25W",
+			"Autonomia de até 17 horas",
+			"Reservatório removível de 4,8 litros",
+			"Funcionamento silencioso",
+			"Intensidade de névoa regulável",
+			"Desligamento automático por baixo nível de água",
+			"Indicador de reservatório vazio"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "4,8 litros" },
+			{ "label": "Área de cobertura", "value": "não especificado" },
+			{ "label": "Tempo de funcionamento", "value": "17 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "não" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,5 x 20,5 x 23cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	},
+	{
+		"id": "fisher-price-hc055-2-2l",
+		"name": "Fisher Price HC055 (2,2 litros)",
+		"image": "/images/posts/umidificador-ar-ultrassonico-5.jpg",
+		"category": "climatizacao",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2YYvxVY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funcionamento silencioso com até 35dB",
+			"Indicado para ambientes de 25m² a 30m²",
+			"Compartimento para óleos essenciais",
+			"Desligamento automático quando o nível de água está baixo",
+			"Autonomia de 8 a 28 horas",
+			"Saída de ar com tampa removível para limpeza",
+			"Peso de apenas 890g",
+			"Acompanha cartela de adesivos personalizáveis"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de umidificador", "value": "ultrassônico" },
+			{ "label": "Capacidade do reservatório", "value": "2,2 litros" },
+			{ "label": "Área de cobertura", "value": "25m² a 30m²" },
+			{ "label": "Tempo de funcionamento", "value": "8 a 28 horas" },
+			{ "label": "Função luminária", "value": "não" },
+			{ "label": "Difusor de aromas", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Dimensões (A x L x P)", "value": "29 x 16 x 16cm" },
+			{ "label": "Tensão", "value": "bivolt" }
+		]
+	}
+]

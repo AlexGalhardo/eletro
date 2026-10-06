@@ -1,0 +1,20 @@
+{
+	// Keep a Changelog repeats "Added"/"Fixed" under every version, so duplicate headings are only
+	// an error between siblings. Line length is left to the editor.
+	"config": {
+		"default": true,
+		"MD013": false,
+		"MD024": { "siblings_only": true },
+		"MD033": false,
+		"MD041": false,
+		"MD060": false
+	},
+	"globs": [
+		"*.md",
+		"docs/**/*.md",
+		".claude/rules/**/*.md",
+		".claude/skills/project-*/**/*.md",
+		".github/**/*.md"
+	],
+	"ignores": ["node_modules", "PROMPT-CREATE-CMS.md", "docs/prompts"]
+}

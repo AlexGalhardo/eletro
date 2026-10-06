@@ -1,0 +1,205 @@
+[
+	{
+		"id": "electrolux-yi24r-ye24r-quente-e-frio-24000-btus",
+		"name": "Electrolux (YI24R/YE24R) \"Quente e Frio\" 24.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1QPkEn5",
+		"shopeeUrl": null,
+		"advantages": [
+			"Capacidade de 24.000 BTUs refrigera ambientes até 40m²",
+			"Ciclo quente e frio com tecnologia Inverter",
+			"Controle remoto via Wi-Fi e tecnologia Auto Sense",
+			"Tripla filtragem elimina até 99,9% de alérgenos, bactérias e fungos",
+			"Sistema de autolimpeza e acabamento Blue Tech anticorrosão"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "24.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "quente e frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "tecnologia Inverter; tecnologia Color Adapt; controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; app Electrolux Home+"
+			},
+			{ "label": "Dimensões unidade externa", "value": "79,2 x 52,3 x 46,3cm" },
+			{ "label": "Dimensões unidade interna", "value": "42,7 x 112,5 x 32,8cm" }
+		]
+	},
+	{
+		"id": "electrolux-yi18r-ye18r-quente-e-frio-18000-btus",
+		"name": "Electrolux (YI18R/YE18R) \"Quente e Frio\" 18.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Gz5xPo",
+		"shopeeUrl": null,
+		"advantages": [
+			"Compatível com comandos de voz via Alexa e Google Assistant",
+			"Resfria o ambiente até 37% mais rápido",
+			"Tecnologia Inverter com até 80% de eficiência energética",
+			"Função Sleep adapta a temperatura durante o descanso",
+			"Sistema de tripla filtragem e autolimpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "18.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "quente e frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "tecnologia Inverter; tecnologia Color Adapt; controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; comandos de voz; função Sleep"
+			},
+			{ "label": "Dimensões unidade externa", "value": "63 x 52,3 x 46,3cm" },
+			{ "label": "Dimensões unidade interna", "value": "42,7 x 112,5 x 32,8cm" }
+		]
+	},
+	{
+		"id": "electrolux-ui18f-ue18f-so-frio-18000-btus",
+		"name": "Electrolux (UI18F/UE18F) \"Só Frio\" 18.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1LUGzw4",
+		"shopeeUrl": null,
+		"advantages": [
+			"Refrigera áreas de até 30m² com 18.000 BTUs",
+			"Sistema de autolimpeza e revestimento Blue Tech",
+			"Sistema de tripla filtragem elimina até 99,9% de impurezas",
+			"Acabamento Color Adapt permite pintar a unidade interna",
+			"Controle remoto por aplicativo com função Auto Sense"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "18.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "não" },
+			{ "label": "Ciclo", "value": "frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "E" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "tecnologia Color Adapt; controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; filtro HEPA"
+			},
+			{ "label": "Dimensões unidade externa", "value": "63 x 52,3 x 46,3cm" },
+			{ "label": "Dimensões unidade interna", "value": "34,6 x 107,5 x 25cm" }
+		]
+	},
+	{
+		"id": "electrolux-yi09f-ye09f-so-frio-9000-btus",
+		"name": "Electrolux (Yi09F/YE09F) \"Só Frio\" 9.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PEa5a9",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tecnologia Inverter reduz o consumo em até 80%",
+			"Conectividade Wi-Fi com comandos de voz via Alexa e Google Assistant",
+			"Unidade interna personalizável com a tecnologia Color Adapt",
+			"Elimina até 99,9% de alérgenos, bactérias e fungos",
+			"Resfria o ambiente até 37% mais rápido"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "9.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; tecnologia Color Adapt"
+			},
+			{ "label": "Dimensões unidade externa", "value": "55,1 x 44,6 x 44,6cm" },
+			{ "label": "Dimensões unidade interna", "value": "28,9 x 85,3 x 20,6cm" }
+		]
+	},
+	{
+		"id": "electrolux-yi09r-ye09r-quente-e-frio-9000-btus",
+		"name": "Electrolux (YI09R/YE09R) \"Quente e Frio\" 9.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1SzYq1i",
+		"shopeeUrl": null,
+		"advantages": [
+			"Até 80% de economia energética com tecnologia Inverter",
+			"Controle remoto via Wi-Fi pelo aplicativo Electrolux",
+			"Compatível com assistentes de voz Alexa e Google Assistant",
+			"Climatiza o ambiente até 37% mais rápido",
+			"Ciclo quente e frio para uso durante todo o ano"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "9.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "quente e frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; tecnologia Color Adapt; comando de voz"
+			},
+			{ "label": "Dimensões unidade externa", "value": "55,1 x 44,6 x 44,6cm" },
+			{ "label": "Dimensões unidade interna", "value": "28,9 x 85,3 x 20,6cm" }
+		]
+	},
+	{
+		"id": "electrolux-yi12f-ye12f-so-frio-12000-btus",
+		"name": "Electrolux (YI12F/YE12F) \"Só Frio\" 12.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ysmBeu",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design personalizável com a tecnologia Color Adapt",
+			"12.000 BTUs para refrigerar ambientes de até 18m²",
+			"Controle remoto pelo aplicativo via Wi-Fi",
+			"Compatibilidade com comandos de voz Alexa e Google Assistant",
+			"Resfriamento 37% mais rápido com sistema de tripla filtragem"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; tecnologia Color Adapt; comandos de voz"
+			},
+			{ "label": "Dimensões unidade externa", "value": "62,5 x 44,6 x 44,6cm" },
+			{ "label": "Dimensões unidade interna", "value": "28,9 x 85,3 x 20,6cm" }
+		]
+	},
+	{
+		"id": "electrolux-yi12r-ye12r-quente-e-frio-12000-btus",
+		"name": "Electrolux (YI12R/YE12R) \"Quente e Frio\" 12.000 BTUs",
+		"image": "/images/posts/ar-condicionado-electrolux-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2RMv1ae",
+		"shopeeUrl": null,
+		"advantages": [
+			"Painel customizável com a tecnologia Color Adapt",
+			"Controle das funções via Wi-Fi e comandos de voz",
+			"Tecnologia Inverter com 80% mais eficiência energética",
+			"Tripla filtragem elimina até 99% de bactérias e alérgenos",
+			"Sistema de autolimpeza previne mofo, bolor e bactérias"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12.000 BTUs" },
+			{ "label": "Tipo", "value": "Split High Wall" },
+			{ "label": "Tecnologia inverter", "value": "sim" },
+			{ "label": "Ciclo", "value": "quente e frio" },
+			{ "label": "Voltagem", "value": "220V" },
+			{ "label": "Classificação energética", "value": "C" },
+			{
+				"label": "Funcionalidades e recursos",
+				"value": "controle via Wi-Fi; tecnologia Auto Sense; tripla filtragem; autolimpeza; proteção Blue Tech; tecnologia Color Adapt; comandos de voz"
+			},
+			{ "label": "Dimensões unidade externa", "value": "62,5 x 44,6 x 44,6cm" },
+			{ "label": "Dimensões unidade interna", "value": "28,9 x 85,3 x 20,6cm" }
+		]
+	}
+]

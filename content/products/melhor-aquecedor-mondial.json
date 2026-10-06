@@ -1,0 +1,173 @@
+[
+	{
+		"id": "mondial-a-06-1500w",
+		"name": "Mondial A-06 1500W",
+		"image": "/images/posts/aquecedor-mondial-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2m5taAG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aquecimento a óleo que não resseca o ar",
+			"Controle gradual de temperatura por termostato com três potências (600W, 900W e 1500W)",
+			"7 elementos de calefação mantêm o calor por mais tempo",
+			"Sistema de segurança com desligamento automático em caso de queda",
+			"Cobre áreas de até 16m² ou 43m³"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil a óleo" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (progressivo)" },
+			{ "label": "Área de cobertura", "value": "Até 16m²" },
+			{ "label": "Dispositivo de segurança", "value": "Sistema antiqueda com desligamento automático" },
+			{ "label": "Termostato", "value": "Sim, com regulagem manual" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "62,5 x 24,5 x 35,5cm" },
+			{ "label": "Peso", "value": "8kg" }
+		]
+	},
+	{
+		"id": "mondial-termo-ceramic-a-05-1500w",
+		"name": "Mondial Termo Ceramic A-05 1500W",
+		"image": "/images/posts/aquecedor-mondial-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ERZCoQ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funções de aquecimento, ventilação e desumidificação do ar",
+			"Resistência de cerâmica favorece um aquecimento rápido",
+			"Grade de proteção bloqueia o contato direto com a área quente",
+			"Corpo compacto com peso de apenas 1,5kg",
+			"Indicado para ambientes de até 12m² ou 25m³"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil cerâmico" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (progressivo)" },
+			{ "label": "Área de cobertura", "value": "Até 12m²" },
+			{
+				"label": "Dispositivo de segurança",
+				"value": "Sistema antiqueda com desligamento automático e grade de proteção"
+			},
+			{ "label": "Termostato", "value": "Sim, com regulagem manual" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,5 x 20 x 15cm" },
+			{ "label": "Peso", "value": "1,5kg" }
+		]
+	},
+	{
+		"id": "mondial-a-08-1500w",
+		"name": "Mondial A-08 1500W",
+		"image": "/images/posts/aquecedor-mondial-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Jf3vDJ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura compacta com apenas 840g",
+			"Protetor térmico ajuda a evitar o superaquecimento",
+			"Função 3 em 1: aquece, circula e desumidifica o ar",
+			"Regulagem de temperatura por termostato com 2 níveis de aquecimento",
+			"Potência máxima de 1800W (127V) e 2000W (220V)"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Não especificado" },
+			{ "label": "Potência", "value": "1800W (127V); 2000W (220V)" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (progressivo)" },
+			{ "label": "Área de cobertura", "value": "Até 12m²" },
+			{
+				"label": "Dispositivo de segurança",
+				"value": "Sistema antiqueda com desligamento automático, protetor térmico e grade de proteção"
+			},
+			{ "label": "Termostato", "value": "Sim, com regulagem manual" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "26,5 x 22 x 13,5cm" },
+			{ "label": "Peso", "value": "840g" }
+		]
+	},
+	{
+		"id": "mondial-comfort-air-iii-a-16-900w",
+		"name": "Mondial Comfort Air III A-16 900W",
+		"image": "/images/posts/aquecedor-mondial-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2zGV9Vx",
+		"shopeeUrl": null,
+		"advantages": [
+			"Aquecimento por lâmpadas de quartzo que não resseca o ar",
+			"Duas potências ajustáveis (450W e 900W)",
+			"Aquece e desumidifica o ambiente",
+			"Grade de segurança reduz o contato com a parte aquecida",
+			"Estrutura leve de 840g com alça para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil a quartzo" },
+			{ "label": "Potência", "value": "900W" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (2 níveis)" },
+			{ "label": "Área de cobertura", "value": "12m²" },
+			{
+				"label": "Dispositivo de segurança",
+				"value": "Sistema antiqueda com desligamento automático e grade de proteção"
+			},
+			{ "label": "Termostato", "value": "Não especificado" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "37 x 31 x 13,5cm" },
+			{ "label": "Peso", "value": "840g" }
+		]
+	},
+	{
+		"id": "mondial-comfort-air-ii-a-15-900w",
+		"name": "Mondial Comfort Air II A-15 900W",
+		"image": "/images/posts/aquecedor-mondial-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2MvPmCa",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potências de 450W e 900W",
+			"Corpo compacto de 840g facilita a movimentação",
+			"Sistema 2 em 1: aquece e desumidifica o ar",
+			"Lâmpadas de quartzo transferem calor sem ressecar o ambiente",
+			"Proteção contra quedas interrompe o aquecimento automaticamente"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil a quartzo" },
+			{ "label": "Potência", "value": "900W" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (2 níveis)" },
+			{ "label": "Área de cobertura", "value": "12m²" },
+			{
+				"label": "Dispositivo de segurança",
+				"value": "Sistema antiqueda com desligamento automático e grade de proteção"
+			},
+			{ "label": "Termostato", "value": "Não especificado" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "37 x 31 x 13,5cm" },
+			{ "label": "Peso", "value": "840g" }
+		]
+	},
+	{
+		"id": "mondial-comfort-air-a-09-800w",
+		"name": "Mondial Comfort Air A-09 800W",
+		"image": "/images/posts/aquecedor-mondial-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2wvEWYc",
+		"shopeeUrl": null,
+		"advantages": [
+			"Duas lâmpadas de quartzo com potências de 400W e 800W",
+			"Cobertura indicada para espaços de até 12m² ou 25m³",
+			"Desligamento automático em caso de queda",
+			"Grade frontal reduz o acesso direto às lâmpadas aquecidas",
+			"Baixo nível de ruído e alça integrada"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil a quartzo" },
+			{ "label": "Potência", "value": "400W ou 800W" },
+			{ "label": "Ajuste de temperatura", "value": "Sim (2 níveis)" },
+			{ "label": "Área de cobertura", "value": "12m²" },
+			{
+				"label": "Dispositivo de segurança",
+				"value": "Sistema antiqueda com desligamento automático em caso de tombamento e grade de proteção"
+			},
+			{ "label": "Termostato", "value": "Não" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "37 x 31 x 13,5cm" },
+			{ "label": "Peso", "value": "840g" }
+		]
+	}
+]

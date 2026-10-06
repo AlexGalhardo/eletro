@@ -1,0 +1,173 @@
+[
+	{
+		"id": "tramontina-express-69060011-2-165w",
+		"name": "Tramontina Express 69060011/2 165W",
+		"image": "/images/posts/moedor-eletrico-cafe-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1uG7VA9",
+		"shopeeUrl": null,
+		"advantages": [
+			"Mós cônicas garantem moagem uniforme e melhor preservação do sabor",
+			"60 níveis de ajuste de moagem para diferentes métodos de preparo",
+			"Operação automática, sem necessidade de segurar o porta-filtro",
+			"Painel LCD retroiluminado com exibição de moagem e tempo",
+			"Reservatório com capacidade para 450g de grãos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "165W" },
+			{ "label": "Capacidade de moagem", "value": "450g" },
+			{ "label": "Material do corpo", "value": "Aço inox escovado" },
+			{ "label": "Lâminas ou mós", "value": "Mós cônicas" },
+			{ "label": "Níveis de moagem", "value": "60 níveis ajustáveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "36,5 x 21,5 x 16,5cm" },
+			{ "label": "Peso", "value": "2,915kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-precision-bvstbmh24-200w",
+		"name": "Oster Precision BVSTBMH24 200W",
+		"image": "/images/posts/moedor-eletrico-cafe-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2fotP21",
+		"shopeeUrl": null,
+		"advantages": [
+			"18 níveis de moagem para diferentes métodos de preparo",
+			"Funcionamento totalmente automático",
+			"Ajuste de quantidade entre 2 e 18 xícaras",
+			"Câmara removível com capacidade para 227g de grãos",
+			"Desligamento automático"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "200W" },
+			{ "label": "Capacidade de moagem", "value": "227g" },
+			{ "label": "Material do corpo", "value": "Aço inox" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em inox" },
+			{ "label": "Níveis de moagem", "value": "18 níveis ajustáveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "26,9 x 14 x 19,5cm" },
+			{ "label": "Peso", "value": "1,45kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hamilton-beach-80393-bz127-210w",
+		"name": "Hamilton Beach 80393-BZ127 210W",
+		"image": "/images/posts/moedor-eletrico-cafe-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/21LhHj8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Modelo compacto e leve, com apenas 840g",
+			"5 níveis de granulometria ajustáveis",
+			"Ajuste de dosagem de 4 a 14 xícaras",
+			"Tigela removível compatível com lava-louças",
+			"Também processa outros ingredientes além de café"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Material do corpo", "value": "Alumínio" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em inox" },
+			{ "label": "Níveis de moagem", "value": "5 níveis ajustáveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "20,4 x 11,3 x 11,3cm" },
+			{ "label": "Peso", "value": "840g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "philco-perfect-coffee-160w",
+		"name": "Philco Perfect Coffee 160W",
+		"image": "/images/posts/moedor-eletrico-cafe-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1ohMrfZ",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design compacto e leve, com apenas 640g",
+			"Recipiente com capacidade para até 45g de café",
+			"Prepara até 6 xícaras de café por moagem",
+			"Sistema de segurança bloqueia funcionamento sem a tampa encaixada",
+			"Acionamento simples por botão Pulsar"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Capacidade de moagem", "value": "45g" },
+			{ "label": "Material do corpo", "value": "Metal e plástico" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "17 x 7 x 10cm" },
+			{ "label": "Peso", "value": "640g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "oster-omdr110-150w",
+		"name": "Oster OMDR110 150W",
+		"image": "/images/posts/moedor-eletrico-cafe-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2Aa6zyv",
+		"shopeeUrl": null,
+		"advantages": [
+			"Recipiente com capacidade para até 60g de café",
+			"Cada moagem prepara café para até 6 espressos simples",
+			"Tampa transparente para acompanhar a moagem",
+			"Base com ventosa para maior estabilidade",
+			"Também mói sementes, nozes e outros grãos"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Capacidade de moagem", "value": "60g" },
+			{ "label": "Material do corpo", "value": "Aço inox" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "18 x 9,5 x 9cm" },
+			{ "label": "Peso", "value": "670g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "cadence-di-grano-mdr302-150w",
+		"name": "Cadence di Grano MDR302 150W",
+		"image": "/images/posts/moedor-eletrico-cafe-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1qhDay6",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tampa transparente permite acompanhar o processo",
+			"Capacidade para até 50g de café por moagem",
+			"Funcionamento econômico, com consumo de 0,15kWh",
+			"Formato compacto com pés antiderrapantes",
+			"Porta-fio integrado"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Capacidade de moagem", "value": "50g" },
+			{ "label": "Material do corpo", "value": "Plástico ABS com pintura metalizada" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em aço inox" },
+			{ "label": "Dimensões (A x L x P)", "value": "18,7 x 10,5 x 11,6cm" },
+			{ "label": "Peso", "value": "680g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hamilton-beach-plus-80385-bz127-225w",
+		"name": "Hamilton Beach Plus 80385-BZ127 225W",
+		"image": "/images/posts/moedor-eletrico-cafe-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1cENuXE",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório com capacidade para até 300g de grãos",
+			"18 níveis de granulação ajustáveis",
+			"Quantidade ajustável para preparos de 2 a 14 xícaras",
+			"Estrutura e lâminas em aço inox resistentes ao desgaste",
+			"Acompanha escova de limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "225W (127V) ou 180W (220V)" },
+			{ "label": "Capacidade de moagem", "value": "300g" },
+			{ "label": "Material do corpo", "value": "Plástico com detalhes em aço inox" },
+			{ "label": "Lâminas ou mós", "value": "Lâminas em aço inox" },
+			{ "label": "Níveis de moagem", "value": "18 níveis ajustáveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "29,8 x 13,3 x 20,7cm" },
+			{ "label": "Peso", "value": "1,67kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

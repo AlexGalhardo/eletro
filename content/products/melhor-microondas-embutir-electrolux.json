@@ -1,0 +1,141 @@
+[
+	{
+		"id": "electrolux-me3hp-1450w-34-litros",
+		"name": "Electrolux (ME3HP) 1450W 34 litros",
+		"image": "/images/posts/microondas-embutir-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2EHwDUv",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Grill para dourar e gratinar alimentos",
+			"Menu com 7 receitas pré-programadas",
+			"Descongelamento ajustado ao tipo de alimento",
+			"Função Tira Odor com recirculação do ar interno",
+			"Função Manter Aquecido preserva a temperatura"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34 litros" },
+			{ "label": "Potência", "value": "1450W" },
+			{ "label": "Painel de controle", "value": "Digital touchscreen" },
+			{ "label": "Porta", "value": "Espelhada" },
+			{ "label": "Quantidade de programas", "value": "10" },
+			{ "label": "Diâmetro do prato", "value": "31,5cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "38,9 x 59,5 x 40,5cm" },
+			{ "label": "Peso", "value": "18kg (127V); 17,4kg (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Classificação energética", "value": "B" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "electrolux-me3bc-1400w-34-litros",
+		"name": "Electrolux (ME3BC) 1400W 34 litros",
+		"image": "/images/posts/microondas-embutir-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16n8FxG",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Derreter para manteiga, chocolate e queijo",
+			"Desidrata frutas, vegetais e ervas",
+			"Descongelamento Assistido com orientações no painel",
+			"Modo Eco reduz brilho e desativa som e relógio",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34 litros" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Painel de controle", "value": "Digital touchscreen" },
+			{ "label": "Porta", "value": "Vidro" },
+			{ "label": "Quantidade de programas", "value": "6" },
+			{ "label": "Diâmetro do prato", "value": "32,5cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "38,9 x 59,5 x 44,1cm" },
+			{ "label": "Peso", "value": "16,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "electrolux-me3ep-1400w-34-litros",
+		"name": "Electrolux (ME3EP) 1400W 34 litros",
+		"image": "/images/posts/microondas-embutir-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1FwTDDk",
+		"shopeeUrl": null,
+		"advantages": [
+			"9 programas com tempo e potência automáticos",
+			"Menu Dia a Dia prepara arroz, lasanha e batata",
+			"Opções infantis para pipoca, brigadeiro e bolo de caneca",
+			"10 níveis de potência ajustáveis",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34 litros" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Painel de controle", "value": "Digital touchscreen" },
+			{ "label": "Porta", "value": "Vidro espelhado" },
+			{ "label": "Quantidade de programas", "value": "9" },
+			{ "label": "Diâmetro do prato", "value": "32,5cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "37,3 x 59,4 x 40cm" },
+			{ "label": "Peso", "value": "15,3kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "electrolux-me3bp-1400w-34-litros",
+		"name": "Electrolux (ME3BP) 1400W 34 litros",
+		"image": "/images/posts/microondas-embutir-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1hxVJ1Z",
+		"shopeeUrl": null,
+		"advantages": [
+			"Descongelamento Assistido indica quando mexer ou virar o alimento",
+			"4 funções: cozinhar delicado, cozinhar rápido, derreter e desidratar",
+			"Atalhos de +5min, +1min e +10s",
+			"Modo Eco reduz brilho e desliga som e relógio",
+			"Eficiência energética classe A"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34 litros" },
+			{ "label": "Potência", "value": "1400W" },
+			{ "label": "Painel de controle", "value": "Digital touchscreen" },
+			{ "label": "Porta", "value": "Vidro" },
+			{ "label": "Quantidade de programas", "value": "6" },
+			{ "label": "Diâmetro do prato", "value": "32,5cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "38,9 x 59,5 x 44,1cm" },
+			{ "label": "Peso", "value": "16,2kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Classificação energética", "value": "A" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	},
+	{
+		"id": "electrolux-mv43t-1450w-34-litros",
+		"name": "Electrolux (MV43T) 1450W 34 litros",
+		"image": "/images/posts/microondas-embutir-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2vt7sWY",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função Grill para dourar e gratinar receitas",
+			"Limpeza interna facilitada por vapor com Limpa Fácil",
+			"10 receitas pré-programadas",
+			"Painel Glass Touch com iluminação em LED azul",
+			"Interior com acabamento em aço inox"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "34 litros" },
+			{ "label": "Potência", "value": "1450W" },
+			{ "label": "Painel de controle", "value": "Digital touchscreen (Glass Touch)" },
+			{ "label": "Porta", "value": "Vidro" },
+			{ "label": "Quantidade de programas", "value": "10" },
+			{ "label": "Diâmetro do prato", "value": "31,5cm" },
+			{ "label": "Dimensões (A x L x P)", "value": "38,9 x 59,5 x 40,5cm" },
+			{ "label": "Peso", "value": "18,4kg (127V); 17,8kg (220V)" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Garantia", "value": "1 ano" }
+		]
+	}
+]

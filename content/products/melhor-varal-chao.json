@@ -1,0 +1,193 @@
+[
+	{
+		"id": "varal-sul-7-cordas",
+		"name": "Varal Sul 7 Cordas",
+		"image": "/images/posts/varal-chao-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1PuuK1V",
+		"shopeeUrl": null,
+		"advantages": [
+			"Comporta peças volumosas como toalhas, lençóis e cobertores",
+			"Estrutura com 7 cordas que distribuem o peso de forma equilibrada",
+			"Espaçamento amplo para circulação de ar e secagem mais ágil",
+			"Construção em aço com resistência mecânica superior ao alumínio",
+			"Tratamento anticorrosivo com pintura eletrostática a pó e cura térmica"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical" },
+			{ "label": "Material", "value": "aço" },
+			{ "label": "Capacidade de peso", "value": "até 60kg" },
+			{ "label": "Quantidade de varetas", "value": "7 hastes" },
+			{ "label": "Quantidade de andares", "value": "1 nível" },
+			{ "label": "Possui rodinhas", "value": "não" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "1,82m (fechado) - 1,93m (aberto)" },
+			{ "label": "Largura", "value": "1,33m (aberto)" },
+			{ "label": "Profundidade", "value": "1,33m (aberto)" },
+			{ "label": "Peso", "value": "5,3kg" }
+		]
+	},
+	{
+		"id": "mor-varal-abas-aco-slim-006105",
+		"name": "Mor Varal de Chão com Abas Aço Slim 006105",
+		"image": "/images/posts/varal-chao-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1LZXFdy",
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato slim ocupa pouco espaço em ambientes compactos",
+			"Estrutura em tubo de aço com pintura epóxi de alta qualidade",
+			"Área central com seis varetas e duas abas laterais com quatro varetas",
+			"Suporta até 11m de roupas ou 20kg distribuídos",
+			"Montagem, fechamento e armazenamento simples"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "dobrável" },
+			{ "label": "Material", "value": "aço" },
+			{ "label": "Capacidade de peso", "value": "até 20kg" },
+			{ "label": "Quantidade de varetas", "value": "14 hastes" },
+			{ "label": "Possui rodinhas", "value": "não" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "89cm" },
+			{ "label": "Largura", "value": "49cm" },
+			{ "label": "Profundidade", "value": "1,44m" },
+			{ "label": "Peso", "value": "2,82kg" }
+		]
+	},
+	{
+		"id": "kontuz-varal-portatil-3-andares-com-rodinhas",
+		"name": "Kontuz Varal de Chão Portátil 3 Andares (com rodinhas)",
+		"image": "/images/posts/varal-chao-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2qogX3T",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura vertical dobrável em aço inox",
+			"Base com quatro rodinhas com trava facilita a movimentação",
+			"Duas abas laterais comportam mais de 7 cabides simultaneamente",
+			"Três níveis de altura ajustáveis com até 10kg cada",
+			"Barra inferior para apoio de sapatos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical" },
+			{ "label": "Material", "value": "aço e plástico" },
+			{ "label": "Capacidade de peso", "value": "até 10kg" },
+			{ "label": "Quantidade de varetas", "value": "21 hastes" },
+			{ "label": "Quantidade de andares", "value": "3 níveis" },
+			{ "label": "Possui rodinhas", "value": "sim" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "1,69m (fechado) - 1,7m (aberto)" },
+			{ "label": "Largura", "value": "64cm" },
+			{ "label": "Profundidade", "value": "22cm (fechado) - 76cm (aberto)" },
+			{ "label": "Peso", "value": "3,7kg" }
+		]
+	},
+	{
+		"id": "kontuz-varal-portatil-3-andares-compacto",
+		"name": "Kontuz Varal de Chão Portátil 3 Andares (Compacto)",
+		"image": "/images/posts/varal-chao-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1EBF3Ut",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura em aço inox e plástico com resistência à corrosão",
+			"Formato vertical com 3 andares",
+			"Área aberta com boa altura e comprimento para peças maiores",
+			"Sistema dobrável simplifica o armazenamento",
+			"Design portátil permite mover o varal com facilidade"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "vertical" },
+			{ "label": "Material", "value": "aço e plástico" },
+			{ "label": "Capacidade de peso", "value": "até 10kg" },
+			{ "label": "Quantidade de varetas", "value": "21 hastes" },
+			{ "label": "Quantidade de andares", "value": "3 níveis" },
+			{ "label": "Possui rodinhas", "value": "sim" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "1,75m" },
+			{ "label": "Largura", "value": "67,5cm" },
+			{ "label": "Profundidade", "value": "73cm" },
+			{ "label": "Peso", "value": "4,3kg" }
+		]
+	},
+	{
+		"id": "casita-clink-varal-portatil",
+		"name": "Casita Clink Varal Portátil",
+		"image": "/images/posts/varal-chao-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1kTqCrg",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura leve e portátil, com formato compacto",
+			"Cinco barras de secagem",
+			"Montagem simples e rápida, sem necessidade de ferramentas",
+			"Construção em aço e plástico para maior durabilidade",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "portátil" },
+			{ "label": "Material", "value": "aço inoxidável e plástico" },
+			{ "label": "Capacidade de peso", "value": "até 5kg" },
+			{ "label": "Quantidade de varetas", "value": "5 hastes" },
+			{ "label": "Possui rodinhas", "value": "não" },
+			{ "label": "Dobrável", "value": "não" },
+			{ "label": "Altura", "value": "80cm" },
+			{ "label": "Largura", "value": "76cm" },
+			{ "label": "Profundidade", "value": "31,5cm" }
+		]
+	},
+	{
+		"id": "mor-varal-aco-slim-006004",
+		"name": "Mor Varal de Chão Aço Slim 006004",
+		"image": "/images/posts/varal-chao-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/16qZdLR",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura em tubo de aço com pintura epóxi a pó branca",
+			"Oito varetas que suportam até 16kg de peso",
+			"Formato dobrável, leve e fácil de transportar",
+			"Ponteiras nos pés protegem o piso contra riscos",
+			"Garantia de 90 dias pelo fabricante"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "dobrável" },
+			{ "label": "Material", "value": "aço pintado" },
+			{ "label": "Capacidade de peso", "value": "até 16kg" },
+			{ "label": "Quantidade de varetas", "value": "8 hastes" },
+			{ "label": "Possui rodinhas", "value": "não" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "83cm" },
+			{ "label": "Largura", "value": "50cm" },
+			{ "label": "Profundidade", "value": "80cm" },
+			{ "label": "Peso", "value": "1,79kg" }
+		]
+	},
+	{
+		"id": "blackair-100-inox-304",
+		"name": "BlackAir 100% Inox 304",
+		"image": "/images/posts/varal-chao-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Comprimento total de 1,8 metro para espaço generoso",
+			"Estrutura dobrável em aço inoxidável 304 reforçado",
+			"Capacidade para até 50kg de roupas",
+			"Abertura com ângulo regulável favorece ventilação",
+			"Pode ser usado em ambientes internos e externos"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "dobrável" },
+			{ "label": "Material", "value": "aço inoxidável 304" },
+			{ "label": "Capacidade de peso", "value": "até 50kg" },
+			{ "label": "Quantidade de varetas", "value": "20 hastes" },
+			{ "label": "Possui rodinhas", "value": "não" },
+			{ "label": "Dobrável", "value": "sim" },
+			{ "label": "Altura", "value": "96cm (aberto)" },
+			{ "label": "Largura", "value": "45cm (aberto)" },
+			{ "label": "Profundidade", "value": "1,8m (aberto)" },
+			{ "label": "Peso", "value": "4,8kg" }
+		]
+	}
+]

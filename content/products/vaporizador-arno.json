@@ -1,0 +1,187 @@
+[
+	{
+		"id": "arno-steam-home-us32-1830w",
+		"name": "Arno Steam Home US32 1830W",
+		"image": "/images/posts/vaporizador-arno-1.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1qHAQ3h",
+		"shopeeUrl": null,
+		"advantages": [
+			"Reservatório de 1,4L com até 35 minutos de autonomia",
+			"Potência de 1830W e vapor de até 38g/min",
+			"Aquecimento rápido em apenas 45 segundos",
+			"Três níveis de intensidade de vapor",
+			"Cabeça metálica ampla para maior cobertura",
+			"Higieniza e desodoriza sem produtos químicos",
+			"Acompanha escova, clipes, luva e tábua vertical",
+			"Pendurador integrado para roupas",
+			"Modo ECO para economia de energia",
+			"Ideal para grandes volumes de roupas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Vertical" },
+			{ "label": "Potência", "value": "1830W" },
+			{ "label": "Capacidade do reservatório", "value": "1,4 litro" },
+			{ "label": "Autonomia", "value": "35 minutos" },
+			{ "label": "Tempo de aquecimento", "value": "45 segundos" },
+			{ "label": "Saída de vapor", "value": "38g/min" },
+			{ "label": "Níveis de vapor", "value": "3 níveis (Eco, Médio e Máximo)" },
+			{
+				"label": "Funções especiais",
+				"value": "Cabeça metálica aquecida; Modo ECO; Higienização; Desodorização; Tábua vertical; Pendurador integrado; Escova para pelos; Dois clipes para calças; Luva protetora"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "163 x 38 x 25cm" },
+			{ "label": "Peso", "value": "4,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "arno-duo-power-fvdp-1550w",
+		"name": "Arno Duo Power FVDP 1550W",
+		"image": "/images/posts/vaporizador-arno-2.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/153FqdT",
+		"shopeeUrl": null,
+		"advantages": [
+			"Funciona como ferro e vaporizador vertical",
+			"Reservatório de 400mL com até 45 minutos de uso",
+			"Jato extra de vapor de até 120g/min",
+			"Aquecimento em apenas 30 segundos",
+			"Base cerâmica com melhor deslizamento",
+			"Peso leve de apenas 750g",
+			"Tecnologia sem ajuste de temperatura",
+			"Desligamento automático",
+			"Ponta de precisão para áreas difíceis",
+			"Cabo de vapor com 2,3 metros"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Ferro e vaporizador 2 em 1" },
+			{ "label": "Potência", "value": "1700W (127V) / 1550W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "400mL" },
+			{ "label": "Autonomia", "value": "45 minutos" },
+			{ "label": "Tempo de aquecimento", "value": "30 segundos" },
+			{ "label": "Saída de vapor", "value": "25g/min contínuo; 120g/min extra" },
+			{ "label": "Níveis de vapor", "value": "Contínuo" },
+			{
+				"label": "Funções especiais",
+				"value": "2 em 1; Base cerâmica; Vapor extra; Desligamento automático; Sem ajuste de temperatura; Ponta de precisão; Permanece em pé; Alça para armazenamento"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "18 x 16 x 30cm" },
+			{ "label": "Peso", "value": "750g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "arno-pure-pop-1100w",
+		"name": "Arno Pure Pop 1100W",
+		"image": "/images/posts/vaporizador-arno-3.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2hJMSzn",
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato compacto e portátil",
+			"Peso leve de apenas 700g",
+			"Aquecimento em 15 segundos",
+			"Escova reversível para tecidos e pelos",
+			"Vapor contínuo de 20g/min",
+			"Acompanha bolsa para viagem",
+			"Higieniza e desodoriza tecidos",
+			"Uso direto no cabide",
+			"Reservatório removível",
+			"Disponível em diversas cores"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Potência", "value": "1100W" },
+			{ "label": "Capacidade do reservatório", "value": "70mL" },
+			{ "label": "Autonomia", "value": "Não especificado" },
+			{ "label": "Tempo de aquecimento", "value": "15 segundos" },
+			{ "label": "Saída de vapor", "value": "20g/min" },
+			{ "label": "Níveis de vapor", "value": "Não especificado" },
+			{
+				"label": "Funções especiais",
+				"value": "Escova reversível; Remoção de pelos e fiapos; Higienização; Desodorização; Tanque removível; Luz indicadora; Uso direto no cabide"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "5,7 x 5,7 x 14,1cm" },
+			{ "label": "Peso", "value": "700g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "arno-steam-power-hs81-1460w",
+		"name": "Arno Steam Power HS81 1460W",
+		"image": "/images/posts/vaporizador-arno-4.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1gvsK3J",
+		"shopeeUrl": null,
+		"advantages": [
+			"Potência de 1460W com vapor de até 26g/min",
+			"Reservatório de 200mL",
+			"Dois níveis de vapor (Delicado e Turbo)",
+			"Cabeça metálica aquecida",
+			"Gancho para uso direto no cabide",
+			"Escova para tecidos inclusa",
+			"Bloqueio para vapor contínuo",
+			"Higieniza e desodoriza diversos tecidos",
+			"Cabo de 2,6 metros",
+			"Elimina até 99,99% dos germes, vírus e bactérias"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Potência", "value": "1460W" },
+			{ "label": "Capacidade do reservatório", "value": "200mL" },
+			{ "label": "Autonomia", "value": "Não especificado" },
+			{ "label": "Tempo de aquecimento", "value": "40 segundos" },
+			{ "label": "Saída de vapor", "value": "26g/min" },
+			{ "label": "Níveis de vapor", "value": "2 níveis (Delicado e Turbo)" },
+			{
+				"label": "Funções especiais",
+				"value": "Cabeça metálica aquecida; Dois níveis de vapor; Bloqueio para vapor contínuo; Tanque removível; Higienização; Desodorização; Escova para tecidos; Gancho para cabide; Luz indicadora"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "28,2 x 12,8 x 18,5cm" },
+			{ "label": "Peso", "value": "1,4kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "arno-steam-minute-hs61-1100w",
+		"name": "Arno Steam Minute HS61 1100W",
+		"image": "/images/posts/vaporizador-arno-5.jpg",
+		"category": "lavanderia",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1fFStPk",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design compacto com apenas 800g",
+			"Aquecimento em 15 segundos",
+			"Escova para remoção de pelos",
+			"Vapor contínuo de 20g/min",
+			"Reservatório removível",
+			"Higieniza e desodoriza tecidos",
+			"Elimina até 99,99% dos germes, vírus e bactérias",
+			"Uso direto no cabide",
+			"Cabo de 2,6 metros",
+			"Luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "Portátil" },
+			{ "label": "Potência", "value": "1150W (127V) / 1300W (220V)" },
+			{ "label": "Capacidade do reservatório", "value": "70mL" },
+			{ "label": "Autonomia", "value": "Não especificado" },
+			{ "label": "Tempo de aquecimento", "value": "15 segundos" },
+			{ "label": "Saída de vapor", "value": "20g/min" },
+			{ "label": "Níveis de vapor", "value": "Contínuo" },
+			{
+				"label": "Funções especiais",
+				"value": "Aquecimento ultrarrápido; Tanque removível; Higienização; Desodorização; Escova para pelos; Uso direto no cabide; Luz indicadora"
+			},
+			{ "label": "Dimensões (A x L x P)", "value": "17 x 18,4 x 36,4cm" },
+			{ "label": "Peso", "value": "800g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

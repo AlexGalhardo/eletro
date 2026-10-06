@@ -1,0 +1,156 @@
+[
+	{
+		"id": "guarany-pcp-1p",
+		"name": "Guarany PCP-1P 1,25 Litro",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Sistema de compressão prévia que facilita o uso",
+			"Bico regulável (névoa a jato)",
+			"Válvula de segurança integrada",
+			"Recipiente translúcido para ver o nível",
+			"Estrutura desmontável para fácil limpeza"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "1,25 litro" },
+			{ "label": "Material", "value": "Plástico" },
+			{ "label": "Bico", "value": "Cone ajustável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "540g" }
+		]
+	},
+	{
+		"id": "wap-gpm2l01",
+		"name": "WAP GPM2L01 2 Litros",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Gatilho com trava para pulverização contínua",
+			"Bico regulável",
+			"Válvula de segurança",
+			"Leve e ergonômico",
+			"Compatível com soluções de limpeza neutras"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Material", "value": "Polietileno e polipropileno" },
+			{ "label": "Bico", "value": "Jato regulável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "400g" }
+		]
+	},
+	{
+		"id": "vonder-240000150",
+		"name": "Vonder 2.40.000.150 1,5 Litro",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Inclui dosador de 10ml",
+			"Bico com jato regulável",
+			"Válvula de alívio de pressão",
+			"Garantia de 90 dias",
+			"Compacto e leve"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "1,5 litro" },
+			{ "label": "Material", "value": "Plástico" },
+			{ "label": "Bico", "value": "Jato regulável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "360g" }
+		]
+	},
+	{
+		"id": "snow-foam-sgt-9924",
+		"name": "Snow Foam SGT-9924",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Função 3 em 1 (espuma, água e químicos)",
+			"Bico snow foam para detalhamento automotivo",
+			"Válvula de alívio",
+			"Muitos acessórios inclusos",
+			"Bom para higienização leve"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Material", "value": "Plástico" },
+			{ "label": "Bico", "value": "Duplo ajustável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "600g" }
+		]
+	},
+	{
+		"id": "harden-632502",
+		"name": "Harden 632502 2 Litros",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Pressão máxima de 4,9 bar",
+			"Bocal de cobre resistente",
+			"Haste em aço inoxidável",
+			"Bico regulável",
+			"Ótimo custo-benefício"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Material", "value": "Plástico e aço inoxidável" },
+			{ "label": "Bico", "value": "Jato regulável (cobre)" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "292g" }
+		]
+	},
+	{
+		"id": "vonder-6240200200",
+		"name": "Vonder 62.40.200.200 2 Litros",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Gatilho com trava",
+			"Bico regulável",
+			"Válvula de alívio",
+			"Compatível com álcool 70%",
+			"Bom para uso doméstico"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Material", "value": "Polietileno e polipropileno" },
+			{ "label": "Bico", "value": "Jato regulável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "440g" }
+		]
+	},
+	{
+		"id": "tramontina-78610206",
+		"name": "Tramontina 78610206 2 Litros",
+		"image": "#",
+		"amazonUrl": null,
+		"mercadolivreUrl": "#",
+		"shopeeUrl": null,
+		"advantages": [
+			"Alça ergonômica",
+			"Gatilho com trava",
+			"Bico regulável",
+			"Válvula de segurança",
+			"Indicador de capacidade"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Material", "value": "Plástico de alta resistência" },
+			{ "label": "Bico", "value": "Jato regulável" },
+			{ "label": "Válvula de segurança", "value": "Sim" },
+			{ "label": "Peso", "value": "431g" }
+		]
+	}
+]

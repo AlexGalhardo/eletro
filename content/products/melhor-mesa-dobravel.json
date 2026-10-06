@@ -1,0 +1,168 @@
+[
+	{
+		"id": "ntk-291104",
+		"name": "NTK 291104 (180x70cm)",
+		"image": "/images/posts/mesa-dobravel-1.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1F2aEVM",
+		"shopeeUrl": null,
+		"advantages": [
+			"Formato dobrável que se fecha como uma maleta, facilitando o transporte",
+			"Tampo em polietileno de alta densidade, com capacidade para até 100kg",
+			"Trava de segurança que mantém o tampo estável após a abertura",
+			"Estrutura em aço galvanizado com pintura epóxi martelada",
+			"Possui alça para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "aço galvanizado com pintura epóxi" },
+			{ "label": "Material do tampo", "value": "polietileno de alta densidade" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "74 x 70 x 180cm" },
+			{ "label": "Dimensões fechada (L x P)", "value": "70 x 94cm" },
+			{ "label": "Peso suportado", "value": "até 100kg" },
+			{ "label": "Peso do produto", "value": "12kg" },
+			{ "label": "Sistema de fechamento", "value": "botão de pressão com trava" }
+		]
+	},
+	{
+		"id": "the-black-tools-tb-90",
+		"name": "The Black Tools TB-90 (90x60cm)",
+		"image": "/images/posts/mesa-dobravel-2.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1EZe281",
+		"shopeeUrl": null,
+		"advantages": [
+			"Design dobrável com formato de maleta, que facilita o transporte",
+			"Pés ajustáveis em 2 níveis de altura",
+			"Possui alça para transporte",
+			"Construção em alumínio, leve e resistente",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "alumínio" },
+			{ "label": "Material do tampo", "value": "MDF laminado" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "70 x 60 x 90cm" },
+			{ "label": "Dimensões fechada (L x P)", "value": "60 x 45cm" },
+			{ "label": "Peso suportado", "value": "não especificado" },
+			{ "label": "Peso do produto", "value": "2,2kg" },
+			{ "label": "Sistema de fechamento", "value": "dobradiça com trava metálica" }
+		]
+	},
+	{
+		"id": "palisad-695838",
+		"name": "Palisad 695838 (90x60cm)",
+		"image": "/images/posts/mesa-dobravel-3.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2JVMDU8",
+		"shopeeUrl": null,
+		"advantages": [
+			"Regulagem de altura em dois níveis: 30cm e 70cm",
+			"Formato de maleta com alça quando fechada, fácil de carregar",
+			"Estrutura dobrável em alumínio com tampo em MDF",
+			"Pesa apenas 3,5kg",
+			"Suporta peso de até 50kg"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "alumínio" },
+			{ "label": "Material do tampo", "value": "MDF laminado" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "70 x 60 x 90cm" },
+			{ "label": "Dimensões fechada (L x P)", "value": "60 x 90cm" },
+			{ "label": "Peso suportado", "value": "até 50kg" },
+			{ "label": "Peso do produto", "value": "3,5kg" },
+			{ "label": "Sistema de fechamento", "value": "dobradiça com trava metálica" }
+		]
+	},
+	{
+		"id": "inaugura-moveis-freijo",
+		"name": "Inaugura Móveis Freijó (81x42cm)",
+		"image": "/images/posts/mesa-dobravel-4.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/27FAgfg",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tampo e pés totalmente dobráveis",
+			"Estrutura em aço com pintura eletrostática",
+			"Montagem fácil, com abertura rápida do tampo e dos pés",
+			"Peso leve de apenas 6kg"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "aço com pintura eletrostática" },
+			{ "label": "Material do tampo", "value": "MDP laminado" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "77 x 81 x 42cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "77 x 81 x 6,5cm" },
+			{ "label": "Peso suportado", "value": "não especificado" },
+			{ "label": "Peso do produto", "value": "6kg" },
+			{ "label": "Sistema de fechamento", "value": "dobrável com articulação interna" }
+		]
+	},
+	{
+		"id": "arqplast-25672",
+		"name": "Arqplast 25672 (80x72cm)",
+		"image": "/images/posts/mesa-dobravel-5.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/2QqCar3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Estrutura em plástico resistente e durável",
+			"Leve e compacta, pesa apenas 5kg",
+			"Dobrável em duas partes, fácil de guardar",
+			"Preço acessível"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "plástico" },
+			{ "label": "Material do tampo", "value": "plástico" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "70 x 72 x 80cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "90 x 72 x 7cm" },
+			{ "label": "Peso suportado", "value": "não especificado" },
+			{ "label": "Peso do produto", "value": "5kg" },
+			{ "label": "Sistema de fechamento", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "moveis-carraro-216",
+		"name": "Móveis Carraro 216 (102x92cm)",
+		"image": "/images/posts/mesa-dobravel-6.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1GSVUyB",
+		"shopeeUrl": null,
+		"advantages": [
+			"Tampo retrátil com sistema de ampliação, que aumenta a área útil",
+			"Estrutura resistente em tubo de aço de 1 1/4\"",
+			"Suporta até 30kg de peso",
+			"Comporta 2 pessoas fechada e até 4 com o tampo estendido",
+			"Tampo em MDP de 15mm com acabamento em pintura UV"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "aço com pintura epóxi" },
+			{ "label": "Material do tampo", "value": "MDP pintado 15mm" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "77,5 x 92 x 102cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "79 x 92 x 51cm" },
+			{ "label": "Peso suportado", "value": "até 30kg" },
+			{ "label": "Peso do produto", "value": "15,38kg" },
+			{ "label": "Sistema de fechamento", "value": "não especificado" }
+		]
+	},
+	{
+		"id": "joyfox-j-951",
+		"name": "JOYFOX J-951 (120x55cm)",
+		"image": "/images/posts/mesa-dobravel-7.jpg",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://meli.la/1iakrQ3",
+		"shopeeUrl": null,
+		"advantages": [
+			"Altura ajustável entre 50cm e 80cm",
+			"Cesto de malha acoplado abaixo do tampo para guardar objetos",
+			"Comporta de 4 a 6 pessoas com 1,20m de comprimento",
+			"Suporta até 100kg de peso",
+			"Acompanha bolsa de transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Material da estrutura", "value": "aço com pintura epóxi" },
+			{ "label": "Material do tampo", "value": "alumínio" },
+			{ "label": "Dimensões aberta (A x L x P)", "value": "80 x 120 x 55cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "65 x 22 x 17cm" },
+			{ "label": "Peso suportado", "value": "até 100kg" },
+			{ "label": "Peso do produto", "value": "4,5kg" },
+			{ "label": "Sistema de fechamento", "value": "dobrável" }
+		]
+	}
+]
