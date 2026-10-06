@@ -112,7 +112,7 @@
 		<button
 			type="submit"
 			disabled={loading}
-			class="w-full rounded-lg bg-green-600 py-2.5 font-semibold text-white transition-colors hover:bg-green-700 disabled:cursor-not-allowed disabled:opacity-60"
+			class="w-full rounded-lg bg-green-700 py-2.5 font-semibold text-white transition-colors hover:bg-green-800 disabled:cursor-not-allowed disabled:opacity-60"
 		>
 			{loading ? "Enviando..." : "Enviar Mensagem"}
 		</button>

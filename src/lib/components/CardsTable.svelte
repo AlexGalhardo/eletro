@@ -63,12 +63,16 @@
 						class="flex h-[160px] w-[160px] shrink-0 items-center justify-center p-2.5 no-underline hover:no-underline max-[480px]:h-[140px] max-[480px]:w-[140px]"
 						title={product.name}
 					>
-						<img
-							src={product.image}
-							alt={product.name}
-							class="max-h-full max-w-full object-contain object-center"
-							loading="lazy"
-						/>
+						<!-- "#" marks a product still without a photo; as a src it would make the browser fetch the page again. -->
+						{#if product.image !== "#"}
+							<img
+								src={product.image}
+								alt={product.name}
+								class="max-h-full max-w-full object-contain object-center"
+								loading="lazy"
+								decoding="async"
+							/>
+						{/if}
 					</a>
 
 					<a

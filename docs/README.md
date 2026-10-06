@@ -21,6 +21,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [cms.md](cms.md) | Trabalhar no painel: banco, autenticação, armazenamento de conteúdo, serviço do CMS |
 | [api.md](api.md) | Usar ou alterar a API REST `/api/v1` |
 | [newsletter.md](newsletter.md) | Mexer na inscrição, nos e-mails ou no envio de avisos de post |
+| [performance.md](performance.md) | Mexer em imagens, fontes, carregamento ou acessibilidade; medir o Lighthouse |
 | [security.md](security.md) | Mexer em autenticação, entrada de dados, conteúdo do post, cabeçalhos ou integrações |
 | [ci-cd.md](ci-cd.md) | Entender os workflows, ativar o CI ou lançar uma versão |
 | [webscrapping-modelation.md](webscrapping-modelation.md) | Entender ou alterar a importação de posts por web scraping (`webscrapping/`, `/admin/import`) |

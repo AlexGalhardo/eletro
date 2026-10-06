@@ -34,6 +34,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/cms.md`](docs/cms.md) | Banco, autenticação, armazenamento de conteúdo e serviço do CMS (fase BETA) |
 | [`docs/api.md`](docs/api.md) | API REST `/api/v1`: endpoints, formato de erro, regras de escrita |
 | [`docs/newsletter.md`](docs/newsletter.md) | Newsletter: inscrição com confirmação, envio de avisos de post, descadastro |
+| [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
 | [`docs/webscrapping-modelation.md`](docs/webscrapping-modelation.md) | Importação de posts por web scraping: resultado do estudo, `webscrapping/`, `/admin/import`, limites |

@@ -3,6 +3,7 @@
 	import CategoryIcon from "#lib/components/CategoryIcon.svelte";
 	import CookieBanner from "#lib/components/CookieBanner.svelte";
 	import Seo from "#lib/components/Seo.svelte";
+	import { coverSrcset } from "#lib/content/cover.ts";
 	import { formatDate } from "#lib/format.ts";
 	import { homeJsonLd } from "#lib/seo/jsonld.ts";
 	import { site } from "#lib/site.config.ts";
@@ -92,7 +93,10 @@
 						>
 							<img
 								src={post.cover}
+								srcset={coverSrcset(post.cover, post.coverWidths)}
+								sizes="(min-width: 1024px) 384px, (min-width: 640px) 50vw, 100vw"
 								alt={post.title}
+								decoding="async"
 								loading={index < 2 ? "eager" : "lazy"}
 								fetchpriority={index < 2 ? "high" : "auto"}
 								class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
@@ -101,7 +105,7 @@
 					{/if}
 
 					<div class="flex flex-1 flex-col gap-2 p-4">
-						<span class="text-[11px] font-medium text-gray-500 dark:text-gray-400">
+						<span class="text-[11px] font-medium text-gray-600 dark:text-gray-400">
 							POSTADO EM {formatDate(post.date).toUpperCase()}
 						</span>
 

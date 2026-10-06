@@ -28,6 +28,9 @@ vite.config.ts.timestamp-*
 /playwright-report
 /coverage
 
+# Resized covers written by the build (scripts/cover-variants.ts)
+/static/images/covers/w*/
+
 # Parallel worktrees created by agents
 /.claude/worktrees
 

@@ -5,6 +5,7 @@
 	import ReadingProgress from "#lib/components/ReadingProgress.svelte";
 	import Seo from "#lib/components/Seo.svelte";
 	import ShareButtons from "#lib/components/ShareButtons.svelte";
+	import { coverSrcset } from "#lib/content/cover.ts";
 	import { formatDate, readingTimeLabel } from "#lib/format.ts";
 	import { absoluteUrl, postJsonLd } from "#lib/seo/jsonld.ts";
 
@@ -86,6 +87,8 @@
 						<div class="relative mb-8 aspect-video w-full overflow-hidden bg-gray-100 dark:bg-black">
 							<img
 								src={post.cover}
+								srcset={coverSrcset(post.cover, data.coverWidths)}
+								sizes="(min-width: 1024px) 1024px, 100vw"
 								alt={post.title}
 								fetchpriority="high"
 								class="absolute inset-0 h-full w-full object-cover"

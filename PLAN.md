@@ -225,10 +225,11 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 
 ### R3. Desempenho e acessibilidade
 
-- [ ] Imagens responsivas e carregamento tardio; fontes locais
-- [ ] Lighthouse em home e post; navegação por teclado e contraste
+- [x] Imagens responsivas (capas em 480, 768 e 1280 px geradas no build, com `srcset`) e carregamento tardio; fontes locais
+- [x] Navegação por teclado (teste e2e) e contraste AA (Lighthouse: acessibilidade 100)
+- [ ] Lighthouse com desempenho e boas práticas em 90 ou mais: medido localmente em 87 (home) e 84 (post) de desempenho e 77 de boas práticas, com distorções da máquina; conferir no PageSpeed Insights depois do deploy (detalhes em `docs/performance.md`)
 
-**Assert:** Lighthouse ≥ 90 em desempenho, acessibilidade, boas práticas e SEO nas duas páginas, no celular.
+**Assert:** Lighthouse ≥ 90 em desempenho, acessibilidade, boas práticas e SEO nas duas páginas, no celular. (Em 2026-10-06, mediana de três execuções locais: acessibilidade 100 e SEO 100, **atendidos**; desempenho 87 e 84 e boas práticas 77, **não atendidos nesta medição**. As duas reprovações de boas práticas são do antivírus da máquina, e o servidor local não comprime nem cacheia. O assert só fecha com a medição do site publicado.)
 
 ### R4. Documentação e template
 
@@ -251,13 +252,12 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 
 ## Onde a sessão de 2026-10-06 parou
 
-Fase ALPHA publicada como `v0.1.0`. A fase BETA (B1 a B7) está entregue e coberta por testes: o painel publica posts, listas de produtos e imagens, avisa os assinantes da newsletter e importa um rascunho de um post do site de origem. Da fase 1.0.0-rc, R1 (CI/CD inativo) e R2 (segurança) estão entregues.
+Fase ALPHA publicada como `v0.1.0`. A fase BETA (B1 a B7) está entregue e coberta por testes: o painel publica posts, listas de produtos e imagens, avisa os assinantes da newsletter e importa um rascunho de um post do site de origem. Da fase 1.0.0-rc, R1 (CI/CD inativo), R2 (segurança) e R3 (desempenho e acessibilidade, com a meta de Lighthouse ainda por confirmar em produção) estão entregues.
 
 Próximos passos, nesta ordem:
 
-1. R3: desempenho e acessibilidade (imagens responsivas, Lighthouse).
-2. R4: `README.md`, `docs/deploy.md` (Vercel, Netlify, OAuth App, Neon, agendador da newsletter) e guia de uso como template.
-3. R5: release candidate.
+1. R4: `README.md`, `docs/deploy.md` (Vercel, Netlify, OAuth App, Neon, agendador da newsletter) e guia de uso como template.
+2. R5: release candidate.
 
 Itens deixados em aberto de propósito dentro de grupos já entregues: comparação visual final (A4), agendador da newsletter (B6), itens `[ ]` de B7 e de R2.
 

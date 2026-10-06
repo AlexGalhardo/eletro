@@ -3,10 +3,12 @@ import { sveltekit } from "@sveltejs/kit/vite";
 import tailwindcss from "@tailwindcss/vite";
 import { mdsvex } from "mdsvex";
 import { defineConfig } from "vitest/config";
+import { coverVariants } from "./scripts/cover-variants.ts";
 import { injectContentComponents } from "./src/lib/content/mdx-preprocess.ts";
 
 export default defineConfig({
 	plugins: [
+		coverVariants(),
 		tailwindcss(),
 		sveltekit({
 			compilerOptions: {
