@@ -159,7 +159,7 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 - [x] Templates react-email: confirmação, post novo, contato
 - [x] Opção "avisar assinantes" ao publicar; envio pendente até o post estar no ar; envio em lotes pelo Resend, sem duplicar
 - [x] Tela `/admin/newsletter`: assinantes, envios e reenvio manual
-- [ ] Agendador chamando `/api/v1/newsletter/dispatches/run` (fica para `docs/deploy.md`, em R4; até lá a fila anda pelo botão do painel)
+- [ ] Agendador chamando `/api/v1/newsletter/dispatches/run` (como configurar está em `docs/deploy.md`; depende do deploy, e até lá a fila anda pelo botão do painel)
 
 **Assert:** integração — inscrever, confirmar, publicar e disparar gera exatamente um e-mail por assinante confirmado (Resend simulado); descadastrado não recebe; disparo repetido não reenvia. (Verificado em 2026-10-06: `tests/integration/newsletter.test.ts` verde, incluindo a retomada de um envio que falhou no meio sem repetir e-mail. O envio real pelo Resend não foi exercitado: depende da chave do dono.)
 
@@ -233,10 +233,12 @@ Fica por conferir quando os workflows forem ativados: o job `e2e` em um runner r
 
 ### R4. Documentação e template
 
-- [ ] `README.md`: o que é, como rodar, como configurar, como publicar na Vercel e na Netlify
-- [ ] `docs/` completa e linkada no `CLAUDE.md`/`AGENTS.md`
-- [ ] Guia "use como template": o que trocar em `site.config.ts`, `content/` e variáveis de ambiente
-- [ ] Skills próprias do projeto (novo post, nova lista de produtos, release)
+- [x] `README.md`: o que é, como rodar, como abrir o painel localmente, como publicar
+- [x] `docs/deploy.md`: Vercel, Netlify, Neon, OAuth App, token de conteúdo, Resend, agendador (escrito sem um deploy real: tem a lista do que conferir)
+- [x] `docs/` completa e linkada no `AGENTS.md` (que o `CLAUDE.md` importa)
+- [x] Guia "use como template" no `README.md`: `site.config.ts`, `content/`, páginas institucionais, arquivos de `static/`, testes que citam o conteúdo de demonstração
+- [x] Skills próprias do projeto: `project-new-post`, `project-new-product-list`, `project-release`
+- [x] Entrada local no `/admin/login` (só com o banco embutido), para abrir o painel sem criar um OAuth App
 
 **Assert:** clone limpo + `bun install` + `bun run dev` funciona seguindo só o README, sem variável obrigatória para o site público.
 
@@ -286,7 +288,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 
 - [ ] Revogar no Resend a chave que estava no `.env.example` antigo, caso seja real
 - [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
-- [ ] Criar o OAuth App no GitHub e o banco Neon (passo a passo virá em `docs/deploy.md`)
+- [ ] Fazer o primeiro deploy seguindo `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
 - [ ] Decidir se a importação ganha uma etapa de reescrita com LLM (chave de API e custo por post)

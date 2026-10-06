@@ -34,7 +34,7 @@ Aviso por e-mail de post novo, com confirmação da inscrição (double opt-in) 
 | `RESEND_FROM_EMAIL` | Remetente; o domínio precisa estar verificado no Resend |
 | `CRON_SECRET` | Token que o agendador envia para rodar a fila. Com menos de 32 caracteres é ignorado |
 
-O agendador não está configurado no repositório. Sem ele, a fila só anda pelo botão do painel. Para automatizar, agende uma chamada a `/api/v1/newsletter/dispatches/run` com o `CRON_SECRET` (passo a passo previsto para `docs/deploy.md`).
+O agendador não está configurado no repositório. Sem ele, a fila só anda pelo botão do painel. Para automatizar, agende uma chamada a `/api/v1/newsletter/dispatches/run` com o `CRON_SECRET` (passo a passo em [`deploy.md`](deploy.md)).
 
 ## Limites conhecidos
 

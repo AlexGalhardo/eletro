@@ -29,16 +29,25 @@ O site público roda sem nenhuma variável de ambiente.
 | `bun run test:e2e` | Playwright contra o build de produção |
 | `bun run test:e2e:install` | Baixa o Chromium do Playwright (uma vez) |
 | `bun run verify` | Tudo acima em sequência; rode antes de um push |
+| `bun run db:generate` | Gera a migration SQL depois de mudar `src/lib/server/db/schema.ts` |
+| `bun run db:migrate` | Aplica as migrations no banco de `DATABASE_URL` |
+| `bun scripts/release.ts --dry-run` | Mostra a próxima versão e as notas (ver [`ci-cd.md`](ci-cd.md)) |
+| `bun webscrapping/cli.ts <url>` | Lê um post de um site de origem e mostra o rascunho (ver [`webscrapping-modelation.md`](webscrapping-modelation.md)) |
 
 ## Variáveis de ambiente
 
 Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opcionais.
 
-| Variável | Efeito |
-|---|---|
-| `RESEND_API_KEY` | Envia e-mails de verdade. Sem ela, o e-mail é só registrado no console |
-| `RESEND_FROM_EMAIL` | Remetente; o domínio precisa estar verificado no Resend |
-| `CONTACT_TO_EMAIL` | Caixa que recebe o formulário de contato; padrão `site.contactEmail` |
+| Grupo | Variáveis | Sem elas |
+|---|---|---|
+| Banco | `DATABASE_URL`, `PGLITE_DIR` | Usa um Postgres embutido (PGlite) em `.data/pglite` |
+| Painel | `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `ADMIN_GITHUB_USERS` | `/admin/login` lista o que falta |
+| Entrada local | `AUTH_TEST_LOGIN_TOKEN` | Sem entrada local; só vale com o PGlite |
+| Conteúdo | `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH`, `CONTENT_ROOT` | O painel grava nos arquivos do projeto |
+| E-mail | `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `CONTACT_TO_EMAIL` | O e-mail é só registrado no log |
+| Newsletter | `CRON_SECRET` | A fila de avisos só roda pelo botão do painel |
+
+Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 
 No SvelteKit 3 as variáveis são importadas de `$app/env/private` (servidor) ou `$app/env/public` (navegador). Variável nova precisa ser declarada em `src/env.ts`.
 
@@ -65,7 +74,4 @@ Referência: <https://svelte.dev/docs/kit/migrating-to-sveltekit-3>. O MCP do Sv
 
 ## Usando como template
 
-1. Edite `src/lib/site.config.ts`.
-2. Troque o conteúdo de `content/posts/`, `content/products/` e `static/`.
-3. Reescreva as páginas institucionais em `src/routes/(site)/`.
-4. Rode `bun run verify`.
+O passo a passo está no [`README.md`](../README.md), seção "Usando como template".

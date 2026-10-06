@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { ui } from "#lib/admin/api.ts";
 	import { site } from "#lib/site.config.ts";
 	import { page } from "$app/state";
 
@@ -7,6 +8,26 @@
 	let loading = $state(false);
 	// better-auth sends the visitor back here with `?error=` when the account was refused.
 	let failed = $state(page.url.searchParams.has("error"));
+
+	let local = $state({ githubLogin: "", token: "" });
+
+	async function signInLocally(event: SubmitEvent) {
+		event.preventDefault();
+		loading = true;
+		failed = false;
+		try {
+			const response = await fetch("/api/test/login", {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify(local),
+			});
+			if (!response.ok) throw new Error(`Local sign-in failed with ${response.status}`);
+			location.href = "/admin";
+		} catch {
+			failed = true;
+			loading = false;
+		}
+	}
 
 	async function signIn() {
 		loading = true;
@@ -58,9 +79,31 @@
 			{loading ? "Redirecionando..." : "Entrar com GitHub"}
 		</button>
 	{:else}
-		<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">
-			O login pelo GitHub não está configurado. Só o login de testes está ativo.
-		</p>
+		<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">O login pelo GitHub não está configurado.</p>
+	{/if}
+
+	{#if data.missing.length === 0 && data.local}
+		<form onsubmit={signInLocally} class="mt-6 space-y-3 border-t border-gray-200 pt-6 text-left dark:border-zinc-800">
+			<p class="text-xs text-gray-600 dark:text-gray-400">
+				Entrada local, para desenvolvimento: existe só com o banco embutido e com AUTH_TEST_LOGIN_TOKEN definido.
+			</p>
+			<div>
+				<label for="local-user" class={ui.label}>Usuário do GitHub</label>
+				<input id="local-user" bind:value={local.githubLogin} required autocomplete="username" class={ui.input} />
+			</div>
+			<div>
+				<label for="local-token" class={ui.label}>Token de teste</label>
+				<input
+					id="local-token"
+					type="password"
+					bind:value={local.token}
+					required
+					autocomplete="off"
+					class={ui.input}
+				/>
+			</div>
+			<button type="submit" disabled={loading} class="{ui.button} w-full">Entrar localmente</button>
+		</form>
 	{/if}
 
 	{#if failed}

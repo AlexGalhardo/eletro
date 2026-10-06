@@ -19,6 +19,8 @@ Antes de responder ou editar qualquer coisa, nesta ordem:
 3. Leia o [`docs/README.md`](docs/README.md) e, dele, só a documentação do assunto em que vai mexer.
 4. Leia as regras em [`.claude/rules/`](.claude/rules/).
 
+Skills próprias deste projeto: `project-new-post` (criar ou editar um post), `project-new-product-list` (lista de produtos) e `project-release` (lançar uma versão).
+
 Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quando o pedido estiver ambíguo, `spec-driven-development` e `planning-and-task-breakdown` antes de uma feature nova, `source-driven-development` para qualquer API de framework, `test-driven-development` ao escrever lógica, `security-and-hardening` em autenticação, entrada de usuário e integrações, `git-workflow-and-versioning` ao commitar e lançar versão.
 
 ## Documentação (onboarding)
@@ -36,6 +38,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/newsletter.md`](docs/newsletter.md) | Newsletter: inscrição com confirmação, envio de avisos de post, descadastro |
 | [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
+| [`docs/deploy.md`](docs/deploy.md) | Vercel, Netlify, Neon, OAuth App, token de conteúdo, Resend e o que conferir depois do deploy |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
 | [`docs/webscrapping-modelation.md`](docs/webscrapping-modelation.md) | Importação de posts por web scraping: resultado do estudo, `webscrapping/`, `/admin/import`, limites |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |

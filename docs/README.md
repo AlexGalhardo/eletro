@@ -23,11 +23,12 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [newsletter.md](newsletter.md) | Mexer na inscrição, nos e-mails ou no envio de avisos de post |
 | [performance.md](performance.md) | Mexer em imagens, fontes, carregamento ou acessibilidade; medir o Lighthouse |
 | [security.md](security.md) | Mexer em autenticação, entrada de dados, conteúdo do post, cabeçalhos ou integrações |
+| [deploy.md](deploy.md) | Publicar na Vercel ou na Netlify e configurar banco, login, token e e-mail |
 | [ci-cd.md](ci-cd.md) | Entender os workflows, ativar o CI ou lançar uma versão |
 | [webscrapping-modelation.md](webscrapping-modelation.md) | Entender ou alterar a importação de posts por web scraping (`webscrapping/`, `/admin/import`) |
 | [prompts/](prompts/) | Prompts usados pelo dono para gerar posts, FAQs, JSON de produtos e capas |
 
-Documentos previstos para as próximas fases (ainda não existem): `deploy.md`.
+Skills do projeto para agentes, em `.claude/skills/`: `project-new-post`, `project-new-product-list` e `project-release`.
 
 ## Regras para manter esta pasta útil
 
