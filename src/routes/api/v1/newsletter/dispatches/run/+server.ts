@@ -8,7 +8,8 @@ import { CRON_SECRET } from "$app/env/private";
 
 const hasCronToken = (request: Request) => {
 	const token = request.headers.get("authorization")?.replace(/^Bearer\s+/i, "");
-	return Boolean(CRON_SECRET && token && safeEqual(token, CRON_SECRET));
+	// A short secret could be guessed by trying; it is treated as not configured.
+	return Boolean(CRON_SECRET && CRON_SECRET.length >= 32 && token && safeEqual(token, CRON_SECRET));
 };
 
 async function run(url: URL): Promise<Response> {

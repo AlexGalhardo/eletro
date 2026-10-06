@@ -1,12 +1,15 @@
 import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { blobSha, ConflictError, type ContentStore } from "./types.ts";
+import { assertSafePath, blobSha, ConflictError, type ContentStore } from "./types.ts";
 
 const isMissing = (error: unknown) => (error as NodeJS.ErrnoException).code === "ENOENT";
 
 /** Reads and writes the working copy. Used in development and tests; commits are left to the developer. */
 export function createLocalStore(root: string): ContentStore {
-	const resolve = (relative: string) => path.join(root, relative);
+	const resolve = (relative: string) => {
+		assertSafePath(relative);
+		return path.join(root, relative);
+	};
 
 	async function read(relative: string) {
 		try {

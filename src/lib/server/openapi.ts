@@ -294,6 +294,22 @@ export function openApiDocument(version: string): Json {
 					},
 				},
 			},
+			"/newsletter/confirm": {
+				post: {
+					summary: "Confirm a subscription with the token of the confirmation e-mail",
+					requestBody: body({
+						type: "object",
+						required: ["token"],
+						properties: { token: { type: "string" } },
+					}),
+					responses: {
+						"200": ok("Confirmed", status),
+						"400": failure("Missing token"),
+						"404": failure("Unknown token"),
+						"429": failure("Too many requests from this address"),
+					},
+				},
+			},
 			"/newsletter/unsubscribe": {
 				post: {
 					summary: "Unsubscribe with the token of a newsletter e-mail",

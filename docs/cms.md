@@ -31,7 +31,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - Login só pelo GitHub. O OAuth pede apenas identidade.
 - `ADMIN_GITHUB_USERS` é a lista de usuários permitidos. Quem está fora não ganha conta, e a lista é conferida de novo a cada requisição.
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
-- `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. É ignorado em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
+- `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
 - `/admin/login` mostra o botão "Entrar com GitHub" ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair".
 - Páginas do painel não carregam os scripts de analytics.
@@ -63,6 +63,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 
 - `history(dir, limit)` devolve os últimos commits de uma pasta (GitHub) ou uma lista vazia (disco local).
 - `sha` é o hash de blob do Git e funciona como versão. Gravar ou remover com `sha` desatualizado lança `ConflictError`; criar um arquivo que já existe também.
+- Os commits de conteúdo são assinados com o nome do admin e o e-mail `<login>@users.noreply.github.com`, nunca o e-mail privado da conta.
 - Use um token fine-grained com permissão "Contents: Read and write" só no repositório do site.
 - Limite conhecido: a API de conteúdo do GitHub lista até 1.000 arquivos por pasta.
 

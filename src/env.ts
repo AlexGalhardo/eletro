@@ -75,6 +75,7 @@ export const variables = defineEnvVars({
 	},
 	CRON_SECRET: {
 		schema: optional,
-		description: "Bearer token accepted by the newsletter dispatch endpoint when called by a scheduler.",
+		description:
+			"Bearer token accepted by the newsletter dispatch endpoint when called by a scheduler. At least 32 characters.",
 	},
 });
