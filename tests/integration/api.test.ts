@@ -67,7 +67,7 @@ const upload = (bytes: Uint8Array, folder: string, name = "Foto Nova.png") => {
 const product = {
 	id: "p1",
 	name: "Produto Um",
-	image: "/images/posts/p1.jpg",
+	image: "https://example.com/p1.jpg",
 	mercadolivreUrl: "https://meli.la/x",
 };
 const draft = {

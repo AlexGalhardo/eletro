@@ -1,8 +1,6 @@
 import { type APIRequestContext, expect, test } from "@playwright/test";
 
-// Credentials of the throwaway admin configured in playwright.config.ts.
-const TOKEN = "e2e-login-token";
-const ADMIN = "e2e-admin";
+import { ADMIN, LOGIN_TOKEN as TOKEN } from "./env.ts";
 
 const login = (request: APIRequestContext, githubLogin = ADMIN, token = TOKEN) =>
 	request.post("/api/test/login", { data: { token, githubLogin } });
