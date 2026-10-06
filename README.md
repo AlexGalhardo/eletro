@@ -6,7 +6,7 @@ Template open source de blog com CMS, feito em SvelteKit 3. Os posts são arquiv
 
 ## Recursos
 
-**Site público**
+### Site público
 
 - Posts em Markdown (`.mdx` com mdsvex) e listas de produtos em JSON, validados no build
 - Páginas pré-renderizadas, com busca, filtro por categoria, tema claro e escuro
@@ -14,7 +14,7 @@ Template open source de blog com CMS, feito em SvelteKit 3. Os posts são arquiv
 - SEO: metatags, Open Graph, JSON-LD, `sitemap.xml`, `robots.txt`, `llms.txt`
 - Formulário de contato e newsletter com confirmação por e-mail (Resend e react-email)
 
-**Painel `/admin`**
+### Painel `/admin`
 
 - Login pelo GitHub, restrito a uma lista de usuários
 - Editor de posts com pré-visualização, FAQ, capa e listas de produtos
@@ -23,7 +23,7 @@ Template open source de blog com CMS, feito em SvelteKit 3. Os posts são arquiv
 - Importação de um rascunho a partir de um post de outro site
 - Indicador de quando o conteúdo salvo já está publicado
 
-**Para quem desenvolve**
+### Para quem desenvolve
 
 - API REST `/api/v1` com descrição OpenAPI
 - Identidade do site em um único arquivo de configuração
