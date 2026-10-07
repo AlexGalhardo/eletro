@@ -1,11 +1,12 @@
 import { json } from "@sveltejs/kit";
 import { z } from "zod";
-import { ApiError, parseBody, requireAdmin, respond } from "#lib/server/api.ts";
-import { saveProductList } from "#lib/server/cms.ts";
+import { ApiError, parseBody, parseQuery, requireAdmin, respond } from "#lib/server/api.ts";
+import { deleteProductList, saveProductList } from "#lib/server/cms.ts";
 import { getProductList } from "#lib/server/content.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
-const updateSchema = z.object({ sha: z.string().min(1), products: z.unknown() });
+const versionSchema = z.object({ sha: z.string().min(1) });
+const updateSchema = z.object({ ...versionSchema.shape, products: z.unknown() });
 
 export function GET({ params }) {
 	return respond(() => {
@@ -23,5 +24,16 @@ export function PUT({ params, request, locals }) {
 		const { sha, products } = await parseBody(updateSchema, request);
 
 		return json({ data: await saveProductList(getStore(), params.list, products, author, sha) });
+	});
+}
+
+/** Deletes the list. Refused (400) while a post shows it, since the build would fail without it. */
+export function DELETE({ params, url, locals }) {
+	return respond(async () => {
+		const author = requireAdmin(locals);
+		const { sha } = parseQuery(versionSchema, url);
+
+		await deleteProductList(getStore(), params.list, author, sha);
+		return new Response(null, { status: 204 });
 	});
 }

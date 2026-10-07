@@ -1,5 +1,5 @@
 import { expect, test } from "@playwright/test";
-import { ADMIN, LOGIN_TOKEN, open } from "./env.ts";
+import { ADMIN, LOGIN_TOKEN, open, openAdminMenu } from "./env.ts";
 
 // The successful import is covered by tests/integration/import.test.ts with a fake source site:
 // an e2e run must not depend on the network, so here only the refusal path reaches the server.
@@ -15,6 +15,7 @@ test.describe("post import", () => {
 	}) => {
 		await page.request.post("/api/test/login", { data: { token: LOGIN_TOKEN, githubLogin: ADMIN } });
 		await open(page, "/admin");
+		await openAdminMenu(page);
 
 		await page
 			.getByRole("navigation", { name: "Painel" })

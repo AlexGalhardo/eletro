@@ -75,12 +75,35 @@
 			saving = false;
 		}
 	}
+
+	async function remove() {
+		const count = items.length === 1 ? "1 produto" : `${items.length} produtos`;
+		if (!confirm(`Excluir a lista "${name}" com ${count}? Esta ação não pode ser desfeita pelo painel.`))
+			return;
+		saving = true;
+		errors = [];
+		success = "";
+		try {
+			await api("DELETE", `/products/${name}?sha=${version}`);
+			await goto("/admin/products");
+		} catch (cause) {
+			errors = messagesOf(cause);
+			saving = false;
+		}
+	}
 </script>
 
 <form onsubmit={save} class="space-y-6">
 	<div class="flex flex-wrap items-center justify-between gap-3">
 		<h1 class="text-2xl font-bold">{isNew ? "Nova lista de produtos" : `Lista: ${name}`}</h1>
-		<button type="submit" disabled={saving} class={ui.primary}>{saving ? "Salvando..." : "Salvar"}</button>
+		<div class="flex flex-wrap gap-2">
+			{#if !isNew}
+				<button type="button" onclick={remove} disabled={saving} class={ui.danger}>
+					<Trash2 size={14} aria-hidden="true" /> Excluir lista
+				</button>
+			{/if}
+			<button type="submit" disabled={saving} class={ui.primary}>{saving ? "Salvando..." : "Salvar"}</button>
+		</div>
 	</div>
 
 	{#if !isNew}<DeployStatus {deployed} {kind} />{/if}

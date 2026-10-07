@@ -147,4 +147,13 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 		await expect(page).toHaveURL("/admin/posts");
 		expect(existsSync(path.join(CONTENT_ROOT, `content/posts/${slug}.mdx`))).toBe(false);
 	});
+
+	await test.step("deletes the product list once no post uses it", async () => {
+		await open(page, `/admin/products/${list}`);
+		page.once("dialog", (dialog) => dialog.accept());
+		await page.getByRole("button", { name: "Excluir lista" }).click();
+
+		await expect(page).toHaveURL("/admin/products");
+		expect(existsSync(path.join(CONTENT_ROOT, `content/products/${list}.json`))).toBe(false);
+	});
 });

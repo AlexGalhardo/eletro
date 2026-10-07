@@ -6,6 +6,18 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.22] - 2026-10-07
+
+### Added
+
+- Botão "Excluir lista" no editor de produtos e `DELETE /api/v1/products/{list}`: apaga a lista inteira de uma vez. A exclusão é recusada enquanto algum post mostra a lista com `<CardsTable>`, porque o build quebraria.
+
+## [1.0.0-rc.21] - 2026-10-07
+
+### Changed
+
+- Painel `/admin` no celular: a navegação fica atrás de um menu hambúrguer, em vez de ocupar meia tela no topo.
+
 ## [1.0.0-rc.20] - 2026-10-07
 
 ### Fixed
@@ -210,7 +222,9 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.20...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.22...HEAD
+[1.0.0-rc.22]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.21...v1.0.0-rc.22
+[1.0.0-rc.21]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.20...v1.0.0-rc.21
 [1.0.0-rc.20]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.19...v1.0.0-rc.20
 [1.0.0-rc.19]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.18...v1.0.0-rc.19
 [1.0.0-rc.18]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.17...v1.0.0-rc.18

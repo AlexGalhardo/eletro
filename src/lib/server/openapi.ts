@@ -238,6 +238,18 @@ export function openApiDocument(version: string): Json {
 						"409": failure("The list changed since `sha`, or does not exist"),
 					},
 				},
+				delete: {
+					summary: "Delete a product list",
+					description: "Refused with 400 while a post shows the list with `<CardsTable>`.",
+					...admin,
+					parameters: [query("sha", { type: "string" }, "Version being deleted", true)],
+					responses: {
+						"204": { description: "Deleted" },
+						...writeErrors,
+						"404": failure("Unknown list"),
+						"409": failure("The list changed since `sha`"),
+					},
+				},
 			},
 			"/media": {
 				get: {
