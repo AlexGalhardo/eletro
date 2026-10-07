@@ -5,6 +5,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { validateBody } from "../../src/lib/content/validate-body.ts";
 import {
 	deletePost,
+	deleteProductList,
 	getPost,
 	getProductList,
 	listImages,
@@ -143,6 +144,26 @@ describe("product lists", () => {
 			/repetido: p1/,
 		);
 		await expect(saveProductList(store, "y-lista", [], author)).rejects.toThrow(ValidationError);
+	});
+});
+
+describe("deleteProductList", () => {
+	it("deletes a list no post uses, and refuses one a post still shows", async () => {
+		const list = await saveProductList(store, "cafeteiras", [product], author);
+		const created = await savePost(store, "melhor-cafeteira", post, author);
+
+		await expect(deleteProductList(store, "cafeteiras", author, list.sha)).rejects.toThrow(
+			/melhor-cafeteira/,
+		);
+		expect(await getProductList(store, "cafeteiras")).not.toBeNull();
+
+		await deletePost(store, "melhor-cafeteira", author, created.sha);
+		await deleteProductList(store, "cafeteiras", author, list.sha);
+		expect(await getProductList(store, "cafeteiras")).toBeNull();
+	});
+
+	it("answers not found for a list that does not exist", async () => {
+		await expect(deleteProductList(store, "nao-existe", author, "x")).rejects.toThrow(/nao-existe/);
 	});
 });
 

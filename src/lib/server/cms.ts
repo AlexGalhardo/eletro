@@ -220,6 +220,30 @@ export async function saveProductList(
 	return { name, sha: result.sha };
 }
 
+/**
+ * Removes a whole product list. Refused while a post shows it with `<CardsTable>`: the build would fail
+ * on the missing list. ponytail: reads every post to find those users (one request each with the GitHub
+ * store); pass the bundled sources, as `listPosts` does, if that gets slow.
+ */
+export async function deleteProductList(store: ContentStore, name: string, author: Author, sha: string) {
+	const path = listPath(name);
+	if (!(await store.read(path))) throw new NotFoundError(`Product list "${name}"`);
+
+	const posts = (await store.list(POSTS)).filter((entry) => entry.name.endsWith(".mdx"));
+	const sources = await Promise.all(posts.map((entry) => store.read(entry.path)));
+	const users = posts
+		.filter((_, index) =>
+			referencedLists(decode(sources[index]?.bytes ?? new Uint8Array())).includes(name),
+		)
+		.map((entry) => entry.name.replace(/\.mdx$/, ""));
+	if (users.length > 0)
+		throw new ValidationError([
+			`A lista "${name}" aparece nos posts: ${users.join(", ")}. Tire o <CardsTable list="${name}" /> deles ou exclua os posts antes.`,
+		]);
+
+	await store.remove(path, { message: `content: remove product list ${name}`, author, sha });
+}
+
 // --- Images -----------------------------------------------------------------------
 
 /** Turns "Minha Foto (1).PNG" into "minha-foto-1". */
