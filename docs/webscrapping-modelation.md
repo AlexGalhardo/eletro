@@ -48,7 +48,7 @@ O site é WordPress com um tema próprio. Seletores usados em `webscrapping/pars
 | Categoria | primeiro segmento da URL (`/cozinha/...`) | Também aparece em `.breadcrumb` |
 | Cartão de produto | `.box-products` | Um por produto, na ordem do ranking |
 | Nome do produto | `.box-products .bp-title` | O mesmo texto do `h2.wp-block-heading` acima do cartão |
-| Foto do produto | `.box-products .bp-image img[src]` | Hospedada em `m.media-amazon.com`, 500 px |
+| Foto do produto | `.box-products .bp-image img[src]` | Hospedada em `m.media-amazon.com` (500 px) ou em `http2.mlstatic.com`, o servidor de imagens do Mercado Livre |
 | Vantagens e desvantagens | `.box-pro-contra .pros li`, `.contras li` | Lidas só para consulta; não vão para o rascunho |
 | Ficha técnica | `.box-ficha-tecnica li` | Rótulo em `<strong>`, valor no restante do item |
 | FAQ | `#rank-math-faq .rank-math-list-item` (`.rank-math-question`, `.rank-math-answer`) | Enviado à Mistral para reescrita; não é gravado como está |

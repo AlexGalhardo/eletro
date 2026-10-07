@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-10-07
+
+### Fixed
+
+- Importação (`/admin/import`): fotos de produto hospedadas no servidor de imagens do Mercado Livre (`http2.mlstatic.com`) eram recusadas com "não está em um endereço permitido".
+
 ## [1.0.0] - 2026-10-07
 
 ### Changed
@@ -267,7 +273,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.27...v1.0.0
 [1.0.0-rc.27]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.26...v1.0.0-rc.27
 [1.0.0-rc.26]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...v1.0.0-rc.26

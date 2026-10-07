@@ -42,7 +42,7 @@ function fakeSite(page = FIXTURE_HTML, mistral?: () => Response, photo = JPEG) {
 		calls.push(url);
 		if (url === MISTRAL_URL && mistral) return mistral();
 		if (url === FIXTURE_URL) return new Response(page, { headers: { "content-type": "text/html" } });
-		if (url.startsWith("https://m.media-amazon.com/")) return new Response(photo);
+		if (/^https:\/\/(m\.media-amazon\.com|http2\.mlstatic\.com)\//.test(url)) return new Response(photo);
 		return new Response("not found", { status: 404 });
 	});
 	return calls;
@@ -167,6 +167,15 @@ describe("importPost", () => {
 		for (const url of ["https://example.com/cozinha/x/", "http://eletrosinter.com.br/cozinha/x/", "x"])
 			await expect(importPost(store, url, author)).rejects.toThrow(ValidationError);
 		expect(calls).toEqual([]);
+	});
+
+	it("accepts product photos hosted on the Mercado Livre image server", async () => {
+		fakeSite(FIXTURE_HTML.replaceAll("https://m.media-amazon.com/", "https://http2.mlstatic.com/"));
+
+		const result = await importPost(createLocalStore(root), FIXTURE_URL, author);
+
+		expect(result.products).toBe(7);
+		expect(await files("static/images/posts")).toHaveLength(7);
 	});
 
 	it("refuses a product photo hosted outside the image allow list", async () => {

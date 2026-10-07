@@ -75,7 +75,12 @@ export const site = {
 	 */
 	postImport: {
 		sourceHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br"],
-		imageHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br", "m.media-amazon.com"],
+		imageHosts: [
+			"eletrosinter.com.br",
+			"www.eletrosinter.com.br",
+			"m.media-amazon.com",
+			"http2.mlstatic.com",
+		],
 		maxProducts: 7,
 		/** Written in bold at the bottom right of the generated cover. */
 		coverText: "eletroradar",
