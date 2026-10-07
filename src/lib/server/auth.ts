@@ -56,7 +56,9 @@ async function createAuth() {
 		}),
 		user: {
 			additionalFields: {
-				githubLogin: { type: "string", required: false, input: false },
+				// Not `input: false`: better-auth drops such fields from the provider profile too, so the
+				// allow list below never saw the login and refused everyone. The update hook keeps it fixed.
+				githubLogin: { type: "string", required: false },
 			},
 		},
 		socialProviders: githubConfigured()
@@ -76,6 +78,13 @@ async function createAuth() {
 					before: async (candidate) => {
 						if (!isAllowedAdmin((candidate as { githubLogin?: string }).githubLogin))
 							return false;
+					},
+				},
+				update: {
+					// The login is the key of the allow list: someone removed from it must not be able to
+					// rename themselves into an admin through the update-user endpoint.
+					before: async (changes) => {
+						if ("githubLogin" in changes) return false;
 					},
 				},
 			},
