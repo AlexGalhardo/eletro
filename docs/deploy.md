@@ -86,6 +86,7 @@ Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas e
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` |
 | `CRON_SECRET` | `openssl rand -base64 32` (no mínimo 32 caracteres) |
 | `MISTRAL_API_KEY` | Opcional: chave da Mistral (<https://console.mistral.ai/api-keys>, plano gratuito serve) para reescrever resumo e FAQ na importação |
+| `GOOGLE_SERVICE_ACCOUNT_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`, `GOOGLE_SEARCH_CONSOLE_SITE`, `GOOGLE_ANALYTICS_PROPERTY_ID` | Opcionais: dados do Search Console e do Analytics em `/admin/google` (passo a passo em [google-console-analytics-setup.md](google-console-analytics-setup.md)) |
 
 Não defina `AUTH_TEST_LOGIN_TOKEN` nem `PGLITE_DIR` em produção. O login de testes já é ignorado quando existe `DATABASE_URL`, mas a variável não tem motivo para estar lá.
 

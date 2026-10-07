@@ -186,6 +186,16 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 **Assert:** integração — importar a página sintética grava 7 fotos, a lista e o post como rascunho, sem nenhum trecho do texto da origem, e recusa host fora da lista sem fazer requisição; execução real contra um post da origem cria um rascunho que passa em `bun run test` e não aparece no build. (Verificado em 2026-10-06: `webscrapping/webscrapping.test.ts`, `tests/integration/import.test.ts` e `tests/e2e/import.spec.ts` verdes; importação real em 3,1 s com o store local; `bun run build` com o rascunho fora de `sitemap.xml` e da API.)
 
+### B8. Google Search Console e Analytics
+
+- [x] Cliente `src/lib/server/google.ts`: conta de serviço (JWT assinado com `node:crypto`), relatórios do Search Console e do GA4, envio de sitemap; sem dependência nova
+- [x] Variáveis `GOOGLE_SERVICE_ACCOUNT_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`, `GOOGLE_SEARCH_CONSOLE_SITE` e `GOOGLE_ANALYTICS_PROPERTY_ID`
+- [x] Tela `/admin/google` e endpoint `POST /api/v1/google/sitemap` (admin), descrito no `openapi.json` e em `docs/api.md`
+- [x] `docs/google-console-analytics-setup.md`
+- [ ] Conferir com a conta de serviço real: nenhuma chamada ao Google de verdade foi feita no desenvolvimento
+
+**Assert:** unitário — com o `fetch` simulado, o JWT é verificado com a chave pública, os relatórios são lidos, o sitemap é enviado com `PUT` e a recusa do Google vira mensagem; integração — o endpoint responde 401 sem sessão e 503 sem as variáveis. (Verificado em 2026-10-07: `src/lib/server/google.test.ts` e `tests/integration/api.test.ts` verdes.)
+
 ---
 
 ## Fase 1.0.0-rc — endurecimento e entrega (1.0.0-rc.1 → 1.0.0)
@@ -326,6 +336,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-06 | Texto do rascunho importado gerado por modelos, sem copiar a origem | O app não tem LLM; copiar o texto seria problema de direito autoral e conteúdo duplicado para SEO |
 | 2026-10-07 | Capa da importação montada com `sharp` e `opentype.js`, sem API de imagem | Modelos de imagem alteram o produto e erram texto; montagem com código é grátis e igual toda vez |
 | 2026-10-07 | Resumo e FAQ da importação reescritos pela Mistral (`mistral-small-latest`, plano gratuito) | Pedido do dono; a falha da API não bloqueia a importação, o rascunho cai no texto genérico |
+| 2026-10-07 | Google pelo painel com conta de serviço, não com o OAuth do login | Sem tela de consentimento, sem token para renovar e sem escopo sensível no login; o acesso é dado ao e-mail da conta dentro do Search Console e do Analytics |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono
@@ -336,3 +347,4 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
 - [ ] Cadastrar `MISTRAL_API_KEY` na Vercel e fazer uma importação de teste
+- [ ] Criar a conta de serviço do Google e cadastrar as quatro variáveis `GOOGLE_*` seguindo `docs/google-console-analytics-setup.md`; depois conferir `/admin/google`

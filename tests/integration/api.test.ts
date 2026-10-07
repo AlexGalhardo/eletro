@@ -3,6 +3,7 @@ import { afterAll, describe, expect, it, vi } from "vitest";
 import { rateLimit } from "../../src/lib/server/api.ts";
 import { openApiDocument } from "../../src/lib/server/openapi.ts";
 import * as categories from "../../src/routes/api/v1/categories/+server.ts";
+import * as googleSitemap from "../../src/routes/api/v1/google/sitemap/+server.ts";
 import * as health from "../../src/routes/api/v1/health/+server.ts";
 import * as media from "../../src/routes/api/v1/media/+server.ts";
 import * as openapi from "../../src/routes/api/v1/openapi.json/+server.ts";
@@ -325,6 +326,23 @@ describe("writes", () => {
 		expect((await send(upload(PNG, "../secrets"))).status).toBe(400);
 		expect((await send(new FormData())).status).toBe(400);
 		expect((await call(media.GET, "/api/v1/media?folder=avatars", { signedIn: true })).status).toBe(400);
+	});
+});
+
+describe("google sitemap", () => {
+	it("needs an admin session and says when Google is not configured", async () => {
+		const anonymous = await call(googleSitemap.POST, "/api/v1/google/sitemap", { method: "POST" });
+		const admin = await call(googleSitemap.POST, "/api/v1/google/sitemap", {
+			method: "POST",
+			signedIn: true,
+		});
+
+		expect(anonymous.status).toBe(401);
+		expect(admin.status).toBe(503);
+		expect(admin.json.error).toMatchObject({
+			code: "google_not_configured",
+			details: [expect.stringMatching(/Search Console/)],
+		});
 	});
 });
 

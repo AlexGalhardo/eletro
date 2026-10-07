@@ -14,6 +14,7 @@
 		{ href: "/admin/media", label: "Mídia" },
 		{ href: "/admin/newsletter", label: "Newsletter" },
 		{ href: "/admin/import", label: "Importar" },
+		{ href: "/admin/google", label: "Google" },
 	];
 
 	// Phones only: from `md` up the menu is always shown in the header row.

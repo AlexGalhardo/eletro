@@ -71,6 +71,7 @@ Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opc
 | E-mail | `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `CONTACT_TO_EMAIL` | O e-mail é só registrado no log |
 | Newsletter | `CRON_SECRET` | A fila de avisos só roda pelo botão do painel |
 | Importação | `MISTRAL_API_KEY` | O rascunho importado fica com o texto genérico, sem reescrita por IA |
+| Google | `GOOGLE_SERVICE_ACCOUNT_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`, `GOOGLE_SEARCH_CONSOLE_SITE`, `GOOGLE_ANALYTICS_PROPERTY_ID` | `/admin/google` lista o que falta (ver [`google-console-analytics-setup.md`](google-console-analytics-setup.md)) |
 
 Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 

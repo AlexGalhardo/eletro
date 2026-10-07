@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.24] - 2026-10-07
+
+### Added
+
+- Tela `/admin/google`: cliques, impressões, CTR e posição do Google Search Console, usuários, sessões e visualizações do Google Analytics 4 (últimos 28 dias), a lista de sitemaps e o botão "Reenviar sitemap ao Google" (`POST /api/v1/google/sitemap`). A configuração da conta de serviço está em `docs/google-console-analytics-setup.md`.
+
 ## [1.0.0-rc.23] - 2026-10-07
 
 ### Added
@@ -233,7 +239,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.23...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.24...HEAD
+[1.0.0-rc.24]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.23...v1.0.0-rc.24
 [1.0.0-rc.23]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.22...v1.0.0-rc.23
 [1.0.0-rc.22]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.21...v1.0.0-rc.22
 [1.0.0-rc.21]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.20...v1.0.0-rc.21
