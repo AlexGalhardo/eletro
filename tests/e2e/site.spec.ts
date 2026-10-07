@@ -154,12 +154,10 @@ test.describe("contact", () => {
 	});
 });
 
-test("unknown pages show a 404 with a way back", async ({ page }) => {
+test("unknown pages send the visitor to the home page", async ({ page }) => {
 	const response = await page.goto("/esta-pagina-nao-existe");
 
-	expect(response?.status()).toBe(404);
-	await expect(page.getByRole("heading", { name: "404" })).toBeVisible();
-	await page.getByRole("link", { name: "Voltar para o início" }).click();
+	expect(response?.status()).toBe(200);
 	await expect(page).toHaveURL("/");
 });
 

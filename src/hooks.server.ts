@@ -59,6 +59,12 @@ export const handle: Handle = async ({ event, resolve }) => {
 		transformPageChunk: ({ html }) => html.replace("%lang%", site.locale),
 	});
 
+	// The owner prefers sending a mistyped or retired address to the home page over showing an error page.
+	// Files and the API keep the 404: an image or a client must not receive the home page instead.
+	// ponytail: search engines treat this as a soft 404; restore the error page if indexing reports complain.
+	if (response.status === 404 && !building && isLostPage(event.request.method, pathname))
+		return secure(new Response(null, { status: 302, headers: { Location: "/" } }), false);
+
 	// Reading the API from another origin is allowed; it only exposes what the site already publishes.
 	if (isUnder(pathname, API) && event.request.method === "GET")
 		response.headers.set("Access-Control-Allow-Origin", "*");
@@ -68,6 +74,9 @@ export const handle: Handle = async ({ event, resolve }) => {
 		PRIVATE_PREFIXES.some((prefix) => isUnder(pathname, prefix)),
 	);
 };
+
+const isLostPage = (method: string, pathname: string) =>
+	method === "GET" && !isUnder(pathname, "/api") && !/\.[a-z0-9]+$/i.test(pathname);
 
 function clientAddress(event: { getClientAddress: () => string }): string {
 	try {

@@ -50,15 +50,22 @@ test.describe("smoke", () => {
 		const llms = await (await request.get("/llms.txt")).text();
 
 		for (const slug of hidden) {
-			expect((await request.get(`/${slug}`)).status(), slug).toBe(404);
+			const page = await request.get(`/${slug}`, { maxRedirects: 0 });
+			expect(page.status(), slug).toBe(302);
+			expect(page.headers().location, slug).toBe("/");
 			expect((await request.get(`/api/v1/posts/${slug}`)).status(), slug).toBe(404);
 			expect(sitemap, slug).not.toContain(`/${slug}</loc>`);
 			expect(llms, slug).not.toContain(`/${slug})`);
 		}
 	});
 
-	test("unknown URLs return 404", async ({ request }) => {
-		expect((await request.get("/esta-pagina-nao-existe")).status()).toBe(404);
+	test("unknown pages redirect to the home page; files and the API keep their 404", async ({ request }) => {
+		const page = await request.get("/esta-pagina-nao-existe", { maxRedirects: 0 });
+		expect(page.status()).toBe(302);
+		expect(page.headers().location).toBe("/");
+
+		expect((await request.get("/images/nao-existe.webp", { maxRedirects: 0 })).status()).toBe(404);
+		expect((await request.get("/api/v1/nao-existe", { maxRedirects: 0 })).status()).toBe(404);
 	});
 
 	test("sitemap lists every post and no private path", async ({ request }) => {
