@@ -55,6 +55,6 @@
 
 	{#each jsonLd as data (data["@type"])}
 		<!-- eslint-disable-next-line svelte/no-at-html-tags -- serializeJsonLd escapes `<`. -->
-		{@html `<script type="application/ld+json">${serializeJsonLd(data)}</` + "script>"}
+		{@html `<script type="application/ld+json">${serializeJsonLd(data)}</${"script"}>`}
 	{/each}
 </svelte:head>
