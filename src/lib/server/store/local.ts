@@ -1,8 +1,10 @@
 import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { assertSafePath, blobSha, ConflictError, type ContentStore } from "./types.ts";
+import { assertSafePath, blobSha, ConflictError, type ContentStore, StoreUnavailableError } from "./types.ts";
 
-const isMissing = (error: unknown) => (error as NodeJS.ErrnoException).code === "ENOENT";
+// ENOTDIR: a parent of the path is a file, so the path does not exist either.
+const isMissing = (error: unknown) =>
+	["ENOENT", "ENOTDIR"].includes((error as NodeJS.ErrnoException).code ?? "");
 
 /** Reads and writes the working copy. Used in development and tests; commits are left to the developer. */
 export function createLocalStore(root: string): ContentStore {
@@ -44,8 +46,12 @@ export function createLocalStore(root: string): ContentStore {
 			const current = await read(relative);
 			if ((current?.sha ?? undefined) !== sha) throw new ConflictError(relative);
 
-			await mkdir(path.dirname(resolve(relative)), { recursive: true });
-			await writeFile(resolve(relative), bytes);
+			try {
+				await mkdir(path.dirname(resolve(relative)), { recursive: true });
+				await writeFile(resolve(relative), bytes);
+			} catch (cause) {
+				throw new StoreUnavailableError(cause);
+			}
 			return { sha: blobSha(bytes) };
 		},
 

@@ -22,6 +22,22 @@ export interface ContentStore {
 	history(dir: string, limit: number): Promise<HistoryEntry[]>;
 }
 
+/**
+ * The store cannot write where it is running. In practice: a serverless deploy without GITHUB_TOKEN and
+ * GITHUB_REPO, which falls back to the local disk and finds it read-only.
+ */
+export class StoreUnavailableError extends Error {
+	constructor(cause: unknown) {
+		super(
+			"The content store cannot write here. Set GITHUB_TOKEN and GITHUB_REPO to publish from this deploy.",
+			{
+				cause,
+			},
+		);
+		this.name = "StoreUnavailableError";
+	}
+}
+
 /** The file changed (or appeared) since the version the caller was working on. */
 export class ConflictError extends Error {
 	constructor(path: string) {

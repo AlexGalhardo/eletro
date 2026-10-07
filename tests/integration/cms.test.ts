@@ -17,7 +17,13 @@ import {
 } from "../../src/lib/server/cms.ts";
 import { createGitHubStore } from "../../src/lib/server/store/github.ts";
 import { createLocalStore } from "../../src/lib/server/store/local.ts";
-import { blobSha, ConflictError, type ContentStore, encode } from "../../src/lib/server/store/types.ts";
+import {
+	blobSha,
+	ConflictError,
+	type ContentStore,
+	encode,
+	StoreUnavailableError,
+} from "../../src/lib/server/store/types.ts";
 
 const author = { name: "Admin", email: "admin@example.com" };
 const product = {
@@ -261,6 +267,17 @@ describe("GitHub store", () => {
 			url: "https://api.github.com/repos/owner/repo/contents/content/posts/novo%20post.mdx",
 			body: { message: "content: add post novo", branch: "main", author, content: "b2zDoQ==" },
 		});
+	});
+
+	it("says the store is unavailable when the disk refuses the write", async () => {
+		// A file where a folder is expected fails like the read-only disk of a serverless deploy.
+		await store.write("blocker", encode("x"), { message: "m", author: { name: "a", email: "a@b.c" } });
+		const blocked = createLocalStore(path.join(root, "blocker")).write("file.txt", encode("x"), {
+			message: "m",
+			author: { name: "a", email: "a@b.c" },
+		});
+
+		await expect(blocked).rejects.toBeInstanceOf(StoreUnavailableError);
 	});
 
 	it("reads files, treats 404 as missing and lists only files", async () => {
