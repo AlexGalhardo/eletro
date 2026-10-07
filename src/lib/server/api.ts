@@ -4,7 +4,7 @@ import type { z } from "zod";
 import { site } from "#lib/site.config.ts";
 import type { AdminUser } from "./auth.ts";
 import { type Author, NotFoundError, ValidationError } from "./cms.ts";
-import { ConflictError, StoreUnavailableError } from "./store/types.ts";
+import { ConflictError, StoreFailedError, StoreUnavailableError } from "./store/types.ts";
 
 /** Every error of the REST API has this body, whatever the endpoint. */
 export type ApiErrorBody = { error: { code: string; message: string; details?: string[] } };
@@ -39,6 +39,13 @@ export async function respond(run: () => Response | Promise<Response>): Promise<
 		if (error instanceof StoreUnavailableError) {
 			console.error("[api] content store unavailable", error.cause);
 			return fail(503, "content_store_unavailable", error.message);
+		}
+
+		if (error instanceof StoreFailedError) {
+			console.error("[api] content store failed", error.message);
+			return fail(502, "content_store_failed", "GitHub is failing to store content", [
+				`O GitHub respondeu erro ${error.status} ao gravar o conteúdo, mesmo depois de novas tentativas. O problema é do lado do GitHub: tente de novo em alguns minutos.`,
+			]);
 		}
 
 		console.error("[api] unexpected error", error);

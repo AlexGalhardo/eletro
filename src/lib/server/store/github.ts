@@ -1,6 +1,22 @@
-import { assertSafePath, ConflictError, type ContentStore, type HistoryEntry } from "./types.ts";
+import {
+	assertSafePath,
+	ConflictError,
+	type ContentStore,
+	type HistoryEntry,
+	StoreFailedError,
+} from "./types.ts";
 
-type Options = { token: string; repo: string; branch: string; fetch?: typeof fetch };
+type Options = {
+	token: string;
+	repo: string;
+	branch: string;
+	fetch?: typeof fetch;
+	/** Wait before the first retry of a server error; the second waits twice as long. */
+	retryDelayMs?: number;
+};
+
+/** A request is sent this many times while GitHub answers a server error (5xx). */
+const ATTEMPTS = 3;
 
 const toBase64 = (bytes: Uint8Array) => Buffer.from(bytes).toString("base64");
 const fromBase64 = (text: string) => new Uint8Array(Buffer.from(text, "base64"));
@@ -9,7 +25,13 @@ const fromBase64 = (text: string) => new Uint8Array(Buffer.from(text, "base64"))
  * Stores content as commits through the GitHub Contents API, which is what triggers a new deploy.
  * https://docs.github.com/en/rest/repos/contents
  */
-export function createGitHubStore({ token, repo, branch, fetch: request = fetch }: Options): ContentStore {
+export function createGitHubStore({
+	token,
+	repo,
+	branch,
+	fetch: request = fetch,
+	retryDelayMs = 1000,
+}: Options): ContentStore {
 	const url = (filePath: string) => {
 		// encodeURIComponent leaves ".." alone, and the URL parser would then resolve it to another endpoint.
 		assertSafePath(filePath);
@@ -26,16 +48,27 @@ export function createGitHubStore({ token, repo, branch, fetch: request = fetch 
 	async function call(method: string, filePath: string, body?: Record<string, unknown>) {
 		const target =
 			method === "GET" ? `${url(filePath)}?ref=${encodeURIComponent(branch)}` : url(filePath);
-		return request(target, {
-			method,
-			headers: { ...headers, ...(body ? { "Content-Type": "application/json" } : {}) },
-			body: body ? JSON.stringify({ ...body, branch }) : undefined,
-		});
+		const send = () =>
+			request(target, {
+				method,
+				headers: { ...headers, ...(body ? { "Content-Type": "application/json" } : {}) },
+				body: body ? JSON.stringify({ ...body, branch }) : undefined,
+			});
+
+		// GitHub answers 5xx now and then and recovers within seconds. If a write went through despite the
+		// error, its retry answers 422 and surfaces as a conflict, never as a second commit.
+		let response = await send();
+		for (let attempt = 1; attempt < ATTEMPTS && response.status >= 500; attempt++) {
+			await new Promise((resolve) => setTimeout(resolve, retryDelayMs * attempt));
+			response = await send();
+		}
+		return response;
 	}
 
 	async function fail(response: Response, action: string): Promise<never> {
-		const detail = await response.text().catch(() => "");
-		throw new Error(`GitHub ${action} failed with ${response.status}: ${detail.slice(0, 300)}`);
+		const detail = (await response.text().catch(() => "")).slice(0, 300);
+		if (response.status >= 500) throw new StoreFailedError(action, response.status, detail);
+		throw new Error(`GitHub ${action} failed with ${response.status}: ${detail}`);
 	}
 
 	return {

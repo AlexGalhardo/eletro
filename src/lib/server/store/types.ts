@@ -38,6 +38,18 @@ export class StoreUnavailableError extends Error {
 	}
 }
 
+/** GitHub answered a server error and kept doing so after the retries. Nothing the editor sent is wrong. */
+export class StoreFailedError extends Error {
+	constructor(
+		action: string,
+		readonly status: number,
+		detail = "",
+	) {
+		super(`GitHub ${action} failed with ${status}: ${detail}`);
+		this.name = "StoreFailedError";
+	}
+}
+
 /** The file changed (or appeared) since the version the caller was working on. */
 export class ConflictError extends Error {
 	constructor(path: string) {
