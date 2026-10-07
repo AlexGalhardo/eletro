@@ -159,7 +159,7 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 - [x] Templates react-email: confirmação, post novo, contato
 - [x] Opção "avisar assinantes" ao publicar; envio pendente até o post estar no ar; envio em lotes pelo Resend, sem duplicar
 - [x] Tela `/admin/newsletter`: assinantes, envios e reenvio manual
-- [ ] Agendador chamando `/api/v1/newsletter/dispatches/run` (como configurar está em `docs/deploy.md`; depende do deploy, e até lá a fila anda pelo botão do painel)
+- [x] Agendador chamando `/api/v1/newsletter/dispatches/run`: cron da Vercel a cada 15 minutos em `vercel.json`, conferido nos logs de produção em 2026-10-06
 
 **Assert:** integração — inscrever, confirmar, publicar e disparar gera exatamente um e-mail por assinante confirmado (Resend simulado); descadastrado não recebe; disparo repetido não reenvia. (Verificado em 2026-10-06: `tests/integration/newsletter.test.ts` verde, incluindo a retomada de um envio que falhou no meio sem repetir e-mail. O envio real pelo Resend não foi exercitado: depende da chave do dono.)
 
@@ -218,7 +218,7 @@ Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a
 - [x] Revisão com a skill `security-and-hardening` e o OWASP Top Ten 2025: CSRF, cabeçalhos, sanitização do Markdown, validação de upload, limite de tentativas (relatório em `docs/security.md`)
 - [x] Varredura de segredos no repositório e no histórico (nada encontrado)
 - [ ] CSP: exige tirar os scripts embutidos de `app.html` e `+layout.svelte` e testar o analytics em um deploy real
-- [ ] Conferir em um deploy real os cabeçalhos de `vercel.json` e `static/_headers`
+- [ ] Conferir em um deploy real os cabeçalhos de `static/_headers` (Netlify). Os de `vercel.json` foram conferidos em produção em 2026-10-06
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado que quebra o build (leva `mdsvex` para produção: decisão do dono)
 
 **Assert:** relatório de segurança sem achado alto ou crítico em aberto. (Verificado em 2026-10-06: o único achado alto, o contorno do `validateBody` por chaves codificadas, foi corrigido com teste; em aberto ficam só médios e baixos, listados em `docs/security.md`.)
@@ -271,12 +271,12 @@ Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a
 
 Dependem do primeiro deploy (lista completa em `docs/deploy.md`):
 
-- [ ] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend
+- [x] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend (Vercel, em 2026-10-06: `https://example.com`)
 - [ ] Login real pelo GitHub e um post publicado pelo painel de ponta a ponta, com o commit e o deploy
-- [ ] Cabeçalhos de segurança de `vercel.json` e `static/_headers` conferidos em produção
+- [ ] Cabeçalhos de segurança de `static/_headers` conferidos em produção (os de `vercel.json` já foram, em 2026-10-06)
 - [ ] PageSpeed Insights na home e em um post (assert de R3)
 - [ ] Importação de post com o store do GitHub dentro do tempo limite da função
-- [ ] Agendador da newsletter e um envio real pelo Resend
+- [ ] Um envio real da newsletter pelo Resend (o agendador já roda em produção)
 
 Dependem de decisão do dono:
 
@@ -329,7 +329,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 
 - [ ] Revogar no Resend a chave que estava no `.env.example` antigo, caso seja real
 - [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
-- [ ] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
+- [x] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
 - [ ] Decidir se a importação ganha uma etapa de reescrita com LLM (chave de API e custo por post)
