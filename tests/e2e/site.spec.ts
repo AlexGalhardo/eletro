@@ -15,6 +15,21 @@ test.describe("home", () => {
 		await expect(cards.first()).toContainText(/sofá|poltrona|mesa/i);
 	});
 
+	test("offers only categories that have a published post, in the filter and in the footer", async ({
+		page,
+	}) => {
+		await page.goto("/");
+		const filters = page.locator("main button[aria-pressed]");
+		const labels = (await filters.allTextContents()).map((label) => label.trim());
+
+		expect(labels[0]).toBe("Todos");
+		for (const label of labels.slice(1)) {
+			await page.getByRole("button", { name: label, exact: true }).click();
+			await expect(page.locator("main a[href^='/']").first(), label).toBeVisible();
+		}
+		await expect(page.locator("footer nav[aria-label='Categorias'] a")).toHaveText(labels.slice(1));
+	});
+
 	test("loads more posts while scrolling", async ({ page }) => {
 		await page.goto("/");
 		const cards = page.locator("main a[href^='/']");
