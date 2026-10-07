@@ -1,0 +1,401 @@
+[
+	{
+		"id": "mondial-c-44-32x-sdi-800w-32-xicaras",
+		"name": "Mondial C-44-32X-SDI 800W (32 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 1,2 litro",
+			"Potência: 800W",
+			"Material: plástico, aço escovado e vidro",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel digital com relógio; função Aroma com três intensidades; programação até 24h; base aquecida (função Manter Aquecido); sistema corta-pingos; indicador de nível de água; tampa basculante; indicador de funcionamento no display; modo stand-by após 2h de aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta-filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 17,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-43-20x-si-550w-20-xicaras",
+		"name": "Mondial C-43-20X-SI 550W (20 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 800mL",
+			"Potência: 550W",
+			"Material: plástico, aço inox e vidro",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800mL"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "indicador de nível de água; botão liga/desliga luminoso; sistema corta-pingos; base aquecida (função Manter Aquecido); tampa basculante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta-filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 15 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-34-ji-15x-550w-15-xicaras",
+		"name": "Mondial C-34-JI-15X 550W (15 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 600mL",
+			"Potência: 550W",
+			"Material: plástico e aço inox",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tampa basculante; botão liga/desliga luminoso; sistema corta-pingos; indicador de nível de água; base aquecida (função Manter Aquecido)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente; porta-filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 16,5 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,94kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-42-2x-bi-500w-2-xicaras-de-120ml",
+		"name": "Mondial C-42-2X-BI 500W (2 xícaras de 120mL)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 240mL (2 xícaras de 120mL)",
+			"Potência: 500W",
+			"Material: plástico e aço inox",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "240mL (2 xícaras de 120mL)"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo simultâneo de dois cafés; bandeja removível antiderrapante; botão liga/desliga luminoso; tampa basculante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; porta-filtro removível; 2 xícaras de porcelana; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 17,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-30-18x-550w-18-xicaras",
+		"name": "Mondial C-30-18X 550W (18 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 720mL",
+			"Potência: 550W",
+			"Material: plástico, aço inox e vidro",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720mL"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tampa basculante; indicador de nível de água; sistema corta-pingos; botão liga/desliga luminoso; base aquecida"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; porta-filtro removível; jarra de vidro; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 16,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,95kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-30-18x-fb-550w-18-xicaras",
+		"name": "Mondial C-30-18X-FB 550W (18 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 720mL",
+			"Potência: 550W",
+			"Material: plástico e vidro",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720mL"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "botão liga/desliga luminoso; sistema corta-pingos; tampa basculante; base aquecida; indicador de nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher dosadora; filtro permanente; porta-filtro removível; jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 16,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,91kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-33-jt-24x-800w-24-xicaras",
+		"name": "Mondial C-33-JT-24X 800W (24 xícaras)",
+		"image": "/images/posts/melhor-cafeteira-eletrica-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: elétrica",
+			"Capacidade: 960mL",
+			"Potência: 800W",
+			"Material: plástico e aço inox",
+			"Modo de preparo: coado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "960mL"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "jarra térmica; botão liga/desliga luminoso; sistema corta-pingos; tampa basculante; base com aquecimento; indicador de nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; porta-filtro removível; jarra térmica de inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,5 x 19 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
