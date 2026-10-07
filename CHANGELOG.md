@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-10-07
+
+### Fixed
+
+- Gravação pelo painel: um erro 5xx do GitHub é tentado de novo duas vezes; se persistir, a API responde 502 (`content_store_failed`) e a tela explica que a falha é do GitHub, em vez de "erro inesperado".
+
 ## [1.0.2] - 2026-10-07
 
 ### Fixed
@@ -279,7 +285,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.27...v1.0.0

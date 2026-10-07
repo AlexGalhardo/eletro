@@ -46,6 +46,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | 404 | `not_found` | Recurso não existe |
 | 409 | `conflict` | Já existe, ou `sha` desatualizado |
 | 429 | `rate_limited` | Mais de 60 escritas por minuto do mesmo endereço no mesmo endpoint, em todo `/api` (`Retry-After` em segundos) |
+| 502 | `content_store_failed` | O GitHub respondeu erro 5xx à gravação, mesmo depois de duas novas tentativas |
 | 503 | `content_store_unavailable` | O deploy não tem `GITHUB_TOKEN` e `GITHUB_REPO` e o disco não aceita escrita |
 | 500 | `internal_error` | Erro inesperado (detalhe só no log do servidor) |
 

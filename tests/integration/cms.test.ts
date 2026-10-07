@@ -24,6 +24,7 @@ import {
 	ConflictError,
 	type ContentStore,
 	encode,
+	StoreFailedError,
 	StoreUnavailableError,
 } from "../../src/lib/server/store/types.ts";
 
@@ -303,6 +304,27 @@ describe("GitHub store", () => {
 
 	beforeEach(() => {
 		calls.length = 0;
+	});
+
+	it("retries a server error and gives up with an error that names GitHub", async () => {
+		let failures = 2;
+		const flaky: typeof fetch = async (url, init) =>
+			failures-- > 0
+				? new Response("", { status: 500 })
+				: respond(201, { content: { sha: "abc" } })(url, init);
+		const store = (fetch: typeof globalThis.fetch) =>
+			createGitHubStore({ token: "t", repo: "owner/repo", branch: "main", fetch, retryDelayMs: 0 });
+		const commit = { message: "content: add post a", author };
+
+		expect(await store(flaky).write("content/posts/a.mdx", encode("a"), commit)).toEqual({ sha: "abc" });
+		expect(calls).toHaveLength(1);
+
+		calls.length = 0;
+		const down = store(respond(500, ""));
+		await expect(down.write("content/posts/a.mdx", encode("a"), commit)).rejects.toBeInstanceOf(
+			StoreFailedError,
+		);
+		expect(calls).toHaveLength(3);
 	});
 
 	it("commits a file with author, branch and base64 content", async () => {
