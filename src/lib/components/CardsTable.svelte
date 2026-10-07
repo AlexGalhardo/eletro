@@ -156,15 +156,18 @@
 					<div class="col-span-3 flex items-center p-4 max-[768px]:col-span-1 max-[768px]:pt-0">
 						<div class="w-full divide-y divide-gray-200 overflow-hidden rounded-lg dark:divide-zinc-800">
 							{#each technical as detail}
-								<div
-									class="grid grid-cols-[130px_1fr] gap-x-3 gap-y-1.5 px-3 py-2.5 max-[480px]:grid-cols-1"
-								>
-									<span class="text-lg font-bold tracking-wide text-black uppercase dark:text-white">
+								<!-- No fixed label width: a long label used to spill over its value. The label takes what it needs, up to half, and the value wraps in the rest. -->
+								<div class="flex items-center justify-between gap-4 px-3 py-2.5">
+									<span
+										class="max-w-1/2 shrink-0 text-lg font-bold max-[480px]:text-base tracking-wide wrap-break-word text-black uppercase dark:text-white"
+									>
 										{detail.label}
 									</span>
-									<div class="text-lg">
-										<span class="text-lg text-gray-800 dark:text-gray-300">{detail.value}</span>
-									</div>
+									<span
+										class="min-w-0 flex-1 text-right text-lg wrap-break-word max-[480px]:text-base text-gray-800 dark:text-gray-300"
+									>
+										{detail.value}
+									</span>
 								</div>
 							{/each}
 						</div>
