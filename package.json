@@ -1,7 +1,7 @@
 {
 	"name": "sveltekit-blog-cms",
 	"description": "Open source blog CMS built with SvelteKit, Markdown content and a web admin dashboard.",
-	"version": "1.0.0-rc.24",
+	"version": "1.0.0-rc.25",
 	"private": true,
 	"license": "MIT",
 	"type": "module",
@@ -40,6 +40,7 @@
 		"@react-email/render": "2.1.0",
 		"better-auth": "1.7.7",
 		"cheerio": "1.2.0",
+		"clipboard": "2.0.11",
 		"drizzle-orm": "0.45.3",
 		"fuse.js": "7.5.0",
 		"gray-matter": "4.0.3",

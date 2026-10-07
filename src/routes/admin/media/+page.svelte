@@ -1,7 +1,9 @@
 <script lang="ts">
+	import { onMount } from "svelte";
 	import { messagesOf, ui, uploadImage } from "#lib/admin/api.ts";
 	import Messages from "#lib/admin/Messages.svelte";
 	import { invalidateAll } from "$app/navigation";
+	import { page } from "$app/state";
 
 	let { data } = $props();
 
@@ -10,6 +12,34 @@
 	let uploading = $state(false);
 	let errors = $state<string[]>([]);
 	let success = $state("");
+
+	let copied = $state("");
+	let dialog: HTMLDialogElement;
+
+	// The full address on the server being used (localhost or production), so the link works when pasted anywhere.
+	const absolute = (url: string) => new URL(url, page.url.origin).href;
+
+	onMount(() => {
+		let clipboard: { destroy(): void } | undefined;
+		let gone = false;
+		// Loaded in the browser only: the library is written for a page, not for the server render.
+		import("clipboard").then(({ default: ClipboardJS }) => {
+			if (gone) return;
+			// One listener for every button, including those of images uploaded after this ran.
+			clipboard = new ClipboardJS("[data-clipboard-text]")
+				.on("success", (event) => {
+					copied = event.text;
+					dialog.showModal();
+				})
+				.on("error", () => {
+					errors = ["O navegador não deixou copiar. Selecione o endereço e copie à mão."];
+				});
+		});
+		return () => {
+			gone = true;
+			clipboard?.destroy();
+		};
+	});
 
 	async function upload(event: Event) {
 		const input = event.currentTarget as HTMLInputElement;
@@ -79,12 +109,24 @@
 				loading="lazy"
 				class="aspect-video w-full rounded bg-gray-100 object-contain dark:bg-zinc-900"
 			/>
-			<p class="mt-2 font-mono text-xs break-all">{url}</p>
-			<button type="button" onclick={() => navigator.clipboard.writeText(url)} class="{ui.button} mt-2 w-full">
-				Copiar endereço
+			<p class="mt-2 font-mono text-xs break-all">{absolute(url)}</p>
+			<button type="button" data-clipboard-text={absolute(url)} class="{ui.button} mt-2 w-full">
+				Copiar link
 			</button>
 		</li>
 	{:else}
 		<li class="col-span-full py-6 text-center text-sm text-gray-500">Nenhuma imagem nesta pasta.</li>
 	{/each}
 </ul>
+
+<dialog
+	bind:this={dialog}
+	aria-labelledby="copied-title"
+	class="m-auto w-[min(28rem,calc(100%-2rem))] rounded-xl border border-gray-200 bg-white p-6 text-black backdrop:bg-black/50 dark:border-zinc-800 dark:bg-zinc-950 dark:text-white"
+>
+	<h2 id="copied-title" class="text-lg font-bold">Link copiado</h2>
+	<p class="mt-2 font-mono text-xs break-all">{copied}</p>
+	<form method="dialog" class="mt-4 text-right">
+		<button type="submit" class={ui.primary}>OK</button>
+	</form>
+</dialog>
