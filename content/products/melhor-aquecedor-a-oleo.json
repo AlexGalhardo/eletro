@@ -1,0 +1,389 @@
+[
+	{
+		"id": "de-longhi-trd40615e-1500w",
+		"name": "De'Longhi TRD40615E 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Termostato: sim (ajustável)",
+			"Voltagem: 127V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "desligamento térmico em caso de superaquecimento; termostato de segurança; trava do painel"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim (ajustável)"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (MIN, MED e MAX); painel digital com display LED; timer de 0,5 a 24h; função Eco; função Anti-Freeze; indicador de funcionamento por cores; três níveis de brilho do display; sistema de diagnóstico; rodízios; alça para transporte; porta-cabo"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,3 x 26,2 x 41,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,1kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-max-aqc260-1500w",
+		"name": "Cadence Max AQC260 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Área de cobertura: até 15m²",
+			"Termostato: não"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema Anti-overturn com desligamento automático em caso de queda ou inclinação superior a 45° e proteção contra superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (600W, 900W e 1500W); 7 aletas de aquecimento; funcionamento silencioso; rodízios; alça para transporte; porta-cabo e plugue"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 23,7 x 35,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-06-1500w",
+		"name": "Mondial A-06 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Área de cobertura: até 16m²",
+			"Termostato: sim, com regulagem manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 16m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático em caso de queda ou instabilidade"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (600W, 900W e 1500W); 7 elementos de calefação; funcionamento silencioso; rodas deslizantes; alças para transporte; lâmpada piloto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,5 x 24,5 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "britania-baq1720b-1500w",
+		"name": "Britânia BAQ1720B 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Área de cobertura: 12 a 15m²",
+			"Termostato: sim, com regulagem manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "12 a 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "proteção contra superaquecimento e desligamento automático em caso de tombamento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (600W, 900W e 1500W); 7 aletas de aquecimento; rodas; pegador para transporte; suporte para cordão elétrico; luz de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 25,5 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,80kg"
+			}
+		]
+	},
+	{
+		"id": "eos-comfort-heat-eaq01o-1500w",
+		"name": "EOS Comfort Heat EAQ01O 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Área de cobertura: até 15m²",
+			"Termostato: sim, com regulador manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "triplo sistema de proteção; proteção antiqueda com desligamento automático em caso de tombamento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulador manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência; funcionamento silencioso; rodízios; alça para transporte; porta-fio; indicador LED de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63,9 x 23,9 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			}
+		]
+	},
+	{
+		"id": "nagano-102064420-1500w",
+		"name": "Nagano 102064420 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Termostato: sim, com regulador manual",
+			"Voltagem: 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "interruptor de segurança 360° contra tombamento acidental e proteção contra superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulador manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de aquecimento; 7 aletas de aquecimento; rodas; alça para transporte; suporte para cabo; luz indicadora"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 36 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "delonghi-ew7707cb-1500w",
+		"name": "DeLonghi EW7707CB 1500W",
+		"image": "/images/posts/melhor-aquecedor-a-oleo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo: portátil a óleo",
+			"Potência: 1500W",
+			"Ajuste de temperatura: sim (progressivo)",
+			"Área de cobertura: até 20m²",
+			"Dispositivo de segurança: termostato de segurança e proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 20m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "termostato de segurança e proteção contra superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulador manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (700W, 800W e 1500W); sistema ComforTemp; função anticongelante; rodinhas; alças para transporte; compartimento para fios"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 35 x 15cm"
+			}
+		]
+	}
+]
