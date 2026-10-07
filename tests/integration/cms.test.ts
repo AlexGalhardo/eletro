@@ -10,6 +10,7 @@ import {
 	getProductList,
 	listImages,
 	listPosts,
+	listProductListPreviews,
 	listUsage,
 	savePost,
 	saveProductList,
@@ -146,6 +147,39 @@ describe("product lists", () => {
 			/repetido: p1/,
 		);
 		await expect(saveProductList(store, "y-lista", [], author)).rejects.toThrow(ValidationError);
+	});
+});
+
+describe("listProductListPreviews", () => {
+	it("gives the name and image of every product, reading only the lists that are not bundled", async () => {
+		const other = { ...product, id: "p2", name: "Produto Dois", image: "https://example.com/p2.jpg" };
+		await saveProductList(store, "cafeteiras", [product, other], author);
+		await saveProductList(store, "moedores", [product], author);
+		const bundled = await readFile(path.join(root, "content/products/moedores.json"), "utf8");
+
+		const reads: string[] = [];
+		const spy: ContentStore = {
+			...store,
+			read: (file) => {
+				reads.push(file);
+				return store.read(file);
+			},
+		};
+
+		expect(await listProductListPreviews(spy, new Map([["moedores", bundled]]))).toEqual([
+			expect.objectContaining({
+				name: "cafeteiras",
+				products: [
+					{ name: "Produto Um", image: "https://example.com/p1.jpg" },
+					{ name: "Produto Dois", image: "https://example.com/p2.jpg" },
+				],
+			}),
+			expect.objectContaining({
+				name: "moedores",
+				products: [{ name: "Produto Um", image: "https://example.com/p1.jpg" }],
+			}),
+		]);
+		expect(reads).toEqual(["content/products/cafeteiras.json"]);
 	});
 });
 

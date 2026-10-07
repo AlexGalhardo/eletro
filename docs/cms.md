@@ -45,7 +45,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 | `/admin` | Totais de posts por status, listas, assinantes confirmados, itens aguardando deploy e últimos commits de conteúdo |
 | `/admin/posts` | Lista com busca, filtro por status e categoria |
 | `/admin/posts/new`, `/admin/posts/<slug>` | Editor: campos do frontmatter, Markdown com pré-visualização, FAQ, capa, inserção de lista de produtos, exclusão |
-| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem, exclusão da lista inteira. A lista de `/admin/products` mostra os posts que usam cada lista e filtra por "Em uso" e "Sem uso"; a de `/admin/posts` mostra as listas de cada post |
+| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem, exclusão da lista inteira. A lista de `/admin/products` mostra os posts que usam cada lista e filtra por "Em uso" e "Sem uso"; a de `/admin/posts` mostra a capa e as listas de cada post (cada lista abre em outra aba), e a de `/admin/products` mostra as fotos dos produtos |
 | `/admin/media` | Imagens de `covers` e `posts`, com upload |
 | `/admin/import` | Importa uma review de um site permitido e cria um rascunho (ver "Importação por web scraping") |
 | `/admin/google` | Dados do Search Console e do Analytics dos últimos 28 dias e reenvio do sitemap (ver [google-console-analytics-setup.md](google-console-analytics-setup.md)) |

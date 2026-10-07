@@ -6,6 +6,13 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-10-07
+
+### Added
+
+- `/admin/posts`: miniatura da capa de cada post e, na coluna "Produtos", um botão por lista que abre o editor da lista em outra aba.
+- `/admin/products`: cada lista mostra as fotos dos seus produtos.
+
 ## [1.0.6] - 2026-10-07
 
 ### Fixed
@@ -301,7 +308,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...v1.1.0
 [1.0.6]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.3...v1.0.4
