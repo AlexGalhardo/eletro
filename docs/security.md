@@ -10,7 +10,7 @@ Relatório da revisão de 2026-10-06 (item R2 do [`PLAN.md`](../PLAN.md)) e mode
 |---|---|---|
 | Visitante → site público | Qualquer pessoa | Páginas estáticas; só o formulário de contato e a newsletter recebem dados |
 | Visitante → `/api/v1` | Qualquer pessoa | Validação zod, limite de escritas por IP, formato único de erro, CSRF do SvelteKit |
-| Admin → `/admin` e escritas da API | Quem está em `ADMIN_GITHUB_USERS` | Sessão do better-auth em cookie `HttpOnly`, `SameSite=Lax`; lista conferida a cada requisição |
+| Admin → `/admin` e escritas da API | Quem está em `ADMIN_GITHUB_USERS` ou, com e-mail verificado, em `ADMIN_EMAILS` | Sessão do better-auth em cookie `HttpOnly`, `SameSite=Lax`; lista conferida a cada requisição |
 | Conteúdo → build | O admin, pelo painel, ou um commit direto | O corpo do post vira código Svelte no build: `validateBody` e os schemas são o portão |
 | Servidor → GitHub, Resend, Neon | Configuração | Segredos só em variáveis de ambiente; caminhos do store validados |
 

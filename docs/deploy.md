@@ -76,6 +76,8 @@ Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas e
 | `BETTER_AUTH_URL` | URL pública do site, por exemplo `https://example.com` |
 | `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` | Do OAuth App |
 | `ADMIN_GITHUB_USERS` | Usuários do GitHub que podem entrar, separados por vírgula |
+| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | Opcional: cliente OAuth do Google, com a URI de redirecionamento `<URL do site>/api/auth/callback/google` |
+| `ADMIN_EMAILS` | E-mails que podem entrar (necessário para o Google), separados por vírgula |
 | `GITHUB_TOKEN` | Token fine-grained |
 | `GITHUB_REPO` | `dono/repositorio` |
 | `GITHUB_BRANCH` | Opcional; padrão `main` |

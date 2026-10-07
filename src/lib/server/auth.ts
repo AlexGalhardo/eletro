@@ -2,6 +2,7 @@ import { betterAuth } from "better-auth";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
 import { type TestHelpers, testUtils } from "better-auth/plugins";
 import {
+	ADMIN_EMAILS,
 	ADMIN_GITHUB_USERS,
 	AUTH_TEST_LOGIN_TOKEN,
 	BETTER_AUTH_SECRET,
@@ -9,6 +10,8 @@ import {
 	DATABASE_URL,
 	GITHUB_CLIENT_ID,
 	GITHUB_CLIENT_SECRET,
+	GOOGLE_CLIENT_ID,
+	GOOGLE_CLIENT_SECRET,
 } from "$app/env/private";
 import { getDb } from "./db/index.ts";
 import { account, session, user, verification } from "./db/schema.ts";
@@ -18,7 +21,8 @@ export type AdminUser = {
 	name: string;
 	email: string;
 	image?: string | null;
-	githubLogin: string;
+	/** `null` for someone who signed in with Google and is allowed by e-mail. */
+	githubLogin: string | null;
 };
 
 /** Vercel and Netlify both expose which deployment context is running. */
@@ -33,18 +37,31 @@ export const testLoginToken = () =>
 	isProductionDeploy() || DATABASE_URL ? undefined : AUTH_TEST_LOGIN_TOKEN;
 
 export const githubConfigured = () => Boolean(GITHUB_CLIENT_ID && GITHUB_CLIENT_SECRET);
+export const googleConfigured = () => Boolean(GOOGLE_CLIENT_ID && GOOGLE_CLIENT_SECRET);
 
 /** What is still missing before /admin can be used, phrased for the login page. */
 export function missingAuthConfig(): string[] {
 	const missing: string[] = [];
 	if (!BETTER_AUTH_SECRET) missing.push("BETTER_AUTH_SECRET");
-	if (!githubConfigured() && !testLoginToken()) missing.push("GITHUB_CLIENT_ID", "GITHUB_CLIENT_SECRET");
-	if (ADMIN_GITHUB_USERS.length === 0) missing.push("ADMIN_GITHUB_USERS");
+	if (!githubConfigured() && !googleConfigured() && !testLoginToken())
+		missing.push("GITHUB_CLIENT_ID", "GITHUB_CLIENT_SECRET");
+	if (ADMIN_GITHUB_USERS.length === 0 && ADMIN_EMAILS.length === 0) missing.push("ADMIN_GITHUB_USERS");
 	return missing;
 }
 
-export const isAllowedAdmin = (githubLogin: string | null | undefined) =>
-	Boolean(githubLogin) && ADMIN_GITHUB_USERS.includes((githubLogin as string).toLowerCase());
+type Identity = { githubLogin?: string | null; email?: string | null; emailVerified?: boolean | null };
+
+/**
+ * On the allow list by GitHub username, or by an e-mail the provider verified. An unverified address
+ * proves nothing: anyone can type the owner's e-mail into an account they control.
+ */
+export function isAllowedAdmin(identity: string | Identity | null | undefined): boolean {
+	const { githubLogin, email, emailVerified }: Identity =
+		typeof identity === "string" ? { githubLogin: identity } : (identity ?? {});
+
+	if (githubLogin && ADMIN_GITHUB_USERS.includes(githubLogin.toLowerCase())) return true;
+	return Boolean(email && emailVerified) && ADMIN_EMAILS.includes((email as string).toLowerCase());
+}
 
 async function createAuth() {
 	return betterAuth({
@@ -61,30 +78,35 @@ async function createAuth() {
 				githubLogin: { type: "string", required: false },
 			},
 		},
-		socialProviders: githubConfigured()
-			? {
-					github: {
-						clientId: GITHUB_CLIENT_ID as string,
-						clientSecret: GITHUB_CLIENT_SECRET as string,
-						// Identity only. Content commits use GITHUB_TOKEN, scoped to a single repository.
-						mapProfileToUser: (profile) => ({ githubLogin: profile.login.toLowerCase() }),
-					},
-				}
-			: {},
+		socialProviders: {
+			...(githubConfigured() && {
+				github: {
+					clientId: GITHUB_CLIENT_ID as string,
+					clientSecret: GITHUB_CLIENT_SECRET as string,
+					// Identity only. Content commits use GITHUB_TOKEN, scoped to a single repository.
+					mapProfileToUser: (profile) => ({ githubLogin: profile.login.toLowerCase() }),
+				},
+			}),
+			...(googleConfigured() && {
+				google: {
+					clientId: GOOGLE_CLIENT_ID as string,
+					clientSecret: GOOGLE_CLIENT_SECRET as string,
+				},
+			}),
+		},
 		databaseHooks: {
 			user: {
 				create: {
 					// Accounts are only ever created for people on the allow list.
 					before: async (candidate) => {
-						if (!isAllowedAdmin((candidate as { githubLogin?: string }).githubLogin))
-							return false;
+						if (!isAllowedAdmin(candidate as Identity)) return false;
 					},
 				},
 				update: {
-					// The login is the key of the allow list: someone removed from it must not be able to
-					// rename themselves into an admin through the update-user endpoint.
+					// Login and e-mail are the keys of the allow list: someone removed from it must not be
+					// able to rename themselves into an admin through the update-user endpoint.
 					before: async (changes) => {
-						if ("githubLogin" in changes) return false;
+						if ("githubLogin" in changes || "email" in changes) return false;
 					},
 				},
 			},
@@ -135,9 +157,9 @@ export async function getAdmin(headers: Headers): Promise<AdminUser | null> {
 	if (!instance) return null;
 
 	const current = await instance.api.getSession({ headers });
-	const githubLogin = (current?.user as { githubLogin?: string } | undefined)?.githubLogin;
-	if (!current || !githubLogin || !isAllowedAdmin(githubLogin)) return null;
+	if (!current || !isAllowedAdmin(current.user as Identity)) return null;
 
 	const { id, name, email, image } = current.user;
+	const githubLogin = (current.user as Identity).githubLogin ?? null;
 	return { id, name, email, image, githubLogin };
 }

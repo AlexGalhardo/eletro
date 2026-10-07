@@ -65,7 +65,7 @@ Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opc
 | Grupo | Variáveis | Sem elas |
 |---|---|---|
 | Banco | `DATABASE_URL`, `PGLITE_DIR` | Usa um Postgres embutido (PGlite) em `.data/pglite` |
-| Painel | `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `ADMIN_GITHUB_USERS` | `/admin/login` lista o que falta |
+| Painel | `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `ADMIN_GITHUB_USERS`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS` | `/admin/login` lista o que falta |
 | Entrada local | `AUTH_TEST_LOGIN_TOKEN` | Sem entrada local; só vale com o PGlite |
 | Conteúdo | `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH`, `CONTENT_ROOT` | O painel grava nos arquivos do projeto |
 | E-mail | `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `CONTACT_TO_EMAIL` | O e-mail é só registrado no log |

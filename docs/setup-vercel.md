@@ -151,6 +151,9 @@ openssl rand -base64 32
 | `GITHUB_CLIENT_ID` | Client ID do OAuth App (passo 4) | não |
 | `GITHUB_CLIENT_SECRET` | Client secret do OAuth App (passo 4) | sim |
 | `ADMIN_GITHUB_USERS` | `AlexGalhardo` (vários: separados por vírgula) | não |
+| `GOOGLE_CLIENT_ID` | Opcional: ID do cliente OAuth do Google (ver abaixo) | não |
+| `GOOGLE_CLIENT_SECRET` | Opcional: chave secreta do cliente OAuth do Google | sim |
+| `ADMIN_EMAILS` | E-mails que podem entrar pelo Google, separados por vírgula | não |
 | `GITHUB_TOKEN` | Token fine-grained (passo 5) | sim |
 | `GITHUB_REPO` | `AlexGalhardo/eletroradar-cms` | não |
 | `GITHUB_BRANCH` | Opcional; padrão `main` | não |
@@ -158,6 +161,8 @@ openssl rand -base64 32
 | `RESEND_FROM_EMAIL` | `EletroRadar <no-reply@example.com>` | não |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` | não |
 | `CRON_SECRET` | Segundo valor gerado com `openssl` (mínimo de 32 caracteres) | sim |
+
+Login pelo Google (opcional): em <https://console.cloud.google.com/apis/credentials>, crie um **ID do cliente OAuth** do tipo "Aplicativo da Web" com a URI de redirecionamento autorizada `https://example.com/api/auth/callback/google`. Sem `ADMIN_EMAILS` ninguém entra pelo Google: a conta só é aceita quando o e-mail verificado está nessa lista.
 
 **Não cadastre** `AUTH_TEST_LOGIN_TOKEN`, `PGLITE_DIR` nem `CONTENT_ROOT`: são só para desenvolvimento.
 
@@ -202,6 +207,7 @@ curl -I https://example.com
 - [ ] `https://example.com/images/covers/w480/<arquivo>.webp` responde 200 (o `sharp` rodou no build).
 - [ ] `/admin` leva ao login sem listar variáveis faltando.
 - [ ] O login pelo GitHub entra com um usuário de `ADMIN_GITHUB_USERS` e recusa outro.
+- [ ] O login pelo Google entra com um e-mail de `ADMIN_EMAILS` e recusa outro.
 - [ ] Salvar um post no painel cria um commit `content:` no repositório, a Vercel inicia um deploy e o indicador do editor passa de "Publicando" para "No ar".
 - [ ] Enviar uma imagem pela biblioteca de mídia funciona.
 - [ ] A inscrição na newsletter envia o e-mail de confirmação e o link confirma.
