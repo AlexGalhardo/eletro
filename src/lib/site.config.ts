@@ -81,6 +81,28 @@ export const site = {
 		coverText: "EletroRadar.com.br",
 	},
 
+	/**
+	 * Crawlers that collect pages in bulk or to train models: refused for the whole site in robots.txt.
+	 * Search engines and assistants that open a page to answer someone, linking to it, stay allowed.
+	 */
+	blockedCrawlers: [
+		"GPTBot",
+		"ClaudeBot",
+		"anthropic-ai",
+		"CCBot",
+		"Google-Extended",
+		"Applebot-Extended",
+		"Bytespider",
+		"meta-externalagent",
+		"Diffbot",
+		"Omgilibot",
+		"cohere-ai",
+		"AI2Bot",
+	],
+	/** Shown in llms.txt and in the terms of use. */
+	contentPolicy:
+		"Assistentes de IA e buscadores podem ler as páginas para responder perguntas e recomendar o conteúdo, citando o site com link para a página. Não é permitido coletar o conteúdo de forma automatizada em massa (web scraping), republicá-lo ou usá-lo para treinar modelos.",
+
 	analytics: {
 		googleAnalyticsId: "G-YM6VCZJPJV",
 		clarityId: "xksnzl3r9x",

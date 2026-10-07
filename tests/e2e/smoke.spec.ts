@@ -83,6 +83,16 @@ test.describe("smoke", () => {
 		expect(robots).toMatch(/Sitemap: https:\/\/.+\/sitemap\.xml/);
 	});
 
+	test("robots.txt refuses training crawlers and lets search and assistants read", async ({ request }) => {
+		const robots = await (await request.get("/robots.txt")).text();
+
+		expect(robots).toContain(
+			"User-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=no\nAllow: /",
+		);
+		expect(robots).toMatch(/User-agent: GPTBot\n(User-agent: .+\n)*Disallow: \/\n/);
+		expect(robots).not.toMatch(/User-agent: (Googlebot|OAI-SearchBot|ChatGPT-User|PerplexityBot)/);
+	});
+
 	test("llms.txt indexes the posts and no private path", async ({ request }) => {
 		const llms = await (await request.get("/llms.txt")).text();
 

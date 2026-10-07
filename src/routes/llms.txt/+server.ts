@@ -21,6 +21,8 @@ export function GET() {
 
 > ${site.longDescription}
 
+${site.contentPolicy}
+
 ${sections.join("\n")}
 ## Institucional
 

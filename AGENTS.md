@@ -70,7 +70,7 @@ bun run test:e2e     # Playwright: smoke e e2e
 - **Commits:** Conventional Commits, validados pelo commitlint. Commits de conteúdo usam o tipo `content`.
 - **Todo commit é uma release:** antes de commitar, `bun scripts/release.ts --message "<mensagem>"` corta a versão no `package.json` e no `CHANGELOG.md`; depois do commit, tag `vX.Y.Z`, push e `gh release create`. Sem exceção para `docs` ou `chore`; só os commits `content:` do painel em produção ficam de fora. Ver a skill `project-release` e `.claude/rules/git-and-releases.md`.
 - **Segredos:** nada de chave real no repositório. `.env.example` só tem placeholders.
-- **Indexação:** `/admin` e `/api` nunca aparecem em `robots.txt`, `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`.
+- **Indexação:** `/admin` e `/api` são bloqueados no `robots.txt` (`Disallow`), nunca aparecem em `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`. Os robôs de coleta em massa e de treino de IA de `site.blockedCrawlers` são recusados no site inteiro; buscadores e assistentes continuam liberados.
 - **CI:** os workflows ficam em `.github/workflows-disabled/`. Não mova para `.github/workflows/` sem o dono pedir.
 - **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
 - **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.

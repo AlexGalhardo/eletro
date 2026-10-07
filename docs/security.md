@@ -84,3 +84,14 @@ Nenhuma tem correção disponível subindo uma dependência direta do projeto. R
 - Tag ou atributo novo liberado no corpo do post passa por `src/lib/content/validate-body.ts` e ganha teste em `validate-body.test.ts`.
 - Cabeçalho novo entra nos três lugares: `src/hooks.server.ts`, `vercel.json` e `static/_headers`.
 - Endpoint novo que busca uma URL informada por alguém precisa de lista de hosts permitidos, só `https`, sem seguir redirecionamento para fora da lista, com limite de tempo e de tamanho.
+
+## Robôs, scraping e IA
+
+O `robots.txt` (`src/routes/robots.txt/+server.ts`) declara a regra de uso do conteúdo:
+
+- `Disallow: /admin` e `Disallow: /api` para todos os robôs.
+- `Content-Signal: search=yes, ai-input=yes, ai-train=no` (<https://contentsignals.org>): busca e uso do conteúdo para responder a alguém são permitidos; treino de modelos, não.
+- Os robôs de `site.blockedCrawlers` (coleta em massa e treino de IA, como `GPTBot`, `ClaudeBot`, `CCBot` e `Google-Extended`) recebem `Disallow: /`. Buscadores (`Googlebot`, `Bingbot`) e assistentes que abrem a página a pedido de um usuário (`OAI-SearchBot`, `ChatGPT-User`, `Claude-User`, `PerplexityBot`) não estão na lista e continuam liberados.
+- O texto de `site.contentPolicy` repete a regra para pessoas e modelos, no `llms.txt` e nos Termos de Uso.
+
+Limite: o `robots.txt` é um pedido, não uma trava. Robôs bem comportados obedecem; um scraper que o ignora só é barrado na borda (firewall e proteção contra bots da hospedagem), o que não está configurado neste repositório.
