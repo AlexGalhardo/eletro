@@ -4,6 +4,8 @@ Como colocar o site e o painel no ar na Vercel ou na Netlify.
 
 > **Estado:** este passo a passo foi escrito a partir do código e da documentação das plataformas. **Nenhum deploy desta versão foi feito ainda**, então nada aqui foi exercitado de ponta a ponta. A seção "Conferir depois do primeiro deploy" lista o que precisa ser validado.
 
+Vai publicar na Vercel? O passo a passo detalhado, tela por tela, está em [`setup-vercel.md`](setup-vercel.md).
+
 O site público não precisa de nenhuma configuração: conecte o repositório e publique. Tudo abaixo é para o painel `/admin`, a newsletter e o envio de e-mails.
 
 ## Visão geral
@@ -96,7 +98,7 @@ Os avisos de post ficam na fila até alguém rodar o envio. Sem agendador, isso 
 "crons": [{ "path": "/api/v1/newsletter/dispatches/run", "schedule": "*/15 * * * *" }]
 ```
 
-A Vercel envia o `CRON_SECRET` do projeto como `Bearer` nas chamadas de cron. No plano gratuito o cron roda no máximo uma vez por dia.
+A Vercel envia o `CRON_SECRET` do projeto como `Bearer` nas chamadas de cron. No plano gratuito o cron roda no máximo uma vez por dia: use um horário diário, como `0 12 * * *`, ou o deploy falha.
 
 **Netlify ou outro:** use um serviço de agendamento que chame a URL com o cabeçalho.
 

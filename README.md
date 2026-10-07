@@ -42,6 +42,8 @@ bun run dev
 
 Abra <http://localhost:5173>. O site público roda sem nenhuma variável de ambiente.
 
+Atalho: `bash setups/setup-unix.sh` (macOS, Linux, WSL) ou `bash setups/setup-windows.sh` (Git Bash) instala o que falta, cria o `.env` com os padrões do painel, libera a porta e sobe o servidor. Detalhes em [`docs/development.md`](docs/development.md).
+
 ### Abrindo o painel na sua máquina
 
 O painel precisa de três variáveis. Sem banco configurado ele usa um Postgres embutido (PGlite) em `.data/`, e sem token do GitHub grava o conteúdo direto nos arquivos do projeto.
@@ -91,7 +93,7 @@ Os testes de integração e e2e conferem o conteúdo de demonstração (por exem
 
 ## Publicando
 
-Vercel e Netlify, com banco no Neon, login pelo GitHub e e-mails pelo Resend: [`docs/deploy.md`](docs/deploy.md).
+Vercel e Netlify, com banco no Neon, login pelo GitHub e e-mails pelo Resend: [`docs/deploy.md`](docs/deploy.md). Passo a passo completo da Vercel: [`docs/setup-vercel.md`](docs/setup-vercel.md).
 
 ## Documentação
 

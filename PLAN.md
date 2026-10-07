@@ -329,7 +329,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 
 - [ ] Revogar no Resend a chave que estava no `.env.example` antigo, caso seja real
 - [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
-- [ ] Fazer o primeiro deploy seguindo `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
+- [ ] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
 - [ ] Decidir se a importação ganha uma etapa de reescrita com LLM (chave de API e custo por post)
