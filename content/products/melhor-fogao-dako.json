@@ -1,0 +1,373 @@
+[
+	{
+		"id": "dako-diplomata-glass-grill-style-5-bocas",
+		"name": "Dako Diplomata Glass Grill Style (5 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 100 litros",
+			"Número de queimadores: 5",
+			"Material da superfície: vidro temperado",
+			"Material das trempes: ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Semirrápidos de 1,7kW; 1Q Mega Chama de 3,0kW e 1Q Tripla Chama de 3,3kW (Esquerda)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,7 x 76 x 65,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-magister-style-5-bocas",
+		"name": "Dako Magister Style (5 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 100 litros",
+			"Número de queimadores: 5",
+			"Material da superfície: vidro temperado",
+			"Material das trempes: ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Médios de 1,7kW; 2Q Família de 2,0kW e 1Q Tripla Chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 76 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "39,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-titanium-inox-4-bocas",
+		"name": "Dako Supreme Titanium Inox (4 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 60 litros",
+			"Número de queimadores: 4",
+			"Material da superfície: inox",
+			"Material das trempes: aço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Família de 2,0kW; 1Q Mega Chama de 2,5kW e 2Q Semirrápidos de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 52,8 x 64,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-glass-5-bocas",
+		"name": "Dako Supreme Glass (5 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 100 litros",
+			"Número de queimadores: 5",
+			"Material da superfície: vidro temperado",
+			"Material das trempes: ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,3kW; 2Q Família de 2,0kW e 2Q Semirrápidos de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 76,6 x 65,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-embutir-4-bocas",
+		"name": "Dako Supreme Embutir (4 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: embutir",
+			"Capacidade do forno: 60 litros",
+			"Número de queimadores: 4",
+			"Material da superfície: vidro temperado",
+			"Material das trempes: ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 1,7kW; 1Q Rápido de 2,0kW e 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,3 x 55,5 x 68,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-glass-4-bocas",
+		"name": "Dako Supreme Glass (4 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 60 litros",
+			"Número de queimadores: 4",
+			"Material da superfície: vidro temperado",
+			"Material das trempes: ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Família de 2,0kW; 1Q Mega Chama de 3,0kW e 2Q Semirrápidos de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,1 x 52,2 x 64,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-diplomata-grill-4-bocas",
+		"name": "Dako Diplomata Grill (4 bocas)",
+		"image": "/images/posts/melhor-fogao-dako-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo de fogão: tradicional",
+			"Capacidade do forno: 60 litros",
+			"Número de queimadores: 4",
+			"Potência dos queimadores: 3Q Semi-Rápidos de 1,7kW e 1Q Mega Chama de 3,0kW",
+			"Material da superfície: vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Semi-Rápidos de 1,7kW e 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "93,7 x 51,5 x 64,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "32kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]
