@@ -6,26 +6,77 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.11] - 2026-10-06
+
+### Changed
+
+- Todo commit passa a ser uma release: versão no `package.json`, seção no `CHANGELOG.md`, tag `vX.Y.Z` e GitHub Release. Commits `content:` feitos pelo painel ficam de fora. O processo está em `docs/ci-cd.md`.
+- `scripts/release.ts` calcula a versão pela mensagem do commit (`--message`), conta `rc.N` enquanto a versão é um release candidate e devolve as notas de uma versão (`--section`).
+- Releases retroativas criadas para os 30 commits anteriores, de `v0.1.0` a `v1.0.0-rc.10`.
+
+## [1.0.0-rc.10] - 2026-10-06
+
+### Fixed
+
+- Login pelo GitHub recusava todo mundo com `unable_to_create_user`: o `better-auth` descartava o login do perfil antes da conferência da lista de administradores.
+
+## [1.0.0-rc.9] - 2026-10-06
+
+### Changed
+
+- Cards de produto: o valor de cada especificação fica alinhado à direita e o rótulo não tem mais largura fixa, então rótulos longos não invadem o valor.
+
+## [1.0.0-rc.8] - 2026-10-06
+
+### Changed
+
+- `.gitignore` ignora os arquivos de skills que a integração do Neon na Vercel CLI grava no projeto.
+
+## [1.0.0-rc.7] - 2026-10-06
+
 ### Added
 
 - Cron da Vercel em `vercel.json`: a fila da newsletter roda a cada 15 minutos (exige plano Pro e `CRON_SECRET`).
-- Scripts `setups/setup-unix.sh` e `setups/setup-windows.sh`: conferem Node e Bun, instalam as dependências, criam o `.env` com os padrões do painel, liberam a porta e sobem o servidor de desenvolvimento.
-- `docs/setup-vercel.md`: passo a passo do deploy na Vercel, com conferência e problemas comuns.
+
+## [1.0.0-rc.6] - 2026-10-06
+
+### Changed
+
+- Página inexistente redireciona para a home (302) em vez de mostrar a tela de 404. Arquivos (endereços com extensão) e a API continuam respondendo 404.
+
+## [1.0.0-rc.5] - 2026-10-06
+
+### Added
 
 - `.vercelignore`: `vercel deploy` a partir da pasta de trabalho não envia mais `.env`, `.data` nem pastas geradas.
 
 ### Changed
 
-- Cards de produto: o valor de cada especificação fica alinhado à direita e o rótulo não tem mais largura fixa, então rótulos longos não invadem o valor.
-- Página inexistente redireciona para a home (302) em vez de mostrar a tela de 404. Arquivos (endereços com extensão) e a API continuam respondendo 404.
 - Adaptador trocado de `@sveltejs/adapter-auto` para `@sveltejs/adapter-vercel` 7.0.0, usado só no build da Vercel. Publicar na Netlify passa a exigir a troca do adaptador.
 - `engines.node` fixado em `24.x` (era `>=22.17`); os scripts de setup exigem Node 24.
 
 ### Fixed
 
-- Login pelo GitHub recusava todo mundo com `unable_to_create_user`: o `better-auth` descartava o login do perfil antes da conferência da lista de administradores.
 - Segundo build na Vercel falhava com `ERR_PACKAGE_PATH_NOT_EXPORTED` em `estree-walker`: o `adapter-auto` instalava o adaptador durante o build, por cima do cache.
+
+## [1.0.0-rc.4] - 2026-10-06
+
+### Added
+
+- Scripts `setups/setup-unix.sh` e `setups/setup-windows.sh`: conferem Node e Bun, instalam as dependências, criam o `.env` com os padrões do painel, liberam a porta e sobem o servidor de desenvolvimento.
+- `docs/setup-vercel.md`: passo a passo do deploy na Vercel, com conferência e problemas comuns.
+
+## [1.0.0-rc.3] - 2026-10-06
+
+### Fixed
+
 - `vercel.json` tinha um bloco de cabeçalhos aninhado fora do schema, que faria a Vercel recusar o deploy.
+
+## [1.0.0-rc.2] - 2026-10-06
+
+### Changed
+
+- Documentação: achados do Lighthouse corrigidos e execução dos testes e2e em contêiner registrada.
 
 ## [1.0.0-rc.1] - 2026-10-06
 
@@ -109,6 +160,16 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/compare/v1.0.0-rc.1...HEAD
-[1.0.0-rc.1]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/compare/v0.1.0...v1.0.0-rc.1
-[0.1.0]: https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code/releases/tag/v0.1.0
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.11...HEAD
+[1.0.0-rc.11]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.10...v1.0.0-rc.11
+[1.0.0-rc.10]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.9...v1.0.0-rc.10
+[1.0.0-rc.9]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.8...v1.0.0-rc.9
+[1.0.0-rc.8]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.7...v1.0.0-rc.8
+[1.0.0-rc.7]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.6...v1.0.0-rc.7
+[1.0.0-rc.6]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.5...v1.0.0-rc.6
+[1.0.0-rc.5]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.4...v1.0.0-rc.5
+[1.0.0-rc.4]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.3...v1.0.0-rc.4
+[1.0.0-rc.3]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.2...v1.0.0-rc.3
+[1.0.0-rc.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.1...v1.0.0-rc.2
+[1.0.0-rc.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v0.1.0...v1.0.0-rc.1
+[0.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/releases/tag/v0.1.0

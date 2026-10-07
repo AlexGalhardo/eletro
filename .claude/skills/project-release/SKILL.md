@@ -1,67 +1,59 @@
 ---
 name: project-release
-description: Lança uma versão do projeto - calcula o número pelos Conventional Commits, corta o CHANGELOG, cria o commit, a tag e o GitHub Release. Use quando pedirem uma release, uma nova versão, uma tag, ou um release candidate.
+description: Publica a release de um commit - calcula a versão pela mensagem, corta o CHANGELOG, cria a tag e o GitHub Release. Use em TODO commit deste repositório (cada commit é uma release), e quando pedirem uma versão, uma tag ou a saída do release candidate.
 ---
 
 # Release
 
-A versão sai dos commits desde a última tag `v*`, e as notas saem de `## [Unreleased]` no `CHANGELOG.md`. O trabalho de arquivo é do `scripts/release.ts`; commit, tag e publicação são passos à parte. Detalhes em `docs/ci-cd.md`.
+**Todo commit é uma release.** Cada commit leva a própria versão no `package.json`, a própria seção no `CHANGELOG.md`, uma tag `vX.Y.Z` e um GitHub Release. Não existe commit `chore(release)` separado: os arquivos de versão entram no mesmo commit da mudança. Detalhes em `docs/ci-cd.md`.
 
-Tag e GitHub Release são públicos e difíceis de desfazer: **só execute os passos 4 e 5 com o pedido explícito do dono.**
+Única exceção: commits `content:` feitos pelo painel `/admin` em produção. Eles nascem pela API do GitHub, sem sessão de trabalho, e mantêm a versão do commit anterior.
 
-## 1. Pré-condições
+## 1. Antes do commit
+
+Escreva a mudança em `## [Unreleased]` no `CHANGELOG.md`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`). Mudança sem efeito visível (`docs`, `chore`, `test`) pode ficar sem texto: o script usa o assunto do commit como nota.
 
 ```bash
-git status                 # árvore limpa, na main, em dia com origin/main
-bun run verify             # check, lint, test, build e e2e
-bun scripts/release.ts --dry-run
+bun run check && bun run lint && bun run test
+bun scripts/release.ts --message "feat: descrição do commit" --dry-run   # confere versão e notas
+bun scripts/release.ts --message "feat: descrição do commit" --notes "$TMPDIR/notas.md"
 ```
 
-O `--dry-run` mostra a próxima versão e as notas e não altera nada. Leia as notas: é o texto que vai para o GitHub Release.
-
-- "No release": não há `feat`, `fix`, `perf` nem mudança incompatível desde a última tag. Commits `content`, `docs`, `chore`, `test`, `ci`, `build`, `style` e `refactor` não geram versão.
-- "Nothing under [Unreleased]": escreva as mudanças no `CHANGELOG.md` antes.
+O script atualiza `package.json` e move `Unreleased` para `## [X.Y.Z] - AAAA-MM-DD`, com os links do rodapé.
 
 ## 2. Regra de versão
 
-| Commits | Antes da 1.0.0 | A partir da 1.0.0 |
+| Mensagem do commit | Antes da 1.0.0 | A partir da 1.0.0 |
 |---|---|---|
-| Algum `feat` | minor | minor |
-| Só `fix` ou `perf` | patch | patch |
+| `feat` | minor | minor |
+| `fix`, `perf` | patch | patch |
 | `!` ou `BREAKING CHANGE:` | minor | major |
+| `docs`, `chore`, `test`, `ci`, `build`, `style`, `refactor`, `content` | patch | patch |
+| Qualquer tipo, enquanto a versão é `X.Y.Z-rc.N` | `rc.N+1` | `rc.N+1` |
 
-Versão que a regra não calcula (release candidate, primeira estável) é forçada: `--version 1.0.0-rc.1`.
+Sair do release candidate é decisão do dono: `--version 1.0.0`.
 
-## 3. Cortar a versão
-
-```bash
-bun scripts/release.ts --notes "$TMPDIR/notas.md"
-git diff                   # CHANGELOG.md e package.json, nada mais
-```
-
-Confira no `CHANGELOG.md`: a seção `## [X.Y.Z] - AAAA-MM-DD` criada, `## [Unreleased]` vazia, e os links do rodapé (`[Unreleased]` comparando a partir da tag nova, e a linha da versão nova).
-
-## 4. Commit e tag
+## 3. Commit, tag e publicação
 
 ```bash
-git commit --all --message "chore(release): vX.Y.Z"
+git add <arquivos da mudança> CHANGELOG.md package.json
+git commit --message "feat: descrição do commit"      # a mesma mensagem passada ao script
 git tag vX.Y.Z
 git push origin main vX.Y.Z
+gh release create vX.Y.Z --title vX.Y.Z --notes-file "$TMPDIR/notas.md"   # --prerelease em rc
 ```
 
-## 5. GitHub Release
+Um commit por mudança lógica continua valendo: dois commits são duas versões, duas tags e dois releases.
+
+## 4. Conferir
 
 ```bash
-gh release create vX.Y.Z --title vX.Y.Z --notes-file "$TMPDIR/notas.md"
+git describe --tags --exact-match     # a tag aponta para o HEAD
+gh release view vX.Y.Z --json tagName,isPrerelease
 ```
 
-Para um release candidate, acrescente `--prerelease`.
-
-## Depois
-
-- `git status` limpo e `git describe --tags` mostrando a tag nova.
-- Atualize o `PLAN.md` se a release fecha um grupo.
+Tarefa só está entregue quando o último commit tem tag e GitHub Release. Faltou publicar a de um commit antigo? `bun scripts/release.ts --section X.Y.Z --notes notas.md` devolve as notas daquela versão.
 
 ## Automático
 
-Com os workflows ativos (`docs/ci-cd.md`), o `release.yml` faz os passos 3 a 5 depois de cada CI verde na `main`. Enquanto estiverem em `.github/workflows-disabled/`, a release é feita à mão.
+Com os workflows ativos (`docs/ci-cd.md`), o `release.yml` cria a tag e o GitHub Release da versão do commit depois de cada CI verde na `main`. Enquanto estiverem em `.github/workflows-disabled/`, o passo 3 é feito à mão em todo commit.

@@ -21,7 +21,7 @@ Antes de responder ou editar qualquer coisa, nesta ordem:
 
 Skills próprias deste projeto: `project-new-post` (criar ou editar um post), `project-new-product-list` (lista de produtos) e `project-release` (lançar uma versão).
 
-Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quando o pedido estiver ambíguo, `spec-driven-development` e `planning-and-task-breakdown` antes de uma feature nova, `source-driven-development` para qualquer API de framework, `test-driven-development` ao escrever lógica, `security-and-hardening` em autenticação, entrada de usuário e integrações, `git-workflow-and-versioning` ao commitar e lançar versão.
+Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quando o pedido estiver ambíguo, `spec-driven-development` e `planning-and-task-breakdown` antes de uma feature nova, `source-driven-development` para qualquer API de framework, `test-driven-development` ao escrever lógica, `security-and-hardening` em autenticação, entrada de usuário e integrações, `git-workflow-and-versioning` e `project-release` em todo commit (cada commit é uma release).
 
 ## Documentação (onboarding)
 
@@ -66,8 +66,8 @@ bun run test:e2e     # Playwright: smoke e e2e
 - **SvelteKit 3 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** Consulte o MCP do Svelte (`.mcp.json`) ou <https://svelte.dev/docs/kit/llms.txt> antes de usar qualquer API. Resumo do que mudou: configuração no `vite.config.ts` (não existe `svelte.config.js`), imports com `#lib/...` e extensão explícita (não existe `$lib`), `$app/env` e `$app/state` (não existem `$app/environment` nem `$app/stores`), runes em todo componente.
 - **Dependências:** sempre a última versão estável, com versão exata, sem `^` nem `~`. Confira no registry, não de memória. Ver `.claude/rules/dependencies.md`.
 - **Formatação:** tab com largura 4 (Biome e `.editorconfig`). YAML e Markdown usam 2 espaços.
-- **Commits:** Conventional Commits, validados pelo commitlint. Commits de conteúdo usam o tipo `content` e não geram release.
-- **Versão:** SemVer; toda mudança visível entra em `CHANGELOG.md` na seção `Unreleased`.
+- **Commits:** Conventional Commits, validados pelo commitlint. Commits de conteúdo usam o tipo `content`.
+- **Todo commit é uma release:** antes de commitar, `bun scripts/release.ts --message "<mensagem>"` corta a versão no `package.json` e no `CHANGELOG.md`; depois do commit, tag `vX.Y.Z`, push e `gh release create`. Sem exceção para `docs` ou `chore`; só os commits `content:` do painel em produção ficam de fora. Ver a skill `project-release` e `.claude/rules/git-and-releases.md`.
 - **Segredos:** nada de chave real no repositório. `.env.example` só tem placeholders.
 - **Indexação:** `/admin` e `/api` nunca aparecem em `robots.txt`, `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`.
 - **CI:** os workflows ficam em `.github/workflows-disabled/`. Não mova para `.github/workflows/` sem o dono pedir.

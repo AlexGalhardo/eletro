@@ -7,37 +7,52 @@ Os workflows do GitHub Actions estão escritos e testados, mas **inativos**: fic
 | Arquivo | Quando roda | O que faz |
 |---|---|---|
 | `ci.yml` | Push em `main` e todo pull request | Job `quality`: `bun install --frozen-lockfile`, `bun run lint`, `bun run check`, `bun run test`, `bun run build`. Job `e2e` (depois do `quality`): instala o Chromium e roda `bun run test:e2e`; se falhar, guarda o relatório do Playwright por 7 dias |
-| `release.yml` | Quando o `CI` termina com sucesso em um push na `main` | Roda `scripts/release.ts`. Se houver versão nova: atualiza `CHANGELOG.md` e `package.json`, faz o commit `chore(release): vX.Y.Z`, cria a tag e o GitHub Release com as notas da versão |
+| `release.yml` | Quando o `CI` termina com sucesso em um push na `main` | Lê a versão do `package.json` do commit. Se a tag `vX.Y.Z` ainda não existe: cria a tag e o GitHub Release com as notas daquela versão no `CHANGELOG.md` |
 
 - Nenhum dos dois precisa de segredo cadastrado: os testes não usam rede nem chave, e a release usa o token que o próprio Actions fornece.
 - As actions de terceiros estão fixadas pelo hash do commit (com a versão no comentário), e Bun e Node têm versão fixa.
-- O push feito pela release usa o token do workflow, que não dispara outro workflow. Não há como entrar em laço.
+- A release só envia a tag. O push feito com o token do workflow não dispara outro workflow: não há como entrar em laço.
 
-## Regra de versão
+## Todo commit é uma release
 
-`scripts/release.ts` lê os commits desde a última tag `v*`:
+Regra obrigatória para pessoas e agentes: **cada commit leva a própria versão e é publicado como release.** Não existe commit `chore(release)` separado. No mesmo commit da mudança entram a versão nova no `package.json` e a seção `## [X.Y.Z] - AAAA-MM-DD` no `CHANGELOG.md`; depois do commit vêm a tag `vX.Y.Z` e o GitHub Release.
 
-| Commits desde a última tag | Antes da 1.0.0 | A partir da 1.0.0 |
+Única exceção: os commits `content:` que o painel `/admin` faz em produção pela API do GitHub. Eles mantêm a versão do commit anterior.
+
+### Regra de versão
+
+`scripts/release.ts --message "<mensagem>"` calcula a versão pela mensagem do commit que vai ser feito:
+
+| Mensagem do commit | Antes da 1.0.0 | A partir da 1.0.0 |
 |---|---|---|
-| Algum `feat` | minor | minor |
-| Só `fix` ou `perf` | patch | patch |
+| `feat` | minor | minor |
+| `fix`, `perf` | patch | patch |
 | Mudança incompatível (`!` ou `BREAKING CHANGE:`) | minor | major |
-| Só `content`, `docs`, `chore`, `test`, `ci`, `build`, `style`, `refactor` | sem release | sem release |
+| `docs`, `chore`, `test`, `ci`, `build`, `style`, `refactor`, `content` | patch | patch |
+| Qualquer tipo, enquanto a versão é `X.Y.Z-rc.N` | `rc.N+1` | `rc.N+1` |
 
-As notas da versão são o texto que está em `## [Unreleased]` no `CHANGELOG.md`. Com `Unreleased` vazio o script para com erro: escreva as mudanças antes.
+Sair do release candidate é decisão do dono: `bun scripts/release.ts --version 1.0.0`.
 
-## Release à mão
+As notas da versão são o texto que está em `## [Unreleased]` no `CHANGELOG.md`. Com `Unreleased` vazio (commit sem mudança visível, como `docs` ou `chore`), a nota é o assunto do commit.
+
+### Passo a passo de cada commit
 
 ```bash
-bun scripts/release.ts --dry-run            # mostra a próxima versão e as notas, não altera nada
-bun scripts/release.ts --notes notas.md     # atualiza CHANGELOG.md e package.json e grava as notas
-git commit --all --message "chore(release): vX.Y.Z"
+bun run check && bun run lint && bun run test
+bun scripts/release.ts --message "feat: descrição" --dry-run            # mostra a versão e as notas
+bun scripts/release.ts --message "feat: descrição" --notes notas.md     # atualiza CHANGELOG.md e package.json
+git add <arquivos da mudança> CHANGELOG.md package.json
+git commit --message "feat: descrição"
 git tag vX.Y.Z
 git push origin main vX.Y.Z
-gh release create vX.Y.Z --title vX.Y.Z --notes-file notas.md
+gh release create vX.Y.Z --title vX.Y.Z --notes-file notas.md           # --prerelease em release candidate
 ```
 
-Para uma versão que a regra não calcula (release candidate, primeira estável): `bun scripts/release.ts --version 1.0.0-rc.1`.
+Conferência: `git describe --tags --exact-match` mostra a tag no `HEAD`, e `gh release view vX.Y.Z` mostra o release. As notas de uma versão já cortada saem com `bun scripts/release.ts --section X.Y.Z`.
+
+### Histórico
+
+Os 30 commits anteriores a esta regra receberam tag e GitHub Release de forma retroativa em 2026-10-06, pela mesma tabela: `v0.1.0` a `v0.8.5` até o primeiro release candidate, e `v1.0.0-rc.2` a `v1.0.0-rc.10` depois dele. As notas de cada um são a mensagem do commit.
 
 ## Como ativar
 
@@ -61,7 +76,7 @@ Para uma versão que a regra não calcula (release candidate, primeira estável)
 | Sintaxe e expressões dos workflows | `actionlint .github/workflows-disabled/*.yml` |
 | Jobs do CI em contêiner, como no GitHub | `act push --workflows .github/workflows-disabled/ci.yml` (precisa de Docker) |
 | Passos do CI em um clone limpo | os comandos do job `quality`, um a um, em `git clone` novo |
-| Versão e notas que a release geraria | `bun scripts/release.ts --dry-run` |
+| Versão e notas que um commit geraria | `bun scripts/release.ts --message "feat: x" --dry-run` |
 
 `actionlint` e `act` não são dependências do projeto: instale as ferramentas à parte.
 
