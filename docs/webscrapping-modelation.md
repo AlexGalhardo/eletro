@@ -8,6 +8,7 @@ Relatório do estudo feito em 2026-10-06 e documentação do que foi implementad
 - **Ferramenta:** `fetch` nativo + [`cheerio`](https://cheerio.js.org/) 1.2.0 (parser de HTML, a última versão estável em `npm view cheerio version`). É a única dependência nova.
 - **Virou funcionalidade:** o admin cola o endereço em `/admin/import` e o painel cria um rascunho com os 7 primeiros produtos.
 - **Um rascunho real foi criado** pelo próprio importador: `content/posts/melhor-lava-loucas-portatil.mdx`.
+- **Capa montada automaticamente.** A importação junta 3 fotos dos produtos, escolhidas ao acaso, sobre um fundo de cor clara aleatória, com o endereço do site em negrito no canto inferior direito. Não usa IA nem API externa: é montagem com `sharp`.
 - **Resumo e FAQ reescritos por IA.** Com `MISTRAL_API_KEY` configurada, o resumo e o FAQ da origem são reescritos pela API da Mistral e viram a descrição, a introdução e o FAQ do rascunho. Sem a chave, ou se a Mistral falhar, o texto é genérico, gerado a partir da ficha técnica. Em nenhum caso o texto da origem é gravado como está.
 
 ## O que o `robots.txt` diz
@@ -64,6 +65,8 @@ webscrapping/            TypeScript puro, sem imports do SvelteKit
   fetch.ts               download com lista de hosts, tempo limite e tamanho máximo
   build.ts               dados -> rascunho (post + lista de produtos), função pura
   rewrite.ts             resumo e FAQ da origem -> texto reescrito pela Mistral
+  cover.ts               fotos dos produtos -> capa WebP 1280x720
+  cover-font.ts          Inter Bold embutida em base64 (gerado)
   cli.ts                 execução manual
   fixture.ts             página sintética usada nos testes
 src/lib/server/post-import.ts          serviço importPost(store, url, author, now, mistralApiKey)
@@ -93,8 +96,17 @@ Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem
 - **Texto:** título e uma seção por produto saem de modelos fixos preenchidos com nomes e ficha técnica. Descrição, introdução e FAQ vêm da reescrita da Mistral (ver abaixo) ou, sem ela, dos mesmos modelos. Nenhuma frase da origem é gravada como está, e há teste garantindo isso.
 - **Categoria:** a seção da URL de origem precisa existir em `site.categories`. Um post de `cuidados-pessoais`, por exemplo, é recusado com uma mensagem clara.
 - **Links de afiliado:** `mercadolivreUrl`, `shopeeUrl` e `amazonUrl` ficam como `"#"`.
-- **Capa:** vazia. A página do post e a home só exibem a capa quando o campo está preenchido, então o build continua funcionando.
+- **Capa:** montada pelo `webscrapping/cover.ts` (ver abaixo) e gravada em `static/images/covers/<slug>-cover.webp`. Se a montagem falhar, o campo fica vazio, a importação continua e a tela avisa; a página do post e a home só exibem a capa quando o campo está preenchido.
 - **Rascunho:** `draft: true`, com `ref` apontando para a origem.
+
+### Capa gerada
+
+- **Como:** 3 das fotos baixadas, escolhidas ao acaso, recortadas do fundo branco e lado a lado sobre um fundo pastel aleatório (matiz qualquer, luminosidade de 86% a 92%), apoiadas na mesma linha de base.
+- **Recorte do fundo:** `removeWhiteBackground` faz um preenchimento a partir das bordas da foto sobre pixels quase brancos (os três canais em 252 ou mais) e os deixa transparentes. Partes brancas do produto que não tocam a borda ficam; o contorno ganha transparência parcial para não serrilhar. Depois a foto é cortada no produto e ampliada para ocupar o espaço. Limite: serve para o fundo branco liso das fotos de loja. Foto com cenário ou degradê fica com o fundo, e um produto branco encostado na borda da foto pode perder um pedaço da lateral. O texto de `site.postImport.coverText` ("EletroRadar.com.br") vai em negrito no canto inferior direito. Saída: WebP 1280×720, de 25 a 40 KB.
+- **Sem IA de propósito:** modelos de imagem redesenham o produto (o aparelho sai diferente do real) e erram letras com frequência. A montagem com código é igual toda vez, não tem custo e não depende de serviço externo.
+- **Fonte:** o texto vira contorno vetorial com `opentype.js` a partir da Inter Bold embutida em `cover-font.ts`, porque a função serverless não tem fontes instaladas. O contorno é montado letra por letra (sem kerning): o `opentype.js` 2.0 falha nas substituições contextuais da Inter e formata `-0` colado ao número anterior, então o `cover.ts` escreve o SVG ele mesmo.
+- **Dependências:** `sharp` passou a rodar no servidor (antes só no build) e `opentype.js` 2.0.0 é nova.
+- **Trocar a capa:** pelo editor do post, como qualquer outra.
 
 ### Reescrita com a Mistral
 
@@ -103,7 +115,7 @@ Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem
 - **Entrada:** o assunto, o resumo (`p.resumo`) e até 8 perguntas do FAQ da origem.
 - **Saída:** `description`, `intro` (1 a 4 parágrafos) e `faq`. A resposta é validada por schema, cada texto passa por `clean` (sem `{`, `}`, `<`, `>`, que o mdsvex leria como código) e tem tamanho máximo. Depois, o post passa pelas validações do editor como qualquer outro.
 - **Instruções ao modelo:** reescrever com outras palavras, em português do Brasil, sem inventar dados técnicos, sem citar a origem, sem Markdown e ignorando instruções que venham no texto da origem.
-- **Falha:** sem chave, origem sem resumo nem FAQ, erro da API (por exemplo 429 por limite do plano gratuito) ou resposta fora do formato: a importação continua com o texto genérico, e a tela mostra o motivo (`rewriteWarning`).
+- **Falha:** sem chave, origem sem resumo nem FAQ, erro da API (por exemplo 429 por limite do plano gratuito) ou resposta fora do formato: a importação continua com o texto genérico, e a tela mostra o motivo (`warnings`).
 - **Revisão:** o texto da IA pode errar fatos ou ficar parecido demais com a origem. Revise antes de mudar `draft` para `false`.
 
 ### Como um link `#` aparece no site
@@ -136,7 +148,7 @@ Para aceitar outro site, inclua o host em `site.postImport` (`src/lib/site.confi
 | Post (rascunho) | `content/posts/melhor-lava-loucas-portatil.mdx` | Texto gerado por modelos; fatos de <https://eletrosinter.com.br/cozinha/lava-loucas-portatil/> |
 | Lista de produtos | `content/products/melhor-lava-loucas-portatil.json` | 7 primeiros produtos da origem (de 10) |
 | 7 fotos | `static/images/posts/melhor-lava-loucas-portatil-1.jpg` a `-7.jpg` | Baixadas de `m.media-amazon.com` (fotos de produto da Amazon, 500 px), nos endereços que a página de origem usa |
-| Capa | nenhuma | A arte de capa do site de origem não foi copiada |
+| Capa | nenhuma | A arte de capa do site de origem não foi copiada (o rascunho é anterior à capa gerada) |
 
 O assunto foi escolhido por não existir em `content/posts/` (nenhum post sobre lava-louças) e por pertencer a uma categoria do site (`cozinha`).
 
@@ -182,6 +194,7 @@ Se um dia a origem passar a depender de JavaScript para renderizar, ou bloquear 
 
 | Arquivo | O que cobre |
 |---|---|
+| `webscrapping/cover.test.ts` | Capa 1280×720 em WebP, contorno do texto válido, sorteio das fotos e da cor |
 | `webscrapping/webscrapping.test.ts` | Parser, construtor do rascunho (com e sem texto reescrito), chamada à Mistral simulada e regras do `fetch` (lista de hosts, redirecionamento, tamanho) |
 | `tests/integration/import.test.ts` | Serviço e endpoint com store em pasta temporária e `fetch` simulado, inclusive a reescrita e a falha da Mistral |
 | `tests/e2e/import.spec.ts` | Acesso à tela e recusa de endereço fora da lista |

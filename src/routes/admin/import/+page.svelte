@@ -9,7 +9,8 @@
 		products: number;
 		source: string;
 		rewritten: boolean;
-		rewriteWarning?: string;
+		cover: string;
+		warnings: string[];
 	};
 
 	let url = $state("");
@@ -41,7 +42,7 @@
 
 <p class="mt-2 max-w-3xl text-sm text-gray-600 dark:text-gray-400">
 	Cole o endereço de uma review de {site.postImport.sourceHosts[0]}. O painel lê a página, copia os
-	{site.postImport.maxProducts} primeiros produtos (nome, foto e ficha técnica) e cria um rascunho. Com a
+	{site.postImport.maxProducts} primeiros produtos (nome, foto e ficha técnica) e cria um rascunho com capa montada a partir de 3 fotos dos produtos. Com a
 	chave da Mistral configurada, o resumo e o FAQ da origem são reescritos por IA; sem ela, o texto é genérico,
 	gerado a partir da ficha técnica.
 </p>
@@ -70,12 +71,17 @@
 		<p class="font-semibold">Rascunho criado com {imported.products} produtos.</p>
 		{#if imported.rewritten}
 			<p class="text-sm">Descrição, introdução e FAQ foram reescritos pela Mistral. Revise antes de publicar.</p>
-		{:else if imported.rewriteWarning}
-			<p class="text-sm">{imported.rewriteWarning}</p>
 		{/if}
+		{#each imported.warnings as warning (warning)}
+			<p class="text-sm">{warning}</p>
+		{/each}
 		<ul class="list-disc space-y-1 pl-5 text-sm">
 			<li>Troque os links de afiliado, que estão como <code>#</code>.</li>
-			<li>Envie a capa do post (o rascunho está sem capa).</li>
+			{#if imported.cover}
+				<li>Confira a capa gerada (<code>{imported.cover}</code>); troque no editor se não gostar.</li>
+			{:else}
+				<li>Envie a capa do post (o rascunho está sem capa).</li>
+			{/if}
 			{#if imported.rewritten}
 				<li>Revise o título e o texto reescrito pela IA (fatos, tom e ortografia).</li>
 			{:else}

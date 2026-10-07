@@ -76,6 +76,8 @@ export const site = {
 		sourceHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br"],
 		imageHosts: ["eletrosinter.com.br", "www.eletrosinter.com.br", "m.media-amazon.com"],
 		maxProducts: 7,
+		/** Written in bold at the bottom right of the generated cover. */
+		coverText: "EletroRadar.com.br",
 	},
 
 	analytics: {

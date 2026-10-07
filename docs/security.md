@@ -50,6 +50,8 @@ O ativo mais sensível é o build: um post malicioso que passe pelo portão exec
 | A09 Security Logging and Alerting Failures | Em aberto: só `console`, sem alertas |
 | A10 Mishandling of Exceptional Conditions | `respond()` devolve 500 genérico; sem configuração de auth não existe admin |
 
+A capa gerada na importação é montada pelo `sharp` a partir das fotos já baixadas com a lista de hosts e o limite de 4 MB; o `sharp` recusa imagens acima do limite de pixels padrão. Uma foto que não decodifica deixa o rascunho sem capa.
+
 LLM (só na importação, `webscrapping/rewrite.ts`): o resumo e o FAQ da página de origem vão para a API da Mistral. O texto da origem é tratado como não confiável (LLM01): o modelo não tem ferramentas nem acesso a nada, e a saída (LLM05) passa por schema, por `clean` (remove `{`, `}`, `<`, `>`, que o mdsvex leria como código), por limites de tamanho e pelas mesmas validações do editor. Uma chamada por importação, com `max_tokens` e tempo limite (LLM10). A chave fica só no servidor; nenhum dado de usuário vai para a Mistral.
 
 ## Segredos
