@@ -15,6 +15,30 @@ bun run dev
 
 O site público roda sem nenhuma variável de ambiente.
 
+### Setup automático
+
+Os scripts em `setups/` fazem o primeiro uso inteiro e sobem o servidor com o painel pronto para a "Entrada local":
+
+```bash
+bash setups/setup-unix.sh      # macOS, Linux e WSL
+bash setups/setup-windows.sh   # Windows, pelo Git Bash
+```
+
+Os dois compartilham `setups/_common.sh` e diferem só em como instalam o Bun e liberam a porta. O que fazem, nesta ordem:
+
+| Etapa | Se der errado |
+|---|---|
+| Confere Node 22.17 ou mais novo | Para e diz o que instalar |
+| Confere Bun 1.4 ou mais novo | Instala o Bun se faltar; atualiza se for antigo |
+| `bun install` | Apaga `node_modules` e tenta de novo uma vez |
+| `.env` | Cria a partir do `.env.example`; preenche `BETTER_AUTH_SECRET`, `AUTH_TEST_LOGIN_TOKEN` e `ADMIN_GITHUB_USERS` só se estiverem vazias; avisa sobre `DATABASE_URL` local, `GITHUB_REPO` sem token e `CRON_SECRET` curto |
+| Porta 5173 | Encerra o processo que a ocupa; se não conseguir, o Vite usa a próxima livre |
+| `bun run dev` | |
+
+Opções: `--no-start` prepara sem subir o servidor; `PORT=5180 bash setups/...` usa outra porta.
+
+O banco local é o PGlite embutido, criado e migrado sozinho na primeira subida: não há container a subir. Um Postgres em Docker não serve, porque com `DATABASE_URL` o servidor usa o driver HTTP do Neon (`src/lib/server/db/index.ts`), que um Postgres comum não atende.
+
 ## Scripts
 
 | Script | O que faz |

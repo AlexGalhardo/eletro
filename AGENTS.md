@@ -39,6 +39,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
 | [`docs/deploy.md`](docs/deploy.md) | Vercel, Netlify, Neon, OAuth App, token de conteúdo, Resend e o que conferir depois do deploy |
+| [`docs/setup-vercel.md`](docs/setup-vercel.md) | Passo a passo completo do deploy na Vercel, com conferência e problemas comuns |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
 | [`docs/webscrapping-modelation.md`](docs/webscrapping-modelation.md) | Importação de posts por web scraping: resultado do estudo, `webscrapping/`, `/admin/import`, limites |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |
@@ -48,6 +49,8 @@ Ao entregar uma mudança que altera comportamento, atualize o documento correspo
 ## Comandos
 
 ```bash
+bash setups/setup-unix.sh     # prepara tudo e sobe o dev (macOS, Linux, WSL)
+bash setups/setup-windows.sh  # o mesmo no Windows, pelo Git Bash
 bun install          # dependências (versões exatas)
 bun run dev          # servidor de desenvolvimento
 bun run build        # build de produção (valida todo o conteúdo)
