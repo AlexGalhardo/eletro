@@ -1,6 +1,6 @@
 import { type APIRequestContext, expect, test } from "@playwright/test";
 
-import { ADMIN, LOGIN_TOKEN as TOKEN } from "./env.ts";
+import { ADMIN, open, LOGIN_TOKEN as TOKEN } from "./env.ts";
 
 const login = (request: APIRequestContext, githubLogin = ADMIN, token = TOKEN) =>
 	request.post("/api/test/login", { data: { token, githubLogin } });
@@ -54,6 +54,19 @@ test.describe("admin access", () => {
 
 		await page.goto("/admin");
 		await expect(page).toHaveURL("/admin/login");
+	});
+
+	test("the admin switches between the light and the dark theme", async ({ page }) => {
+		expect((await login(page.request)).status()).toBe(200);
+		await open(page, "/admin");
+
+		const html = page.locator("html");
+		await expect(html).not.toHaveClass(/dark/);
+		await page.getByRole("button", { name: "Alternar tema" }).click();
+		await expect(html).toHaveClass(/dark/);
+
+		await page.reload();
+		await expect(html).toHaveClass(/dark/);
 	});
 });
 
