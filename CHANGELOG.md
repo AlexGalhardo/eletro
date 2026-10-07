@@ -6,6 +6,10 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.16] - 2026-10-07
+
+- docs: record the production deploy on Vercel in the plan
+
 ## [1.0.0-rc.15] - 2026-10-07
 
 - test: keep the e2e server away from the services of a local .env
@@ -182,7 +186,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.15...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.16...HEAD
+[1.0.0-rc.16]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.15...v1.0.0-rc.16
 [1.0.0-rc.15]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.14...v1.0.0-rc.15
 [1.0.0-rc.14]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.13...v1.0.0-rc.14
 [1.0.0-rc.13]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.12...v1.0.0-rc.13
