@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.25] - 2026-10-07
+
+### Added
+
+- `/admin/media`: o botão "Copiar link" copia o endereço completo da imagem no servidor em uso (por exemplo `https://example.com/images/posts/foto.jpg`) com o clipboard.js e abre um aviso "Link copiado".
+
 ## [1.0.0-rc.24] - 2026-10-07
 
 ### Added
@@ -239,7 +245,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.24...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...HEAD
+[1.0.0-rc.25]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.24...v1.0.0-rc.25
 [1.0.0-rc.24]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.23...v1.0.0-rc.24
 [1.0.0-rc.23]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.22...v1.0.0-rc.23
 [1.0.0-rc.22]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.21...v1.0.0-rc.22
