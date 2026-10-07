@@ -6,6 +6,16 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.26] - 2026-10-07
+
+### Added
+
+- `/admin/products` mostra em quais posts cada lista é usada, com filtro "Em uso" e "Sem uso"; `/admin/posts` ganhou a coluna "Produtos", com link para cada lista do post; o editor da lista mostra os posts que a usam.
+
+### Changed
+
+- Excluir uma lista de produtos não é mais recusado quando um post a usa: os posts que mostram a lista perdem o `<CardsTable>` dela e viram rascunho, e a confirmação avisa quais são.
+
 ## [1.0.0-rc.25] - 2026-10-07
 
 ### Added
@@ -245,7 +255,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.26...HEAD
+[1.0.0-rc.26]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...v1.0.0-rc.26
 [1.0.0-rc.25]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.24...v1.0.0-rc.25
 [1.0.0-rc.24]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.23...v1.0.0-rc.24
 [1.0.0-rc.23]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.22...v1.0.0-rc.23

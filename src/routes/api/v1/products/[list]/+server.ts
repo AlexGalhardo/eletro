@@ -2,7 +2,7 @@ import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { ApiError, parseBody, parseQuery, requireAdmin, respond } from "#lib/server/api.ts";
 import { deleteProductList, saveProductList } from "#lib/server/cms.ts";
-import { getProductList } from "#lib/server/content.ts";
+import { getBundledPostSources, getProductList } from "#lib/server/content.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 const versionSchema = z.object({ sha: z.string().min(1) });
@@ -27,13 +27,13 @@ export function PUT({ params, request, locals }) {
 	});
 }
 
-/** Deletes the list. Refused (400) while a post shows it, since the build would fail without it. */
+/** Deletes the list. The posts that show it lose their `<CardsTable>` and become drafts first. */
 export function DELETE({ params, url, locals }) {
 	return respond(async () => {
 		const author = requireAdmin(locals);
 		const { sha } = parseQuery(versionSchema, url);
 
-		await deleteProductList(getStore(), params.list, author, sha);
+		await deleteProductList(getStore(), params.list, author, sha, getBundledPostSources());
 		return new Response(null, { status: 204 });
 	});
 }

@@ -115,7 +115,7 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 		const row = page.getByRole("row").filter({ hasText: "Melhor Cafeteira de Teste" });
 		await expect(row).toHaveCount(1);
 		await expect(row).toContainText("Publicado");
-		await row.getByRole("link").click();
+		await row.getByRole("link", { name: "Melhor Cafeteira de Teste" }).click();
 
 		await field("Conteúdo (Markdown)").fill("<script>alert(1)</script>");
 		await page.getByRole("button", { name: "Salvar" }).click();
@@ -132,11 +132,48 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 
 	await test.step("shows the upload in the media library and the totals on the dashboard", async () => {
 		await open(page, "/admin/media");
-		await expect(page.getByText(`/images/covers/capa-${id}.png`)).toBeVisible();
+		const cover = page.getByRole("listitem").filter({ hasText: `/images/covers/capa-${id}.png` });
+		await expect(cover).toBeVisible();
+
+		// The copied link is the full address on this server, shown back in a dialog.
+		await cover.getByRole("button", { name: "Copiar link" }).click();
+		const copied = page.getByRole("dialog", { name: "Link copiado" });
+		await expect(copied).toContainText(new URL(`/images/covers/capa-${id}.png`, page.url()).href);
+		await copied.getByRole("button", { name: "OK" }).click();
+		await expect(copied).toBeHidden();
 
 		await open(page, "/admin");
 		await expect(page.getByText("Posts publicados")).toBeVisible();
 		await expect(page.getByText("Assinantes confirmados")).toBeVisible();
+	});
+
+	await test.step("links the post and its product list both ways", async () => {
+		await open(page, "/admin/posts");
+		await expect(page.getByRole("link", { name: list, exact: true })).toHaveAttribute(
+			"href",
+			`/admin/products/${list}`,
+		);
+
+		await open(page, "/admin/products");
+		await field("Uso").selectOption("unused");
+		await expect(page.getByRole("link", { name: list, exact: true })).toBeHidden();
+		await field("Uso").selectOption("used");
+		await expect(page.getByRole("listitem").filter({ hasText: list })).toContainText(`Usada em: ${slug}`);
+	});
+
+	await test.step("deletes the product list, which turns the post that shows it into a draft", async () => {
+		await open(page, `/admin/products/${list}`);
+		page.once("dialog", (dialog) => {
+			expect(dialog.message()).toContain(slug);
+			dialog.accept();
+		});
+		await page.getByRole("button", { name: "Excluir lista" }).click();
+
+		await expect(page).toHaveURL("/admin/products");
+		expect(existsSync(path.join(CONTENT_ROOT, `content/products/${list}.json`))).toBe(false);
+		const post = readFileSync(path.join(CONTENT_ROOT, `content/posts/${slug}.mdx`), "utf8");
+		expect(post).toContain("draft: true");
+		expect(post).not.toContain("<CardsTable");
 	});
 
 	await test.step("deletes the post", async () => {
@@ -146,14 +183,5 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 
 		await expect(page).toHaveURL("/admin/posts");
 		expect(existsSync(path.join(CONTENT_ROOT, `content/posts/${slug}.mdx`))).toBe(false);
-	});
-
-	await test.step("deletes the product list once no post uses it", async () => {
-		await open(page, `/admin/products/${list}`);
-		page.once("dialog", (dialog) => dialog.accept());
-		await page.getByRole("button", { name: "Excluir lista" }).click();
-
-		await expect(page).toHaveURL("/admin/products");
-		expect(existsSync(path.join(CONTENT_ROOT, `content/products/${list}.json`))).toBe(false);
 	});
 });
