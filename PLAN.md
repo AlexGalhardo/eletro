@@ -196,6 +196,16 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 
 **Assert:** unitário — com o `fetch` simulado, o JWT é verificado com a chave pública, os relatórios são lidos, o sitemap é enviado com `PUT` e a recusa do Google vira mensagem; integração — o endpoint responde 401 sem sessão e 503 sem as variáveis. (Verificado em 2026-10-07: `src/lib/server/google.test.ts` e `tests/integration/api.test.ts` verdes.)
 
+### B9. Painel: posts e produtos ligados, mídia e robôs
+
+- [x] `listPosts` informa as listas de cada post; `/admin/posts` mostra a coluna "Produtos" e `/admin/products` mostra o uso de cada lista, com filtro "Em uso" e "Sem uso"
+- [x] Excluir uma lista em uso leva os posts que a mostram para rascunho, sem o `<CardsTable>` dela
+- [x] `/admin/media`: "Copiar link" com o clipboard.js 2.0.11, endereço completo e aviso "Link copiado"
+- [x] `robots.txt` com `Content-Signal` e bloqueio dos robôs de `site.blockedCrawlers`; regra repetida no `llms.txt` e nos Termos de Uso
+- [ ] Bloqueio de scraping na borda (firewall da hospedagem): o `robots.txt` é só um pedido
+
+**Assert:** integração — excluir uma lista em uso deixa o post em rascunho sem o `<CardsTable>` dela e mantém as outras listas do post; com `sha` desatualizado nada muda. e2e — `robots.txt` traz o `Content-Signal` e o bloqueio dos robôs de treino. (Verificado em 2026-10-07: `tests/integration/cms.test.ts` verde; o e2e e as telas, conferidos como descrito no changelog da versão.)
+
 ---
 
 ## Fase 1.0.0-rc — endurecimento e entrega (1.0.0-rc.1 → 1.0.0)
@@ -304,7 +314,7 @@ Técnicas, sem bloqueio externo:
 - [ ] Limite de requisições em armazenamento compartilhado (hoje em memória, por instância)
 - [ ] Registro de eventos de segurança (login, recusa, 401, 429)
 - [ ] Token próprio e com validade para o descadastro da newsletter
-- [ ] Busca e paginação em `/admin/newsletter`; exclusão de lista de produtos e de imagem
+- [ ] Busca e paginação em `/admin/newsletter`; exclusão de imagem
 - [ ] Causa da navegação que às vezes não completa nos testes e2e sob carga
 
 ---
@@ -337,6 +347,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-07 | Capa da importação montada com `sharp` e `opentype.js`, sem API de imagem | Modelos de imagem alteram o produto e erram texto; montagem com código é grátis e igual toda vez |
 | 2026-10-07 | Resumo e FAQ da importação reescritos pela Mistral (`mistral-small-latest`, plano gratuito) | Pedido do dono; a falha da API não bloqueia a importação, o rascunho cai no texto genérico |
 | 2026-10-07 | Google pelo painel com conta de serviço, não com o OAuth do login | Sem tela de consentimento, sem token para renovar e sem escopo sensível no login; o acesso é dado ao e-mail da conta dentro do Search Console e do Analytics |
+| 2026-10-07 | Excluir lista em uso despublica os posts em vez de recusar | Pedido do dono; o post vira rascunho sem o `<CardsTable>`, então nada fica no ar com os produtos faltando e toda referência continua apontando para uma lista que existe |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono

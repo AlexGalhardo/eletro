@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.27] - 2026-10-07
+
+### Added
+
+- `robots.txt`: sinal de uso do conteúdo (`Content-Signal: search=yes, ai-input=yes, ai-train=no`) e bloqueio dos robôs de coleta em massa e de treino de IA listados em `site.blockedCrawlers`. Buscadores e assistentes que abrem a página para responder a alguém continuam liberados. A mesma regra está escrita no `llms.txt` e nos Termos de Uso (`site.contentPolicy`).
+
 ## [1.0.0-rc.26] - 2026-10-07
 
 ### Added
@@ -255,7 +261,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.26...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.27...HEAD
+[1.0.0-rc.27]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.26...v1.0.0-rc.27
 [1.0.0-rc.26]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...v1.0.0-rc.26
 [1.0.0-rc.25]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.24...v1.0.0-rc.25
 [1.0.0-rc.24]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.23...v1.0.0-rc.24

@@ -54,6 +54,7 @@
 					<li>• Respeitamos os direitos de terceiros citados</li>
 					<li>• Use o conteúdo de forma ética e legal</li>
 				</ul>
+				<p class="mt-4 text-black dark:text-white">{site.contentPolicy}</p>
 			</section>
 
 			<section>
