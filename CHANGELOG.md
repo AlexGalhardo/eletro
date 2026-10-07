@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-10-07
+
+### Fixed
+
+- Importação (`/admin/import`): quando a conta da Mistral não tem cota para o `mistral-small-latest` (resposta 429 ou 403), a reescrita do resumo e do FAQ passa para o `ministral-8b-latest` em vez de cair no texto genérico.
+
 ## [1.0.1] - 2026-10-07
 
 ### Fixed
@@ -273,7 +279,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.27...v1.0.0
 [1.0.0-rc.27]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.26...v1.0.0-rc.27

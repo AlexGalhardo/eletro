@@ -18,8 +18,10 @@ export class RewriteError extends Error {
 }
 
 export const MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions";
-// The free "Experiment" plan of La Plateforme serves this model; it is rate limited, and one import is one call.
-export const MISTRAL_MODEL = "mistral-small-latest";
+// Tried in order; one import is one call that works. The free "Experiment" plan of La Plateforme does not
+// always serve the first model (it answers 429 with a limit of zero requests a minute); the second is
+// smaller and is the one that plan keeps serving.
+export const MISTRAL_MODELS = ["mistral-small-latest", "ministral-8b-latest"];
 
 // Model output is untrusted: the shape is checked, every string goes through `clean` (mdsvex reads
 // braces and angle brackets as code) and the sizes are capped.
@@ -60,28 +62,33 @@ export async function rewriteTexts(
 		faq: scraped.faq.slice(0, 8).map((entry) => ({ pergunta: entry.question, resposta: entry.answer })),
 	};
 
-	let response: Response;
-	try {
-		response = await fetch(MISTRAL_URL, {
-			method: "POST",
-			signal: AbortSignal.timeout(timeoutMs),
-			headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
-			body: JSON.stringify({
-				model: MISTRAL_MODEL,
-				temperature: 0.7,
-				max_tokens: 2000,
-				response_format: { type: "json_object" },
-				messages: [
-					{ role: "system", content: SYSTEM_PROMPT },
-					{ role: "user", content: JSON.stringify(source) },
-				],
-			}),
-		});
-	} catch {
-		throw new RewriteError(
-			"Não foi possível falar com a API da Mistral (tempo esgotado ou falha de rede).",
-		);
+	let response: Response | undefined;
+	for (const model of MISTRAL_MODELS) {
+		try {
+			response = await fetch(MISTRAL_URL, {
+				method: "POST",
+				signal: AbortSignal.timeout(timeoutMs),
+				headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+				body: JSON.stringify({
+					model,
+					temperature: 0.7,
+					max_tokens: 2000,
+					response_format: { type: "json_object" },
+					messages: [
+						{ role: "system", content: SYSTEM_PROMPT },
+						{ role: "user", content: JSON.stringify(source) },
+					],
+				}),
+			});
+		} catch {
+			throw new RewriteError(
+				"Não foi possível falar com a API da Mistral (tempo esgotado ou falha de rede).",
+			);
+		}
+		// 429: no quota left for this model. 403: the plan does not include it. Another model may still answer.
+		if (response.status !== 429 && response.status !== 403) break;
 	}
+	if (!response) throw new RewriteError("Nenhum modelo da Mistral configurado.");
 	if (!response.ok) throw new RewriteError(`A API da Mistral respondeu ${response.status}.`);
 
 	try {
