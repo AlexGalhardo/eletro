@@ -13,7 +13,7 @@
 | E-mail | Resend + react-email |
 | Importação | `fetch` + cheerio (`webscrapping/`) |
 | Imagens | sharp, só no build, para as cópias das capas |
-| Hospedagem | Vercel ou Netlify, via `adapter-auto` |
+| Hospedagem | Vercel, via `adapter-vercel` (Netlify exige trocar o adaptador) |
 | Qualidade | Biome, markdownlint, svelte-check, Vitest, Playwright |
 
 ## Duas metades

@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-- Node 22.17 ou mais novo (o projeto usa 24)
+- Node 24 (fixado em `engines` do `package.json`)
 - Bun 1.4 ou mais novo
 - Python 3 com `graphifyy`, opcional, só para o grafo de conhecimento usado pelos agentes
 
@@ -28,7 +28,7 @@ Os dois compartilham `setups/_common.sh` e diferem só em como instalam o Bun e 
 
 | Etapa | Se der errado |
 |---|---|
-| Confere Node 22.17 ou mais novo | Para e diz o que instalar |
+| Confere Node 24 | Para e diz o que instalar |
 | Confere Bun 1.4 ou mais novo | Instala o Bun se faltar; atualiza se for antigo |
 | `bun install` | Apaga `node_modules` e tenta de novo uma vez |
 | `.env` | Cria a partir do `.env.example`; preenche `BETTER_AUTH_SECRET`, `AUTH_TEST_LOGIN_TOKEN` e `ADMIN_GITHUB_USERS` só se estiverem vazias; avisa sobre `DATABASE_URL` local, `GITHUB_REPO` sem token e `CRON_SECRET` curto |

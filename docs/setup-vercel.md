@@ -45,7 +45,7 @@ O site público funciona só com o passo 1. Faça o passo 1, confira que o site 
 4. Não preencha variáveis de ambiente ainda. Clique em **Deploy**.
 5. Espere o build (de 2 a 4 minutos na primeira vez: o `sharp` gera as cópias das capas). Ao terminar, abra o endereço `*.vercel.app` e confira a home e um post.
 
-Depois do primeiro deploy, em **Settings → Build and Deployment → Node.js Version**, escolha **24.x**. O projeto exige Node 22.17 ou mais novo.
+A versão do Node vem de `engines` no `package.json` (`24.x`) e vale mais que a escolhida em **Settings → Build and Deployment → Node.js Version**.
 
 ### Se o build falhar
 
@@ -53,8 +53,6 @@ Depois do primeiro deploy, em **Settings → Build and Deployment → Node.js Ve
 |---|---|---|
 | `Invalid vercel.json` | Erro de sintaxe ou campo fora do schema no `vercel.json` | Corrija o arquivo; o schema está em <https://openapi.vercel.sh/vercel.json> |
 | Erro de validação de post ou produto | Conteúdo inválido em `content/` | Rode `bun run build` localmente; a mensagem aponta o arquivo |
-| `Could not detect a supported production environment` | O `adapter-auto` não reconheceu a plataforma | Confira que o Framework Preset é `SvelteKit` |
-| Falha ao instalar o adaptador | O `adapter-auto` instala o `@sveltejs/adapter-vercel` durante o build | Tente de novo; se persistir, instale o adaptador como dependência do projeto e troque o import em `vite.config.ts` |
 
 ## 2. Domínio
 
