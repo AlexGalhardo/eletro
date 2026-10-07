@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.19] - 2026-10-07
+
+### Changed
+
+- Capa gerada na importação: os produtos aparecem recortados, sem o fundo branco das fotos e sem os cartões brancos, ocupando mais espaço.
+
 ## [1.0.0-rc.18] - 2026-10-07
 
 ### Added
@@ -198,7 +204,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.18...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.19...HEAD
+[1.0.0-rc.19]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.18...v1.0.0-rc.19
 [1.0.0-rc.18]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.17...v1.0.0-rc.18
 [1.0.0-rc.17]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.16...v1.0.0-rc.17
 [1.0.0-rc.16]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.15...v1.0.0-rc.16
