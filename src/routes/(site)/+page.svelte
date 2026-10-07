@@ -59,19 +59,19 @@
 	<div class="border-b border-gray-200 bg-white dark:border-zinc-800 dark:bg-zinc-950">
 		<div class="mx-auto max-w-6xl px-3 sm:px-6 lg:px-8">
 			<div
-				class="scrollbar-hide -mx-3 flex w-full items-center justify-between gap-1.5 overflow-x-auto px-3 py-3 sm:mx-0 sm:gap-2 sm:overflow-visible sm:px-0"
+				class="scrollbar-hide -mx-3 flex items-center gap-1.5 overflow-x-auto px-3 py-3 sm:mx-0 sm:px-0"
 			>
 				{#each categories as category (category.id)}
 					<button
 						type="button"
 						onclick={() => select(category.id)}
 						aria-pressed={selected === category.id}
-						class="flex shrink-0 cursor-pointer items-center gap-1.5 rounded-full border px-3.5 py-2 text-xs font-semibold tracking-wide whitespace-nowrap uppercase transition-colors duration-200 sm:px-4 sm:text-sm {selected ===
+						class="flex shrink-0 grow cursor-pointer items-center justify-center gap-1.5 rounded-full border px-3 py-2 text-xs font-semibold tracking-wide whitespace-nowrap uppercase transition-colors duration-200 {selected ===
 						category.id
 							? 'border-blue-600 bg-blue-600 text-white'
 							: 'border-gray-200 text-gray-600 hover:border-blue-500 hover:text-blue-600 dark:border-zinc-700 dark:text-gray-300 dark:hover:text-blue-400'}"
 					>
-						<CategoryIcon name={category.icon} class="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+						<CategoryIcon name={category.icon} class="h-3.5 w-3.5" />
 						{category.label}
 					</button>
 				{/each}

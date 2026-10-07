@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.5] - 2026-10-07
+
+### Fixed
+
+- Home: com a oitava categoria, a faixa de filtros passava da largura do conteúdo no desktop. Os botões ficaram um pouco menores e ocupam a linha inteira, alinhados às bordas dos cartões; quando não cabem (telas menores ou mais categorias), a faixa rola para o lado em vez de vazar.
+
 ## [1.0.4] - 2026-10-07
 
 - style: build the closing script tag without string concatenation
@@ -289,7 +295,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.4...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...HEAD
+[1.0.5]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.1...v1.0.2
