@@ -1,5 +1,6 @@
 import { readdir, readFile, rm } from "node:fs/promises";
 import path from "node:path";
+import sharp from "sharp";
 import { afterAll, afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { parsePost } from "../../src/lib/content/parse.ts";
 import { productListSchema } from "../../src/lib/content/schema.ts";
@@ -26,17 +27,22 @@ vi.mock("$app/env/private", async () => {
 afterAll(() => rm(root, { recursive: true, force: true }));
 
 const author = { name: "Admin", email: "admin@example.com" };
-const JPEG = new Uint8Array([0xff, 0xd8, 0xff, 0xe0, 1, 2, 3]);
+// A real (tiny) JPEG: the cover is composed from these bytes with sharp.
+const JPEG = new Uint8Array(
+	await sharp({ create: { width: 8, height: 8, channels: 3, background: "#c00" } })
+		.jpeg()
+		.toBuffer(),
+);
 const SLUG = "melhor-torradeira-de-teste";
 
 /** The source site as the import sees it: one page and its product photos. Nothing here touches the network. */
-function fakeSite(page = FIXTURE_HTML, mistral?: () => Response) {
+function fakeSite(page = FIXTURE_HTML, mistral?: () => Response, photo = JPEG) {
 	const calls: string[] = [];
 	vi.stubGlobal("fetch", async (url: string) => {
 		calls.push(url);
 		if (url === MISTRAL_URL && mistral) return mistral();
 		if (url === FIXTURE_URL) return new Response(page, { headers: { "content-type": "text/html" } });
-		if (url.startsWith("https://m.media-amazon.com/")) return new Response(JPEG);
+		if (url.startsWith("https://m.media-amazon.com/")) return new Response(photo);
 		return new Response("not found", { status: 404 });
 	});
 	return calls;
@@ -55,7 +61,12 @@ describe("importPost", () => {
 
 		expect(result).toMatchObject({ slug: SLUG, list: SLUG, products: 7, source: FIXTURE_URL });
 		expect(result.rewritten).toBe(false);
-		expect(result.rewriteWarning).toMatch(/MISTRAL_API_KEY/);
+		expect(result.warnings).toEqual([expect.stringMatching(/MISTRAL_API_KEY/)]);
+		expect(result.cover).toBe(`/images/covers/${SLUG}-cover.webp`);
+		expect(await files("static/images/covers")).toEqual([`${SLUG}-cover.webp`]);
+		expect(
+			await sharp(path.join(root, `static/images/covers/${SLUG}-cover.webp`)).metadata(),
+		).toMatchObject({ format: "webp", width: 1280, height: 720 });
 		// One page plus the photos of the first seven products, and nothing else.
 		expect(calls).toHaveLength(8);
 
@@ -79,7 +90,12 @@ describe("importPost", () => {
 			SLUG,
 			await readFile(path.join(root, `content/posts/${SLUG}.mdx`), "utf8"),
 		);
-		expect(post).toMatchObject({ draft: true, cover: "", category: "cozinha", ref: FIXTURE_URL });
+		expect(post).toMatchObject({
+			draft: true,
+			cover: `/images/covers/${SLUG}-cover.webp`,
+			category: "cozinha",
+			ref: FIXTURE_URL,
+		});
 		expect(body).toContain(`<CardsTable list="${SLUG}" />`);
 		expect(body).not.toContain("nunca deve ir");
 	});
@@ -97,7 +113,7 @@ describe("importPost", () => {
 		const result = await importPost(createLocalStore(root), FIXTURE_URL, author, new Date(), "key");
 
 		expect(result).toMatchObject({ rewritten: true, products: 7 });
-		expect(result.rewriteWarning).toBeUndefined();
+		expect(result.warnings).toEqual([]);
 		expect(calls.filter((url) => url === MISTRAL_URL)).toHaveLength(1);
 		const { post, body } = parsePost(
 			SLUG,
@@ -114,7 +130,19 @@ describe("importPost", () => {
 		const result = await importPost(createLocalStore(root), FIXTURE_URL, author, new Date(), "key");
 
 		expect(result).toMatchObject({ rewritten: false, products: 7 });
-		expect(result.rewriteWarning).toMatch(/429/);
+		expect(result.warnings).toEqual([expect.stringMatching(/429/)]);
+		expect(await files("content/posts")).toEqual([`${SLUG}.mdx`]);
+	});
+
+	it("saves the draft without a cover, and says so, when the photos cannot be composed", async () => {
+		// Passes the JPEG signature check of uploadImage but is not a decodable image.
+		fakeSite(FIXTURE_HTML, undefined, new Uint8Array([0xff, 0xd8, 0xff, 0xe0, 1, 2, 3]));
+
+		const result = await importPost(createLocalStore(root), FIXTURE_URL, author);
+
+		expect(result.cover).toBe("");
+		expect(result.warnings).toContainEqual(expect.stringMatching(/capa/));
+		expect(await files("static/images/covers")).toEqual([]);
 		expect(await files("content/posts")).toEqual([`${SLUG}.mdx`]);
 	});
 

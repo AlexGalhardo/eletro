@@ -18,9 +18,11 @@
         "fuse.js": "7.5.0",
         "gray-matter": "4.0.3",
         "marked": "18.1.0",
+        "opentype.js": "2.0.0",
         "react": "19.3.0",
         "react-dom": "19.3.0",
         "resend": "6.32.0",
+        "sharp": "0.35.5",
         "zod": "4.6.5",
       },
       "devDependencies": {
@@ -39,7 +41,6 @@
         "husky": "9.1.7",
         "markdownlint-cli2": "0.23.3",
         "mdsvex": "0.12.8",
-        "sharp": "0.35.5",
         "svelte": "5.57.2",
         "svelte-check": "4.7.6",
         "tailwindcss": "4.3.3",
@@ -817,6 +818,8 @@
     "nth-check": ["nth-check@2.1.1", "", { "dependencies": { "boolbase": "^1.0.0" } }, "sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w=="],
 
     "obug": ["obug@2.2.1", "", {}, "sha512-XrsrhT5sybtKI6wakr2SPOlGZWWYbUXZ7a0jT8/QOeAPau+1X/bSegNe5YR75oJmEZQbKningirmGOEJCIk61Q=="],
+
+    "opentype.js": ["opentype.js@2.0.0", "", { "bin": { "ot": "bin/ot" } }, "sha512-kCyjv6xdDY1W/jLWZ/L3QhhTlKUqDZMQ5+Jdlw12b3dXkKNpYBqqlMMj0YDQPShWFTMwgZI1hG14kN3XUDSg/A=="],
 
     "parent-module": ["parent-module@1.0.1", "", { "dependencies": { "callsites": "^3.0.0" } }, "sha512-GQ2EWRpQV8/o+Aw8YqtfZZPfNRWZYkbidE9k5rpl/hC3vtHHBfGm2Ifi6qWV+coDGkrUKZAxE3Lot5kcsRlh+g=="],
 
