@@ -1,8 +1,13 @@
 <script lang="ts">
 	import { site } from "#lib/site.config.ts";
+	import { page } from "$app/state";
 	import NewsletterForm from "./NewsletterForm.svelte";
 
 	const year = new Date().getFullYear();
+	// A category without a published post would link to an empty list.
+	const categories = $derived(
+		site.categories.filter((category) => page.data.activeCategories?.includes(category.id)),
+	);
 
 	const institutional = [
 		{ href: "/sobre", label: "Sobre" },
@@ -37,7 +42,7 @@
 			<nav class="md:col-span-3" aria-label="Categorias">
 				<h2 class={heading}>Categorias</h2>
 				<ul class="mt-4 space-y-2.5">
-					{#each site.categories as category (category.id)}
+					{#each categories as category (category.id)}
 						<li class="text-sm!"><a href="/?categoria={category.id}" class={link}>{category.label}</a></li>
 					{/each}
 				</ul>

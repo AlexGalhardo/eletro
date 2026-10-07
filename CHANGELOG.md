@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.6] - 2026-10-07
+
+### Fixed
+
+- Home e rodapé: uma categoria sem nenhum post publicado (só rascunhos, só agendados ou nenhum post) não aparece mais no filtro nem na lista de categorias do rodapé. Ela volta sozinha quando o primeiro post da categoria é publicado.
+
 ## [1.0.5] - 2026-10-07
 
 ### Fixed
@@ -295,7 +301,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...HEAD
+[1.0.6]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.2...v1.0.3

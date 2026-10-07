@@ -13,7 +13,10 @@
 
 	let { data } = $props();
 
-	const categories = [{ id: "all", label: "Todos", icon: "layers" }, ...site.categories];
+	const categories = $derived([
+		{ id: "all", label: "Todos", icon: "layers" },
+		...site.categories.filter((category) => data.activeCategories.includes(category.id)),
+	]);
 
 	let selected = $state("all");
 	let visibleCount = $state(POSTS_PER_LOAD);
