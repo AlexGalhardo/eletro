@@ -35,7 +35,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
 - `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
-- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair".
+- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair". Em telas menores que `md` (768 px), a navegação, o tema e o "Sair" ficam atrás de um botão de menu (hambúrguer), que fecha ao escolher uma página.
 - Páginas do painel não carregam os scripts de analytics.
 
 ## Painel
