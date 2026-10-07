@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Layers, Sofa, SprayCan, Tag, UtensilsCrossed, WashingMachine, Wind, Wrench } from "@lucide/svelte";
+	import { Layers, Sofa, Sparkles, SprayCan, Tag, UtensilsCrossed, WashingMachine, Wind, Wrench } from "@lucide/svelte";
 
 	// Icon names accepted in `site.categories[].icon`. Unknown names fall back to a tag.
 	const map = {
@@ -10,6 +10,7 @@
 		sofa: Sofa,
 		"washing-machine": WashingMachine,
 		"utensils-crossed": UtensilsCrossed,
+		sparkles: Sparkles,
 	} as const;
 
 	let { name, class: className = "" }: { name: string; class?: string } = $props();

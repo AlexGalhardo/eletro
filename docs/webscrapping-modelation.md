@@ -94,7 +94,7 @@ Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem
 - **Produtos:** os 7 primeiros (`site.postImport.maxProducts`), na ordem da origem. Nome e ficha técnica são fatos e são reaproveitados. Valor "não especificado" é descartado.
 - **Vantagens:** a origem tem uma lista pronta, mas ela é texto de outra redação. O rascunho repete até 5 itens curtos da ficha técnica no lugar ("Capacidade: 5 litros"), para o admin substituir.
 - **Texto:** título e uma seção por produto saem de modelos fixos preenchidos com nomes e ficha técnica. Descrição, introdução e FAQ vêm da reescrita da Mistral (ver abaixo) ou, sem ela, dos mesmos modelos. Nenhuma frase da origem é gravada como está, e há teste garantindo isso.
-- **Categoria:** a seção da URL de origem precisa existir em `site.categories`. Um post de `cuidados-pessoais`, por exemplo, é recusado com uma mensagem clara.
+- **Categoria:** a seção da URL de origem precisa existir em `site.categories`. Um post de uma seção que o site não tem é recusado com uma mensagem clara; para aceitá-la, acrescente a categoria em `site.categories` (foi o caso de `cuidados-pessoais`).
 - **Links de afiliado:** `mercadolivreUrl`, `shopeeUrl` e `amazonUrl` ficam como `"#"`.
 - **Capa:** montada pelo `webscrapping/cover.ts` (ver abaixo) e gravada em `static/images/covers/<slug>-cover.webp`. Se a montagem falhar, o campo fica vazio, a importação continua e a tela avisa; a página do post e a home só exibem a capa quando o campo está preenchido.
 - **Rascunho:** `draft: true`, com `ref` apontando para a origem.

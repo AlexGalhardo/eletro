@@ -11,7 +11,7 @@ Você deve preencher lacunas de forma factual apenas com o que eu fornecer no te
 
 <variaveis>
 - TITLE: {{CRIE UM TÍTULO ATRAENTE QUE AS PESSOAS BUSCAM NO GOOGLE E BING COM NO MÁXIMO 8 PALAVRAS}}
-- CATEGORY (campo "category" do frontmatter): {{Deve ser uma dessas categorias: ["ferramentas", "limpeza", "climatizacao", "moveis", "lavanderia", "cozinha"] }}
+- CATEGORY (campo "category" do frontmatter): {{Deve ser uma dessas categorias: ["ferramentas", "limpeza", "climatizacao", "moveis", "lavanderia", "cozinha", "cuidados-pessoais"] }}
 - REF (campo "ref" do frontmatter): {{ busque a referencia diretamente no site do eletrosinter }}
 - CARDSTABLE_CATEGORY (prop do componente <CardsTable />): {{CRIE O NOME DESSE CATEGORY AQUI}}
 - BLOG_POST_ID: {{coloque um número aleatório entre 1 e 100}}

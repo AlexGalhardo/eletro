@@ -64,8 +64,11 @@ describe("importPost", () => {
 		expect(result.warnings).toEqual([expect.stringMatching(/MISTRAL_API_KEY/)]);
 		expect(result.cover).toBe(`/images/covers/${SLUG}-cover.webp`);
 		expect(await files("static/images/covers")).toEqual([`${SLUG}-cover.webp`]);
+		// Read into memory first: sharp keeps a file it opened by path locked on Windows, and the cleanup fails.
 		expect(
-			await sharp(path.join(root, `static/images/covers/${SLUG}-cover.webp`)).metadata(),
+			await sharp(
+				await readFile(path.join(root, `static/images/covers/${SLUG}-cover.webp`)),
+			).metadata(),
 		).toMatchObject({ format: "webp", width: 1280, height: 720 });
 		// One page plus the photos of the first seven products, and nothing else.
 		expect(calls).toHaveLength(8);
