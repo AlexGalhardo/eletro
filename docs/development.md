@@ -70,6 +70,7 @@ Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opc
 | Conteúdo | `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH`, `CONTENT_ROOT` | O painel grava nos arquivos do projeto |
 | E-mail | `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `CONTACT_TO_EMAIL` | O e-mail é só registrado no log |
 | Newsletter | `CRON_SECRET` | A fila de avisos só roda pelo botão do painel |
+| Importação | `MISTRAL_API_KEY` | O rascunho importado fica com o texto genérico, sem reescrita por IA |
 
 Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 

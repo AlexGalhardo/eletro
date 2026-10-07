@@ -99,4 +99,4 @@ Erros: `ValidationError` (mensagens em português, prontas para a tela), `NotFou
 
 ## Variáveis de ambiente
 
-Declaradas em `src/env.ts` e descritas em `.env.example`: `DATABASE_URL`, `PGLITE_DIR`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `ADMIN_GITHUB_USERS`, `AUTH_TEST_LOGIN_TOKEN`, `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH`, `CONTENT_ROOT`, `CRON_SECRET`.
+Declaradas em `src/env.ts` e descritas em `.env.example`: `DATABASE_URL`, `PGLITE_DIR`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`, `ADMIN_GITHUB_USERS`, `AUTH_TEST_LOGIN_TOKEN`, `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH`, `CONTENT_ROOT`, `CRON_SECRET`, `MISTRAL_API_KEY`.

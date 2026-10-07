@@ -19,8 +19,10 @@ export type ScrapedPost = {
 	/** First path segment of the source URL, which is the category on the source site. */
 	section: string;
 	products: ScrapedProduct[];
-	/** Number of FAQ entries on the source page (the questions themselves are not kept). */
-	faqCount: number;
+	/** Lead paragraph of the source. Never stored as is: only sent to the rewriter (`rewrite.ts`). */
+	summary: string;
+	/** Source FAQ. Never stored as is: only sent to the rewriter (`rewrite.ts`). */
+	faq: { question: string; answer: string }[];
 };
 
 /**
@@ -81,7 +83,14 @@ export function parsePostHtml(html: string, url: string): ScrapedPost {
 		title: clean($("article h1").first().text() || $("h1").first().text()),
 		section: new URL(url).pathname.split("/").filter(Boolean)[0] ?? "",
 		products,
-		faqCount: $("#rank-math-faq .rank-math-question").length,
+		summary: clean($("p.resumo").first().text()),
+		faq: $("#rank-math-faq .rank-math-list-item")
+			.map((_, item) => ({
+				question: clean($(item).find(".rank-math-question").text()),
+				answer: clean($(item).find(".rank-math-answer").text()),
+			}))
+			.get()
+			.filter((entry) => entry.question && entry.answer),
 	};
 }
 

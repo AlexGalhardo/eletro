@@ -88,4 +88,11 @@ export const variables = defineEnvVars({
 		description:
 			"Bearer token accepted by the newsletter dispatch endpoint when called by a scheduler. At least 32 characters.",
 	},
+
+	// --- Post import -----------------------------------------------------------
+	MISTRAL_API_KEY: {
+		schema: optional,
+		description:
+			"Mistral API key. When set, /admin/import rewrites the source summary and FAQ with Mistral; without it, template texts are used.",
+	},
 });

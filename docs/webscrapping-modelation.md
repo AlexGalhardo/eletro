@@ -8,7 +8,7 @@ Relatório do estudo feito em 2026-10-06 e documentação do que foi implementad
 - **Ferramenta:** `fetch` nativo + [`cheerio`](https://cheerio.js.org/) 1.2.0 (parser de HTML, a última versão estável em `npm view cheerio version`). É a única dependência nova.
 - **Virou funcionalidade:** o admin cola o endereço em `/admin/import` e o painel cria um rascunho com os 7 primeiros produtos.
 - **Um rascunho real foi criado** pelo próprio importador: `content/posts/melhor-lava-loucas-portatil.mdx`.
-- **O texto do rascunho é genérico de propósito.** O app não tem LLM e o texto da origem não é copiado. O admin precisa reescrever antes de publicar.
+- **Resumo e FAQ reescritos por IA.** Com `MISTRAL_API_KEY` configurada, o resumo e o FAQ da origem são reescritos pela API da Mistral e viram a descrição, a introdução e o FAQ do rascunho. Sem a chave, ou se a Mistral falhar, o texto é genérico, gerado a partir da ficha técnica. Em nenhum caso o texto da origem é gravado como está.
 
 ## O que o `robots.txt` diz
 
@@ -50,8 +50,9 @@ O site é WordPress com um tema próprio. Seletores usados em `webscrapping/pars
 | Foto do produto | `.box-products .bp-image img[src]` | Hospedada em `m.media-amazon.com`, 500 px |
 | Vantagens e desvantagens | `.box-pro-contra .pros li`, `.contras li` | Lidas só para consulta; não vão para o rascunho |
 | Ficha técnica | `.box-ficha-tecnica li` | Rótulo em `<strong>`, valor no restante do item |
-| FAQ | `#rank-math-faq .rank-math-question` e `.rank-math-answer` | Só a quantidade é lida |
-| Resumo, data, capa | `p.resumo`, `time[datetime]`, `figure.thumbnail-destacada img` | Não usados |
+| FAQ | `#rank-math-faq .rank-math-list-item` (`.rank-math-question`, `.rank-math-answer`) | Enviado à Mistral para reescrita; não é gravado como está |
+| Resumo | `p.resumo` | Enviado à Mistral para reescrita; não é gravado como está |
+| Data, capa | `time[datetime]`, `figure.thumbnail-destacada img` | Não usados |
 
 Os blocos de vantagens e de ficha técnica são irmãos do cartão no HTML, até o próximo título (`.titulo-numerado`). O parser percorre esses irmãos para não misturar dados de produtos vizinhos. A página tem ainda dois resumos do ranking (`.lr-container`), ignorados porque repetem os mesmos produtos.
 
@@ -62,14 +63,15 @@ webscrapping/            TypeScript puro, sem imports do SvelteKit
   parse.ts               html + url -> dados (função pura)
   fetch.ts               download com lista de hosts, tempo limite e tamanho máximo
   build.ts               dados -> rascunho (post + lista de produtos), função pura
+  rewrite.ts             resumo e FAQ da origem -> texto reescrito pela Mistral
   cli.ts                 execução manual
   fixture.ts             página sintética usada nos testes
-src/lib/server/post-import.ts          serviço importPost(store, url, author)
+src/lib/server/post-import.ts          serviço importPost(store, url, author, now, mistralApiKey)
 src/routes/api/v1/imports/+server.ts   POST /api/v1/imports (admin)
 src/routes/admin/import/+page.svelte   tela "Importar"
 ```
 
-Fluxo: a tela chama `POST /api/v1/imports` com `{ "url": "..." }`. O serviço baixa a página, extrai os produtos, monta o rascunho, confere se o slug já existe, baixa e envia cada foto com `uploadImage`, grava a lista com `saveProductList` e o post com `savePost`. Tudo passa pelas validações do `cms.ts`, as mesmas do editor.
+Fluxo: a tela chama `POST /api/v1/imports` com `{ "url": "..." }`. O serviço baixa a página, extrai os produtos, monta o rascunho, pede à Mistral a reescrita do resumo e do FAQ (quando há chave), confere se o slug já existe, baixa e envia cada foto com `uploadImage`, grava a lista com `saveProductList` e o post com `savePost`. Tudo passa pelas validações do `cms.ts`, as mesmas do editor.
 
 ### Como rodar pela linha de comando
 
@@ -81,18 +83,28 @@ bun webscrapping/cli.ts https://eletrosinter.com.br/cozinha/lava-loucas-portatil
 bun webscrapping/cli.ts https://eletrosinter.com.br/cozinha/lava-loucas-portatil/ --write
 ```
 
-O script não faz parte do build. Sem `--write`, a saída inclui as vantagens e desvantagens da origem, úteis como referência para quem vai reescrever.
+Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem o resumo e o FAQ. O script não faz parte do build. Sem `--write`, a saída inclui as vantagens e desvantagens da origem, úteis como referência para quem vai reescrever.
 
 ### Como o rascunho é montado
 
 - **Slug e lista:** `melhor-` + último segmento da URL de origem. O post e a lista têm o mesmo nome.
 - **Produtos:** os 7 primeiros (`site.postImport.maxProducts`), na ordem da origem. Nome e ficha técnica são fatos e são reaproveitados. Valor "não especificado" é descartado.
 - **Vantagens:** a origem tem uma lista pronta, mas ela é texto de outra redação. O rascunho repete até 5 itens curtos da ficha técnica no lugar ("Capacidade: 5 litros"), para o admin substituir.
-- **Texto:** título, descrição, introdução, uma seção por produto e FAQ saem de modelos fixos preenchidos com nomes e ficha técnica. Nenhuma frase da origem é gravada, e há teste garantindo isso.
+- **Texto:** título e uma seção por produto saem de modelos fixos preenchidos com nomes e ficha técnica. Descrição, introdução e FAQ vêm da reescrita da Mistral (ver abaixo) ou, sem ela, dos mesmos modelos. Nenhuma frase da origem é gravada como está, e há teste garantindo isso.
 - **Categoria:** a seção da URL de origem precisa existir em `site.categories`. Um post de `cuidados-pessoais`, por exemplo, é recusado com uma mensagem clara.
 - **Links de afiliado:** `mercadolivreUrl`, `shopeeUrl` e `amazonUrl` ficam como `"#"`.
 - **Capa:** vazia. A página do post e a home só exibem a capa quando o campo está preenchido, então o build continua funcionando.
 - **Rascunho:** `draft: true`, com `ref` apontando para a origem.
+
+### Reescrita com a Mistral
+
+- **Onde:** `webscrapping/rewrite.ts`, chamado por `importPost` depois que a página já virou um rascunho válido (uma página sem produtos falha antes de gastar uma chamada).
+- **API:** `POST https://api.mistral.ai/v1/chat/completions`, modelo `mistral-small-latest`, `response_format: json_object`, `max_tokens` 2000, tempo limite de 60 s. O plano gratuito ("Experiment") da Mistral atende: é uma chamada por importação.
+- **Entrada:** o assunto, o resumo (`p.resumo`) e até 8 perguntas do FAQ da origem.
+- **Saída:** `description`, `intro` (1 a 4 parágrafos) e `faq`. A resposta é validada por schema, cada texto passa por `clean` (sem `{`, `}`, `<`, `>`, que o mdsvex leria como código) e tem tamanho máximo. Depois, o post passa pelas validações do editor como qualquer outro.
+- **Instruções ao modelo:** reescrever com outras palavras, em português do Brasil, sem inventar dados técnicos, sem citar a origem, sem Markdown e ignorando instruções que venham no texto da origem.
+- **Falha:** sem chave, origem sem resumo nem FAQ, erro da API (por exemplo 429 por limite do plano gratuito) ou resposta fora do formato: a importação continua com o texto genérico, e a tela mostra o motivo (`rewriteWarning`).
+- **Revisão:** o texto da IA pode errar fatos ou ficar parecido demais com a origem. Revise antes de mudar `draft` para `false`.
 
 ### Como um link `#` aparece no site
 
@@ -132,10 +144,10 @@ O assunto foi escolhido por não existir em `content/posts/` (nenhum post sobre 
 
 - [ ] Trocar os links de afiliado `#` dos 7 produtos (ou apagar os que não serão usados).
 - [ ] Enviar a capa do post (WebP 16:9 em `static/images/covers/`).
-- [ ] Reescrever título, descrição, introdução, vantagens e FAQ. O texto atual é um esqueleto.
+- [ ] Reescrever título, descrição, introdução, vantagens e FAQ. O texto atual é um esqueleto (o rascunho é anterior à reescrita pela Mistral).
 - [ ] Conferir os dados da ficha técnica. Dois valores da origem parecem errados: "Peso: 0,05kg" (GRFIT) e "Capacidade: 42 litros" (LavaBox Mini).
 - [ ] Decidir sobre o uso das fotos. Elas são imagens de produto da Amazon; o programa de associados da Amazon tem regras próprias para uso de imagens.
-- [ ] Decidir se a importação ganha uma etapa de reescrita com LLM. Isso exige uma chave de API e tem custo por post; não foi implementado.
+- [ ] Cadastrar `MISTRAL_API_KEY` na Vercel e conferir uma importação real com a reescrita (não foi possível chamar a API a partir do ambiente de desenvolvimento).
 - [ ] Mudar `draft` para `false` quando o post estiver pronto.
 
 ## Hospedagem: Vercel e Netlify
@@ -170,9 +182,9 @@ Se um dia a origem passar a depender de JavaScript para renderizar, ou bloquear 
 
 | Arquivo | O que cobre |
 |---|---|
-| `webscrapping/webscrapping.test.ts` | Parser, construtor do rascunho e regras do `fetch` (lista de hosts, redirecionamento, tamanho) |
-| `tests/integration/import.test.ts` | Serviço e endpoint com store em pasta temporária e `fetch` simulado |
+| `webscrapping/webscrapping.test.ts` | Parser, construtor do rascunho (com e sem texto reescrito), chamada à Mistral simulada e regras do `fetch` (lista de hosts, redirecionamento, tamanho) |
+| `tests/integration/import.test.ts` | Serviço e endpoint com store em pasta temporária e `fetch` simulado, inclusive a reescrita e a falha da Mistral |
 | `tests/e2e/import.spec.ts` | Acesso à tela e recusa de endereço fora da lista |
 | `tests/integration/content.test.ts` | O rascunho real e a lista, como todo conteúdo do repositório |
 
-Nenhum teste acessa a rede.
+Nenhum teste acessa a rede nem usa uma chave real.

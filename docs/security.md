@@ -50,7 +50,7 @@ O ativo mais sensível é o build: um post malicioso que passe pelo portão exec
 | A09 Security Logging and Alerting Failures | Em aberto: só `console`, sem alertas |
 | A10 Mishandling of Exceptional Conditions | `respond()` devolve 500 genérico; sem configuração de auth não existe admin |
 
-O Top 10 para aplicações com LLM não se aplica: o projeto não tem recurso de IA.
+LLM (só na importação, `webscrapping/rewrite.ts`): o resumo e o FAQ da página de origem vão para a API da Mistral. O texto da origem é tratado como não confiável (LLM01): o modelo não tem ferramentas nem acesso a nada, e a saída (LLM05) passa por schema, por `clean` (remove `{`, `}`, `<`, `>`, que o mdsvex leria como código), por limites de tamanho e pelas mesmas validações do editor. Uma chamada por importação, com `max_tokens` e tempo limite (LLM10). A chave fica só no servidor; nenhum dado de usuário vai para a Mistral.
 
 ## Segredos
 
