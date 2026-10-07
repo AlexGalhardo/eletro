@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.20] - 2026-10-07
+
+### Fixed
+
+- Build na Vercel: o `opentype.js` (capa da importação) passou a ser importado pelo export padrão, porque o Node carrega a versão CommonJS do pacote, que não tem exports nomeados.
+
 ## [1.0.0-rc.19] - 2026-10-07
 
 ### Changed
@@ -204,7 +210,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.19...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.20...HEAD
+[1.0.0-rc.20]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.19...v1.0.0-rc.20
 [1.0.0-rc.19]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.18...v1.0.0-rc.19
 [1.0.0-rc.18]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.17...v1.0.0-rc.18
 [1.0.0-rc.17]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.16...v1.0.0-rc.17

@@ -14,5 +14,6 @@ declare module "opentype.js" {
 		getPath(x: number, y: number, fontSize: number): { commands: PathCommand[] };
 	};
 	export type Font = { unitsPerEm: number; charToGlyph(char: string): Glyph };
-	export function parse(buffer: ArrayBuffer): Font;
+	const opentype: { parse(buffer: ArrayBuffer): Font };
+	export default opentype;
 }

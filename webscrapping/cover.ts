@@ -1,4 +1,5 @@
-import { type PathCommand, parse } from "opentype.js";
+// Default import: the package has no "exports", so Node loads its CommonJS build, which has no named exports.
+import opentype, { type PathCommand } from "opentype.js";
 import sharp from "sharp";
 import { INTER_BOLD_WOFF_BASE64 } from "./cover-font.ts";
 
@@ -11,7 +12,7 @@ const SLOT_GAP = 30;
 const TEXT_SIZE = 44;
 const MARGIN = 40;
 
-const font = parse(Uint8Array.from(Buffer.from(INTER_BOLD_WOFF_BASE64, "base64")).buffer);
+const font = opentype.parse(Uint8Array.from(Buffer.from(INTER_BOLD_WOFF_BASE64, "base64")).buffer);
 
 /**
  * SVG path of `text` in Inter Bold. The text becomes outlines, so rendering needs no installed font
