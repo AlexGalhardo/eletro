@@ -23,6 +23,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Fixed
 
+- Login pelo GitHub recusava todo mundo com `unable_to_create_user`: o `better-auth` descartava o login do perfil antes da conferência da lista de administradores.
 - Segundo build na Vercel falhava com `ERR_PACKAGE_PATH_NOT_EXPORTED` em `estree-walker`: o `adapter-auto` instalava o adaptador durante o build, por cima do cache.
 - `vercel.json` tinha um bloco de cabeçalhos aninhado fora do schema, que faria a Vercel recusar o deploy.
 
