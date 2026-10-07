@@ -33,7 +33,7 @@
 			<script async src="https://www.googletagmanager.com/gtag/js?id={googleAnalyticsId}"></script>
 		{/if}
 		{#if analytics}
-			{@html `<script>${analytics}</` + "script>"}
+			{@html `<script>${analytics}</${"script"}>`}
 		{/if}
 	{/if}
 </svelte:head>
