@@ -186,6 +186,12 @@ describe("writes", () => {
 			"/api/v1/products/x",
 			{ method: "PUT", body: {}, params: { list: "abc" } },
 		],
+		[
+			"DELETE /products/{list}",
+			productList.DELETE,
+			"/api/v1/products/x?sha=1",
+			{ method: "DELETE", params: { list: "abc" } },
+		],
 		["GET /media", media.GET, "/api/v1/media?folder=covers", {}],
 		["POST /media", media.POST, "/api/v1/media", { method: "POST", form: upload(PNG, "covers") }],
 	] as [string, Handler, string, Options][])(
@@ -235,6 +241,33 @@ describe("writes", () => {
 		expect((await put(undefined)).status).toBe(400);
 		expect((await put("stale")).status).toBe(409);
 		expect((await put(created.json.data.sha)).status).toBe(200);
+	});
+
+	it("deletes a product list, refusing a stale version", async () => {
+		const url = "/api/v1/products";
+		const list = "lista-para-excluir";
+		const created = await call(products.POST, url, {
+			method: "POST",
+			signedIn: true,
+			body: { name: list, products: [product] },
+		});
+		const saved = await call(productList.PUT, `${url}/${list}`, {
+			method: "PUT",
+			signedIn: true,
+			params: { list },
+			body: { sha: created.json.data.sha, products: [product, { ...product, id: "p2" }] },
+		});
+
+		const remove = (query: string, name = list) =>
+			call(productList.DELETE, `${url}/${name}${query}`, {
+				method: "DELETE",
+				signedIn: true,
+				params: { list: name },
+			});
+		expect((await remove("")).status).toBe(400);
+		expect((await remove("?sha=x", "lista-que-nao-existe")).status).toBe(404);
+		expect((await remove(`?sha=${created.json.data.sha}`)).status).toBe(409);
+		expect((await remove(`?sha=${saved.json.data.sha}`)).status).toBe(204);
 	});
 
 	it("runs the whole life of a post: create, conflict, update and delete", async () => {

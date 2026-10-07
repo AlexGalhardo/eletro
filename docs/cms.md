@@ -45,7 +45,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 | `/admin` | Totais de posts por status, listas, assinantes confirmados, itens aguardando deploy e últimos commits de conteúdo |
 | `/admin/posts` | Lista com busca, filtro por status e categoria |
 | `/admin/posts/new`, `/admin/posts/<slug>` | Editor: campos do frontmatter, Markdown com pré-visualização, FAQ, capa, inserção de lista de produtos, exclusão |
-| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem |
+| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem, exclusão da lista inteira (recusada enquanto algum post usa a lista) |
 | `/admin/media` | Imagens de `covers` e `posts`, com upload |
 | `/admin/import` | Importa uma review de um site permitido e cria um rascunho (ver "Importação por web scraping") |
 
