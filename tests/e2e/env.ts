@@ -13,3 +13,9 @@ export const CONTENT_ROOT = path.join(tmpdir(), "sveltekit-blog-cms-e2e");
  */
 export const open = (page: import("@playwright/test").Page, url: string) =>
 	page.goto(url, { waitUntil: "networkidle" });
+
+/** On a phone the dashboard menu sits behind the hamburger button; on a desktop it is always shown. */
+export async function openAdminMenu(page: import("@playwright/test").Page) {
+	const toggle = page.getByRole("button", { name: "Abrir menu" });
+	if (await toggle.isVisible()) await toggle.click();
+}
