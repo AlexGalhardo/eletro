@@ -1,4 +1,5 @@
 import type { ScrapedPost, ScrapedProduct } from "./parse.ts";
+import type { Rewritten } from "./rewrite.ts";
 
 /** The source cannot become a draft as it is. `message` is in Portuguese because it is shown to the editor. */
 export class BuildError extends Error {
@@ -44,6 +45,8 @@ export type BuildOptions = {
 	/** Publication date of the draft, YYYY-MM-DD. */
 	date: string;
 	maxProducts?: number;
+	/** Description, intro and FAQ rewritten by the LLM. Without it, those texts come from the templates. */
+	rewritten?: Rewritten | null;
 };
 
 /** Stands in for every affiliate link until the admin pastes the real one. */
@@ -108,9 +111,9 @@ const specValue = (product: ScrapedProduct, label: string) =>
 
 /**
  * Turns scraped facts into a complete draft. Pure: no network, no clock.
- * Every sentence comes from a template over names and specs. The source prose (intro, descriptions,
- * pros and cons, FAQ) is never copied: that would be a copyright problem and duplicate content for SEO.
- * The text is deliberately generic; the editor is expected to rewrite it before publishing.
+ * Every sentence comes from a template over names and specs, or from `options.rewritten` (the source
+ * summary and FAQ rewritten by an LLM). The source prose is never copied: that would be a copyright
+ * problem and duplicate content for SEO. The editor still reviews the draft before publishing.
  */
 export function buildDraft(scraped: ScrapedPost, options: BuildOptions): Draft {
 	// The source writes "não especificado" for unknown values; a spec without a value says nothing.
@@ -156,7 +159,8 @@ export function buildDraft(scraped: ScrapedPost, options: BuildOptions): Draft {
 		};
 	});
 
-	const faqData = [
+	const rewritten = options.rewritten;
+	const templateFaq = [
 		{
 			question: `Quais modelos de ${topic} aparecem nesta comparação?`,
 			answer: `A lista reúne ${count} modelos: ${names.join("; ")}. Cada um traz a ficha técnica informada pelo fabricante ou pelo vendedor, para comparar lado a lado antes da compra.`,
@@ -169,6 +173,7 @@ export function buildDraft(scraped: ScrapedPost, options: BuildOptions): Draft {
 				.join("; ")}.`,
 		})),
 	];
+	const faqData = rewritten?.faq.length ? rewritten.faq : templateFaq;
 
 	const sections = products.map((product, index) =>
 		[
@@ -179,11 +184,15 @@ export function buildDraft(scraped: ScrapedPost, options: BuildOptions): Draft {
 		].join("\n\n"),
 	);
 
-	const body = [
+	const intro = rewritten?.intro ?? [
 		`Comparar ${topic} pede atenção à ficha técnica, e não só ao preço.`,
 		"Escolher sem conferir medidas, capacidade e tensão costuma terminar em devolução ou em um aparelho que não atende à rotina da casa.",
 		`Esta seleção reúne ${count} modelos, com os dados técnicos de cada um organizados no mesmo formato.`,
 		"Confira os cartões a seguir e, depois, o detalhamento de cada produto.",
+	];
+
+	const body = [
+		...intro,
 		`<CardsTable list="${slug}" />`,
 		"## Ficha técnica de cada modelo",
 		...sections,
@@ -196,9 +205,11 @@ export function buildDraft(scraped: ScrapedPost, options: BuildOptions): Draft {
 		list: slug,
 		post: {
 			title: `Melhor ${titleCase(topic)}: ${count} Modelos em ${year}`,
-			description: `Compare ${count} modelos de ${topic} pela ficha técnica${
-				compared.length > 0 ? `: ${compared.join(" e ").toLowerCase()}` : ""
-			}.`,
+			description:
+				rewritten?.description ??
+				`Compare ${count} modelos de ${topic} pela ficha técnica${
+					compared.length > 0 ? `: ${compared.join(" e ").toLowerCase()}` : ""
+				}.`,
 			date: options.date,
 			category: scraped.section,
 			cover: "",

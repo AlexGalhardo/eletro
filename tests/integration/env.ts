@@ -24,6 +24,7 @@ export function testEnv(overrides: Record<string, unknown> = {}): Record<string,
 		RESEND_FROM_EMAIL: undefined,
 		CONTACT_TO_EMAIL: undefined,
 		CRON_SECRET: undefined,
+		MISTRAL_API_KEY: undefined,
 		...overrides,
 	};
 }

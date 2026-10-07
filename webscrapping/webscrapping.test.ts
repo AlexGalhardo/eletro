@@ -3,6 +3,7 @@ import { BuildError, buildDraft, topicOf } from "./build.ts";
 import { FetchError, fetchLimited, isAllowedUrl } from "./fetch.ts";
 import { FIXTURE_HTML, FIXTURE_URL } from "./fixture.ts";
 import { clean, parsePostHtml } from "./parse.ts";
+import { MISTRAL_URL, RewriteError, rewriteTexts } from "./rewrite.ts";
 
 const HOSTS = ["eletrosinter.com.br"];
 const options = { categories: ["cozinha", "limpeza"], date: "2026-10-06", maxProducts: 7 };
@@ -13,7 +14,14 @@ describe("parsePostHtml", () => {
 	it("reads the headline, the section and every product card in page order", () => {
 		expect(scraped.title).toBe("Melhor torradeira de teste: 9 opções para comprar");
 		expect(scraped.section).toBe("cozinha");
-		expect(scraped.faqCount).toBe(2);
+		expect(scraped.summary).toBe("Resumo de exemplo que nunca deve ir para o rascunho.");
+		expect(scraped.faq).toEqual([
+			{
+				question: "Pergunta de exemplo um?",
+				answer: "Resposta de exemplo que nunca deve ir para o rascunho.",
+			},
+			{ question: "Pergunta de exemplo dois?", answer: "Outra resposta de exemplo." },
+		]);
 		expect(scraped.products).toHaveLength(9);
 		expect(scraped.products.map((product) => product.name).slice(0, 2)).toEqual([
 			"Marca Um T100",
@@ -90,6 +98,20 @@ describe("buildDraft", () => {
 			expect(text).not.toContain(prose);
 	});
 
+	it("uses the rewritten description, intro and FAQ when there are any", () => {
+		const rewritten = {
+			description: "Descrição reescrita.",
+			intro: ["Primeiro parágrafo reescrito.", "Segundo parágrafo reescrito."],
+			faq: [{ question: "Pergunta reescrita?", answer: "Resposta reescrita." }],
+		};
+		const withText = buildDraft(scraped, { ...options, rewritten });
+		expect(withText.post.description).toBe("Descrição reescrita.");
+		expect(withText.post.faqData).toEqual(rewritten.faq);
+		expect(withText.post.body.startsWith("Primeiro parágrafo reescrito.\n\nSegundo")).toBe(true);
+		expect(withText.post.body).toContain("### Pergunta reescrita?\n\nResposta reescrita.");
+		expect(withText.products).toEqual(draft.products);
+	});
+
 	it("refuses a page without products or from a category the site does not have", () => {
 		expect(() => buildDraft({ ...scraped, products: [] }, options)).toThrow(BuildError);
 		expect(() => buildDraft({ ...scraped, section: "jardim" }, options)).toThrow(/jardim/);
@@ -100,6 +122,47 @@ describe("buildDraft", () => {
 		expect(
 			topicOf({ title: "Um título longo demais que não segue o padrão de ranking", url: FIXTURE_URL }),
 		).toBe("torradeira de teste");
+	});
+});
+
+describe("rewriteTexts", () => {
+	afterEach(() => vi.unstubAllGlobals());
+
+	const scraped = parsePostHtml(FIXTURE_HTML, FIXTURE_URL);
+	const reply = (content: unknown, status = 200) =>
+		vi.fn(async (_url: string, _init?: RequestInit) =>
+			Response.json({ choices: [{ message: { content: JSON.stringify(content) } }] }, { status }),
+		);
+
+	it("sends the source summary and FAQ to Mistral and returns the cleaned rewrite", async () => {
+		const fetchMock = reply({
+			description: "Descrição {com} chaves",
+			intro: ["Parágrafo <b>novo</b>."],
+			faq: [{ question: "Pergunta nova?", answer: "Resposta nova." }],
+		});
+		vi.stubGlobal("fetch", fetchMock);
+
+		const result = await rewriteTexts(scraped, "torradeira", "test-key");
+
+		expect(result).toEqual({
+			description: "Descrição com chaves",
+			intro: ["Parágrafo bnovo/b."],
+			faq: [{ question: "Pergunta nova?", answer: "Resposta nova." }],
+		});
+		const [url, init] = fetchMock.mock.calls[0] ?? [];
+		expect(url).toBe(MISTRAL_URL);
+		expect(new Headers(init?.headers).get("authorization")).toBe("Bearer test-key");
+		const sent = JSON.stringify(JSON.parse(String(init?.body)).messages);
+		expect(sent).toContain("Resumo de exemplo");
+		expect(sent).toContain("Pergunta de exemplo dois?");
+	});
+
+	it("fails with a message for the editor on an error status or an unexpected answer", async () => {
+		vi.stubGlobal("fetch", reply({}, 429));
+		await expect(rewriteTexts(scraped, "t", "k")).rejects.toThrow(/429/);
+
+		vi.stubGlobal("fetch", reply({ description: "só isso" }));
+		await expect(rewriteTexts(scraped, "t", "k")).rejects.toThrow(RewriteError);
 	});
 });
 
