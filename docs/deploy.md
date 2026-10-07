@@ -22,13 +22,13 @@ Cada commit na `main`, inclusive os feitos pelo painel, dispara um deploy. É as
 
 ## 1. Hospedagem
 
-O projeto usa `@sveltejs/adapter-auto`, que escolhe o adaptador pela plataforma em que o build roda.
+O projeto usa `@sveltejs/adapter-vercel`. O `adapter-auto` foi trocado porque instalava o adaptador durante o build, e o segundo build na Vercel, com cache, falhava (`ERR_PACKAGE_PATH_NOT_EXPORTED` em `estree-walker`).
 
 **Vercel:** importe o repositório. Framework "SvelteKit", comando de build `bun run build` (ou o padrão), gerenciador Bun. O arquivo `vercel.json` do repositório define os cabeçalhos de segurança e o cache das imagens.
 
-**Netlify:** importe o repositório. Comando de build `bun run build`. O arquivo `static/_headers` faz o papel do `vercel.json`.
+**Netlify:** troque antes o adaptador por `@sveltejs/adapter-netlify` em `vite.config.ts`. Depois importe o repositório, com comando de build `bun run build`. O arquivo `static/_headers` faz o papel do `vercel.json`.
 
-Use Node 24 nas duas (o projeto exige 22.17 ou mais novo).
+Use Node 24 nas duas: é a versão fixada em `engines` do `package.json`.
 
 ## 2. Banco (Neon)
 

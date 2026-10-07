@@ -20,7 +20,7 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 
 | Assunto | Decisão |
 |---|---|
-| Framework | SvelteKit 3 + Svelte 5 (runes) + Vite 8, `adapter-auto` (Vercel e Netlify) |
+| Framework | SvelteKit 3 + Svelte 5 (runes) + Vite 8, `adapter-vercel` (Vercel) |
 | Conteúdo | Arquivos no repositório: `content/posts/*.mdx` (mdsvex) e `content/products/*.json`. Site público pré-renderizado no build |
 | Escrita pelo admin | Commit via API do GitHub com `GITHUB_TOKEN` (token fine-grained restrito a um repositório), assinado com o nome de quem logou; o deploy publica em 1 a 2 min. Em dev e testes, grava no disco local |
 | Autenticação | better-auth com login GitHub, restrito à lista `ADMIN_GITHUB_USERS`; sessões no Postgres |

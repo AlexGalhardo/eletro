@@ -1,4 +1,4 @@
-import adapter from "@sveltejs/adapter-auto";
+import adapter from "@sveltejs/adapter-vercel";
 import { sveltekit } from "@sveltejs/kit/vite";
 import tailwindcss from "@tailwindcss/vite";
 import { mdsvex } from "mdsvex";
@@ -18,7 +18,9 @@ export default defineConfig({
 						? undefined
 						: true,
 			},
-			adapter: adapter(),
+			// The adapter writes symlinks, which Windows refuses without Developer Mode. Only the Vercel
+			// build needs its output: `vite preview` and the e2e tests run from `.svelte-kit/output`.
+			adapter: process.env.VERCEL ? adapter() : undefined,
 			// Order matters: components are injected into the raw Markdown before mdsvex compiles it.
 			preprocess: [injectContentComponents(), mdsvex({ extensions: [".mdx"], smartypants: false })],
 			extensions: [".svelte", ".mdx"],

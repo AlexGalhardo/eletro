@@ -1,0 +1,13 @@
+# Files `vercel deploy` must not upload from a working folder. Git deployments never see them.
+.env
+.env.*
+!.env.example
+.data
+.svelte-kit
+.claude
+node_modules
+graphify-out
+playwright-report
+test-results
+coverage
+static/images/covers/w*/

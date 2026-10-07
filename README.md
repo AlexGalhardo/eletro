@@ -31,7 +31,7 @@ Template open source de blog com CMS, feito em SvelteKit 3. Os posts são arquiv
 
 ## Começando
 
-Requisitos: [Bun](https://bun.sh) 1.4 ou mais novo e Node 22.17 ou mais novo.
+Requisitos: [Bun](https://bun.sh) 1.4 ou mais novo e Node 24.
 
 ```bash
 git clone https://github.com/AlexGalhardo/sveltekit-blog-cms-claude-code.git

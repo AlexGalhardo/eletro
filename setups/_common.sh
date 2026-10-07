@@ -52,7 +52,7 @@ step "Checking Node and Bun"
 
 command -v node >/dev/null 2>&1 || die "Node not found. Install Node 24 LTS (https://nodejs.org) and run again."
 NODE_VERSION="$(node -p process.versions.node)"
-version_ge "$NODE_VERSION" 22.17 || die "Node $NODE_VERSION is too old: the project needs 22.17 or newer."
+[ "${NODE_VERSION%%.*}" = 24 ] || die "Node $NODE_VERSION found: the project runs on Node 24 (see engines in package.json)."
 echo "  node $NODE_VERSION"
 
 export PATH="$HOME/.bun/bin:$PATH"
