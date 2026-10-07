@@ -29,7 +29,7 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 | API REST | `/api/v1`: leitura pública de posts, categorias e produtos; escrita exige sessão de admin |
 | Estilo | Tailwind CSS 4, mesmas classes do site atual; identidade concentrada em `src/lib/site.config.ts` |
 | Qualidade | Vitest (unitário e integração), Playwright (smoke e e2e), svelte-check, Biome v2, markdownlint |
-| Releases | `CHANGELOG.md` em Keep a Changelog; script de release calcula o bump pelos Conventional Commits. Commits `content:` não geram release |
+| Releases | Todo commit é uma release: versão, seção no `CHANGELOG.md` (Keep a Changelog), tag e GitHub Release. `scripts/release.ts` calcula a versão pela mensagem do commit. Commits `content:` do painel ficam de fora |
 | CI/CD | Workflows escritos em `.github/workflows-disabled/` (inativos até o billing do GitHub ser corrigido) |
 
 ---

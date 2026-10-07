@@ -2,7 +2,8 @@
 # How to turn it on: docs/ci-cd.md
 name: Release
 
-# Runs after CI finishes on main, so a version is only cut from a commit that passed every check.
+# Every commit carries its own version (package.json and CHANGELOG.md). This only publishes it, after CI
+# finishes on main, so a tag is only created for a commit that passed every check.
 on:
   workflow_run:
     workflows: [CI]
@@ -18,7 +19,7 @@ concurrency:
 
 jobs:
   release:
-    name: Version, changelog, tag and GitHub Release
+    name: Tag and GitHub Release
     if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push' }}
     runs-on: ubuntu-24.04
     timeout-minutes: 10
@@ -27,26 +28,24 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ref: main
-          # The release script reads every commit since the last tag.
+          ref: ${{ github.event.workflow_run.head_sha }}
           fetch-depth: 0
       - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
         with:
           bun-version: 1.4.2
-      # Commits of type feat, fix or perf (or a breaking change) produce a version; `content:` and the rest do not.
-      - name: Cut the version
-        id: cut
-        run: bun scripts/release.ts --notes "$RUNNER_TEMP/release-notes.md"
-      - name: Commit, tag and publish
-        if: ${{ steps.cut.outputs.version != '' }}
+      # A `content:` commit made by the admin panel keeps the version of the commit before it: nothing to publish.
+      - name: Publish the version of this commit
         env:
-          VERSION: ${{ steps.cut.outputs.version }}
           GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --all --message "chore(release): v$VERSION"
+          VERSION="$(bun --print "require('./package.json').version")"
+          if git rev-parse --verify --quiet "refs/tags/v$VERSION" >/dev/null; then
+            echo "v$VERSION is already published."
+            exit 0
+          fi
+          bun scripts/release.ts --section "$VERSION" --notes "$RUNNER_TEMP/release-notes.md"
           git tag "v$VERSION"
-          # A push made with the workflow token does not start another workflow run, so this cannot loop.
-          git push origin HEAD:main "v$VERSION"
-          gh release create "v$VERSION" --title "v$VERSION" --notes-file "$RUNNER_TEMP/release-notes.md"
+          git push origin "v$VERSION"
+          PRERELEASE=""
+          case "$VERSION" in *-*) PRERELEASE="--prerelease" ;; esac
+          gh release create "v$VERSION" --title "v$VERSION" --notes-file "$RUNNER_TEMP/release-notes.md" $PRERELEASE
