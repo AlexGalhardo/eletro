@@ -38,6 +38,16 @@ export const variables = defineEnvVars({
 		schema: list,
 		description: "Comma-separated GitHub usernames allowed into /admin. Empty means nobody.",
 	},
+	GOOGLE_CLIENT_ID: {
+		schema: optional,
+		description: "Client ID of the Google OAuth client used to sign in.",
+	},
+	GOOGLE_CLIENT_SECRET: { schema: optional, description: "Client secret of the Google OAuth client." },
+	ADMIN_EMAILS: {
+		schema: list,
+		description:
+			"Comma-separated e-mails allowed into /admin through any provider that verifies the address (Google).",
+	},
 	AUTH_TEST_LOGIN_TOKEN: {
 		schema: optional,
 		description:

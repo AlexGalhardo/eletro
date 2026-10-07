@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0-rc.12] - 2026-10-07
+
+### Added
+
+- Login do painel pelo Google, ao lado do GitHub. `ADMIN_EMAILS` lista os e-mails permitidos; só vale e-mail verificado pelo provedor.
+
 ## [1.0.0-rc.11] - 2026-10-06
 
 ### Changed
@@ -160,7 +166,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.11...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.12...HEAD
+[1.0.0-rc.12]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.11...v1.0.0-rc.12
 [1.0.0-rc.11]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.10...v1.0.0-rc.11
 [1.0.0-rc.10]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.9...v1.0.0-rc.10
 [1.0.0-rc.9]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.0-rc.8...v1.0.0-rc.9

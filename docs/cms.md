@@ -28,12 +28,14 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 
 ## Autenticação
 
-- Login só pelo GitHub. O OAuth pede apenas identidade.
-- `ADMIN_GITHUB_USERS` é a lista de usuários permitidos. Quem está fora não ganha conta, e a lista é conferida de novo a cada requisição.
+- Login pelo GitHub e pelo Google. Os dois pedem apenas identidade; cada um aparece em `/admin/login` quando as suas duas variáveis estão definidas.
+- `ADMIN_GITHUB_USERS` é a lista de usuários do GitHub permitidos, e `ADMIN_EMAILS` a de e-mails permitidos (é a que vale para o Google). O e-mail só conta quando o provedor o marca como verificado. Quem está fora não ganha conta, e as listas são conferidas de novo a cada requisição.
+- Login e e-mail não mudam depois de a conta existir: um hook recusa a alteração pelo `update-user`, para ninguém se renomear para dentro da lista.
+- Quem entra pelo Google não tem usuário do GitHub: os commits de conteúdo saem com o nome da pessoa e o endereço `<domínio do site>@users.noreply.github.com`.
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
 - `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
-- `/admin/login` mostra o botão "Entrar com GitHub" ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair".
+- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair".
 - Páginas do painel não carregam os scripts de analytics.
 
 ## Painel

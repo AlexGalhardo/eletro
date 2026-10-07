@@ -58,7 +58,7 @@
 				>
 					Ver site <ExternalLink size={14} aria-hidden="true" />
 				</a>
-				<span class="text-sm text-gray-600 dark:text-gray-400">{data.admin.githubLogin}</span>
+				<span class="text-sm text-gray-600 dark:text-gray-400">{data.admin.githubLogin ?? data.admin.email}</span>
 				<button
 					type="button"
 					onclick={signOut}

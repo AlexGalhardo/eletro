@@ -1,6 +1,7 @@
 import { createHash, timingSafeEqual } from "node:crypto";
 import { json } from "@sveltejs/kit";
 import type { z } from "zod";
+import { site } from "#lib/site.config.ts";
 import type { AdminUser } from "./auth.ts";
 import { type Author, NotFoundError, ValidationError } from "./cms.ts";
 import { ConflictError } from "./store/types.ts";
@@ -45,7 +46,9 @@ export async function respond(run: () => Response | Promise<Response>): Promise<
 export function requireAdmin(locals: { admin: AdminUser | null }): Author {
 	if (!locals.admin) throw new ApiError(401, "unauthorized", "Sign in as an admin to use this endpoint");
 	// The GitHub noreply address: content commits are public and must not carry the private e-mail of the account.
-	return { name: locals.admin.name, email: `${locals.admin.githubLogin}@users.noreply.github.com` };
+	// Someone who signed in with Google has no GitHub username, so their commits are signed by the site.
+	const { name, githubLogin } = locals.admin;
+	return { name, email: `${githubLogin ?? new URL(site.url).hostname}@users.noreply.github.com` };
 }
 
 export function parse<T>(schema: z.ZodType<T>, value: unknown): T {
