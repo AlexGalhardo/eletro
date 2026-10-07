@@ -1,4 +1,5 @@
 import { BuildError, buildDraft, topicOf } from "../../../webscrapping/build.ts";
+import { composeCover } from "../../../webscrapping/cover.ts";
 import { FetchError, fetchLimited, isAllowedUrl } from "../../../webscrapping/fetch.ts";
 import { parsePostHtml } from "../../../webscrapping/parse.ts";
 import { RewriteError, type Rewritten, rewriteTexts } from "../../../webscrapping/rewrite.ts";
@@ -26,8 +27,10 @@ export type ImportResult = {
 	source: string;
 	/** True when the summary and FAQ were rewritten by Mistral; false means the template texts. */
 	rewritten: boolean;
-	/** Why the rewrite did not happen, in Portuguese for the editor. Absent when it did. */
-	rewriteWarning?: string;
+	/** URL of the generated cover, or "" when it could not be made. */
+	cover: string;
+	/** What was skipped (rewrite, cover) and why, in Portuguese for the editor. */
+	warnings: string[];
 };
 
 /**
@@ -38,6 +41,8 @@ export type ImportResult = {
  * add a cleanup step if they pile up.
  * With `mistralApiKey`, the source summary and FAQ are rewritten by Mistral; if that fails, the draft
  * keeps the template texts and the result says why, so a flaky LLM never blocks an import.
+ * The cover is composed from three of the downloaded product photos (`webscrapping/cover.ts`); if that
+ * fails, the draft has no cover and the result says why.
  */
 export async function importPost(
 	store: ContentStore,
@@ -64,10 +69,10 @@ export async function importPost(
 		let draft = buildDraft(scraped, options);
 
 		let rewritten: Rewritten | null = null;
-		let rewriteWarning: string | undefined;
-		if (!mistralApiKey) rewriteWarning = "MISTRAL_API_KEY não configurada: o texto é o modelo genérico.";
+		const warnings: string[] = [];
+		if (!mistralApiKey) warnings.push("MISTRAL_API_KEY não configurada: o texto é o modelo genérico.");
 		else if (!scraped.summary && scraped.faq.length === 0)
-			rewriteWarning = "A origem não tem resumo nem FAQ para reescrever.";
+			warnings.push("A origem não tem resumo nem FAQ para reescrever.");
 		else {
 			try {
 				rewritten = await rewriteTexts(scraped, topicOf(scraped), mistralApiKey);
@@ -75,7 +80,7 @@ export async function importPost(
 			} catch (error) {
 				if (!(error instanceof RewriteError)) throw error;
 				console.warn(`[import] ${error.message}`);
-				rewriteWarning = `${error.message} O rascunho ficou com o texto genérico.`;
+				warnings.push(`${error.message} O rascunho ficou com o texto genérico.`);
 			}
 		}
 
@@ -90,6 +95,7 @@ export async function importPost(
 			]);
 
 		const products = [];
+		const photos: Uint8Array[] = [];
 		for (const [index, product] of draft.products.entries()) {
 			// The image URL comes from the scraped page, so it gets the same allow-list check as the page.
 			if (!product.image || !isAllowedUrl(product.image, imageHosts))
@@ -106,10 +112,30 @@ export async function importPost(
 				author,
 			);
 			products.push({ ...product, image: uploaded.url });
+			photos.push(bytes);
 		}
 
+		let cover = "";
+		let coverBytes: Uint8Array | null = null;
+		try {
+			coverBytes = await composeCover(photos, site.postImport.coverText);
+		} catch (error) {
+			console.warn("[import] cover", error);
+			warnings.push(
+				"Não foi possível montar a capa com as fotos dos produtos. Envie uma capa no editor.",
+			);
+		}
+		if (coverBytes)
+			cover = (
+				await uploadImage(
+					store,
+					{ folder: "covers", filename: `${draft.slug}-cover`, type: "", bytes: coverBytes },
+					author,
+				)
+			).url;
+
 		await saveProductList(store, draft.list, products, author);
-		await savePost(store, draft.slug, draft.post, author);
+		await savePost(store, draft.slug, { ...draft.post, cover }, author);
 
 		return {
 			slug: draft.slug,
@@ -117,7 +143,8 @@ export async function importPost(
 			products: products.length,
 			source: url,
 			rewritten: rewritten !== null,
-			...(rewriteWarning && { rewriteWarning }),
+			cover,
+			warnings,
 		};
 	} catch (error) {
 		if (error instanceof FetchError || error instanceof BuildError)

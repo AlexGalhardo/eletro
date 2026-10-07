@@ -19,7 +19,7 @@
 - Uma capa menor que a largura pedida não ganha cópia ampliada, e uma capa externa (`https://`) não ganha cópia nenhuma: o `srcset` lista só o que existe.
 - Em desenvolvimento não há cópias; a página usa a capa original.
 - O build fica alguns segundos mais lento na primeira vez. Nas seguintes, só as capas novas ou alteradas são processadas.
-- `sharp` é dependência de desenvolvimento: roda no build, nunca no servidor.
+- `sharp` roda no build (cópias das capas) e no servidor, só na importação de posts, para montar a capa gerada (ver [webscrapping-modelation.md](webscrapping-modelation.md)).
 
 ## Lighthouse (celular), 2026-10-06
 

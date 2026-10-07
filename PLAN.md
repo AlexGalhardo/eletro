@@ -180,7 +180,7 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 - [ ] Medir uma importação com o store do GitHub em produção (cerca de 9 commits em sequência) e ajustar o tempo limite da função se preciso
 - [x] Reescrita do resumo e do FAQ com a Mistral (`webscrapping/rewrite.ts`, `MISTRAL_API_KEY`); sem chave ou com falha, fica o texto genérico
 - [ ] Testar a reescrita com a chave real em produção (a rede do ambiente de desenvolvimento bloqueou `api.mistral.ai`)
-- [ ] Capa gerada ou escolhida na importação (hoje fica vazia)
+- [x] Capa gerada na importação: 3 fotos dos produtos sobre fundo claro aleatório, com o endereço do site (`webscrapping/cover.ts`)
 - [ ] Parser para outros sites de origem
 - [ ] Limpeza das fotos órfãs quando a importação falha no meio
 
@@ -324,6 +324,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-06 | `types.ts` (2 mil linhas) e componentes sem uso não migram | Código morto no projeto Next |
 | 2026-10-06 | Importação por scraping com `fetch` + `cheerio` 1.2.0, sem navegador | A origem entrega HTML estático; roda em função serverless da Vercel e da Netlify. Playwright não cabe nesse ambiente |
 | 2026-10-06 | Texto do rascunho importado gerado por modelos, sem copiar a origem | O app não tem LLM; copiar o texto seria problema de direito autoral e conteúdo duplicado para SEO |
+| 2026-10-07 | Capa da importação montada com `sharp` e `opentype.js`, sem API de imagem | Modelos de imagem alteram o produto e erram texto; montagem com código é grátis e igual toda vez |
 | 2026-10-07 | Resumo e FAQ da importação reescritos pela Mistral (`mistral-small-latest`, plano gratuito) | Pedido do dono; a falha da API não bloqueia a importação, o rascunho cai no texto genérico |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
