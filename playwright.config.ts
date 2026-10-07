@@ -34,6 +34,18 @@ export default defineConfig({
 			ADMIN_GITHUB_USERS: ADMIN,
 			AUTH_TEST_LOGIN_TOKEN: LOGIN_TOKEN,
 			CONTENT_ROOT,
+			// Blank on purpose: a developer's .env may point at the real database, repository and mail
+			// account, and the tests must never reach any of them.
+			DATABASE_URL: "",
+			GITHUB_TOKEN: "",
+			GITHUB_REPO: "",
+			RESEND_API_KEY: "",
+			GITHUB_CLIENT_ID: "",
+			GITHUB_CLIENT_SECRET: "",
+			GOOGLE_CLIENT_ID: "",
+			GOOGLE_CLIENT_SECRET: "",
+			ADMIN_EMAILS: "",
+			CRON_SECRET: "",
 		},
 	},
 });
