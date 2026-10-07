@@ -16,5 +16,6 @@
 		images={data.images}
 		deployed={data.deployed}
 		kind={data.kind}
+		usedBy={data.usedBy}
 	/>
 {/key}

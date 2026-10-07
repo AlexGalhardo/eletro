@@ -39,6 +39,8 @@ export type PostStatus = "published" | "scheduled" | "draft" | "invalid";
 export type PostSummary = Pick<Post, "slug" | "title" | "date" | "category" | "author" | "draft"> & {
 	status: PostStatus;
 	sha: string;
+	/** Product lists the body shows with `<CardsTable>`. */
+	lists: string[];
 };
 
 /** A request that cannot be fulfilled as sent. `issues` are safe to show to the editor. */
@@ -109,9 +111,20 @@ export async function listPosts(
 				known.get(entry.sha)?.raw ??
 				decode((await store.read(entry.path))?.bytes ?? new Uint8Array());
 			try {
-				const { post } = parsePost(slug, raw);
+				const { post, body } = parsePost(slug, raw);
 				const { title, date, category, author, draft } = post;
-				return { slug, title, date, category, author, draft, status: statusOf(post), sha: entry.sha };
+				const lists = [...new Set(referencedLists(body))];
+				return {
+					slug,
+					title,
+					date,
+					category,
+					author,
+					draft,
+					status: statusOf(post),
+					sha: entry.sha,
+					lists,
+				};
 			} catch {
 				// Still listed so the editor can open and fix it.
 				return {
@@ -123,6 +136,7 @@ export async function listPosts(
 					draft: true,
 					status: "invalid",
 					sha: entry.sha,
+					lists: [],
 				};
 			}
 		}),
@@ -220,28 +234,56 @@ export async function saveProductList(
 	return { name, sha: result.sha };
 }
 
-/**
- * Removes a whole product list. Refused while a post shows it with `<CardsTable>`: the build would fail
- * on the missing list. ponytail: reads every post to find those users (one request each with the GitHub
- * store); pass the bundled sources, as `listPosts` does, if that gets slow.
- */
-export async function deleteProductList(store: ContentStore, name: string, author: Author, sha: string) {
-	const path = listPath(name);
-	if (!(await store.read(path))) throw new NotFoundError(`Product list "${name}"`);
+/** Slugs of the posts that show each product list, keyed by list name. */
+export function listUsage(posts: Pick<PostSummary, "slug" | "lists">[]): Map<string, string[]> {
+	const usage = new Map<string, string[]>();
+	for (const post of posts)
+		for (const list of post.lists) usage.set(list, [...(usage.get(list) ?? []), post.slug]);
+	return usage;
+}
 
-	const posts = (await store.list(POSTS)).filter((entry) => entry.name.endsWith(".mdx"));
-	const sources = await Promise.all(posts.map((entry) => store.read(entry.path)));
-	const users = posts
-		.filter((_, index) =>
-			referencedLists(decode(sources[index]?.bytes ?? new Uint8Array())).includes(name),
-		)
-		.map((entry) => entry.name.replace(/\.mdx$/, ""));
-	if (users.length > 0)
-		throw new ValidationError([
-			`A lista "${name}" aparece nos posts: ${users.join(", ")}. Tire o <CardsTable list="${name}" /> deles ou exclua os posts antes.`,
-		]);
+/**
+ * Removes a whole product list. The posts that show it lose their `<CardsTable>` and become drafts first,
+ * so nothing is published with its products missing; their slugs are returned. `bundled` is the same
+ * shortcut `listPosts` takes: posts unchanged since the deploy are read from memory.
+ */
+export async function deleteProductList(
+	store: ContentStore,
+	name: string,
+	author: Author,
+	sha: string,
+	bundled?: Map<string, string>,
+): Promise<{ drafted: string[] }> {
+	const path = listPath(name);
+	const file = await store.read(path);
+	if (!file) throw new NotFoundError(`Product list "${name}"`);
+	// Checked before touching any post: a stale version must not unpublish posts and then fail to delete.
+	if (file.sha !== sha) throw new ConflictError(path);
+
+	const drafted = (await listPosts(store, bundled))
+		.filter((post) => post.lists.includes(name))
+		.map((post) => post.slug);
+	// `name` passed the slug pattern, so it has no character that is special in a regular expression.
+	const tag = new RegExp(`<CardsTable\\s+list="${name}"[^>]*>\\s*`, "g");
+	// One at a time: the GitHub store makes a commit per file, and parallel commits to a branch conflict.
+	for (const slug of drafted) {
+		const post = await store.read(postPath(slug));
+		if (!post) continue;
+		const { post: parsed, body } = parsePost(slug, decode(post.bytes));
+		const { slug: _slug, wordCount: _words, readingMinutes: _minutes, ...frontmatter } = parsed;
+		await store.write(
+			post.path,
+			encode(serializePost({ ...frontmatter, draft: true }, body.replace(tag, ""))),
+			{
+				message: `content: unpublish post ${slug} (product list ${name} removed)`,
+				author,
+				sha: post.sha,
+			},
+		);
+	}
 
 	await store.remove(path, { message: `content: remove product list ${name}`, author, sha });
+	return { drafted };
 }
 
 // --- Images -----------------------------------------------------------------------

@@ -16,8 +16,10 @@
 		images: string[];
 		deployed?: boolean;
 		kind: "github" | "local";
+		/** Slugs of the posts that show this list. */
+		usedBy?: string[];
 	};
-	let { name, sha, products, images, deployed = false, kind }: Props = $props();
+	let { name, sha, products, images, deployed = false, kind, usedBy = [] }: Props = $props();
 
 	// Taken once: reloading the page data (deploy polling) must not undo what is being typed.
 	const initial = untrack(() => ({ isNew: !name, products: $state.snapshot(products), sha }));
@@ -78,7 +80,15 @@
 
 	async function remove() {
 		const count = items.length === 1 ? "1 produto" : `${items.length} produtos`;
-		if (!confirm(`Excluir a lista "${name}" com ${count}? Esta ação não pode ser desfeita pelo painel.`))
+		const posts =
+			usedBy.length > 0
+				? ` Os posts que usam a lista (${usedBy.join(", ")}) perdem os cartões de produtos e viram rascunho.`
+				: "";
+		if (
+			!confirm(
+				`Excluir a lista "${name}" com ${count}?${posts} Esta ação não pode ser desfeita pelo painel.`,
+			)
+		)
 			return;
 		saving = true;
 		errors = [];
@@ -106,7 +116,16 @@
 		</div>
 	</div>
 
-	{#if !isNew}<DeployStatus {deployed} {kind} />{/if}
+	{#if !isNew}
+		<DeployStatus {deployed} {kind} />
+		<p class="text-sm text-gray-600 dark:text-gray-400">
+			{#each usedBy as slug, index (slug)}
+				{index > 0 ? ", " : "Usada em: "}<a href="/admin/posts/{slug}" class="underline">{slug}</a>
+			{:else}
+				Nenhum post usa esta lista.
+			{/each}
+		</p>
+	{/if}
 	<Messages {errors} {success} />
 
 	{#if isNew}

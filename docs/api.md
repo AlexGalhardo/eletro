@@ -22,7 +22,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `DELETE /posts/{slug}?sha=` | admin | Exclui o post |
 | `POST /products` | admin | Cria uma lista (`name`, `products`) |
 | `PUT /products/{list}` | admin | Substitui a lista (`sha`, `products`) |
-| `DELETE /products/{list}?sha=` | admin | Exclui a lista; recusada (400) enquanto algum post a usa em `<CardsTable>` |
+| `DELETE /products/{list}?sha=` | admin | Exclui a lista; antes, os posts que a usam perdem o `<CardsTable>` dela e viram rascunho |
 | `GET /media?folder=` | admin | Imagens de `covers` ou `posts` |
 | `POST /media` | admin | Upload multipart (`file`, `folder`) |
 | `POST /newsletter/dispatches` | admin | Coloca o aviso de um post (`slug`) na fila |

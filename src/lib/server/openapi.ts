@@ -240,7 +240,8 @@ export function openApiDocument(version: string): Json {
 				},
 				delete: {
 					summary: "Delete a product list",
-					description: "Refused with 400 while a post shows the list with `<CardsTable>`.",
+					description:
+						"The posts that show the list with `<CardsTable>` lose that tag and become drafts before the list is removed.",
 					...admin,
 					parameters: [query("sha", { type: "string" }, "Version being deleted", true)],
 					responses: {

@@ -77,6 +77,7 @@
 			<tr>
 				<th scope="col" class="px-4 py-2 font-medium">Título</th>
 				<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
+				<th scope="col" class="px-4 py-2 font-medium">Produtos</th>
 				<th scope="col" class="px-4 py-2 font-medium">Data</th>
 				<th scope="col" class="px-4 py-2 font-medium">Status</th>
 			</tr>
@@ -88,6 +89,11 @@
 						<a href="/admin/posts/{post.slug}" class="font-medium hover:underline">{post.title}</a>
 					</td>
 					<td class="px-4 py-2">{post.category}</td>
+					<td class="px-4 py-2">
+						{#each post.lists as list, index (list)}
+							{index > 0 ? ", " : ""}<a href="/admin/products/{list}" class="hover:underline">{list}</a>
+						{/each}
+					</td>
 					<td class="px-4 py-2 whitespace-nowrap">{day(post.date)}</td>
 					<td class="px-4 py-2 whitespace-nowrap">
 						{STATUS[post.status]}{#if !post.deployed}
@@ -96,7 +102,7 @@
 					</td>
 				</tr>
 			{:else}
-				<tr><td colspan="4" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
+				<tr><td colspan="5" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
 			{/each}
 		</tbody>
 	</table>

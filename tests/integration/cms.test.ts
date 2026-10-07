@@ -10,6 +10,7 @@ import {
 	getProductList,
 	listImages,
 	listPosts,
+	listUsage,
 	savePost,
 	saveProductList,
 	slugifyFilename,
@@ -148,18 +149,47 @@ describe("product lists", () => {
 });
 
 describe("deleteProductList", () => {
-	it("deletes a list no post uses, and refuses one a post still shows", async () => {
+	it("turns the posts that show the list into drafts without its cards, then deletes it", async () => {
 		const list = await saveProductList(store, "cafeteiras", [product], author);
-		const created = await savePost(store, "melhor-cafeteira", post, author);
-
-		await expect(deleteProductList(store, "cafeteiras", author, list.sha)).rejects.toThrow(
-			/melhor-cafeteira/,
+		await saveProductList(store, "moedores", [product], author);
+		await savePost(
+			store,
+			"melhor-cafeteira",
+			{
+				...post,
+				body: 'Abertura.\n\n<CardsTable list="cafeteiras" />\n\n<CardsTable list="moedores" />',
+			},
+			author,
 		);
-		expect(await getProductList(store, "cafeteiras")).not.toBeNull();
+		await savePost(store, "sem-lista", { ...post, body: "Só texto." }, author);
 
-		await deletePost(store, "melhor-cafeteira", author, created.sha);
-		await deleteProductList(store, "cafeteiras", author, list.sha);
+		expect(listUsage(await listPosts(store))).toEqual(
+			new Map([
+				["cafeteiras", ["melhor-cafeteira"]],
+				["moedores", ["melhor-cafeteira"]],
+			]),
+		);
+
+		expect(await deleteProductList(store, "cafeteiras", author, list.sha)).toEqual({
+			drafted: ["melhor-cafeteira"],
+		});
+
 		expect(await getProductList(store, "cafeteiras")).toBeNull();
+		const drafted = await getPost(store, "melhor-cafeteira");
+		expect(drafted?.post.draft).toBe(true);
+		expect(drafted?.body).toBe('Abertura.\n\n<CardsTable list="moedores" />');
+		expect((await getPost(store, "sem-lista"))?.post.draft).toBe(false);
+	});
+
+	it("leaves the posts alone when the version of the list is stale", async () => {
+		await saveProductList(store, "cafeteiras", [product], author);
+		await savePost(store, "melhor-cafeteira", post, author);
+
+		await expect(deleteProductList(store, "cafeteiras", author, "stale")).rejects.toBeInstanceOf(
+			ConflictError,
+		);
+		expect((await getPost(store, "melhor-cafeteira"))?.post.draft).toBe(false);
+		expect(await getProductList(store, "cafeteiras")).not.toBeNull();
 	});
 
 	it("answers not found for a list that does not exist", async () => {

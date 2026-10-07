@@ -45,7 +45,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 | `/admin` | Totais de posts por status, listas, assinantes confirmados, itens aguardando deploy e últimos commits de conteúdo |
 | `/admin/posts` | Lista com busca, filtro por status e categoria |
 | `/admin/posts/new`, `/admin/posts/<slug>` | Editor: campos do frontmatter, Markdown com pré-visualização, FAQ, capa, inserção de lista de produtos, exclusão |
-| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem, exclusão da lista inteira (recusada enquanto algum post usa a lista) |
+| `/admin/products`, `/admin/products/new`, `/admin/products/<lista>` | Editor de produtos em formulário: dados, links, vantagens, ficha técnica, ordem, exclusão da lista inteira. A lista de `/admin/products` mostra os posts que usam cada lista e filtra por "Em uso" e "Sem uso"; a de `/admin/posts` mostra as listas de cada post |
 | `/admin/media` | Imagens de `covers` e `posts`, com upload |
 | `/admin/import` | Importa uma review de um site permitido e cria um rascunho (ver "Importação por web scraping") |
 | `/admin/google` | Dados do Search Console e do Analytics dos últimos 28 dias e reenvio do sitemap (ver [google-console-analytics-setup.md](google-console-analytics-setup.md)) |
@@ -54,6 +54,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - O formulário de produtos preserva as chaves que não conhece em cada produto. Id de produto deixado vazio é gerado do nome ao salvar.
 - A pré-visualização do Markdown roda em um `iframe` com `sandbox`: nenhum script do texto executa. Ela não renderiza os cartões de produto, só indica onde a lista entra.
 - **Status do deploy:** o painel compara o hash do arquivo salvo com o do arquivo empacotado no build em execução (`deploy.ts`). Diferente significa "aguardando deploy"; no editor a página se recarrega a cada 20 s até o deploy novo responder. Com o store local o aviso é "aparece no próximo build".
+- Excluir uma lista em uso não é recusado: o serviço `deleteProductList` primeiro tira o `<CardsTable>` dela de cada post que a mostra e grava o post como rascunho (um commit por post, `content: unpublish post ...`), depois remove a lista. A confirmação na tela lista os posts afetados. Para republicar, escolha outra lista no editor do post e desmarque "Rascunho".
 - Limites conhecidos: um post cujo frontmatter não é mais válido aparece na lista como "Com erro" mas não abre no editor (corrija o arquivo no repositório); post excluído que ainda está no ar não entra na contagem "aguardando deploy"; imagem recém-enviada só carrega na biblioteca depois do deploy; os últimos commits só aparecem com o store do GitHub.
 
 ## Importação por web scraping
