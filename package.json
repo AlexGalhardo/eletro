@@ -1,7 +1,7 @@
 {
 	"name": "sveltekit-blog-cms",
 	"description": "Open source blog CMS built with SvelteKit, Markdown content and a web admin dashboard.",
-	"version": "1.0.0-rc.17",
+	"version": "1.0.0-rc.18",
 	"private": true,
 	"license": "MIT",
 	"type": "module",
@@ -44,9 +44,11 @@
 		"fuse.js": "7.5.0",
 		"gray-matter": "4.0.3",
 		"marked": "18.1.0",
+		"opentype.js": "2.0.0",
 		"react": "19.3.0",
 		"react-dom": "19.3.0",
 		"resend": "6.32.0",
+		"sharp": "0.35.5",
 		"zod": "4.6.5"
 	},
 	"devDependencies": {
@@ -65,7 +67,6 @@
 		"husky": "9.1.7",
 		"markdownlint-cli2": "0.23.3",
 		"mdsvex": "0.12.8",
-		"sharp": "0.35.5",
 		"svelte": "5.57.2",
 		"svelte-check": "4.7.6",
 		"tailwindcss": "4.3.3",

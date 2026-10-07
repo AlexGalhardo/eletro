@@ -366,7 +366,7 @@ export function openApiDocument(version: string): Json {
 			"/imports": {
 				post: {
 					summary: "Import a review post from an allowed source site as a draft",
-					description: `Scrapes the page, uploads the photos of the first ${site.postImport.maxProducts} products and stores a product list and a draft post. With MISTRAL_API_KEY set, the source summary and FAQ are rewritten by Mistral. Allowed hosts: ${site.postImport.sourceHosts.join(", ")}.`,
+					description: `Scrapes the page, uploads the photos of the first ${site.postImport.maxProducts} products and stores a product list and a draft post. With MISTRAL_API_KEY set, the source summary and FAQ are rewritten by Mistral. The cover is composed from three product photos. Allowed hosts: ${site.postImport.sourceHosts.join(", ")}.`,
 					...admin,
 					requestBody: body({
 						type: "object",
@@ -376,14 +376,23 @@ export function openApiDocument(version: string): Json {
 					responses: {
 						"201": ok("Draft created", {
 							type: "object",
-							required: ["slug", "list", "products", "source", "rewritten"],
+							required: [
+								"slug",
+								"list",
+								"products",
+								"source",
+								"rewritten",
+								"cover",
+								"warnings",
+							],
 							properties: {
 								slug: { type: "string" },
 								list: { type: "string" },
 								products: { type: "integer" },
 								source: { type: "string" },
 								rewritten: { type: "boolean" },
-								rewriteWarning: { type: "string" },
+								cover: { type: "string" },
+								warnings: { type: "array", items: { type: "string" } },
 							},
 						}),
 						...writeErrors,
