@@ -162,6 +162,10 @@ openssl rand -base64 32
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` | não |
 | `CRON_SECRET` | Segundo valor gerado com `openssl` (mínimo de 32 caracteres) | sim |
 | `MISTRAL_API_KEY` | Opcional: chave da Mistral para reescrever resumo e FAQ em `/admin/import` | sim |
+| `GOOGLE_SERVICE_ACCOUNT_EMAIL` | Opcional: `client_email` da conta de serviço ([google-console-analytics-setup.md](google-console-analytics-setup.md)) | não |
+| `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY` | Opcional: `private_key` da conta de serviço | sim |
+| `GOOGLE_SEARCH_CONSOLE_SITE` | Opcional: `sc-domain:eletroradar` ou `https://example.com/` | não |
+| `GOOGLE_ANALYTICS_PROPERTY_ID` | Opcional: ID numérico da propriedade do GA4 | não |
 
 Login pelo Google (opcional): em <https://console.cloud.google.com/apis/credentials>, crie um **ID do cliente OAuth** do tipo "Aplicativo da Web" com a URI de redirecionamento autorizada `https://example.com/api/auth/callback/google`. Sem `ADMIN_EMAILS` ninguém entra pelo Google: a conta só é aceita quando o e-mail verificado está nessa lista.
 

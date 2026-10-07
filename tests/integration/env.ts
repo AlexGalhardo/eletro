@@ -25,6 +25,10 @@ export function testEnv(overrides: Record<string, unknown> = {}): Record<string,
 		CONTACT_TO_EMAIL: undefined,
 		CRON_SECRET: undefined,
 		MISTRAL_API_KEY: undefined,
+		GOOGLE_SERVICE_ACCOUNT_EMAIL: undefined,
+		GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY: undefined,
+		GOOGLE_SEARCH_CONSOLE_SITE: undefined,
+		GOOGLE_ANALYTICS_PROPERTY_ID: undefined,
 		...overrides,
 	};
 }

@@ -411,6 +411,25 @@ export function openApiDocument(version: string): Json {
 					},
 				},
 			},
+			"/google/sitemap": {
+				post: {
+					summary: "Resubmit the sitemap of the site to Google Search Console",
+					description:
+						"Asks Google to read /sitemap.xml again. Needs the GOOGLE_SERVICE_ACCOUNT_* and GOOGLE_SEARCH_CONSOLE_SITE variables.",
+					...admin,
+					responses: {
+						"200": ok("Sitemap submitted", {
+							type: "object",
+							required: ["sitemap"],
+							properties: { sitemap: { type: "string", format: "uri" } },
+						}),
+						"401": failure("No admin session"),
+						"429": failure("Too many writes from this address"),
+						"502": failure("Google refused the request or did not answer"),
+						"503": failure("The Google variables are not set"),
+					},
+				},
+			},
 			"/contact": {
 				post: {
 					summary: "Send a message through the contact form",

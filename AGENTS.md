@@ -41,6 +41,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/deploy.md`](docs/deploy.md) | Vercel, Netlify, Neon, OAuth App, token de conteúdo, Resend e o que conferir depois do deploy |
 | [`docs/setup-vercel.md`](docs/setup-vercel.md) | Passo a passo completo do deploy na Vercel, com conferência e problemas comuns |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
+| [`docs/google-console-analytics-setup.md`](docs/google-console-analytics-setup.md) | Google Search Console e Analytics em `/admin/google`: conta de serviço, permissões, variáveis e problemas comuns |
 | [`docs/webscrapping-modelation.md`](docs/webscrapping-modelation.md) | Importação de posts por web scraping: resultado do estudo, `webscrapping/`, `/admin/import`, limites |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |
 

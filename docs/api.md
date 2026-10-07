@@ -27,6 +27,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | `POST /media` | admin | Upload multipart (`file`, `folder`) |
 | `POST /newsletter/dispatches` | admin | Coloca o aviso de um post (`slug`) na fila |
 | `POST /newsletter/dispatches/run` | admin ou `CRON_SECRET` | Envia a fila; `GET` faz o mesmo só com o `CRON_SECRET` |
+| `POST /google/sitemap` | admin | Reenvia o `sitemap.xml` ao Google Search Console; 503 sem as variáveis do Google, 502 quando o Google recusa (o motivo vem em `details`). Ver [google-console-analytics-setup.md](google-console-analytics-setup.md) |
 | `POST /imports` | admin | Importa uma review de um site permitido como rascunho (`url`); com `MISTRAL_API_KEY`, reescreve resumo e FAQ (`rewritten`); monta a capa com 3 fotos (`cover`); o que ficou de fora vem em `warnings`. Ver [webscrapping-modelation.md](webscrapping-modelation.md) |
 
 ## Regras

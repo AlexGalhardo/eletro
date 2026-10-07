@@ -95,4 +95,25 @@ export const variables = defineEnvVars({
 		description:
 			"Mistral API key. When set, /admin/import rewrites the source summary and FAQ with Mistral; without it, template texts are used.",
 	},
+
+	// --- Google Search Console and Analytics (/admin/google) ------------------
+	GOOGLE_SERVICE_ACCOUNT_EMAIL: {
+		schema: optional,
+		description:
+			"E-mail of the Google Cloud service account that reads Search Console and Analytics (client_email of its JSON key).",
+	},
+	GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY: {
+		schema: optional,
+		description:
+			"Private key of the service account (private_key of its JSON key), with line breaks or literal \n.",
+	},
+	GOOGLE_SEARCH_CONSOLE_SITE: {
+		schema: optional,
+		description:
+			'Search Console property, exactly as named there: "sc-domain:example.com" or "https://example.com/".',
+	},
+	GOOGLE_ANALYTICS_PROPERTY_ID: {
+		schema: optional,
+		description: "Numeric id of the Google Analytics 4 property (not the G-XXXX measurement id).",
+	},
 });
