@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-10-07
+
+### Changed
+
+- Primeira versão estável: o projeto sai do release candidate. A partir daqui vale o SemVer comum (`feat` sobe a minor, `fix` e os demais tipos sobem a patch).
+
 ## [1.0.0-rc.27] - 2026-10-07
 
 ### Added
@@ -261,7 +267,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.27...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.27...v1.0.0
 [1.0.0-rc.27]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.26...v1.0.0-rc.27
 [1.0.0-rc.26]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.25...v1.0.0-rc.26
 [1.0.0-rc.25]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.0.0-rc.24...v1.0.0-rc.25

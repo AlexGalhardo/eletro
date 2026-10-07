@@ -290,6 +290,8 @@ Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a
 
 #### Pendências conhecidas para a 1.0.0
 
+A `1.0.0` saiu em 2026-10-07 por decisão do dono. Os itens abertos abaixo não a bloquearam e seguem como trabalho das próximas versões.
+
 Dependem do primeiro deploy (lista completa em `docs/deploy.md`):
 
 - [x] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend (Vercel, em 2026-10-06: `https://example.com`)
@@ -348,6 +350,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-07 | Resumo e FAQ da importação reescritos pela Mistral (`mistral-small-latest`, plano gratuito) | Pedido do dono; a falha da API não bloqueia a importação, o rascunho cai no texto genérico |
 | 2026-10-07 | Google pelo painel com conta de serviço, não com o OAuth do login | Sem tela de consentimento, sem token para renovar e sem escopo sensível no login; o acesso é dado ao e-mail da conta dentro do Search Console e do Analytics |
 | 2026-10-07 | Excluir lista em uso despublica os posts em vez de recusar | Pedido do dono; o post vira rascunho sem o `<CardsTable>`, então nada fica no ar com os produtos faltando e toda referência continua apontando para uma lista que existe |
+| 2026-10-07 | Saída do release candidate: `1.0.0` | Decisão do dono, com o site em produção. As "Pendências conhecidas para a 1.0.0" que seguem abertas passam a ser trabalho das próximas versões |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono
