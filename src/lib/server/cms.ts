@@ -36,7 +36,10 @@ export const MAX_IMAGE_BYTES = 4 * 1024 * 1024;
 
 export type Author = Commit["author"];
 export type PostStatus = "published" | "scheduled" | "draft" | "invalid";
-export type PostSummary = Pick<Post, "slug" | "title" | "date" | "category" | "author" | "draft"> & {
+export type PostSummary = Pick<
+	Post,
+	"slug" | "title" | "date" | "category" | "author" | "draft" | "cover"
+> & {
 	status: PostStatus;
 	sha: string;
 	/** Product lists the body shows with `<CardsTable>`. */
@@ -112,7 +115,7 @@ export async function listPosts(
 				decode((await store.read(entry.path))?.bytes ?? new Uint8Array());
 			try {
 				const { post, body } = parsePost(slug, raw);
-				const { title, date, category, author, draft } = post;
+				const { title, date, category, author, draft, cover } = post;
 				const lists = [...new Set(referencedLists(body))];
 				return {
 					slug,
@@ -121,6 +124,7 @@ export async function listPosts(
 					category,
 					author,
 					draft,
+					cover,
 					status: statusOf(post),
 					sha: entry.sha,
 					lists,
@@ -134,6 +138,7 @@ export async function listPosts(
 					category: "",
 					author: "",
 					draft: true,
+					cover: "",
 					status: "invalid",
 					sha: entry.sha,
 					lists: [],
@@ -197,6 +202,32 @@ export async function deletePost(store: ContentStore, slug: string, author: Auth
 export async function listProductLists(store: ContentStore) {
 	const entries = (await store.list(PRODUCTS)).filter((entry) => entry.name.endsWith(".json"));
 	return entries.map((entry) => ({ name: entry.name.replace(/\.json$/, ""), sha: entry.sha }));
+}
+
+/**
+ * Every list with the name and image of its products, for the overview. `bundled` is the shortcut
+ * `listPosts` takes: lists unchanged since the deploy are parsed from memory instead of read one by one.
+ */
+export async function listProductListPreviews(store: ContentStore, bundled = new Map<string, string>()) {
+	const known = new Map([...bundled].map(([, raw]) => [blobSha(encode(raw)), raw]));
+	const lists = await listProductLists(store);
+
+	return Promise.all(
+		lists.map(async (list) => {
+			const raw =
+				known.get(list.sha) ??
+				decode((await store.read(listPath(list.name)))?.bytes ?? new Uint8Array());
+			let products: { name: string; image: string }[] = [];
+			try {
+				products = productListSchema
+					.parse(JSON.parse(raw))
+					.map(({ name, image }) => ({ name, image }));
+			} catch {
+				// A broken file is still listed, without pictures, so it can be opened and fixed.
+			}
+			return { ...list, products };
+		}),
+	);
 }
 
 export async function getProductList(store: ContentStore, name: string) {

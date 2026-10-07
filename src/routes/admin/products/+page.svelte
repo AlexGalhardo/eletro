@@ -42,7 +42,7 @@
 
 <ul class="{ui.card} mt-2 divide-y divide-gray-200 dark:divide-zinc-800">
 	{#each visible as list (list.name)}
-		<li class="flex flex-wrap justify-between gap-x-4 py-2 text-sm">
+		<li class="flex flex-wrap items-center justify-between gap-x-4 gap-y-2 py-3 text-sm">
 			<span>
 				<a href="/admin/products/{list.name}" class="font-medium hover:underline">{list.name}</a>
 				{#if !list.deployed}<span class="text-amber-600 dark:text-amber-400"> · aguardando deploy</span>{/if}
@@ -54,6 +54,21 @@
 					Sem uso
 				{/each}
 			</span>
+			{#if list.products.length > 0}
+				<ul class="flex w-full flex-wrap gap-2" aria-label="Imagens dos produtos de {list.name}">
+					{#each list.products as product, index (index)}
+						<li>
+							<img
+								src={product.image}
+								alt={product.name}
+								title={product.name}
+								loading="lazy"
+								class="h-14 w-14 rounded border border-gray-200 bg-white object-contain dark:border-zinc-800"
+							/>
+						</li>
+					{/each}
+				</ul>
+			{/if}
 		</li>
 	{:else}
 		<li class="py-4 text-center text-sm text-gray-500">Nenhuma lista encontrada.</li>

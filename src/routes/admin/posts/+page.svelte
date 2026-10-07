@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { ExternalLink } from "@lucide/svelte";
 	import { ui } from "#lib/admin/api.ts";
 	import { site } from "#lib/site.config.ts";
 	import { page } from "$app/state";
@@ -75,6 +76,7 @@
 	<table class="w-full text-left text-sm">
 		<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
 			<tr>
+				<th scope="col" class="px-4 py-2 font-medium">Capa</th>
 				<th scope="col" class="px-4 py-2 font-medium">Título</th>
 				<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
 				<th scope="col" class="px-4 py-2 font-medium">Produtos</th>
@@ -86,12 +88,31 @@
 			{#each visible as post (post.slug)}
 				<tr>
 					<td class="px-4 py-2">
+						{#if post.cover}
+							<img
+								src={post.cover}
+								alt=""
+								loading="lazy"
+								class="aspect-video w-28 max-w-none rounded bg-gray-100 object-cover dark:bg-zinc-900"
+							/>
+						{:else}
+							<span class="text-xs text-gray-500">Sem capa</span>
+						{/if}
+					</td>
+					<td class="px-4 py-2">
 						<a href="/admin/posts/{post.slug}" class="font-medium hover:underline">{post.title}</a>
 					</td>
 					<td class="px-4 py-2">{post.category}</td>
 					<td class="px-4 py-2">
-						{#each post.lists as list, index (list)}
-							{index > 0 ? ", " : ""}<a href="/admin/products/{list}" class="hover:underline">{list}</a>
+						{#each post.lists as list (list)}
+							<a
+								href="/admin/products/{list}"
+								target="_blank"
+								rel="noopener"
+								class="{ui.button} my-0.5 px-2 py-1 text-xs whitespace-nowrap"
+							>
+								{list} <ExternalLink size={12} aria-hidden="true" />
+							</a>
 						{/each}
 					</td>
 					<td class="px-4 py-2 whitespace-nowrap">{day(post.date)}</td>
@@ -102,7 +123,7 @@
 					</td>
 				</tr>
 			{:else}
-				<tr><td colspan="5" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
+				<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
 			{/each}
 		</tbody>
 	</table>
