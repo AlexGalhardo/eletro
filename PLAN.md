@@ -178,7 +178,8 @@ Objetivo: publicar e manter o blog inteiro pelo navegador.
 - [x] Testes: unitários do parser, do construtor e do `fetch` com página sintética; integração do serviço e do endpoint com store em pasta temporária e `fetch` simulado; e2e da tela (acesso e recusa de endereço)
 - [x] Um rascunho real criado pelo próprio importador: `content/posts/melhor-lava-loucas-portatil.mdx`
 - [ ] Medir uma importação com o store do GitHub em produção (cerca de 9 commits em sequência) e ajustar o tempo limite da função se preciso
-- [ ] Reescrita do texto com um LLM (decisão do dono: exige chave de API e tem custo)
+- [x] Reescrita do resumo e do FAQ com a Mistral (`webscrapping/rewrite.ts`, `MISTRAL_API_KEY`); sem chave ou com falha, fica o texto genérico
+- [ ] Testar a reescrita com a chave real em produção (a rede do ambiente de desenvolvimento bloqueou `api.mistral.ai`)
 - [ ] Capa gerada ou escolhida na importação (hoje fica vazia)
 - [ ] Parser para outros sites de origem
 - [ ] Limpeza das fotos órfãs quando a importação falha no meio
@@ -284,7 +285,7 @@ Dependem de decisão do dono:
 - [ ] Clarity só depois do aceite no banner de cookies, ou fora do site: é o que reprova boas práticas no Lighthouse
 - [ ] CSP (exige mover os scripts embutidos e testar o analytics)
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado (leva `mdsvex` para produção)
-- [ ] Reescrita do texto importado com LLM; convenção dos links `#`; uso das fotos do CDN da Amazon
+- [ ] Convenção dos links `#`; uso das fotos do CDN da Amazon
 - [ ] Ativar os workflows de CI e release (billing do GitHub)
 - [ ] Revisar o texto da Política de Privacidade sobre a newsletter
 
@@ -323,6 +324,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-06 | `types.ts` (2 mil linhas) e componentes sem uso não migram | Código morto no projeto Next |
 | 2026-10-06 | Importação por scraping com `fetch` + `cheerio` 1.2.0, sem navegador | A origem entrega HTML estático; roda em função serverless da Vercel e da Netlify. Playwright não cabe nesse ambiente |
 | 2026-10-06 | Texto do rascunho importado gerado por modelos, sem copiar a origem | O app não tem LLM; copiar o texto seria problema de direito autoral e conteúdo duplicado para SEO |
+| 2026-10-07 | Resumo e FAQ da importação reescritos pela Mistral (`mistral-small-latest`, plano gratuito) | Pedido do dono; a falha da API não bloqueia a importação, o rascunho cai no texto genérico |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono
@@ -332,4 +334,4 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 - [x] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
-- [ ] Decidir se a importação ganha uma etapa de reescrita com LLM (chave de API e custo por post)
+- [ ] Cadastrar `MISTRAL_API_KEY` na Vercel e fazer uma importação de teste

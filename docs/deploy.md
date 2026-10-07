@@ -85,6 +85,7 @@ Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas e
 | `RESEND_FROM_EMAIL` | `Nome <no-reply@seu-dominio>` |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` |
 | `CRON_SECRET` | `openssl rand -base64 32` (no mínimo 32 caracteres) |
+| `MISTRAL_API_KEY` | Opcional: chave da Mistral (<https://console.mistral.ai/api-keys>, plano gratuito serve) para reescrever resumo e FAQ na importação |
 
 Não defina `AUTH_TEST_LOGIN_TOKEN` nem `PGLITE_DIR` em produção. O login de testes já é ignorado quando existe `DATABASE_URL`, mas a variável não tem motivo para estar lá.
 

@@ -8,6 +8,7 @@ import { importPost } from "../../src/lib/server/post-import.ts";
 import { createLocalStore } from "../../src/lib/server/store/local.ts";
 import * as imports from "../../src/routes/api/v1/imports/+server.ts";
 import { FIXTURE_HTML, FIXTURE_URL } from "../../webscrapping/fixture.ts";
+import { MISTRAL_URL } from "../../webscrapping/rewrite.ts";
 
 // The route writes through getStore(), which reads CONTENT_ROOT: a scratch folder, never the repository.
 const root = await vi.hoisted(async () => {
@@ -29,10 +30,11 @@ const JPEG = new Uint8Array([0xff, 0xd8, 0xff, 0xe0, 1, 2, 3]);
 const SLUG = "melhor-torradeira-de-teste";
 
 /** The source site as the import sees it: one page and its product photos. Nothing here touches the network. */
-function fakeSite(page = FIXTURE_HTML) {
+function fakeSite(page = FIXTURE_HTML, mistral?: () => Response) {
 	const calls: string[] = [];
 	vi.stubGlobal("fetch", async (url: string) => {
 		calls.push(url);
+		if (url === MISTRAL_URL && mistral) return mistral();
 		if (url === FIXTURE_URL) return new Response(page, { headers: { "content-type": "text/html" } });
 		if (url.startsWith("https://m.media-amazon.com/")) return new Response(JPEG);
 		return new Response("not found", { status: 404 });
@@ -51,7 +53,9 @@ describe("importPost", () => {
 
 		const result = await importPost(createLocalStore(root), FIXTURE_URL, author, new Date("2026-10-06"));
 
-		expect(result).toEqual({ slug: SLUG, list: SLUG, products: 7, source: FIXTURE_URL });
+		expect(result).toMatchObject({ slug: SLUG, list: SLUG, products: 7, source: FIXTURE_URL });
+		expect(result.rewritten).toBe(false);
+		expect(result.rewriteWarning).toMatch(/MISTRAL_API_KEY/);
 		// One page plus the photos of the first seven products, and nothing else.
 		expect(calls).toHaveLength(8);
 
@@ -78,6 +82,40 @@ describe("importPost", () => {
 		expect(post).toMatchObject({ draft: true, cover: "", category: "cozinha", ref: FIXTURE_URL });
 		expect(body).toContain(`<CardsTable list="${SLUG}" />`);
 		expect(body).not.toContain("nunca deve ir");
+	});
+
+	it("stores the summary and FAQ rewritten by Mistral when there is a key", async () => {
+		const rewrite = {
+			description: "Descrição reescrita pela IA.",
+			intro: ["Introdução reescrita pela IA."],
+			faq: [{ question: "Pergunta reescrita?", answer: "Resposta reescrita." }],
+		};
+		const calls = fakeSite(FIXTURE_HTML, () =>
+			Response.json({ choices: [{ message: { content: JSON.stringify(rewrite) } }] }),
+		);
+
+		const result = await importPost(createLocalStore(root), FIXTURE_URL, author, new Date(), "key");
+
+		expect(result).toMatchObject({ rewritten: true, products: 7 });
+		expect(result.rewriteWarning).toBeUndefined();
+		expect(calls.filter((url) => url === MISTRAL_URL)).toHaveLength(1);
+		const { post, body } = parsePost(
+			SLUG,
+			await readFile(path.join(root, `content/posts/${SLUG}.mdx`), "utf8"),
+		);
+		expect(post).toMatchObject({ description: rewrite.description, faqData: rewrite.faq, draft: true });
+		expect(body).toContain("Introdução reescrita pela IA.");
+		expect(body).not.toContain("nunca deve ir");
+	});
+
+	it("keeps the template text and says why when Mistral fails", async () => {
+		fakeSite(FIXTURE_HTML, () => new Response("rate limited", { status: 429 }));
+
+		const result = await importPost(createLocalStore(root), FIXTURE_URL, author, new Date(), "key");
+
+		expect(result).toMatchObject({ rewritten: false, products: 7 });
+		expect(result.rewriteWarning).toMatch(/429/);
+		expect(await files("content/posts")).toEqual([`${SLUG}.mdx`]);
 	});
 
 	it("refuses a second import of the same page before writing anything", async () => {
