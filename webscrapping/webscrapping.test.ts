@@ -3,7 +3,7 @@ import { BuildError, buildDraft, topicOf } from "./build.ts";
 import { FetchError, fetchLimited, isAllowedUrl } from "./fetch.ts";
 import { FIXTURE_HTML, FIXTURE_URL } from "./fixture.ts";
 import { clean, parsePostHtml } from "./parse.ts";
-import { MISTRAL_URL, RewriteError, rewriteTexts } from "./rewrite.ts";
+import { MISTRAL_MODELS, MISTRAL_URL, RewriteError, rewriteTexts } from "./rewrite.ts";
 
 const HOSTS = ["eletrosinter.com.br"];
 const options = { categories: ["cozinha", "limpeza"], date: "2026-10-06", maxProducts: 7 };
@@ -155,6 +155,20 @@ describe("rewriteTexts", () => {
 		const sent = JSON.stringify(JSON.parse(String(init?.body)).messages);
 		expect(sent).toContain("Resumo de exemplo");
 		expect(sent).toContain("Pergunta de exemplo dois?");
+	});
+
+	it("falls back to the next model when the plan has no quota for the first", async () => {
+		const answer = { description: "Descrição", intro: ["Parágrafo."], faq: [] };
+		const models: string[] = [];
+		vi.stubGlobal("fetch", async (_url: string, init?: RequestInit) => {
+			models.push(JSON.parse(String(init?.body)).model);
+			return models.length === 1
+				? Response.json({ message: "Rate limit exceeded" }, { status: 429 })
+				: Response.json({ choices: [{ message: { content: JSON.stringify(answer) } }] });
+		});
+
+		expect(await rewriteTexts(scraped, "torradeira", "test-key")).toEqual(answer);
+		expect(models).toEqual(MISTRAL_MODELS);
 	});
 
 	it("fails with a message for the editor on an error status or an unexpected answer", async () => {
