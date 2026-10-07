@@ -55,6 +55,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - A pré-visualização do Markdown roda em um `iframe` com `sandbox`: nenhum script do texto executa. Ela não renderiza os cartões de produto, só indica onde a lista entra.
 - **Status do deploy:** o painel compara o hash do arquivo salvo com o do arquivo empacotado no build em execução (`deploy.ts`). Diferente significa "aguardando deploy"; no editor a página se recarrega a cada 20 s até o deploy novo responder. Com o store local o aviso é "aparece no próximo build".
 - Excluir uma lista em uso não é recusado: o serviço `deleteProductList` primeiro tira o `<CardsTable>` dela de cada post que a mostra e grava o post como rascunho (um commit por post, `content: unpublish post ...`), depois remove a lista. A confirmação na tela lista os posts afetados. Para republicar, escolha outra lista no editor do post e desmarque "Rascunho".
+- Os campos de imagem dos dois editores (`ImageField.svelte`) mostram a imagem renderizada. Logo depois de um envio a pré-visualização vem do arquivo escolhido no navegador, porque o arquivo só passa a ser servido pelo site depois do deploy.
 - Limites conhecidos: um post cujo frontmatter não é mais válido aparece na lista como "Com erro" mas não abre no editor (corrija o arquivo no repositório); post excluído que ainda está no ar não entra na contagem "aguardando deploy"; imagem recém-enviada só carrega na biblioteca depois do deploy; os últimos commits só aparecem com o store do GitHub.
 
 ## Importação por web scraping

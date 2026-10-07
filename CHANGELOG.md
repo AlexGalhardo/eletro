@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-10-07
+
+### Added
+
+- Editor de post e editor de lista de produtos: a capa e a foto de cada produto aparecem renderizadas abaixo do campo do endereço. Uma imagem recém-enviada é mostrada na hora, a partir do arquivo escolhido; se o endereço não carregar, o campo avisa.
+
 ## [1.1.0] - 2026-10-07
 
 ### Added
@@ -308,7 +314,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...v1.1.0
 [1.0.6]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.4...v1.0.5

@@ -3,8 +3,11 @@ import path from "node:path";
 import { expect, test } from "@playwright/test";
 import { ADMIN, CONTENT_ROOT, LOGIN_TOKEN, open } from "./env.ts";
 
-// Only the signature matters: the server recognises the format from the first bytes.
-const PNG = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 1, 2, 3]);
+// A real one-pixel PNG: the server only reads the signature, but the editor renders what was sent.
+const PNG = Buffer.from(
+	"iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+	"base64",
+);
 const image = (name: string) => ({ name, mimeType: "image/png", buffer: PNG });
 
 test("an admin publishes a new review using only the browser", async ({ page }, testInfo) => {
@@ -71,6 +74,11 @@ test("an admin publishes a new review using only the browser", async ({ page }, 
 			buffer: PNG,
 		});
 		await expect(field("Capa")).toHaveValue(`/images/covers/capa-${id}.png`);
+		// The file is not deployed yet: the preview comes from the copy the browser just sent.
+		await expect(page.getByRole("img", { name: "Pré-visualização: Capa" })).toHaveAttribute(
+			"src",
+			/^blob:/,
+		);
 
 		await field("Conteúdo (Markdown)").fill("## Abertura\n\nTexto da review.");
 		await field("Lista de produtos").selectOption(list);
