@@ -1,6 +1,6 @@
 import { type APIRequestContext, expect, test } from "@playwright/test";
 
-import { ADMIN, open, LOGIN_TOKEN as TOKEN } from "./env.ts";
+import { ADMIN, open, openAdminMenu, LOGIN_TOKEN as TOKEN } from "./env.ts";
 
 const login = (request: APIRequestContext, githubLogin = ADMIN, token = TOKEN) =>
 	request.post("/api/test/login", { data: { token, githubLogin } });
@@ -47,6 +47,7 @@ test.describe("admin access", () => {
 		await page.goto("/admin/login");
 		await expect(page).toHaveURL("/admin");
 		await expect(page.getByRole("heading", { name: "Painel" })).toBeVisible();
+		await openAdminMenu(page);
 		await expect(page.getByText(ADMIN, { exact: true })).toBeVisible();
 
 		await page.getByRole("button", { name: "Sair" }).click();
@@ -62,11 +63,30 @@ test.describe("admin access", () => {
 
 		const html = page.locator("html");
 		await expect(html).not.toHaveClass(/dark/);
+		await openAdminMenu(page);
 		await page.getByRole("button", { name: "Alternar tema" }).click();
 		await expect(html).toHaveClass(/dark/);
 
 		await page.reload();
 		await expect(html).toHaveClass(/dark/);
+	});
+
+	test("on a phone the menu opens from the hamburger button and closes after navigating", async ({
+		page,
+		isMobile,
+	}) => {
+		test.skip(!isMobile, "The hamburger button only exists on small screens");
+		expect((await login(page.request)).status()).toBe(200);
+		await open(page, "/admin");
+
+		const menu = page.getByRole("navigation", { name: "Painel" });
+		await expect(menu).toBeHidden();
+		await page.getByRole("button", { name: "Abrir menu" }).click();
+		await expect(menu).toBeVisible();
+
+		await menu.getByRole("link", { name: "Produtos" }).click();
+		await expect(page).toHaveURL("/admin/products");
+		await expect(menu).toBeHidden();
 	});
 });
 
