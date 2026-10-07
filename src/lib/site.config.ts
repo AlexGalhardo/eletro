@@ -44,6 +44,7 @@ export const site = {
 		{ id: "moveis", label: "Móveis", icon: "sofa" },
 		{ id: "lavanderia", label: "Lavanderia", icon: "washing-machine" },
 		{ id: "cozinha", label: "Cozinha", icon: "utensils-crossed" },
+		{ id: "cuidados-pessoais", label: "Cuidados Pessoais", icon: "sparkles" },
 	],
 
 	authors: {
