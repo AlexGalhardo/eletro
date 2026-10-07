@@ -1,6 +1,8 @@
 <script lang="ts">
-	import { ExternalLink, LogOut } from "@lucide/svelte";
+	import { ExternalLink, LogOut, Moon, Sun } from "@lucide/svelte";
+	import { onMount } from "svelte";
 	import { site } from "#lib/site.config.ts";
+	import { syncTheme, theme, toggleTheme } from "#lib/theme.svelte.ts";
 	import { page } from "$app/state";
 
 	let { data, children } = $props();
@@ -13,6 +15,13 @@
 		{ href: "/admin/newsletter", label: "Newsletter" },
 		{ href: "/admin/import", label: "Importar" },
 	];
+
+	// The same preference as the public site: one choice, stored once, for both.
+	let mounted = $state(false);
+	onMount(() => {
+		syncTheme();
+		mounted = true;
+	});
 
 	const isCurrent = (href: string) =>
 		href === "/admin" ? page.url.pathname === href : page.url.pathname.startsWith(href);
@@ -59,6 +68,16 @@
 					Ver site <ExternalLink size={14} aria-hidden="true" />
 				</a>
 				<span class="text-sm text-gray-600 dark:text-gray-400">{data.admin.githubLogin ?? data.admin.email}</span>
+				<button
+					type="button"
+					onclick={toggleTheme}
+					aria-label="Alternar tema"
+					class="flex h-8 w-8 items-center justify-center rounded-md border border-gray-300 hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-800"
+				>
+					{#if mounted}
+						{#if theme.dark}<Sun size={16} aria-hidden="true" />{:else}<Moon size={16} aria-hidden="true" />{/if}
+					{/if}
+				</button>
 				<button
 					type="button"
 					onclick={signOut}
