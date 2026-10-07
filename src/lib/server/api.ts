@@ -4,7 +4,7 @@ import type { z } from "zod";
 import { site } from "#lib/site.config.ts";
 import type { AdminUser } from "./auth.ts";
 import { type Author, NotFoundError, ValidationError } from "./cms.ts";
-import { ConflictError } from "./store/types.ts";
+import { ConflictError, StoreUnavailableError } from "./store/types.ts";
 
 /** Every error of the REST API has this body, whatever the endpoint. */
 export type ApiErrorBody = { error: { code: string; message: string; details?: string[] } };
@@ -36,6 +36,10 @@ export async function respond(run: () => Response | Promise<Response>): Promise<
 			return fail(400, "validation_failed", "The content is not valid", error.issues);
 		if (error instanceof NotFoundError) return fail(404, "not_found", error.message);
 		if (error instanceof ConflictError) return fail(409, "conflict", error.message);
+		if (error instanceof StoreUnavailableError) {
+			console.error("[api] content store unavailable", error.cause);
+			return fail(503, "content_store_unavailable", error.message);
+		}
 
 		console.error("[api] unexpected error", error);
 		return fail(500, "internal_error", "Unexpected error");

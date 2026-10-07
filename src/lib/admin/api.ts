@@ -29,6 +29,7 @@ export async function api<T = unknown>(method: string, path: string, body?: unkn
 		401: "Sua sessão expirou. Entre de novo.",
 		409: "Este conteúdo foi alterado por outra pessoa ou já existe. Recarregue a página e tente de novo.",
 		429: "Muitas alterações em pouco tempo. Aguarde um minuto.",
+		503: "O painel não consegue gravar neste servidor: faltam GITHUB_TOKEN e GITHUB_REPO nas variáveis de ambiente.",
 	};
 	throw new RequestError(
 		response.status,
