@@ -1,7 +1,7 @@
 {
 	"name": "sveltekit-blog-cms",
 	"description": "Open source blog CMS built with SvelteKit, Markdown content and a web admin dashboard.",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"private": true,
 	"license": "MIT",
 	"type": "module",

@@ -85,7 +85,7 @@ Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas e
 | `RESEND_FROM_EMAIL` | `Nome <no-reply@seu-dominio>` |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` |
 | `CRON_SECRET` | `openssl rand -base64 32` (no mínimo 32 caracteres) |
-| `LINKS_DASHBOARD_TOKEN` | Obrigatório em produção: token do projeto no dashboard de links. Sem ele o build de produção falha. Ver [affiliate-links.md](affiliate-links.md) |
+| `LINKS_DASHBOARD_TOKEN` | Obrigatório em produção: chave do dashboard de links (a mesma em todos os sites). Sem ele o build de produção falha. Ver [affiliate-links.md](affiliate-links.md) |
 | `MISTRAL_API_KEY` | Opcional: chave da Mistral (<https://console.mistral.ai/api-keys>, plano gratuito serve) para reescrever resumo e FAQ na importação |
 | `GOOGLE_SERVICE_ACCOUNT_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`, `GOOGLE_SEARCH_CONSOLE_SITE`, `GOOGLE_ANALYTICS_PROPERTY_ID` | Opcionais: dados do Search Console e do Analytics em `/admin/google` (passo a passo em [google-console-analytics-setup.md](google-console-analytics-setup.md)) |
 

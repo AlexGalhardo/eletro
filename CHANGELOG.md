@@ -6,6 +6,17 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.5.0] - 2026-10-11
+
+### Added
+
+- Os botões de loja caem para o endereço direto da loja quando o dashboard de links não responde (consulta a `/health` ao abrir a página).
+
+### Changed
+
+- O build se identifica no dashboard de links pelo endereço do site e usa a chave única do dashboard; o projeto é criado lá no primeiro build. `LINKS_DASHBOARD_TOKEN` passa a ser essa chave.
+- Hooks do git: `pre-commit` roda a checagem de tipos e `pre-push` roda tipos, lint e testes.
+
 ## [1.4.0] - 2026-10-11
 
 ### Added
@@ -335,7 +346,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.0...HEAD
+[1.5.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...v1.2.0

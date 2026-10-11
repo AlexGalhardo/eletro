@@ -8,8 +8,9 @@ O contrato completo (endpoints, respostas, regras) está no repositório do dash
 
 1. O painel `/admin` (ou um commit direto) grava a lista de produtos em `content/products/*.json`, com o endereço real da loja em `mercadolivreUrl`, `shopeeUrl` e `amazonUrl`.
 2. Todo build roda `scripts/sync-links.ts` antes do `vite build`. O script lê os posts publicados, monta o catálogo e envia tudo ao dashboard com `PUT /api/v1/links`.
-3. Se o dashboard recusar, estiver fora do ar ou o token estiver errado, o build falha e o site continua na versão anterior. Nenhuma página vai ao ar com link que o dashboard não conhece.
+3. Se o dashboard recusar, estiver fora do ar ou a chave estiver errada, o build falha e o site continua na versão anterior. Nenhuma página vai ao ar com link que o dashboard não conhece.
 4. O `CardsTable` renderiza cada botão como `<dashboard>/link?id=<id do produto>&store=<loja>`.
+5. Ao abrir a página, o navegador consulta `<dashboard>/health`. Sem resposta (ou com erro) em 4 segundos, todos os botões passam a apontar direto para o endereço da loja. A venda não depende do dashboard; só a contagem do clique.
 
 ## Identidade de um produto
 
@@ -40,14 +41,14 @@ O envio é uma sincronização completa: o que saiu do site é removido do dashb
 | Onde | Valor |
 |---|---|
 | `site.linksDashboardUrl` | Endereço do dashboard. Público, fica no código |
-| `LINKS_DASHBOARD_TOKEN` | Token do projeto, gerado no dashboard em Projetos → "Gerar token da API". Só no provedor de deploy, nunca no repositório |
+| `LINKS_DASHBOARD_TOKEN` | Chave do dashboard (o valor de `LINKS_API_KEY` dele), a mesma para todos os sites. Só no provedor de deploy, nunca no repositório |
 
-Sem o token:
+Sem a chave:
 
 - Build de produção na Vercel (`VERCEL_ENV=production`): falha.
 - Qualquer outro build (local, testes, preview): o catálogo é validado e nada é enviado.
 
-O dashboard só aceita links de um projeto cujo site responde. Em um site novo, publique primeiro uma versão sem posts, crie o projeto no dashboard com a URL do site e só então defina o token.
+O site se identifica pelo próprio endereço (`site.url`) e o dashboard cria o projeto dele no primeiro build: não há cadastro manual. O dashboard só aceita links de um site que responde, então um site novo precisa do primeiro deploy no ar antes de definir a chave (sem ela, o build de preview passa e o de produção não).
 
 ## Exportar para o dashboard
 
@@ -62,7 +63,7 @@ O uso normal não depende disso: o build já sincroniza. A exportação serve pa
 
 ## Reusar em outro site
 
-Troque `site.url`, `site.linksDashboardUrl` e `site.fallbackAffiliateUrl`, crie o projeto no dashboard e defina `LINKS_DASHBOARD_TOKEN` no deploy. `src/lib/affiliate-links.ts` é o mesmo arquivo em todos os sites.
+Troque `site.url` e `site.fallbackAffiliateUrl` e defina `LINKS_DASHBOARD_TOKEN` no deploy. O projeto aparece no dashboard sozinho. `src/lib/affiliate-links.ts` é o mesmo arquivo em todos os sites.
 
 ## Comandos
 
@@ -72,6 +73,7 @@ bun run sync-links   # valida o catálogo; com LINKS_DASHBOARD_TOKEN definido, e
 
 ## Limites conhecidos
 
-- Com o dashboard fora do ar, nenhum botão de loja funciona e nenhum build passa.
+- Com o dashboard fora do ar, nenhum build de produção passa. Os botões seguem funcionando, direto para a loja, sem contar cliques.
+- O endereço real da loja continua nos dados da página (é o que permite o desvio).
 - O registro acontece no build, não no clique em "Salvar" do painel. Um link salvo que o dashboard recusa aparece como deploy que não termina; o motivo está no log do build.
 - Links de loja escritos direto no texto do post não passam pelo dashboard. Não os use.

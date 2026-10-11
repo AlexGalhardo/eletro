@@ -52,7 +52,12 @@ async function main(): Promise<number> {
 	}
 
 	try {
-		const summary = await syncCatalogue({ dashboardUrl: site.linksDashboardUrl, token, products });
+		const summary = await syncCatalogue({
+			dashboardUrl: site.linksDashboardUrl,
+			siteUrl: site.url,
+			token,
+			products,
+		});
 		console.log(
 			`Links sincronizados com ${site.linksDashboardUrl}: ${products.length} produtos ` +
 				`(${summary.productsCreated} novos, ${summary.productsUpdated} atualizados, ` +
