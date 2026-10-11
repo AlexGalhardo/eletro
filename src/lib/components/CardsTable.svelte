@@ -1,8 +1,9 @@
 <script lang="ts">
 	import { getContext, onMount } from "svelte";
-	import { isAffiliateUrl, storeLinks } from "#lib/affiliate-links.ts";
+	import { isAffiliateUrl, isDashboardUp, type Store, storeLinks } from "#lib/affiliate-links.ts";
 	import { fallbackHref, productHref } from "#lib/content/affiliate.ts";
 	import type { Product } from "#lib/content/schema.ts";
+	import { site } from "#lib/site.config.ts";
 	import Icon from "./Icon.svelte";
 
 	const MAX_PRODUCTS = 10;
@@ -34,6 +35,20 @@
 		order = ids;
 	});
 
+	// Links go through the links dashboard while it answers. If its health check fails in the browser they
+	// go straight to the store: an outage costs the click count, never the sale.
+	let dashboardDown = $state(false);
+	onMount(async () => {
+		dashboardDown = !(await isDashboardUp(site.linksDashboardUrl));
+	});
+
+	/** Address of a store button, or of the first store with a link. Without one, the site offer. */
+	function href(product: Product, store?: Store): string {
+		const link = storeLinks(product).find((candidate) => !store || candidate.store === store);
+		if (!link) return dashboardDown ? site.fallbackAffiliateUrl : fallbackHref;
+		return dashboardDown ? link.url : productHref(postSlug?.() ?? "", product.id, link.store);
+	}
+
 	const storeButton =
 		"inline-flex items-center justify-center gap-2 no-underline hover:no-underline py-2.5 px-5 max-[480px]:py-2 max-[480px]:px-4 rounded text-[0.8rem] max-[480px]:text-xs font-semibold transition-all duration-75 cursor-pointer w-full text-center whitespace-nowrap hover:translate-y-0.5 active:translate-y-1 focus:outline focus:outline-blue-600 focus:outline-offset-2";
 
@@ -51,10 +66,7 @@
 {:else}
 	<div class="my-2.5 flex flex-col gap-6" data-testid="cards-table">
 		{#each products as product (product.id)}
-			{@const slug = postSlug?.() ?? ""}
-			{@const firstStore = storeLinks(product)[0]?.store}
-			<!-- Every link goes through the links dashboard; a product without a store link uses the site offer. -->
-			{@const priorityUrl = firstStore ? productHref(slug, product.id, firstStore) : fallbackHref}
+			{@const priorityUrl = href(product)}
 			{@const technical = details(product)}
 			<div
 				class="grid grid-cols-6 items-stretch overflow-hidden rounded-xl border-2 bg-white text-black max-[768px]:grid-cols-1 dark:border-zinc-800 dark:bg-black dark:text-white"
@@ -92,9 +104,7 @@
 					<div class="flex w-full max-w-70 flex-col gap-2.5">
 						{#if product.mercadolivreUrl}
 							<a
-								href={isAffiliateUrl(product.mercadolivreUrl)
-									? productHref(slug, product.id, "mercadolivre")
-									: fallbackHref}
+								href={href(product, "mercadolivre")}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#fff159] text-black shadow-[0_4px_0_0_#ccb800] hover:bg-[#e6d84f] hover:text-black hover:shadow-[0_2px_0_0_#ccb800] active:shadow-[0_0px_0_0_#ccb800]"
@@ -109,7 +119,7 @@
 
 						{#if isAffiliateUrl(product.shopeeUrl)}
 							<a
-								href={productHref(slug, product.id, "shopee")}
+								href={href(product, "shopee")}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#ee4d2d] text-white shadow-[0_4px_0_0_#b83a20] hover:bg-[#d8431f] hover:shadow-[0_2px_0_0_#b83a20] active:shadow-[0_0px_0_0_#b83a20]"
@@ -124,7 +134,7 @@
 
 						{#if isAffiliateUrl(product.amazonUrl)}
 							<a
-								href={productHref(slug, product.id, "amazon")}
+								href={href(product, "amazon")}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#232f3e] text-white shadow-[0_4px_0_0_#0f151c] hover:bg-[#374357] hover:shadow-[0_2px_0_0_#0f151c] active:shadow-[0_0px_0_0_#0f151c]"

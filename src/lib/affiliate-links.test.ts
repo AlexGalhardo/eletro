@@ -5,6 +5,7 @@ import {
 	catalogueProblems,
 	catalogueToCsv,
 	isAffiliateUrl,
+	isDashboardUp,
 	SyncError,
 	storeLinks,
 	syncCatalogue,
@@ -41,7 +42,12 @@ function fakeFetch(answers: (Response | Error)[]): {
 }
 
 const json = (status: number, body: unknown): Response => new Response(JSON.stringify(body), { status });
-const options = { dashboardUrl: "https://links.example.com/", token: "la_test", retryDelayMs: 0 };
+const options = {
+	dashboardUrl: "https://links.example.com/",
+	siteUrl: "https://site.example.com",
+	token: "la_test",
+	retryDelayMs: 0,
+};
 
 describe("isAffiliateUrl and storeLinks", () => {
 	test("only an https address is a link: placeholders are ignored", () => {
@@ -91,7 +97,9 @@ describe("syncCatalogue", () => {
 		const products = [product("a")];
 		expect(await syncCatalogue({ ...options, products, fetch })).toEqual(SUMMARY);
 		expect(calls).toHaveLength(1);
-		expect(calls[0]?.url).toBe("https://links.example.com/api/v1/links");
+		expect(calls[0]?.url).toBe(
+			"https://links.example.com/api/v1/links?site=https%3A%2F%2Fsite.example.com",
+		);
 		expect(calls[0]?.init.method).toBe("PUT");
 		expect(new Headers(calls[0]?.init.headers).get("authorization")).toBe("Bearer la_test");
 		expect(JSON.parse(String(calls[0]?.init.body))).toEqual(products);
@@ -176,5 +184,23 @@ describe("catalogueToCsv", () => {
 
 	test("an empty catalogue is just the header", () => {
 		expect(catalogueToCsv([])).toBe("externalId,url,name,pageUrl,category,store\n");
+	});
+});
+
+describe("isDashboardUp", () => {
+	test("true only for a successful answer of the health endpoint", async () => {
+		const up = fakeFetch([json(200, { status: "ok" })]);
+		expect(await isDashboardUp("https://links.example.com/", up.fetch)).toBe(true);
+		expect(up.calls[0]?.url).toBe("https://links.example.com/health");
+	});
+
+	test("false for an error status, a network failure and a timeout", async () => {
+		for (const answer of [
+			json(503, { status: "down" }),
+			json(404, {}),
+			new TypeError("fetch failed"),
+			new DOMException("timed out", "TimeoutError"),
+		])
+			expect(await isDashboardUp("https://links.example.com", fakeFetch([answer]).fetch)).toBe(false);
 	});
 });

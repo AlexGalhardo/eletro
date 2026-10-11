@@ -108,6 +108,22 @@ test.describe("search and navigation", () => {
 });
 
 test.describe("post", () => {
+	// The page asks the links dashboard whether it is up. Answered here so no test depends on the network.
+	const HEALTH = "**/links.lekzera.xyz/health";
+	test.beforeEach(async ({ page }) => {
+		await page.route(HEALTH, (route) => route.fulfill({ json: { status: "ok" } }));
+	});
+
+	test("store buttons go straight to the store while the links dashboard is down", async ({ page }) => {
+		await page.unroute(HEALTH);
+		await page.route(HEALTH, (route) => route.fulfill({ status: 503, json: { status: "down" } }));
+		await page.goto(POST);
+
+		const store = page.getByRole("link", { name: /VER PREÇO MERCADOLIVRE/ }).first();
+		await expect(store).toHaveAttribute("href", /^https:\/\/(meli\.la|www\.mercadolivre\.com\.br)\//);
+		await expect(page.locator('[data-testid="cards-table"] a[href*="/link?id="]')).toHaveCount(0);
+	});
+
 	test("shows the article with author, sharing and affiliate product cards", async ({ page }) => {
 		await page.goto(POST);
 
@@ -122,7 +138,7 @@ test.describe("post", () => {
 
 		const store = page.getByRole("link", { name: /VER PREÇO MERCADOLIVRE/ }).first();
 		await expect(store).toHaveAttribute("href", /^https:\/\//);
-		// Store buttons never point to the store: they go through the links dashboard redirect.
+		// Store buttons go through the links dashboard redirect while the dashboard answers.
 		await expect(store).toHaveAttribute(
 			"href",
 			/\/link\?id=.*melhor-airfryer-8-litros.*&store=mercadolivre$/,

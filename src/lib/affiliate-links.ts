@@ -82,6 +82,25 @@ export function catalogueToCsv(products: CatalogueProduct[]): string {
 	return `${[CSV_HEADER, ...rows].map((row) => row.map(csvCell).join(",")).join("\n")}\n`;
 }
 
+/**
+ * Asks the dashboard's public health endpoint. False on any failure, error status or timeout: the caller then
+ * links straight to the store, so a dashboard outage costs the click count but never the sale.
+ */
+export async function isDashboardUp(
+	dashboardUrl: string,
+	request: typeof fetch = fetch,
+	timeoutMs = 4000,
+): Promise<boolean> {
+	try {
+		const response = await request(`${dashboardUrl.replace(/\/+$/, "")}/health`, {
+			signal: AbortSignal.timeout(timeoutMs),
+		});
+		return response.ok;
+	} catch {
+		return false;
+	}
+}
+
 export interface SyncSummary {
 	productsCreated: number;
 	productsUpdated: number;
@@ -93,6 +112,9 @@ export interface SyncSummary {
 
 export interface SyncOptions {
 	dashboardUrl: string;
+	/** Origin of this site. The dashboard finds the site's project by it, creating one on the first sync. */
+	siteUrl: string;
+	/** The key every site shares (LINKS_DASHBOARD_TOKEN). */
 	token: string;
 	products: CatalogueProduct[];
 	fetch?: typeof fetch;
@@ -110,7 +132,15 @@ const sleep = (ms: number): Promise<void> => new Promise((resolve) => setTimeout
  * Network failures and 5xx are retried (the call is idempotent); every other outcome throws a SyncError.
  */
 export async function syncCatalogue(options: SyncOptions): Promise<SyncSummary> {
-	const { dashboardUrl, token, products, attempts = 3, retryDelayMs = 2000, timeoutMs = 120_000 } = options;
+	const {
+		dashboardUrl,
+		siteUrl,
+		token,
+		products,
+		attempts = 3,
+		retryDelayMs = 2000,
+		timeoutMs = 120_000,
+	} = options;
 	const request = options.fetch ?? fetch;
 	const problems = catalogueProblems(products);
 	if (products.length === 0) problems.push("catálogo vazio");
@@ -121,12 +151,15 @@ export async function syncCatalogue(options: SyncOptions): Promise<SyncSummary> 
 		if (attempt > 1) await sleep(retryDelayMs);
 		let response: Response;
 		try {
-			response = await request(`${dashboardUrl.replace(/\/+$/, "")}/api/v1/links`, {
-				method: "PUT",
-				headers: { authorization: `Bearer ${token}`, "content-type": "application/json" },
-				body: JSON.stringify(products),
-				signal: AbortSignal.timeout(timeoutMs),
-			});
+			response = await request(
+				`${dashboardUrl.replace(/\/+$/, "")}/api/v1/links?site=${encodeURIComponent(siteUrl)}`,
+				{
+					method: "PUT",
+					headers: { authorization: `Bearer ${token}`, "content-type": "application/json" },
+					body: JSON.stringify(products),
+					signal: AbortSignal.timeout(timeoutMs),
+				},
+			);
 		} catch (error) {
 			last = `dashboard inacessível (${error instanceof Error ? error.message : String(error)})`;
 			continue;
@@ -138,8 +171,7 @@ export async function syncCatalogue(options: SyncOptions): Promise<SyncSummary> 
 		const body = (await response.json().catch(() => null)) as
 			| (Partial<SyncSummary> & { error?: string })
 			| null;
-		if (response.status === 401)
-			throw new SyncError("Token do dashboard ausente, errado ou revogado (401).");
+		if (response.status === 401) throw new SyncError("Chave do dashboard ausente ou errada (401).");
 		if (response.status === 409)
 			throw new SyncError(
 				"O dashboard recusou: o site do projeto não respondeu (409 project_offline).",
