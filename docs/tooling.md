@@ -50,6 +50,7 @@ Hook que falha é corrigido na causa. `--no-verify` é proibido (`.claude/rules/
 | Arquivo | O que faz | Documento |
 |---|---|---|
 | `scripts/release.ts` | Calcula a versão pela mensagem do commit e corta o `CHANGELOG.md` | [`ci-cd.md`](ci-cd.md) |
+| `scripts/check-env.ts` | Confere as variáveis de ambiente (regras em `src/lib/env-check.ts`); roda no começo de todo build | [`development.md`](development.md#conferência-no-build) |
 | `scripts/sync-links.ts` | Valida os links de afiliado e os envia ao dashboard; roda antes de todo build | [`affiliate-links.md`](affiliate-links.md) |
 | `scripts/cover-variants.ts` | Plugin do Vite que gera as cópias redimensionadas das capas | [`performance.md`](performance.md) |
 | `webscrapping/cli.ts` | Lê um post de um site de origem e mostra o rascunho | [`webscrapping-modelation.md`](webscrapping-modelation.md) |

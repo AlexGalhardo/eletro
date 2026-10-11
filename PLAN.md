@@ -330,6 +330,15 @@ Técnicas, sem bloqueio externo:
 
 **Assert:** os scripts passam em `bash -n`; no Windows (Git Bash), o `-local` e o `-with-docker` rodam de ponta a ponta e podem ser repetidos; `check`, `lint` e `test` verdes. (Verificado em 2026-10-11, Windows 11, Docker 29.8.1, Compose 5.5.1: `setup-windows-local.sh --no-start` cria o `.env`, preenche os dois segredos e, na segunda execução, não altera nada; com a 5173 ocupada, escolhe a 5174, e com `PORT=5173` para com código 1. `setup-windows-with-docker.sh` builda a imagem, o container fica `Healthy`, a home, um post, o sitemap e a API respondem 200, a entrada local cria a sessão e `/admin` responde 200; o processo roda como o usuário `bun` e não há `.env` na imagem. **Não executados:** os dois scripts `-unix-` fora do `bash -n` e da recusa de plataforma, por falta de uma máquina macOS ou Linux nesta sessão; `shellcheck`, que não está instalado.)
 
+### R7. Variáveis de ambiente conferidas no build (1.6.0)
+
+- [x] `src/lib/env-check.ts` (zod 4): formato de toda variável com formato conhecido, par de login pela metade e, só no build de produção (`VERCEL_ENV=production`), as variáveis essenciais
+- [x] `scripts/check-env.ts` no começo de `bun run build`, antes do `scripts/sync-links.ts`; uma linha por problema, com o nome da variável e sem o valor
+- [x] Testes de login: e-mail fora de `ADMIN_EMAILS`, e-mail não verificado (Google e GitHub) e usuário fora de `ADMIN_GITHUB_USERS` são recusados no fluxo completo
+- [x] Página desconhecida segue redirecionando para `/` (já coberto por `tests/e2e/smoke.spec.ts`); conferido em produção
+
+**Assert:** `check`, `lint` e `test` verdes; `bun run build` passa sem exigir variável; `VERCEL_ENV=production bun --no-env-file scripts/check-env.ts` sai com código 1 e lista os 9 problemas. (Verificado em 2026-10-11.)
+
 ---
 
 ## Onde a sessão de 2026-10-06 parou
@@ -364,6 +373,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-07 | Saída do release candidate: `1.0.0` | Decisão do dono, com o site em produção. As "Pendências conhecidas para a 1.0.0" que seguem abertas passam a ser trabalho das próximas versões |
 | 2026-10-11 | Docker só para rodar o build de produção na máquina (`vite preview` em `infra/`), sem container de banco | Pedido do dono. A produção segue na Vercel; o servidor só fala com o Neon ou com o PGlite embutido, então um Postgres em container não teria uso |
 | 2026-10-11 | Scripts de setup não instalam o Bun nem encerram o processo que ocupa a porta | Um script que instala software ou mata processos de outra pessoa surpreende; agora ele diz o que fazer, usa a próxima porta livre ou para |
+| 2026-10-11 | Variáveis essenciais só são exigidas no build de produção (`VERCEL_ENV=production`) | Pedido do dono, sem quebrar o clone novo, os testes e o Docker, que rodam sem nenhuma variável |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono
@@ -373,5 +383,6 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 - [x] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
+- [ ] Conferir na Vercel que `ADMIN_EMAILS` tem exatamente os e-mails que devem entrar e que `ADMIN_GITHUB_USERS` está vazia ou só com quem deve entrar (os valores não são lidos por agentes)
 - [ ] Cadastrar `MISTRAL_API_KEY` na Vercel e fazer uma importação de teste
 - [ ] Criar a conta de serviço do Google e cadastrar as quatro variáveis `GOOGLE_*` seguindo `docs/google-console-analytics-setup.md`; depois conferir `/admin/google`

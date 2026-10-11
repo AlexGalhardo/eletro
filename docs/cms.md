@@ -32,6 +32,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - `ADMIN_GITHUB_USERS` é a lista de usuários do GitHub permitidos, e `ADMIN_EMAILS` a de e-mails permitidos (é a que vale para o Google). O e-mail só conta quando o provedor o marca como verificado. Quem está fora não ganha conta, e as listas são conferidas de novo a cada requisição.
 - Login e e-mail não mudam depois de a conta existir: um hook recusa a alteração pelo `update-user`, para ninguém se renomear para dentro da lista.
 - Quem entra pelo Google não tem usuário do GitHub: os commits de conteúdo saem com o nome da pessoa e o endereço `<domínio do site>@users.noreply.github.com`.
+- Para liberar só alguns e-mails, liste-os em `ADMIN_EMAILS` e deixe `ADMIN_GITHUB_USERS` vazia. Os endereços são configuração, nunca código. `tests/integration/auth-social.test.ts` cobre a recusa de e-mail fora da lista, de e-mail não verificado e de usuário do GitHub fora da lista.
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
 - `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.

@@ -52,6 +52,7 @@ A versão do Node vem de `engines` no `package.json` (`24.x`) e vale mais que a 
 | Mensagem | Causa | O que fazer |
 |---|---|---|
 | `Invalid vercel.json` | Erro de sintaxe ou campo fora do schema no `vercel.json` | Corrija o arquivo; o schema está em <https://openapi.vercel.sh/vercel.json> |
+| `Variáveis de ambiente inválidas para o build de produção (N):` e uma linha por variável | Falta uma variável obrigatória ou alguma está com o formato errado | Corrija a variável citada em Settings → Environment Variables e refaça o deploy. A mensagem nunca mostra o valor |
 | Erro de validação de post ou produto | Conteúdo inválido em `content/` | Rode `bun run build` localmente; a mensagem aponta o arquivo |
 
 ## 2. Domínio
@@ -137,6 +138,8 @@ Sem `RESEND_API_KEY` nada quebra: o formulário de contato e a newsletter só re
 
 Abra **Settings → Environment Variables**. Para cada linha: nome, valor, ambiente **Production**, e marque **Sensitive** nas que são segredo.
 
+O build de produção confere estas variáveis antes de começar (`scripts/check-env.ts`) e falha se faltar uma obrigatória ou se alguma estiver com o formato errado. Obrigatórias: `DATABASE_URL`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_TOKEN`, `GITHUB_REPO`, `CRON_SECRET`, `LINKS_DASHBOARD_TOKEN`, um par de login completo (GitHub ou Google) e ao menos uma lista de admins (`ADMIN_EMAILS` ou `ADMIN_GITHUB_USERS`). Formatos em [development.md](development.md#conferência-no-build).
+
 Gere os dois segredos aleatórios na sua máquina, um comando para cada:
 
 ```bash
@@ -148,17 +151,17 @@ openssl rand -base64 32
 | `DATABASE_URL` | Já criada pela integração do Neon (passo 3) | sim |
 | `BETTER_AUTH_SECRET` | Primeiro valor gerado com `openssl` | sim |
 | `BETTER_AUTH_URL` | `https://eletroradar.com.br` (sem barra no fim) | não |
-| `GITHUB_CLIENT_ID` | Client ID do OAuth App (passo 4) | não |
+| `GITHUB_CLIENT_ID` | Client ID do OAuth App (passo 4). Dispensável se o login for só pelo Google | não |
 | `GITHUB_CLIENT_SECRET` | Client secret do OAuth App (passo 4) | sim |
-| `ADMIN_GITHUB_USERS` | `AlexGalhardo` (vários: separados por vírgula) | não |
-| `GOOGLE_CLIENT_ID` | Opcional: ID do cliente OAuth do Google (ver abaixo) | não |
-| `GOOGLE_CLIENT_SECRET` | Opcional: chave secreta do cliente OAuth do Google | sim |
-| `ADMIN_EMAILS` | E-mails que podem entrar pelo Google, separados por vírgula | não |
+| `ADMIN_GITHUB_USERS` | `AlexGalhardo` (vários: separados por vírgula). Deixe sem valor para liberar só os e-mails de `ADMIN_EMAILS` | não |
+| `GOOGLE_CLIENT_ID` | ID do cliente OAuth do Google, terminado em `.apps.googleusercontent.com` (ver abaixo). Dispensável se o login for só pelo GitHub | não |
+| `GOOGLE_CLIENT_SECRET` | Chave secreta do cliente OAuth do Google (`GOCSPX-` e 28 caracteres) | sim |
+| `ADMIN_EMAILS` | E-mails que podem entrar, separados por vírgula. Só vale e-mail verificado pelo provedor | não |
 | `GITHUB_TOKEN` | Token fine-grained (passo 5) | sim |
 | `GITHUB_REPO` | `AlexGalhardo/eletroradar.com.br-cms` | não |
 | `GITHUB_BRANCH` | Opcional; padrão `main` | não |
-| `RESEND_API_KEY` | Chave do Resend (passo 6) | sim |
-| `RESEND_FROM_EMAIL` | `EletroRadar <no-reply@eletroradar.com.br>` | não |
+| `RESEND_API_KEY` | Opcional: chave do Resend (passo 6) | sim |
+| `RESEND_FROM_EMAIL` | Opcional: `EletroRadar <no-reply@eletroradar.com.br>` | não |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` | não |
 | `CRON_SECRET` | Segundo valor gerado com `openssl` (mínimo de 32 caracteres) | sim |
 | `LINKS_DASHBOARD_TOKEN` | Chave do dashboard de links (`site.linksDashboardUrl`), a mesma em todos os sites. Sem ele o build de produção falha | sim |

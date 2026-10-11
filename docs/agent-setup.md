@@ -46,7 +46,7 @@ Verificação: termina sem erro e `git status --short` não mostra `bun.lock` al
 cp .env.example .env
 ```
 
-Todas as variáveis são opcionais: o site público roda com o `.env` vazio. Preencha só o que a tarefa pede.
+Na máquina todas as variáveis são opcionais: o site público roda com o `.env` vazio. Preencha só o que a tarefa pede. O que for preenchido precisa ter o formato certo: `bun run build` começa por `scripts/check-env.ts`, que recusa variável malformada (lista em [`development.md`](development.md#conferência-no-build)) e, só no build de produção da Vercel, exige as essenciais.
 
 | Para | Variáveis | Sem elas |
 |---|---|---|
@@ -66,7 +66,8 @@ Regras:
 
 - Nunca rode `vercel env pull` para criar o `.env`: ele traz as chaves de produção, e o painel local passaria a gravar no banco e no repositório de produção.
 - A entrada local (`AUTH_TEST_LOGIN_TOKEN`) só vale sem `DATABASE_URL`.
-- Variável nova precisa ser declarada em `src/env.ts`, descrita no `.env.example` e na tabela de [`development.md`](development.md#variáveis-de-ambiente).
+- Variável nova precisa ser declarada em `src/env.ts`, descrita no `.env.example` e na tabela de [`development.md`](development.md#variáveis-de-ambiente). Com formato conhecido ou essencial em produção, entra também em `src/lib/env-check.ts`, com teste.
+- `bun run check-env` confere o `.env` sem fazer o build. Ele mostra nomes, nunca valores.
 
 ## 3. Banco
 
@@ -203,7 +204,7 @@ vercel inspect <url-do-deploy>                      # detalhes; com --logs, o lo
 curl -s -o /dev/null -w '%{http_code}\n' https://eletroradar.com.br/    # 200
 ```
 
-O deploy leva de 2 a 4 minutos. `Error` quase sempre é conteúdo inválido ou o dashboard de links recusando o registro: leia o log do build. Com o MCP da Vercel disponível, as mesmas leituras saem por ele (listar os deploys do projeto, ler os eventos do build); a CLI é o caminho padrão.
+O deploy leva de 2 a 4 minutos. `Error` quase sempre é variável de ambiente faltando ou malformada (`Variáveis de ambiente inválidas para o build de produção`, com uma linha por variável), conteúdo inválido ou o dashboard de links recusando o registro: leia o log do build. Com o MCP da Vercel disponível, as mesmas leituras saem por ele (listar os deploys do projeto, ler os eventos do build); a CLI é o caminho padrão.
 
 Um agente não muda variável de produção nem dispara deploy manual (`vercel --prod`) sem o dono pedir.
 

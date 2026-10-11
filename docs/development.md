@@ -69,7 +69,7 @@ docker compose --file infra/docker-compose.yml logs --follow
 docker compose --file infra/docker-compose.yml down                         # --volumes apaga também o banco
 ```
 
-- O build da imagem não recebe `LINKS_DASHBOARD_TOKEN` nem `VERCEL_ENV`: o `scripts/sync-links.ts` só valida os links de afiliado e não envia nada ao dashboard. O `.env` nunca entra na imagem; ele só é lido quando o container sobe.
+- O build da imagem não recebe `LINKS_DASHBOARD_TOKEN` nem `VERCEL_ENV`: o `scripts/check-env.ts` não exige nenhuma variável e o `scripts/sync-links.ts` só valida os links de afiliado e não envia nada ao dashboard. O `.env` nunca entra na imagem; ele só é lido quando o container sobe.
 - É o build de produção, o mesmo artefato dos testes e2e. O site público é estático: conteúdo salvo pelo painel dentro do container fica só no container e não aparece no site sem um build novo. Para editar conteúdo, use o servidor de desenvolvimento.
 - A porta padrão é a 8080 para não colidir com a 4173, que os testes e2e usam na máquina.
 - A produção não usa Docker: roda na Vercel ([`deploy.md`](deploy.md)).
@@ -79,7 +79,8 @@ docker compose --file infra/docker-compose.yml down                         # --
 | Script | O que faz |
 |---|---|
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | Build de produção; falha se algum post ou produto for inválido |
+| `bun run build` | Build de produção; falha se uma variável de ambiente, um post ou um produto for inválido |
+| `bun run check-env` | Só a conferência das variáveis de ambiente (a mesma do começo do build) |
 | `bun run preview` | Serve o build localmente |
 | `bun run check` | svelte-check e TypeScript |
 | `bun run lint` | Biome (código) e markdownlint (documentação) |
@@ -95,7 +96,7 @@ docker compose --file infra/docker-compose.yml down                         # --
 
 ## Variáveis de ambiente
 
-Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opcionais.
+Declaradas em `src/env.ts`; modelo em `.env.example`. Fora do build de produção todas são opcionais; o que o build de produção exige está em [Conferência no build](#conferência-no-build).
 
 | Grupo | Variáveis | Sem elas |
 |---|---|---|
@@ -111,7 +112,32 @@ Declaradas e validadas em `src/env.ts`; modelo em `.env.example`. Todas são opc
 
 Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 
-No SvelteKit 3 as variáveis são importadas de `$app/env/private` (servidor) ou `$app/env/public` (navegador). Variável nova precisa ser declarada em `src/env.ts`.
+No SvelteKit 3 as variáveis são importadas de `$app/env/private` (servidor) ou `$app/env/public` (navegador). Variável nova precisa ser declarada em `src/env.ts`; se tiver formato conhecido ou for essencial em produção, entra também em `src/lib/env-check.ts`.
+
+### Conferência no build
+
+`scripts/check-env.ts` roda no começo de todo `bun run build` (e sozinho com `bun run check-env`) e aplica as regras de `src/lib/env-check.ts`. Cada problema sai em uma linha com o nome da variável, nunca com o valor.
+
+- **Em qualquer build:** variável ausente ou vazia é aceita; variável presente com formato errado falha o build. Um par de login pela metade (`GITHUB_CLIENT_ID` sem `GITHUB_CLIENT_SECRET`, ou o mesmo no Google) também falha.
+- **No build de produção (`VERCEL_ENV=production`):** além do formato, são obrigatórias `LINKS_DASHBOARD_TOKEN`, `DATABASE_URL`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL` (com `https`), `GITHUB_TOKEN`, `GITHUB_REPO` e `CRON_SECRET`, um par completo de login (`GITHUB_CLIENT_ID` + `GITHUB_CLIENT_SECRET` ou `GOOGLE_CLIENT_ID` + `GOOGLE_CLIENT_SECRET`) e ao menos uma lista de admins (`ADMIN_EMAILS` ou `ADMIN_GITHUB_USERS`). As demais continuam opcionais.
+
+| Variável | Formato conferido |
+|---|---|
+| `DATABASE_URL` | Começa com `postgres://` ou `postgresql://` |
+| `BETTER_AUTH_SECRET`, `CRON_SECRET` | Pelo menos 32 caracteres |
+| `BETTER_AUTH_URL` | URL `http(s)`; `https` em produção |
+| `ADMIN_EMAILS` | E-mails separados por vírgula |
+| `ADMIN_GITHUB_USERS` | Usuários do GitHub separados por vírgula |
+| `GOOGLE_CLIENT_ID` | Termina em `.apps.googleusercontent.com` |
+| `GOOGLE_CLIENT_SECRET` | `GOCSPX-` seguido de 28 caracteres |
+| `GITHUB_REPO` | `dono/nome` |
+| `GITHUB_BRANCH` | Sem espaços |
+| `RESEND_FROM_EMAIL` | Um e-mail ou `Nome <e-mail>` |
+| `CONTACT_TO_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_EMAIL` | Um e-mail |
+| `GOOGLE_SEARCH_CONSOLE_SITE` | `sc-domain:...` ou uma URL `http(s)` |
+| `GOOGLE_ANALYTICS_PROPERTY_ID` | Só números |
+
+Build local, Docker, testes e preview não têm `VERCEL_ENV=production`, então seguem funcionando sem nenhuma variável.
 
 ## Convenções
 

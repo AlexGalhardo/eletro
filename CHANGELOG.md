@@ -6,6 +6,14 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.6.0] - 2026-10-11
+
+### Added
+
+- Conferência das variáveis de ambiente no começo de todo build (`scripts/check-env.ts`, regras em `src/lib/env-check.ts`, com zod). Variável presente com formato errado falha o build; no build de produção (`VERCEL_ENV=production`) também falham a ausência de `LINKS_DASHBOARD_TOKEN`, `DATABASE_URL`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GITHUB_TOKEN`, `GITHUB_REPO` ou `CRON_SECRET`, a falta de um par de login completo e a falta de uma lista de admins. A mensagem traz uma linha por variável, sem valores. Build local, Docker e testes seguem sem exigir nenhuma variável.
+- `bun run check-env`, para conferir as variáveis sem fazer o build.
+- Testes do login social: e-mail permitido mas não verificado é recusado no fluxo completo do Google e do GitHub.
+
 ## [1.5.2] - 2026-10-11
 
 - docs: rewrite the README for the site as it runs today
@@ -367,7 +375,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.2...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.2...v1.6.0
 [1.5.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.4.0...v1.5.0
