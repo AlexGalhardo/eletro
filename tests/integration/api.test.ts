@@ -2,6 +2,7 @@ import { rm } from "node:fs/promises";
 import { afterAll, describe, expect, it, vi } from "vitest";
 import { rateLimit } from "../../src/lib/server/api.ts";
 import { openApiDocument } from "../../src/lib/server/openapi.ts";
+import * as affiliateLinks from "../../src/routes/api/v1/affiliate-links/+server.ts";
 import * as categories from "../../src/routes/api/v1/categories/+server.ts";
 import * as googleSitemap from "../../src/routes/api/v1/google/sitemap/+server.ts";
 import * as health from "../../src/routes/api/v1/health/+server.ts";
@@ -404,5 +405,48 @@ describe("rate limit", () => {
 		expect([1, 2, 3].map(() => rateLimit(key, 3, 60_000, 1000))).toEqual([0, 0, 0]);
 		expect(rateLimit(key, 3, 60_000, 31_000)).toBe(30);
 		expect(rateLimit(key, 3, 60_000, 61_000)).toBe(0);
+	});
+});
+
+describe("GET /api/v1/affiliate-links", () => {
+	const exportFile = (query: string, signedIn = true) =>
+		affiliateLinks.GET({
+			url: new URL(`/api/v1/affiliate-links${query}`, "http://localhost"),
+			locals: { admin: signedIn ? admin : null },
+		} as never);
+
+	it("is refused without an admin session and with an unknown format", async () => {
+		expect((await exportFile("", false)).status).toBe(401);
+		expect((await exportFile("?format=xml")).status).toBe(400);
+	});
+
+	it("exports the catalogue as a bare JSON array the dashboard accepts", async () => {
+		const response = await exportFile("");
+		expect(response.status).toBe(200);
+		expect(response.headers.get("content-type")).toContain("application/json");
+		expect(response.headers.get("content-disposition")).toMatch(
+			/attachment; filename=".+-affiliate-links\.json"/,
+		);
+		const items = (await response.json()) as {
+			externalId: string;
+			pageUrl?: string;
+			links: { url: string }[];
+		}[];
+		expect(items.length).toBeGreaterThan(1);
+		expect(new Set(items.map((item) => item.externalId)).size).toBe(items.length);
+		for (const item of items) {
+			expect(item.links.length).toBeGreaterThan(0);
+			for (const link of item.links) expect(link.url).toMatch(/^https:\/\//);
+		}
+	});
+
+	it("exports the same links as CSV, one row per link", async () => {
+		const json = (await (await exportFile("?format=json")).json()) as { links: unknown[] }[];
+		const response = await exportFile("?format=csv");
+		expect(response.headers.get("content-type")).toContain("text/csv");
+		expect(response.headers.get("content-disposition")).toMatch(/affiliate-links\.csv"/);
+		const lines = (await response.text()).trimEnd().split("\n");
+		expect(lines[0]).toBe("externalId,url,name,pageUrl,category,store");
+		expect(lines.length - 1).toBe(json.reduce((sum, item) => sum + item.links.length, 0));
 	});
 });

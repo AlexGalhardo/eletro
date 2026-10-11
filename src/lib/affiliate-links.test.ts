@@ -3,6 +3,7 @@ import {
 	affiliateHref,
 	type CatalogueProduct,
 	catalogueProblems,
+	catalogueToCsv,
 	isAffiliateUrl,
 	SyncError,
 	storeLinks,
@@ -141,5 +142,39 @@ describe("syncCatalogue", () => {
 			);
 			expect(calls).toHaveLength(1);
 		}
+	});
+});
+
+describe("catalogueToCsv", () => {
+	test("one row per link under the header the dashboard imports, quoting what needs quotes", () => {
+		const csv = catalogueToCsv([
+			{
+				externalId: "https://site.example.com/p/a",
+				name: 'Fone "Pro", 2ª geração',
+				pageUrl: "https://site.example.com/p",
+				category: "fones",
+				links: [
+					{ url: "https://meli.la/a", store: "mercadolivre" },
+					{ url: "https://amzn.to/a", store: "amazon" },
+				],
+			},
+			{
+				externalId: "https://site.example.com/p/b",
+				links: [{ url: "https://s.shopee.com.br/b", store: "shopee" }],
+			},
+		]);
+		expect(csv).toBe(
+			[
+				"externalId,url,name,pageUrl,category,store",
+				'https://site.example.com/p/a,https://meli.la/a,"Fone ""Pro"", 2ª geração",https://site.example.com/p,fones,mercadolivre',
+				'https://site.example.com/p/a,https://amzn.to/a,"Fone ""Pro"", 2ª geração",https://site.example.com/p,fones,amazon',
+				"https://site.example.com/p/b,https://s.shopee.com.br/b,,,,shopee",
+				"",
+			].join("\n"),
+		);
+	});
+
+	test("an empty catalogue is just the header", () => {
+		expect(catalogueToCsv([])).toBe("externalId,url,name,pageUrl,category,store\n");
 	});
 });

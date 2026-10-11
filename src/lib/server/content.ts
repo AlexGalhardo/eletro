@@ -1,3 +1,5 @@
+import type { CatalogueProduct } from "../affiliate-links.ts";
+import { buildCatalogue } from "../content/affiliate.ts";
 import { coverWidths as widthsOf } from "../content/cover.ts";
 import { isPublished, parsePost } from "../content/parse.ts";
 import { type Post, type Product, productListSchema } from "../content/schema.ts";
@@ -45,6 +47,14 @@ export function getPost(slug: string): { post: Post; body: string } | undefined 
 
 export function getProductList(list: string): Product[] | undefined {
 	return productLists.get(list);
+}
+
+/** Every affiliate link of the published posts, as registered in the links dashboard (scripts/sync-links.ts). */
+export function getAffiliateCatalogue(): CatalogueProduct[] {
+	return buildCatalogue(
+		parsed.filter((entry) => isPublished(entry.post)),
+		productLists,
+	);
 }
 
 export function getProductListNames(): string[] {

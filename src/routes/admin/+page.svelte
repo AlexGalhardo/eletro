@@ -43,6 +43,17 @@
 </dl>
 
 <section class="mt-8">
+	<h2 class="text-lg font-bold">Links de afiliado</h2>
+	<p class="mt-1 text-sm text-gray-600 dark:text-gray-400">
+		Todos os links dos posts publicados, no formato que o dashboard de links importa.
+	</p>
+	<div class="mt-3 flex flex-wrap gap-2">
+		<a href="/api/v1/affiliate-links?format=json" download class={ui.button}>Exportar links (JSON)</a>
+		<a href="/api/v1/affiliate-links?format=csv" download class={ui.button}>Exportar links (CSV)</a>
+	</div>
+</section>
+
+<section class="mt-8">
 	<h2 class="text-lg font-bold">Últimas alterações de conteúdo</h2>
 	{#if data.commits.length > 0}
 		<ul class="{ui.card} mt-3 divide-y divide-gray-200 dark:divide-zinc-800">

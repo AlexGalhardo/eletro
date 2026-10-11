@@ -7,6 +7,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 | Método e caminho | Acesso | O que faz |
 |---|---|---|
 | `GET /health` | público | Status e versão |
+| `GET /affiliate-links` | admin | Exporta os links de afiliado dos posts publicados como arquivo para o dashboard de links. Query: `format=json` (padrão) ou `csv`. O corpo é o arquivo (array JSON ou CSV), sem o envelope `{ data }`. Ver [affiliate-links.md](affiliate-links.md) |
 | `GET /posts` | público | Posts publicados, mais novos primeiro. Query: `page`, `pageSize` (até 100), `category`, `q` |
 | `GET /posts/{slug}` | público | Post publicado com o corpo em Markdown |
 | `GET /categories` | público | Categorias com a contagem de posts |
