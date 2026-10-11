@@ -122,6 +122,12 @@ test.describe("post", () => {
 
 		const store = page.getByRole("link", { name: /VER PREÇO MERCADOLIVRE/ }).first();
 		await expect(store).toHaveAttribute("href", /^https:\/\//);
+		// Store buttons never point to the store: they go through the links dashboard redirect.
+		await expect(store).toHaveAttribute(
+			"href",
+			/\/link\?id=.*melhor-airfryer-8-litros.*&store=mercadolivre$/,
+		);
+		await expect(page.locator('[data-testid="cards-table"] a[href*="meli.la"]')).toHaveCount(0);
 		await expect(store).toHaveAttribute("target", "_blank");
 		await expect(store).toHaveAttribute("rel", /sponsored/);
 		await expect(page.getByRole("heading", { name: "Perguntas Frequentes" })).toBeVisible();

@@ -307,7 +307,8 @@ Dependem de decisão do dono:
 - [ ] Clarity só depois do aceite no banner de cookies, ou fora do site: é o que reprova boas práticas no Lighthouse
 - [ ] CSP (exige mover os scripts embutidos e testar o analytics)
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado (leva `mdsvex` para produção)
-- [ ] Convenção dos links `#`; uso das fotos do CDN da Amazon
+- [x] Convenção dos links `#`: não geram botão; produto sem link real usa a oferta padrão pelo dashboard de links ([`docs/affiliate-links.md`](docs/affiliate-links.md))
+- [ ] Uso das fotos do CDN da Amazon
 - [ ] Ativar os workflows de CI e release (billing do GitHub)
 - [ ] Revisar o texto da Política de Privacidade sobre a newsletter
 

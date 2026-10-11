@@ -161,6 +161,7 @@ openssl rand -base64 32
 | `RESEND_FROM_EMAIL` | `EletroRadar <no-reply@eletroradar.com.br>` | não |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` | não |
 | `CRON_SECRET` | Segundo valor gerado com `openssl` (mínimo de 32 caracteres) | sim |
+| `LINKS_DASHBOARD_TOKEN` | Token do projeto no dashboard de links (`site.linksDashboardUrl`). Sem ele o build de produção falha | sim |
 | `MISTRAL_API_KEY` | Opcional: chave da Mistral para reescrever resumo e FAQ em `/admin/import` | sim |
 | `GOOGLE_SERVICE_ACCOUNT_EMAIL` | Opcional: `client_email` da conta de serviço ([google-console-analytics-setup.md](google-console-analytics-setup.md)) | não |
 | `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY` | Opcional: `private_key` da conta de serviço | sim |

@@ -61,7 +61,7 @@ Arquivo: `content/products/<lista>.json`, um array de produtos.
 ```
 
 - `id` é único dentro da lista.
-- Cada link de loja preenchido vira um botão. Sem nenhum link, usa `site.fallbackAffiliateUrl`.
+- Cada link de loja com endereço `https://` vira um botão, que passa pelo dashboard de links. `#`, vazio e `null` não geram botão. Sem nenhum link, o produto usa a oferta padrão (`site.fallbackAffiliateUrl`). Ver [affiliate-links.md](affiliate-links.md).
 - São exibidos os 10 primeiros produtos e as 5 primeiras vantagens de cada um.
 - Detalhe técnico com valor vazio ou "não especificado" é omitido.
 - Campos extras são aceitos e ignorados na exibição.

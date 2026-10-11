@@ -16,6 +16,8 @@
 
 	// Read by <CardsTable> inside the post body. A getter keeps it reactive across navigations.
 	setContext("productLists", () => data.productLists);
+	// The post slug is part of the id each product has in the links dashboard.
+	setContext("postSlug", () => data.post.slug);
 
 	// Copy protection is a deterrent the site owner asked to keep; it is not a security control.
 	function protect(node: HTMLElement) {

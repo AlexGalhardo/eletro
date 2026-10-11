@@ -69,6 +69,12 @@ export const site = {
 	fallbackAffiliateUrl: "https://meli.la/1gvsK3J",
 
 	/**
+	 * Links dashboard that manages every affiliate link. Buttons point to its redirect and the build registers
+	 * the links there (scripts/sync-links.ts, with the LINKS_DASHBOARD_TOKEN env var). See docs/affiliate-links.md.
+	 */
+	linksDashboardUrl: "https://links.lekzera.xyz",
+
+	/**
 	 * Post import by web scraping (`/admin/import`). The server only fetches https URLs whose host is
 	 * listed here, matched exactly: pages from `sourceHosts`, product photos from `imageHosts`.
 	 * The parser in `webscrapping/parse.ts` is written for the layout of the first source.

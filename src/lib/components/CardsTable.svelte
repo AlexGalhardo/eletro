@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { getContext, onMount } from "svelte";
+	import { isAffiliateUrl, storeLinks } from "#lib/affiliate-links.ts";
+	import { fallbackHref, productHref } from "#lib/content/affiliate.ts";
 	import type { Product } from "#lib/content/schema.ts";
-	import { site } from "#lib/site.config.ts";
 	import Icon from "./Icon.svelte";
 
 	const MAX_PRODUCTS = 10;
@@ -11,6 +12,7 @@
 
 	// The page that renders the post provides every list its body references (see routes/[slug]).
 	const lists = getContext<(() => Record<string, Product[]>) | undefined>("productLists");
+	const postSlug = getContext<(() => string) | undefined>("postSlug");
 
 	let order = $state<string[] | null>(null);
 
@@ -49,8 +51,10 @@
 {:else}
 	<div class="my-2.5 flex flex-col gap-6" data-testid="cards-table">
 		{#each products as product (product.id)}
-			{@const priorityUrl =
-				product.mercadolivreUrl || product.shopeeUrl || product.amazonUrl || site.fallbackAffiliateUrl}
+			{@const slug = postSlug?.() ?? ""}
+			{@const firstStore = storeLinks(product)[0]?.store}
+			<!-- Every link goes through the links dashboard; a product without a store link uses the site offer. -->
+			{@const priorityUrl = firstStore ? productHref(slug, product.id, firstStore) : fallbackHref}
 			{@const technical = details(product)}
 			<div
 				class="grid grid-cols-6 items-stretch overflow-hidden rounded-xl border-2 bg-white text-black max-[768px]:grid-cols-1 dark:border-zinc-800 dark:bg-black dark:text-white"
@@ -88,9 +92,9 @@
 					<div class="flex w-full max-w-70 flex-col gap-2.5">
 						{#if product.mercadolivreUrl}
 							<a
-								href={product.mercadolivreUrl === "#"
-									? site.fallbackAffiliateUrl
-									: product.mercadolivreUrl}
+								href={isAffiliateUrl(product.mercadolivreUrl)
+									? productHref(slug, product.id, "mercadolivre")
+									: fallbackHref}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#fff159] text-black shadow-[0_4px_0_0_#ccb800] hover:bg-[#e6d84f] hover:text-black hover:shadow-[0_2px_0_0_#ccb800] active:shadow-[0_0px_0_0_#ccb800]"
@@ -103,9 +107,9 @@
 							</a>
 						{/if}
 
-						{#if product.shopeeUrl}
+						{#if isAffiliateUrl(product.shopeeUrl)}
 							<a
-								href={product.shopeeUrl}
+								href={productHref(slug, product.id, "shopee")}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#ee4d2d] text-white shadow-[0_4px_0_0_#b83a20] hover:bg-[#d8431f] hover:shadow-[0_2px_0_0_#b83a20] active:shadow-[0_0px_0_0_#b83a20]"
@@ -118,9 +122,9 @@
 							</a>
 						{/if}
 
-						{#if product.amazonUrl}
+						{#if isAffiliateUrl(product.amazonUrl)}
 							<a
-								href={product.amazonUrl}
+								href={productHref(slug, product.id, "amazon")}
 								target="_blank"
 								rel="noopener noreferrer sponsored"
 								class="{storeButton} bg-[#232f3e] text-white shadow-[0_4px_0_0_#0f151c] hover:bg-[#374357] hover:shadow-[0_2px_0_0_#0f151c] active:shadow-[0_0px_0_0_#0f151c]"

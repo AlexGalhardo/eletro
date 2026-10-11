@@ -6,6 +6,21 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-10-11
+
+### Added
+
+- Dashboard de links: todo build registra os links de afiliado dos posts publicados no dashboard definido em `site.linksDashboardUrl` (`scripts/sync-links.ts`, variável `LINKS_DASHBOARD_TOKEN`). O build de produção falha se o registro falhar, então nenhuma página vai ao ar com link fora do dashboard. Ver `docs/affiliate-links.md`.
+
+### Changed
+
+- Os botões de loja, a foto e o nome do produto apontam para o redirect do dashboard de links, não mais direto para a loja.
+- A oferta padrão (`site.fallbackAffiliateUrl`) também passa pelo dashboard.
+
+### Fixed
+
+- Loja com link `#` não gera mais botão com `href="#"`; a foto e o nome de um produto sem link real apontam para a oferta padrão em vez de `#`.
+
 ## [1.2.0] - 2026-10-07
 
 ### Added
@@ -314,7 +329,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...v1.1.0
 [1.0.6]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.5...v1.0.6
