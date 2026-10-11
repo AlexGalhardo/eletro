@@ -42,7 +42,7 @@ bun run dev
 
 Abra <http://localhost:5173>. O site público roda sem nenhuma variável de ambiente.
 
-Atalho: `bash setups/setup-unix.sh` (macOS, Linux, WSL) ou `bash setups/setup-windows.sh` (Git Bash) instala o que falta, cria o `.env` com os padrões do painel, libera a porta e sobe o servidor. Detalhes em [`docs/development.md`](docs/development.md).
+Atalho: `bash setups/setup-unix-local.sh` (macOS, Linux, WSL) ou `bash setups/setup-windows-local.sh` (Git Bash) confere as ferramentas, instala as dependências, cria o `.env` com os padrões do painel, escolhe uma porta livre e sobe o servidor. Para rodar o build de produção em Docker, sem Node nem Bun na máquina: `bash setups/setup-unix-with-docker.sh` ou `bash setups/setup-windows-with-docker.sh` (arquivos em `infra/`). Detalhes em [`docs/development.md`](docs/development.md); roteiro completo em [`docs/agent-setup.md`](docs/agent-setup.md).
 
 ### Abrindo o painel na sua máquina
 
@@ -100,6 +100,7 @@ Vercel e Netlify, com banco no Neon, login pelo GitHub e e-mails pelo Resend: [`
 | Documento | Assunto |
 |---|---|
 | [`docs/README.md`](docs/README.md) | Índice de toda a documentação |
+| [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero, passo a passo, com verificação |
 | [`docs/architecture.md`](docs/architecture.md) | Pastas, fluxo de dados e decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos |
 | [`docs/cms.md`](docs/cms.md) | Painel, banco, autenticação e armazenamento |

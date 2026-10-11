@@ -31,7 +31,10 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/README.md`](docs/README.md) | Índice da documentação |
 | [`docs/architecture.md`](docs/architecture.md) | Visão geral, pastas, fluxo de dados, decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos, componentes disponíveis no Markdown |
-| [`docs/development.md`](docs/development.md) | Como rodar, scripts, variáveis de ambiente, convenções |
+| [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero para agentes: dependências, `.env`, banco, Docker, testes, GitHub, Vercel e dashboard de links, com comando e verificação por passo |
+| [`docs/development.md`](docs/development.md) | Como rodar, scripts de `setups/`, Docker (`infra/`), variáveis de ambiente, convenções |
+| [`docs/tooling.md`](docs/tooling.md) | Ferramentas: o que cada uma faz, onde está a configuração, hooks do git, Docker, ferramentas dos agentes |
+| [`docs/workflows.md`](docs/workflows.md) | Fluxos de trabalho: ordem de toda mudança, passos por tipo de tarefa, release e deploy |
 | [`docs/testing.md`](docs/testing.md) | Tipos de teste, onde ficam e como rodar |
 | [`docs/cms.md`](docs/cms.md) | Banco, autenticação, armazenamento de conteúdo e serviço do CMS (fase BETA) |
 | [`docs/api.md`](docs/api.md) | API REST `/api/v1`: endpoints, formato de erro, regras de escrita |
@@ -51,8 +54,10 @@ Ao entregar uma mudança que altera comportamento, atualize o documento correspo
 ## Comandos
 
 ```bash
-bash setups/setup-unix.sh     # prepara tudo e sobe o dev (macOS, Linux, WSL)
-bash setups/setup-windows.sh  # o mesmo no Windows, pelo Git Bash
+bash setups/setup-unix-local.sh           # prepara tudo e sobe o dev (macOS, Linux, WSL)
+bash setups/setup-windows-local.sh        # o mesmo no Windows, pelo Git Bash
+bash setups/setup-unix-with-docker.sh     # build de produção em Docker, com os arquivos de infra/
+bash setups/setup-windows-with-docker.sh  # o mesmo no Windows, pelo Git Bash
 bun install          # dependências (versões exatas)
 bun run dev          # servidor de desenvolvimento
 bun run build        # build de produção (valida o conteúdo e sincroniza os links de afiliado)

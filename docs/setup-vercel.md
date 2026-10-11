@@ -25,7 +25,7 @@ O site público funciona só com o passo 1. Faça o passo 1, confira que o site 
 
 - Conta na [Vercel](https://vercel.com) com acesso à conta do GitHub dona do repositório.
 - O código na branch `main` do repositório (`git push origin main`).
-- Bun e o projeto rodando na sua máquina (`bash setups/setup-windows.sh` ou `bash setups/setup-unix.sh`): o passo 3 roda um comando local.
+- Bun e o projeto rodando na sua máquina (`bash setups/setup-windows-local.sh` ou `bash setups/setup-unix-local.sh`): o passo 3 roda um comando local.
 - Na sua máquina, `bun run build` termina sem erro. Um build que falha localmente falha na Vercel também.
 
 ## 1. Criar o projeto

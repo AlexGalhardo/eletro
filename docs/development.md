@@ -4,6 +4,7 @@
 
 - Node 24 (fixado em `engines` do `package.json`)
 - Bun 1.4 ou mais novo
+- Docker com Compose v2, opcional, só para rodar o build de produção em container
 - Python 3 com `graphifyy`, opcional, só para o grafo de conhecimento usado pelos agentes
 
 ## Primeiro uso
@@ -17,27 +18,61 @@ O site público roda sem nenhuma variável de ambiente.
 
 ### Setup automático
 
-Os scripts em `setups/` fazem o primeiro uso inteiro e sobem o servidor com o painel pronto para a "Entrada local":
+Os scripts em `setups/` fazem o primeiro uso inteiro e sobem o projeto com o painel pronto para a "Entrada local":
 
 ```bash
-bash setups/setup-unix.sh      # macOS, Linux e WSL
-bash setups/setup-windows.sh   # Windows, pelo Git Bash
+bash setups/setup-unix-local.sh            # macOS, Linux e WSL: servidor de desenvolvimento
+bash setups/setup-windows-local.sh         # Windows, pelo Git Bash: servidor de desenvolvimento
+bash setups/setup-unix-with-docker.sh      # macOS, Linux e WSL: build de produção em Docker
+bash setups/setup-windows-with-docker.sh   # Windows, pelo Git Bash: build de produção em Docker
 ```
 
-Os dois compartilham `setups/_common.sh` e diferem só em como instalam o Bun e liberam a porta. O que fazem, nesta ordem:
+Os quatro são finos: definem a plataforma e chamam as funções de `setups/_common.sh`. Todos podem ser rodados de novo sem efeito colateral, param com código diferente de zero e uma mensagem `[error]` no primeiro problema, e nunca mostram o valor de um segredo.
+
+O que os `-local` fazem, nesta ordem:
 
 | Etapa | Se der errado |
 |---|---|
-| Confere Node 24 | Para e diz o que instalar |
-| Confere Bun 1.4 ou mais novo | Instala o Bun se faltar; atualiza se for antigo |
-| `bun install` | Apaga `node_modules` e tenta de novo uma vez |
-| `.env` | Cria a partir do `.env.example`; preenche `BETTER_AUTH_SECRET`, `AUTH_TEST_LOGIN_TOKEN` e `ADMIN_GITHUB_USERS` só se estiverem vazias; avisa sobre `DATABASE_URL` local, `GITHUB_REPO` sem token e `CRON_SECRET` curto |
-| Porta 5173 | Encerra o processo que a ocupa; se não conseguir, o Vite usa a próxima livre |
+| Confere Node 24 | Para e diz como instalar |
+| Confere Bun 1.4.0 ou mais novo | Para e diz como instalar ou atualizar |
+| `bun install` | Para com o erro do Bun |
+| `.env` | Cria a partir do `.env.example`; preenche `BETTER_AUTH_SECRET` e `AUTH_TEST_LOGIN_TOKEN` com valores aleatórios e `ADMIN_GITHUB_USERS` com o usuário do `gh`, só se estiverem vazias; avisa sobre `DATABASE_URL` definida, `GITHUB_REPO` sem token e `CRON_SECRET` curto |
+| Porta 5173 | Ocupada: usa a próxima livre e avisa. Com `PORT=` definido, para em vez de trocar |
 | `bun run dev` | |
 
-Opções: `--no-start` prepara sem subir o servidor; `PORT=5180 bash setups/...` usa outra porta.
+O que os `-with-docker` fazem: conferem `docker`, `docker compose` e se o daemon está rodando (dizendo o que instalar ou iniciar), preparam o `.env` do mesmo jeito, escolhem a porta a partir da 8080, buildam a imagem e sobem o container, esperando ele ficar saudável. Não exigem Node nem Bun na máquina.
 
-O banco local é o PGlite embutido, criado e migrado sozinho na primeira subida: não há container a subir. Um Postgres em Docker não serve, porque com `DATABASE_URL` o servidor usa o driver HTTP do Neon (`src/lib/server/db/index.ts`), que um Postgres comum não atende.
+Opções, nos quatro:
+
+| Opção | Efeito |
+|---|---|
+| `--no-start` ou `SETUP_NO_START=1` | Prepara tudo sem subir o servidor (nos de Docker, builda a imagem e não sobe o container) |
+| `PORT=5180 bash setups/...` | Usa essa porta e falha se ela estiver ocupada |
+| `--help` | Mostra as opções |
+
+O banco local é o PGlite embutido, criado e migrado sozinho na primeira subida: não há container de banco. Um Postgres em Docker não serve, porque com `DATABASE_URL` o servidor usa o driver HTTP do Neon (`src/lib/server/db/index.ts`), que um Postgres comum não atende.
+
+Roteiro completo de um clone novo até a produção, com a verificação de cada passo: [`agent-setup.md`](agent-setup.md).
+
+### Docker
+
+Os arquivos ficam em `infra/`, e o contexto do build é a raiz do repositório (por isso o `.dockerignore` está na raiz).
+
+| Arquivo | O que faz |
+|---|---|
+| `infra/Dockerfile` | Parte de `oven/bun` com tag fixa, acrescenta o Node 24, roda `bun install --frozen-lockfile` e `bun run build`, e serve com `vite preview` na porta 4173, como usuário sem privilégio |
+| `infra/docker-compose.yml` | Publica a porta só em `127.0.0.1` (padrão 8080, variável `APP_PORT`), passa o `.env` da raiz ao container e guarda o banco embutido em um volume |
+
+```bash
+docker compose --file infra/docker-compose.yml up --build --detach --wait   # o que o script de setup roda
+docker compose --file infra/docker-compose.yml logs --follow
+docker compose --file infra/docker-compose.yml down                         # --volumes apaga também o banco
+```
+
+- O build da imagem não recebe `LINKS_DASHBOARD_TOKEN` nem `VERCEL_ENV`: o `scripts/sync-links.ts` só valida os links de afiliado e não envia nada ao dashboard. O `.env` nunca entra na imagem; ele só é lido quando o container sobe.
+- É o build de produção, o mesmo artefato dos testes e2e. O site público é estático: conteúdo salvo pelo painel dentro do container fica só no container e não aparece no site sem um build novo. Para editar conteúdo, use o servidor de desenvolvimento.
+- A porta padrão é a 8080 para não colidir com a 4173, que os testes e2e usam na máquina.
+- A produção não usa Docker: roda na Vercel ([`deploy.md`](deploy.md)).
 
 ## Scripts
 

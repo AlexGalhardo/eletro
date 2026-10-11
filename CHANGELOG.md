@@ -6,6 +6,23 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.5.1] - 2026-10-11
+
+### Added
+
+- `docs/agent-setup.md`: roteiro para um agente preparar o projeto do zero, com comando e verificação por passo (dependências, `.env`, banco, execução local, Docker, testes, conteúdo, GitHub e release, Vercel, dashboard de links). `docs/tooling.md` e `docs/workflows.md` descrevem as ferramentas e a ordem de trabalho.
+- `infra/`: `Dockerfile` (`oven/bun` com tag fixa e Node 24) e `docker-compose.yml` que buildam e servem o build de produção em `http://localhost:8080`, com `.dockerignore` na raiz. O build da imagem só valida os links de afiliado, sem enviar nada ao dashboard.
+- `setups/setup-unix-with-docker.sh` e `setups/setup-windows-with-docker.sh`: conferem o Docker, preparam o `.env`, buildam a imagem e sobem o container.
+
+### Changed
+
+- `setups/setup-unix.sh` e `setups/setup-windows.sh` passam a se chamar `setup-unix-local.sh` e `setup-windows-local.sh`.
+- Os scripts de setup não instalam mais o Bun nem encerram o processo que ocupa a porta: dizem como instalar o que falta, usam a próxima porta livre (ou param, se a porta foi pedida com `PORT=`) e aceitam `SETUP_NO_START=1` além de `--no-start`. Os segredos gerados não dependem mais do Node.
+
+### Fixed
+
+- `.env.example`: um comentário quebrado em duas linhas deixava uma linha sem `#`, e o Docker Compose recusava o `.env` criado a partir dele.
+
 ## [1.5.0] - 2026-10-11
 
 ### Added
@@ -346,7 +363,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...v1.3.0

@@ -16,7 +16,10 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 |---|---|
 | [architecture.md](architecture.md) | Entender as pastas, o fluxo de uma página e as decisões de projeto |
 | [content.md](content.md) | Criar ou alterar posts, listas de produtos e componentes de Markdown |
-| [development.md](development.md) | Rodar o projeto, usar os scripts, configurar variáveis de ambiente |
+| [agent-setup.md](agent-setup.md) | Preparar o projeto do zero: dependências, `.env`, banco, Docker, testes, GitHub, Vercel e dashboard de links, com a verificação de cada passo |
+| [development.md](development.md) | Rodar o projeto, usar os scripts de `setups/` e o Docker de `infra/`, configurar variáveis de ambiente |
+| [tooling.md](tooling.md) | Saber o que cada ferramenta faz, onde está a configuração e o que os hooks do git rodam |
+| [workflows.md](workflows.md) | Saber a ordem de uma mudança, do pedido ao deploy, e os passos próprios de cada tipo de tarefa |
 | [testing.md](testing.md) | Escrever ou rodar testes |
 | [cms.md](cms.md) | Trabalhar no painel: banco, autenticação, armazenamento de conteúdo, serviço do CMS |
 | [api.md](api.md) | Usar ou alterar a API REST `/api/v1` |

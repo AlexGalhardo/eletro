@@ -34,7 +34,11 @@ static/                     imagens e arquivos servidos como estão
 drizzle/                    migrations SQL do banco
 scripts/
   release.ts                versão e changelog a partir dos commits
+  sync-links.ts             valida e registra os links de afiliado, antes de todo build
   cover-variants.ts         cópias redimensionadas das capas, no build
+setups/                     scripts que preparam a máquina e sobem o projeto, local ou em Docker
+infra/                      Dockerfile e docker-compose do build de produção em container
+.dockerignore               o que fica fora da imagem (o contexto do build é a raiz)
 webscrapping/               leitura de um post de outro site (busca, parser, rascunho)
 src/
   app.html, app.css         casca HTML e estilos globais
