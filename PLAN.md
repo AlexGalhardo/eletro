@@ -320,6 +320,16 @@ Técnicas, sem bloqueio externo:
 - [ ] Busca e paginação em `/admin/newsletter`; exclusão de imagem
 - [ ] Causa da navegação que às vezes não completa nos testes e2e sob carga
 
+### R6. Setup do zero, scripts e Docker (1.5.1)
+
+- [x] `docs/agent-setup.md`: roteiro de um clone novo até a produção, com comando e verificação por passo (dependências, `.env`, banco, execução local, Docker, testes, conteúdo, GitHub e release, Vercel, dashboard de links)
+- [x] `docs/tooling.md` (ferramentas, configuração, hooks, Docker, ferramentas dos agentes) e `docs/workflows.md` (ordem de uma mudança, passos por tipo de tarefa, release, deploy), ligando aos documentos que já existiam
+- [x] `setups/` com quatro scripts: `setup-unix-local.sh`, `setup-windows-local.sh`, `setup-unix-with-docker.sh`, `setup-windows-with-docker.sh`, sobre as funções de `setups/_common.sh`. Não instalam nem encerram nada por conta própria: dizem o que falta, escolhem outra porta ou param
+- [x] `infra/Dockerfile` (`oven/bun:1.4.2-slim` com o Node `24.21.0`), `infra/docker-compose.yml` e `.dockerignore` na raiz
+- [x] `.env.example`: comentário que quebrava em duas linhas (a segunda sem `#`) corrigido; o Docker Compose recusava o `.env` gerado a partir dele
+
+**Assert:** os scripts passam em `bash -n`; no Windows (Git Bash), o `-local` e o `-with-docker` rodam de ponta a ponta e podem ser repetidos; `check`, `lint` e `test` verdes. (Verificado em 2026-10-11, Windows 11, Docker 29.8.1, Compose 5.5.1: `setup-windows-local.sh --no-start` cria o `.env`, preenche os dois segredos e, na segunda execução, não altera nada; com a 5173 ocupada, escolhe a 5174, e com `PORT=5173` para com código 1. `setup-windows-with-docker.sh` builda a imagem, o container fica `Healthy`, a home, um post, o sitemap e a API respondem 200, a entrada local cria a sessão e `/admin` responde 200; o processo roda como o usuário `bun` e não há `.env` na imagem. **Não executados:** os dois scripts `-unix-` fora do `bash -n` e da recusa de plataforma, por falta de uma máquina macOS ou Linux nesta sessão; `shellcheck`, que não está instalado.)
+
 ---
 
 ## Onde a sessão de 2026-10-06 parou
@@ -352,6 +362,8 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-07 | Google pelo painel com conta de serviço, não com o OAuth do login | Sem tela de consentimento, sem token para renovar e sem escopo sensível no login; o acesso é dado ao e-mail da conta dentro do Search Console e do Analytics |
 | 2026-10-07 | Excluir lista em uso despublica os posts em vez de recusar | Pedido do dono; o post vira rascunho sem o `<CardsTable>`, então nada fica no ar com os produtos faltando e toda referência continua apontando para uma lista que existe |
 | 2026-10-07 | Saída do release candidate: `1.0.0` | Decisão do dono, com o site em produção. As "Pendências conhecidas para a 1.0.0" que seguem abertas passam a ser trabalho das próximas versões |
+| 2026-10-11 | Docker só para rodar o build de produção na máquina (`vite preview` em `infra/`), sem container de banco | Pedido do dono. A produção segue na Vercel; o servidor só fala com o Neon ou com o PGlite embutido, então um Postgres em container não teria uso |
+| 2026-10-11 | Scripts de setup não instalam o Bun nem encerram o processo que ocupa a porta | Um script que instala software ou mata processos de outra pessoa surpreende; agora ele diz o que fazer, usa a próxima porta livre ou para |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
 
 ## Pendências do dono

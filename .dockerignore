@@ -1,0 +1,31 @@
+# Read by Docker for the build context of infra/Dockerfile, which is the repository root.
+
+# Secrets and local state: never inside an image
+.env
+.env.*
+.data
+
+# Rebuilt inside the image
+node_modules
+.svelte-kit
+.vercel
+.netlify
+.output
+build
+static/images/covers/w*/
+
+# Not needed to build or serve the site
+.git
+.github
+.husky
+.claude
+.agents
+docs
+infra
+setups
+tests
+test-results
+playwright-report
+coverage
+graphify-out
+*.md
