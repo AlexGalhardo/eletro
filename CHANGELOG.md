@@ -6,6 +6,21 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.6.1] - 2026-10-11
+
+### Changed
+
+- Skills `project-new-post` e `project-new-product-list` descrevem as regras atuais dos links de afiliado: o JSON guarda o endereço real da loja, o botão passa pelo dashboard de links, `#`, vazio e `null` não são link, e o `id` do produto (com o slug do post) é a identidade no dashboard, então mudá-lo apaga os cliques e repeti-lo no mesmo post falha o build.
+- Commit `content:` feito em uma sessão de trabalho é uma release; a skill `project-new-post` dizia que não era. Só os commits do painel em produção ficam sem versão.
+- `.claude/rules/` sem repetição: `content.md` e `testing.md` apontam para `docs/content.md` e `docs/testing.md`, `git-and-releases.md` cita os hooks `pre-commit` e `pre-push` e deixa a regra de versão na skill `project-release`.
+- graphify passou a ser opcional de fato: o `AGENTS.md` diz como gerar e atualizar o grafo (`python -m graphify update .`) e a skill saiu da carga obrigatória do início de sessão.
+- `docs/content.md`: `mercadolivreUrl: "#"` mantém o botão do Mercado Livre apontando para a oferta padrão, e o `id` é único também dentro do post.
+
+### Removed
+
+- `.claude/settings.json`: os hooks rodavam `python -m graphify hook-guard` a cada chamada de Bash, Grep, Read e Glob, falhavam em máquina sem Python e, com o grafo presente, repetiam o mesmo aviso em toda chamada.
+- `.claude/CLAUDE.md` e a seção "graphify" do `CLAUDE.md`, que afirmavam a existência de um grafo que o repositório não versiona.
+
 ## [1.6.0] - 2026-10-11
 
 ### Added
@@ -375,7 +390,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.1...HEAD
+[1.6.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.2...v1.6.0
 [1.5.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.0...v1.5.1

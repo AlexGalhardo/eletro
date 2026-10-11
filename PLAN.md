@@ -341,6 +341,15 @@ Técnicas, sem bloqueio externo:
 
 ---
 
+### R8. Revisão de `.claude/` (1.6.1)
+
+- [x] Regras e skills do projeto conferidas contra o código: links de afiliado pelo dashboard, id de produto, hooks do git, commit `content:` com release
+- [x] Um lugar por fato: `AGENTS.md` aponta para `.claude/rules/`, as regras apontam para `docs/` e para as skills `project-*`
+- [x] graphify opcional: hooks do Claude Code removidos (`.claude/settings.json`), `.claude/CLAUDE.md` removido, geração e atualização do grafo descritas no `AGENTS.md`
+- [x] Skills, agentes e checklists de terceiros mantidos sem alteração: todos são citados pelo `using-agent-skills` ou por outra skill do mesmo pacote
+
+**Assert:** `.claude/settings.json` não existe e `git grep hook-guard` só encontra o `CHANGELOG.md` e este plano; `bun run check`, `bun run lint` e `bun run test` passam.
+
 ## Onde a sessão de 2026-10-06 parou
 
 Todas as fases do plano foram percorridas. ALPHA publicada como `v0.1.0`; BETA (B1 a B7) e a fase 1.0.0-rc (R1 a R5) entregues, com a versão `v1.0.0-rc.1` marcada. O que separa o release candidate da `1.0.0` está em "Pendências conhecidas para a 1.0.0", no grupo R5: quase tudo depende do primeiro deploy ou de uma decisão do dono.

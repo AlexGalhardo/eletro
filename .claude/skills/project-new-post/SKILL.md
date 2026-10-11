@@ -16,21 +16,11 @@ Um post é um arquivo `content/posts/<slug>.mdx`. O corpo vira um componente Sve
 
 ## Arquivo
 
-- **Slug:** minúsculas, números e hífens, sem acento, de 3 a 96 caracteres. É o nome do arquivo e a URL, e não muda depois.
-- **Frontmatter**, validado por `postFrontmatterSchema` (`src/lib/content/schema.ts`):
-
-  | Campo | Regra |
-  |---|---|
-  | `title` | obrigatório |
-  | `description` | usado na home, nas metatags e no `llms.txt` |
-  | `date` | `AAAA-MM-DD`; data futura agenda o post |
-  | `category` | um `id` de `site.categories` em `src/lib/site.config.ts` |
-  | `cover` | `/images/covers/<arquivo>` que **exista** em `static/`, uma URL `https://`, ou vazio |
-  | `draft` | `true` deixa o post fora do site, do sitemap e da API |
-  | `author` | uma chave de `site.authors` |
-  | `faqData` | lista de `question` e `answer`; vira JSON-LD `FAQPage` |
-
-- **Corpo:** Markdown, mais `<CardsTable list="<lista>" />` onde os produtos aparecem.
+- **Slug:** minúsculas, números e hífens, sem acento, de 3 a 96 caracteres. É o nome do arquivo e a URL.
+- **O slug não muda depois de publicado.** Além de quebrar a URL, ele faz parte do id de cada produto no dashboard de links (`<site.url>/<slug do post>/<id do produto>`): trocar o slug cria registros novos e apaga os cliques dos antigos no próximo build. Ver `docs/affiliate-links.md`.
+- **Frontmatter:** campos e regras na tabela de `docs/content.md`, validados por `postFrontmatterSchema` (`src/lib/content/schema.ts`). O que mais derruba o build: `category` e `author` precisam existir em `src/lib/site.config.ts`, e `cover` local precisa existir em `static/images/covers/`.
+- **Corpo:** Markdown, mais `<CardsTable list="<lista>" />` onde os produtos aparecem. Um post pode exibir mais de uma lista, mas o mesmo `id` de produto não pode aparecer duas vezes no post: o build falha.
+- **Links de loja só nas listas de produtos.** Link de afiliado escrito direto no texto não passa pelo dashboard de links e fica sem contagem de cliques.
 
 ## O que o corpo não pode ter
 
@@ -52,15 +42,16 @@ Escreva texto original em português do Brasil. Não copie parágrafos de outro 
 ## Conferir
 
 ```bash
-bun run test     # valida frontmatter, corpo, listas e imagens de todo o conteúdo
-bun run build    # compila o post de verdade
+bun run test         # valida frontmatter, corpo, listas e imagens de todo o conteúdo
+bun run sync-links   # valida os links de afiliado dos posts publicados; sem a chave, não envia nada
+bun run build        # compila o post de verdade
 ```
 
-Com `draft: true` o post não pode aparecer em lugar nenhum: os testes smoke (`bun run test:e2e`) conferem isso.
+Com `draft: true` ou data futura o post não pode aparecer em lugar nenhum, e os produtos dele ficam fora do dashboard de links até a publicação: os testes smoke (`bun run test:e2e`) conferem o site.
 
 ## Commit
 
-Tipo `content`, que não gera release: `content: add post <slug>`. Imagens e lista de produtos do post vão no mesmo commit ou em commits `content` próprios.
+Tipo `content`: `content: add post <slug>`. Imagens e lista de produtos do post vão no mesmo commit ou em commits `content` próprios. Feito em uma sessão de trabalho, o commit é uma release como qualquer outro (skill `project-release`); só os commits que o painel faz em produção ficam sem versão.
 
 ## Pelo painel
 

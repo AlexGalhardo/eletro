@@ -19,6 +19,8 @@ bun scripts/release.ts --message "feat: descrição do commit" --dry-run   # con
 bun scripts/release.ts --message "feat: descrição do commit" --notes "$TMPDIR/notas.md"
 ```
 
+`$TMPDIR` existe no macOS, no Linux e no Git Bash; em outro shell do Windows, use `$TEMP`. Os três primeiros comandos são os mesmos do hook `pre-push`: se falharem, o push não sai.
+
 O script atualiza `package.json` e move `Unreleased` para `## [X.Y.Z] - AAAA-MM-DD`, com os links do rodapé.
 
 ## 2. Regra de versão
@@ -43,6 +45,8 @@ git push origin main vX.Y.Z
 gh release create vX.Y.Z --title vX.Y.Z --notes-file "$TMPDIR/notas.md"   # --prerelease em rc
 ```
 
+O push na `main` dispara o deploy de produção, e o build confere as variáveis de ambiente e sincroniza os links de afiliado antes de compilar: se algum desses passos falhar, o site continua na versão anterior.
+
 Um commit por mudança lógica continua valendo: dois commits são duas versões, duas tags e dois releases.
 
 ## 4. Conferir
@@ -50,6 +54,7 @@ Um commit por mudança lógica continua valendo: dois commits são duas versões
 ```bash
 git describe --tags --exact-match     # a tag aponta para o HEAD
 gh release view vX.Y.Z --json tagName,isPrerelease
+vercel ls eletroradar.com.br          # só leitura: o deploy do commit chega a Ready
 ```
 
 Tarefa só está entregue quando o último commit tem tag e GitHub Release. Faltou publicar a de um commit antigo? `bun scripts/release.ts --section X.Y.Z --notes notas.md` devolve as notas daquela versão.
