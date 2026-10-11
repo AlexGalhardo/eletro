@@ -122,9 +122,11 @@ Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem
 
 Conferido em `src/lib/components/CardsTable.svelte`:
 
-- `mercadolivreUrl: "#"`: o botão do Mercado Livre aparece e aponta para `site.fallbackAffiliateUrl`.
-- `shopeeUrl: "#"` e `amazonUrl: "#"`: os botões aparecem com `href="#"`, ou seja, abrem a própria página em outra aba. **São links mortos.**
-- A foto e o nome do produto usam o primeiro link preenchido; com `mercadolivreUrl: "#"` eles também apontam para `#`.
+- `mercadolivreUrl: "#"`: o botão do Mercado Livre aparece e aponta para a oferta padrão (`site.fallbackAffiliateUrl`, pelo dashboard de links).
+- `shopeeUrl: "#"` e `amazonUrl: "#"`: os botões não aparecem.
+- A foto e o nome do produto usam a primeira loja com endereço real; sem nenhuma, apontam para a oferta padrão.
+
+Desde a 1.3.0 todo link passa pelo dashboard de links: ver [affiliate-links.md](affiliate-links.md).
 
 Antes de publicar, cada link precisa virar um endereço real ou ser removido da lista (valor `null` ou campo ausente: o botão só aparece quando o campo tem valor).
 

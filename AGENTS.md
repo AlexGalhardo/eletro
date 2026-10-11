@@ -42,6 +42,7 @@ Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quand
 | [`docs/setup-vercel.md`](docs/setup-vercel.md) | Passo a passo completo do deploy na Vercel, com conferência e problemas comuns |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
 | [`docs/google-console-analytics-setup.md`](docs/google-console-analytics-setup.md) | Google Search Console e Analytics em `/admin/google`: conta de serviço, permissões, variáveis e problemas comuns |
+| [`docs/affiliate-links.md`](docs/affiliate-links.md) | Links de afiliado: registro no dashboard de links a cada build, id dos produtos, redirect nos botões |
 | [`docs/webscrapping-modelation.md`](docs/webscrapping-modelation.md) | Importação de posts por web scraping: resultado do estudo, `webscrapping/`, `/admin/import`, limites |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões (Keep a Changelog) |
 
@@ -54,7 +55,8 @@ bash setups/setup-unix.sh     # prepara tudo e sobe o dev (macOS, Linux, WSL)
 bash setups/setup-windows.sh  # o mesmo no Windows, pelo Git Bash
 bun install          # dependências (versões exatas)
 bun run dev          # servidor de desenvolvimento
-bun run build        # build de produção (valida todo o conteúdo)
+bun run build        # build de produção (valida o conteúdo e sincroniza os links de afiliado)
+bun run sync-links   # só a validação e o envio dos links ao dashboard
 bun run check        # svelte-check + TypeScript
 bun run lint         # Biome + markdownlint
 bun run format       # Biome com correção automática
