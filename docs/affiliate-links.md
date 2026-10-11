@@ -49,6 +49,17 @@ Sem o token:
 
 O dashboard só aceita links de um projeto cujo site responde. Em um site novo, publique primeiro uma versão sem posts, crie o projeto no dashboard com a URL do site e só então defina o token.
 
+## Exportar para o dashboard
+
+O painel (`/admin`, seção "Links de afiliado") baixa todos os links dos posts publicados em JSON ou CSV, pelo endpoint `GET /api/v1/affiliate-links?format=json|csv`. O arquivo tem o mesmo conteúdo que o build envia e usa o formato de importação do dashboard (Projetos → "Importar JSON/CSV"), que ignora o que já está cadastrado e os links mortos.
+
+| Formato | Conteúdo |
+|---|---|
+| JSON | Array de `{ externalId, name, pageUrl, category, links: [{ url, store }] }` |
+| CSV | Cabeçalho `externalId,url,name,pageUrl,category,store`, uma linha por link |
+
+O uso normal não depende disso: o build já sincroniza. A exportação serve para conferir o catálogo ou repor os dados em um dashboard novo.
+
 ## Reusar em outro site
 
 Troque `site.url`, `site.linksDashboardUrl` e `site.fallbackAffiliateUrl`, crie o projeto no dashboard e defina `LINKS_DASHBOARD_TOKEN` no deploy. `src/lib/affiliate-links.ts` é o mesmo arquivo em todos os sites.

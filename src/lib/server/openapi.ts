@@ -192,6 +192,56 @@ export function openApiDocument(version: string): Json {
 					},
 				},
 			},
+			"/affiliate-links": {
+				get: {
+					summary:
+						"Export of every affiliate link of the published posts, as a file the links dashboard imports",
+					...admin,
+					parameters: [
+						{
+							name: "format",
+							in: "query",
+							schema: { type: "string", enum: ["json", "csv"], default: "json" },
+						},
+					],
+					responses: {
+						"200": {
+							description: "The file: a bare JSON array, or a CSV with one row per link",
+							content: {
+								"application/json": {
+									schema: {
+										type: "array",
+										items: {
+											type: "object",
+											required: ["externalId", "links"],
+											properties: {
+												externalId: { type: "string" },
+												name: { type: "string" },
+												pageUrl: { type: "string" },
+												category: { type: "string" },
+												links: {
+													type: "array",
+													items: {
+														type: "object",
+														required: ["url", "store"],
+														properties: {
+															url: { type: "string" },
+															store: { type: "string" },
+														},
+													},
+												},
+											},
+										},
+									},
+								},
+								"text/csv": { schema: { type: "string" } },
+							},
+						},
+						"400": failure("Unknown format"),
+						"401": failure("No admin session"),
+					},
+				},
+			},
 			"/products": {
 				get: {
 					summary: "Names of the product lists",

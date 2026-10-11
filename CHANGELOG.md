@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-10-11
+
+### Added
+
+- Painel: botões "Exportar links (JSON)" e "Exportar links (CSV)" baixam todos os links de afiliado dos posts publicados no formato de importação do dashboard de links (`GET /api/v1/affiliate-links`).
+
 ## [1.3.0] - 2026-10-11
 
 ### Added
@@ -329,7 +335,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.0.6...v1.1.0

@@ -59,6 +59,29 @@ export function catalogueProblems(products: CatalogueProduct[]): string[] {
 	return problems;
 }
 
+const CSV_HEADER = ["externalId", "url", "name", "pageUrl", "category", "store"] as const;
+
+const csvCell = (value: string): string =>
+	/[",\r\n]/.test(value) ? `"${value.replaceAll('"', '""')}"` : value;
+
+/**
+ * The catalogue as the CSV the dashboard imports: one row per link, rows of a product share its externalId.
+ * The JSON export is the catalogue itself (JSON.stringify), so both files carry the same data.
+ */
+export function catalogueToCsv(products: CatalogueProduct[]): string {
+	const rows = products.flatMap((product) =>
+		product.links.map((link) => [
+			product.externalId,
+			link.url,
+			product.name ?? "",
+			product.pageUrl ?? "",
+			product.category ?? "",
+			link.store,
+		]),
+	);
+	return `${[CSV_HEADER, ...rows].map((row) => row.map(csvCell).join(",")).join("\n")}\n`;
+}
+
 export interface SyncSummary {
 	productsCreated: number;
 	productsUpdated: number;
