@@ -84,8 +84,8 @@ Uso e limites em [`development.md`](development.md#docker). O Docker serve para 
 | Skills do projeto | `.claude/skills/project-*/` | `project-new-post`, `project-new-product-list`, `project-release` |
 | Regras | `.claude/rules/` | Estilo, conteúdo, dependências, git e testes |
 | Agentes especializados | `.claude/agents/` | `code-reviewer`, `security-auditor`, `test-engineer`, `web-performance-auditor` |
-| Checklists | `.claude/references/` | Segurança, desempenho, acessibilidade, testes, definição de pronto |
-| graphify | `graphify-out/` (fora do git) | Grafo de conhecimento do código; opcional, exige Python |
+| Checklists | `.claude/references/` | Segurança, desempenho, acessibilidade, observabilidade, testes, orquestração de agentes, definição de pronto |
+| graphify | `graphify-out/` (fora do git) | Grafo de conhecimento do código; opcional, exige Python. Gerar e atualizar: `python -m graphify update .` (ver [`AGENTS.md`](../AGENTS.md#grafo-de-conhecimento-opcional)) |
 
 ## Acrescentar ou atualizar uma ferramenta
 

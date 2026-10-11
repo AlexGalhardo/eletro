@@ -5,7 +5,7 @@
 - Node 24 (fixado em `engines` do `package.json`)
 - Bun 1.4 ou mais novo
 - Docker com Compose v2, opcional, só para rodar o build de produção em container
-- Python 3 com `graphifyy`, opcional, só para o grafo de conhecimento usado pelos agentes
+- Python 3 com `graphifyy`, opcional, só para o grafo de conhecimento usado pelos agentes (`python -m graphify update .`)
 
 ## Primeiro uso
 

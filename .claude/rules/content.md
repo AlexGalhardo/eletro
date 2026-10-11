@@ -1,9 +1,11 @@
 # Conteúdo
 
-- Post: `content/posts/<slug>.mdx`. O nome do arquivo é o slug e a URL (`/<slug>`). Slug em minúsculas, com hífens, sem acento.
-- Frontmatter validado por `postFrontmatterSchema` em `src/lib/content/schema.ts`: `title`, `description`, `date` (AAAA-MM-DD), `category` (um id de `site.categories`), `cover`, `draft`, `author` (uma chave de `site.authors`), `faqData`.
-- `draft: true` ou data futura mantém o post fora do site, do sitemap e da API pública.
-- Lista de produtos: `content/products/<lista>.json`, um array validado por `productListSchema`. O post exibe a lista com `<CardsTable list="<lista>" />`.
-- Componentes disponíveis no Markdown ficam registrados em `src/lib/content/mdx-preprocess.ts`. Não use chaves `{` `}` no texto do post: o mdsvex as interpreta como expressão Svelte.
-- Imagens em `static/images/` (`covers/` em WebP 16:9, `posts/` para produtos, `avatars/`).
-- Mudou o formato do conteúdo? Atualize o schema, os testes de integração e `docs/content.md` juntos.
+O formato dos arquivos (campos, exemplos, componentes, imagens) está em `docs/content.md`; as regras dos links de afiliado, em `docs/affiliate-links.md`. Para criar ou editar, use as skills `project-new-post` e `project-new-product-list`. Aqui fica só o que não pode ser quebrado:
+
+- O nome do arquivo `content/posts/<slug>.mdx` é o slug e a URL (`/<slug>`). Slug e `id` de produto são identidade: os dois entram no id do link no dashboard (`<site.url>/<slug do post>/<id do produto>`). Mudar qualquer um apaga o histórico de cliques daquele produto.
+- O mesmo `id` de produto não pode aparecer duas vezes no mesmo post, mesmo em listas diferentes: o build falha.
+- Os campos de loja guardam o endereço real da loja (`https://`). O redirect pelo dashboard é montado pelo site; não escreva o endereço do dashboard no JSON nem link de loja direto no texto do post.
+- `draft: true` ou data futura mantém o post fora do site, do sitemap, da API pública e do dashboard de links.
+- Não use chaves `{` `}` no texto do post: o mdsvex as interpreta como expressão Svelte. Só os componentes registrados em `src/lib/content/mdx-preprocess.ts` podem aparecer.
+- Imagem local referenciada precisa existir em `static/images/`: o site é pré-renderizado e um arquivo ausente derruba o build.
+- Mudou o formato do conteúdo? Atualize o schema (`src/lib/content/schema.ts`), os testes de integração e `docs/content.md` juntos.

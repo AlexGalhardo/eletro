@@ -14,7 +14,6 @@ Antes de responder ou editar qualquer coisa, nesta ordem:
    - `using-agent-skills`: roteador das skills de engenharia do pacote agent-skills
    - `karpathy-guidelines`: pensar antes de codar, simplicidade, mudanças cirúrgicas, critérios verificáveis
    - `ponytail`: a solução mais simples que funciona; fica ativa a sessão inteira
-   - `graphify`: consulte o grafo (`graphify query "<pergunta>"`) antes de varrer o código, quando `graphify-out/` existir
 2. Leia o [`PLAN.md`](PLAN.md) para saber a fase atual e o próximo item em aberto.
 3. Leia o [`docs/README.md`](docs/README.md) e, dele, só a documentação do assunto em que vai mexer.
 4. Leia as regras em [`.claude/rules/`](.claude/rules/).
@@ -22,6 +21,22 @@ Antes de responder ou editar qualquer coisa, nesta ordem:
 Skills próprias deste projeto: `project-new-post` (criar ou editar um post), `project-new-product-list` (lista de produtos) e `project-release` (lançar uma versão).
 
 Durante o trabalho, carregue a skill específica da tarefa: `interview-me` quando o pedido estiver ambíguo, `spec-driven-development` e `planning-and-task-breakdown` antes de uma feature nova, `source-driven-development` para qualquer API de framework, `test-driven-development` ao escrever lógica, `security-and-hardening` em autenticação, entrada de usuário e integrações, `git-workflow-and-versioning` e `project-release` em todo commit (cada commit é uma release).
+
+As skills de terceiros são cópias sem alteração; origem e versão em [`.claude/skills/SOURCES.md`](.claude/skills/SOURCES.md). A `browser-testing-with-devtools` pede o MCP `chrome-devtools`, que este projeto não configura: a verificação no navegador é feita com Playwright (`.claude/rules/testing.md`).
+
+### Grafo de conhecimento (opcional)
+
+O graphify monta um grafo do código em `graphify-out/`, que fica fora do git: cada máquina gera o seu, e nada no projeto depende dele.
+
+```bash
+pip install graphifyy                     # uma vez por máquina (Python 3)
+python -m graphify update .               # gera ou atualiza o grafo; cerca de 10 segundos, sem chave de API
+python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain "<conceito>"
+```
+
+- Com `graphify-out/graph.json` presente, consulte o grafo antes de varrer o código e rode o `update` de novo depois de mudar código: nada o atualiza sozinho.
+- Sem o arquivo, use a busca normal.
+- O `update` lê só a estrutura do código; os componentes `.svelte` entram de forma parcial. A skill `graphify` (`/graphify`) faz a extração completa, com modelo de linguagem.
 
 ## Documentação (onboarding)
 
@@ -74,9 +89,8 @@ bun run test:e2e     # Playwright: smoke e e2e
 
 - **SvelteKit 3 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** Consulte o MCP do Svelte (`.mcp.json`) ou <https://svelte.dev/docs/kit/llms.txt> antes de usar qualquer API. Resumo do que mudou: configuração no `vite.config.ts` (não existe `svelte.config.js`), imports com `#lib/...` e extensão explícita (não existe `$lib`), `$app/env` e `$app/state` (não existem `$app/environment` nem `$app/stores`), runes em todo componente.
 - **Dependências:** sempre a última versão estável, com versão exata, sem `^` nem `~`. Confira no registry, não de memória. Ver `.claude/rules/dependencies.md`.
-- **Formatação:** tab com largura 4 (Biome e `.editorconfig`). YAML e Markdown usam 2 espaços.
-- **Commits:** Conventional Commits, validados pelo commitlint. Commits de conteúdo usam o tipo `content`.
-- **Todo commit é uma release:** antes de commitar, `bun scripts/release.ts --message "<mensagem>"` corta a versão no `package.json` e no `CHANGELOG.md`; depois do commit, tag `vX.Y.Z`, push e `gh release create`. Sem exceção para `docs` ou `chore`; só os commits `content:` do painel em produção ficam de fora. Ver a skill `project-release` e `.claude/rules/git-and-releases.md`.
+- **Formatação:** tab com largura 4 (Biome e `.editorconfig`); YAML e Markdown usam 2 espaços. Demais regras de código em `.claude/rules/code-style.md`.
+- **Commits:** Conventional Commits, e todo commit é uma release (versão, `CHANGELOG.md`, tag e GitHub Release), sem exceção para `docs` ou `chore`. Regras em `.claude/rules/git-and-releases.md`; passo a passo na skill `project-release`.
 - **Segredos:** nada de chave real no repositório. `.env.example` só tem placeholders.
 - **Indexação:** `/admin` e `/api` são bloqueados no `robots.txt` (`Disallow`), nunca aparecem em `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`. Os robôs de coleta em massa e de treino de IA de `site.blockedCrawlers` são recusados no site inteiro; buscadores e assistentes continuam liberados.
 - **CI:** os workflows ficam em `.github/workflows-disabled/`. Não mova para `.github/workflows/` sem o dono pedir.

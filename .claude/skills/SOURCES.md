@@ -1,6 +1,6 @@
 # Origem das skills
 
-Skills de terceiros copiadas para este repositório em 2026-10-06. Para atualizar, copie de novo a partir da origem e ajuste a tabela.
+Skills de terceiros copiadas para este repositório em 2026-10-06, sem alteração de conteúdo. Para atualizar, copie de novo a partir da origem e ajuste a tabela. As três `project-*` são deste projeto e não entram aqui.
 
 | Skills | Origem | Commit | Licença |
 |---|---|---|---|
@@ -9,4 +9,4 @@ Skills de terceiros copiadas para este repositório em 2026-10-06. Para atualiza
 | `ponytail`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help`, `ponytail-review` | <https://github.com/dietrichgebert/ponytail> | `552acd5` | MIT |
 | `graphify` | <https://github.com/Graphify-Labs/graphify>, instalada com `python -m graphify install --project` (pacote `graphifyy`) | versão em `graphify/.graphify_version` | ver repositório |
 
-Os hooks do graphify estão em `.claude/settings.json` e chamam `python -m graphify`, o que exige `pip install graphifyy` na máquina.
+O que o projeto usa de cada pacote está no [`AGENTS.md`](../../AGENTS.md). O graphify é opcional: o grafo (`graphify-out/`) fica fora do git e o projeto não instala os hooks dele, nem os do Claude Code nem os do git.
