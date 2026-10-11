@@ -60,7 +60,8 @@ bash setups/setup-unix-with-docker.sh     # build de produção em Docker, com o
 bash setups/setup-windows-with-docker.sh  # o mesmo no Windows, pelo Git Bash
 bun install          # dependências (versões exatas)
 bun run dev          # servidor de desenvolvimento
-bun run build        # build de produção (valida o conteúdo e sincroniza os links de afiliado)
+bun run build        # build de produção (confere as variáveis de ambiente, valida o conteúdo e sincroniza os links de afiliado)
+bun run check-env    # só a conferência das variáveis de ambiente (scripts/check-env.ts)
 bun run sync-links   # só a validação e o envio dos links ao dashboard
 bun run check        # svelte-check + TypeScript
 bun run lint         # Biome + markdownlint

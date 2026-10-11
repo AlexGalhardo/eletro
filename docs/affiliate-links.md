@@ -7,7 +7,7 @@ O contrato completo (endpoints, respostas, regras) está no repositório do dash
 ## Como funciona
 
 1. O painel `/admin` (ou um commit direto) grava a lista de produtos em `content/products/*.json`, com o endereço real da loja em `mercadolivreUrl`, `shopeeUrl` e `amazonUrl`.
-2. Todo build roda `scripts/sync-links.ts` antes do `vite build`. O script lê os posts publicados, monta o catálogo e envia tudo ao dashboard com `PUT /api/v1/links`.
+2. Todo build roda `scripts/sync-links.ts` antes do `vite build` (e depois de `scripts/check-env.ts`, que já recusa o build de produção sem a chave). O script lê os posts publicados, monta o catálogo e envia tudo ao dashboard com `PUT /api/v1/links`.
 3. Se o dashboard recusar, estiver fora do ar ou a chave estiver errada, o build falha e o site continua na versão anterior. Nenhuma página vai ao ar com link que o dashboard não conhece.
 4. O `CardsTable` renderiza cada botão como `<dashboard>/link?id=<id do produto>&store=<loja>`.
 5. Ao abrir a página, o navegador consulta `<dashboard>/health`. Sem resposta (ou com erro) em 4 segundos, todos os botões passam a apontar direto para o endereço da loja. A venda não depende do dashboard; só a contagem do clique.

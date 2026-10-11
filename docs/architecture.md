@@ -34,6 +34,7 @@ static/                     imagens e arquivos servidos como estão
 drizzle/                    migrations SQL do banco
 scripts/
   release.ts                versão e changelog a partir dos commits
+  check-env.ts              confere as variáveis de ambiente, no começo de todo build
   sync-links.ts             valida e registra os links de afiliado, antes de todo build
   cover-variants.ts         cópias redimensionadas das capas, no build
 setups/                     scripts que preparam a máquina e sobem o projeto, local ou em Docker

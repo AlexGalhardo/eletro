@@ -106,6 +106,17 @@ describe("sign-in with GitHub", () => {
 		expect(await adminOf(callback)).toBeNull();
 	});
 
+	it("refuses a login outside the allow list whose allowed e-mail GitHub did not verify", async () => {
+		const callback = await signIn("github", {
+			login: "stranger",
+			email: "owner@example.com",
+			verified: false,
+		});
+
+		expect(callback.headers.get("location")).toContain("/admin/login?error=");
+		expect(await adminOf(callback)).toBeNull();
+	});
+
 	it("does not let a signed-in user rewrite their GitHub login", async () => {
 		const auth = await getAuth();
 		if (!auth) throw new Error("auth should be configured by the mocked environment");
@@ -135,6 +146,13 @@ describe("sign-in with Google", () => {
 
 	it("refuses an e-mail outside the allow list", async () => {
 		const callback = await signIn("google", { email: "stranger@example.com" });
+
+		expect(callback.headers.get("location")).toContain("/admin/login?error=");
+		expect(await adminOf(callback)).toBeNull();
+	});
+
+	it("refuses the sign-in of an allowed e-mail that Google did not verify", async () => {
+		const callback = await signIn("google", { email: "owner@example.com", verified: false });
 
 		expect(callback.headers.get("location")).toContain("/admin/login?error=");
 		expect(await adminOf(callback)).toBeNull();

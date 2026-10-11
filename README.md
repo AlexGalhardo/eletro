@@ -34,7 +34,7 @@ Painel na sua máquina, variáveis de ambiente e roteiro completo: [`docs/agent-
 | Comando | O que faz |
 |---|---|
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | Valida o conteúdo, sincroniza os links de afiliado e gera o build |
+| `bun run build` | Confere as variáveis de ambiente, valida o conteúdo, sincroniza os links de afiliado e gera o build |
 | `bun run check` | Checagem de tipos |
 | `bun run lint` | Biome e markdownlint |
 | `bun run format` | Correções automáticas |

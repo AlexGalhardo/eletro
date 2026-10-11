@@ -69,25 +69,29 @@ Sem `RESEND_API_KEY` nenhum e-mail sai: o servidor só registra no log que deixo
 
 Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas em `src/env.ts` e descritas em `.env.example`.
 
+O build de produção na Vercel (`VERCEL_ENV=production`) confere as variáveis antes de tudo (`scripts/check-env.ts`) e **falha** quando falta uma obrigatória ou quando alguma está com o formato errado. A mensagem lista uma linha por variável, sem mostrar valores. Regras e formatos: [development.md](development.md#conferência-no-build).
+
 | Variável | Valor |
 |---|---|
-| `DATABASE_URL` | String de conexão do Neon |
-| `BETTER_AUTH_SECRET` | `openssl rand -base64 32` |
-| `BETTER_AUTH_URL` | URL pública do site, por exemplo `https://example.com` |
-| `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` | Do OAuth App |
-| `ADMIN_GITHUB_USERS` | Usuários do GitHub que podem entrar, separados por vírgula |
-| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | Opcional: cliente OAuth do Google, com a URI de redirecionamento `<URL do site>/api/auth/callback/google` |
-| `ADMIN_EMAILS` | E-mails que podem entrar (necessário para o Google), separados por vírgula |
-| `GITHUB_TOKEN` | Token fine-grained |
-| `GITHUB_REPO` | `dono/repositorio` |
+| `DATABASE_URL` | Obrigatória: string de conexão do Neon (`postgres://` ou `postgresql://`) |
+| `BETTER_AUTH_SECRET` | Obrigatória: `openssl rand -base64 32` (no mínimo 32 caracteres) |
+| `BETTER_AUTH_URL` | Obrigatória: URL pública do site com `https`, por exemplo `https://example.com` |
+| `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` | Do OAuth App. É obrigatório um par de login completo: este ou o do Google |
+| `ADMIN_GITHUB_USERS` | Usuários do GitHub que podem entrar, separados por vírgula. É obrigatória ao menos uma das duas listas (esta ou `ADMIN_EMAILS`) |
+| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | Cliente OAuth do Google (ID terminado em `.apps.googleusercontent.com`, chave no formato `GOCSPX-...`), com a URI de redirecionamento `<URL do site>/api/auth/callback/google` |
+| `ADMIN_EMAILS` | E-mails que podem entrar (necessário para o Google), separados por vírgula. Só entra quem tem o e-mail verificado pelo provedor |
+| `GITHUB_TOKEN` | Obrigatória: token fine-grained |
+| `GITHUB_REPO` | Obrigatória: `dono/repositorio` |
 | `GITHUB_BRANCH` | Opcional; padrão `main` |
-| `RESEND_API_KEY` | Chave do Resend |
-| `RESEND_FROM_EMAIL` | `Nome <no-reply@seu-dominio>` |
+| `RESEND_API_KEY` | Opcional: chave do Resend |
+| `RESEND_FROM_EMAIL` | Opcional: `Nome <no-reply@seu-dominio>` |
 | `CONTACT_TO_EMAIL` | Opcional; padrão `contactEmail` de `site.config.ts` |
-| `CRON_SECRET` | `openssl rand -base64 32` (no mínimo 32 caracteres) |
+| `CRON_SECRET` | Obrigatória: `openssl rand -base64 32` (no mínimo 32 caracteres) |
 | `LINKS_DASHBOARD_TOKEN` | Obrigatório em produção: chave do dashboard de links (a mesma em todos os sites). Sem ele o build de produção falha. Ver [affiliate-links.md](affiliate-links.md) |
 | `MISTRAL_API_KEY` | Opcional: chave da Mistral (<https://console.mistral.ai/api-keys>, plano gratuito serve) para reescrever resumo e FAQ na importação |
 | `GOOGLE_SERVICE_ACCOUNT_EMAIL`, `GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY`, `GOOGLE_SEARCH_CONSOLE_SITE`, `GOOGLE_ANALYTICS_PROPERTY_ID` | Opcionais: dados do Search Console e do Analytics em `/admin/google` (passo a passo em [google-console-analytics-setup.md](google-console-analytics-setup.md)) |
+
+**Quem entra no painel:** só quem está em `ADMIN_EMAILS` (com o e-mail verificado pelo provedor) ou em `ADMIN_GITHUB_USERS`. Para liberar apenas alguns e-mails, liste-os em `ADMIN_EMAILS` e deixe `ADMIN_GITHUB_USERS` sem ninguém além de quem deve entrar: um usuário listado ali entra pelo GitHub mesmo com outro e-mail.
 
 Não defina `AUTH_TEST_LOGIN_TOKEN` nem `PGLITE_DIR` em produção. O login de testes já é ignorado quando existe `DATABASE_URL`, mas a variável não tem motivo para estar lá.
 
