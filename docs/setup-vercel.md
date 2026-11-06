@@ -1,6 +1,8 @@
 # Setup na Vercel, passo a passo
 
-Roteiro completo para colocar este projeto no ar na Vercel, do zero até o painel `/admin` publicando posts. Os exemplos usam o repositório `AlexGalhardo/eletroradar-cms` e o domínio `eletroradar`; troque pelos seus.
+> A produção de `eletroradar` é o GitHub Pages. Siga [`deploy.md`](deploy.md). O texto abaixo é o roteiro antigo e não descreve o host atual.
+
+Roteiro antigo para colocar este projeto no ar na Vercel. Os exemplos usam o repositório `AlexGalhardo/eletroradar-cms` e o domínio `eletroradar`.
 
 O resumo de todas as plataformas (inclusive Netlify) está em [`deploy.md`](deploy.md). Este documento detalha só a Vercel.
 

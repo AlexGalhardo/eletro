@@ -1,0 +1,13 @@
+---
+import { site } from "#lib/site.config.ts";
+import Site from "../layouts/Site.astro";
+import Page from "../routes/(site)/politica-de-privacidade/page.svelte";
+---
+
+<Site
+	title={`Política de Privacidade - ${site.name}.com.br`}
+	description={`Política de privacidade e cookies do ${site.name}.com.br`}
+	path="/politica-de-privacidade"
+>
+	<Page />
+</Site>

@@ -45,8 +45,8 @@ O envio é uma sincronização completa: o que saiu do site é removido do dashb
 
 Sem a chave:
 
-- Build de produção na Vercel (`VERCEL_ENV=production`): falha.
-- Qualquer outro build (local, testes, preview): o catálogo é validado e nada é enviado.
+- Build com `VERCEL_ENV=production` e sem a chave: falha.
+- GitHub Pages, local, testes e preview, sem a chave: o catálogo é validado e nada é enviado. Com a chave no secret `LINKS_DASHBOARD_TOKEN`, o workflow do Pages envia o catálogo.
 
 O site se identifica pelo próprio endereço (`site.url`) e o dashboard cria o projeto dele no primeiro build: não há cadastro manual. O dashboard só aceita links de um site que responde, então um site novo precisa do primeiro deploy no ar antes de definir a chave (sem ela, o build de preview passa e o de produção não).
 

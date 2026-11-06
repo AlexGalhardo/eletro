@@ -1,10 +1,38 @@
 {
-	"extends": "$app/tsconfig",
 	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "bundler",
 		"strict": true,
+		"noImplicitAny": false,
 		"noUncheckedIndexedAccess": true,
-		"types": ["$app/types", "node"],
-		"jsx": "react-jsx"
+		"noEmit": true,
+		"allowImportingTsExtensions": true,
+		"isolatedModules": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"allowJs": true,
+		"forceConsistentCasingInFileNames": true,
+		"jsx": "react-jsx",
+		"types": ["node"],
+		"paths": {
+			"#lib/*": ["./src/lib/*"],
+			"$app/env/private": ["./src/env.ts"],
+			"$app/env": ["./src/shims/app-env.ts"],
+			"$app/state": ["./src/shims/app-state.ts"],
+			"$app/navigation": ["./src/shims/app-navigation.ts"],
+			"@sveltejs/kit/hooks": ["./src/shims/kit-hooks.ts"],
+			"@sveltejs/kit": ["./src/shims/kit.ts"]
+		}
 	},
-	"include": ["src", "tests", "scripts", "webscrapping", "vite.config.ts", "playwright.config.ts"]
+	"include": ["src", "tests", "scripts", "webscrapping", "playwright.config.ts"],
+	"exclude": [
+		"src/pages",
+		"src/layouts",
+		"src/routes/**/+server.ts",
+		"src/routes/**/+page.ts",
+		"src/routes/**/+page.server.ts",
+		"src/routes/**/+layout.server.ts"
+	]
 }

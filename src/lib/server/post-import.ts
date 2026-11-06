@@ -94,7 +94,7 @@ export async function importPost(
 				`Já existe um post ou uma lista de produtos chamada "${draft.slug}". Edite o conteúdo existente.`,
 			]);
 
-		const products = [];
+		const products: Array<(typeof draft.products)[number]> = [];
 		const photos: Uint8Array[] = [];
 		for (const [index, product] of draft.products.entries()) {
 			// The image URL comes from the scraped page, so it gets the same allow-list check as the page.

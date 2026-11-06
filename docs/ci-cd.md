@@ -84,4 +84,4 @@ Resultado da última simulação e o que ela não cobre: grupo R1 do [`PLAN.md`]
 
 ## Deploy
 
-O deploy não passa pelo Actions: Vercel e Netlify publicam a cada push na `main`, inclusive os commits `content:` feitos pelo painel. O passo a passo da hospedagem está em [`deploy.md`](deploy.md).
+O site público é publicado pelo workflow `.github/workflows/pages.yml` a cada push na `main`. Os workflows desta pasta continuam inativos. O passo a passo da hospedagem está em [`deploy.md`](deploy.md).

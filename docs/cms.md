@@ -36,7 +36,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
 - `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
-- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/+layout.svelte`) tem a navegação e o botão "Sair". Em telas menores que `md` (768 px), a navegação, o tema e o "Sair" ficam atrás de um botão de menu (hambúrguer), que fecha ao escolher uma página.
+- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/layout.svelte`) tem a navegação e o botão "Sair". Em telas menores que `md` (768 px), a navegação, o tema e o "Sair" ficam atrás de um botão de menu (hambúrguer), que fecha ao escolher uma página.
 - Páginas do painel não carregam os scripts de analytics.
 
 ## Painel
@@ -51,7 +51,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 | `/admin/import` | Importa uma review de um site permitido e cria um rascunho (ver "Importação por web scraping") |
 | `/admin/google` | Dados do Search Console e do Analytics dos últimos 28 dias e reenvio do sitemap (ver [google-console-analytics-setup.md](google-console-analytics-setup.md)) |
 
-- As telas leem do `ContentStore` nos `+page.server.ts` e gravam pela API `/api/v1` (`src/lib/admin/api.ts`), que é o único caminho de escrita.
+- As telas leem do `ContentStore` nos `page.server.ts` e gravam pela API `/api/v1` (`src/lib/admin/api.ts`), que é o único caminho de escrita.
 - O formulário de produtos preserva as chaves que não conhece em cada produto. Id de produto deixado vazio é gerado do nome ao salvar.
 - A pré-visualização do Markdown roda em um `iframe` com `sandbox`: nenhum script do texto executa. Ela não renderiza os cartões de produto, só indica onde a lista entra.
 - **Status do deploy:** o painel compara o hash do arquivo salvo com o do arquivo empacotado no build em execução (`deploy.ts`). Diferente significa "aguardando deploy"; no editor a página se recarrega a cada 20 s até o deploy novo responder. Com o store local o aviso é "aparece no próximo build".

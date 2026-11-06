@@ -22,7 +22,7 @@ export default defineConfig({
 	],
 	// Tests run against the production build, the same artifact that gets deployed.
 	webServer: {
-		command: `bun run build && bun run preview --host 127.0.0.1 --port ${PORT} --strictPort`,
+		command: `bun run build && bun run preview --host 127.0.0.1 --port ${PORT}`,
 		url: ORIGIN,
 		reuseExistingServer: !process.env.CI,
 		timeout: 180_000,

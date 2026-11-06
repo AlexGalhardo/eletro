@@ -18,11 +18,11 @@ vi.mock("$app/env/private", async () => {
 	return testEnv({ CRON_SECRET: "cron-secret-0123456789abcdef0123456789" });
 });
 
-import * as confirmation from "../../src/routes/api/v1/newsletter/confirm/+server.ts";
-import * as dispatches from "../../src/routes/api/v1/newsletter/dispatches/+server.ts";
-import * as run from "../../src/routes/api/v1/newsletter/dispatches/run/+server.ts";
-import * as subscribers from "../../src/routes/api/v1/newsletter/subscribers/+server.ts";
-import * as leave from "../../src/routes/api/v1/newsletter/unsubscribe/+server.ts";
+import * as confirmation from "../../src/routes/api/v1/newsletter/confirm/server.ts";
+import * as run from "../../src/routes/api/v1/newsletter/dispatches/run/server.ts";
+import * as dispatches from "../../src/routes/api/v1/newsletter/dispatches/server.ts";
+import * as subscribers from "../../src/routes/api/v1/newsletter/subscribers/server.ts";
+import * as leave from "../../src/routes/api/v1/newsletter/unsubscribe/server.ts";
 
 const ORIGIN = "https://blog.example";
 const post = { title: "Melhor Cafeteira", description: "Resumo" };

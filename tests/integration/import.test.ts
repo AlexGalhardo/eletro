@@ -7,7 +7,7 @@ import { productListSchema } from "../../src/lib/content/schema.ts";
 import { ValidationError } from "../../src/lib/server/cms.ts";
 import { importPost } from "../../src/lib/server/post-import.ts";
 import { createLocalStore } from "../../src/lib/server/store/local.ts";
-import * as imports from "../../src/routes/api/v1/imports/+server.ts";
+import * as imports from "../../src/routes/api/v1/imports/server.ts";
 import { FIXTURE_HTML, FIXTURE_URL } from "../../webscrapping/fixture.ts";
 import { MISTRAL_URL } from "../../webscrapping/rewrite.ts";
 

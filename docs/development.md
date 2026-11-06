@@ -60,7 +60,7 @@ Os arquivos ficam em `infra/`, e o contexto do build é a raiz do repositório (
 
 | Arquivo | O que faz |
 |---|---|
-| `infra/Dockerfile` | Parte de `oven/bun` com tag fixa, acrescenta o Node 24, roda `bun install --frozen-lockfile` e `bun run build`, e serve com `vite preview` na porta 4173, como usuário sem privilégio |
+| `infra/Dockerfile` | Parte de `oven/bun` com tag fixa, acrescenta o Node 24, roda `bun install --frozen-lockfile` e `bun run build`, e serve com `astro preview` na porta 4173, como usuário sem privilégio |
 | `infra/docker-compose.yml` | Publica a porta só em `127.0.0.1` (padrão 8080, variável `APP_PORT`), passa o `.env` da raiz ao container e guarda o banco embutido em um volume |
 
 ```bash
@@ -72,7 +72,7 @@ docker compose --file infra/docker-compose.yml down                         # --
 - O build da imagem não recebe `LINKS_DASHBOARD_TOKEN` nem `VERCEL_ENV`: o `scripts/check-env.ts` não exige nenhuma variável e o `scripts/sync-links.ts` só valida os links de afiliado e não envia nada ao dashboard. O `.env` nunca entra na imagem; ele só é lido quando o container sobe.
 - É o build de produção, o mesmo artefato dos testes e2e. O site público é estático: conteúdo salvo pelo painel dentro do container fica só no container e não aparece no site sem um build novo. Para editar conteúdo, use o servidor de desenvolvimento.
 - A porta padrão é a 8080 para não colidir com a 4173, que os testes e2e usam na máquina.
-- A produção não usa Docker: roda na Vercel ([`deploy.md`](deploy.md)).
+- A produção não usa Docker: roda no GitHub Pages ([`deploy.md`](deploy.md)).
 
 ## Scripts
 
@@ -112,7 +112,7 @@ Declaradas em `src/env.ts`; modelo em `.env.example`. Fora do build de produçã
 
 Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 
-No SvelteKit 3 as variáveis são importadas de `$app/env/private` (servidor) ou `$app/env/public` (navegador). Variável nova precisa ser declarada em `src/env.ts`; se tiver formato conhecido ou for essencial em produção, entra também em `src/lib/env-check.ts`.
+Variável nova precisa ser declarada em `src/env.ts`. O código de servidor ainda importa `$app/env/private`, que aponta para esse arquivo. Se a variável tiver formato conhecido, entra também em `src/lib/env-check.ts`.
 
 ### Conferência no build
 
@@ -147,18 +147,9 @@ Build local, Docker, testes e preview não têm `VERCEL_ENV=production`, então 
 - Dependências com versão exata; ver `.claude/rules/dependencies.md`.
 - Regras completas em `.claude/rules/`.
 
-## SvelteKit 3: o que muda em relação ao 2
+## Astro 7.4
 
-| Antes | Agora |
-|---|---|
-| `svelte.config.js` | Opções no plugin `sveltekit()` em `vite.config.ts` |
-| `$lib/foo` | `#lib/foo.ts` (subpath imports do Node, extensão obrigatória) |
-| `$app/environment` | `$app/env` |
-| `$app/stores` | `$app/state` |
-| `$env/static/private` | `$app/env/private`, com declaração em `src/env.ts` |
-| `import type { Handle } from "@sveltejs/kit"` | `from "@sveltejs/kit/hooks"` |
-
-Referência: <https://svelte.dev/docs/kit/migrating-to-sveltekit-3>. O MCP do Svelte está configurado em `.mcp.json`.
+O site público é gerado por `astro build` (`astro.config.ts`, `output: "static"`). Páginas em `src/pages`, casca em `src/layouts`. Ilhas interativas continuam em Svelte 5, com runes. Imports internos usam `#lib/...` e a extensão do arquivo. Não há `svelte.config.js` nem `vite.config.ts`: o Vitest usa `vitest.config.ts`.
 
 ## Usando como template
 

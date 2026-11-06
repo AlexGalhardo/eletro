@@ -70,8 +70,8 @@ webscrapping/            TypeScript puro, sem imports do SvelteKit
   cli.ts                 execução manual
   fixture.ts             página sintética usada nos testes
 src/lib/server/post-import.ts          serviço importPost(store, url, author, now, mistralApiKey)
-src/routes/api/v1/imports/+server.ts   POST /api/v1/imports (admin)
-src/routes/admin/import/+page.svelte   tela "Importar"
+src/routes/api/v1/imports/server.ts   POST /api/v1/imports (admin)
+src/routes/admin/import/page.svelte   tela "Importar"
 ```
 
 Fluxo: a tela chama `POST /api/v1/imports` com `{ "url": "..." }`. O serviço baixa a página, extrai os produtos, monta o rascunho, pede à Mistral a reescrita do resumo e do FAQ (quando há chave), confere se o slug já existe, baixa e envia cada foto com `uploadImage`, grava a lista com `saveProductList` e o post com `savePost`. Tudo passa pelas validações do `cms.ts`, as mesmas do editor.

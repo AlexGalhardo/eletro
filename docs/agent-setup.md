@@ -23,12 +23,11 @@ Opções, mensagens de erro e comportamento em [`development.md`](development.md
 
 | Ferramenta | Versão | Para quê | Verificação |
 |---|---|---|---|
-| Node | 24 (`engines` do `package.json`) | Vite e SvelteKit | `node --version` mostra `v24.` |
+| Node | 24 (`engines` do `package.json`) | Astro 7.4 | `node --version` mostra `v24.` |
 | Bun | 1.4.0 ou mais nova | Instalar dependências e rodar os scripts | `bun --version` |
 | Git | qualquer recente | Versionar; no Windows traz o Git Bash | `git --version` |
 | GitHub CLI | qualquer recente | Push, tag e GitHub Release | `gh auth status` |
 | Docker com Compose v2 | opcional | Só para o passo 5 | `docker info` e `docker compose version` |
-| Vercel CLI | opcional | Só para o passo 9 | `vercel --version` |
 
 Faltou Bun: `curl -fsSL https://bun.sh/install | bash` (macOS, Linux) ou `irm bun.sh/install.ps1 | iex` no PowerShell (Windows). O resto das ferramentas do projeto vem pelo `bun install`; veja [`tooling.md`](tooling.md).
 
@@ -46,7 +45,7 @@ Verificação: termina sem erro e `git status --short` não mostra `bun.lock` al
 cp .env.example .env
 ```
 
-Na máquina todas as variáveis são opcionais: o site público roda com o `.env` vazio. Preencha só o que a tarefa pede. O que for preenchido precisa ter o formato certo: `bun run build` começa por `scripts/check-env.ts`, que recusa variável malformada (lista em [`development.md`](development.md#conferência-no-build)) e, só no build de produção da Vercel, exige as essenciais.
+Na máquina todas as variáveis são opcionais: o site público roda com o `.env` vazio. Preencha só o que a tarefa pede. O que for preenchido precisa ter o formato certo: `bun run build` começa por `scripts/check-env.ts`, que recusa variável malformada (lista em [`development.md`](development.md#conferência-no-build)) e, só quando `VERCEL_ENV=production`, exige as essenciais. O GitHub Pages não define essa variável.
 
 | Para | Variáveis | Sem elas |
 |---|---|---|
@@ -181,46 +180,33 @@ git status --short --branch                             # nada pendente, main ig
 
 Regra de versão e casos especiais: skill `project-release` e [`ci-cd.md`](ci-cd.md). Nunca use `--no-verify` nem push forçado.
 
-## 9. Vercel
+## 9. GitHub Pages
 
-O site em produção é o projeto `eletroradar` na Vercel. O push na `main` publica em produção; não existe passo de deploy manual. Criar o projeto do zero (domínio, Neon, OAuth, Resend): [`setup-vercel.md`](setup-vercel.md).
-
-```bash
-vercel whoami                                       # logado; senão, vercel login
-vercel link --yes --project eletroradar      # liga a pasta ao projeto
-vercel env ls production                            # nomes das variáveis cadastradas
-vercel env add NOME_DA_VARIAVEL production          # pede o valor; uma variável por vez
-```
-
-Verificação do vínculo: `.vercel/project.json` existe (a pasta `.vercel` fica fora do git).
-
-Variável nova ou alterada só vale em um deploy novo. A lista do que cadastrar está em [`deploy.md`](deploy.md#6-variáveis-de-ambiente). Não cadastre `AUTH_TEST_LOGIN_TOKEN`, `PGLITE_DIR` nem `CONTENT_ROOT`.
+O site em produção é o GitHub Pages. O push na `main` dispara `.github/workflows/pages.yml`. Domínio, DNS e o que o host não executa: [`deploy.md`](deploy.md).
 
 Conferir o deploy de um push:
 
 ```bash
-vercel ls eletroradar                        # o deploy mais novo, com o status (Building, Ready, Error)
-vercel inspect <url-do-deploy>                      # detalhes; com --logs, o log do build
-curl -s -o /dev/null -w '%{http_code}\n' https://example.com/    # 200
+gh run list --workflow pages.yml --limit 3
+curl -sI https://example.com/ | findstr /I "HTTP server"
 ```
 
-O deploy leva de 2 a 4 minutos. `Error` quase sempre é variável de ambiente faltando ou malformada (`Variáveis de ambiente inválidas para o build de produção`, com uma linha por variável), conteúdo inválido ou o dashboard de links recusando o registro: leia o log do build. Com o MCP da Vercel disponível, as mesmas leituras saem por ele (listar os deploys do projeto, ler os eventos do build); a CLI é o caminho padrão.
-
-Um agente não muda variável de produção nem dispara deploy manual (`vercel --prod`) sem o dono pedir.
+O job leva alguns minutos. Falha de build: conteúdo inválido ou o dashboard de links recusando o registro, quando o secret `LINKS_DASHBOARD_TOKEN` está definido. Leia o log do job. Não dispare deploy em outro host.
 
 ## 10. Dashboard de links
 
 Os botões de loja passam por um dashboard externo, definido em `site.linksDashboardUrl`. A ligação é uma variável só:
 
 ```bash
-vercel env add LINKS_DASHBOARD_TOKEN production     # a chave do dashboard (o LINKS_API_KEY dele)
+gh secret set LINKS_DASHBOARD_TOKEN                 # a chave do dashboard (o LINKS_API_KEY dele)
 ```
 
 Não há cadastro do site no dashboard: o build de produção se identifica pelo endereço do site, e o dashboard cria o projeto no primeiro build que chega com a chave. Um site novo precisa estar no ar antes de receber a chave, porque o dashboard só aceita links de um site que responde.
 
 | Build | Com a chave | Sem a chave |
 |---|---|---|
-| Produção na Vercel (`VERCEL_ENV=production`) | Envia o catálogo; falha se o dashboard recusar | Falha |
+| `VERCEL_ENV=production` | Envia o catálogo; falha se o dashboard recusar | Falha |
+| GitHub Pages com o secret | Envia o catálogo; falha se o dashboard recusar | Valida e não envia nada |
 | Local, Docker, testes, preview | Envia o catálogo | Valida e não envia nada |
 
 Verificação: no log do build de produção aparece `Links sincronizados com <dashboard>: N produtos (...)`. Localmente, `bun run sync-links` imprime `LINKS_DASHBOARD_TOKEN não definido: N produtos validados, nada enviado.`
