@@ -6,6 +6,19 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-11-06
+
+### Changed
+
+- O site público passa a ser um build estático do Astro 7.4, com as mesmas páginas, o mesmo conteúdo e as ilhas Svelte 5. SvelteKit e o adaptador da Vercel saíram do projeto. A branch `legacy-sveltekit` guarda o código anterior.
+- A produção de `eletroradar.com.br` passa a ser o GitHub Pages (`.github/workflows/pages.yml`). O Pages não executa painel, API de escrita, login, contato, newsletter nem cron; esse código continua coberto pelos testes.
+- O corpo dos posts é renderizado com `marked`. `<CardsTable>` continua uma ilha Svelte.
+- Uma URL desconhecida responde 404.
+
+### Removed
+
+- `@sveltejs/kit`, `@sveltejs/adapter-vercel`, `@sveltejs/vite-plugin-svelte`, `mdsvex` e `vercel.json`.
+
 ## [1.6.1] - 2026-10-11
 
 ### Changed
@@ -390,7 +403,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.1...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.1...v2.0.0
 [1.6.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.2...v1.6.0
 [1.5.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.5.1...v1.5.2

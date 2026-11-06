@@ -1,34 +1,41 @@
 # Deploy
 
-Como colocar o site e o painel no ar na Vercel ou na Netlify.
+O site público de produção é o GitHub Pages, de graça. O workflow [`.github/workflows/pages.yml`](../.github/workflows/pages.yml) roda a cada push na `main`, gera `dist/` com `bun run build` e publica esse diretório. O domínio `eletroradar.com.br` aponta para os endereços do Pages.
 
-> **Estado:** este passo a passo foi escrito a partir do código e da documentação das plataformas. **Nenhum deploy desta versão foi feito ainda**, então nada aqui foi exercitado de ponta a ponta. A seção "Conferir depois do primeiro deploy" lista o que precisa ser validado.
-
-Vai publicar na Vercel? O passo a passo detalhado, tela por tela, está em [`setup-vercel.md`](setup-vercel.md).
-
-O site público não precisa de nenhuma configuração: conecte o repositório e publique. Tudo abaixo é para o painel `/admin`, a newsletter e o envio de e-mails.
+O Pages só entrega arquivos. Não executa o painel, a API de escrita, o login, o formulário de contato, a newsletter nem um cron. Esse código continua no repositório e os testes de integração chamam essas funções. [`setup-vercel.md`](setup-vercel.md) é o roteiro antigo e não é o host atual.
 
 ## Visão geral
 
 | Peça | Serviço | Para quê |
 |---|---|---|
-| Hospedagem | Vercel ou Netlify | Site estático e funções do painel e da API |
+| Hospedagem | GitHub Pages | Site estático (`dist/`) |
 | Banco | Neon (Postgres) | Sessões do painel e assinantes da newsletter |
 | Login | OAuth App do GitHub | Entrada no painel |
 | Conteúdo | Token fine-grained do GitHub | Commits de posts, produtos e imagens feitos pelo painel |
 | E-mail | Resend | Formulário de contato e newsletter |
 
-Cada commit na `main`, inclusive os feitos pelo painel, dispara um deploy. É assim que o conteúdo chega ao site: de 1 a 2 minutos depois de salvar.
+Cada push na `main` dispara o workflow. O site novo sai quando o job `deploy` termina.
 
 ## 1. Hospedagem
 
-O projeto usa `@sveltejs/adapter-vercel`. O `adapter-auto` foi trocado porque instalava o adaptador durante o build, e o segundo build na Vercel, com cache, falhava (`ERR_PACKAGE_PATH_NOT_EXPORTED` em `estree-walker`).
+1. No repositório, Pages → Build and deployment → Source: **GitHub Actions**.
+2. O workflow já está em `.github/workflows/pages.yml`. Ele usa Node 24 e Bun 1.4.4, e envia `dist/`.
+3. O build grava `CNAME` com `eletroradar.com.br` e um `.nojekyll`.
+4. DNS do domínio (os nameservers podem continuar onde estão). Registros do apex:
 
-**Vercel:** importe o repositório. Framework "SvelteKit", comando de build `bun run build` (ou o padrão), gerenciador Bun. O arquivo `vercel.json` do repositório define os cabeçalhos de segurança e o cache das imagens.
+   | Tipo | Nome | Valor |
+   |---|---|---|
+   | A | `@` | `185.199.108.153` |
+   | A | `@` | `185.199.109.153` |
+   | A | `@` | `185.199.110.153` |
+   | A | `@` | `185.199.111.153` |
+   | CNAME | `www` | `<usuário>.github.io` |
 
-**Netlify:** troque antes o adaptador por `@sveltejs/adapter-netlify` em `vite.config.ts`. Depois importe o repositório, com comando de build `bun run build`. O arquivo `static/_headers` faz o papel do `vercel.json`.
+   Na Vercel, apague antes o ALIAS do apex e o ALIAS `*`. A Vercel recria esses dois enquanto o domínio segue ligado ao projeto, então tire o domínio do projeto e mantenha os TXT e o MX do Resend e o TXT de verificação do Google.
 
-Use Node 24 nas duas: é a versão fixada em `engines` do `package.json`.
+5. No Pages, confira o domínio customizado `eletroradar.com.br`. O certificado passa a valer depois que o DNS aponta para esses endereços.
+
+`LINKS_DASHBOARD_TOKEN`, se existir como secret do repositório, é lido pelo workflow e o build registra os links de afiliado. Sem o secret o build só valida o catálogo. O build do Pages não define `VERCEL_ENV`, então não exige banco, login nem cron.
 
 ## 2. Banco (Neon)
 
@@ -69,7 +76,7 @@ Sem `RESEND_API_KEY` nenhum e-mail sai: o servidor só registra no log que deixo
 
 Cadastre na plataforma, para o ambiente de produção. Todas estão declaradas em `src/env.ts` e descritas em `.env.example`.
 
-O build de produção na Vercel (`VERCEL_ENV=production`) confere as variáveis antes de tudo (`scripts/check-env.ts`) e **falha** quando falta uma obrigatória ou quando alguma está com o formato errado. A mensagem lista uma linha por variável, sem mostrar valores. Regras e formatos: [development.md](development.md#conferência-no-build).
+`scripts/check-env.ts` confere o formato de toda variável presente. A lista obrigatória abaixo só vale quando `VERCEL_ENV=production`. O GitHub Pages não define essa variável: o site estático publica sem banco e sem login. Regras e formatos: [development.md](development.md#conferência-no-build).
 
 | Variável | Valor |
 |---|---|
@@ -99,27 +106,13 @@ Se usar ambientes de preview, dê a eles um banco e um `BETTER_AUTH_SECRET` pró
 
 ## 7. Agendador da newsletter
 
-Os avisos de post ficam na fila até alguém rodar o envio. Sem agendador, isso é feito pelo botão "Enviar fila agora" em `/admin/newsletter`. Para automatizar, agende uma chamada `GET` a `/api/v1/newsletter/dispatches/run` com o cabeçalho `Authorization: Bearer <CRON_SECRET>`.
-
-**Vercel:** acrescente ao `vercel.json`:
-
-```json
-"crons": [{ "path": "/api/v1/newsletter/dispatches/run", "schedule": "*/15 * * * *" }]
-```
-
-A Vercel envia o `CRON_SECRET` do projeto como `Bearer` nas chamadas de cron. No plano gratuito o cron roda no máximo uma vez por dia: use um horário diário, como `0 12 * * *`, ou o deploy falha.
-
-**Netlify ou outro:** use um serviço de agendamento que chame a URL com o cabeçalho.
+O GitHub Pages não chama rotas. A fila de avisos existe no código e nos testes (`GET /api/v1/newsletter/dispatches/run`, cabeçalho `Authorization: Bearer <CRON_SECRET>`). Não há cron no host de produção.
 
 ## Conferir depois do primeiro deploy
 
 - [ ] O site público abre e as 64 páginas de post respondem.
-- [ ] `curl -I` na home mostra `X-Frame-Options`, `X-Content-Type-Options`, `Referrer-Policy` e `Strict-Transport-Security` (vêm de `vercel.json` ou `static/_headers`).
-- [ ] `/admin` leva ao login, e o login pelo GitHub entra com um usuário da lista e recusa um de fora.
-- [ ] Salvar um post pelo painel cria um commit `content:` no repositório e o post aparece no site depois do deploy; o indicador do editor passa de "Publicando" para "No ar".
-- [ ] Enviar uma imagem pela biblioteca de mídia funciona e a imagem carrega depois do deploy.
-- [ ] A inscrição na newsletter envia o e-mail de confirmação, e o link confirma.
-- [ ] Importar um post em `/admin/import` termina dentro do tempo limite da função. Com o store do GitHub são cerca de 9 commits em sequência; a Vercel dá 300 s por padrão, e o limite da Netlify não foi confirmado.
+- [ ] `curl -I` na home não traz `server: Vercel`. O Pages responde pelo domínio.
+- [ ] `/admin` mostra a tela de login estática. Login, gravação, contato e newsletter não rodam nesse host; os testes de integração cobrem essas funções.
 - [ ] PageSpeed Insights na home e em um post (meta: 90 ou mais; ver [`performance.md`](performance.md)).
 - [ ] As cópias redimensionadas das capas existem (`/images/covers/w480/<arquivo>.webp` responde 200): o `sharp` rodou no build da plataforma.
 
@@ -127,4 +120,4 @@ Marque no [`PLAN.md`](../PLAN.md) o que for confirmado.
 
 ## CI
 
-O deploy não depende do GitHub Actions. Os workflows de CI e release estão inativos; veja [`ci-cd.md`](ci-cd.md).
+O deploy do site é o workflow `pages.yml`. Os workflows de CI e release continuam inativos; veja [`ci-cd.md`](ci-cd.md).

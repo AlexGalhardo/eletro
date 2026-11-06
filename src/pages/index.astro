@@ -1,0 +1,26 @@
+---
+import { homeJsonLd } from "#lib/seo/jsonld.ts";
+import { coverWidths, getPosts } from "#lib/server/content.ts";
+import { site } from "#lib/site.config.ts";
+import Site from "../layouts/Site.astro";
+import Home from "../routes/(site)/page.svelte";
+
+const posts = getPosts();
+const data = {
+	posts: posts.map(({ slug, title, description, cover, date, category }) => ({
+		slug,
+		title,
+		description,
+		cover,
+		coverWidths: coverWidths(cover),
+		date,
+		category,
+	})),
+	jsonLdPosts: posts.slice(0, 8),
+	activeCategories: [...new Set(posts.map((post) => post.category))],
+};
+---
+
+<Site title={site.title} description={site.description} path="/" jsonLd={homeJsonLd(data.jsonLdPosts)}>
+	<Home data={data} client:load />
+</Site>

@@ -77,17 +77,17 @@ Nenhuma tem correção disponível subindo uma dependência direta do projeto. R
 - Os ataques no navegador: foi conferido o HTML gerado no servidor, não a execução.
 - Um deploy real em Vercel ou Netlify: cabeçalhos da plataforma, HSTS, variáveis visíveis no build.
 - O fluxo OAuth completo com o GitHub e o banco Neon.
-- CSP: o SvelteKit 3 tem a opção `csp` em `sveltekit({ ... })` no `vite.config.ts`. Ligá-la exige tirar os scripts embutidos do tema e do analytics de `app.html` e de `+layout.svelte` (ou declarar o hash deles) e testar Google Analytics e Clarity no ar.
+- CSP: o SvelteKit 3 tem a opção `csp` em `sveltekit({ ... })` no `vite.config.ts`. Ligá-la exige tirar os scripts embutidos do tema e do analytics de `app.html` e de `layout.svelte` (ou declarar o hash deles) e testar Google Analytics e Clarity no ar.
 
 ## Para quem mantém
 
 - Tag ou atributo novo liberado no corpo do post passa por `src/lib/content/validate-body.ts` e ganha teste em `validate-body.test.ts`.
-- Cabeçalho novo entra nos três lugares: `src/hooks.server.ts`, `vercel.json` e `static/_headers`.
+- Cabeçalho de resposta do servidor entra em `src/hooks.server.ts`. O GitHub Pages não aplica esses cabeçalhos nas páginas estáticas; a política de referrer também está no `<meta>` de `src/layouts/Root.astro`.
 - Endpoint novo que busca uma URL informada por alguém precisa de lista de hosts permitidos, só `https`, sem seguir redirecionamento para fora da lista, com limite de tempo e de tamanho.
 
 ## Robôs, scraping e IA
 
-O `robots.txt` (`src/routes/robots.txt/+server.ts`) declara a regra de uso do conteúdo:
+O `robots.txt` (`src/routes/robots.txt/server.ts`) declara a regra de uso do conteúdo:
 
 - `Disallow: /admin` e `Disallow: /api` para todos os robôs.
 - `Content-Signal: search=yes, ai-input=yes, ai-train=no` (<https://contentsignals.org>): busca e uso do conteúdo para responder a alguém são permitidos; treino de modelos, não.

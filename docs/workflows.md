@@ -34,7 +34,7 @@ Uma mudança lógica é um commit, e um commit é uma release. Duas mudanças s�
 | Componente ou página | Runes, `#lib/...` com extensão, textos de `site.config.ts` | [`architecture.md`](architecture.md) |
 | Endpoint da API | Validação com zod, teste do handler, descrição OpenAPI | [`api.md`](api.md) |
 | Schema do banco | Editar `schema.ts`, `bun run db:generate`, revisar o SQL, commitar a migration; no Neon, `bun run db:migrate` à mão | [`cms.md`](cms.md), [`agent-setup.md`](agent-setup.md#3-banco) |
-| Variável de ambiente nova | `src/env.ts`, `.env.example`, tabela de `development.md`; se for de produção, `deploy.md` e cadastro na Vercel pelo dono | [`development.md`](development.md#variáveis-de-ambiente) |
+| Variável de ambiente nova | `src/env.ts`, `.env.example`, tabela de `development.md`; se o build do Pages precisar dela, secret do repositório | [`development.md`](development.md#variáveis-de-ambiente) |
 | Dependência nova | Perguntar antes; versão estável exata conferida no registry | `.claude/rules/dependencies.md` |
 | Autenticação, entrada de dados, integrações | Skill `security-and-hardening`; atualizar o modelo de ameaças | [`security.md`](security.md) |
 | Imagens, fontes, carregamento | Medir antes e depois | [`performance.md`](performance.md) |
@@ -46,7 +46,7 @@ Uma mudança lógica é um commit, e um commit é uma release. Duas mudanças s�
 
 | Caminho | Quem usa | Como chega ao site |
 |---|---|---|
-| Painel `/admin` em produção | O dono | Commit `content:` pela API do GitHub; a Vercel publica em 1 a 2 minutos. Não gera release |
+| Conteúdo no ar | Push na `main` | O GitHub Pages publica o HTML novo. O painel não roda nesse host. Não gera release quando o commit é `content:` |
 | Arquivos em `content/`, em uma sessão de trabalho | Agentes e quem edita o código | Commit `content:` com release, como qualquer outro |
 
 Os dois escrevem na `main`. Antes de editar conteúdo, puxe a `main`; em conflito, o que está no repositório remoto é o que o dono publicou.

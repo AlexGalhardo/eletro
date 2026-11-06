@@ -45,6 +45,19 @@ export async function writeCoverVariants(root = process.cwd()): Promise<number> 
 	return written;
 }
 
+// `bun scripts/cover-variants.ts` writes the copies before `astro build`. A Vite plugin cannot
+// `import("sharp")` here: Astro's module runner is already closed when buildStart runs.
+if (import.meta.main) {
+	writeCoverVariants()
+		.then((count) => {
+			console.log(`Capas redimensionadas: ${count}.`);
+		})
+		.catch((error: unknown) => {
+			console.error(error);
+			process.exit(1);
+		});
+}
+
 /** Runs before every production build, whatever command started it (`bun run build`, the hosting platform). */
 export function coverVariants(): Plugin {
 	let done: Promise<number> | undefined;

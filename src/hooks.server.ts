@@ -88,8 +88,8 @@ function clientAddress(event: { getClientAddress: () => string }): string {
 }
 
 /**
- * Headers for every response the server renders. Prerendered pages are served by the platform without passing
- * here, so the same headers are repeated in `vercel.json` and `static/_headers`: keep the three in step.
+ * Headers for every response the server renders. GitHub Pages serves the prerendered files and ignores
+ * these headers; the public HTML repeats the referrer policy as a meta tag.
  */
 function secure(response: Response, isPrivate: boolean): Response {
 	const { headers } = response;

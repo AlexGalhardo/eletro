@@ -4,6 +4,7 @@
 	import CookieBanner from "#lib/components/CookieBanner.svelte";
 	import Seo from "#lib/components/Seo.svelte";
 	import { coverSrcset } from "#lib/content/cover.ts";
+	import type { Post } from "#lib/content/schema.ts";
 	import { formatDate } from "#lib/format.ts";
 	import { homeJsonLd } from "#lib/seo/jsonld.ts";
 	import { site } from "#lib/site.config.ts";
@@ -11,7 +12,11 @@
 
 	const POSTS_PER_LOAD = 8;
 
-	let { data } = $props();
+	type Card = Pick<Post, "slug" | "title" | "description" | "cover" | "date" | "category"> & {
+		coverWidths: number[];
+	};
+
+	let { data }: { data: { posts: Card[]; jsonLdPosts: Post[]; activeCategories: string[] } } = $props();
 
 	const categories = $derived([
 		{ id: "all", label: "Todos", icon: "layers" },

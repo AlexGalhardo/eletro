@@ -4,8 +4,8 @@
 
 | Camada | Escolha |
 |---|---|
-| Framework | SvelteKit 3, Svelte 5 (runes), Vite 8 |
-| Markdown | mdsvex (arquivos `.mdx`) |
+| Framework | Astro 7.4 (`output: "static"`), ilhas Svelte 5 (runes) |
+| Markdown | `marked` no build (`src/lib/content/render-body.ts`); arquivos `.mdx` |
 | Estilo | Tailwind CSS 4 |
 | Validação | zod |
 | Banco | Postgres (Neon) com Drizzle ORM; PGlite embutido em desenvolvimento e testes |
@@ -13,13 +13,13 @@
 | E-mail | Resend + react-email |
 | Importação | `fetch` + cheerio (`webscrapping/`) |
 | Imagens | sharp, só no build, para as cópias das capas |
-| Hospedagem | Vercel, via `adapter-vercel` (Netlify exige trocar o adaptador) |
+| Hospedagem | GitHub Pages, pelo workflow `.github/workflows/pages.yml`. O Pages só serve os arquivos de `dist/` |
 | Qualidade | Biome, markdownlint, svelte-check, Vitest, Playwright |
 
 ## Duas metades
 
-- **Site público** (`src/routes/(site)/`): pré-renderizado no build a partir dos arquivos de `content/`. Não toca no banco nem em serviço externo, com duas exceções que são chamadas de API feitas pelo navegador: o formulário de contato e a newsletter.
-- **Painel e API** (`src/routes/admin/`, `src/routes/api/`): rodam em função serverless. Leem e gravam o conteúdo pelo `ContentStore` (commits no GitHub em produção, disco local em desenvolvimento) e usam o banco para sessões e newsletter.
+- **Site público** (`src/pages/` + `src/routes/(site)/`): HTML estático gerado no build a partir dos arquivos de `content/`. O formulário de contato e a newsletter chamam a API no navegador; o GitHub Pages não executa essas rotas.
+- **Painel e API** (`src/routes/admin/`, `src/routes/api/`): o código segue no repositório e os testes chamam essas funções. No Pages, `/admin` entrega a tela de login estática. Leitura pública de posts e produtos sai como JSON no build. Escrita, sessão e e-mail não rodam no host.
 
 O elo entre as duas é o Git: o painel faz um commit, a plataforma refaz o build, e o site novo sai com o conteúdo novo.
 
@@ -42,7 +42,8 @@ infra/                      Dockerfile e docker-compose do build de produção e
 .dockerignore               o que fica fora da imagem (o contexto do build é a raiz)
 webscrapping/               leitura de um post de outro site (busca, parser, rascunho)
 src/
-  app.html, app.css         casca HTML e estilos globais
+  app.css                   estilos globais
+  layouts/, pages/          HTML do Astro (o site que o Pages publica)
   env.ts                    declaração das variáveis de ambiente
   hooks.server.ts           guarda do /admin, limite de requisições, cabeçalhos
   lib/
@@ -67,27 +68,25 @@ src/
 tests/
   unit/, integration/       Vitest
   e2e/                      Playwright (smoke e e2e)
+.github/workflows/pages.yml  deploy do site estático no GitHub Pages
 .github/workflows-disabled/ CI e release, inativos
-vercel.json                 cabeçalhos e cache na Vercel
 docs/                       esta documentação
 ```
 
 ## Fluxo de uma página de post
 
 1. No build, `src/lib/server/content.ts` importa todos os `.mdx` como texto (`import.meta.glob` com `?raw`), valida o frontmatter com zod e monta a lista de posts publicados.
-2. `routes/(site)/[slug]/+page.server.ts` devolve os metadados do post e as listas de produtos que o corpo referencia.
-3. `routes/(site)/[slug]/+page.ts` importa o componente compilado daquele `.mdx` (um chunk por post).
-4. `+page.svelte` renderiza o componente e publica as listas de produtos por contexto; o `<CardsTable>` dentro do Markdown lê esse contexto.
-5. O pré-processador `injectContentComponents` insere o `import` do `CardsTable` antes de o mdsvex compilar, para o post não precisar declará-lo.
+2. `src/pages/[slug].astro` gera uma página por post publicado. `renderPostBody` quebra o Markdown em HTML e em ilhas `<CardsTable>`.
+3. `page.svelte` recebe esses trechos, publica as listas de produtos por contexto e o `<CardsTable>` lê esse contexto.
 
-Todas as rotas em `(site)` têm `prerender = true`: o resultado é HTML estático.
+O resultado é HTML estático em `dist/`.
 
 ## Decisões
 
 | Decisão | Motivo |
 |---|---|
 | Conteúdo em arquivos, não em banco | Markdown como fonte da verdade, histórico pelo Git, site estático |
-| Metadados lidos do texto bruto, componente lido do mdsvex | O servidor precisa do frontmatter e da contagem de palavras sem carregar 64 componentes; o navegador só baixa o post aberto |
+| Metadados e corpo lidos do texto bruto | O build precisa do frontmatter, da contagem de palavras e do HTML sem compilar cada post como componente Svelte |
 | Produtos por contexto, não importados no componente | Render no servidor (bom para SEO) sem enviar todas as listas ao navegador |
 | Ordem dos produtos embaralhada só no navegador | Mantém o rodízio do site original sem tornar o HTML do servidor instável |
 | JSON-LD no HTML do servidor | No site original era injetado por JavaScript; assim os buscadores leem sem executar script |

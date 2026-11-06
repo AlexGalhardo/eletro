@@ -8,7 +8,7 @@
 | Capas | O build grava cópias WebP de cada capa em 480, 768 e 1280 px (`scripts/cover-variants.ts`, plugin do Vite). As páginas usam `srcset` e `sizes`, e o navegador baixa a menor que serve |
 | Carregamento tardio | As duas primeiras capas da home e a capa do post carregam com prioridade; as demais e as fotos de produto usam `loading="lazy"` |
 | Fontes | Locais, pelo `@fontsource`, sem requisição a terceiros |
-| Cache | `/_app/immutable/` é cacheado pela plataforma; `/images/` por uma semana (`vercel.json` e `static/_headers`) |
+| Cache | Os arquivos de `/_astro/` levam hash no nome. `/images/` não tem cabeçalho próprio no GitHub Pages |
 | Contraste | Textos e botões no tema claro atendem ao nível AA (4,5:1) |
 | Teclado | Toda parada do Tab é visível e tem nome (`tests/e2e/site.spec.ts`) |
 

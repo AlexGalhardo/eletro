@@ -1,12 +1,13 @@
 <script lang="ts">
 	import { site } from "#lib/site.config.ts";
-	import { page } from "$app/state";
 	import NewsletterForm from "./NewsletterForm.svelte";
+
+	let { activeCategories = [] }: { activeCategories?: string[] } = $props();
 
 	const year = new Date().getFullYear();
 	// A category without a published post would link to an empty list.
 	const categories = $derived(
-		site.categories.filter((category) => page.data.activeCategories?.includes(category.id)),
+		site.categories.filter((category) => activeCategories.includes(category.id)),
 	);
 
 	const institutional = [

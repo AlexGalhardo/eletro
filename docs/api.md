@@ -63,7 +63,7 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 
 | Arquivo | Papel |
 |---|---|
-| `src/routes/api/v1/**/+server.ts` | Um arquivo por recurso |
+| `src/routes/api/v1/**/server.ts` | Um arquivo por recurso |
 | `src/lib/server/api.ts` | Formato de erro, `requireAdmin`, validação de query e corpo, limite de requisições |
 | `src/lib/server/openapi.ts` | Documento OpenAPI |
 | `src/hooks.server.ts` | Aplica o limite de escrita, o CORS de leitura e o `noindex` |

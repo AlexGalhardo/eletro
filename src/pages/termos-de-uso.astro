@@ -1,0 +1,9 @@
+---
+import { site } from "#lib/site.config.ts";
+import Site from "../layouts/Site.astro";
+import Page from "../routes/(site)/termos-de-uso/page.svelte";
+---
+
+<Site title={`Termos de Uso - ${site.name}.com.br`} description={`Termos de uso do ${site.name}.com.br`} path="/termos-de-uso">
+	<Page />
+</Site>

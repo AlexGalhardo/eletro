@@ -1,4 +1,4 @@
-# PLAN.md — SvelteKit Blog CMS
+# PLAN.md — Astro 7.4 Blog CMS
 
 Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquivo e termina atualizando os checklists.
 
@@ -10,17 +10,17 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 
 | Item | Definição |
 |---|---|
-| Resultado | Template open source de CMS de blog em SvelteKit, com posts em Markdown (mdsvex) e o EletroRadar completo como demo real e site de produção |
+| Resultado | Template open source de CMS de blog em Astro 7.4, com posts em Markdown e o EletroRadar completo como demo real e site de produção no GitHub Pages |
 | Usuário | O dono do site, publicando reviews pelo `/admin` sem abrir o código; e quem clonar o template, trocando a configuração e o conteúdo |
 | Sucesso | Mesmo visual e mesmas URLs do site atual, rodapé mais profissional, uma review nova criada do zero pelo navegador, testes verdes |
-| Restrições | Vercel ou Netlify; dependências na última versão estável com versão exata; tab de largura 4; SemVer, Keep a Changelog, Conventional Commits |
+| Restrições | Produção no GitHub Pages (grátis); dependências na última versão estável com versão exata; tab de largura 4; SemVer, Keep a Changelog, Conventional Commits |
 | Fora de escopo | Múltiplos papéis de usuário, comentários, multi-idioma, redesenho além do rodapé, ativar o CI, fazer deploy |
 
 ## Arquitetura
 
 | Assunto | Decisão |
 |---|---|
-| Framework | SvelteKit 3 + Svelte 5 (runes) + Vite 8, `adapter-vercel` (Vercel) |
+| Framework | Astro 7.4 (`output: "static"`) + ilhas Svelte 5 (runes). Hospedagem: GitHub Pages. O snapshot SvelteKit está na branch `legacy-sveltekit` |
 | Conteúdo | Arquivos no repositório: `content/posts/*.mdx` (mdsvex) e `content/products/*.json`. Site público pré-renderizado no build |
 | Escrita pelo admin | Commit via API do GitHub com `GITHUB_TOKEN` (token fine-grained restrito a um repositório), assinado com o nome de quem logou; o deploy publica em 1 a 2 min. Em dev e testes, grava no disco local |
 | Autenticação | better-auth com login GitHub, restrito à lista `ADMIN_GITHUB_USERS`; sessões no Postgres |
@@ -238,7 +238,7 @@ Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a
 
 - [x] Revisão com a skill `security-and-hardening` e o OWASP Top Ten 2025: CSRF, cabeçalhos, sanitização do Markdown, validação de upload, limite de tentativas (relatório em `docs/security.md`)
 - [x] Varredura de segredos no repositório e no histórico (nada encontrado)
-- [ ] CSP: exige tirar os scripts embutidos de `app.html` e `+layout.svelte` e testar o analytics em um deploy real
+- [ ] CSP: exige tirar os scripts embutidos de `app.html` e `layout.svelte` e testar o analytics em um deploy real
 - [ ] Conferir em um deploy real os cabeçalhos de `static/_headers` (Netlify). Os de `vercel.json` foram conferidos em produção em 2026-10-06
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado que quebra o build (leva `mdsvex` para produção: decisão do dono)
 

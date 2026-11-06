@@ -4,7 +4,7 @@ Instruções para qualquer agente de código trabalhando neste repositório. O `
 
 ## O que é o projeto
 
-Template open source de CMS de blog em SvelteKit 3. Os posts são Markdown (`content/posts/*.mdx`, compilados com mdsvex), os produtos são JSON (`content/products/*.json`) e o site público é estático. O dono publica pelo painel `/admin`, que grava o conteúdo com commits no próprio repositório. O EletroRadar (reviews de eletrodomésticos com links de afiliado) é o conteúdo de demonstração e o site em produção.
+Template open source de CMS de blog em Astro 7.4 com ilhas Svelte 5. Os posts são Markdown (`content/posts/*.mdx`), os produtos são JSON (`content/products/*.json`) e o site público é estático no GitHub Pages. O dono publica pelo painel `/admin`, que grava o conteúdo com commits no próprio repositório. O EletroRadar (reviews de eletrodomésticos com links de afiliado) é o conteúdo de demonstração e o site em produção. O código do painel, da API, da autenticação e da newsletter continua no repositório e é coberto por testes; o GitHub Pages não executa essas rotas.
 
 ## Início de toda sessão (obrigatório)
 
@@ -46,7 +46,7 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/README.md`](docs/README.md) | Índice da documentação |
 | [`docs/architecture.md`](docs/architecture.md) | Visão geral, pastas, fluxo de dados, decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos, componentes disponíveis no Markdown |
-| [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero para agentes: dependências, `.env`, banco, Docker, testes, GitHub, Vercel e dashboard de links, com comando e verificação por passo |
+| [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero para agentes: dependências, `.env`, banco, Docker, testes, GitHub Pages e dashboard de links, com comando e verificação por passo |
 | [`docs/development.md`](docs/development.md) | Como rodar, scripts de `setups/`, Docker (`infra/`), variáveis de ambiente, convenções |
 | [`docs/tooling.md`](docs/tooling.md) | Ferramentas: o que cada uma faz, onde está a configuração, hooks do git, Docker, ferramentas dos agentes |
 | [`docs/workflows.md`](docs/workflows.md) | Fluxos de trabalho: ordem de toda mudança, passos por tipo de tarefa, release e deploy |
@@ -56,8 +56,8 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/newsletter.md`](docs/newsletter.md) | Newsletter: inscrição com confirmação, envio de avisos de post, descadastro |
 | [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
-| [`docs/deploy.md`](docs/deploy.md) | Vercel, Netlify, Neon, OAuth App, token de conteúdo, Resend e o que conferir depois do deploy |
-| [`docs/setup-vercel.md`](docs/setup-vercel.md) | Passo a passo completo do deploy na Vercel, com conferência e problemas comuns |
+| [`docs/deploy.md`](docs/deploy.md) | GitHub Pages, DNS de `eletroradar.com.br`, e o que o site estático não executa |
+| [`docs/setup-vercel.md`](docs/setup-vercel.md) | Roteiro antigo da Vercel. A produção não usa mais esse host |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | Workflows do GitHub Actions (inativos), regra de versão, release e como ativar |
 | [`docs/google-console-analytics-setup.md`](docs/google-console-analytics-setup.md) | Google Search Console e Analytics em `/admin/google`: conta de serviço, permissões, variáveis e problemas comuns |
 | [`docs/affiliate-links.md`](docs/affiliate-links.md) | Links de afiliado: registro no dashboard de links a cada build, id dos produtos, redirect nos botões |
@@ -87,12 +87,12 @@ bun run test:e2e     # Playwright: smoke e e2e
 
 ## Regras que não podem ser quebradas
 
-- **SvelteKit 3 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** Consulte o MCP do Svelte (`.mcp.json`) ou <https://svelte.dev/docs/kit/llms.txt> antes de usar qualquer API. Resumo do que mudou: configuração no `vite.config.ts` (não existe `svelte.config.js`), imports com `#lib/...` e extensão explícita (não existe `$lib`), `$app/env` e `$app/state` (não existem `$app/environment` nem `$app/stores`), runes em todo componente.
+- **Astro 7.4 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** A configuração fica em `astro.config.ts`. O site público é `output: "static"` em `src/pages`. Componentes Svelte usam runes. Imports internos com `#lib/...` e extensão explícita. Código que ainda importa `$app/env`, `$app/state`, `$app/navigation` ou `@sveltejs/kit` resolve para os shims em `src/shims/` e `src/env.ts`. Consulte <https://docs.astro.build> e o MCP do Svelte antes de usar uma API que você não leu neste repositório.
 - **Dependências:** sempre a última versão estável, com versão exata, sem `^` nem `~`. Confira no registry, não de memória. Ver `.claude/rules/dependencies.md`.
 - **Formatação:** tab com largura 4 (Biome e `.editorconfig`); YAML e Markdown usam 2 espaços. Demais regras de código em `.claude/rules/code-style.md`.
 - **Commits:** Conventional Commits, e todo commit é uma release (versão, `CHANGELOG.md`, tag e GitHub Release), sem exceção para `docs` ou `chore`. Regras em `.claude/rules/git-and-releases.md`; passo a passo na skill `project-release`.
 - **Segredos:** nada de chave real no repositório. `.env.example` só tem placeholders.
 - **Indexação:** `/admin` e `/api` são bloqueados no `robots.txt` (`Disallow`), nunca aparecem em `sitemap.xml` ou `llms.txt` e respondem com `X-Robots-Tag: noindex`. Os robôs de coleta em massa e de treino de IA de `site.blockedCrawlers` são recusados no site inteiro; buscadores e assistentes continuam liberados.
-- **CI:** os workflows ficam em `.github/workflows-disabled/`. Não mova para `.github/workflows/` sem o dono pedir.
+- **CI:** os workflows de CI e release ficam em `.github/workflows-disabled/`. A exceção já pedida é `.github/workflows/pages.yml`, que publica o site estático no GitHub Pages. Não mova os outros.
 - **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
 - **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.

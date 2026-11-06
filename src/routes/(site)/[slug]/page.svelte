@@ -2,14 +2,26 @@
 	import { Calendar, Clock, Share2 } from "@lucide/svelte";
 	import { setContext } from "svelte";
 	import AuthorCard from "#lib/components/AuthorCard.svelte";
+	import CardsTable from "#lib/components/CardsTable.svelte";
 	import ReadingProgress from "#lib/components/ReadingProgress.svelte";
 	import Seo from "#lib/components/Seo.svelte";
 	import ShareButtons from "#lib/components/ShareButtons.svelte";
 	import { coverSrcset } from "#lib/content/cover.ts";
+	import type { BodySegment } from "#lib/content/render-body.ts";
+	import type { Post, Product } from "#lib/content/schema.ts";
 	import { formatDate, readingTimeLabel } from "#lib/format.ts";
 	import { absoluteUrl, postJsonLd } from "#lib/seo/jsonld.ts";
 
-	let { data } = $props();
+	let {
+		data,
+	}: {
+		data: {
+			post: Post;
+			coverWidths: number[];
+			productLists: Record<string, Product[]>;
+			segments: BodySegment[];
+		};
+	} = $props();
 
 	const post = $derived(data.post);
 	const shareUrl = $derived(absoluteUrl(`/${post.slug}`));
@@ -103,9 +115,13 @@
 						{@attach protect}
 						class="mb-8 max-w-none select-none"
 					>
-						{#key post.slug}
-							<data.Content />
-						{/key}
+						{#each data.segments as segment, index (index)}
+							{#if segment.kind === "html"}
+								{@html segment.html}
+							{:else}
+								<CardsTable list={segment.list} />
+							{/if}
+						{/each}
 					</div>
 
 					<AuthorCard id={post.author} />

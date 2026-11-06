@@ -1,0 +1,9 @@
+---
+import { site } from "#lib/site.config.ts";
+import Site from "../../layouts/Site.astro";
+import Page from "../../routes/(site)/newsletter/sair/page.svelte";
+---
+
+<Site title={`Cancelar inscrição - ${site.name}`} description="Cancele sua inscrição na newsletter." path="/newsletter/sair" noindex>
+	<Page client:load />
+</Site>

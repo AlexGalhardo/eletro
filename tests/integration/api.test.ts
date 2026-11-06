@@ -2,16 +2,16 @@ import { rm } from "node:fs/promises";
 import { afterAll, describe, expect, it, vi } from "vitest";
 import { rateLimit } from "../../src/lib/server/api.ts";
 import { openApiDocument } from "../../src/lib/server/openapi.ts";
-import * as affiliateLinks from "../../src/routes/api/v1/affiliate-links/+server.ts";
-import * as categories from "../../src/routes/api/v1/categories/+server.ts";
-import * as googleSitemap from "../../src/routes/api/v1/google/sitemap/+server.ts";
-import * as health from "../../src/routes/api/v1/health/+server.ts";
-import * as media from "../../src/routes/api/v1/media/+server.ts";
-import * as openapi from "../../src/routes/api/v1/openapi.json/+server.ts";
-import * as posts from "../../src/routes/api/v1/posts/+server.ts";
-import * as post from "../../src/routes/api/v1/posts/[slug]/+server.ts";
-import * as products from "../../src/routes/api/v1/products/+server.ts";
-import * as productList from "../../src/routes/api/v1/products/[list]/+server.ts";
+import * as affiliateLinks from "../../src/routes/api/v1/affiliate-links/server.ts";
+import * as categories from "../../src/routes/api/v1/categories/server.ts";
+import * as googleSitemap from "../../src/routes/api/v1/google/sitemap/server.ts";
+import * as health from "../../src/routes/api/v1/health/server.ts";
+import * as media from "../../src/routes/api/v1/media/server.ts";
+import * as openapi from "../../src/routes/api/v1/openapi.json/server.ts";
+import * as post from "../../src/routes/api/v1/posts/[slug]/server.ts";
+import * as posts from "../../src/routes/api/v1/posts/server.ts";
+import * as productList from "../../src/routes/api/v1/products/[list]/server.ts";
+import * as products from "../../src/routes/api/v1/products/server.ts";
 
 // Writes go to a scratch folder; reads come from the real content bundled from the repository.
 const root = await vi.hoisted(async () => {
@@ -348,7 +348,7 @@ describe("google sitemap", () => {
 });
 
 describe("openapi.json", () => {
-	const routes = import.meta.glob<Record<string, unknown>>("../../src/routes/api/v1/**/+server.ts", {
+	const routes = import.meta.glob<Record<string, unknown>>("../../src/routes/api/v1/**/server.ts", {
 		eager: true,
 	});
 	const METHODS = ["GET", "POST", "PUT", "PATCH", "DELETE"];
@@ -367,7 +367,7 @@ describe("openapi.json", () => {
 		const implemented = Object.entries(routes).flatMap(([file, module]) => {
 			const path = file
 				.replace(/^.*\/api\/v1/, "")
-				.replace(/\/\+server\.ts$/, "")
+				.replace(/\/server\.ts$/, "")
 				.replace(/\[(\w+)\]/g, "{$1}");
 			return METHODS.filter((method) => method in module).map((method) => `${method} ${path}`);
 		});

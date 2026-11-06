@@ -4,7 +4,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 
 ## Visão geral em um minuto
 
-- **O que é:** template de CMS de blog em SvelteKit 3. O EletroRadar é a demonstração e o site em produção.
+- **O que é:** template de CMS de blog em Astro 7.4, no GitHub Pages. O EletroRadar é a demonstração e o site em produção.
 - **Conteúdo:** arquivos no repositório. Posts em `content/posts/*.mdx`, produtos em `content/products/*.json`, imagens em `static/images/`.
 - **Site público:** pré-renderizado no build. Mudou conteúdo, precisa de novo build (um commit dispara o deploy).
 - **Identidade:** tudo o que é específico do site está em `src/lib/site.config.ts`.
@@ -16,7 +16,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 |---|---|
 | [architecture.md](architecture.md) | Entender as pastas, o fluxo de uma página e as decisões de projeto |
 | [content.md](content.md) | Criar ou alterar posts, listas de produtos e componentes de Markdown |
-| [agent-setup.md](agent-setup.md) | Preparar o projeto do zero: dependências, `.env`, banco, Docker, testes, GitHub, Vercel e dashboard de links, com a verificação de cada passo |
+| [agent-setup.md](agent-setup.md) | Preparar o projeto do zero: dependências, `.env`, banco, Docker, testes, GitHub Pages e dashboard de links, com a verificação de cada passo |
 | [development.md](development.md) | Rodar o projeto, usar os scripts de `setups/` e o Docker de `infra/`, configurar variáveis de ambiente |
 | [tooling.md](tooling.md) | Saber o que cada ferramenta faz, onde está a configuração e o que os hooks do git rodam |
 | [workflows.md](workflows.md) | Saber a ordem de uma mudança, do pedido ao deploy, e os passos próprios de cada tipo de tarefa |
@@ -26,8 +26,8 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [newsletter.md](newsletter.md) | Mexer na inscrição, nos e-mails ou no envio de avisos de post |
 | [performance.md](performance.md) | Mexer em imagens, fontes, carregamento ou acessibilidade; medir o Lighthouse |
 | [security.md](security.md) | Mexer em autenticação, entrada de dados, conteúdo do post, cabeçalhos ou integrações |
-| [deploy.md](deploy.md) | Publicar na Vercel ou na Netlify e configurar banco, login, token e e-mail |
-| [setup-vercel.md](setup-vercel.md) | Configurar o projeto na Vercel passo a passo: projeto, domínio, Neon, OAuth, token, Resend, variáveis e cron |
+| [deploy.md](deploy.md) | Publicar no GitHub Pages e apontar o DNS de `eletroradar.com.br` |
+| [setup-vercel.md](setup-vercel.md) | Roteiro antigo da Vercel. A produção é o GitHub Pages |
 | [google-console-analytics-setup.md](google-console-analytics-setup.md) | Ligar o painel ao Google Search Console e ao Analytics (`/admin/google`) ou mexer nessa integração |
 | [ci-cd.md](ci-cd.md) | Entender os workflows, ativar o CI ou lançar uma versão |
 | [affiliate-links.md](affiliate-links.md) | Entender como os links de afiliado são registrados no dashboard de links e renderizados (`scripts/sync-links.ts`, `LINKS_DASHBOARD_TOKEN`) |

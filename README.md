@@ -1,6 +1,6 @@
 # EletroRadar
 
-Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://eletroradar.com.br>. O código é um CMS de blog em SvelteKit 3 que serve de template para outros sites.
+Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://eletroradar.com.br>. O código é um CMS de blog em Astro 7.4, com ilhas Svelte 5, publicado no GitHub Pages.
 
 - **Conteúdo:** posts em Markdown (`content/posts/*.mdx`) e listas de produtos em JSON (`content/products/*.json`), no próprio repositório.
 - **Site público:** estático, gerado no build.

@@ -1,7 +1,7 @@
-import { defineEnvVars } from "@sveltejs/kit/env";
+// Private environment, read at import time. `$app/env/private` is an alias of this module so the server
+// code and the integration tests keep their import specifiers after SvelteKit left the project.
+// Every variable stays optional: a fresh clone runs the public site with nothing set.
 
-// Every variable is optional so a fresh clone runs with no configuration: the public site needs none,
-// and each feature explains what is missing when it is used without its variables.
 const optional = (value: string | undefined) => value?.trim() || undefined;
 
 const list = (value: string | undefined) =>
@@ -10,110 +10,27 @@ const list = (value: string | undefined) =>
 		.map((item) => item.trim().toLowerCase())
 		.filter(Boolean);
 
-export const variables = defineEnvVars({
-	// --- Database -----------------------------------------------------------
-	DATABASE_URL: {
-		schema: optional,
-		description: "Postgres connection string (Neon). Without it, a local PGlite database is used.",
-	},
-	PGLITE_DIR: {
-		schema: optional,
-		description:
-			'Folder of the local PGlite database. Defaults to ".data/pglite"; "memory://" keeps it in RAM.',
-	},
-
-	// --- Admin authentication ----------------------------------------------
-	BETTER_AUTH_SECRET: {
-		schema: optional,
-		description: "Secret used to sign sessions. Generate with `openssl rand -base64 32`.",
-	},
-	BETTER_AUTH_URL: {
-		schema: optional,
-		description:
-			"Public origin of the site, e.g. https://example.com. Inferred from the request when unset.",
-	},
-	GITHUB_CLIENT_ID: { schema: optional, description: "Client ID of the GitHub OAuth App used to sign in." },
-	GITHUB_CLIENT_SECRET: { schema: optional, description: "Client secret of the GitHub OAuth App." },
-	ADMIN_GITHUB_USERS: {
-		schema: list,
-		description: "Comma-separated GitHub usernames allowed into /admin. Empty means nobody.",
-	},
-	GOOGLE_CLIENT_ID: {
-		schema: optional,
-		description: "Client ID of the Google OAuth client used to sign in.",
-	},
-	GOOGLE_CLIENT_SECRET: { schema: optional, description: "Client secret of the Google OAuth client." },
-	ADMIN_EMAILS: {
-		schema: list,
-		description:
-			"Comma-separated e-mails allowed into /admin through any provider that verifies the address (Google).",
-	},
-	AUTH_TEST_LOGIN_TOKEN: {
-		schema: optional,
-		description:
-			"Enables POST /api/test/login for automated tests when set. Never set it in production (it is refused there).",
-	},
-
-	// --- Content storage ----------------------------------------------------
-	GITHUB_TOKEN: {
-		schema: optional,
-		description:
-			"Fine-grained token with Contents read/write on GITHUB_REPO only. Without it, /admin writes to the local disk.",
-	},
-	GITHUB_REPO: { schema: optional, description: 'Repository that holds the content, as "owner/name".' },
-	GITHUB_BRANCH: {
-		schema: optional,
-		description: 'Branch that receives content commits. Defaults to "main".',
-	},
-	CONTENT_ROOT: {
-		schema: optional,
-		description: "Project root used by the local disk content store. Defaults to the working directory.",
-	},
-
-	// --- E-mail ---------------------------------------------------------------
-	RESEND_API_KEY: {
-		schema: optional,
-		description: "Resend API key. Without it, e-mails are logged to the console instead of sent.",
-	},
-	RESEND_FROM_EMAIL: {
-		schema: optional,
-		description: 'Sender, e.g. "My Blog <no-reply@example.com>". The domain must be verified in Resend.',
-	},
-	CONTACT_TO_EMAIL: {
-		schema: optional,
-		description: "Inbox that receives contact form messages. Defaults to site.contactEmail.",
-	},
-	CRON_SECRET: {
-		schema: optional,
-		description:
-			"Bearer token accepted by the newsletter dispatch endpoint when called by a scheduler. At least 32 characters.",
-	},
-
-	// --- Post import -----------------------------------------------------------
-	MISTRAL_API_KEY: {
-		schema: optional,
-		description:
-			"Mistral API key. When set, /admin/import rewrites the source summary and FAQ with Mistral; without it, template texts are used.",
-	},
-
-	// --- Google Search Console and Analytics (/admin/google) ------------------
-	GOOGLE_SERVICE_ACCOUNT_EMAIL: {
-		schema: optional,
-		description:
-			"E-mail of the Google Cloud service account that reads Search Console and Analytics (client_email of its JSON key).",
-	},
-	GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY: {
-		schema: optional,
-		description:
-			"Private key of the service account (private_key of its JSON key), with line breaks or literal \n.",
-	},
-	GOOGLE_SEARCH_CONSOLE_SITE: {
-		schema: optional,
-		description:
-			'Search Console property, exactly as named there: "sc-domain:example.com" or "https://example.com/".',
-	},
-	GOOGLE_ANALYTICS_PROPERTY_ID: {
-		schema: optional,
-		description: "Numeric id of the Google Analytics 4 property (not the G-XXXX measurement id).",
-	},
-});
+export const DATABASE_URL = optional(process.env.DATABASE_URL);
+export const PGLITE_DIR = optional(process.env.PGLITE_DIR);
+export const BETTER_AUTH_SECRET = optional(process.env.BETTER_AUTH_SECRET);
+export const BETTER_AUTH_URL = optional(process.env.BETTER_AUTH_URL);
+export const GITHUB_CLIENT_ID = optional(process.env.GITHUB_CLIENT_ID);
+export const GITHUB_CLIENT_SECRET = optional(process.env.GITHUB_CLIENT_SECRET);
+export const ADMIN_GITHUB_USERS = list(process.env.ADMIN_GITHUB_USERS);
+export const GOOGLE_CLIENT_ID = optional(process.env.GOOGLE_CLIENT_ID);
+export const GOOGLE_CLIENT_SECRET = optional(process.env.GOOGLE_CLIENT_SECRET);
+export const ADMIN_EMAILS = list(process.env.ADMIN_EMAILS);
+export const AUTH_TEST_LOGIN_TOKEN = optional(process.env.AUTH_TEST_LOGIN_TOKEN);
+export const GITHUB_TOKEN = optional(process.env.GITHUB_TOKEN);
+export const GITHUB_REPO = optional(process.env.GITHUB_REPO);
+export const GITHUB_BRANCH = optional(process.env.GITHUB_BRANCH);
+export const CONTENT_ROOT = optional(process.env.CONTENT_ROOT);
+export const RESEND_API_KEY = optional(process.env.RESEND_API_KEY);
+export const RESEND_FROM_EMAIL = optional(process.env.RESEND_FROM_EMAIL);
+export const CONTACT_TO_EMAIL = optional(process.env.CONTACT_TO_EMAIL);
+export const CRON_SECRET = optional(process.env.CRON_SECRET);
+export const MISTRAL_API_KEY = optional(process.env.MISTRAL_API_KEY);
+export const GOOGLE_SERVICE_ACCOUNT_EMAIL = optional(process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL);
+export const GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY = optional(process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY);
+export const GOOGLE_SEARCH_CONSOLE_SITE = optional(process.env.GOOGLE_SEARCH_CONSOLE_SITE);
+export const GOOGLE_ANALYTICS_PROPERTY_ID = optional(process.env.GOOGLE_ANALYTICS_PROPERTY_ID);
