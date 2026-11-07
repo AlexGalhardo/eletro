@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs";
-import { expect, test } from "@playwright/test";
 import { isPublished, parsePost } from "../../src/lib/content/parse.ts";
+import { expect, test } from "./test.ts";
 
 // Fast checks over HTTP only: every public URL answers and nothing private leaks into the indexes.
 const posts = readdirSync("content/posts").map((file) => {
@@ -38,6 +38,7 @@ test.describe("smoke", () => {
 			const html = await response.text();
 
 			expect(response.status(), slug).toBe(200);
+			expect(html, slug).toContain(`https://example.com/${slug}/`);
 			expect(html, slug).toContain('"@type":"BlogPosting"');
 			expect(html, slug).toContain('"@type":"FAQPage"');
 			expect(html, slug).toContain('data-testid="cards-table"');
@@ -50,28 +51,30 @@ test.describe("smoke", () => {
 		const llms = await (await request.get("/llms.txt")).text();
 
 		for (const slug of hidden) {
-			const page = await request.get(`/${slug}`, { maxRedirects: 0 });
-			expect(page.status(), slug).toBe(302);
-			expect(page.headers().location, slug).toBe("/");
-			expect((await request.get(`/api/v1/posts/${slug}`)).status(), slug).toBe(404);
+			const page = await request.get(`/${slug}`);
+			expect(page.status(), slug).toBe(404);
+			expect(await page.text(), slug).toContain("Página Não Encontrada");
+			expect((await request.get(`/api/v1/posts/${slug}/index.json`)).status(), slug).toBe(404);
+			expect(sitemap, slug).not.toContain(`/${slug}/</loc>`);
 			expect(sitemap, slug).not.toContain(`/${slug}</loc>`);
+			expect(llms, slug).not.toContain(`/${slug}/)`);
 			expect(llms, slug).not.toContain(`/${slug})`);
 		}
 	});
 
-	test("unknown pages redirect to the home page; files and the API keep their 404", async ({ request }) => {
-		const page = await request.get("/esta-pagina-nao-existe", { maxRedirects: 0 });
-		expect(page.status()).toBe(302);
-		expect(page.headers().location).toBe("/");
+	test("unknown pages are a 404; missing files and API routes stay 404", async ({ request }) => {
+		const page = await request.get("/esta-pagina-nao-existe");
+		expect(page.status()).toBe(404);
+		expect(await page.text()).toContain("Página Não Encontrada");
 
 		expect((await request.get("/images/nao-existe.webp", { maxRedirects: 0 })).status()).toBe(404);
-		expect((await request.get("/api/v1/nao-existe", { maxRedirects: 0 })).status()).toBe(404);
+		expect((await request.get("/api/v1/nao-existe/index.json", { maxRedirects: 0 })).status()).toBe(404);
 	});
 
 	test("sitemap lists every post and no private path", async ({ request }) => {
 		const xml = await (await request.get("/sitemap.xml")).text();
 
-		for (const slug of slugs) expect(xml).toContain(`/${slug}</loc>`);
+		for (const slug of slugs) expect(xml).toContain(`/${slug}/</loc>`);
 		expect(xml).not.toMatch(/\/admin|\/api/);
 	});
 
@@ -101,10 +104,19 @@ test.describe("smoke", () => {
 		expect(llms).not.toMatch(/\/admin|\/api/);
 	});
 
-	test("API responses are never indexable", async ({ request }) => {
-		const response = await request.post("/api/v1/contact", { data: {} });
+	test("public API reads are JSON files", async ({ request }) => {
+		// GitHub Pages serves `index.json` as application/json for the directory URL too.
+		// `astro preview` only does that for the file path, which is the same artifact.
+		const health = await request.get("/api/v1/health/index.json");
+		expect(health.status()).toBe(200);
+		expect(health.headers()["content-type"]).toContain("application/json");
+		expect((await health.json()).data.status).toBe("ok");
 
-		expect(response.status()).toBe(400);
-		expect(response.headers()["x-robots-tag"]).toContain("noindex");
+		const one = slugs[0];
+		expect(one).toBeTruthy();
+		const post = await request.get(`/api/v1/posts/${one}/index.json`);
+		expect(post.status()).toBe(200);
+		expect(post.headers()["content-type"]).toContain("application/json");
+		expect((await post.json()).data.slug).toBe(one);
 	});
 });

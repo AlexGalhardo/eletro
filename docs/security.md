@@ -9,9 +9,9 @@ Relatório da revisão de 2026-10-06 (item R2 do [`PLAN.md`](../PLAN.md)) e mode
 | Fronteira | Quem escreve | Controle |
 |---|---|---|
 | Visitante → site público | Qualquer pessoa | Páginas estáticas; só o formulário de contato e a newsletter recebem dados |
-| Visitante → `/api/v1` | Qualquer pessoa | Validação zod, limite de escritas por IP, formato único de erro, CSRF do SvelteKit |
+| Visitante → `/api/v1` | Qualquer pessoa | Leituras públicas pré-renderizadas em `index.json`. Escritas ficam nos handlers (zod, limite por IP) e não rodam no GitHub Pages |
 | Admin → `/admin` e escritas da API | Quem está em `ADMIN_GITHUB_USERS` ou, com e-mail verificado, em `ADMIN_EMAILS` | Sessão do better-auth em cookie `HttpOnly`, `SameSite=Lax`; lista conferida a cada requisição |
-| Conteúdo → build | O admin, pelo painel, ou um commit direto | O corpo do post vira código Svelte no build: `validateBody` e os schemas são o portão |
+| Conteúdo → build | O admin, pelo painel, ou um commit direto | O corpo do post vira HTML no build (`marked`); `<CardsTable>` continua uma ilha Svelte. `validateBody` e os schemas são o portão |
 | Servidor → GitHub, Resend, Neon | Configuração | Segredos só em variáveis de ambiente; caminhos do store validados |
 
 O ativo mais sensível é o build: um post malicioso que passe pelo portão executa código no deploy, lê as variáveis de ambiente e publica script para todo visitante. Por isso um admin comprometido é o cenário de maior impacto.
@@ -22,7 +22,7 @@ O ativo mais sensível é o build: um post malicioso que passe pelo portão exec
 |---|---|---|
 | Alto | `validateBody` aceitava chaves codificadas (`&#123;`, `&lbrace;`, `%7B`), que o mdsvex decodifica em expressões Svelte: execução de código no build e XSS persistente | **Corrigido.** Chaves codificadas, qualquer referência numérica e entidades fora de uma lista curta são recusadas; testes em `validate-body.test.ts` |
 | Médio | URLs `javascript:` e HTML perigoso (`<base>`, `<meta refresh>`, `<form>`, `style=`) no corpo, nos links de loja e na capa | **Corrigido.** Tags e atributo `style` recusados; esquemas `javascript:`, `vbscript:` e `data:` recusados em links e imagens; `cover`, `image` e links de loja aceitam só `/images/...`, `https://` e os marcadores `""` e `#` |
-| Médio | Nenhum cabeçalho de segurança | **Corrigido em parte.** `X-Content-Type-Options`, `X-Frame-Options`, `Referrer-Policy`, `Permissions-Policy` e `Cache-Control: no-store` nas áreas privadas (`hooks.server.ts`); os mesmos, mais HSTS, em `vercel.json` e `static/_headers` para as páginas estáticas. **Em aberto:** CSP, e a conferência dos cabeçalhos em um deploy real |
+| Médio | Nenhum cabeçalho de segurança | **Corrigido em parte.** Os handlers ainda mandam `X-Content-Type-Options`, `X-Frame-Options`, `Referrer-Policy`, `Permissions-Policy` e `Cache-Control: no-store` (`hooks.server.ts`) quando um servidor os executa. O GitHub Pages não aplica esses cabeçalhos; a política de referrer também está no `<meta>` de `src/layouts/Root.astro`. **Em aberto:** CSP |
 | Médio | Newsletter: inscrição usável para encher caixas de entrada; confirmação acontecia ao abrir o link | **Corrigido.** Uma confirmação por endereço a cada 24 h, teto de 60 confirmações por hora no total, confirmação por botão (`POST`), sem rastreadores nas páginas com token |
 | Baixo | `cover` com `..` fazia o store pedir outro endpoint da API do GitHub com o token | **Corrigido.** O schema recusa, e os stores recusam qualquer caminho com `..` |
 | Baixo | Login de testes ativo fora de Vercel/Netlify se a variável fosse definida | **Corrigido.** Só existe com o banco PGlite local e fora de produção; entra no limite de requisições |
@@ -77,7 +77,7 @@ Nenhuma tem correção disponível subindo uma dependência direta do projeto. R
 - Os ataques no navegador: foi conferido o HTML gerado no servidor, não a execução.
 - Um deploy real em Vercel ou Netlify: cabeçalhos da plataforma, HSTS, variáveis visíveis no build.
 - O fluxo OAuth completo com o GitHub e o banco Neon.
-- CSP: o SvelteKit 3 tem a opção `csp` em `sveltekit({ ... })` no `vite.config.ts`. Ligá-la exige tirar os scripts embutidos do tema e do analytics de `app.html` e de `layout.svelte` (ou declarar o hash deles) e testar Google Analytics e Clarity no ar.
+- CSP: o site em produção é Astro 7.4 estático no GitHub Pages. Não há `sveltekit({ csp })` nem `vite.config.ts`. Ligar CSP exige declarar o hash dos scripts embutidos do tema e do analytics e testar Google Analytics e Clarity no ar.
 
 ## Para quem mantém
 

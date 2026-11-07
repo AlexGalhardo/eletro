@@ -1,4 +1,4 @@
-import { expect, test } from "@playwright/test";
+import { expect, test } from "./test.ts";
 
 const POST = "/melhor-airfryer-8-litros";
 
@@ -90,7 +90,7 @@ test.describe("search and navigation", () => {
 		await page.getByRole("button", { name: "Abrir menu" }).click();
 		await page.getByRole("dialog").getByRole("link", { name: "Sobre" }).click();
 
-		await expect(page).toHaveURL("/sobre");
+		await expect(page).toHaveURL(/\/sobre\/?$/);
 		await expect(page.getByRole("dialog")).toBeHidden();
 		await expect(page.getByRole("heading", { level: 1, name: "Sobre" })).toBeVisible();
 	});
@@ -176,8 +176,8 @@ test.describe("contact", () => {
 		await expect(page.getByRole("status")).toHaveCount(0);
 	});
 
-	test("sends a valid message and clears the form", async ({ page }) => {
-		await page.goto("/contato");
+	test("shows an error when the static host cannot send the message", async ({ page }) => {
+		await page.goto("/contato", { waitUntil: "networkidle" });
 		await page.getByLabel("Seu nome").fill("Maria Silva");
 		await page.getByLabel("Seu email").fill("maria@example.com");
 		await page
@@ -186,16 +186,21 @@ test.describe("contact", () => {
 
 		await page.getByRole("button", { name: "Enviar Mensagem" }).click();
 
-		await expect(page.getByRole("status")).toHaveText("Mensagem enviada com sucesso!");
-		await expect(page.getByLabel("Mensagem")).toHaveValue("");
+		await expect(page.getByRole("status")).toHaveText(
+			"Erro ao enviar mensagem. Tente novamente mais tarde.",
+		);
+		await expect(page.getByLabel("Mensagem")).toHaveValue(
+			"Olá, gostaria de sugerir uma análise de cafeteiras elétricas.",
+		);
 	});
 });
 
-test("unknown pages send the visitor to the home page", async ({ page }) => {
+test("unknown pages render the 404 page", async ({ page }) => {
 	const response = await page.goto("/esta-pagina-nao-existe");
 
-	expect(response?.status()).toBe(200);
-	await expect(page).toHaveURL("/");
+	expect(response?.status()).toBe(404);
+	await expect(page.getByRole("heading", { level: 1, name: "404" })).toBeVisible();
+	await expect(page.getByText("Página Não Encontrada")).toBeVisible();
 });
 
 test.describe("keyboard", () => {

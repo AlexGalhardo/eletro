@@ -6,6 +6,15 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-11-07
+
+### Fixed
+
+- A URL canônica e o sitemap usam a barra final, que é o endereço em que o GitHub Pages responde 200.
+- As leituras públicas da API são publicadas como `index.json`, servidas com `Content-Type: application/json` em `/api/v1/.../`.
+- A documentação de operação descreve Astro 7.4 no GitHub Pages.
+- Os testes e2e conferem o site estático: 404 no lugar do redirecionamento para a home, tela de login no painel e a API em JSON.
+
 ## [2.0.0] - 2026-11-06
 
 ### Changed
@@ -403,7 +412,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.1...HEAD
+[2.0.1]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.6.1...v2.0.0
 [1.6.1]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v1.5.2...v1.6.0

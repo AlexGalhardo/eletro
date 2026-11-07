@@ -9,12 +9,18 @@ const ORIGIN = `http://127.0.0.1:${PORT}`;
 export default defineConfig({
 	testDir: "tests/e2e",
 	fullyParallel: true,
+	// The suite shares one `astro preview`. More workers leave `page.goto` waiting until the test times out.
+	workers: 2,
 	forbidOnly: !!process.env.CI,
 	retries: process.env.CI ? 2 : 0,
 	reporter: process.env.CI ? [["github"], ["html", { open: "never" }]] : "list",
 	use: {
 		baseURL: ORIGIN,
 		trace: "retain-on-failure",
+		// Optional override when the headless shell download is blocked. CI installs Playwright's browser.
+		...(process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH
+			? { launchOptions: { executablePath: process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH } }
+			: {}),
 	},
 	projects: [
 		{ name: "desktop", use: { ...devices["Desktop Chrome"] } },

@@ -20,8 +20,11 @@ const post: Post = {
 
 describe("absoluteUrl", () => {
 	it("prefixes site paths and keeps absolute URLs", () => {
-		expect(absoluteUrl("/sobre")).toBe(`${site.url}/sobre`);
-		expect(absoluteUrl("sobre")).toBe(`${site.url}/sobre`);
+		expect(absoluteUrl("/sobre")).toBe(`${site.url}/sobre/`);
+		expect(absoluteUrl("sobre")).toBe(`${site.url}/sobre/`);
+		expect(absoluteUrl("/sitemap.xml")).toBe(`${site.url}/sitemap.xml`);
+		expect(absoluteUrl("/logo.png")).toBe(`${site.url}/logo.png`);
+		expect(absoluteUrl("/#organization")).toBe(`${site.url}/#organization`);
 		expect(absoluteUrl("https://cdn.example.com/a.png")).toBe("https://cdn.example.com/a.png");
 	});
 });
@@ -33,7 +36,7 @@ describe("postJsonLd", () => {
 		expect(article).toMatchObject({
 			"@type": "BlogPosting",
 			headline: "Melhor Ventilador",
-			url: `${site.url}/melhor-ventilador`,
+			url: `${site.url}/melhor-ventilador/`,
 			image: [`${site.url}/images/covers/v.webp`],
 			datePublished: "2026-09-04T08:00:00-03:00",
 			timeRequired: "PT3M",

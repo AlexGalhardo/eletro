@@ -3,11 +3,25 @@ import { type AuthorId, site } from "../site.config.ts";
 
 type JsonLd = Record<string, unknown>;
 
-/** Absolute URL for a site path or an already absolute URL. */
+/** Absolute URL for a site path or an already absolute URL.
+ * Directory pages get a trailing slash: GitHub Pages returns 200 for that URL and 301s the bare path.
+ * A final segment with a dot is a file (`sitemap.xml`, an image) and stays as it is.
+ */
 export function absoluteUrl(pathOrUrl: string): string {
-	return /^https?:\/\//.test(pathOrUrl)
-		? pathOrUrl
-		: `${site.url}${pathOrUrl.startsWith("/") ? "" : "/"}${pathOrUrl}`;
+	if (/^https?:\/\//.test(pathOrUrl)) return pathOrUrl;
+
+	const withSlash = pathOrUrl.startsWith("/") ? pathOrUrl : `/${pathOrUrl}`;
+	const hashAt = withSlash.indexOf("#");
+	const beforeHash = hashAt === -1 ? withSlash : withSlash.slice(0, hashAt);
+	const hash = hashAt === -1 ? "" : withSlash.slice(hashAt);
+	const queryAt = beforeHash.indexOf("?");
+	const pathname = queryAt === -1 ? beforeHash : beforeHash.slice(0, queryAt);
+	const query = queryAt === -1 ? "" : beforeHash.slice(queryAt);
+	const last = pathname.split("/").pop() ?? "";
+	const page = last.length > 0 && !last.includes(".");
+	const canonical = page ? `${pathname}/` : pathname;
+
+	return `${site.url}${canonical}${query}${hash}`;
 }
 
 // Posts carry a date only; search engines want a full timestamp.
