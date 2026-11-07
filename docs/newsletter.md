@@ -42,8 +42,8 @@ O agendador não está configurado no repositório. Sem ele, a fila só anda pel
 - Se o processo cair entre o envio de um lote (até 100 e-mails) e o registro dele, a nova tentativa repete aquele lote.
 - Com o teto de 60 confirmações por hora atingido, novas inscrições ficam registradas mas não recebem o e-mail naquela hora (o servidor registra um aviso no log).
 - As páginas da newsletter não carregam os scripts de analytics: o endereço delas leva o token do assinante.
-- A confirmação e o descadastro pedem um clique na página, não acontecem ao abrir o link: leitores de e-mail abrem links sozinhos e cancelariam inscrições por engano. O `POST` de um clique do RFC 8058 não é oferecido, porque a proteção CSRF do SvelteKit recusa `POST` de formulário vindo de outra origem.
-- Agendador deve chamar com `GET`. Um `POST` sem corpo vindo de fora do navegador é recusado pela proteção CSRF do SvelteKit (403), a não ser que envie `Content-Type: application/json`.
+- A confirmação e o descadastro pedem um clique na página, não acontecem ao abrir o link: leitores de e-mail abrem links sozinhos e cancelariam inscrições por engano. O host de produção é o GitHub Pages, que não executa esse `POST`; o handler continua coberto pelos testes de integração.
+- O agendador, quando houver um servidor para a fila, chama com `GET /api/v1/newsletter/dispatches/run`. O GitHub Pages não dispara essa rota.
 - `/admin/newsletter` mostra os 200 assinantes e os 100 envios mais recentes, sem busca.
 
 ## Onde fica o código

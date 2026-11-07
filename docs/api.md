@@ -2,6 +2,8 @@
 
 A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, é servida em `/api/v1/openapi.json` (OpenAPI 3.1). Este documento resume as regras.
 
+No GitHub Pages cada leitura pública é um `index.json`. A URL que responde 200 com `Content-Type: application/json` leva barra no final (`/api/v1/health/`, `/api/v1/posts/`, `/api/v1/posts/{slug}/`, e o mesmo para produtos e categorias). O caminho sem a barra redireciona para ela. `openapi.json` já tem extensão. Contato, newsletter e o painel não rodam nesse host: os handlers continuam no repositório e nos testes de integração.
+
 ## Endpoints
 
 | Método e caminho | Acesso | O que faz |
@@ -54,9 +56,9 @@ A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, �
 ## Limites conhecidos
 
 - O limite de requisições fica na memória de cada instância do servidor. Em plataforma serverless cada instância conta separado; é uma barreira contra abuso simples, não uma garantia.
-- Requisição de escrita sem corpo (o `DELETE`) feita fora do navegador precisa do cabeçalho `Origin` do próprio site: sem ele a proteção CSRF do SvelteKit responde 403.
+- O GitHub Pages não executa `POST`, `PUT` nem `DELETE`. Esses handlers existem para os testes de integração e para um servidor que os rode.
 - Não há endpoint para excluir lista de produtos nem imagem.
-- `GET /newsletter/dispatches/run` altera estado apesar de ser `GET`: existe porque agendadores como o Vercel Cron só chamam com `GET`. Detalhes em [`newsletter.md`](newsletter.md).
+- `GET /newsletter/dispatches/run` altera estado apesar de ser `GET`, para um agendador poder chamá-lo. O GitHub Pages não dispara essa rota. Detalhes em [`newsletter.md`](newsletter.md).
 - As operações não têm `operationId` no `openapi.json`.
 
 ## Onde fica o código

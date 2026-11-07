@@ -13,7 +13,8 @@ describe("public crawl files", () => {
 		if (!sample) throw new Error("no published post");
 
 		const sitemapBody = await (await sitemap()).text();
-		expect(sitemapBody).toContain(`https://eletroradar.com.br/${sample.slug}`);
+		expect(sitemapBody).toContain(`https://eletroradar.com.br/${sample.slug}/</loc>`);
+		expect(sitemapBody).not.toContain(`https://eletroradar.com.br/${sample.slug}</loc>`);
 		expect(sitemapBody).not.toContain("/admin");
 		expect(sitemapBody).not.toContain("/api");
 

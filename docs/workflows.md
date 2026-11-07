@@ -63,10 +63,10 @@ A tarefa só está entregue quando o último commit tem tag e GitHub Release.
 
 ## Deploy
 
-O push na `main` é o deploy de produção. Não há branch de homologação: trabalho que não pode ir ao ar fica em outra branch, que ganha um deploy de preview.
+O push na `main` publica o site no GitHub Pages pelo workflow `.github/workflows/pages.yml`. Não há branch de homologação: trabalho que não pode ir ao ar fica em outra branch.
 
-1. Depois do push, confira o deploy: `vercel ls eletroradar.com.br` até `Ready`, depois a home responde 200 ([`agent-setup.md`](agent-setup.md#9-vercel)).
-2. Deploy com `Error`: leia o log do build. As causas comuns são conteúdo inválido e o dashboard de links recusando o registro ([`affiliate-links.md`](affiliate-links.md)). O site continua na versão anterior.
+1. Depois do push, confira o workflow `pages` até ficar verde. A home `https://eletroradar.com.br/` responde 200 com `Server: GitHub.com` ([`deploy.md`](deploy.md)).
+2. Deploy com falha: leia o log do job de build. As causas comuns são conteúdo inválido e o dashboard de links recusando o registro ([`affiliate-links.md`](affiliate-links.md)). O site continua na versão anterior.
 3. Corrija com um commit novo (uma release nova). Não reescreva o histórico da `main`.
 
 Variáveis de produção e deploy manual são do dono; um agente só mexe nelas a pedido.
