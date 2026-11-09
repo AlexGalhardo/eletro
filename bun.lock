@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "sveltekit-blog-cms",
+      "name": "astro-blog-cms",
       "dependencies": {
         "@electric-sql/pglite": "0.5.8",
         "@fontsource/inter": "5.3.0",
