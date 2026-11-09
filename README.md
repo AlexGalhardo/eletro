@@ -1,4 +1,16 @@
-# EletroRadar
+<div align="center">
+
+<h1><strong><a href="https://example.com" target="_blank">EletroRadar</a></strong></h1>
+
+[![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
+[![Bun 1.4](https://img.shields.io/badge/bun-1.4-000000?logo=bun&logoColor=white)](package.json)
+[![Astro 7.4](https://img.shields.io/badge/astro-7.4-BC52EE?logo=astro&logoColor=white)](package.json)
+
+<h3><strong>Blog de reviews de eletrodomésticos com links de afiliado</strong></h3>
+
+</div>
+
+## Introdução
 
 Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://example.com>. O código é um CMS de blog em Astro 7.4, com ilhas Svelte 5, publicado no GitHub Pages.
 
@@ -6,6 +18,19 @@ Blog de reviews de eletrodomésticos com links de afiliado, em produção em <ht
 - **Site público:** estático, gerado no build.
 - **Painel `/admin`:** login com GitHub ou Google, restrito a uma lista de usuários. Cada alteração vira um commit e entra no ar no deploy seguinte.
 - **Links de afiliado:** gerenciados pelo dashboard de links (`links.lekzera.xyz`). O build registra os links lá e os botões passam pelo redirect dele. Ver [`docs/affiliate-links.md`](docs/affiliate-links.md).
+
+## Sumário
+
+- [Introdução](#introdução)
+- [Rodar](#rodar)
+- [Comandos](#comandos)
+- [Usar como template](#usar-como-template)
+- [Documentação](#documentação)
+- [Estabilidade](#estabilidade)
+- [Contribuindo](#contribuindo)
+- [Código de conduta](#código-de-conduta)
+- [Vulnerabilidades de segurança](#vulnerabilidades-de-segurança)
+- [Licença](#licença)
 
 ## Rodar
 
@@ -65,6 +90,32 @@ O índice completo está em [`docs/README.md`](docs/README.md). Os mais usados:
 | [`docs/workflows.md`](docs/workflows.md) | Commits, release e deploy |
 | [`AGENTS.md`](AGENTS.md) | Instruções para agentes de código |
 | [`CHANGELOG.md`](CHANGELOG.md) | Histórico de versões |
+
+## Estabilidade
+
+O projeto segue [SemVer](https://semver.org/lang/pt-BR/) e publica cada versão como tag `vX.Y.Z` com GitHub Release. O histórico está em [`CHANGELOG.md`](CHANGELOG.md), no formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
+
+## Contribuindo
+
+O guia completo (requisitos, comandos e verificações) está em [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+### Pull requests
+
+1. Crie um branch a partir da `main`.
+2. Faça um commit por mudança lógica, com testes, e deixe o `bun run verify` verde.
+3. Abra o pull request contra a `main`.
+
+### Commits
+
+[Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) em inglês, com o tipo extra `content` para posts, produtos e imagens, validados pelo commitlint no hook `commit-msg`.
+
+## Código de conduta
+
+Leia e siga o [Código de Conduta](CODE_OF_CONDUCT.md).
+
+## Vulnerabilidades de segurança
+
+Siga a [política de segurança](SECURITY.md) em vez de abrir uma issue pública.
 
 ## Licença
 
