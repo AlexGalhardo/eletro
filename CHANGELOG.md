@@ -6,6 +6,17 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.0.2] - 2026-11-09
+
+### Added
+
+- `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` e `SECURITY.md` na raiz do repositório.
+
+### Changed
+
+- O README segue o formato de referência do workspace.
+- O pacote passa a se chamar `astro-blog-cms` (antes `sveltekit-blog-cms`).
+
 ## [2.0.1] - 2026-11-07
 
 ### Fixed
@@ -412,7 +423,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.1...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.2...HEAD
+[2.0.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.1...v2.0.0
 [1.6.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.0...v1.6.1
