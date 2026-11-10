@@ -1,0 +1,309 @@
+[
+	{
+		"id": "britania-juicer-700-450ml-400w",
+		"name": "Britânia Juicer 700 450ml 400W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro em aço inox e corpo em plástico rígido",
+			"Reservatório de 450ml para sucos em menor volume",
+			"Acionamento manual, com controle direto do espremido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico rígido; filtro em aço inox"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "450ml"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 27 x 21,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,63kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-turbo-premium-e-10-1-litro-250w",
+		"name": "Mondial Turbo Premium E-10 1 litro 250W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático com motor de 250W",
+			"Reservatório de 1 litro",
+			"Corpo em plástico e aço inox",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico e aço inox; cones em plástico"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1 litro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 19,5 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-premium-e-02-1-25-litros-30w",
+		"name": "Mondial Premium E-02 1,25 litros 30W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático com 30W de potência",
+			"Reservatório de 1,25 litro",
+			"Corpo e cones em plástico rígido",
+			"Peso de 745g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo e cones em plástico rígido"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,25 litros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 24 x 17,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "745g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-efficient-ecp10-800ml-30w",
+		"name": "Electrolux Efficient ECP10 800ml 30W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático de 30W",
+			"Reservatório de 800ml",
+			"Corpo em plástico rígido e aço inox",
+			"Peso de 790g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico rígido e aço inox; cones em plástico"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800ml"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,9 x 14,2 x 19,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "790g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-wj1200-1-2-litros-40w",
+		"name": "WAP WJ1200 1,2 litros 40W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático com 40W de potência",
+			"Reservatório de 1,2 litro",
+			"Corpo em plástico rígido e aço inox",
+			"Cones em plástico rígido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico rígido e aço inox; cones em plástico rígido"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,2 litros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 15 x 16,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,36kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-turbo-pro-1-3-litros-260w",
+		"name": "Britânia Turbo Pro 1,3 litros 260W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático com 260W de potência",
+			"Reservatório de 1,3 litro, o maior da lista",
+			"Corpo em plástico rígido e aço inox",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "260W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico rígido e aço inox; cones em plástico rígido"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,3 litros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 22,2 x 22,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,88kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "arno-suco-express-750ml-40w",
+		"name": "Arno Suco Express 750ml 40W",
+		"image": "/images/posts/melhor-espremedor-de-frutas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento automático com 40W",
+			"Reservatório de 750ml",
+			"Corpo e cones em plástico rígido",
+			"Peso de 890g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de acionamento",
+				"value": "automático"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Material",
+				"value": "corpo e cones em plástico rígido"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "750ml"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 16 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "890g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

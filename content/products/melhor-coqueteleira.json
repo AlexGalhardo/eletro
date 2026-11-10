@@ -1,0 +1,234 @@
+[
+	{
+		"id": "blender-bottle-radian-shaker-cup-740ml",
+		"name": "Blender Bottle Radian Shaker Cup 740ml",
+		"image": "/images/posts/melhor-coqueteleira-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo em aço inox com 768ml de capacidade",
+			"Esfera metálica para misturar os ingredientes",
+			"Tampa com fechamento de rosca"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "768ml"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "esfera metálica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento de rosca"
+			}
+		]
+	},
+	{
+		"id": "ellym-nutrition-500ml",
+		"name": "Ellym Nutrition 500ml",
+		"image": "/images/posts/melhor-coqueteleira-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de plástico livre de BPA com 500ml",
+			"Esfera metálica para misturar as bebidas",
+			"Fechamento em click para a tampa",
+			"Não vai à lava-louças, então lave à mão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "500ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "esfera metálica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			},
+			{
+				"label": "Lavável em lava-louças",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "dux-nutrition-lab-3038-800ml",
+		"name": "Dux Nutrition Lab 3038 800ml",
+		"image": "/images/posts/melhor-coqueteleira-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 800ml, a maior da lista",
+			"Grade plástica como misturador interno",
+			"Tampa com fechamento em click",
+			"Não vai à lava-louças, então lave à mão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "800ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "grade plástica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			},
+			{
+				"label": "Lavável em lava-louças",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "utileira-shaker-500ml",
+		"name": "UTILEIRA Shaker 500ml",
+		"image": "/images/posts/melhor-coqueteleira-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de plástico livre de BPA",
+			"Esfera metálica no misturador interno",
+			"Capacidade de 600ml segundo a ficha técnica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "esfera metálica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			}
+		]
+	},
+	{
+		"id": "bodybuilders-600ml",
+		"name": "Bodybuilders 600ml",
+		"image": "/images/posts/melhor-coqueteleira-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 600ml em plástico livre de BPA",
+			"Tampa com fechamento em click",
+			"Sem misturador interno informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			}
+		]
+	},
+	{
+		"id": "blender-bottle-pro-series-700ml",
+		"name": "Blender Bottle Pro Series 700ml",
+		"image": "/images/posts/melhor-coqueteleira-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lavável em lava-louças, segundo a ficha",
+			"Misturador de esfera metálica no interior",
+			"Capacidade de 710ml em plástico livre de BPA",
+			"Fechamento em click para a tampa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "710ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "esfera metálica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			},
+			{
+				"label": "Lavável em lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "blender-bottler-classic-v2-600ml",
+		"name": "Blender Bottler Classic V2 600ml",
+		"image": "/images/posts/melhor-coqueteleira-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pode ir à lava-louças conforme a ficha",
+			"Capacidade de 600ml em plástico livre de BPA",
+			"Esfera metálica no misturador interno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Misturador interno",
+				"value": "esfera metálica"
+			},
+			{
+				"label": "Tampa",
+				"value": "fechamento em click"
+			},
+			{
+				"label": "Lavável em lava-louças",
+				"value": "sim"
+			}
+		]
+	}
+]

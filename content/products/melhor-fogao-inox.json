@@ -1,0 +1,351 @@
+[
+	{
+		"id": "electrolux-efficient-fe5ic-5-bocas",
+		"name": "Electrolux Efficient FE5IC (5 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 108,9 litros, o maior da lista",
+			"Cinco queimadores, incluindo tripla chama de 3,3kW",
+			"Superfície em aço inox e trempes de ferro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 2kW; 2Q Rápidos de 2,7kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 76 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-cooktop-23678-54121-5-bocas",
+		"name": "Fischer Cooktop 23678-54121 (5 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cooktop com cinco queimadores",
+			"Tripla chama de 3,7kW e trempes de ferro fundido",
+			"Dimensões de 11,5 x 76,7 x 46cm e peso de 9,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla chama de 3,7kW; 2Q Rápidos de 2,9kW; 2Q Semirrápidos de 1,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 76,7 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-efficient-fe4gs-4-bocas",
+		"name": "Electrolux Efficient FE4GS (4 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 72,6 litros e tripla chama de 2,75kW",
+			"Superfície de vidro temperado com trempes de aço estampado",
+			"Quatro queimadores e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "72,6 litro"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla chama de 2,75kW; 1Q Rápidos de 2,65kW; 2Q Semirrápidos de 2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço estampado"
+			},
+			{
+				"label": "Dimensões",
+				"value": "96,8 x 52 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bfo4nbr-4-bocas",
+		"name": "Brastemp BFO4NBR (4 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 61,5 litros com superfície em aço inox",
+			"Dois queimadores rápidos de 2,55kW",
+			"Trempes de ferro e peso de 29kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "61,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Rápidos de 2,55kW; 2Q Semirrápidos de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95,5 x 51 x 65,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "29kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "consul-cfo4nar-4-bocas",
+		"name": "Consul CFO4NAR (4 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 58 litros, o menor informado da lista",
+			"Queimador grande de 2,75kW e três médios de 1,65kW",
+			"Superfície em aço inox e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "58 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q grande de 2,75kW; 3Q médios de 1,65kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 51,8 x 60,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-magister-style-4-bocas",
+		"name": "Dako Magister Style (4 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mega chama de 3,0kW entre os queimadores",
+			"Trempes de ferro fundido e forno de 60 litros",
+			"Superfície em vidro temperado e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 1,7kW; 1Q Rápido de 2,0kW; 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,2 x 51,5 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "brastemp-byo4ebr-embutir-4-bocas",
+		"name": "Brastemp BYO4EBR Embutir (4 bocas)",
+		"image": "/images/posts/melhor-fogao-inox-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo para embutir, com forno de 61,5 litros",
+			"Dupla chama de 3kW entre os queimadores",
+			"Superfície em aço inox e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "61,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Rápido de 2,75kW; 1Q Dupla Chama de 3kW; 2Q Semirrápido de 1,65kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72,5 x 51 x 65,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

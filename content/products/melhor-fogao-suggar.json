@@ -1,0 +1,362 @@
+[
+	{
+		"id": "suggar-select-fgisl510prix-5-bocas",
+		"name": "Suggar Select FGISL510PRIX (5 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros para preparos maiores",
+			"Queimador tripla chama rápido de 3,2kW",
+			"Superfície em inox escovado com trempes de ferro fundido",
+			"Bivolt com 30,5kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido (normal) de 1,65kW; 1Q semirrápido (família) de 2kW; 1Q tripla chama rápido de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "91,3 x 75,5 x 63,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-cook-glass-fgvcg510pt-5-bocas",
+		"name": "Suggar Cook Glass FGVCG510PT (5 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros e cinco queimadores",
+			"Queimador mega chama rápido de 3,2kW",
+			"Superfície em vidro temperado",
+			"Trempes em aço esmaltado e bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido (normal) de 1,65kW; 1Q semirrápido (família) de 2kW; 1Q mega chama rápido de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 75,5 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-neo-glass-fgvng410prix-4-bocas",
+		"name": "Suggar Neo Glass FGVNG410PRIX (4 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 56 litros com quatro queimadores",
+			"Queimadores de 1,65kW e 2kW",
+			"Superfície em vidro temperado",
+			"Bivolt com 22kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "56 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido (normal) de 1,65kW; 1Q semirrápido (família) de 2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 49,4 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-cook-glass-fgvcg410pt-4-bocas",
+		"name": "Suggar Cook Glass FGVCG410PT (4 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 56 litros com quatro queimadores",
+			"Superfície em vidro temperado com trempes esmaltadas",
+			"Queimadores de 1,65kW e 2kW",
+			"Bivolt com 22kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "56 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido (normal) de 1,65kW; 1Q semirrápido (família) de 2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 49,4 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-cook-start-fgics420br-4-bocas",
+		"name": "Suggar Cook Start FGICS420BR (4 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 56 litros com quatro queimadores",
+			"Superfície em aço inoxidável",
+			"Trempes em aço esmaltado",
+			"Bivolt com 19kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "56 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90,3 x 49,4 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-cooktop-fg2002ix-2-bocas",
+		"name": "Suggar Cooktop FG2002IX (2 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois queimadores, de 1,75kW e de 3,2kW",
+			"Superfície em aço inoxidável",
+			"Trempes em ferro fundido",
+			"Compacto, com 12 x 31 x 51cm e 5,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q semirrápido de 1,75kW; 1Q tripla chama de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 31 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-neo-glass-fgvng510pt-5-bocas",
+		"name": "Suggar Neo Glass FGVNG510PT (5 bocas)",
+		"image": "/images/posts/melhor-fogao-suggar-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros com cinco queimadores",
+			"Queimador mega chama de 3,2kW",
+			"Superfície em vidro temperado",
+			"Trempes em aço esmaltado e peso de 30,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido (normal) de 1,65kW; 1Q semirrápido (normal) de 2kW; 1Q mega chama de 3,2KW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 75,5 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

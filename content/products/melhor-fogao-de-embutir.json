@@ -1,0 +1,331 @@
+[
+	{
+		"id": "brastemp-bys5pcr-5-bocas",
+		"name": "Brastemp BYS5PCR (5 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 96 litros com 5 queimadores",
+			"Queimador turbo de 3,5kW para mais potência",
+			"Superfície em aço inox e alimentação bivolt",
+			"Dimensões de 77,8 x 77,8 x 68,1 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "96 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q turbo chama de 3,5kW; 2Q rápido de 2,5kW; 2Q semirrápido de 1,8kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "77,8 x 77,8 x 68,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-4-bocas",
+		"name": "Dako Supreme (4 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 60 litros com 4 queimadores",
+			"Mega chama de 3,0kW no queimador",
+			"Superfície de vidro temperado e trempes de ferro fundido",
+			"Pesa 27,5kg e funciona em tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 1,7kW, 1Q rápido de 2,0kW e 1Q mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64 x 55,5 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "brastemp-byo4ebr-4-bocas",
+		"name": "Brastemp BYO4EBR (4 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 61 litros com 4 queimadores",
+			"Queimador de dupla chama de 3kW",
+			"Superfície em aço inox e alimentação bivolt",
+			"Dimensões de 67 x 51 x 55 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "61 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 1,7kW; 1Q rápido 2,55kW; 1Q dupla chama de 3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67 x 51 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-diplomata-4-bocas",
+		"name": "Dako Diplomata (4 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 82,5 litros, um dos maiores da lista",
+			"Três queimadores ramal de 1,7kW e mega chama de 3,0kW",
+			"Superfície de vidro temperado e trempes de ferro fundido",
+			"Pesa 33,1kg e funciona em tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "82,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Ramal de 1,7kW; 1Q Mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,1 x 60 x 68,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "venax-gaudi-prisma-vitreo-bl-4-bocas",
+		"name": "Venax Gaudi Prisma Vitreo Bl (4 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 51,8 litros com 4 queimadores",
+			"Queimador grande de 1,80kW e três médios de 1,35kW",
+			"Superfície de vidro e trempes esmaltadas",
+			"Pesa 25,5kg, o mais leve desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "51,8 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q grande de 1,80kW; 3Q médio de 1,35kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "esmaltada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 55,5 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-diplomata-grill-style-4-bocas",
+		"name": "Dako Diplomata Grill Style (4 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 82,5 litros com 4 queimadores",
+			"Queimadores mini de 1,0kW, ramal de 1,7kW e mega de 3,0kW",
+			"Superfície de vidro e trempes de ferro fundido",
+			"Pesa 33,1kg e funciona em tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "82,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q mini de 1,0kW, 2Q ramal de 1,7kW e 1Q mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,1 x 60 x 68,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-28550-65542-5-bocas",
+		"name": "Fischer 28550-65542 (5 bocas)",
+		"image": "/images/posts/melhor-fogao-de-embutir-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 110 litros, o maior desta lista",
+			"Cinco queimadores, incluindo chama tripla de 3,75kW",
+			"Superfície de vidro temperado e trempes de ferro fundido",
+			"Alimentação em 127V ou 220V",
+			"Pesa 45,8kg, com dimensões de 72,5 x 83 x 66,7 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "110 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q semirrápido de 1,95kW; 1Q rápido de 2,85kW; 1Q tripla chama de 3,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72,5 x 83 x 66,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "45,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

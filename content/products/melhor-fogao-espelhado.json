@@ -1,0 +1,338 @@
+[
+	{
+		"id": "dako-diplomata-glass-grill-style-5-bocas",
+		"name": "Dako Diplomata Glass Grill Style (5 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 100 litros com cinco queimadores",
+			"Queimadores de 1,7kW a 3,3kW, incluindo Tripla Chama",
+			"Superfície em vidro temperado com trempes de ferro fundido",
+			"Dimensões de 94,7 x 76 x 65,6cm e peso de 40kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Semirrápidos de 1,7kW; 1Q Mega Chama de 3,0kW e 1Q Tripla Chama de 3,3kW (Esquerda)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,7 x 76 x 65,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-decorato-vetro-inox-5-bocas",
+		"name": "Mueller Decorato Vetro Inox (5 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 98 litros com superfície em vidro temperado",
+			"Queimador Tripla Chama de 3,7kW e Ultra Chama de 2,6kW",
+			"Trempes em ferro fundido para apoiar as panelas",
+			"Dimensões de 95 x 75 x 62cm e peso de 35,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "98 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "Ultra Chama de 2,6kW; 1Q Tripla Chama de 3,7kW; Família de 2kW; Médio de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 75 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-magister-style-5-bocas",
+		"name": "Dako Magister Style (5 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 100 litros e cinco queimadores",
+			"Dois queimadores Família de 2kW e dois Médios de 1,7kW",
+			"Queimador Tripla Chama de 3,3kW",
+			"Vidro temperado com trempes em ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Médios de 1,7kW; 2Q Família de 2,0kW; 1Q Tripla Chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 76 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "39,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-decorato-vetro-inox-4-bocas",
+		"name": "Mueller Decorato Vetro Inox (4 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 62 litros com quatro queimadores",
+			"Queimador Ultra Chama de 2,6kW e Família de 2kW",
+			"Superfície em vidro temperado com trempes de ferro fundido",
+			"Dimensões de 95 x 52 x 62cm e peso de 26,8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "62 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "Ultra Chama de 2,6kW; Família de 2kW; Médio de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 52 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-magister-style-4-bocas",
+		"name": "Dako Magister Style (4 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 60 litros e quatro queimadores",
+			"Dois Semirrápidos de 1,7kW e um Mega Chama de 3,0kW",
+			"Superfície em vidro temperado e trempes em ferro fundido",
+			"Dimensões de 94,2 x 51,5 x 63,8cm e peso de 31,4kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 1,7kW; 1Q Rápido de 2,0kW; 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,2 x 51,5 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "itatiaia-new-dream-4-bocas",
+		"name": "Itatiaia New Dream (4 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 58 litros com quatro queimadores",
+			"Superfície em aço inox 430 e aço inox 439",
+			"Queimador Grande de 2,75kW e trempes de arame redondo",
+			"Dimensões de 95,8 x 50,9 x 62,7cm e peso de 25,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "58 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Médio de 1,85kW; 2Q Pequeno de 1,7kW; 1Q Grande de 2,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox 430 e aço inox 439"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame redondo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95,8 x 50,9 x 62,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "itatiaia-itamaster-reflecta-5-bocas",
+		"name": "Itatiaia Itamaster Reflecta (5 bocas)",
+		"image": "/images/posts/melhor-fogao-espelhado-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 101 litros com cinco queimadores",
+			"Queimadores de 1kW a 3,3kW, da Extra pequena à Tripla Chama",
+			"Superfície em vidro e trempes em ferro fundido",
+			"Dimensões de 98 x 77 x 62cm e peso de 38kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "101 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Extra pequeno de 1kW; 1Q pequeno de 1,7kW; 1Q médio de 1,85kW; 1Q grande de 2,75kW; 1Q Tripla Chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 x 77 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "38kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

@@ -1,0 +1,397 @@
+[
+	{
+		"id": "suggar-fg5002vc-inducao",
+		"name": "Suggar FG5002VC (indução)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco zonas de indução de 1500W, com 2000W no Turbo",
+			"Flex Zone e painel touch com display digital",
+			"Sensor de panela e detecção de pequenos artigos",
+			"Timer de até 99 minutos com alarme",
+			"Proteção contra superaquecimento e trava do painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "5x 1500W (2000W no Turbo)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "Flex Zone; painel touch com display digital; 9 níveis de potência; função Turbo; Trava Painel; timer de até 99min com alarme ou desligamento automático; indicador de superfície quente; sensor de panela; proteção contra superaquecimento; detecção de pequenos artigos (panelas incompatíveis ou itens, como garfo, faca, etc)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,5 x 77 x 52cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "75 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5135ix-a-gas",
+		"name": "Suggar FG5135IX (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama central de 3200W",
+			"Um rápido de 2500W e dois semirrápidos de 1750W",
+			"Acendimento superautomático e botões multicontrol removíveis",
+			"Superfície em aço inox com trempes esmaltadas",
+			"Peso de 10,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x auxiliar (1000W); 2x semirrápidos (1750W); 1x rápido (2500W); 1x tripla chama (3200W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; queimador tripla chama central; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 76 x 51cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "73 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5005avp-a-gas",
+		"name": "Suggar FG5005AVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Um queimador rápido de 2800W",
+			"Quatro semirrápidos de 1650W",
+			"Acendimento superautomático e botões multicontrol removíveis",
+			"Superfície em vidro temperado com trempes esmaltadas",
+			"Peso de 8,64kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 4x semirrápidos (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 70 x 46cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "60,5 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,64kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5305fvp-a-gas",
+		"name": "Suggar FG5305FVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama central de 3500W",
+			"Um rápido de 2800W e três semirrápidos de 1650W",
+			"Trempes em ferro fundido",
+			"Acendimento superautomático e botões removíveis",
+			"Peso de 11,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 3x semirrápidos (1650W); 1x tripla chama (3500W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; queimador tripla chama central; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 70 x 46cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "60,5 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5305avp-a-gas",
+		"name": "Suggar FG5305AVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama central de 3500W",
+			"Um rápido de 2800W e três semirrápidos de 1650W",
+			"Trempes em aço esmaltado",
+			"Botões multicontrol removíveis",
+			"Peso de 9,36kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 3x semirrápidos (1650W); 1x tripla chama (3500W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; queimador tripla chama central; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 70 x 46cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "60,5 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,36kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5335vpix-a-gas",
+		"name": "Suggar FG5335VPIX (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama lateral de 3500W",
+			"Superfície de vidro temperado com frame em aço inox",
+			"Trempes em ferro fundido",
+			"Acendimento superautomático e botões removíveis",
+			"Peso de 14,16kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 3x semirrápidos (1650W); 1x tripla chama (3500W);"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado com frame em aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; queimador tripla chama lateral; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 78,5 x 46cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "73 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg5335vp-a-gas",
+		"name": "Suggar FG5335VP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-5-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama lateral de 3500W",
+			"Um rápido de 2800W e três semirrápidos de 1650W",
+			"Trempes em ferro fundido",
+			"Acendimento superautomático e botões removíveis",
+			"Peso de 13,94kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 3x semirrápidos (1650W); 1x tripla chama (3500W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; queimador tripla chama lateral; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 78,5 x 46cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "73 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,94kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

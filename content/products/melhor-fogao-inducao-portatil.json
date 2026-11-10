@@ -1,0 +1,366 @@
+[
+	{
+		"id": "oster-otop202-3000w-2-bocas",
+		"name": "Oster OTOP202 3000W (2 bocas)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com potência de 3000W em 220V",
+			"Controle slide touch com 14 níveis de potência",
+			"Função booster e timer programável",
+			"Pode ser usado embutido ou na bancada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1800W (127V) ou 3000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,8kWh (127V) ou 3,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "14 níveis de potência; trava de segurança; pode ser utilizado no formato embutido ou na bancada; função booster; função timer; controle slide touch; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 29 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-cyad11-1500w-1-boca",
+		"name": "Midea CYAD11 1500W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito funções pré-programadas, como fritar e arroz",
+			"Controle touch com 10 níveis de potência",
+			"Trava de segurança para crianças e timer",
+			"Desligamento automático e potência de 2000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,5kWh (127V) ou 2,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desligamento automático; 10 níveis de potência; trava de segurança para crianças; timer; 8 funções diferentes: fritar, refogar, cozimento lento, ferver, arroz, manter aquecido, fondue e sopa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 28,5 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-cheff-gourmet-eci01ppb-2200w-1-boca",
+		"name": "Eos Cheff Gourmet ECI01PPB 2200W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W com função turbo",
+			"Vidro temperado Full Glass com controle digital de 10 níveis",
+			"Sensor de panelas e desligamento após 2 horas sem uso",
+			"Acompanha livro de receitas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado (Full Glass)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "digital touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "trava de segurança; timer programável; desligamento automático após 2 horas sem uso; montagem em bancada; função turbo; sensor de panelas; acompanha livro de receitas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-acki01i-02-2000w-1-boca",
+		"name": "Agratto ACKI01I-02 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito modos de cozimento pré-programados",
+			"Controle touch com 8 níveis de temperatura",
+			"Timer e trava de segurança",
+			"Pés antiderrapantes para mais estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W (220V) ou 1200W (127V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (8 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,0kWh (220V) ou 1,2kWh (127V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "trava de segurança; 8 níveis de controle de temperatura; timer; 8 modos de cozimento pré-programados; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,4 x 30,4 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,26kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pct12p-2000w-1-boca",
+		"name": "Philco PCT12P 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Zona de aquecimento para recipientes de 12cm a 22cm",
+			"Sensor de panela e desligamento automático",
+			"Temporizador com 10 níveis de potência e temperatura",
+			"Produto bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,0kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "10 níveis de potência e temperatura; produto bivolt; zona de aquecimento para recipientes de 12cm a 22cm; desligamento automático; temporizador; sensor de panela"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,7 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,319kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "perfect-cuisine-fog601-2000w-1-boca",
+		"name": "Perfect Cuisine FOG601 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temporizador de 1 minuto a 3 horas",
+			"Controle manual com 10 níveis de potência",
+			"Bobina de cobre e trava de segurança",
+			"Desligamento automático e potência de 2000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1250W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,25kWh (127V) ou 2,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "temporizador de 1 minuto a 3 horas; 10 níveis de potência e controle de temperatura; bobina de cobre; trava de segurança; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 28 x 34,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,0kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-cydj11-2000w-1-boca",
+		"name": "Midea CYDJ11 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-inducao-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer digital programável de até 180 minutos",
+			"Tecnologia even pro com resfriamento rápido",
+			"Oito funções, como fondue, sopa e arroz",
+			"Sensor de panela e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,5kWh ou 2,0kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer digital programável até 180 minutos; trava de segurança; sensor de desligamento automático; sensor de panela; tecnologia even pro; resfriamento rápido; 8 funções: fritar, refogar, cozimento lento, manter aquecido, ferver, arroz, fondue e sopa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29,5 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

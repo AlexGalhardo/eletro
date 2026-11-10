@@ -1,0 +1,306 @@
+[
+	{
+		"id": "eos-ecg02",
+		"name": "EOS ECG02",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Superfície de aço inox para uso diário",
+			"Trempes de ferro fundido para apoiar panelas com firmeza",
+			"Dois queimadores em formato compacto de 30 cm de largura",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1W – Térmica 3,9kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 30 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg2002ix",
+		"name": "Suggar FG2002IX",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3200W para fervuras rápidas",
+			"Queimador semirrápido de 1750W para o dia a dia",
+			"Trempes de ferro fundido sobre superfície de aço inox",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x semirrápido (1750W); 1x tripla chama (3200W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 31 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg2002avp",
+		"name": "Suggar FG2002AVP",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador rápido de 2800W para fervuras mais rápidas",
+			"Superfície de vidro temperado com acabamento liso",
+			"Peso de 4,4 kg, mais leve que o Suggar FG2002IX",
+			"Trempes de aço esmaltado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x semirrápido (1650W); 1x rápido (2800W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 × 30,2 × 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme",
+		"name": "Dako Supreme",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mega chama de 2850W para preparos intensos",
+			"Trempes de ferro fundido para apoio firme",
+			"Superfície de vidro temperado",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x semirrápido (1650W); 1x Mega Chama (2850W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13 × 30 × 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-ctg-04",
+		"name": "Mondial CTG-04",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador ultrarrápido de 2650W",
+			"Maior profundidade da linha, com 60 cm",
+			"Trempes de aço esmaltado",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x ultrarrápido (2650W); 1x semirrápido (1700W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17 x 35 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "stelar-euro",
+		"name": "Stelar Euro",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois queimadores rápidos de 2000W cada",
+			"Peso de 3,7 kg, o mais leve desta lista",
+			"Superfície de vidro temperado com trempes esmaltadas",
+			"Profundidade de 29 cm para espaços mais estreitos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x rápidos (2000W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 29 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			}
+		]
+	},
+	{
+		"id": "fischer-7726-11474",
+		"name": "Fischer 7726-11474",
+		"image": "/images/posts/melhor-fogao-a-gas-2-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador rápido de 3000W para fervuras rápidas",
+			"Queimador semirrápido de 1750W para o dia a dia",
+			"Superfície de vidro temperado com trempes esmaltadas",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (3000W); 1x semirrápido (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12,3 x 30,2 x 51,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

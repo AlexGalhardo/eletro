@@ -1,0 +1,360 @@
+[
+	{
+		"id": "electrolux-ie80p-4-zonas",
+		"name": "Electrolux IE80P (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas e 7000W para cozinhar mais de uma panela",
+			"14 níveis de potência e função PowerBoost",
+			"Zona Unicook e função Pause no painel touchscreen",
+			"Trava de segurança e timer com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "14"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "timer com desligamento automático; trava de segurança; função PowerBoost; zona Unicook; função Pause; 14 níveis de potência"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "52 x 78 x 4,4cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "11,2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "oster-otop402-4-zonas",
+		"name": "Oster OTOP402 (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas com 6000W e 14 níveis de potência",
+			"Função Booster e painel com Slide Touch",
+			"Timer de até 99 minutos e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "6000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "14"
+			},
+			{
+				"label": "Frequência",
+				"value": "não especificada"
+			},
+			{
+				"label": "Funções extras",
+				"value": "função Booster; timer de até 99 minutos; trava de segurança; painel com Slide Touch; 14 níveis de potência"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "59 x 52 x 6,4cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pctq1-4-zonas",
+		"name": "Philco PCTQ1 (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas e 7000W com função Turbo",
+			"Reconhece panelas de fundo com material magnético",
+			"Timer de até 99 minutos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "display digital e painel touch"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "função Turbo; timer de até 99 minutos; desligamento automático; 9 níveis de potência; reconhece panelas de fundo com material magnético"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "59 x 52 x 6,1cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "8,35kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-acki01i-02-1-zona",
+		"name": "Agratto ACKI01I-02 (1 zona)",
+		"image": "/images/posts/melhor-fogao-de-inducao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Zona única de 1200W com 8 níveis de potência",
+			"Oito modos pré-programados e timer de até 3 horas",
+			"Design compacto de 31 x 40 x 9cm e 2,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "1"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "8"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "8 modos pré-programados; timer de até 3 horas; trava de segurança; design compacto; 8 níveis de potência; display touchscreen"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "31 x 40 x 9cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-25943-56251-4-zonas",
+		"name": "Fischer ‎25943-56251 (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas de 7000W com 9 níveis de potência",
+			"Sensor de panela e indicador de superfície quente",
+			"Proteção contra superaquecimento e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "timer de até 99 minutos; desligamento automático; trava de segurança; indicador de superfície quente; proteção contra superaquecimento; 9 níveis de potência; sensor de panela"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "51 x 58 x 5,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg0422vc-4-zonas",
+		"name": "Suggar FG0422VC (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas com 6400W e função turbo",
+			"Sensor de panela e indicador de superfície quente",
+			"Trava de painel e timer de até 99 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "6400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touch e display digital"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "função turbo; timer de até 99 minutos; trava de painel; indicador de superfície quente; sensor de panela; 9 níveis de potência"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "29 x 52 x 7cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bct04p-4-zonas",
+		"name": "Britânia BCT04P (4 zonas)",
+		"image": "/images/posts/melhor-fogao-de-inducao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas de 7000W com 9 níveis de potência",
+			"Proteção contra derramamento e função pausa",
+			"Trava de segurança e timer de até 99 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de zonas",
+				"value": "4"
+			},
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touch e display digital"
+			},
+			{
+				"label": "Níveis de potência",
+				"value": "9"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Funções extras",
+				"value": "trava de segurança; proteção contra derramamento; desligamento automático; indicador de superfície quente; 9 níveis de potência; função pausa; função timer de até 99 minutos;"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "59 x 52 x 6cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "8,58kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

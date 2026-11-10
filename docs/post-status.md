@@ -7,8 +7,8 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 237 posts, 64 fora de rascunho, 173 rascunhos,
-381 links de afiliado e 3598 pendentes.
+Total: 327 posts, 64 fora de rascunho, 263 rascunhos,
+381 links de afiliado e 5473 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
@@ -200,12 +200,102 @@ Total: 237 posts, 64 fora de rascunho, 173 rascunhos,
 | [melhor-colchao-inflavel](../content/posts/melhor-colchao-inflavel.mdx) | Colchão Inflável 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
 | [melhor-colchoes](../content/posts/melhor-colchoes.mdx) | Melhores Colchões 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
 | [melhor-compressor-de-ar-portatil](../content/posts/melhor-compressor-de-ar-portatil.mdx) | Melhores Compressores de Ar Portáteis 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-cooktop](../content/posts/melhor-cooktop.mdx) | Melhores Cooktops de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-cooktop-1-boca](../content/posts/melhor-cooktop-1-boca.mdx) | Melhores Cooktops 1 Boca Para Comprar | cozinha | false | 6 | 6 | 0 |
+| [melhor-cooktop-2-bocas-a-gas](../content/posts/melhor-cooktop-2-bocas-a-gas.mdx) | Cooktop 2 Bocas a Gás de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-4-bocas](../content/posts/melhor-cooktop-4-bocas.mdx) | Melhores Cooktops 4 Bocas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-5-bocas](../content/posts/melhor-cooktop-5-bocas.mdx) | Melhores Cooktops 5 Bocas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-a-gas](../content/posts/melhor-cooktop-a-gas.mdx) | Melhores Cooktops a Gás de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-de-inducao-eos](../content/posts/melhor-cooktop-de-inducao-eos.mdx) | Melhores Cooktops de Indução EOS 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-electrolux](../content/posts/melhor-cooktop-electrolux.mdx) | Melhores Cooktops Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-eos](../content/posts/melhor-cooktop-eos.mdx) | Cooktops EOS em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-mueller](../content/posts/melhor-cooktop-mueller.mdx) | Cooktop Mueller 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-cooktop-suggar](../content/posts/melhor-cooktop-suggar.mdx) | Melhores Cooktops Suggar Em 2026 | cozinha | false | 7 | 7 | 0 |
+| [melhor-cooktop-suggar-4-bocas](../content/posts/melhor-cooktop-suggar-4-bocas.mdx) | Melhores Cooktops Suggar 4 Bocas 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooktop-suggar-5-bocas](../content/posts/melhor-cooktop-suggar-5-bocas.mdx) | Cooktop Suggar 5 Bocas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cooler-com-rodinha](../content/posts/melhor-cooler-com-rodinha.mdx) | Melhores Coolers com Rodinha de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-copo-pacco](../content/posts/melhor-copo-pacco.mdx) | Copo Pacco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-copo-stanley](../content/posts/melhor-copo-stanley.mdx) | Copo Stanley 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-copo-termico](../content/posts/melhor-copo-termico.mdx) | Melhores Copos Térmicos de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-copo-termico-para-cafe](../content/posts/melhor-copo-termico-para-cafe.mdx) | Copos Térmicos para Café em 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-coqueteleira](../content/posts/melhor-coqueteleira.mdx) | Melhores Coqueteleiras de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cortadores-de-grama](../content/posts/melhor-cortadores-de-grama.mdx) | Melhores Cortadores de Grama 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-creatina](../content/posts/melhor-creatina.mdx) | Creatina 2026: 7 Modelos Comparados por Pureza | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-cuba-gourmet](../content/posts/melhor-cuba-gourmet.mdx) | Melhores Cubas Gourmet de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cuba-para-banheiro](../content/posts/melhor-cuba-para-banheiro.mdx) | Melhores Cubas para Banheiro de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-depilador-a-laser](../content/posts/melhor-depilador-a-laser.mdx) | Melhor Depilador IPL 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-depilador-eletrico-feminino](../content/posts/melhor-depilador-eletrico-feminino.mdx) | Depiladores Elétricos Femininos de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-depurador-de-ar](../content/posts/melhor-depurador-de-ar.mdx) | Melhores Depuradores de Ar 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-depurador-eos](../content/posts/melhor-depurador-eos.mdx) | Melhores Depuradores EOS de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-depurador-suggar](../content/posts/melhor-depurador-suggar.mdx) | Depuradores Suggar em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-descascador-de-legumes-tramontina](../content/posts/melhor-descascador-de-legumes-tramontina.mdx) | Melhores Descascadores de Legumes de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-descascador-legumes-tramontina](../content/posts/melhor-descascador-legumes-tramontina.mdx) | Melhores Descascadores de Legumes Tramontina 2026 | cozinha | false | 7 | 7 | 0 |
+| [melhor-detector-de-metais](../content/posts/melhor-detector-de-metais.mdx) | Melhores Detectores de Metais de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-ducha-higienica](../content/posts/melhor-ducha-higienica.mdx) | Melhores Duchas Higiênicas de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-escada-de-aluminio](../content/posts/melhor-escada-de-aluminio.mdx) | Melhores Escadas de Alumínio de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-escova-alisadora](../content/posts/melhor-escova-alisadora.mdx) | Escova Alisadora 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-de-dente-eletrica](../content/posts/melhor-escova-de-dente-eletrica.mdx) | Escova de Dente Elétrica 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-eletrica-colgate](../content/posts/melhor-escova-eletrica-colgate.mdx) | Melhores Escovas Elétricas Colgate de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-eletrica-infantil](../content/posts/melhor-escova-eletrica-infantil.mdx) | Melhores Escovas Elétricas Infantis de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-rotativa](../content/posts/melhor-escova-rotativa.mdx) | Melhores Escovas Rotativas de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-secadora](../content/posts/melhor-escova-secadora.mdx) | Melhores Escovas Secadoras 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-secadora-britania](../content/posts/melhor-escova-secadora-britania.mdx) | Escova Secadora Britânia 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-secadora-cadence](../content/posts/melhor-escova-secadora-cadence.mdx) | Melhores Escovas Secadoras Cadence 2026: 6 Modelos | cuidados-pessoais | true | 6 | 0 | 18 |
+| [melhor-escova-secadora-gama](../content/posts/melhor-escova-secadora-gama.mdx) | Melhores Escovas Secadoras Gama 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-escova-secadora-mondial](../content/posts/melhor-escova-secadora-mondial.mdx) | Melhores Escovas Secadoras Mondial de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-espacador-para-bombinha](../content/posts/melhor-espacador-para-bombinha.mdx) | Melhores Espaçadores para Bombinha 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-espelho-decorativo](../content/posts/melhor-espelho-decorativo.mdx) | Melhores Espelhos Decorativos de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-espelho-para-banheiro](../content/posts/melhor-espelho-para-banheiro.mdx) | Melhores Espelhos para Banheiro de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-espremedor-de-frutas](../content/posts/melhor-espremedor-de-frutas.mdx) | Melhores Espremedores de Frutas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-espumador-de-leite](../content/posts/melhor-espumador-de-leite.mdx) | Melhores Espumadores de Leite de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-esteira-ergometrica](../content/posts/melhor-esteira-ergometrica.mdx) | Melhores Esteiras Ergométricas de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-esteiras-residenciais](../content/posts/melhor-esteiras-residenciais.mdx) | Melhores Esteiras Residenciais 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-estilete-retratil](../content/posts/melhor-estilete-retratil.mdx) | Melhores Estiletes Retráteis de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-expositor-vertical-eos](../content/posts/melhor-expositor-vertical-eos.mdx) | Expositor Vertical EOS 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-extratora](../content/posts/melhor-extratora.mdx) | Melhores Extratoras de 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-ferro-de-passar](../content/posts/melhor-ferro-de-passar.mdx) | Melhores Ferros de Passar de 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
 | [melhor-ferro-passar-britania](../content/posts/melhor-ferro-passar-britania.mdx) | Top Melhores Modelos Ferro de Passar Britânia 2026 | lavanderia | false | 7 | 7 | 0 |
 | [melhor-ferro-passar-oster](../content/posts/melhor-ferro-passar-oster.mdx) | 5 Melhores Ferro Passar Oster | lavanderia | false | 5 | 5 | 0 |
 | [melhor-ferro-passar-philips-walita](../content/posts/melhor-ferro-passar-philips-walita.mdx) | Top Modelos Ferro de Passar Philips Walita 2026 | lavanderia | false | 7 | 7 | 0 |
+| [melhor-filtro-de-barro](../content/posts/melhor-filtro-de-barro.mdx) | Melhores Filtros de Barro de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-1-boca-a-gas](../content/posts/melhor-fogao-1-boca-a-gas.mdx) | Fogão 1 Boca 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-5-bocas-barato](../content/posts/melhor-fogao-5-bocas-barato.mdx) | Melhores Fogões 5 Bocas Baratos 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-a-gas-2-bocas](../content/posts/melhor-fogao-a-gas-2-bocas.mdx) | Melhores Fogões 2 Bocas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-bom-e-barato](../content/posts/melhor-fogao-bom-e-barato.mdx) | Melhores Fogões Bons e Baratos 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-com-forno](../content/posts/melhor-fogao-com-forno.mdx) | Melhores Fogões com Forno de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-com-mesa-de-vidro-5-bocas](../content/posts/melhor-fogao-com-mesa-de-vidro-5-bocas.mdx) | Melhores Fogões de Vidro 5 Bocas 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-embutir](../content/posts/melhor-fogao-de-embutir.mdx) | Melhores Fogões de Embutir 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-embutir-4-bocas](../content/posts/melhor-fogao-de-embutir-4-bocas.mdx) | Melhores Fogões 4 Bocas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-embutir-5-bocas](../content/posts/melhor-fogao-de-embutir-5-bocas.mdx) | Melhores Fogões 5 Bocas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-inducao](../content/posts/melhor-fogao-de-inducao.mdx) | Melhor Fogão de Indução 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-inducao-1-boca](../content/posts/melhor-fogao-de-inducao-1-boca.mdx) | Melhores Fogões de Indução 1 Boca 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-inducao-110v](../content/posts/melhor-fogao-de-inducao-110v.mdx) | Melhores Fogões de Indução 127V 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-inducao-2-bocas](../content/posts/melhor-fogao-de-inducao-2-bocas.mdx) | Melhores Fogões de Indução 2 Bocas 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-de-inducao-4-bocas](../content/posts/melhor-fogao-de-inducao-4-bocas.mdx) | Melhores Fogões de Indução 4 Bocas 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-electrolux](../content/posts/melhor-fogao-electrolux.mdx) | Melhores Fogões Electrolux 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-eletrico-portatil](../content/posts/melhor-fogao-eletrico-portatil.mdx) | Fogão Elétrico Portátil 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-espelhado](../content/posts/melhor-fogao-espelhado.mdx) | Fogão Espelhado 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-inducao-2-bocas-portatil](../content/posts/melhor-fogao-inducao-2-bocas-portatil.mdx) | Melhores Fogões de Indução de 2026: 5 Modelos | cozinha | true | 5 | 0 | 15 |
+| [melhor-fogao-inducao-portatil](../content/posts/melhor-fogao-inducao-portatil.mdx) | Melhores Fogões Portáteis de Indução 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-industrial](../content/posts/melhor-fogao-industrial.mdx) | Melhores Fogões Industriais de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-industrial-com-forno](../content/posts/melhor-fogao-industrial-com-forno.mdx) | Fogões Industriais com Forno: 7 Modelos em 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-inox](../content/posts/melhor-fogao-inox.mdx) | Melhores Fogões de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-mueller](../content/posts/melhor-fogao-mueller.mdx) | Fogões Mueller de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-portatil](../content/posts/melhor-fogao-portatil.mdx) | Melhores Fogões Portáteis de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogao-suggar](../content/posts/melhor-fogao-suggar.mdx) | Melhores Fogões Suggar de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogareiro-a-gas](../content/posts/melhor-fogareiro-a-gas.mdx) | Melhores Fogareiros a Gás de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogareiro-camping](../content/posts/melhor-fogareiro-camping.mdx) | Fogareiros Camping de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogareiro-eletrico](../content/posts/melhor-fogareiro-eletrico.mdx) | Melhores Fogareiros Elétricos de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-fogoes](../content/posts/melhor-fogoes.mdx) | Melhores Fogões de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-a-gas](../content/posts/melhor-forno-a-gas.mdx) | Forno a Gás 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-air-fryer-oster](../content/posts/melhor-forno-air-fryer-oster.mdx) | Forno Air Fryer Oster 2026: 5 Modelos Comparados | cozinha | true | 5 | 0 | 15 |
+| [melhor-forno-de-embutir-a-gas](../content/posts/melhor-forno-de-embutir-a-gas.mdx) | Melhores Fornos a Gás 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-de-embutir-electrolux](../content/posts/melhor-forno-de-embutir-electrolux.mdx) | Melhores Fornos Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico](../content/posts/melhor-forno-eletrico.mdx) | Melhores Fornos Elétricos 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-britania](../content/posts/melhor-forno-eletrico-britania.mdx) | Melhores Fornos Elétricos Britânia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-de-bancada](../content/posts/melhor-forno-eletrico-de-bancada.mdx) | Forno Elétrico de Bancada 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-de-embutir](../content/posts/melhor-forno-eletrico-de-embutir.mdx) | Melhores Fornos de Embutir 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-fischer](../content/posts/melhor-forno-eletrico-fischer.mdx) | Melhor Forno Elétrico Fischer 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-forno-eletrico-suggar](../content/posts/melhor-forno-eletrico-suggar.mdx) | 5 Melhores Modelos Forno Elétrico Suggar 2026 | cozinha | false | 5 | 5 | 0 |
 | [melhor-furadeira-bosch](../content/posts/melhor-furadeira-bosch.mdx) | Melhor Furadeira Bosch Para Comprar 2026 | ferramentas | false | 7 | 7 | 0 |
 | [melhor-geladeira-eos](../content/posts/melhor-geladeira-eos.mdx) | Melhores Geladeiras EOS para Comprar em 2026 | cozinha | false | 5 | 5 | 0 |

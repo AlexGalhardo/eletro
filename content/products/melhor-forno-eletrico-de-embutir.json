@@ -1,0 +1,419 @@
+[
+	{
+		"id": "electrolux-oe8eh-80-litros",
+		"name": "Electrolux OE8EH (80 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 80 litros, a maior desta lista",
+			"2 prateleiras e grelha ajustável inclusas",
+			"Convecção, grill e timer com auto desligamento",
+			"Porta de vidro duplo temperado e luz interna",
+			"Seletor de temperatura de 50ºC a 250ºC"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "80 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2749W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "50ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "convecção; grill; controle de temperatura interna; timer com auto desligamento; relógio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras; grelha ajustável; pegador de grelha"
+			},
+			{
+				"label": "Peso",
+				"value": "24,3kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,6 x 59,6 x 61,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-34493-95486-48-litros",
+		"name": "Fischer 34493-95486 (48 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 48 litros e potência de 1775W",
+			"Seletor de temperatura de 50°C a 320°C, a maior faixa desta lista",
+			"Função grill/dourador e grade cromada removível",
+			"Porta de vidro duplo e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "48 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1775W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "50°C a 320°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "grill/dourador; timer mecânico; controle de temperatura"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade cromada removível; bandeja esmaltada para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42 x 66,5 x 55cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfe47e-47-litros",
+		"name": "Philco PFE47E (47 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 47 litros e porta de vidro duplo",
+			"Seletor de temperatura de 100°C a 230°C e luz interna",
+			"Timer com auto desligamento e sinal sonoro",
+			"Função manter ligado e grelha deslizante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "47 litros"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "timer com auto desligamento; sinal sonoro; controle de temperatura; função manter ligado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha deslizante; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 60 x 43,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-56101041-46-litros",
+		"name": "Philco 56101041 (46 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 46 litros e potência de 1500W",
+			"Função dourar e luz de funcionamento",
+			"Porta de vidro temperado e grelha em inox",
+			"Timer com auto desligamento e controle de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "46 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "timer com auto desligamento; controle de temperatura; luz de funcionamento; função dourar; função manter ligado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha em inox; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "14,59kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 53,6 x 50cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe47p-47-litros",
+		"name": "Britânia BFE47P (47 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 47 litros e porta de vidro duplo low-e",
+			"Potência de 1600W em 127V e 1800W em 220V",
+			"Aviso sonoro e timer com auto desligamento",
+			"Prateleira e grelha deslizante inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "47 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W (127V) ou 1800W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo low-e"
+			},
+			{
+				"label": "Funções",
+				"value": "timer com auto desligamento; aviso sonoro; controle de temperatura; luz interna; função manter ligado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "prateleira; grelha deslizante; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "11,275kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 58 x 41cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efe47ee-47-litros",
+		"name": "EOS EFE47EE (47 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 47 litros e potência de 1500W",
+			"Função grill e função dourar",
+			"Alarme sonoro e timer com auto desligamento",
+			"Grelha em inox e bandeja coletora de cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "47 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "função grill; função dourar; timer com auto desligamento; alarme sonoro; controle de temperatura"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha em inox; bandeja coletora de resíduos em cerâmica"
+			},
+			{
+				"label": "Peso",
+				"value": "14,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 60 x 44,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ofor7591-75-litros",
+		"name": "Oster OFOR7591 (75 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-de-embutir-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 75 litros e potência de 2800W",
+			"9 programas automáticos e convecção",
+			"Porta de vidro triplo removível",
+			"Timer programável e função descongelar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "75 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "50ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro triplo removível"
+			},
+			{
+				"label": "Funções",
+				"value": "convecção; grill; 9 programas automáticos; timer programável; sinal sonoro; controle de temperatura; descongelar"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "prateleira ajustável; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,5 x 59,5 x 62,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	}
+]

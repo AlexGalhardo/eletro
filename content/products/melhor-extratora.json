@@ -1,0 +1,442 @@
+[
+	{
+		"id": "wap-carpet-cleaner-pro-1600w",
+		"name": "WAP Carpet Cleaner PRO 1600W",
+		"image": "/images/posts/melhor-extratora-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mangueira de 2,5 metros, a mais longa desta lista",
+			"Reservatório de 22 litros para água suja",
+			"Filtros de pano, espuma, tela e HEPA, todos laváveis",
+			"Boia de proteção do motor e corpo em aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "2,5 metros"
+			},
+			{
+				"label": "Proteção",
+				"value": "boia de proteção do motor"
+			},
+			{
+				"label": "Filtro",
+				"value": "saco de pano lavável; espuma lavável; tela lavável; HEPA lavável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "22 litros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 extensões de alumínio; bico extrator grande; bico extrator pequeno; bico canto; bico múltiplo; mangueira de 2,5 metros; mangueira injetora de 20cm; mangueira injetora de 1,1 metro; filtro de pano lavável; filtro tela lávavel; filtro HEPA lavável"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "pisos; carpetes; tapetes; estofados; colchões"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 43 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-spot-cleaner-w3-1450w",
+		"name": "WAP Spot Cleaner W3 1450W",
+		"image": "/images/posts/melhor-extratora-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 40mL/min para tratar manchas pontuais",
+			"Ruído de 78dB, o menor nível informado nesta lista",
+			"Bico autolimpeza e suporte para acessórios",
+			"Indicado para sofás, tapetes, carpetes, colchões e carros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "1,2 metro"
+			},
+			{
+				"label": "Proteção",
+				"value": "IPX4"
+			},
+			{
+				"label": "Vazão",
+				"value": "40mL/min"
+			},
+			{
+				"label": "Filtro",
+				"value": "espuma"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "78dB"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "polímeros e metais"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "1,08 litro"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "850mL"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico grande; bico autolimpeza; suporte para acessórios"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "sofás; tapetes; carpetes; colchões; estofados; carros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38 x 26,5 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-spot-cleaner-w2-1600w",
+		"name": "WAP Spot Cleaner W2 1600W",
+		"image": "/images/posts/melhor-extratora-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W com mangueira de 1,2 metro",
+			"Acessório autolimpante e suporte para o bico extrator",
+			"Reservatório de 1,45 litro para água limpa",
+			"Indicado para tapetes, colchões, estofados e carros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "1,2 metro"
+			},
+			{
+				"label": "Proteção",
+				"value": "IPX0"
+			},
+			{
+				"label": "Filtro",
+				"value": "espuma"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "1,45 litro"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório autolimpante; mangueira; bico extrator; suporte para bico extrator; suporte para autolimpante"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "tapetes; colchções; estofados; carros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,2 x 14,6 x 24,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-elv-400-400w",
+		"name": "Vonder ELV 400 400W",
+		"image": "/images/posts/melhor-extratora-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mangueira de 1,5 metro com filtro de espuma",
+			"Bocal simples e bocal 3 em 1 inclusos",
+			"Corpo de plástico leve, com 4kg",
+			"Indicado para pisos, sofás, carpetes e cadeiras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Filtro",
+				"value": "espuma"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "84dB"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "1,3L litro"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "500mL"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal simples; bocal 3 em 1"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "pisos; estofados; sofás; carpetes; cadeiras"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,5 x 15,2 x 28,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-home-cleaner-1600w",
+		"name": "WAP Home Cleaner 1600W",
+		"image": "/images/posts/melhor-extratora-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 6 litros de água limpa e 11 de suja",
+			"Duas mangueiras de 2 metros, uma injetora de líquidos",
+			"Filtros de pano lavável e espuma lavável",
+			"Indicado para sofás, colchões, tapetes, pisos e carros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "2 metros"
+			},
+			{
+				"label": "Filtro",
+				"value": "pano lavável e espuma"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "6 litros"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "11 litros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de 2 metros; mangueira injetora de líquidos de 2 metros; 2 extensões de alumínio; bico extrator grande; bico extrator pequeno; bico múltiplo; bico canto; filtro de pano lavável; filtro espuma lavável"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "sofás; colchões; estofados; tapetes; pisos; carros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "56 x 51 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-comfort-cleaner-pro-2000w",
+		"name": "WAP Comfort Cleaner PRO 2000W",
+		"image": "/images/posts/melhor-extratora-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W, a maior desta lista",
+			"Proteção de classe de isolação II",
+			"Gatilho spray na mangueira de 2,3 metros",
+			"Indicado para pisos, paredes, tapetes, carros e estofados"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "2,3 metros"
+			},
+			{
+				"label": "Proteção",
+				"value": "classe de isolação II"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "80dB"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico extrator pequeno; mangueira de 2,3m com gatilho spray"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "pisos; paredes; tapetes; carros; carpetes; colchões; estofados"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "113 x 39 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-aqua-cleaner-1400w",
+		"name": "WAP Aqua Cleaner 1400W",
+		"image": "/images/posts/melhor-extratora-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtragem com água somada ao filtro de espuma",
+			"Oito acessórios, incluindo bico para aspiração de pó",
+			"Extensor telescópico de alumínio incluso",
+			"Reservatório de 5 litros para água suja"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "2,3 metros"
+			},
+			{
+				"label": "Filtro",
+				"value": "espuma; filtragem com água"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "94dB"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ABS; polipropileno"
+			},
+			{
+				"label": "Capacidade do reservatório de água limpa",
+				"value": "4 litros"
+			},
+			{
+				"label": "Capacidade do reservatório de água suja",
+				"value": "5 litros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira com trama de aço; extensor telescópico em alumínio; bico extrator pequeno; bico extrator grande; bico escova; bico canto; bico para aspiração de pó; bico para piso e carpetes"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "pisos; tapetes; carpetes; colchões; estofados; carros"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 38 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

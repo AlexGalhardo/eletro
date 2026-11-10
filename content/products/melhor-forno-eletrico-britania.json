@@ -1,0 +1,421 @@
+[
+	{
+		"id": "britania-bfe47p-47-litros-embutir",
+		"name": "Britânia BFE47P (47 litros) embutir",
+		"image": "/images/posts/melhor-forno-eletrico-britania-1-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 47 litros para preparos maiores",
+			"Potência de 1600W em 127V e 1800W em 220V",
+			"Seletor de temperatura de 100°C a 230°C",
+			"Porta de vidro duplo low-e para acompanhar o preparo",
+			"Acompanha prateleira, grelha deslizante e bandeja coletora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "47 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W (127V) / 1800W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo low-e"
+			},
+			{
+				"label": "Funções",
+				"value": "timer com auto desligamento; aviso sonoro; controle de temperatura; luz interna; função manter ligado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "prateleira; grelha deslizante; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "11,27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 58 x 41cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe55p-52-litros-1500w",
+		"name": "Britânia BFE55P (52 litros) 1500W",
+		"image": "/images/posts/melhor-forno-eletrico-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade desta lista, com 52 litros internos",
+			"Potência de 1500W em 127V e 2000W em 220V",
+			"Dupla resistência com seleção de aquecimento superior, inferior ou ambos",
+			"Timer analógico e desligamento automático",
+			"Grelha inox deslizante inclusa e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "52 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "dupla resistência com seleção para aquecimento superior, inferior, superior e inferior; timer; desligamento automático; aviso sonoro; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha inox deslizante"
+			},
+			{
+				"label": "Peso",
+				"value": "8,06kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,9 x 58,3 x 45,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe44p-44-litros-1500w",
+		"name": "Britânia BFE44P (44 litros) 1500W",
+		"image": "/images/posts/melhor-forno-eletrico-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 44 litros com seleção de 100°C a 250°C",
+			"Potência de 1500W para aquecer, assar, tostar e gratinar",
+			"Dupla resistência com aquecimento superior e inferior",
+			"Porta de vidro temperado e timer analógico",
+			"Desligamento automático e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "44 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 250°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "não"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "aquece; assa; tosta; doura; gratina; grelha; dupla resistência com aquecimento superior e inferior; timer; desligamento automático; aviso sonoro; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Peso",
+				"value": "6,78kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36 x 57 x 40,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe41p-36-litros-1500w",
+		"name": "Britânia BFE41P (36 litros) 1500W",
+		"image": "/images/posts/melhor-forno-eletrico-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 36 litros com grelha deslizante inclusa",
+			"Potência de 1500W e seleção de 100°C a 250°C",
+			"Funções de assar, aquecer e tostar com timer",
+			"Dupla resistência superior, inferior ou ambas",
+			"Luz interna e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "36 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 250°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "assar; aquecer; tostar; timer; desligamento automático; aviso sonoro; luz de funcionamento; dupla resistência para aquecimento (superior, inferior e ambas)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha deslizante"
+			},
+			{
+				"label": "Peso",
+				"value": "5,96kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,7 x 51 x 35,2cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe50p-50-litros",
+		"name": "Britânia BFE50P (50 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 50 litros com potência de 1500W",
+			"Seletor de 90°C a 230°C, a faixa mais baixa desta lista",
+			"Função manter ligado e dupla resistência superior e inferior",
+			"Grelha interna removível inclusa",
+			"Timer, desligamento automático e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "90°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "não"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "aquece; assa; tosta; doura; gratina; grelha; dupla resistência para aquecimento superior e inferior; timer; desligamento automático; aviso sonoro; função manter ligado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha interna removível"
+			},
+			{
+				"label": "Peso",
+				"value": "6,62kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,5 x 54,7 x 41,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe25p-25-litros",
+		"name": "Britânia BFE25P (25 litros)",
+		"image": "/images/posts/melhor-forno-eletrico-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 25 litros, o modelo mais compacto desta lista",
+			"Potência de 1600W com seletor de 100°C a 230°C",
+			"Função air fryer, além de assar, dourar e aquecer",
+			"Acompanha cesto, assadeira coletora, pegador, grelha e bandeja",
+			"Luz interna, timer e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "assar; dourar; aquecer; air fryer; luz interna; timer; desligamento automático"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto; assadeira coletora; pegador; grelha; bandeja"
+			},
+			{
+				"label": "Peso",
+				"value": "6,84kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 44 x 38cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe49-49-litros-2000w",
+		"name": "Britânia BFE49 (49 litros) 2000W",
+		"image": "/images/posts/melhor-forno-eletrico-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 49 litros, com 2000W em 220V",
+			"Potência de 1500W em 127V e seletor de 100°C a 230°C",
+			"Grelha deslizante em inox com 3 níveis de ajuste",
+			"Bandeja coletora de gordura removível",
+			"Dupla resistência superior, inferior ou ambas, com timer"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "49 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "aquece; assa; tosta; doura; gratina; grelha; dupla resistência para aquecimento superior, inferior e ambas; timer; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha deslizante em inox com 3 níveis de ajuste; bandeja coletora de gordura removível"
+			},
+			{
+				"label": "Peso",
+				"value": "8,06kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,9 x 58,3 x 45,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

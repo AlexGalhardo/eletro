@@ -1,0 +1,338 @@
+[
+	{
+		"id": "electrolux-fe5ep",
+		"name": "Electrolux FE5EP",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 108,9 litros, o maior da linha de 5 bocas",
+			"Tripla chama de 3,3 kW e dois rápidos de 2,7 kW",
+			"Superfície de vidro",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 2,0kW; 2Q rápido de 2,7kW; 1Q tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço estampado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,5 x 81,3 x 68cm"
+			},
+			{
+				"label": "Peso",
+				"value": "42,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bys5pcr",
+		"name": "Brastemp BYS5PCR",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Turbo chama de 3,5 kW, a maior potência da lista",
+			"Superfície em aço inox",
+			"Dois queimadores rápidos de 2,5 kW",
+			"Forno de 96 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "96 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q turbo chama de 3,5kW; 2Q rápido de 2,5kW; 2Q semirrápido de 1,8kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "77,8 x 77,8 x 68,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme",
+		"name": "Dako Supreme",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 100 litros",
+			"Tripla chama de 3,3 kW",
+			"Trempes de ferro fundido",
+			"Superfície de vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 1,7kW; 2Q rápido de 2,0kW; 1Q tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,3 x 80 x 68,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-mesa-inox",
+		"name": "Dako Supreme Mesa Inox",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Superfície em aço inox",
+			"Forno de 100 litros com cinco queimadores",
+			"Trempes de aço esmaltado",
+			"Peso de 31,6 kg, menor que a versão de vidro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 1,7kW; 2Q rápido de 2,0kW; 1Q tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,3 x 80 x 68,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "venax-gaudi-prisma-vitreo",
+		"name": "Venax Gaudi Prisma Vitreo",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3 kW",
+			"Dois queimadores grandes de 1,8 kW",
+			"Trempes esmaltadas",
+			"Forno de 88,3 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "88,3 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q médio de 1,35kW; 2Q grande de 1,8kW; 1Q tripla chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "esmaltada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 83 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "venax-picasso-line",
+		"name": "Venax Picasso Line",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimadores grandes de 1,80 kW e médios de 1,35 kW",
+			"Trempes individuais esmaltadas",
+			"Superfície de vidro temperado",
+			"Forno de 88,3 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "88,3 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "queimadores grandes de 1,80kW; queimadores médios de 1,35kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "individual esmaltada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 83 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "venax-temis",
+		"name": "Venax Temis",
+		"image": "/images/posts/melhor-fogao-de-embutir-5-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador grande de 2,8 kW e tripla chama de 3 kW",
+			"Superfície em aço inox",
+			"Trempes de ferro fundido esmaltado",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "88,3 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,0kW; 1Q grande de 2,80kW; 3Q médios de 1,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,5 x 91 x 64,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,422 @@
+[
+	{
+		"id": "philco-pco60g-600m-h-220w",
+		"name": "Philco PCO60G 600m³/h 220W",
+		"image": "/images/posts/melhor-depurador-de-ar-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 600m³/h, a maior capacidade da lista",
+			"Filtro de alumínio e carvão ativado",
+			"Acabamento em inox com iluminação",
+			"Três velocidades controladas por botões"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "600m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "220W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,9 x 60 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,49kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dth82pt-430m-h-120w",
+		"name": "Suggar DTH82PT 430m³/h 120W",
+		"image": "/images/posts/melhor-depurador-de-ar-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com relógio digital",
+			"Filtro de alumínio lavável e carvão ativado",
+			"Modo coifa e depurador com 80cm de largura",
+			"Iluminação e três velocidades de sucção"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "160W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "coifa e depurador"
+			},
+			{
+				"label": "Acabamento",
+				"value": "preto"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "painel touch com relógio digital"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 80 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dps181pt-430m-h-165w",
+		"name": "Suggar DPS181PT 430m³/h 165W",
+		"image": "/images/posts/melhor-depurador-de-ar-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento preto com filtro lavável",
+			"Modo coifa e depurador com 80cm de largura",
+			"Controle por botões e iluminação",
+			"Sucção de 430m³/h em três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "coifa e depurador"
+			},
+			{
+				"label": "Acabamento",
+				"value": "preto"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 80 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dps162pt-430m-h-165w",
+		"name": "Suggar DPS162PT 430m³/h 165W",
+		"image": "/images/posts/melhor-depurador-de-ar-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modo depurador e exaustor com 60cm de largura",
+			"Filtro de alumínio lavável e carvão ativado",
+			"Peso de 4,6kg e acabamento preto",
+			"Sucção de 430m³/h em três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "preto"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 60 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pdr60i-390m-h-150w",
+		"name": "Philco PDR60i 390m³/h 150W",
+		"image": "/images/posts/melhor-depurador-de-ar-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletromecânico com três velocidades",
+			"Acabamento em inox e iluminação",
+			"Filtro de alumínio com manta de carvão ativado",
+			"Potência de 150W com sucção de 390m³/h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "390m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio com manta de carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletromecânico"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 59 x 50,5"
+			},
+			{
+				"label": "Peso",
+				"value": "4,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-de62ix-390m-h-120w",
+		"name": "Suggar DE62IX 390m³/h 120W",
+		"image": "/images/posts/melhor-depurador-de-ar-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento em inox com iluminação",
+			"Filtro lavável de alumínio e carvão ativado",
+			"Modo coifa e depurador com controle por botões",
+			"Sucção de 390m³/h em três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "390m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "170W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "coifa e depurador"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,6 x 60 x 30 ~ 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-de6rb-320m-h-80w",
+		"name": "Electrolux DE6RB 320m³/h 80W",
+		"image": "/images/posts/melhor-depurador-de-ar-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento em vidro com iluminação",
+			"Duas velocidades e sucção de 320m³/h",
+			"Potência de 84W, a menor da lista",
+			"Filtro de alumínio e carvão ativado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "320m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 velocidades"
+			},
+			{
+				"label": "Potência",
+				"value": "84W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Acabamento",
+				"value": "vidro"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 60 x 30,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,327 @@
+[
+	{
+		"id": "venancio-br6bfpr-6-bocas",
+		"name": "Venâncio BR6BFPR 6 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis bocas com potências de 3,5kW e 4,2kW",
+			"Estrutura em aço carbono com 90kg",
+			"Acendimento manual em instalação de piso",
+			"Dimensões de 78 x 125 x 84,6cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "6"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Duplos traseiros de 3,5kW; 3Q Triplos frontais de 4,2kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78 x 125 x 84,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "dako-couracado-4-bocas",
+		"name": "Dako Couraçado 4 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 107 litros com quatro bocas",
+			"Queimadores de 6,2kW em dupla chama",
+			"Queimadores mega chama de 5,2kW",
+			"Estrutura em aço carbono de 49,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "107 litros"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Dupla Chama de 6,2kW; 2Q Mega Chama de 5,2kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79,3 x 84 x 85cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "venancio-bravo-br4bf-4-bocas",
+		"name": "Venâncio Bravo BR4BF 4 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chama tripla de 4,75kW em dois queimadores",
+			"Chama dupla de 4,25kW em dois queimadores",
+			"Estrutura de aço carbono com acendimento manual",
+			"Dimensões de 82 x 84 x 83,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Chama Tripla de 4,75kW; 2Q Chama Dupla de 4,25kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "82 x 84 x 83,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "mr-fogoes-410010-011346-4-bocas",
+		"name": "MR Fogões 410010-011346 4 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 87 litros com quatro bocas",
+			"Peso de 27kg e medidas de 82 x 80 x 89cm",
+			"Acendimento manual e estrutura em aço carbono"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "87 litros"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "82 x 80 x 89cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "venancio-extra-e6d3f-6-bocas",
+		"name": "Venâncio Extra E6D3F 6 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis bocas com forno de 68,85 litros",
+			"Dimensões de 80 x 108 x 82cm",
+			"Peso de 90kg na estrutura de aço carbono"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "6"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "68,85 litros"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 108 x 82cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "multimoveis-cr221-4-bocas",
+		"name": "Multimóveis CR221 4 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura em inox com quatro bocas",
+			"Forno de 94 litros para assar",
+			"Queimadores duplos de 5,0kW e simples de 3,0kW",
+			"Alimentação bivolt segundo a ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "94 litros"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Simples de 3,0kW; 2Q Duplos de 5,0kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85,5 x 87 x 91cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fast-gourmet-f1006-713-2-bocas",
+		"name": "Fast Gourmet F1006/713 2 bocas",
+		"image": "/images/posts/melhor-fogao-industrial-com-forno-7.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 70 litros com duas bocas",
+			"Estrutura em aço inox 430",
+			"Acendimento manual para as duas bocas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "70 litros"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço inox 430"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	}
+]

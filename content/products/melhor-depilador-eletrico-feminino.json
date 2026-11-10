@@ -1,0 +1,326 @@
+[
+	{
+		"id": "philco-aqua-deluxe-plus-pdp02r",
+		"name": "Philco Aqua Deluxe Plus PDP02R",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 40 minutos sem depender de tomada",
+			"Duas velocidades ajustáveis",
+			"Nove acessórios, incluindo aparador e escova esfoliante",
+			"Lâminas de discos rotativos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Lâminas",
+				"value": "sistema de discos rotativos"
+			},
+			{
+				"label": "Velocidades ajustáveis",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "capa massageadora; esticador; capa redutora para áreas íntimas; capa redutora facial; pincel para limpeza; acessório para aparador; aparador elétrico; escova esfoliante; massageador"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "230g"
+			}
+		]
+	},
+	{
+		"id": "philips-brt383-15",
+		"name": "Philips BRT383/15",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com pilhas AA, sem recarga",
+			"Cabeça aparadora e minicabeça de corte",
+			"Pentes de 3mm e 5mm para ajustar o comprimento",
+			"Estojo de transporte e escova de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilhas AA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Lâminas",
+				"value": "cabeça aparadora; minicabeça de corte"
+			},
+			{
+				"label": "Velocidades ajustáveis",
+				"value": "1"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabeça aparadora; minicabeça para raspar; pente aparador de 3mm; pente aparador de 5mm; escova de limpeza; estojo de transporte"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "140g"
+			}
+		]
+	},
+	{
+		"id": "philips-oneblade-qp2724-10",
+		"name": "Philips OneBlade QP2724/10",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pode ser usado no banho",
+			"Autonomia de 45 minutos com recarga em 8 horas",
+			"Lâmina de precisão dupla-face em aço inoxidável",
+			"Três pentes de 1mm, 3mm e 5mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão dupla-face"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 pentes (1mm, 3mm e 5mm); tampa de proteção; cabo USB-A"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			}
+		]
+	},
+	{
+		"id": "philips-satinelle-essential-bre265-00",
+		"name": "Philips Satinelle Essential BRE265/00",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona na tomada, sem depender de bateria ou pilhas",
+			"Duas velocidades ajustáveis e lâminas de discos rotativos",
+			"Escova de limpeza inclusa",
+			"Peso de 100g, um dos mais leves da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Lâminas",
+				"value": "sistema de discos rotativos"
+			},
+			{
+				"label": "Velocidades ajustáveis",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "conair-all-in-one-lt85nbr",
+		"name": "Conair All-In-One LT85NBR",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com uma pilha AA",
+			"Lâminas hipoalergênicas",
+			"Cinco acessórios para aparar, incluindo sobrancelha",
+			"Não indicado para uso no banho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Lâminas",
+				"value": "hipoalergênicas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "aparador rotativo; aparador de sobrancelha; aparador multiuso; pente de sobrancelha; pente de detalhamento"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			}
+		]
+	},
+	{
+		"id": "philips-lady-shaver-series-6000-brl136-00",
+		"name": "Philips Lady Shaver Series 6000 BRL136/00",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso no banho, com 40 minutos de autonomia",
+			"Lâmina flutuante única de níquel",
+			"Recarga completa em 10 horas",
+			"Luva esfoliante e tampa deslizante macia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "10 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "flutuante única"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "níquel"
+			},
+			{
+				"label": "Velocidades ajustáveis",
+				"value": "1"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; pente para aparar os pelos; tampa deslizante macia; acessório para esticar a pele; luva esfoliante"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "150g"
+			}
+		]
+	},
+	{
+		"id": "britania-bdp04",
+		"name": "Britânia BDP04",
+		"image": "/images/posts/melhor-depilador-eletrico-feminino-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 50 minutos, a maior da lista",
+			"Recarga em 90 minutos",
+			"Duas velocidades ajustáveis",
+			"Cabeça aparadora e cabeça depiladora inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "50 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Lâminas",
+				"value": "sistema de discos rotativos"
+			},
+			{
+				"label": "Velocidades ajustáveis",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabeça aparadora; cabeça depiladora; capa redutora para pequenas áreas; escova de limpeza"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "148g"
+			}
+		]
+	}
+]

@@ -1,0 +1,357 @@
+[
+	{
+		"id": "cuisinart-prime-cooking-pfa320sx-e",
+		"name": "Cuisinart Prime Cooking PFA320SX-E",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 4,5kW, a maior potência da lista",
+			"Superfície em aço inoxidável 304",
+			"Trempes em ferro fundido",
+			"Peso de 6,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 4,5kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,5 x 30 x 51cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "27,5 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-33790-92104",
+		"name": "Fischer 33790-92104",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3,7kW com trempes em ferro fundido",
+			"Superfície em vidro temperado",
+			"Voltagem bivolt",
+			"Nicho de 26 x 47cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12,6 x 30,2 x 52,9cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "26 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg1002ix",
+		"name": "Suggar FG1002IX",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3,2kW com trempes em ferro fundido",
+			"Superfície em aço inoxidável",
+			"Voltagem bivolt",
+			"Nicho de 27,5 x 47,5cm",
+			"Peso de 4,4kg, o mais leve com peso informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 31 x 51cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "27,5 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-36300-102670",
+		"name": "Fischer 36300-102670",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3,7kW com trempes em ferro fundido",
+			"Superfície em vidro temperado",
+			"Voltagem bivolt",
+			"Nicho de 26 x 47cm",
+			"Peso de 4,65kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 30,2 x 51,4cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "26 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,65kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fast-gourmet-1qd-582",
+		"name": "Fast Gourmet 1QD 582",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador único em superfície de aço inoxidável 430",
+			"Dimensões de 12,1 x 30,4 x 39,4cm",
+			"Nicho de 25 x 36,4cm, a menor medida da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável 430"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12,1 x 30,4 x 39,4cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "25 x 36,4"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg0101avp",
+		"name": "Suggar FG0101AVP",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3,5kW com trempes em aço esmaltado",
+			"Superfície em vidro temperado",
+			"Voltagem bivolt",
+			"Nicho de 26 x 47cm",
+			"Peso de 4,56kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,5kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 30,2 x 51cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "26 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,56kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-27184-60014",
+		"name": "Fischer 27184-60014",
+		"image": "/images/posts/melhor-fogao-1-boca-a-gas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3,7kW com trempes em aço esmaltado",
+			"Superfície em vidro temperado",
+			"Voltagem bivolt",
+			"Nicho de 26 x 47cm",
+			"Peso de 4,55kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "cooktop"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "1"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q tripla chama de 3,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 30,2 x 51,4cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "26 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,55kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

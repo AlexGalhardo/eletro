@@ -1,0 +1,359 @@
+[
+	{
+		"id": "mondial-er-09-1200w",
+		"name": "Mondial ER-09 1200W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento em cerâmica com Tourmaline íon",
+			"Seca, alisa, modela e define cachos",
+			"Cabo de 1,8 metro giratório a 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com Tourmaline íon"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, modela, define cachos e finaliza franjas e pontas"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 37 x 7,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "mondial-es-ju-01-02-03-1300w",
+		"name": "Mondial ES-JU-01/02/03 1300W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia em cerâmica, titânio, tourmaline e nano silver",
+			"Potência de 1300W e 3 níveis de temperatura",
+			"Cabo de 2,5 metros giratório a 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "cerâmica, titânio, tourmaline e nano silver"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "2,5 metros (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 37,5 x 8,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "mondial-erb-01-1200w",
+		"name": "Mondial ERB-01 1200W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com revestimento em cerâmica",
+			"Seca, alisa e modela com 2 níveis de temperatura",
+			"Peso de 480g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com Tourmaline íon"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,5 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 37 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "480g"
+			}
+		]
+	},
+	{
+		"id": "mondial-es-11-bi-1200w",
+		"name": "Mondial ES-11-BI 1200W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento em cerâmica com queratina",
+			"Seca, alisa e modela com 3 níveis de temperatura",
+			"Cabo giratório a 360° e peso de 495g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com queratina"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1"
+			},
+			{
+				"label": "Cabo",
+				"value": "giratório 360°"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 34 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "495g"
+			}
+		]
+	},
+	{
+		"id": "mondial-es-01-ir-1300w",
+		"name": "Mondial ES-01-IR 1300W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento em cerâmica com Tourmaline íon",
+			"Cabo de 1,8 metro giratório a 360°",
+			"Dimensões de 10 x 39 x 8,5cm e peso de 550g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com Tourmaline íon"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 39 x 8,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "mondial-es-50-1300w",
+		"name": "Mondial ES-50 1300W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1300W e 3 velocidades",
+			"Revestimento em cerâmica com Tourmaline íon",
+			"Cabo de 1,7 metro giratório a 360° e peso de 495g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com Tourmaline íon"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,7 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 34 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "495g"
+			}
+		]
+	},
+	{
+		"id": "mondial-es-14-bi-1200w",
+		"name": "Mondial ES-14-BI 1200W",
+		"image": "/images/posts/melhor-escova-secadora-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento em cerâmica com óleo de Argan",
+			"Seca, alisa e modela com 3 níveis de temperatura",
+			"Cabo de 1,5 metro giratório a 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com óleo de Argan"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,5 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V / bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 34 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "495g"
+			}
+		]
+	}
+]

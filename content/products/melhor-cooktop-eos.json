@@ -1,0 +1,378 @@
+[
+	{
+		"id": "eos-epci04ec-4-zonas-inducao",
+		"name": "EOS EPCI04EC 4 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coifa integrada com vazão de 650m³/h",
+			"Zona Flexzone e função Boost de até 3200W",
+			"Nove níveis de potência e função Pausa",
+			"Bloqueio para crianças e aviso de calor residual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x zona de 16cm (1200/1800W com Boost); 1x zona de 18cm (1800/3200W com Boost); 1x zona de 18cm (1800/2200W com Boost); 1x zona de 28cm (1800/2200W com Boost)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "coifa integrada com vazão de 650m³/h; tecnologia Plasma+; Flexzone; painel touch screen; display digital; 9 níveis de potência; função Boost; função Pausa; timer de até 99 minutos como contador ou para desligamento de uma ou mais zonas; bloqueio para crianças; aviso de calor residual; desligamento automático; limitação de potência; coifa com modo Boost, desligamento retardado e acionamento automático com o cooktop; extração externa ou recirculação interna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24 x 83 x 52cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "80 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci05epf1-5-zonas-inducao",
+		"name": "EOS ECI05EPF1 5 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco zonas de indução em vidro Full Glass",
+			"Dez níveis de potência e função Turbo",
+			"Safety Lock para travar os comandos",
+			"Timer de até 99 minutos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro Full Glass"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "10 níveis de potência; função Turbo; timer de até 99 minutos; Safety Lock; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 90 x 5,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04ep-4-zonas-inducao",
+		"name": "EOS ECI04EP 4 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Turbo em todas as zonas, até 2600W",
+			"Detecção de panela e alerta sonoro do timer",
+			"Proteção contra superaquecimento",
+			"Painel digital touch com nove níveis de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x zonas de 2000W (2600W com Turbo); 2x zonas de 1500W (1800W com Turbo)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro cerâmico Full Glass"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel digital touch; 9 níveis de potência; função Turbo em todas as zonas; timer de até 99 minutos com alerta sonoro e desligamento programado de uma ou mais zonas; Safety Lock; detecção de panela; aviso de calor residual; proteção contra superaquecimento; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 59 x 52cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "56 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04epf-4-zonas-inducao",
+		"name": "EOS ECI04EPF 4 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função grill e manter aquecido",
+			"Turbo Power e Full Zone nas zonas de cozimento",
+			"Detecção de panela e aviso de calor residual",
+			"Timer de até 99 minutos com desligamento programado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x zona de 2000W (2600W com Turbo); 1x zona de 1500W (2000W com Turbo); 1x zona de 2000W (2600W com Turbo); 1x zona de 1500W (1800W com Turbo)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro cerâmico Full Glass"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel digital touch; 9 níveis de potência; Turbo Power; Full Zone; função Grill; função Manter Aquecido; timer de até 99 minutos com alerta sonoro e desligamento programado das zonas; Safety Lock; aviso de calor residual; detecção de panela; proteção contra superaquecimento; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 59 x 52cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "56 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ecg04-4-bocas-a-gas",
+		"name": "EOS ECG04 4 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3300W em uma das bocas",
+			"Trempes de ferro fundido e superfície em aço inox",
+			"Ignição automática e bloqueio Child Lock",
+			"Compatível com GLP e GN"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama de 3300W; 2x semi-rápidos de 1750W; 1x auxiliar de 1000W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "ignição automática; sistema Child Lock; regulagem da chama; compatibilidade com GLP e GN"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "54,5 x 46,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "eos-eci02ep-2-zonas-inducao",
+		"name": "EOS ECI02EP 2 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-eos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compacto, com 28,8cm de largura",
+			"Duas zonas com função Turbo, até 2300W",
+			"Safety Lock e detecção de panela",
+			"Peso de 4,5kg, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x zona de 2000W (2300W com Turbo); 1x zona de 1500W (1800W com Turbo)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro cerâmico Full Glass"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel digital touch; 9 níveis de potência; função Turbo; timer de até 99 minutos; Safety Lock; detecção de panela; proteção contra superaquecimento; desligamento automático; aviso de calor residual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 28,8 x 52cm"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "26,8 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ecg05ib-5-bocas-a-gas",
+		"name": "EOS ECG05IB 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-eos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco bocas, com tripla chama de 3300W",
+			"Uma boca rápida de 2900W",
+			"Trava de segurança e ignição automática",
+			"Compatível com GLP e GN"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama de 3300W; 1x rápido de 2900W; 2x semi-rápidos de 1550W; 1x auxiliar de 1000W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "ignição automática; trava de segurança; compatibilidade com GLP e GN"
+			},
+			{
+				"label": "Dimensões do nicho (L x P)",
+				"value": "87 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

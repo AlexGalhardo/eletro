@@ -1,0 +1,300 @@
+[
+	{
+		"id": "aalhar-jateado-led-redondo-60x60cm",
+		"name": "Aalhar Jateado LED (redondo) 60x60cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato redondo de 60 x 60cm",
+			"Vidro jateado de 3mm de espessura",
+			"Versão com LED, sem moldura e peso de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "redondo"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			}
+		]
+	},
+	{
+		"id": "cebrace-doaf-organico-80x60cm",
+		"name": "Cebrace Doaf (orgánico) 80x60cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato orgânico de 80 x 60cm",
+			"Vidro lapidado de 4mm de espessura",
+			"Sem moldura e peso de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "irregular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "80 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "4mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "we-mirror-organico-60x40cm",
+		"name": "We Mirror (orgánico) 60x40cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moldura em E.V.A com couro",
+			"Disponível nas cores marrom ou preto",
+			"Formato orgânico de 60 x 40cm",
+			"Vidro lapidado de 3mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "irregular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "E.V.A + couro"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "marrom ou preto"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "cebrace-vidro-bisote-retangular-70x50cm",
+		"name": "Cebrace Vidro Bisotê (retangular) 70x50cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vidro bisotê de 4mm, com borda trabalhada",
+			"Formato retangular de 70 x 50cm",
+			"Sem moldura e peso de 3,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "70 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "4mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "bisotê"
+			}
+		]
+	},
+	{
+		"id": "p-p-multiuso-redondo-40x40cm",
+		"name": "P&P Multiuso (redondo) 40x40cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato redondo de 40 x 40cm",
+			"Vidro lapidado de 2mm, o mais fino da lista",
+			"Peso de 900g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "redondo"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "40 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "900g"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "2mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "cebrace-guardian-retangular-60x40cm",
+		"name": "Cebrace Guardian (retangular) 60x40cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato retangular de 60 x 40cm",
+			"Vidro lapidado de 4mm de espessura",
+			"Sem moldura e peso de 2,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "4mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "lopazzi-og-04-organico-90x60cm",
+		"name": "Lopazzi OG-04 (orgânico) 90x60cm",
+		"image": "/images/posts/melhor-espelho-para-banheiro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato orgânico de 90 x 60cm, o maior da lista",
+			"Vidro lapidado de 3mm",
+			"Sem moldura e peso de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "irregular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	}
+]

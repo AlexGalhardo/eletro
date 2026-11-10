@@ -1,0 +1,279 @@
+[
+	{
+		"id": "rsmed-inal-air-2-anos",
+		"name": "Rsmed inAL-air +2 anos",
+		"image": "/images/posts/melhor-espacador-para-bombinha-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material em alumínio",
+			"Indicado a partir de 2 anos",
+			"Compatibilidade universal",
+			"Certificação Anvisa informada e peso de 100g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "a partir de 2 anos"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 80470750003"
+			},
+			{
+				"label": "Peso",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "g-tech-clear",
+		"name": "G-Tech Clear",
+		"image": "/images/posts/melhor-espacador-para-bombinha-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatibilidade universal e todas as idades",
+			"Capacidade de 220mL",
+			"Modelo desmontável",
+			"Poliestireno livre de BPA",
+			"Dimensões de 8 x 17,5 x 8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "poliestireno de alto impacto com propriedades antiestáticas e livre de BPA"
+			},
+			{
+				"label": "Capacidade",
+				"value": "220mL"
+			},
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "todas as idades"
+			},
+			{
+				"label": "Desmontável",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 80275310078"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 17,5 x 8cm"
+			}
+		]
+	},
+	{
+		"id": "rsmed-inal-air-baby-0-a-2-anos",
+		"name": "Rsmed inAL-air Baby 0 a 2 anos",
+		"image": "/images/posts/melhor-espacador-para-bombinha-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material em alumínio para a faixa de 0 a 2 anos",
+			"Modelo desmontável",
+			"Compatibilidade universal",
+			"Peso de 80g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "0 a 2 anos"
+			},
+			{
+				"label": "Desmontável",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 80470750005"
+			},
+			{
+				"label": "Peso",
+				"value": "80g"
+			}
+		]
+	},
+	{
+		"id": "nevoni-bi-valvulado",
+		"name": "Nevoni Bi-Valvulado",
+		"image": "/images/posts/melhor-espacador-para-bombinha-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatibilidade universal e todas as idades",
+			"Modelo desmontável",
+			"Sistema bi-valvulado",
+			"Peso de 35g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "todas as idades"
+			},
+			{
+				"label": "Desmontável",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 80112550007"
+			},
+			{
+				"label": "Peso",
+				"value": "35g"
+			}
+		]
+	},
+	{
+		"id": "multilaser-multi-hc178",
+		"name": "Multilaser Multi - HC178",
+		"image": "/images/posts/melhor-espacador-para-bombinha-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatibilidade universal e todas as idades",
+			"Dimensões de 15,7 x 5,5 x 5,5cm",
+			"Peso de 90g",
+			"Certificação Anvisa informada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "todas as idades"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 81596320085"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15,7 x 5,5 x 5,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90g"
+			}
+		]
+	},
+	{
+		"id": "agpmed-agachamber-baby",
+		"name": "AGPMED AgaChamber Baby",
+		"image": "/images/posts/melhor-espacador-para-bombinha-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Polipropileno atóxico, livre de látex e BPA",
+			"Capacidade de 150mL, a menor entre as informadas",
+			"Faixa etária de 0 a 3 anos",
+			"Compatibilidade universal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno atóxico, livre de látex e BPA"
+			},
+			{
+				"label": "Capacidade",
+				"value": "150mL"
+			},
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "0 a 3 anos"
+			},
+			{
+				"label": "Certificação",
+				"value": "Anvisa Nº 10438720008"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 8,5 x 8,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "150g"
+			}
+		]
+	},
+	{
+		"id": "medicate-p-3607br",
+		"name": "Medicate P-3607Br",
+		"image": "/images/posts/melhor-espacador-para-bombinha-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 250mL, a maior entre as informadas",
+			"Modelo desmontável",
+			"Compatibilidade universal e todas as idades",
+			"Dimensões de 16,5 x 6 x 6,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "250mL"
+			},
+			{
+				"label": "Compatibilidade",
+				"value": "universal"
+			},
+			{
+				"label": "Faixa etária",
+				"value": "todas as idades"
+			},
+			{
+				"label": "Desmontável",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,5 x 6 x 6,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "80g"
+			}
+		]
+	}
+]

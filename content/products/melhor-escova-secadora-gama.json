@@ -1,0 +1,353 @@
+[
+	{
+		"id": "ga-ma-italy-marula-multicabecas-3d-1200w",
+		"name": "GA.MA ITALY Marula Multicabeças 3D 1200W",
+		"image": "/images/posts/melhor-escova-secadora-gama-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia 3D Therapy com óleos essenciais de marula",
+			"Seca, alisa, modela e escova em um aparelho",
+			"Cabo giratório de 2 metros",
+			"Três velocidades com jato de ar frio",
+			"Bivolt com potência de 1200W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "3D Therapy (íon anti-frizz) + óleos essenciais de marula"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, modela e escova"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 + jato de ar frio"
+			},
+			{
+				"label": "Cabo",
+				"value": "2 metros (giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-multicabecas-gold-ion-3d-1200w",
+		"name": "GA.MA ITALY Multicabeças Gold Ion 3D 1200W",
+		"image": "/images/posts/melhor-escova-secadora-gama-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia 3D Therapy com óleos essenciais de argan",
+			"Função de secar, alisar e modelar",
+			"Três velocidades com jato de ar frio",
+			"Dois níveis de temperatura",
+			"Peso de 591g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "3D Therapy (íon anti-frizz) + óleos essenciais de argan"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 + jato de ar frio"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "591g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-stylish-keration-brush-3d-1300w",
+		"name": "GA.MA ITALY Stylish Keration Brush 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Micro Glitt somado à tecnologia 3D Therapy",
+			"Potência de 1300W e três velocidades",
+			"Cabo giratório de 1,70 metro",
+			"Dois níveis de temperatura",
+			"Dimensões de 11 x 9 x 42cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "3D Therapy (íon anti-frizz) + Micro Glitt"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,70 metro (giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 9 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "606g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-lichia-3d-1300w",
+		"name": "GA.MA ITALY Lichia 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Óleos essenciais de lichia com íon anti-frizz",
+			"Três níveis de temperatura",
+			"Potência de 1300W",
+			"Cabo giratório de 1,70 metro",
+			"Peso de 423g, o menor informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "3D Therapy (íon anti-frizz) + óleos essenciais de lichia"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,70 metro (giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 9 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "423g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-eleganza-plus-1300w",
+		"name": "GA.MA ITALY Eleganza Plus 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Ceramic Íon anti-frizz",
+			"Três níveis de temperatura",
+			"Cabo giratório de 1,70 metro",
+			"Dimensões compactas de 8 x 10 x 41cm",
+			"Peso de 507g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Ceramic Íon (íon anti-frizz)"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,70 metro (giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 10 x 41cm"
+			},
+			{
+				"label": "Peso",
+				"value": "507g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-babosa-brush-3d-1300w",
+		"name": "GA.MA ITALY Babosa Brush 3D 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Óleos essenciais de babosa com 3D Therapy",
+			"Três níveis de temperatura",
+			"Cabo giratório de 1,70 metro",
+			"Potência de 1300W e alimentação bivolt",
+			"Dimensões de 11 x 9 x 42cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "3D Therapy (íon anti-frizz) + óleos essenciais de babosa"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,70 metro (giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 9 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "608g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-glamour-pink-brush-1300w",
+		"name": "GA.MA ITALY Glamour Pink Brush 1300W",
+		"image": "/images/posts/melhor-escova-secadora-gama-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Ceramic Íon com Thermal Plus",
+			"Cabo giratório de 360° com 1,70 metro",
+			"Três velocidades e alimentação em 127V ou 220V",
+			"Potência de 1300W",
+			"Peso de 599g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Ceramic Íon (íon anti-frizz) + Thermal Plus"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,70 metro (giratório 360°)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 9 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "599g"
+			}
+		]
+	}
+]

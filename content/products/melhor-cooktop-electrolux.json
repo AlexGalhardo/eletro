@@ -1,0 +1,338 @@
+[
+	{
+		"id": "electrolux-ie80p-4-bocas-inducao",
+		"name": "Electrolux IE80P 4 bocas (indução)",
+		"image": "/images/posts/melhor-cooktop-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7350W com função PowerBoost",
+			"Controle touch com 14 níveis de temperatura",
+			"Trava de segurança e bloqueio de funções",
+			"Tecnologia Unicook e integração Hob²Hood"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7350W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel touch (14 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Unicook; PowerBoost; timer com desligamento automático; função Pausa; trava de segurança; indicador de calor residual em 3 níveis; temporizador de contagem crescente; bloqueio de funções; função Hob²Hood; gestão de energia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,4 x 78 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ie60p-4-bocas-inducao",
+		"name": "Electrolux IE60P 4 bocas (indução)",
+		"image": "/images/posts/melhor-cooktop-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer individual por zona de cozimento",
+			"Função Potência Turbo para as bocas",
+			"Sensor de calor residual e trava de segurança",
+			"Dimensões de 59 x 52cm com quatro bocas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7350W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel touch (14 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Unicook; timer individual por zona; função Potência Turbo; trava de segurança; sensor de calor residual; função Pausa; Hob²Hood; temporizador de contagem crescente; desligamento automático; gestão de energia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ke5gr-5-bocas-a-gas",
+		"name": "Electrolux KE5GR 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acendimento automático super rápido em cinco bocas",
+			"Classificação energética A na ficha",
+			"Grades de aço fosco com quatro apoios",
+			"Conversão para GN e botões removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "11.400W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "5"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manípulos com ajuste de chama"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento automático super rápido; queimadores selados; grades de aço fosco com 4 apoios; botões removíveis; conversão para GN; classificação energética A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,1 x 75 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,25kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ke5xc-5-bocas-a-gas",
+		"name": "Electrolux KE5XC 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis níveis de chama com tecnologia ChamaPrecisa",
+			"Potência total de 12.000W com cinco bocas",
+			"Grades duplas de ferro fundido com quatro apoios",
+			"Superfície em inox com botões removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "12.000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "5"
+			},
+			{
+				"label": "Material",
+				"value": "inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manípulos (6 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "queimador Multi Chama; tecnologia ChamaPrecisa com 6 níveis de ajuste (Derreter e Manter Aquecido, Preparos em panela de pressão e Banho-Maria, Preparar molhos, Refogar, Grelhar e Fritar, Ferver); grades duplas de ferro fundido com 4 apoios; queimadores selados; acendimento superautomático; botões removíveis; conversão para GN; classificação energética A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,3 x 75 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ke5gw-5-bocas-a-gas",
+		"name": "Electrolux KE5GW 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência total de 12.700W, a maior da lista",
+			"Grades individuais de ferro fundido",
+			"Queimador Multi Chama deslocado e seis níveis de chama",
+			"Peso de 12,5kg e 80cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "12.700W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "5"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manípulos (6 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia ChamaPrecisa; queimador Multi Chama deslocado; grades individuais de ferro fundido com 4 apoios; queimadores selados; acendimento automático super rápido; botões removíveis; conversão para GN; classificação energética A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,1 x 80 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ie3tp-1-boca-inducao",
+		"name": "Electrolux IE3TP 1 boca (indução)",
+		"image": "/images/posts/melhor-cooktop-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W em 220V e 1500W em 127V",
+			"Painel touch com 10 níveis de temperatura",
+			"Timer com desligamento automático e trava",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "mesa vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel touch (10 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel Touch Control; timer com desligamento automático; trava de segurança; acendimento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 28 x 35,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg (127V); 2,3kg (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ie6sf-4-bocas-inducao",
+		"name": "Electrolux IE6SF 4 bocas (indução)",
+		"image": "/images/posts/melhor-cooktop-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Sense Fry e função Unicook",
+			"Painel TFT com slider de 9 níveis",
+			"Função Derretimento e cronômetro",
+			"Potência de 7350W com Potência Turbo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7350W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "mesa vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel TFT touch com slider (9 níveis)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Sense Fry; função Unicook; Potência Turbo; função Pause; timer com desligamento automático; trava de segurança; gerenciamento de potência; indicador de calor residual em 3 níveis; Hob²Hood; cronômetro; derretimento; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	}
+]

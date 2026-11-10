@@ -1,0 +1,262 @@
+[
+	{
+		"id": "oster-otop202-3000w",
+		"name": "Oster OTOP202 3000W",
+		"image": "/images/posts/melhor-fogao-inducao-2-bocas-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3000W em 220V com 14 níveis de potência",
+			"Função Booster e timer programável",
+			"Uso 2 em 1, embutido ou portátil",
+			"Trava de segurança no painel e indicador de painel quente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1800W (127V) ou 3000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slide (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,8kWh (127V) ou 3,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "14 níveis de potência; função Booster; timer programável; trava de segurança no painel; indicador de painel quente; uso 2 em 1 (embutido ou portátil); desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 29 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci02epp-3300w",
+		"name": "Eos ECI02EPP 3300W",
+		"image": "/images/posts/melhor-fogao-inducao-2-bocas-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3300W com 9 níveis de temperatura",
+			"Sensor de panela e timer programável",
+			"Proteção contra superaquecimento e indicador de calor residual",
+			"Trava de segurança Safety Lock"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3300W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,3kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desligamento automático; proteção contra superaquecimento; indicador de calor residual; trava de segurança (Safety Lock); sensor de panela; timer programável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,8 x 30 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "ariete-1998-3500w",
+		"name": "Ariete 1998 3500W",
+		"image": "/images/posts/melhor-fogao-inducao-2-bocas-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W em 220V com 10 níveis",
+			"Função manter aquecido e desligamento automático",
+			"Trava de segurança infantil e timer programável",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1800W (127V) e 3500W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,8kWh (127V) e 3,5kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função manter aquecido; desligamento automático; trava de segurança infantil; timer programável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,5 x 35 x 58cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pct20p-3400w",
+		"name": "Philco PCT20P 3400W",
+		"image": "/images/posts/melhor-fogao-inducao-2-bocas-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3400W com 8 níveis de temperatura",
+			"Sensor de panela e desligamento automático",
+			"Trava de segurança e timer ajustável",
+			"Vitrocerâmica de 6 x 51 x 30cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3400W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (8 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,4kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sensor de desligamento automático; trava de segurança; sensor de panela; timer ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 51 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,72kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-ids3502s-3500w",
+		"name": "HQ HQ-IDS3502S 3500W",
+		"image": "/images/posts/melhor-fogao-inducao-2-bocas-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W com controle touch",
+			"Temporizador programável e trava de segurança",
+			"Painel com bloqueio de segurança",
+			"Vitrocerâmico temperado com 4,6kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "trava de segurança; temporizador programável; painel com bloqueio de segurança"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,7 x 60 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

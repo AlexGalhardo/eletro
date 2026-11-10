@@ -1,0 +1,338 @@
+[
+	{
+		"id": "dark-lab-premium-300g",
+		"name": "Dark Lab Premium 300g",
+		"image": "/images/posts/melhor-creatina-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 98,1%",
+			"Porção de 3g em embalagens de 300g ou 100g",
+			"Indicada para musculação, com sabor natural em pó",
+			"Contraindicada para gestantes, lactantes e crianças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "98,1%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "300g ou 100g"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "atletas e praticantes de musculação que buscam força e ganho muscular"
+			},
+			{
+				"label": "Contraindicações",
+				"value": "gestantes, lactantes e crianças"
+			}
+		]
+	},
+	{
+		"id": "soldiers-nutrition-creatina-500g",
+		"name": "Soldiers Nutrition Creatina 500g",
+		"image": "/images/posts/melhor-creatina-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 100%",
+			"Porção de 3g em opções de 150g a 1kg",
+			"Indicada para atividades de alta intensidade, sabor natural",
+			"Contraindicada a crianças, gestantes, idosos e portadores de doenças crônicas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "100%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "1kg, 600g, 500g, 300g, 250g, 150g ou 3g"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "atletas e praticantes de atividades de alta intensidade"
+			},
+			{
+				"label": "Contraindicações",
+				"value": "crianças, gestantes, idosos e portadores de enfermidades crônicas"
+			}
+		]
+	},
+	{
+		"id": "max-titanium-creatina-300g",
+		"name": "Max Titanium Creatina 300g",
+		"image": "/images/posts/melhor-creatina-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 100%",
+			"Pó ou cápsulas, em embalagens de 300g ou 120 cápsulas",
+			"Porção de 3g para uso diário, sabor natural",
+			"Contraindicada para gestantes, lactantes e crianças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "100%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó ou capsula"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "300g, 250g, 100g ou 120 cápsulas"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "uso diário"
+			},
+			{
+				"label": "Contraindicações",
+				"value": "gestantes, lactantes e crianças"
+			}
+		]
+	},
+	{
+		"id": "vitafor-creatine-300g",
+		"name": "Vitafor Creatine 300g",
+		"image": "/images/posts/melhor-creatina-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 100% em pó",
+			"Embalagens de 100g, 300g ou 600g com porção de 3g",
+			"Indicada para uso diário a partir de 19 anos",
+			"Contraindicada para gestantes, lactantes e crianças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "100%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "100g, 300g ou 600g"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "uso diário"
+			},
+			{
+				"label": "Idade mínima recomendada",
+				"value": "19 anos"
+			},
+			{
+				"label": "Contraindicações",
+				"value": "gestantes, lactantes e crianças"
+			}
+		]
+	},
+	{
+		"id": "integralmedica-hardcore-creatina-300g",
+		"name": "Integralmedica Hardcore Creatina 300g",
+		"image": "/images/posts/melhor-creatina-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 100%",
+			"Pó ou cápsulas em opções de 150g, 300g, 1kg e 120 cápsulas",
+			"Indicada para esportes de alta intensidade, sabor natural",
+			"Contraindicada para gestantes, lactantes e crianças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "100%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó e cápsula"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "150g, 300g, 1kg ou 120 cápsulas"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "atletas e praticantes de esportes de alta intensidade"
+			},
+			{
+				"label": "Contraindicações",
+				"value": "gestantes, lactantes e crianças"
+			}
+		]
+	},
+	{
+		"id": "black-skull-creatine-turbo-300g",
+		"name": "Black Skull Creatine Turbo 300g",
+		"image": "/images/posts/melhor-creatina-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com maltodextrina em pó",
+			"Porção de 6g em embalagens de 150g a 1kg",
+			"Sabores natural, laranja, uva ou limão",
+			"Indicada para uso diário a partir de 19 anos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada com maltodextrina"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "1kg, 500g, 300g ou 150g"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "6g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural, laranja, uva ou limão"
+			},
+			{
+				"label": "Indicação",
+				"value": "uso diário"
+			},
+			{
+				"label": "Idade mínima recomendada",
+				"value": "19 anos"
+			}
+		]
+	},
+	{
+		"id": "black-skull-creatine-300g",
+		"name": "Black Skull Creatine 300g",
+		"image": "/images/posts/melhor-creatina-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Monohidratada com pureza de 100% em pó",
+			"Embalagens de 66g a 1kg com porção de 3g",
+			"Indicada para desempenho físico e hipertrofia, a partir de 19 anos",
+			"Sabor natural"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "monohidratada"
+			},
+			{
+				"label": "Pureza",
+				"value": "100%"
+			},
+			{
+				"label": "Forma de consumo",
+				"value": "pó"
+			},
+			{
+				"label": "Quantidade por embalagem",
+				"value": "66g, 150g, 300g, 500g ou 1kg"
+			},
+			{
+				"label": "Tamanho da porção",
+				"value": "3g"
+			},
+			{
+				"label": "Sabor",
+				"value": "natural"
+			},
+			{
+				"label": "Indicação",
+				"value": "adultos que buscam desempenho físico e hipertrofia muscular"
+			},
+			{
+				"label": "Idade mínima recomendada",
+				"value": "19 anos"
+			}
+		]
+	}
+]

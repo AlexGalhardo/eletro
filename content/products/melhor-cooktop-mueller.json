@@ -1,0 +1,373 @@
+[
+	{
+		"id": "mueller-mci024bg1-4-zonas-inducao",
+		"name": "Mueller MCI024BG1 4 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-mueller-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas de indução com Turbo de até 2100W",
+			"Painel touch com display digital e 9 níveis de potência",
+			"Timer de até 99 minutos com alerta sonoro",
+			"Trava de segurança e aviso de calor residual",
+			"Função Manter Aquecido para pratos já prontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x zonas Turbo de Ø16cm (1200/1500W); 2x zonas Turbo de Ø21cm (1800/2100W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch screen; display digital; 9 níveis de potência; função Turbo; função Manter Aquecido; timer de até 99 minutos com alerta sonoro; trava de segurança; desligamento automático; aviso de calor residual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,8 x 77 x 52cm / nicho (L x P): 73 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "mueller-mcn4bk-4-zonas-inducao",
+		"name": "Mueller MCN4BK 4 zonas (indução)",
+		"image": "/images/posts/melhor-cooktop-mueller-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro zonas de indução com Turbo de até 2200W",
+			"Proteção contra derramamentos e indicador de superfície quente",
+			"Timer de até 99 minutos e desligamento automático",
+			"Painel touch screen com 9 níveis de potência",
+			"Peso de 7,7kg e voltagem de 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x zonas de Ø16cm (1300W/Turbo 1500W); 2x zonas de Ø18cm (1900W/Turbo 2200W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch screen; display digital; 9 níveis de potência; função Turbo; função Manter Aquecido; timer de até 99 minutos; trava de segurança; desligamento automático; proteção contra derramamentos; indicador de superfície quente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,5 x 59 x 52cm / nicho: 5,1 x 56 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "mueller-601270003-5-bocas-a-gas",
+		"name": "Mueller 601270003 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-mueller-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador de tripla chama de 3600W",
+			"Dois semirrápidos de 1700W e um auxiliar de 1000W",
+			"Trempes em ferro fundido",
+			"Acendimento superautomático e botões removíveis",
+			"Voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x semirrápido de 1700W; 1x auxiliar de 1000W; 1x Ultra Chama de 2400W; 1x Tripla Chama de 3600W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 68 x 44cm / nicho (L x P): 62 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mcg115bg1-5-bocas-a-gas",
+		"name": "Mueller MCG115BG1 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-mueller-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro semirrápidos de 1700W cada",
+			"Queimador Ultra Chama de 2400W",
+			"Trempes em aço esmaltado",
+			"Acendimento superautomático",
+			"Voltagem bivolt e peso de 7,55kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "4x semirrápido de 1700W; 1x Ultra Chama de 2400W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 68 x 44cm / nicho (L x P): 62 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,55kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mcg5bc-5-bocas-a-gas",
+		"name": "Mueller MCG5BC 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-mueller-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador de tripla chama de 3600W",
+			"Dois semirrápidos de 1700W e um Ultra Chama de 2400W",
+			"Trempes em aço esmaltado",
+			"Acendimento superautomático",
+			"Medidas de 10,5 x 68 x 44cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x semirrápido de 1700W; 1x Ultra Chama de 2400W; 1x Tripla Chama de 3600W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 68 x 44cm / nicho (L x P): 62 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,27kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mcg4bb-4-bocas-a-gas",
+		"name": "Mueller MCG4BB 4 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-mueller-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro queimadores, três deles semirrápidos de 1700W",
+			"Queimador Ultra Chama de 2400W",
+			"Acendimento superautomático",
+			"Trempes em aço esmaltado",
+			"Nicho de 52 x 37,5cm, a menor medida da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3x semirrápido de 1700W; 1x Ultra Chama de 2400W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 58,5 x 44cm / nicho (L x P): 52 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mcg5bm-5-bocas-a-gas",
+		"name": "Mueller MCG5BM 5 bocas (a gás)",
+		"image": "/images/posts/melhor-cooktop-mueller-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador de tripla chama de 3600W",
+			"Queimador auxiliar de 1200W e Ultra Chama de 2400W",
+			"Trempes em ferro fundido",
+			"Compatível com gás GLP e conversível para gás natural",
+			"Acendimento superautomático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x semirrápido de 1700W; 1x auxiliar de 1200W; 1x Ultra Chama de 2400W; 1x Tripla Chama de 3600W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; compatível com gás GLP, conversível para gás natural"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 77 x 52cm / nicho (L x P): 69,5 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

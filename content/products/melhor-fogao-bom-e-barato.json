@@ -1,0 +1,368 @@
+[
+	{
+		"id": "dako-supreme-black-glass-4-bocas",
+		"name": "Dako Supreme Black Glass (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 60 litros, o maior desta lista",
+			"Timer digital com alarme sonoro",
+			"Trempes de ferro fundido e superfície de vidro temperado",
+			"Sistema que corta e bloqueia o gás",
+			"Conversão de gás gratuita em até 90 dias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Ramal de 1,7kW; 1Q Família de 2,0kW; 1Q Mega Chama de 2,5kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; timer digital com alarme sonoro; botões removíveis; luz interna no forno (lâmpada acompanha o produto); sistema corta/bloqueia gás; porta com vidro duplo; classificação energética: A; conversão de gás gratuita em até 90 dias após o recebimento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,2 x 51,5 x 63,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-atenas-glass-4-bocas",
+		"name": "Atlas Atenas Glass (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 50 litros com porta de vidro duplo",
+			"Eficiência energética A",
+			"Acabamento Limpa Fácil e botões removíveis",
+			"Acendimento automático e 2 ramais de 2,0kW",
+			"Trempes de aço esmaltado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Ramal de 1,7kW; 2Q Ramal de 2,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; botões removíveis; sistema corta/bloqueia gás; eficiência energética A; acabamento Limpa Fácil; porta de vidro duplo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88 x 48 x 59,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-monaco-plus-4-bocas",
+		"name": "Atlas Mônaco Plus (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 50 litros com porta de vidro duplo",
+			"Tampa de vidro na mesa",
+			"Superfície em inox com acabamento Limpa Fácil",
+			"Trempes duplas de aço esmaltado",
+			"Acendimento automático e botões removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4 bocas"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Ramal de 1,7kW; 2Q Família de 2,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "dupla de aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "tampa de vidro na mesa; acendimento automático; botões removíveis; acabamento Limpa Fácil; sistema corta/bloqueia gás; porta do forno com vidro duplo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88,6 x 48 x 58,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-coliseum-plus-4-bocas",
+		"name": "Atlas Coliseum Plus (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 50 litros com puxador tubular metálico",
+			"Painel moderno para controle de temperatura",
+			"Pés altos e firmes",
+			"Superfície em inox e trempes duplas de aço esmaltado",
+			"Sistema que corta e bloqueia o gás"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "50 Litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Ramal de 1,7kW; 2Q Família de 2,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "dupla de aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento manual; puxador tubular metálico; botões removíveis; painel moderno para controle de temperatura; pés altos e firmes; sistema corta/bloqueia gás"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88,3 x 48,9 x 57,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "braslar-asiatico-junior-4-bocas",
+		"name": "Braslar Asiatico Junior (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trempes encaixadas para maior segurança",
+			"Compatível com gás natural e GLP",
+			"Pés antiderrapantes e superfície de inox",
+			"Peso de 3,5 kg e altura de 20 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q frontais de 1,5kW; 1Q traseiro direito de 1,5kW; 1Q traseiro esquerdo de 1,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "trempes encaixadas para maior segurança; compatível com gás natural e GLP; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 49,5 x 57,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "consul-cfo4nab-4-bocas",
+		"name": "Consul CFO4NAB (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 58 litros com vidro vedado",
+			"1 queimador grande de 2,75kW e 3 médios de 1,65kW",
+			"Acendimento automático e botões removíveis",
+			"Pés com ajuste Duplo Clique",
+			"Tecnologia Cleartec"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "58 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q grande de 2,75kW; 3Q médio de 1,65kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "botões removíveis; vidro com forno vedado; pés com ajuste Duplo Clique; acendimento automático; tecnologia Cleartec"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 51,5 x 60,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-neo-cook-fgvcg410br-4-bocas",
+		"name": "Suggar Neo Cook FGVCG410BR (4 bocas)",
+		"image": "/images/posts/melhor-fogao-bom-e-barato-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 56 litros com vidro duplo",
+			"Forno com válvula de segurança",
+			"Acendimento automático na mesa e no forno",
+			"Grade fixa com 3 ajustes e pés elevados",
+			"Controle de temperatura no forno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "56 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático na mesa e no forno; forno com válvula de segurança; vidro duplo no forno; pés elevados; controle de temperatura; grade fixa com 3 ajustes; puxador pintado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92,0 x 49,5 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

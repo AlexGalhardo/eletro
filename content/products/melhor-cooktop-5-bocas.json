@@ -1,0 +1,334 @@
+[
+	{
+		"id": "fischer-23678-54121",
+		"name": "Fischer 23678-54121",
+		"image": "/images/posts/melhor-cooktop-5-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador tripla chama de 3700W, o mais potente da lista",
+			"Superfície em inox com câmara de gás fechada",
+			"Acendimento superautomático e classificação energética A",
+			"Trempes em ferro fundido com material EasyClean"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1 tripla chama (3700W), 2 rápido (2900W) e 2 semi-rápido (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Funções extras",
+				"value": "trempes em material EasyClean; acendimento superautomático; classificação energética: A; câmara de gás fechada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 76,7 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-26343-57174",
+		"name": "Fischer 26343-57174",
+		"image": "/images/posts/melhor-cooktop-5-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vidro temperado na cor preta",
+			"Compatível com gás GLP ou GN",
+			"Trempes com material EasyClean",
+			"Classificação energética A e acendimento superautomático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1 rápido (3000W) e 4 semi-rápido (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado na cor preta"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "trempes em material EasyClean; acendimento superautomático; classificação energética: A; compatibilidade com gás GLP ou GN"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,8 x 68,5 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-ctg-02",
+		"name": "Mondial CTG-02",
+		"image": "/images/posts/melhor-cooktop-5-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois queimadores ultrarrápidos de 2650W",
+			"Sistema By Pass para controlar as chamas",
+			"Botões removíveis e acendimento automático",
+			"Conversão de gás gratuita em 90 dias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2 ultrarrápido (2650W), 1 rápido (2350W) e 2 semi-rápido (1700W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; sistema By Pass para controlar as chamas; botões removíveis; conversão de gás gratuita em 90 dias; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 75 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "itatiaia-essencial",
+		"name": "Itatiaia Essencial",
+		"image": "/images/posts/melhor-cooktop-5-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acendimento superautomático",
+			"Trempes removíveis em aço esmaltado",
+			"Garantia de 1 ano",
+			"Funciona em bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento superautomático; trempes removíveis; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 73 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-agile-up",
+		"name": "Atlas Agile Up",
+		"image": "/images/posts/melhor-cooktop-5-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois ultrarrápidos de 2850W",
+			"Botões removíveis e trempes esmaltadas",
+			"Conversão de gás gratuita em até 90 dias",
+			"Acendimento superautomático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2 ultrarrápido (2850W) e 3 semi-rápido (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento superautomático; botões removíveis; trempes esmaltadas; conversão de gás gratuita em até 90 dias"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 73,5 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-1642-6985",
+		"name": "Fischer 1642-6985",
+		"image": "/images/posts/melhor-cooktop-5-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acendimento superautomático e trempes individuais",
+			"Compatível com gás GLP ou GN",
+			"Garantia de 1 ano",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1 rápido (3000W) e 4 semi-rápido (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento superautomático; trempes individuais em aço esmaltado; garantia de 1 ano; classificação energética: (A); compatível com gás GLP ou GN"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 68,5 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-cook-chef-5tc",
+		"name": "Philco Cook Chef 5TC",
+		"image": "/images/posts/melhor-cooktop-5-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3600W e chama turbo",
+			"Acendimento superautomático Snap in",
+			"Manta térmica abaixo do vidro temperado",
+			"Vidro temperado de 8mm de espessura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1 tripla chama (3600W), 2 rápido (3000W) e 2 semi-rápido (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento superautomático Snap in; trempes individuais em aço esmaltado; chama turbo; manta térmica abaixo do vidro temperado; espessura do vidro de 8mm; classificação energética (A)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14,4 x 68,5 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

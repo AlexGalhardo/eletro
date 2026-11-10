@@ -1,0 +1,361 @@
+[
+	{
+		"id": "vonder-mgv226t-gasolina-6-5hp",
+		"name": "Vonder MGV226T (gasolina) 6.5HP",
+		"image": "/images/posts/melhor-cortadores-de-grama-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corte de 55,8cm, o maior diâmetro da lista",
+			"Sistema de tração para conduzir o aparelho com menos esforço",
+			"Seis ajustes de altura, de 25mm a 75mm",
+			"Alavanca de freio e empunhadura com revestimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina"
+			},
+			{
+				"label": "Potência",
+				"value": "6.5HP"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "55,8cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "6 ajustes – 25mm a 75mm"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "sistema de tração; empunhadura de comando com revestimento; alavanca de freio; descarte lateral e traseiro; recolhedor traseiro; rodas rolamentadas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Peso",
+				"value": "37kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-ce35p-eletrico-1300w",
+		"name": "Tramontina CE35P (elétrico) 1300W",
+		"image": "/images/posts/melhor-cortadores-de-grama-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coletor de 18 litros para recolher a grama cortada",
+			"Três alturas de corte, de 23mm a 53mm",
+			"Interruptor de duplo acionamento como item de segurança",
+			"Alça de transporte e rodas revestidas em borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "35cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "23mm, 38mm e 53mm"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "18 litros"
+			},
+			{
+				"label": "Material do chassi",
+				"value": "plástico de alta resistência"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "fixa cabo; design ergonômico; saída de grama lateral; pintura eletrostática em pó; interruptor de duplo acionamento; braço metálico; rodas revestidas em borracha; lâmina posicionada acima do nível do chassi; alça de transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "14,295kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-ce45m-eletrico-2500w",
+		"name": "Tramontina CE45M (elétrico) 2500W",
+		"image": "/images/posts/melhor-cortadores-de-grama-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2500W, a maior entre os elétricos da lista",
+			"Chassi metálico para mais resistência",
+			"Quatro alturas de corte, de 28mm a 68mm",
+			"Saída de grama lateral e rodas revestidas em borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "2500W"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "45cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "28mm, 42mm, 55mm e 68mm"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "não possui"
+			},
+			{
+				"label": "Material do chassi",
+				"value": "metálico"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "fixa cabo; design ergonômico; saída de grama lateral; pintura eletrostática em pó; interruptor de duplo acionamento; braço metálico; rodas revestidas em borracha"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "24,93kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-ap1500t-eletrico-1500w",
+		"name": "Tramontina AP1500T (elétrico) 1500W",
+		"image": "/images/posts/melhor-cortadores-de-grama-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abastecimento automático do fio de nylon",
+			"Gatilho longo e anatômico para mais conforto na mão",
+			"Alça da empunhadura regulável para ajustar a pegada",
+			"Limitador do fio de nylon e fio incluso na compra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "28cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "não possui"
+			},
+			{
+				"label": "Tipo de lâmina",
+				"value": "nylon"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "acompanha fio de nylon; fixa cabo; gatilho de acionamento longo e anatômico; limitador do fio de nylon; alça da empunhadura regulável; empunhadura ergonômica; pintura eletrostática a pó; abastecimento automático do fio"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,66kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-ag1500bp-eletrico-1500w",
+		"name": "Vonder AG1500BP (elétrico) 1500W",
+		"image": "/images/posts/melhor-cortadores-de-grama-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de corte de 25cm para áreas menores",
+			"Cabo bipartido, prático para guardar o aparelho",
+			"Punho auxiliar para segurar com as duas mãos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "25cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "não possui"
+			},
+			{
+				"label": "Tipo de lâmina",
+				"value": "nylon"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "cabo bipartido; punho auxiliar"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-ap1000t-eletrico-1000w",
+		"name": "Tramontina AP1000T (elétrico) 1000W",
+		"image": "/images/posts/melhor-cortadores-de-grama-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com diâmetro de corte de 28cm",
+			"Gatilho longo e anatômico para conforto ao segurar",
+			"Limitador do fio de nylon e alça regulável",
+			"Peso de 2,58kg, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "28cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "não possui"
+			},
+			{
+				"label": "Tipo de lâmina",
+				"value": "nylon"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "fixa cabo; gatilho de acionamento longo e anatômico; limitador do fio de nylon; alça da empunhadura regulável; empunhadura ergonômica; pintura eletrostática a pó"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,58kg"
+			}
+		]
+	},
+	{
+		"id": "trapp-lf650rm-gasolina-6-5hp",
+		"name": "Trapp LF650RM (gasolina) 6.5HP",
+		"image": "/images/posts/melhor-cortadores-de-grama-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coletor de 46 litros, o maior da lista",
+			"Nove ajustes de altura, de 28mm a 89mm",
+			"Lâmina de aço de 3mm e chassi com tratamento anticorrosivo",
+			"Bujão para drenar o óleo do cárter"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina"
+			},
+			{
+				"label": "Potência",
+				"value": "6,5HP"
+			},
+			{
+				"label": "Diâmetro do corte",
+				"value": "48cm"
+			},
+			{
+				"label": "Altura de corte",
+				"value": "9 ajustes – 28mm a 89mm"
+			},
+			{
+				"label": "Capacidade do coletor de grama",
+				"value": "46 litros"
+			},
+			{
+				"label": "Tipo de lâmina",
+				"value": "aço 3mm"
+			},
+			{
+				"label": "Material do chassi",
+				"value": "metálico com tratamento anticorrosivo"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "bujão para a drenagem do óleo do cárter; rodas de termoplástico com bucha sintetizada; cabo ergonômico e dobrável; base em chapa de aço; peças metálicas com tratamento anticorrosivo e pintura com tinta a pó de poliéster; coletor de grama"
+			},
+			{
+				"label": "Voltagem",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Peso",
+				"value": "39,7kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,422 @@
+[
+	{
+		"id": "eos-emco41irp-38cm-1-200m-h-415w",
+		"name": "EOS EMCO41IRP 38cm 1.200m³/h 415W",
+		"image": "/images/posts/melhor-depurador-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 1200m³/h com três velocidades",
+			"Modo depurador e exaustor em um só aparelho",
+			"Acabamento em inox preto All Black",
+			"Filtro de alumínio lavável e carvão ativado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "1200m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "415W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox preto (All Black)"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (LED)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,8–126,2 x 38 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eco91itdi-90cm-1-200m-h-376w",
+		"name": "EOS ECO91ITDI 90cm 1.200m³/h 376W",
+		"image": "/images/posts/melhor-depurador-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 1200m³/h em um modelo de 90cm",
+			"Controle digital touch com iluminação de 4 LEDs",
+			"Acabamento em aço inox e vidro temperado",
+			"Filtro de carvão ativado e modo depurador e exaustor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "1200m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "376W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "aço inox e vidro temperado"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "digital touch"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (4 LEDs de 1,5W)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65–123 x 90 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "24,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eco40ir-35cm-750m-h-210w",
+		"name": "EOS ECO40IR 35cm 750m³/h 210W",
+		"image": "/images/posts/melhor-depurador-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 750m³/h em um modelo de 35cm",
+			"Filtro metálico lavável e carvão ativado",
+			"Iluminação em LED e controle por botões",
+			"Acabamento em inox com três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "750m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "210W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "metálico lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (LED)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95,5–125,5 x 35 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eco91ppi-90cm-750m-h-240w",
+		"name": "EOS ECO91PPI 90cm 750m³/h 240W",
+		"image": "/images/posts/melhor-depurador-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 750m³/h em um modelo de 90cm",
+			"Controle mecânico com botões push",
+			"Iluminação em LED de 1,5W",
+			"Filtro de alumínio e carvão ativado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "750m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "240W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "alumínio e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "mecânico (botões push)"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (LED de 1,5W)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "102 x 90 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eco60pv-60cm-750m-h-220w",
+		"name": "EOS ECO60PV 60cm 750m³/h 220W",
+		"image": "/images/posts/melhor-depurador-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 750m³/h em um modelo de 60cm",
+			"Iluminação em LED de 2W",
+			"Filtro metálico lavável para facilitar a limpeza",
+			"Acabamento em inox com três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "750m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "220W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "metálico lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (LED de 2W)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54–80 x 59,5 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eco60dp-60cm-220m-h-140w",
+		"name": "EOS ECO60DP 60cm 220m³/h 140W",
+		"image": "/images/posts/melhor-depurador-eos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 220m³/h, a menor da lista",
+			"Luminária de 40W para iluminar o fogão",
+			"Acabamento preto com filtro metálico lavável",
+			"Modelo de 60cm e apenas 4,8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "220m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "preto"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "metálico lavável e carvão ativado"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botões"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (luminária de 40W)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 60 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-epco90itd-90cm-1-200m-h-320w",
+		"name": "EOS EPCO90ITD 90cm 1.200m³/h 320W",
+		"image": "/images/posts/melhor-depurador-eos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 1200m³/h em um modelo de 90cm",
+			"Filtro de gordura antiaderente e lavável",
+			"Controle digital touch com LED de 1,5W",
+			"Acabamento em inox e três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de sucção",
+				"value": "1200m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "320W"
+			},
+			{
+				"label": "Modo de funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Acabamento",
+				"value": "inox"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "gordura antiaderente e lavável"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "digital touch"
+			},
+			{
+				"label": "Iluminação",
+				"value": "sim (LED de 1,5W)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95–115 x 90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "110V ou 220V"
+			}
+		]
+	}
+]

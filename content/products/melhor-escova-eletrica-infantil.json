@@ -1,0 +1,214 @@
+[
+	{
+		"id": "oral-b-pro-kids-3",
+		"name": "Oral-B Pro Kids 3+",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Movimento rotacional com dois modos",
+			"Bateria recarregável, sem pilhas",
+			"Compatível com tensões de 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "movimento rotacional"
+			},
+			{
+				"label": "Modos",
+				"value": "2"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "oral-b-kids-3",
+		"name": "Oral-B Kids 3+",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Movimento rotacional em um modo simples",
+			"Alimentada por duas pilhas AA",
+			"Modo único para facilitar o uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "movimento rotacional"
+			},
+			{
+				"label": "Modos",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-61051877",
+		"name": "Philips Colgate SonicPro 61051877",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 14 dias",
+			"Tecnologia sônica com dois modos",
+			"Bateria recarregável, sem pilhas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			}
+		]
+	},
+	{
+		"id": "multilaser-hc054",
+		"name": "Multilaser HC054",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Movimento rotacional com alimentação por pilhas",
+			"Duas pilhas AAA para uso imediato",
+			"Tecnologia rotacional para a escovação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "movimento rotacional"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "multilaser-hc081",
+		"name": "Multilaser HC081",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com uma pilha AA",
+			"Alimentação simples, com uma pilha",
+			"Modelo sônico com alimentação por pilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Alimentação",
+				"value": "1 pilha AA"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "oral-b-kid-s",
+		"name": "Oral-B Kid's",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Movimento rotacional para a escovação",
+			"Alimentação por bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "movimento rotacional"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-61019186",
+		"name": "Philips Colgate SonicPro 61019186",
+		"image": "/images/posts/melhor-escova-eletrica-infantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com dois modos",
+			"Bateria recarregável, sem pilhas",
+			"Dois modos de uso para a rotina da criança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			}
+		]
+	}
+]

@@ -1,0 +1,274 @@
+[
+	{
+		"id": "black-decker-el500-300ml",
+		"name": "Black+Decker EL500 300mL",
+		"image": "/images/posts/melhor-espumador-de-leite-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W, a maior elétrica da lista",
+			"Corpo em aço inoxidável",
+			"Base aquecedora independente",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base aquecedora independente"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-we300-300ml",
+		"name": "WAP WE300 300mL",
+		"image": "/images/posts/melhor-espumador-de-leite-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base de aquecimento para espumar o leite",
+			"Cabo de 0,7 metro para uso na bancada",
+			"Capacidade de 300 mL",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "450W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300mL"
+			},
+			{
+				"label": "Material",
+				"value": "polímeros e metais"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base de aquecimento"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "0,7 metro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19,6 x 10 x 17,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "668g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-omlk100-300ml",
+		"name": "Oster OMLK100 300mL",
+		"image": "/images/posts/melhor-espumador-de-leite-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base aquecedora independente",
+			"Potência de 550W em 127V",
+			"Capacidade de 300 mL",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W (127V); 450W (220V)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300mL"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base aquecedora independente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,4 x 15,8 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "790g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cuszlta-zare90-160ml",
+		"name": "Cuszlta ZARE90 160mL",
+		"image": "/images/posts/melhor-espumador-de-leite-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de 160 mL para uma xícara por vez",
+			"Corpo em aço inox 304",
+			"Potência de 400W",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "160mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,8 x 15 x 10,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "758g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "pressca-milk-frother-200ml",
+		"name": "Pressca Milk Frother 200mL",
+		"image": "/images/posts/melhor-espumador-de-leite-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Resina livre de BPA e metais pesados",
+			"Copo de Tritan com capacidade de 200 mL",
+			"Peso de 165 g em formato compacto",
+			"Dimensões de 7 x 7 cm para guardar com facilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "—"
+			},
+			{
+				"label": "Capacidade",
+				"value": "200mL"
+			},
+			{
+				"label": "Material",
+				"value": "resina plástica (livre de BPA e metais pesados) com copo em Tritan"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,5 x 7 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "165g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "sokany-lg-sk71-2-350ml",
+		"name": "Sokany LG-SK71-2 350mL",
+		"image": "/images/posts/melhor-espumador-de-leite-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 500W",
+			"Corpo em aço inoxidável",
+			"Peso de 450 g",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17 x 14 x 10,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "450g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-arccno4-240ml",
+		"name": "Nespresso ARCCNO4 240mL",
+		"image": "/images/posts/melhor-espumador-de-leite-7.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 120 mL para espuma",
+			"Aquece até 240 mL de leite",
+			"Duas funções: espuma e aquecimento",
+			"Alimentação em 127V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "120mL (espuma); 240mL (aquecimento)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V"
+			}
+		]
+	}
+]

@@ -1,0 +1,346 @@
+[
+	{
+		"id": "conair-rotating-hyaluronic-1200w",
+		"name": "Conair Rotating Hyaluronic 1200W",
+		"image": "/images/posts/melhor-escova-rotativa-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Hyaluronic Infused com revestimento específico",
+			"Seca, modela, alisa e finaliza em um só aparelho",
+			"Dois níveis de temperatura e duas velocidades",
+			"Bivolt com 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Hyaluronic Infused"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, modela, alisa e finaliza"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V e 220V (bivolt)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 11,74 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,15kg"
+			}
+		]
+	},
+	{
+		"id": "conair-diamond-rotating-900w",
+		"name": "Conair Diamond Rotating 900W",
+		"image": "/images/posts/melhor-escova-rotativa-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento de cerâmica com partículas de diamante",
+			"Função de brilho além de secar e alisar",
+			"Potência de 900W, a menor da lista",
+			"Peso de 700 g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com partículas de diamante infundidas"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, modela e dá brilho"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 39,5 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "700g"
+			}
+		]
+	},
+	{
+		"id": "philco-per02-1300w",
+		"name": "Philco PER02 1300W",
+		"image": "/images/posts/melhor-escova-rotativa-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 1,8 metro para mais liberdade de movimento",
+			"Revestimento de cerâmica com íon Tourmaline",
+			"Duas velocidades e dois níveis de temperatura",
+			"Peso de 550 g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com tecnologia de íon Tourmaline"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, modela e dá brilho"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 42,5 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "britania-ber20pd-1300w",
+		"name": "Britânia BER20PD 1300W",
+		"image": "/images/posts/melhor-escova-rotativa-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura",
+			"Cabo giratório de 360 graus",
+			"Função de volume além de secar e alisar",
+			"Revestimento Gold com nanopartículas de cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento Gold com nanopartículas de cerâmica, tecnologia Natural Care e íon Tourmaline"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, escova e dá volume"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro (giratório 360º)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V e 220V (bivolt)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 42,5 x 9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "630g"
+			}
+		]
+	},
+	{
+		"id": "mondial-erb-01-1200w",
+		"name": "Mondial ERB-01 1200W",
+		"image": "/images/posts/melhor-escova-rotativa-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 481 g, o mais leve da lista",
+			"Revestimento de cerâmica com íon Tourmaline",
+			"Potência de 1300W em 127V",
+			"Bivolt com 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W (127V) / 1000W (220V)"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com tecnologia de íon Tourmaline"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V e 220V (bivolt)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 37 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "481g"
+			}
+		]
+	},
+	{
+		"id": "mondial-er-09-1200w",
+		"name": "Mondial ER-09 1200W",
+		"image": "/images/posts/melhor-escova-rotativa-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Define cachos e finaliza franjas e pontas",
+			"Três níveis de temperatura e três velocidades",
+			"Revestimento de cerâmica com íon Tourmaline",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "revestimento em cerâmica com tecnologia íon Tourmaline"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa, modela, define cachos e finaliza franjas e pontas"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 37 x 7,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-new-turbo-plus-2300-1100w",
+		"name": "GA.MA ITALY New Turbo Plus 2300 1100W",
+		"image": "/images/posts/melhor-escova-rotativa-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo giratório de 1,7 metro",
+			"Tecnologia turbo íon para secagem",
+			"Peso de 523 g",
+			"Duas velocidades e dois níveis de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "turbo íon"
+			},
+			{
+				"label": "Funções",
+				"value": "seca, alisa e modela"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,7 metro (cabo giratório)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 43 x 7,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "523g"
+			}
+		]
+	}
+]

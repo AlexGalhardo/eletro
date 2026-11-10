@@ -1,0 +1,374 @@
+[
+	{
+		"id": "oster-otop202-2-bocas-3000w-inducao",
+		"name": "Oster OTOP202 (2 bocas) 3000W \"indução\"",
+		"image": "/images/posts/melhor-fogao-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3000W em 220V com 14 níveis de potência",
+			"Função Booster e timer de até 99 minutos",
+			"Uso 2 em 1, embutido ou portátil",
+			"Trava de segurança no painel e indicador de painel quente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W (127V) ou 3000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slide (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,8kWh (127V); 3,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "14 níveis de potência; função Booster; timer programável de até 99 minutos; trava de segurança no painel; indicador de painel quente; uso 2 em 1 (embutido ou portátil); desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 29 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-otop100-1-boca-2000w-inducao",
+		"name": "Oster OTOP100 (1 boca) 2000W \"indução\"",
+		"image": "/images/posts/melhor-fogao-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 2000W em 220V",
+			"Oito seleções de temperatura no touch",
+			"Timer e painel digital colorido",
+			"Pés antiderrapantes para maior estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slide (8 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "37,50kWh (127V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "8 seleções de temperatura; timer; painel digital colorido; dispositivo de segurança; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,5 x 28 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-42fog0201000-2-bocas-2000w-eletrico",
+		"name": "Elgin 42FOG0201000 (2 bocas) 2000W \"elétrico\"",
+		"image": "/images/posts/melhor-fogao-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com controles independentes",
+			"Cinco níveis de temperatura com botões giratórios",
+			"Luz indicadora e proteção contra superaquecimento",
+			"Potência de 2000W com peso de 1,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões giratórios"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "5 níveis de temperatura; luz indicadora de aquecimento; proteção contra superaquecimento; controles independentes para cada boca"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64 x 43 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pct10a-1-boca-1100w-1600w-inducao",
+		"name": "Philco PCT10A (1 boca) 1100W/1600W \"indução\"",
+		"image": "/images/posts/melhor-fogao-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável de até 180 minutos",
+			"Reconhecimento automático de panelas com fundo magnético",
+			"Programas pré-selecionados e aviso sonoro",
+			"Trava de segurança e indicação de calor residual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W (127V) ou 1600W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com display digital"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável de até 180 minutos; display digital; painel touch; reconhecimento automático de panelas com fundo magnético; desligamento automático; proteção contra superaquecimento; indicação de calor residual; trava de segurança; programas pré-selecionados; aviso sonoro de inicialização"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,7 x 28 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,92kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcte10a-1-boca-1100w-inducao",
+		"name": "Britânia BCTE10A (1 boca) 1100W \"indução\"",
+		"image": "/images/posts/melhor-fogao-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável de até 180 minutos",
+			"Seis programas definidos de cozimento",
+			"Reconhecimento automático de panelas com fundo magnético",
+			"LED indicador de programas e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W (127V) ou 1600W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com display digital"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável de até 180 minutos; 6 programas definidos; reconhecimento automático de panelas com fundo magnético; desligamento automático; proteção contra superaquecimento; trava de segurança; LED indicador de programas pré-selecionados; indicação de calor residual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,4 x 28 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,91kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-2-fmp-01-2-bocas-2500w-eletrico",
+		"name": "Agratto 2 FMP-01 (2 bocas) 2500W \"elétrico\"",
+		"image": "/images/posts/melhor-fogao-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com potência de 2500W",
+			"Botão giratório com cinco níveis de aquecimento",
+			"Aço carbono com 2,93kg de peso",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Potência",
+				"value": "2500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botão giratório (5 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "5 níveis de aquecimento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 48,5 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,93kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-cyad11-1-boca-2000w-inducao",
+		"name": "Midea CYAD11 (1 boca) 2000W \"indução\"",
+		"image": "/images/posts/melhor-fogao-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito funções pré-definidas, como fritar e arroz",
+			"Dez seleções de potência com touch slider",
+			"Timer e sensor de desligamento automático",
+			"Trava de segurança e superfície vitrocerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,5kWh (127V) ou 2,0kWh (220V)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "10 seleções de potência; timer; trava de segurança; sensor de desligamento automático; 8 funções pré-definidas: fritar, refogar, cozimento lento, ferver, arroz, manter aquecido, fondue e sopa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29,5 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

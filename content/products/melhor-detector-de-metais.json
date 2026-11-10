@@ -1,0 +1,482 @@
+[
+	{
+		"id": "minelab-x-terra-elite",
+		"name": "Minelab X-Terra Elite",
+		"image": "/images/posts/melhor-detector-de-metais-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 12 horas com bateria recarregável",
+			"Sensibilidade ajustável em 25 níveis",
+			"Bobina de 12 polegadas submersível",
+			"Proteção IP68 e cancelamento de ruído em 19 canais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "todos os metais"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 25 níveis"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro; vibração"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com retroiluminação"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "12 polegadas submersível"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "5kHz – 40kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "plástico"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "lanterna; saída para fone de ouvido sem fio; vibração no punho; balanceamento de solo automático; cancelamento automático de ruído (19 canais); proteção IP68; modo PinPoint; 3 modos de busca: parque, campo e praia; alto-falante embutido; tecnologia Multi-IQ; tela e teclado retroiluminado; conector magnético de carregamento USB"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "63 a 138cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "minelab-x-terra-pro",
+		"name": "Minelab X-Terra Pro",
+		"image": "/images/posts/melhor-detector-de-metais-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 16 horas com bateria recarregável",
+			"Modos de discriminação e pino localizador",
+			"Bobina de 12 polegadas submersível",
+			"Alarme sonoro e vibração no punho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "16 horas"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "discriminação; pino localizador"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 25 níveis"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro; vibração"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com retroiluminação"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "12 polegadas submersível"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "5kHz a 15kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "plástico"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "lanterna; saída para fone de ouvido sem fio; vibração no punho; balanceamento de solo automático; cancelamento automático de ruído (19 canais); proteção IP68; modo PinPoint; 3 modos de busca: parque, campo e praia; alto-falante embutido; tecnologia Pro-Switch; tela e teclado retroiluminado; cabo de carregamento USB"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "63 a 138cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "minelab-go-find-11",
+		"name": "Minelab Go-Find 11",
+		"image": "/images/posts/melhor-detector-de-metais-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Opera com 4 pilhas AA",
+			"Sensibilidade em 3 níveis e profundidade de 35cm",
+			"Bobina de 8 polegadas submersível",
+			"Apoio de braço e alto-falante embutido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas AA"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "discriminação"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 3 níveis"
+			},
+			{
+				"label": "Profundidade de detecção",
+				"value": "35cm"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro"
+			},
+			{
+				"label": "Display",
+				"value": "LCD"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "8 polegadas submersível"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "7,8kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "policarbonato"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "saída para fone de ouvido 3,5mm; 2 modos de busca: todos os metais e rejeitar ferro; balanceamento de solo automático; alto-falante embutido; apoio de braço"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "55,5 a 130,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,0kg"
+			}
+		]
+	},
+	{
+		"id": "minelab-vanquish-340",
+		"name": "Minelab Vanquish 340",
+		"image": "/images/posts/melhor-detector-de-metais-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Opera com 4 pilhas AA e três modos de busca",
+			"Indicador de profundidade em 4 níveis",
+			"Cancelamento de ruído em 19 canais",
+			"Bobina de 10 polegadas submersível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas AA"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "discriminação"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 4 níveis"
+			},
+			{
+				"label": "Profundidade de detecção",
+				"value": "40cm"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro"
+			},
+			{
+				"label": "Display",
+				"value": "LCD monocromático"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "10 polegadas submersível"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "10kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "fibra de vidro e policarbonato"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "cancelamento automático de ruído (19 canais); indicador de ferro; três modos pré-configurados; saída para fone de ouvido; 4 pilhas AA; alto-falante embutido; 3 modos de busca: moedas, joias e todos os metais; tecnologia Multi-IQ; controle de volume; protetor de bobina V10; indicador de profundidade em 4 níveis"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "76 a 145cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "tianxun-md-4030",
+		"name": "Tianxun MD-4030",
+		"image": "/images/posts/melhor-detector-de-metais-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Profundidade de até 80cm para buscas mais fundas",
+			"Alimentação com 2 pilhas 9V",
+			"Alarme sonoro e visual para sinalizar alvos",
+			"Indicador de bateria fraca e volume ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com haste"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas 9V"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "todos os metais; discriminação; pino localizador"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Profundidade de detecção",
+				"value": "até 80cm"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro; visual"
+			},
+			{
+				"label": "Display",
+				"value": "analógico com ponteiro"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "8 polegadas à prova d’água"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "5kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "metal e plástico"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "indicador de bateria fraca; entrada para fone de ouvido; modo Pinpoint; volume ajustável"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "até 105cm"
+			},
+			{
+				"label": "Peso",
+				"value": "850g"
+			}
+		]
+	},
+	{
+		"id": "nokta-simplex-lite-sx28",
+		"name": "Nokta Simplex Lite SX28",
+		"image": "/images/posts/melhor-detector-de-metais-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 12 horas com bateria recarregável",
+			"Sensibilidade ajustável em 30 níveis",
+			"Lanterna LED e iluminação do teclado",
+			"Pinpointer integrado e proteção IP68"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "todos os metais"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 30 níveis"
+			},
+			{
+				"label": "Profundidade de detecção",
+				"value": "5 metros"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro; vibração"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com retroiluminação"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "11 polegadas submersível"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "15kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "alumínio e plástico"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "lanterna LED; vibração; iluminação do teclado; eliminação de ferro; supressor de solo; ajuste de threshold; Pinpointer integrado; mudança de frequência; balanceamento do solo automático ou manual; 4 modos de busca: campo, parque, praia e todos os metais; proteção IP68"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "63 a 132cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "minelab-go-find-66",
+		"name": "Minelab Go-Find 66",
+		"image": "/images/posts/melhor-detector-de-metais-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função Visão de Tesouro para localizar alvos",
+			"Bluetooth e suporte para smartphone",
+			"Pá de escavação inclusa na compra",
+			"Bobina de 10 polegadas à prova d’água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas AA"
+			},
+			{
+				"label": "Modos de detecção",
+				"value": "discriminação; pino localizador"
+			},
+			{
+				"label": "Sensibilidade ajustável",
+				"value": "sim, 5 níveis"
+			},
+			{
+				"label": "Profundidade de detecção",
+				"value": "60cm"
+			},
+			{
+				"label": "Tipo de alarme",
+				"value": "sonoro"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com retroiluminação"
+			},
+			{
+				"label": "Bobina de busca",
+				"value": "10 polegadas à prova d’água"
+			},
+			{
+				"label": "Faixa de frequência",
+				"value": "7,8kHz"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "policarbonato e plástico"
+			},
+			{
+				"label": "Outros recursos",
+				"value": "função Visão de Tesouro; modo Pinpoint; indicação de profundidade; suporte para smartphone; Bluetooth; adesivos de camuflagem; pá de escavação inclusa"
+			},
+			{
+				"label": "Comprimento ajustável da haste",
+				"value": "55,5 a 130,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,06kg"
+			}
+		]
+	}
+]

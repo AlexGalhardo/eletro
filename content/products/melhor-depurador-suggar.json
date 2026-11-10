@@ -1,0 +1,394 @@
+[
+	{
+		"id": "suggar-dpv92ix-90cm",
+		"name": "Suggar DPV92IX 90cm",
+		"image": "/images/posts/melhor-depurador-suggar-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 430m³/h e três velocidades",
+			"Filtro de carvão ativado e telas de alumínio",
+			"Função depurador e exaustor",
+			"Lâmpada integrada e botões mecânicos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e telas de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86,6 x 90 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-de81ix-80cm",
+		"name": "Suggar DE81IX 80cm",
+		"image": "/images/posts/melhor-depurador-suggar-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 390m³/h com duas velocidades",
+			"Funciona como depurador e exaustor",
+			"Filtro de carvão ativado com telas de alumínio",
+			"Lâmpada integrada e medida aberta de 47cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "390m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Potência",
+				"value": "124W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e telas de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,6 x 80 x 30cm (47cm aberto)"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-di601-2pr-60cm",
+		"name": "Suggar DI601/2PR 60cm",
+		"image": "/images/posts/melhor-depurador-suggar-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 105W, a menor da lista",
+			"Manta filtrante junto ao carvão ativado",
+			"Três velocidades para ajustar a exaustão",
+			"Peso de 4,6kg e lâmpada integrada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "390m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "105W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e manta filtrante"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 60 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-de61ix-60cm",
+		"name": "Suggar DE61IX 60cm",
+		"image": "/images/posts/melhor-depurador-suggar-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 390m³/h e duas velocidades",
+			"Medida aberta de 48,8cm",
+			"Função depurador e exaustor",
+			"Lâmpada integrada e botões mecânicos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "390m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Potência",
+				"value": "124W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e telas de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,6 x 60 x 30 (48,8cm aberto)"
+			},
+			{
+				"label": "Peso",
+				"value": "6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dps181pr-80cm",
+		"name": "Suggar DPS181PR 80cm",
+		"image": "/images/posts/melhor-depurador-suggar-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmpada LED de 4W integrada",
+			"Vazão de 430m³/h com três velocidades",
+			"Filtros de carvão ativado e telas de alumínio",
+			"Medida de 80cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e telas de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada LED de 4W"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 80 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dps162pr-60cm",
+		"name": "Suggar DPS162PR 60cm",
+		"image": "/images/posts/melhor-depurador-suggar-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 430m³/h em 60cm",
+			"Lâmpada LED integrada",
+			"Filtro de carvão ativado com tela de alumínio",
+			"Peso de 4,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e tela de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "botões mecânicos"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada LED integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 60 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-dth62pt-60cm",
+		"name": "Suggar DTH62PT 60cm",
+		"image": "/images/posts/melhor-depurador-suggar-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch para comandos",
+			"Vazão de 430m³/h e três velocidades",
+			"Função depurador e exaustor",
+			"Lâmpada LED integrada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Vazão",
+				"value": "430m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "160W"
+			},
+			{
+				"label": "Funcionamento",
+				"value": "depurador e exaustor"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão ativado e tela de alumínio"
+			},
+			{
+				"label": "Controle",
+				"value": "painel touch"
+			},
+			{
+				"label": "Iluminação",
+				"value": "lâmpada LED integrada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,7 x 60 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
