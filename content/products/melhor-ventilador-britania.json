@@ -1,0 +1,429 @@
+[
+	{
+		"id": "britania-bvt550-175w-coluna",
+		"name": "Britânia BVT550 175W (coluna)",
+		"image": "/images/posts/melhor-ventilador-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Maxx Force e oscilação horizontal automática",
+			"Três níveis de oscilação vertical",
+			"Grade turbo e grade removível de 58cm",
+			"Desligamento em caso de superaquecimento",
+			"Design super silencioso e fácil de montar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "175W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "48cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; oscilação horizontal automática; três níveis de oscilação vertical; grade removível de 58cm; desligamento em caso de superaquecimento; sistema de travamento de grades; design fácil de montar, desmontar e limpar; baixo nível de ruído; design super silencioso; grade turbo"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "166,7 x 58 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,71kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt451-170w-coluna",
+		"name": "Britânia BVT451 170W (coluna)",
+		"image": "/images/posts/melhor-ventilador-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação energética A",
+			"Oito pás e diâmetro de 40cm",
+			"Porta-fio e sistema de travamento entre grades",
+			"Botão de oscilação integrado à carcaça",
+			"Grade removível de 48cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "170W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; classificação energética A; porta-fio; sistema de travamento entre grades; novo sistema de acionamento da oscilação horizontal (botão integrado à carcaça); sistema oscilante; grade removível de 48cm; super silencioso"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "163 x 48 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,59kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt450-160w-coluna",
+		"name": "Britânia BVT450 160W (coluna)",
+		"image": "/images/posts/melhor-ventilador-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação energética A e baixo consumo",
+			"Interrupção automática por superaquecimento",
+			"Baixo nível de ruído na operação",
+			"Porta-fio e sistema oscilante",
+			"Oscilação horizontal automática com botão integrado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "160W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; classificação energética A; baixo consumo de energia; baixo nível de ruído; porta-fio; sistema de travamento entre grades; sistema oscilante; oscilação horizontal automática com botão integrado à carcaça; sistema de interrupção automática em caso de superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,7 x 48,5 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,49kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt400-150w-mesa",
+		"name": "Britânia BVT400 150W (mesa)",
+		"image": "/images/posts/melhor-ventilador-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso 2 em 1, como mesa ou parede",
+			"Tecnologia Maxx Force",
+			"Alça na grade traseira para transporte",
+			"Porta-fio e travamento entre grade frontal e traseira",
+			"Peso de 2,88kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa; parede"
+			},
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; uso 2 em 1 (mesa ou parede); oscilação horizontal automática com botão integrado à carcaça; porta-fio; novo sistema de travamento entre grade frontal e traseira; alça na grade traseira para transporte; sistema de interrupção automática em caso de superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 45 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,88kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt301-60w-mesa",
+		"name": "Britânia BVT301 60W (mesa)",
+		"image": "/images/posts/melhor-ventilador-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 2 em 1, como mesa ou parede",
+			"Classificação energética A",
+			"Grade removível com travas",
+			"Motor com interrupção por superaquecimento",
+			"Peso de apenas 1,70kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa; parede"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; classificação energética A; função 2 em 1 (mesa ou parede); porta-fio; alça traseira para transporte; oscilação horizontal automática com botão integrado à carcaça; grade removível com travas; motor com sistema que interrompe o funcionamento em caso de superaquecimento; fácil montagem, desmontagem e limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55,8 x 36 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,70kg"
+			}
+		]
+	},
+	{
+		"id": "britania-c50-200w-mesa",
+		"name": "Britânia C50 200W (mesa)",
+		"image": "/images/posts/melhor-ventilador-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Hélices em alumínio e corpo em aço inoxidável",
+			"Diâmetro de 50cm e 200W de potência",
+			"Base antiderrapante e suporte para enrolar o cabo",
+			"Função oscilação e alça para transporte",
+			"Proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "hélices em alumínio; corpo em aço inoxidável; base antiderrapante; suporte para enrolar o cabo; função oscilação; alça para transporte; proteção contra superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54,4 x 55 x 27,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,25kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt01b-131w-teto",
+		"name": "Britânia BVT01B 131W (teto)",
+		"image": "/images/posts/melhor-ventilador-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função reverso para ventilar ou exaustar",
+			"Luminária para duas lâmpadas",
+			"Sistema desmontável para limpeza",
+			"Diâmetro de 50cm e 131W de potência",
+			"Interruptor com funções"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "teto"
+			},
+			{
+				"label": "Potência",
+				"value": "131W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "não"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função reverso (ventilador/exaustor); luminária para duas lâmpadas; sistema desmontável para limpeza; silencioso; interruptor com funções"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "47,5 x 106,8 x 106,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,80kg"
+			}
+		]
+	}
+]

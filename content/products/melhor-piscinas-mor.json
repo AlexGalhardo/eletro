@@ -1,0 +1,309 @@
+[
+	{
+		"id": "mor-circular-001046-7-200-litros",
+		"name": "Mor - Circular (001046) 7.200 litros",
+		"image": "/images/posts/melhor-piscinas-mor-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 7200 litros em formato circular",
+			"Estrutura em aço com lona de PVC",
+			"Válvula de deságue e entrada para filtro",
+			"Dimensões de 3,66m x 3,66m x 76cm e peso de 18,30kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "7200 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "lona em PVC, estrutura em aço e peças em polipropileno"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "3,66m x 3,66m x 76cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro"
+			},
+			{
+				"label": "Peso",
+				"value": "18,30Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-circular-001045-5-200-litros",
+		"name": "Mor - Circular (001045) 5.200 litros",
+		"image": "/images/posts/melhor-piscinas-mor-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 5200 litros em formato circular",
+			"Material multicamadas com armação metálica",
+			"Válvula de deságue e entrada para filtro",
+			"Dimensões de 3,05m x 3,05m x 76cm e peso de 14,70kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "5200 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "multicamadas"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "3,05m x 3,05m x 76cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro"
+			},
+			{
+				"label": "Peso",
+				"value": "14,70Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-inflavel-001053-2-400-litros",
+		"name": "Mor - Inflável (001053) 2.400 litros",
+		"image": "/images/posts/melhor-piscinas-mor-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 2400 litros em modelo inflável circular",
+			"Kit de reparo e DVD com instruções de montagem",
+			"Válvula de deságue e entrada para filtro",
+			"Dimensões de 2,40m x 2,40m x 63cm e peso de 5,16kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2400 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "2,40m x 2,40m x 63cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro; kit de reparo; DVD com instruções de montagem"
+			},
+			{
+				"label": "Peso",
+				"value": "5,16Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-inflavel-001050-3-400-litros",
+		"name": "Mor - Inflável (001050) 3.400 litros",
+		"image": "/images/posts/melhor-piscinas-mor-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3400 litros em modelo inflável circular",
+			"Kit de reparo incluído",
+			"Válvula de deságue e entrada para filtro",
+			"Dimensões de 2,70m x 2,70m x 70cm e peso de 6,77kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3400 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "2,70m x 2,70m x 70cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro; kit de reparo"
+			},
+			{
+				"label": "Peso",
+				"value": "6,77Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-infantil-001002-1-000-litros",
+		"name": "Mor - Infantil (001002) 1.000 litros",
+		"image": "/images/posts/melhor-piscinas-mor-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1000 litros em formato retangular",
+			"Estrutura em aço com lona de PVC",
+			"Válvula de deságue para esvaziamento",
+			"Dimensões de 1,89m x 1,26m x 42cm e peso de 5,45kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1000 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material",
+				"value": "lona em PVC, estrutura em aço e peças em polipropileno"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,89m x 1,26m x 42cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue"
+			},
+			{
+				"label": "Peso",
+				"value": "5,45Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-infantil-001000-400-litros",
+		"name": "Mor - Infantil (001000) 400 litros",
+		"image": "/images/posts/melhor-piscinas-mor-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 400 litros em formato retangular",
+			"Estrutura em aço com lona de PVC",
+			"Dimensões de 1,10m x 1,10m x 33cm e peso de 2,76kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material",
+				"value": "lona em PVC, estrutura em aço e peças em polipropileno"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,10m x 1,10m x 33cm"
+			},
+			{
+				"label": "Extras",
+				"value": "—"
+			},
+			{
+				"label": "Peso",
+				"value": "2,76Kg"
+			}
+		]
+	},
+	{
+		"id": "mor-premium-001023-3-700-litros",
+		"name": "Mor - Premium (001023) 3.700 litros",
+		"image": "/images/posts/melhor-piscinas-mor-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3700 litros em formato retangular",
+			"Material multicamadas com armação metálica",
+			"Válvula de deságue e entrada para filtro",
+			"Dimensões de 3,70m x 2,42m x 70cm e peso de 17,71kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3700 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material",
+				"value": "multicamadas"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "3,70m x 2,42m x 70cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro"
+			},
+			{
+				"label": "Peso",
+				"value": "17,71Kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,342 @@
+[
+	{
+		"id": "basike-ba-fan330",
+		"name": "Basike Ba-FAN330",
+		"image": "/images/posts/melhor-ventilador-de-mao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste contínuo de velocidade de 1 a 199",
+			"Motor de 20.000RPM e vento de 8 m/s",
+			"Design articulado e dobrável com inclinação ajustável",
+			"Painel LED com status da bateria e velocidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "ajuste contínuo de 1 a 199"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório; botão liga/desliga"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design articulado e dobrável; painel de LED com status da bateria e velocidade; motor de 20.000RPM; velocidade do vento de 8m/s; funcionamento de baixo ruído; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,8 x 6,15 x 5,68cm"
+			},
+			{
+				"label": "Peso",
+				"value": "275g"
+			}
+		]
+	},
+	{
+		"id": "basike-ba-fan327",
+		"name": "Basike Ba-FAN327",
+		"image": "/images/posts/melhor-ventilador-de-mao-2.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placa de resfriamento a 11°C",
+			"Velocidade de 100 níveis com display digital",
+			"Motor de 18.000RPM e vento de 4 a 8 m/s",
+			"Dissipador de alumínio e ruído de 20dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "10W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "100 níveis"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório; botão liga/desliga"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "placa de resfriamento a 11°C; display digital com bateria, velocidade e modo de refrigeração; motor de 18.000RPM; velocidade do vento de 4 a 8m/s; nível de ruído de 20dB; dissipador de alumínio"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,5 x 6 x 5,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "233g"
+			}
+		]
+	},
+	{
+		"id": "ezra-gfs001",
+		"name": "EZRA GFS001",
+		"image": "/images/posts/melhor-ventilador-de-mao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste contínuo de velocidade de 1 a 100 níveis",
+			"Recarga por USB-C e display de LED",
+			"Ruído de 20dB e peso de 330g",
+			"Botão deslizante e botão de pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "10W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "ajuste contínuo de 1 a 100 níveis"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "não"
+			},
+			{
+				"label": "Controle",
+				"value": "botão deslizante; botão de pressão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "display de LED com velocidade e nível da bateria; nível de ruído de 20dB; carregamento USB-C; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 5,8 x 6,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "330g"
+			}
+		]
+	},
+	{
+		"id": "basike-ba-fan329",
+		"name": "Basike Ba-FAN329",
+		"image": "/images/posts/melhor-ventilador-de-mao-4.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placa de refrigeração e motor de 18.000RPM",
+			"Lanterna de LED e função power bank",
+			"Design articulado e dobrável",
+			"Funcionamento de baixo ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "até 10W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão de pressão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "placa de refrigeração; motor de 18.000RPM; display de LED com bateria e velocidade; lanterna de LED; design articulado e dobrável; funcionamento de baixo ruído; dissipador em liga de alumínio; função power bank"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,3 x 6 x 6cm"
+			}
+		]
+	},
+	{
+		"id": "basike-ba-fan328",
+		"name": "Basike Ba-FAN328",
+		"image": "/images/posts/melhor-ventilador-de-mao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Refrigeração com Tecnologia TEC",
+			"Vento de até 20 m/s e ruído de até 20dB",
+			"Ajuste contínuo de 1 a 100 níveis",
+			"Corpo dobrável com display de LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "10W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "ajuste contínuo de 1 a 100 níveis"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "placa de resfriamento com Tecnologia TEC; display de LED com velocidade, refrigeração e bateria; motor de 18.000RPM; velocidade do vento de até 20m/s; nível de ruído de até 20dB; corpo dobrável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 5,1 x 6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "230g"
+			}
+		]
+	},
+	{
+		"id": "jisulife-life9",
+		"name": "JisuLife Life9",
+		"image": "/images/posts/melhor-ventilador-de-mao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor trifásico DC sem escovas de 40.000RPM",
+			"Vento de até 10 m/s com cinco níveis",
+			"Trava de segurança e base antiderrapante",
+			"Peso de 160g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "6W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "5 níveis"
+			},
+			{
+				"label": "Controle",
+				"value": "botão de pressão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "motor trifásico DC sem escovas de 40.000RPM; vento de até 10m/s; base antiderrapante; trava de segurança; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 3,3 x 6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "160g"
+			}
+		]
+	},
+	{
+		"id": "geonav-breeze-flow-ventp01sg",
+		"name": "Geonav Breeze Flow VENTP01SG",
+		"image": "/images/posts/melhor-ventilador-de-mao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 126g, o mais leve da lista",
+			"Corpo dobrável com alça para pescoço ou ombro",
+			"Recarga por power bank e display digital",
+			"Cinco níveis de velocidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidades",
+				"value": "5 níveis"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "display digital; corpo dobrável; alça ajustável para pescoço ou ombro; recarga por power bank"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 5 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "126g"
+			}
+		]
+	}
+]

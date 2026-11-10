@@ -1,0 +1,270 @@
+[
+	{
+		"id": "okatsune-103c-g",
+		"name": "Okatsune 103C G",
+		"image": "/images/posts/melhor-tesoura-de-poda-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corte cruzado no sistema bypass, com capacidade de até 25mm",
+			"Lâmina em aço Izumo Yasugi de alto carbono",
+			"Ferramenta manual, sem necessidade de energia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (corte cruzado)"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 25mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço Izumo Yasugi de alto carbono"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78363105",
+		"name": "Tramontina 78363105",
+		"image": "/images/posts/melhor-tesoura-de-poda-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 30mm, a maior desta lista",
+			"Lâmina de aço carbono temperado no sistema bypass",
+			"Cabo metálico com empunhadura emborrachada",
+			"Peso de 1,296kg e dimensões de 3,1 x 21 x 66cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (corte cruzado)"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 30mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "metálico com empunhadura emborrachada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3,1 x 21 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,296kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78304511",
+		"name": "Tramontina 78304511",
+		"image": "/images/posts/melhor-tesoura-de-poda-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 17mm no sistema bypass",
+			"Lâmina de aço carbono temperado",
+			"Cabo revestido em plástico",
+			"Peso leve de 231g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (corte cruzado)"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 17mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "revestimento em plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3 x 6 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "231g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78316501",
+		"name": "Tramontina 78316501",
+		"image": "/images/posts/melhor-tesoura-de-poda-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 20mm no sistema bypass",
+			"Cabo de alumínio com revestimento emborrachado",
+			"Lâmina de aço carbono temperado",
+			"Peso leve de 226g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (corte cruzado)"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 20mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "alumínio com revestimento emborrachado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "2 x 5,7 x 20,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "226g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78300001",
+		"name": "Tramontina 78300001",
+		"image": "/images/posts/melhor-tesoura-de-poda-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 17mm no sistema bypass",
+			"Peso de 109g, o mais leve desta lista",
+			"Cabo de plástico e lâmina de aço carbono temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (corte cruzado)"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 17mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1,6 x 6,2 x 17,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "109g"
+			}
+		]
+	},
+	{
+		"id": "palisad-605038",
+		"name": "PALISAD 605038",
+		"image": "/images/posts/melhor-tesoura-de-poda-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 15mm para galhos finos",
+			"Cabo de borracha",
+			"Ferramenta manual de corte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 15mm"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "borracha"
+			}
+		]
+	},
+	{
+		"id": "vonder-30-85-760-000",
+		"name": "Vonder 30.85.760.000",
+		"image": "/images/posts/melhor-tesoura-de-poda-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte de até 10mm, a menor desta lista",
+			"Lâmina de aço carbono e cabo de alumínio",
+			"Ferramenta de 560g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Capacidade de corte",
+				"value": "até 10mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "alumínio"
+			},
+			{
+				"label": "Peso",
+				"value": "560g"
+			}
+		]
+	}
+]

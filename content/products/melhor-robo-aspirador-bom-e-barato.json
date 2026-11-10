@@ -1,0 +1,398 @@
+[
+	{
+		"id": "philco-pas26p",
+		"name": "Philco PAS26P",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de pó de 610mL e de água de 200mL",
+			"Varre, aspira e passa pano com retorno automático à base",
+			"Sensores antiqueda e antiobstáculos com filtro Hepa",
+			"Autonomia de 1 hora e 50 minutos com potência de 35W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "610mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "1 hora e 50 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; sensores antiqueda e antiobstáculos; escovas laterais; filtro Hepa; reservatório de água de 200mL; retorno automático para a base"
+			},
+			{
+				"label": "Potência",
+				"value": "35W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8 x 31,6 x 34,9cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb30",
+		"name": "Electrolux ERB30",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2 horas e 20 minutos com 7cm de altura",
+			"Dupla escova e design slim",
+			"Filtro Hepa Allergy Protect e pano de microfibra",
+			"Base de carregamento e controle remoto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "310mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; sensor antiqueda; dupla escova; design slim; pano de microfibra; pincel; filtro Hepa Allergy Protect"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 29 x 29cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb11",
+		"name": "Electrolux ERB11",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função MOP e limpeza em Zig-Zag com 7cm de altura",
+			"Escovas laterais duplas e sensor antiqueda",
+			"Baixo nível de ruído e rodas anticolisão",
+			"Compatível com pisos frios, madeira, laminados e tapetes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "220mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano em Zig-Zag"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "varre, aspira e passa pano; filtro HEPA Allergy Protect; escovas laterais duplas; sensor antiqueda; função MOP; rodas com acabamento emborrachado anticolisão; baixo nível de ruído; compatível com pisos frios, madeira, laminados e tapetes"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 29 x 29cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wap-robot-w90",
+		"name": "WAP Robot W90",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Escova giratória lavável e mop de microfibra lavável",
+			"Modos aleatório, cantos e espiral com 8cm de altura",
+			"Sensores antiqueda e de impacto",
+			"Compatível com pisos frios, carpetes e tapetes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "250mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "1 hora e 40 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "4 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aleatório, cantos e espiral"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "varre, aspira e passa pano; escova giratória lavável; mop em microfibra lavável; sensor antiqueda; sensor de impacto; rodas emborrachadas; compatível com pisos frios, carpetes e tapetes"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8 x 28,5 x 27cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wap-robot-w100",
+		"name": "WAP Robot W100",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 7,5cm com escovas giratórias de grande alcance",
+			"Funcionamento silencioso e indicado para pelos e cabelos",
+			"Bordas amortecedoras e sensores antiqueda e de impacto",
+			"Mop de microfibra lavável e modos aleatório, cantos e espiral"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7,5cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "250mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "1 hora e 40 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aleatório, cantos e espiral"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "varre, aspira e passa pano; mop em microfibra lavável; escovas giratórias de grande alcance; rodas emborrachadas; bordas amortecedoras; sensor antiqueda; sensor de impacto; funcionamento silencioso; ideal para pelos e cabelos; compatível com pisos frios, carpetes e tapetes"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7,5 x 27,5 x 27,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb10",
+		"name": "Electrolux ERB10",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Design ultra slim com 7cm de altura",
+			"Filtro HEPA Allergy Protect e dupla escova",
+			"Autonomia de 2 horas e 20 minutos",
+			"Pano de microfibra e pincel incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "200mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "filtro HEPA allergy protect; sensor antiqueda; dupla escova; design ultra slim; pano de microfibra; pincel"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 29 x 29cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb20",
+		"name": "Electrolux ERB20",
+		"image": "/images/posts/melhor-robo-aspirador-bom-e-barato-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto e função MOP",
+			"Escovas para cantos e design slim de 7cm",
+			"Filtro Hepa e reservatório de pó de 220mL",
+			"Sensor antiqueda e pano de microfibra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "220mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; sensor antiqueda; escovas para cantos; design slim; pano de microfibra; pincel para limpeza; filtro Hepa; função MOP"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 29 x 29cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

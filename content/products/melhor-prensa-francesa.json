@@ -1,0 +1,246 @@
+[
+	{
+		"id": "bialetti-0006186-1-litro",
+		"name": "Bialetti 0006186 1 litro",
+		"image": "/images/posts/melhor-prensa-francesa-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro para servir várias xícaras",
+			"Filtro permanente de metal sem uso de papel",
+			"Copo de vidro borossilicato, material resistente ao calor",
+			"Peso de 450 g para uma base estável na mesa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Material",
+				"value": "copo de vidro borossilicato e partes em ABS"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro permanente em metal"
+			},
+			{
+				"label": "Peso",
+				"value": "450g"
+			}
+		]
+	},
+	{
+		"id": "stanley-08103-900ml",
+		"name": "Stanley 08103 900mL",
+		"image": "/images/posts/melhor-prensa-francesa-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de aço inox 18/8, sem vidro para quebrar",
+			"Filtro permanente em aço inox",
+			"Compatível com lava-louças para limpeza prática",
+			"Capacidade de 900 mL para servir mais pessoas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "900mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro permanente em aço inox"
+			},
+			{
+				"label": "Compatível com lava louças",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "427g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-06860-350ml",
+		"name": "Bialetti 06860 350mL",
+		"image": "/images/posts/melhor-prensa-francesa-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro de malha fina de aço inox",
+			"Compatível com lava-louças",
+			"Corpo de aço inox 18/10 polido com cabo de nylon",
+			"Capacidade de 350 mL para uma ou duas xícaras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "350mL"
+			},
+			{
+				"label": "Material",
+				"value": "copo de vidro borossilicato, corpo em aço inox 18/10 polido e cabo em nylon"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro em malha fina de aço inox"
+			},
+			{
+				"label": "Compatível com lava louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 14,8 x 14,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-10401101-350ml",
+		"name": "Bialetti 10401101 350mL",
+		"image": "/images/posts/melhor-prensa-francesa-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 240 g, o mais leve da linha",
+			"Filtro de metal para a infusão do café",
+			"Copo de vidro borossilicato com partes em ABS",
+			"Capacidade de 350 mL para preparos individuais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "350mL"
+			},
+			{
+				"label": "Material",
+				"value": "copo de vidro borossilicato e partes em ABS"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro de metal"
+			},
+			{
+				"label": "Peso",
+				"value": "240g"
+			}
+		]
+	},
+	{
+		"id": "doaf-fc0756-600ml",
+		"name": "Doaf FC0756 600mL",
+		"image": "/images/posts/melhor-prensa-francesa-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro de aço inox para a infusão",
+			"Capacidade de 600 mL para servir várias xícaras",
+			"Combina vidro, aço inox e plástico no conjunto",
+			"Altura de 20 cm, compacta para a bancada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Material",
+				"value": "vidro, aço inox e plástico"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro em aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 7,5 x 14,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "600g"
+			}
+		]
+	},
+	{
+		"id": "wolff-29158-600ml",
+		"name": "WOLFF 29158 600mL",
+		"image": "/images/posts/melhor-prensa-francesa-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bambu no acabamento, com vidro borossilicato",
+			"Filtro permanente que dispensa papel",
+			"Capacidade de 600 mL",
+			"Dimensões compactas de 18,5 cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Material",
+				"value": "vidro borossilicato e bambu"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,5 x 8,8 x 12cm"
+			}
+		]
+	},
+	{
+		"id": "icoffee-7010-700ml",
+		"name": "iCoffee 7010 700mL",
+		"image": "/images/posts/melhor-prensa-francesa-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro permanente com camadas ajustáveis para regular a infusão",
+			"Corpo em aço inox 18/10, sem vidro",
+			"Capacidade de 700 mL",
+			"Peso de 620 g para uma base estável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "700mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/10"
+			},
+			{
+				"label": "Prensa / filtro",
+				"value": "filtro permanente com camadas ajustáveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 9 x 16cm"
+			},
+			{
+				"label": "Peso",
+				"value": "620g"
+			}
+		]
+	}
+]

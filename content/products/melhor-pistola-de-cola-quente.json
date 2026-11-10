@@ -1,0 +1,348 @@
+[
+	{
+		"id": "artepunto-fl-008a-55w",
+		"name": "Artepunto FL-008A 55W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 55W com bico protetor",
+			"Botão liga/desliga para acionar rapidamente",
+			"Cabo de 1,8m para maior alcance",
+			"Tensão bivolt e bastão de 7mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "7mm"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "bico protetor"
+			},
+			{
+				"label": "Acionamento",
+				"value": "botão liga/desliga"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8m"
+			}
+		]
+	},
+	{
+		"id": "hikari-hpc-280-280w",
+		"name": "Hikari HPC-280 280W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 280W e bastão de 11,5mm",
+			"Gatilho mecânico anatômico no acionamento",
+			"Protetor de silicone no bico aplicador",
+			"Temperatura de trabalho entre 150°C e 190°C",
+			"Aquece em 5 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "280W"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "11,5mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "5min"
+			},
+			{
+				"label": "Temperatura de trabalho",
+				"value": "150°C a 190°C"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "com protetor de silicone"
+			},
+			{
+				"label": "Acionamento",
+				"value": "gatilho mecânico anatômico"
+			}
+		]
+	},
+	{
+		"id": "vonder-pcv0018-100w",
+		"name": "Vonder PCV0018 100W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatível com papel, plástico, madeira e cerâmica",
+			"Temperatura de trabalho de 220°C ± 10°C",
+			"Bastão de 12mm e 100W de potência",
+			"Cabo de 1,4m e peso de 335g",
+			"Bico com protetor e gatilho mecânico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "12mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "5min"
+			},
+			{
+				"label": "Temperatura de trabalho",
+				"value": "220°C ± 10°C"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "com protetor"
+			},
+			{
+				"label": "Acionamento",
+				"value": "gatilho mecânico"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,4m"
+			},
+			{
+				"label": "Compatibilidade dos bastões",
+				"value": "papel, plástico, madeira e cerâmica"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "335g"
+			}
+		]
+	},
+	{
+		"id": "mimo-professional-glue-gun-20w",
+		"name": "Mimo Professional Glue Gun 20W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece em apenas 2 minutos",
+			"Vazão de cola de 20g/min",
+			"Cabo de 2m, o mais longo da lista",
+			"Bico com protetor e gatilho mecânico",
+			"Compatível com bastões de papel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "20W"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "7,5mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "2min"
+			},
+			{
+				"label": "Vazão de cola",
+				"value": "20g/min"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "com protetor"
+			},
+			{
+				"label": "Acionamento",
+				"value": "gatilho mecânico"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2m"
+			},
+			{
+				"label": "Compatibilidade dos bastões",
+				"value": "papel"
+			}
+		]
+	},
+	{
+		"id": "vonder-pcv0007-20w",
+		"name": "Vonder PCV0007 20W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura de trabalho de 170°C ± 10°C",
+			"Compatível com papel, plástico, madeira e cerâmica",
+			"Bastão de 8mm e aquecimento em 5 minutos",
+			"Cabo de 1,4m com bico protetor",
+			"Peso aproximado de 200g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "20W"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "8mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "5min"
+			},
+			{
+				"label": "Temperatura de trabalho",
+				"value": "170°C ± 10°C"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "com protetor"
+			},
+			{
+				"label": "Acionamento",
+				"value": "gatilho mecânico"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,4m"
+			},
+			{
+				"label": "Compatibilidade dos bastões",
+				"value": "papel, plástico, madeira e cerâmica"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "200g"
+			}
+		]
+	},
+	{
+		"id": "eda-4gq-10w",
+		"name": "Eda 4GQ 10W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 10W, a mais baixa da lista",
+			"Aquece em 5 minutos com bastão de 11,2mm",
+			"Compatível com papel, plástico e cerâmica",
+			"Tensão bivolt para uso em 127V ou 220V",
+			"Peso aproximado de 142g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "10W"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "11,2mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "5min"
+			},
+			{
+				"label": "Compatibilidade dos bastões",
+				"value": "papel, plástico e cerâmica"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "142g"
+			}
+		]
+	},
+	{
+		"id": "luatek-21v-recarregavel-100w",
+		"name": "Luatek 21V Recarregável 100W",
+		"image": "/images/posts/melhor-pistola-de-cola-quente-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 100W e aquecimento em 3 minutos",
+			"Temperatura de trabalho de até 170°C",
+			"Bico com proteção emborrachada",
+			"Compatível com bastões de papel e plástico",
+			"Bastão de 11mm e peso aproximado de 1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			},
+			{
+				"label": "Diâmetro do bastão",
+				"value": "11mm"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "3min"
+			},
+			{
+				"label": "Temperatura de trabalho",
+				"value": "até 170°C"
+			},
+			{
+				"label": "Bico aplicador",
+				"value": "com proteção emborrachada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "gatilho mecânico"
+			},
+			{
+				"label": "Compatibilidade dos bastões",
+				"value": "papel e plástico"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1kg"
+			}
+		]
+	}
+]

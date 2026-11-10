@@ -1,0 +1,422 @@
+[
+	{
+		"id": "wap-flow-turbo-fw009220-1-180w-coluna",
+		"name": "WAP Flow Turbo FW009220/1 180W (coluna)",
+		"image": "/images/posts/melhor-ventilador-50cm-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Silent Flow com 180W de potência",
+			"Altura ajustável de até 1,5 metro",
+			"Oscilação horizontal de até 90° e inclinação de até 45°",
+			"Hélice de 8 pás com 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow; oscilação horizontal de até 90°; ajuste de altura de até 1,5 metro; inclinação de até 45°"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "arno-xtreme-force-breeze-vb50-126w-mesa",
+		"name": "Arno Xtreme Force Breeze VB50 126W (mesa)",
+		"image": "/images/posts/melhor-ventilador-50cm-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos Potência Extrema, Eco Fresh e Sono Tranquilo",
+			"Grade Chevron Zone e grade frontal removível",
+			"Oscilação horizontal de 80° e quatro inclinações verticais",
+			"Base desmontável com alça traseira para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Power Zone; grade Chevron Zone; modos Potência Extrema, Eco Fresh e Sono Tranquilo; oscilação horizontal de 80°; 4 inclinações verticais; grade frontal removível; base desmontável; alça traseira para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66 x 56 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			}
+		]
+	},
+	{
+		"id": "wap-flow-turbo-fw009218-180w-mesa-e-parede",
+		"name": "WAP Flow Turbo FW009218 180W (mesa e parede)",
+		"image": "/images/posts/melhor-ventilador-50cm-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso 2 em 1, sobre a mesa ou fixado na parede",
+			"Tecnologia Silent Flow com 180W de potência",
+			"Oscilação horizontal de até 90° e inclinação de até 45°",
+			"Oito pás e 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa e parede"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow; uso 2 em 1 sobre mesa ou fixado na parede; oscilação horizontal de até 90°; inclinação de até 45°"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 50 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6p-3852-135w-coluna",
+		"name": "Ventisol Turbo 6P 3852 135W (coluna)",
+		"image": "/images/posts/melhor-ventilador-50cm-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor turbo com fusível térmico de proteção",
+			"Altura regulável de 115 cm a 136 cm",
+			"Oscilação horizontal automática que pode ser desativada",
+			"Base redonda de alta estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade Wind-line; motor turbo; fusível térmico para proteção do motor; oscilação horizontal automática que pode ser desativada; regulagem de altura de 115cm a 136cm; inclinação regulável manual; base redonda de alta estabilidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "136 x 50 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,015kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-11422-135w-parede",
+		"name": "Ventisol 11422 135W (parede)",
+		"image": "/images/posts/melhor-ventilador-50cm-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fixação na parede com motor turbo de 135W",
+			"Fusível térmico para proteção do motor",
+			"Oscilação horizontal automática e inclinação manual",
+			"Chave de controle pré-instalada com ajuste de velocidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade plástica Wind-line; motor turbo; fusível térmico; oscilação horizontal automática; inclinação regulável manual; chave de controle pré-instalada com ajuste de velocidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52 x 52 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,990kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6p-4259-135w-mesa",
+		"name": "Ventisol Turbo 6P 4259 135W (mesa)",
+		"image": "/images/posts/melhor-ventilador-50cm-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor turbo de 135W com 6 pás",
+			"Fusível térmico para proteger o motor",
+			"Oscilação horizontal automática que pode ser desativada",
+			"Grade Wind-line e inclinação regulável manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade Wind-line; motor turbo; fusível térmico; oscilação horizontal automática que pode ser desativada; inclinação regulável manual"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64 x 53 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-50-8p-150w-mesa",
+		"name": "Mondial VTX-50-8P 150W (mesa)",
+		"image": "/images/posts/melhor-ventilador-50cm-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Turbo com baixo nível de ruído",
+			"Grades e hélice removíveis para limpeza",
+			"Alça de transporte e porta-fio",
+			"Controle de velocidade com oscilação horizontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; oscilação horizontal; grades e hélice removíveis; alça de transporte; porta-fio; controle de velocidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,5 x 54 x 33,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			}
+		]
+	}
+]

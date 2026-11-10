@@ -1,0 +1,302 @@
+[
+	{
+		"id": "gokoco-gd029-1600w",
+		"name": "GOKOCO GD029 1600W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas velocidades e três temperaturas",
+			"Modo de ar circulante além das temperaturas",
+			"Jato de ar frio e bocal magnético incluso",
+			"Cabo de 1,6 metro e peso de 0,408kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 1600W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas + modo de ar circulante"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de ar magnético"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,6 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,408kg"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-eolic-travel-1600w",
+		"name": "GA.MA ITALY Eolic Travel 1600W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W em tensão bivolt",
+			"Duas velocidades e duas temperaturas",
+			"Bico direcionador de ar incluso",
+			"Cabo de 1,60 metro e peso de 0,384kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,60 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,384kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-max-travel-sc-10-1200w",
+		"name": "Mondial Max Travel SC-10 1200W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio para finalizar o cabelo",
+			"Potência de 1200W em tensão bivolt",
+			"Bocal direcionador de ar incluso",
+			"Cabo de 1,50 metro e peso de 0,345kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,50 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,345kg"
+			}
+		]
+	},
+	{
+		"id": "philco-travel-shine-1000w",
+		"name": "Philco Travel Shine 1000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 1,80 metro, o segundo maior da lista",
+			"Bocal concentrador incluso",
+			"Bivolt com duas velocidades e duas temperaturas",
+			"Peso de 0,29kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V) ou 2750W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,29kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-golden-rose-sc-47-gr-1200w",
+		"name": "Mondial Golden Rose SC-47-GR 1200W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W em tensão bivolt",
+			"Concentrador de ar incluso",
+			"Cabo de 1,50 metro",
+			"Peso de 0,30kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,50 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,30kg"
+			}
+		]
+	},
+	{
+		"id": "philco-titanium-travel-1000w",
+		"name": "Philco Titanium Travel 1000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 1,90 metro, o maior da lista",
+			"Concentrador de ar incluso",
+			"Bivolt com potência de 1000W em 127V",
+			"Peso de 0,35kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V) ou 750W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,90 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,35kg"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd033-1400w",
+		"name": "GOKOCO GD033 1400W",
+		"image": "/images/posts/melhor-secador-de-cabelo-para-viagem-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio para finalizar o penteado",
+			"Duas velocidades e quatro temperaturas",
+			"Bocal magnético removível incluso",
+			"Potência de 1300W com cabo de 1,50 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal magnético removível"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,50 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,770kg"
+			}
+		]
+	}
+]

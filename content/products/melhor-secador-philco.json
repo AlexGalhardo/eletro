@@ -1,0 +1,334 @@
+[
+	{
+		"id": "philco-psd16a-1450w",
+		"name": "Philco PSD16A 1450W",
+		"image": "/images/posts/melhor-secador-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1450W com tecnologia Tourmaline Íons",
+			"Três velocidades e quatro temperaturas",
+			"Seis acessórios, incluindo cacheadores e escova raquete",
+			"Função Fast Dry com jato de ar frio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons; multicerdas; Fast Dry"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador; difusor; escova raquete; escova oval; cacheador direito; cacheador esquerdo"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,95kg"
+			}
+		]
+	},
+	{
+		"id": "philco-ph3700-2100w",
+		"name": "Philco PH3700 2100W",
+		"image": "/images/posts/melhor-secador-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W com tecnologia Tourmaline Íons",
+			"Duas velocidades e três temperaturas",
+			"Jato de ar frio e cabo de 1,9 metro",
+			"Peso de 0,60 kg com concentrador e difusor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador; difusor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,60kg"
+			}
+		]
+	},
+	{
+		"id": "philco-psc3500-1450w",
+		"name": "Philco PSC3500 1450W",
+		"image": "/images/posts/melhor-secador-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento de cerâmica e multicerdas",
+			"Três velocidades e três temperaturas",
+			"Escovas oval e raquete e cacheadores inclusos",
+			"Potência de 1450W com jato de ar frio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons; cerâmica; multicerdas"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova secadora oval; escova secadora raquete; bocal concentrador; cacheadores"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,88kg"
+			}
+		]
+	},
+	{
+		"id": "philco-psc2300-2200w",
+		"name": "Philco PSC2300 2200W",
+		"image": "/images/posts/melhor-secador-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W com tecnologia Tourmaline Íons",
+			"Voltagem bivolt com cabo de 1,9 metro",
+			"Jato de ar frio e bocal concentrador",
+			"Peso de 0,62 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,62kg"
+			}
+		]
+	},
+	{
+		"id": "philco-psa3250-2100w",
+		"name": "Philco PSA3250 2100W",
+		"image": "/images/posts/melhor-secador-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Tourmaline Íons com jato de ar frio",
+			"Duas velocidades e três temperaturas",
+			"Bocal concentrador e cabo de 1,8 metro",
+			"Peso de 0,72 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,72kg"
+			}
+		]
+	},
+	{
+		"id": "philco-titanium-travel-750w-1000w",
+		"name": "Philco Titanium Travel 750W/1000W",
+		"image": "/images/posts/melhor-secador-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de 0,35 kg, o mais leve da lista",
+			"Tecnologia Tourmaline Íons e voltagem bivolt",
+			"Duas velocidades e duas temperaturas",
+			"Bocal concentrador e cabo de 1,9 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V) ou 750W (220V)"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,35kg"
+			}
+		]
+	},
+	{
+		"id": "philco-psc2350-2200w",
+		"name": "Philco PSC2350 2200W",
+		"image": "/images/posts/melhor-secador-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W com tecnologia Tourmaline Íons",
+			"Jato de ar frio e três temperaturas",
+			"Bocal concentrador e difusor inclusos",
+			"Voltagem bivolt e cabo de 1,9 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador; difusor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,63kg"
+			}
+		]
+	}
+]

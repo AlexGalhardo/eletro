@@ -1,0 +1,365 @@
+[
+	{
+		"id": "wap-air-silence-70w-torre",
+		"name": "WAP Air Silence 70W (torre)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 70W com quatro velocidades",
+			"Timer de até 15 horas para programar o desligamento",
+			"Formato torre com 103cm de altura",
+			"Peso de 3,7kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torre"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "—"
+			},
+			{
+				"label": "Velocidades",
+				"value": "4 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "15 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 30 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mallory-max-control-140w-coluna",
+		"name": "Mallory Max Control 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 140W, a maior da lista",
+			"Hélice com 15 pás para circulação de ar",
+			"Timer de 7 horas e três velocidades",
+			"Grade de 50cm e hélice de 40cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "15"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Timer",
+				"value": "7 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm (grade); 40cm (hélice)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mallory-air-timer-ts-126w-coluna",
+		"name": "Mallory Air Timer TS+ 126W (coluna)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis pás e três níveis de velocidade",
+			"Grade de 40cm com 126W de potência",
+			"Estrutura em coluna de 130cm de altura",
+			"Peso de 6,3kg e dimensões de 130 x 39 x 48cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "7 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm (grade)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "ventisol-aires-inverter-30w-teto",
+		"name": "Ventisol Aires Inverter 30W (teto)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de teto com 105cm de diâmetro",
+			"Potência de 30W no modelo Inverter",
+			"Seis níveis de velocidade e timer de 4 horas",
+			"Alimentação bivolt segundo a ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "teto"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "4 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "105cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,5 x 19 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mallory-chronos-126w-coluna",
+		"name": "Mallory Chronos 126W (coluna)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis pás com 126W de potência",
+			"Timer de 7 horas e três níveis de velocidade",
+			"Peso de 5,75kg e altura de 130cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "7 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm (grade); 40cm (hélice)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-eole-ultra-neo2-38w-torre",
+		"name": "Arno Eole Ultra NEO2 38W (torre)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 38W em três níveis de velocidade",
+			"Timer de 7 horas no modelo torre",
+			"Formato torre com 102,8cm de altura",
+			"Peso de 3,5kg e base de 30 x 30cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torre"
+			},
+			{
+				"label": "Potência",
+				"value": "38W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "—"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "7 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "102,8 x 30 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-vtb180a3-33w-torre",
+		"name": "Midea VTB180A3 33W (torre)",
+		"image": "/images/posts/melhor-ventilador-com-controle-remoto-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dez níveis de velocidade, o maior da lista",
+			"Timer de 12 horas para programar o desligamento",
+			"Formato torre de 106,2cm com 33W",
+			"Alimentação bivolt com peso de 5,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torre"
+			},
+			{
+				"label": "Potência",
+				"value": "33W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "—"
+			},
+			{
+				"label": "Velocidades",
+				"value": "10 níveis"
+			},
+			{
+				"label": "Timer",
+				"value": "12 horas"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "106,2 x 25,5 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	}
+]

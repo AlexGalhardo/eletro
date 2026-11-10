@@ -1,0 +1,349 @@
+[
+	{
+		"id": "vonder-scv427-gasolina-1-7hp",
+		"name": "Vonder SCV427 (gasolina) 1,7HP",
+		"image": "/images/posts/melhor-soprador-de-folhas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade do ar de 260km/h",
+			"Vazão de ar de até 720m³/h",
+			"Três tubos para soprador inclusos",
+			"Dois níveis de velocidade",
+			"Frasco para mistura de combustível incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina"
+			},
+			{
+				"label": "Potência",
+				"value": "1,7HP"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 7000/min"
+			},
+			{
+				"label": "Velocidade do ar",
+				"value": "260km/h"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "0 – 720m³/h"
+			},
+			{
+				"label": "Níveis de velocidade",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 tubos para soprador; 1 frasco para mistura de combustível; 1 chave de vela"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			}
+		]
+	},
+	{
+		"id": "carbon-fak-fak260s-gasolina-0-9hp",
+		"name": "Carbon Fak FAK260S (gasolina) 0,9HP",
+		"image": "/images/posts/melhor-soprador-de-folhas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade do ar de 280km/h",
+			"Rotação de até 7500/min",
+			"Dois níveis de velocidade",
+			"Misturador de combustível e funil inclusos",
+			"Chave de vela e chave Allen inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "gasolina"
+			},
+			{
+				"label": "Potência",
+				"value": "0,9HP"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 7500/min"
+			},
+			{
+				"label": "Velocidade do ar",
+				"value": "280km/h"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "470m³"
+			},
+			{
+				"label": "Níveis de velocidade",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "misturador de combustível; funil; chave de vela; chave Allen"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 26 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,3kg"
+			}
+		]
+	},
+	{
+		"id": "tekna-b2000e1-eletrico-2000w",
+		"name": "Tekna B2000E1 (elétrico) 2000W",
+		"image": "/images/posts/melhor-soprador-de-folhas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade do ar de 360km/h, a maior da lista",
+			"Potência de 2000W",
+			"Rotação de até 13.500/min",
+			"Tubo extensor incluso",
+			"Peso do produto de 1,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico (127V)"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 13.500/min"
+			},
+			{
+				"label": "Velocidade do ar",
+				"value": "360km/h"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "0 – 660m³/h"
+			},
+			{
+				"label": "Níveis de velocidade",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 tubo extensor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 25 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			}
+		]
+	},
+	{
+		"id": "philco-psa1000-eletrico-830w",
+		"name": "Philco PSA1000 (elétrico) 830W",
+		"image": "/images/posts/melhor-soprador-de-folhas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis níveis de velocidade, o maior número da lista",
+			"Rotação de até 16.000/min",
+			"Tubo extensor, ponteira e bocal de sucção incluídos",
+			"Saco coletor incluso",
+			"Peso do produto de 1,67kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico (127V ou 220V)"
+			},
+			{
+				"label": "Potência",
+				"value": "830W"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 16.000/min"
+			},
+			{
+				"label": "Velocidade do ar",
+				"value": "275km/h"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "0 – 4,41m³"
+			},
+			{
+				"label": "Níveis de velocidade",
+				"value": "6"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 tubo extensor; 1 ponteira; bocal de sucção e aspiração; saco coletor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,7 x 18 x 17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,67kg"
+			}
+		]
+	},
+	{
+		"id": "garthen-gsf-2000-eletrico-2000w",
+		"name": "Garthen GSF-2000 (elétrico) 2000W",
+		"image": "/images/posts/melhor-soprador-de-folhas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W",
+			"Rotação de até 14.000/min",
+			"Vazão de ar de até 660m³/h",
+			"Tubo extensor incluso",
+			"Velocidade do ar de 250km/h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico (127V ou 220V)"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 14.000/min"
+			},
+			{
+				"label": "Velocidade do ar",
+				"value": "250km/h"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "0 – 660m³/h"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo extensor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 27 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			}
+		]
+	},
+	{
+		"id": "black-tools-tcb21b-bateria-21v",
+		"name": "Black Tools TCB21B (bateria) 21V",
+		"image": "/images/posts/melhor-soprador-de-folhas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona a bateria de 21V, sem tomada",
+			"Três níveis de velocidade",
+			"Rotação de até 19.000/min",
+			"Carregador bivolt incluso",
+			"Bico de ar direto incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "bateria (21V)"
+			},
+			{
+				"label": "Potência",
+				"value": "3000mAh"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 19.000/min"
+			},
+			{
+				"label": "Níveis de velocidade",
+				"value": "3"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "carregador bivolt; bico de ar direto"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17 x 22 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gbl800-eletrico-800w",
+		"name": "Bosch GBL800 (elétrico) 800W",
+		"image": "/images/posts/melhor-soprador-de-folhas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rotação de até 16.000/min",
+			"Vazão de ar de 4,5m³/min",
+			"Bico de borracha incluso",
+			"Saco coletor incluso",
+			"Dimensões de 21,5 x 50cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico (220V)"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Rotação (rpm)",
+				"value": "0 – 16.000/min"
+			},
+			{
+				"label": "Vazão de ar",
+				"value": "4,5m³/min"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico de borracha; saco coletor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,25kg"
+			}
+		]
+	}
+]

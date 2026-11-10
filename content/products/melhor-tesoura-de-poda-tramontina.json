@@ -1,0 +1,302 @@
+[
+	{
+		"id": "tramontina-78366-505",
+		"name": "Tramontina 78366/505",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corta galhos de até 35 mm com sistema anvil",
+			"Lâmina de aço carbono temperado para cortes firmes",
+			"Cabo de metal para uso mais robusto",
+			"Comprimento de 66 cm para alcançar ramos altos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "anvil (tipo “bigorna”)"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 35mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "metal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 27,5 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,826kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78362-505",
+		"name": "Tramontina 78362/505",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema bypass de lâminas cruzadas para corte limpo",
+			"Corta galhos de até 30 mm",
+			"Cabo de metal com lâmina de aço carbono temperado",
+			"Peso de 1,349 kg com boa estabilidade na mão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (lâminas cruzadas)"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 30mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "metal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "2,9 x 22,8 x 75,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,349kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78304-511",
+		"name": "Tramontina 78304/511",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 231 g para podas leves e frequentes",
+			"Corta ramos de até 17 mm",
+			"Cabo de plástico que mantém a ferramenta leve",
+			"Sistema bypass para corte limpo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (lâminas cruzadas)"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 17mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3 x 6 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "231g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78316-501",
+		"name": "Tramontina 78316/501",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de alumínio emborrachado para pegada mais firme",
+			"Corta ramos de até 20 mm",
+			"Peso de 226 g com lâmina de aço carbono temperado",
+			"Sistema bypass de lâminas cruzadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (lâminas cruzadas)"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 20mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "alumínio com material emborrachado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "2 x 5,7 x 20,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "226g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78330-125",
+		"name": "Tramontina 78330/125",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço carbono especial com sistema bypass",
+			"Cabo de madeira com acabamento natural",
+			"Comprimento de 48,2 cm para alcançar galhos mais altos",
+			"Peso de 580 g com lâmina robusta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (lâminas cruzadas)"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono especial"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "madeira"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,8 x 15,6 x 48,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "580g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78300-001",
+		"name": "Tramontina 78300/001",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mais leve da linha, com apenas 109 g",
+			"Corta ramos de até 17 mm",
+			"Dimensões compactas, de 17,8 cm, para guardar com facilidade",
+			"Sistema bypass de lâminas cruzadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "bypass (lâminas cruzadas)"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 17mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1,6 x 6,2 x 17,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "109g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-78316-520",
+		"name": "Tramontina 78316/520",
+		"image": "/images/posts/melhor-tesoura-de-poda-tramontina-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corta ramos finos de até 7 mm",
+			"Cabo de alumínio emborrachado para pegada firme",
+			"Peso de 174 g para uso prolongado",
+			"Lâmina de aço carbono temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Diâmetro máximo de corte",
+				"value": "até 7mm"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço carbono temperado"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "alumínio com material emborrachado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "2 x 5,3 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "174g"
+			}
+		]
+	}
+]

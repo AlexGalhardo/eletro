@@ -1,0 +1,410 @@
+[
+	{
+		"id": "ventisol-power-70cm-4201-parede",
+		"name": "Ventisol Power 70cm 4201 (parede)",
+		"image": "/images/posts/melhor-ventilador-ventisol-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 70 cm e 230W de potência",
+			"Chave seletora 127V/220V",
+			"Protetor térmico e capa para resistência mecânica",
+			"Pino de trava reforçado e sistema oscilante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "230W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "70cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chave seletora 127V/220V (bivolt seletivo); protetor térmico no motor; capa para resistência mecânica; chave eletrônica de parede; sistema oscilante; pino de trava reforçado"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 50 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-premium-60cm-543-parede",
+		"name": "Ventisol Premium 60cm 543 (parede)",
+		"image": "/images/posts/melhor-ventilador-ventisol-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fusível térmico com desligamento automático",
+			"Chave eletrônica de parede e oscilação",
+			"Diâmetro de 60 cm e 200W",
+			"Chave seletora bivolt e 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "60cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chave seletora 127V/220V (bivolt seletivo); fusível térmico no motor com desligamento automático em caso de superaquecimento; chave eletrônica de parede; sistema oscilante"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 40 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6-50cm-coluna",
+		"name": "Ventisol Turbo 6 50cm (coluna)",
+		"image": "/images/posts/melhor-ventilador-ventisol-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor turbo com grade wind-line",
+			"Altura regulável de 115 cm a 136 cm",
+			"Oscilação horizontal automática que pode ser desativada",
+			"Fusível térmico para proteger o motor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "fusível térmico para proteção do motor; grade wind-line; motor turbo; oscilação horizontal automática que pode ser desativada; regulagem de altura de 115cm a 136cm; inclinação regulável manual"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "136 x 50 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-aires-inverter-14222-teto",
+		"name": "Ventisol Aires inverter 14222 (teto)",
+		"image": "/images/posts/melhor-ventilador-ventisol-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto com timer e função Wave",
+			"Tecnologia Ecoblend e Easy Plug",
+			"Seis velocidades e bivolt automático",
+			"Compatível com duas lâmpadas E27 de até 20W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "teto"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "105cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 + função Wave"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "—"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "bivolt automático; função Wave; timer; Easy Plug; tecnologia Ecoblend; compatível com duas lâmpadas E27 até 20W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,5 x 19 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,1kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-fenix-inverter-14218-teto",
+		"name": "Ventisol Fênix Inverter 14218 (teto)",
+		"image": "/images/posts/melhor-ventilador-ventisol-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função iluminação integrada",
+			"Modo exaustão e ventilação",
+			"Chave CV3 para comando",
+			"Potência de 130W com 3 pás"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "teto"
+			},
+			{
+				"label": "Potência",
+				"value": "130W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Velocidades",
+				"value": "variável (modo exaustão e ventilação)"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "—"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função iluminação; chave CV3"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6-30cm-coluna",
+		"name": "Ventisol Turbo 6 30cm (coluna)",
+		"image": "/images/posts/melhor-ventilador-ventisol-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor turbo e grade wind-line",
+			"Oscilação horizontal automática",
+			"Fusível térmico no motor",
+			"Diâmetro de 30 cm em 2,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "52W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "fusível térmico no motor; grade wind-line; motor turbo; oscilação horizontal automática"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,5 x 21,5 x 40,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-vop-50cm-new-parede",
+		"name": "Ventisol Vop 50cm New (parede)",
+		"image": "/images/posts/melhor-ventilador-ventisol-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grade protetora Turbo Line",
+			"Fusível térmico e oscilação horizontal automática",
+			"Diâmetro de 50 cm e 130W",
+			"Peso de 2,4kg e 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "130W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "fusível térmico no motor; oscilação horizontal automática; grade protetora Turbo Line"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,5 x 14,5 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,271 @@
+[
+	{
+		"id": "bohemia-crystal-xtra-6-tacas-460ml",
+		"name": "Bohemia Crystal Xtra (6 taças 460mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 460mL por taça",
+			"Cristal ecológico com titânio",
+			"Acabamento liso e compatível com lava-louças",
+			"Altura de 23,7cm e diâmetro de 7cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal ecológico com titânio"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "460mL"
+			},
+			{
+				"label": "Acabamento",
+				"value": "liso"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "23,7 x 7cm"
+			}
+		]
+	},
+	{
+		"id": "wolff-35711-6-tacas-400ml",
+		"name": "WOLFF 35711 (6 taças 400mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato tulipa com capacidade de 400mL",
+			"Cristal ecológico com acabamento liso",
+			"Altura de 23cm e diâmetro de 9cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal ecológico"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "400mL"
+			},
+			{
+				"label": "Formato da taça",
+				"value": "tulipa"
+			},
+			{
+				"label": "Acabamento",
+				"value": "liso"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "23 x 9cm"
+			}
+		]
+	},
+	{
+		"id": "bohemia-crystal-colibri-red-wine-glass-6-tacas-450ml",
+		"name": "Bohemia Crystal Colibri Red Wine Glass (6 taças 450mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 450mL por taça",
+			"Acabamento liso em cristal ecológico",
+			"Compatível com lava-louças",
+			"Altura de 23,5cm e diâmetro de 9cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal ecológico"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "450mL"
+			},
+			{
+				"label": "Acabamento",
+				"value": "liso"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "23,5 x 9cm"
+			}
+		]
+	},
+	{
+		"id": "bohemia-crystal-colibri-red-wine-glass-6-tacas-580ml",
+		"name": "Bohemia Crystal Colibri Red Wine Glass (6 taças 580mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade da lista, com 580mL",
+			"Formato bordeaux em cristal",
+			"Altura de 23cm e diâmetro de 7cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "580mL"
+			},
+			{
+				"label": "Formato da taça",
+				"value": "bordeaux"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "23 x 7cm"
+			}
+		]
+	},
+	{
+		"id": "bohemia-crystal-gastro-vino-6-tacas-350ml",
+		"name": "Bohemia Crystal Gastro Vino (6 taças 350mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 350mL por taça, a menor da lista",
+			"Cristal ecológico com titânio",
+			"Compatível com lava-louças",
+			"Altura de 20cm e diâmetro de 6,2cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal ecológico com titânio"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "350mL"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "20 x 6,2cm"
+			}
+		]
+	},
+	{
+		"id": "nadir-figueiredo-6-pecas-385ml",
+		"name": "Nadir Figueiredo (6 peças 385mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato barone em vidro",
+			"Capacidade de 385mL por taça",
+			"Altura de 21cm e diâmetro de 8,2cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "vidro"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "385mL"
+			},
+			{
+				"label": "Formato da taça",
+				"value": "barone"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "21 x 8,2cm"
+			}
+		]
+	},
+	{
+		"id": "bohemia-crystal-xtra-6-tacas-360ml",
+		"name": "Bohemia Crystal Xtra (6 taças 360mL)",
+		"image": "/images/posts/melhor-tacas-de-vinho-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cristal com titânio e capacidade de 360mL",
+			"Compatível com lava-louças",
+			"Altura de 23,1cm e diâmetro de 6,7cm",
+			"Seis taças por jogo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Quantidade de peças",
+				"value": "6 unidades"
+			},
+			{
+				"label": "Material",
+				"value": "cristal com titânio"
+			},
+			{
+				"label": "Capacidade por copo",
+				"value": "360mL"
+			},
+			{
+				"label": "Compatível com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões por peça (A x D)",
+				"value": "23,1 x 6,7cm"
+			}
+		]
+	}
+]

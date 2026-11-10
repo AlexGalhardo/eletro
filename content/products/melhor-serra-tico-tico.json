@@ -1,0 +1,417 @@
+[
+	{
+		"id": "dewalt-dwe300-650w",
+		"name": "Dewalt DWE300 650W",
+		"image": "/images/posts/melhor-serra-tico-tico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte em madeira de 130mm, a maior da lista",
+			"Velocidade variável de 6 níveis",
+			"Troca de lâmina sem chave",
+			"Inclinação de corte de 0° a 45°",
+			"Empunhadura emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "650W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "sim, 6 níveis"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "0 – 3200GPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "130mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "10mm"
+			},
+			{
+				"label": "Sistema de troca de lâmina",
+				"value": "sem chave (engate rápido)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "0° a 45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "manual de instruções"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gst-750-520w",
+		"name": "Bosch GST 750 520W",
+		"image": "/images/posts/melhor-serra-tico-tico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte em metal de 15mm, a maior da lista",
+			"Velocidade variável de 6 níveis",
+			"Troca de lâmina sem chave",
+			"Inclinação de corte de -45° a 45°",
+			"Sapata, proteção de farpas e proteção contra pó inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "520W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "sim, 6 níveis"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "800 – 3200CPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "75mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "15mm (aço)"
+			},
+			{
+				"label": "Sistema de troca de lâmina",
+				"value": "sem chave (engate rápido)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "-45° a 45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "1 lâmina para corte em madeira T 111C; 1 sapata; 1 proteção de farpas; 1 proteção contra pó"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,29kg"
+			}
+		]
+	},
+	{
+		"id": "wap-estt-550-550w",
+		"name": "WAP ESTT 550 550W",
+		"image": "/images/posts/melhor-serra-tico-tico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte em madeira de 55mm",
+			"Inclinação de corte de até 45º",
+			"Empunhadura emborrachada",
+			"Lâmina para madeira e chave allen inclusas",
+			"Peso do produto de 1,43kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "não"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "0 a 3000RPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "55mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "3mm (aço)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "até 45º"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "1 lâmina para madeira; 1 chave allen; porta-chave allen"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,43kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gst-680-500w",
+		"name": "Bosch GST 680 500W",
+		"image": "/images/posts/melhor-serra-tico-tico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade variável de 6 níveis",
+			"Capacidade de corte em madeira de 68mm",
+			"Inclinação de corte de -45° a 45°",
+			"Proteção anti-farpas inclusa",
+			"Empunhadura emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "sim, 6 níveis"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "800 – 3100RPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "68mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "3mm (aço)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "-45° a 45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "1 manual de instruções; 1 chave allen; 1 proteção anti-farpas; 1 lâmina de corte"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-ptt01-450w",
+		"name": "Philco PTT01 450W",
+		"image": "/images/posts/melhor-serra-tico-tico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Guia de corte incluída",
+			"Capacidade de corte em madeira de 55mm",
+			"Capacidade de corte em metal de 5mm",
+			"Inclinação de corte de 0° a 45°",
+			"Empunhadura emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "450W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "não"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "0 – 3000GPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "55mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "5mm (aço)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "0° a 45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "guia de corte"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,66kg"
+			}
+		]
+	},
+	{
+		"id": "wap-estt-800-800w",
+		"name": "WAP ESTT 800 800W",
+		"image": "/images/posts/melhor-serra-tico-tico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 800W, a maior da lista",
+			"Velocidade variável de 6 níveis",
+			"Troca de lâmina sem chave",
+			"Guia de corte paralela e bocal de aspiração",
+			"Capacidade de corte em madeira de 60mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "sim, 6 níveis"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "0 – 3000GPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "60mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "6mm (aço)"
+			},
+			{
+				"label": "Sistema de troca de lâmina",
+				"value": "sem chave (engate rápido)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "manual de instruções; chave allen; guia de corte paralela; bocal de aspiração"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "wesco-ws3772-850w",
+		"name": "Wesco WS3772 850W",
+		"image": "/images/posts/melhor-serra-tico-tico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de corte em madeira de 100mm",
+			"Velocidade variável de 6 níveis",
+			"Troca de lâmina sem chave",
+			"Duas lâminas para madeira e uma para metal",
+			"Conector para aspirador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "sim, 6 níveis"
+			},
+			{
+				"label": "Velocidade de corte",
+				"value": "800 – 3000GPM"
+			},
+			{
+				"label": "Capacidade de corte em madeira",
+				"value": "100mm"
+			},
+			{
+				"label": "Capacidade de corte em metal",
+				"value": "12mm (aço)"
+			},
+			{
+				"label": "Sistema de troca de lâmina",
+				"value": "sem chave (engate rápido)"
+			},
+			{
+				"label": "Inclinação de corte",
+				"value": "0 a 45°"
+			},
+			{
+				"label": "Empunhadura emborrachada",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios",
+				"value": "2 lâminas para madeira; 1 lâmina para metal; 1 guia para corte paralelo; 1 conector para aspirador; 1 chave hexagonal"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,422 @@
+[
+	{
+		"id": "mondial-vtx-40c-8p-cr-140w-coluna",
+		"name": "Mondial VTX-40C-8P-CR 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto para ajustar a velocidade",
+			"Tecnologia Super Turbo com baixo ruído",
+			"Coluna ajustável de 1,19 a 1,50 metro",
+			"Painel touch e inclinação vertical regulável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; coluna ajustável (1,19 a 1,50 metro); painel touch com controle de velocidade; alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40c-8p-140w-coluna",
+		"name": "Mondial VTX-40C-8P 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Turbo com baixo ruído",
+			"Coluna ajustável de 1,19 a 1,50 metro",
+			"Grades e hélice removíveis para limpeza",
+			"Porta-fio embutido e alça de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; coluna ajustável (1,19 a 1,50 metro); alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-40-b-140w-mesa",
+		"name": "Mondial VSP-40-B 140W (mesa)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Power com baixo ruído",
+			"Alça de transporte para mudar de lugar",
+			"Grades e hélice removíveis",
+			"Porta-fio embutido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Power; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 45 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-nvt-40c-8p-b-140w-coluna",
+		"name": "Mondial NVT-40C-8P-B 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Vento Turbo com baixo ruído",
+			"Coluna ajustável de 1,19 a 1,50 metro",
+			"Grade frontal e traseira removíveis",
+			"Sistema oscilante com botão para fixar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Vento Turbo; baixo nível de ruído; grade frontal/traseira e hélice removíveis; sistema oscilante horizontal com botão para fixar; coluna ajustável (1,19 a 1,50 metro); alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 48,5 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,9kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-40c-b-140w-coluna",
+		"name": "Mondial VSP-40C-B 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Power com baixo ruído",
+			"Coluna ajustável de 1,19 a 1,50 metro",
+			"Grades e hélice removíveis",
+			"Sistema oscilante com botão para fixar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Power; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; coluna ajustável (1,19 a 1,50 metro); alça de traseira; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 47,5 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40-8p-140w-mesa",
+		"name": "Mondial VTX-40-8P 140W (mesa)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Turbo com baixo ruído",
+			"Grades e hélice removíveis",
+			"Alça de transporte e porta-fio embutido",
+			"Sistema oscilante com botão para fixar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 49 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40p-8p-140w-parede",
+		"name": "Mondial VTX-40P-8P 140W (parede)",
+		"image": "/images/posts/melhor-ventilador-mondial-40cm-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Baixo nível de ruído",
+			"Grades e hélice removíveis",
+			"Sistema oscilante com botão para fixar",
+			"Porta-fio embutido e alça de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 45,5 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	}
+]

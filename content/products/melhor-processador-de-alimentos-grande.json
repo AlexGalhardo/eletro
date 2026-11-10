@@ -1,0 +1,377 @@
+[
+	{
+		"id": "philips-walita-hr7304-92-750w-1-5-litro",
+		"name": "Philips Walita HR7304/92 750W (1,5 litro)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois copos: liquidificador de 2 litros e processador de 1,5 litro",
+			"Funções de ralar, fatiar, moer e espremer",
+			"Batedor de massas e moedor de grãos inclusos",
+			"Trava de segurança e painel de botão giratório",
+			"Nove funções em um único aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 litros no liquidificador e 1,5 litro no processador"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + função pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, ralar, cortar, misturar, fatiar, moer, espremer, picar e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; jarra de processador; tampa; faca processadora; jarra de liquidificador; lâmina de ralar; lâmina de fatiar; moedor de grãos; espremedor; batedor de massas"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,7 x 19,4 x 21,2cm"
+			}
+		]
+	},
+	{
+		"id": "britania-bmp2000-1300w-2-1-litros",
+		"name": "Britânia BMP2000 1300W (2,1 litros)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Liquidificador de 3 litros e processador de 2,1 litros",
+			"Espremedor de frutas e lâminas de fatiar e ralar",
+			"Trava de segurança para uso mais seguro",
+			"Painel de botão giratório",
+			"Funções de picar, cortar e liquidificar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3 litros no liquidificador e 2,1 litros no processador"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + função pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, ralar, cortar, fatiar, espremer, picar e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; copo de liquidificador; jarra de multiprocessador; espremedor de frutas; adaptador de lâminas; lâmina de fatiar; lâmina de ralar; lâminas de processar"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,8 x 28,2 x 25cm"
+			}
+		]
+	},
+	{
+		"id": "mondial-mpn-01-bf-1000w-2-litros",
+		"name": "Mondial MPN-01-BF 1000W (2 litros)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Processador de 3,2 litros, o maior desta lista",
+			"Copo de liquidificador com filtro",
+			"Lâmina palitadora e emulsificador para receitas variadas",
+			"Velocidade turbo além dos 2 níveis",
+			"Trava de segurança e painel de botão giratório"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3 litros no liquidificador e 3,2 litros no processador"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + função turbo"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, ralar, cortar, fatiar, espremer, emulsificar, palitar, picar e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; copo de liquidificador + filtro; lâmina picadora; lâmina raladora; lâmina fatiadora; lâmina palitadora; espremedor; lâmina batedora; emulsificador"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 27,5 x 26cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pmp1600p-1700w-2-1-litros",
+		"name": "Philco PMP1600P 1700W (2,1 litros)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Liquidificador de 3,2 litros e processador de 2,1 litros",
+			"Pilão, batedor e disco emulsificador inclusos",
+			"Duas lâminas de processar e lâmina de fatiar",
+			"Jarra de plástico AS com trava de segurança",
+			"Espremedor de frutas e adaptador de lâminas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3,2 litros no liquidificador e 2,1 litros no processador"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + função pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, ralar, cortar, misturar, fatiar, espremer, emulsifica, picar e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; copo de liquidificador; jarra de multiprocessador; espremedor de frutas; adaptador de lâminas; lâmina de fatiar; lâmina de ralar; 2 lâminas de processar; batedor; disco emulsificador; pilão"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "plástico AS"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 29 x 27,5cm"
+			}
+		]
+	},
+	{
+		"id": "black-decker-mp300g-300w-2-litros",
+		"name": "Black+Decker MP300G 300W (2 litros)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro lâminas em aço inox",
+			"Jarra de vidro de 2 litros",
+			"Botões na parte superior do painel",
+			"Trava de segurança e 2 níveis de velocidade",
+			"Função pulsar para controle do preparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 litros"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + função pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar e triturar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "4 lâminas em aço inox"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "vidro"
+			},
+			{
+				"label": "Painel",
+				"value": "botões na parte superior"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "dxg-bm-f3312-500w-3-litros",
+		"name": "DXG BM-F3312 500W (3 litros)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de aço inoxidável de 3 litros",
+			"Funções de moer, picar e triturar",
+			"Botões na parte superior do painel",
+			"Dois níveis de velocidade",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3 litros"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, picar, moer, liquidificar e triturar"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Painel",
+				"value": "botões na parte superior"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ompr850-1000w-1-litro",
+		"name": "Oster OMPR850 1000W (1 litro)",
+		"image": "/images/posts/melhor-processador-de-alimentos-grande-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Disco fatiador de um lado e ralador do outro",
+			"Jarra de liquidificador de 1,5L",
+			"Espremedor de frutas e disco emulsificador",
+			"Lâminas em aço inox e jarra de aço inoxidável",
+			"Trava de segurança e painel de botão giratório"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro no liquidificador e 1 litro no processador"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, fatiar/ralar, cortar, picar, espremer e misturar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "jarra de liquidificador 1,5L; lâminas em aço inox; disco fatiador (lado 1); disco ralador (lado 2); espremedor de frutas; disco emulsificador; lâmina de massas"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44,8 x 25,6 x 19,6cm"
+			}
+		]
+	}
+]

@@ -1,0 +1,457 @@
+[
+	{
+		"id": "xiaomi-robot-vacuum-x20",
+		"name": "Xiaomi Robot Vacuum X20+",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mapeamento inteligente e sensores de obstáculos",
+			"Quatro modos, incluindo aspirar e passar pano",
+			"Escova giratória e base de carregamento",
+			"Potência de 75W, a maior desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "6,5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspirar antes de passar pano; aspirar; passar pano; aspirar e passar pano"
+			},
+			{
+				"label": "Potência",
+				"value": "75W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "5 x 35 x 9,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s20",
+		"name": "Xiaomi Robot Vacuum S20+",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de pó de 450mL",
+			"Mapeamento inteligente e sensores de obstáculos",
+			"Escova giratória e passa pano",
+			"Tempo de funcionamento de 2 horas e 50 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "2 horas e 50 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "450mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "limpar; esfregar; aspirar e esfregar; aspirar antes de esfregar"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "3,5 x 3,5 x 9,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s40",
+		"name": "Xiaomi Robot Vacuum S40",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tempo de funcionamento de 3 horas, o maior desta lista",
+			"Reservatório de pó de 520mL, o maior desta lista",
+			"Oito modos de limpeza, incluindo silencioso e turbo",
+			"Potência de 70W e sensores de obstáculos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,8cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "3 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "520mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "silencioso; padrão; forte; turbo; ignorar carpete; aspirar apenas em carpetes; cruzar carpete; evitar carpete"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "34 x 34 x 9,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb30",
+		"name": "Electrolux ERB30",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 7cm, a menor desta lista",
+			"Modos automático, Edge, Focus e zig-zag",
+			"Escova giratória e passa pano",
+			"Base de carregamento e reservatório de 310mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "310mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "não"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "não"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "automático; Edge; Focus; zig-zag"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "29 x 29 x 7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wap-robot-w1000",
+		"name": "WAP Robot W1000",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mapeamento inteligente e sensores de obstáculos",
+			"Tempo de funcionamento de 2 horas e 40 minutos",
+			"Modos aleatório, em espiral, cantos, umedecida e inteligente",
+			"Escova giratória e passa pano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "2 horas e 40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "260mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aleatória; em espiral; cantos; umedecida; inteligente"
+			},
+			{
+				"label": "Potência",
+				"value": "36W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32 x 32 x 8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wap-robot-w90",
+		"name": "WAP Robot W90",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 8cm e sensores de obstáculos",
+			"Escova giratória e passa pano",
+			"Modos em espiral, aleatório e cantos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "1 hora e 40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "4 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "250mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "não"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "em espiral; aleatória; cantos"
+			},
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "27 x 28,5 x 8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s20-7",
+		"name": "Xiaomi Robot Vacuum S20",
+		"image": "/images/posts/melhor-robo-aspirador-e-passa-pano-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de pó de 400mL",
+			"Mapeamento inteligente e sensores de obstáculos",
+			"Escova giratória e passa pano",
+			"Modo aspiração e passar pano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,8cm"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "400mL"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passar pano"
+			},
+			{
+				"label": "Potência",
+				"value": "45W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32,5 x 32,5 x 9,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

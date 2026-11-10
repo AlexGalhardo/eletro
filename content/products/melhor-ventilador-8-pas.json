@@ -1,0 +1,422 @@
+[
+	{
+		"id": "mondial-vtx-40c-8p-140w-coluna",
+		"name": "Mondial VTX-40C-8P 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-8-pas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coluna ajustável de 1,19 a 1,50 metro",
+			"Tecnologia Super Turbo e baixo nível de ruído",
+			"Grades e hélice removíveis para limpeza",
+			"Três velocidades e porta-fio embutido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; coluna ajustável (1,19 a 1,50 metro); inclinação vertical regulável; alça de transporte; porta-fio embutido"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			}
+		]
+	},
+	{
+		"id": "wap-flow-turbo-180w-coluna",
+		"name": "WAP Flow Turbo 180W (coluna)",
+		"image": "/images/posts/melhor-ventilador-8-pas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oscilação horizontal de até 90°",
+			"Tecnologia Silent Flow",
+			"Altura ajustável de até 1,5 metro",
+			"Inclinação de até 45° e 180W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow; oscilação horizontal de até 90°; ajuste de altura de até 1,5 metro; ajuste de inclinação de até 45°"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40-8p-140w-mesa",
+		"name": "Mondial VTX-40-8P 140W (mesa)",
+		"image": "/images/posts/melhor-ventilador-8-pas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de mesa de 40 cm com 140W",
+			"Oscilação horizontal com botão para fixar",
+			"Alça de transporte e porta-fio embutido",
+			"Tecnologia Super Turbo e grades removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; grades e hélice removíveis; sistema oscilante horizontal com botão para fixar; alça de transporte; porta-fio embutido; inclinação vertical regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 49 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	},
+	{
+		"id": "wap-flow-turbo-180w-mesa",
+		"name": "WAP Flow Turbo 180W (mesa)",
+		"image": "/images/posts/melhor-ventilador-8-pas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona em mesa ou parede, com 180W",
+			"Silent Flow na velocidade 1",
+			"Oscilação de até 90° e inclinação de 45°",
+			"Hélice de 50 cm de diâmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa e parede"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow na velocidade 1; oscilação horizontal de até 90°; inclinação de até 45°"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 50 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvt491-174w-mesa",
+		"name": "Philco PVT491 174W (mesa)",
+		"image": "/images/posts/melhor-ventilador-8-pas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oscilação horizontal automática",
+			"Fusível térmico de segurança",
+			"Tecnologia Maxx Force e trava entre as grades",
+			"Articulação com inclinação vertical ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa e parede"
+			},
+			{
+				"label": "Potência",
+				"value": "174W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; oscilação horizontal automática; sistema de articulação com inclinação vertical ajustável; fusível térmico de segurança; porta-fio; trava entre grade frontal e traseira; alça de transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,8 x 48 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,3kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-50-8p-150w-mesa",
+		"name": "Mondial VTX-50-8P 150W (mesa)",
+		"image": "/images/posts/melhor-ventilador-8-pas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 50 cm e 150W de potência",
+			"Protetor térmico e tecnologia Super Turbo",
+			"Oscilação com botão para fixar",
+			"Grades e hélice removíveis para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; baixo nível de ruído; oscilação horizontal com botão para fixar; protetor térmico; grades e hélice removíveis; alça de transporte; porta-fio embutido"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,5 x 54 x 33,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40p-8p-140w-parede",
+		"name": "Mondial VTX-40P-8P 140W (parede)",
+		"image": "/images/posts/melhor-ventilador-8-pas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporte de aço reforçado para a parede",
+			"Protetor térmico e baixo nível de ruído",
+			"Grades e hélice removíveis",
+			"Peso de 2,3kg, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "baixo nível de ruído; grades e hélice removíveis; oscilação horizontal com botão para fixar; protetor térmico; suporte de aço reforçado; alça de transporte; porta-fio embutido"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "49,5 x 49,5 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	}
+]

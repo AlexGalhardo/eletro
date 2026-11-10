@@ -1,0 +1,338 @@
+[
+	{
+		"id": "britania-bgr28a-1200w",
+		"name": "Britânia BGR28A 1200W",
+		"image": "/images/posts/melhor-sanduicheira-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 2 em 1: sanduicheira e grill",
+			"Placas lisas, onduladas e antiaderentes, ajustáveis",
+			"Abertura de 180° para acomodar o sanduíche",
+			"Potência de 1200W, a mais alta desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Redstone)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "grelhas lisa e ondulada, antiaderentes e ajustáveis"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; abertura de 180°; capacidade para 2 sanduíches; trava de fechamento; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,2 x 29,7 x 25,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bgr25b-750w",
+		"name": "Britânia BGR25B 750W",
+		"image": "/images/posts/melhor-sanduicheira-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 2 em 1 para sanduíche e grill",
+			"Revestimento Dura Mais antiaderente",
+			"Placas lisas e onduladas para diferentes receitas",
+			"Base antiderrapante e trava de fechamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Dura Mais)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "grelhas lisa e ondulada, antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; trava de fechamento; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 25,3 x 20,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,41kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-press-bgr27i-850w",
+		"name": "Britânia Press BGR27I 850W",
+		"image": "/images/posts/melhor-sanduicheira-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento Dura Mais antiaderente",
+			"Placas lisas e onduladas antiaderentes",
+			"Base antiderrapante para apoio estável",
+			"Trava de fechamento e luz indicadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Dura Mais)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "grelhas lisa e ondulada, antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; trava de fechamento; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,2 x 26 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,27kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-crome-inox-750w",
+		"name": "Britânia Crome Inox 750W",
+		"image": "/images/posts/melhor-sanduicheira-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Armazenamento na horizontal ou na vertical",
+			"Capacidade para 2 sanduíches por vez",
+			"Placas onduladas e antiaderentes",
+			"Função 2 em 1, sanduicheira e grill"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Dura Mais)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas e antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; trava de fechamento; base antiderrapante; capacidade para 2 sanduíches; armazenamento na horizontal ou vertical"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,7 x 23,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bgr16-750w",
+		"name": "Britânia BGR16 750W",
+		"image": "/images/posts/melhor-sanduicheira-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-fio para organizar o cabo",
+			"Alça com trava de fechamento",
+			"Revestimento Redstone antiaderente",
+			"Placas lisas e antiaderentes para sanduíches"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Redstone)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "lisas e antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; alça com trava de fechamento; base antiderrapante; capacidade para 2 sanduíches; porta-fio"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 23,5 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,29kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bgr01p-750w",
+		"name": "Britânia BGR01P 750W",
+		"image": "/images/posts/melhor-sanduicheira-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 950g, o mais leve desta lista",
+			"Porta-fio e alça com trava de fechamento",
+			"Placas onduladas e antiaderentes",
+			"Capacidade para 2 sanduíches por vez"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas e antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; alça com trava de fechamento; base antiderrapante; capacidade para 2 sanduíches; porta-fio"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 22,5 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "950g"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bgr35a-850w",
+		"name": "Britânia BGR35A 850W",
+		"image": "/images/posts/melhor-sanduicheira-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placas lisas, onduladas e antiaderentes",
+			"Revestimento Redstone antiaderente",
+			"Função 2 em 1, sanduicheira e grill",
+			"Trava de fechamento e base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente (Redstone)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "grelhas lisa e ondulada e antiaderentes"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função 2 em 1 sanduicheira e grill; trava de fechamento; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9 x 23,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,47kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

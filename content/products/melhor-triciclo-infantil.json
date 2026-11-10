@@ -1,0 +1,406 @@
+[
+	{
+		"id": "maxi-cosi-patroller",
+		"name": "Maxi-Cosi Patroller",
+		"image": "/images/posts/melhor-triciclo-infantil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinto de segurança de 5 pontos",
+			"Estrutura de alumínio com assento ajustável",
+			"Rodas emborrachadas e apoio para pés retrátil",
+			"Barra de empurrar ajustável e removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 1 ano"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "alumínio"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável, com encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Rodas",
+				"value": "emborrachadas"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "ajustável e removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "93 x 79 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-toys-waygo",
+		"name": "Maxi Toys Waygo",
+		"image": "/images/posts/melhor-triciclo-infantil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura em aço e plástico",
+			"Cinto de segurança de 3 pontos",
+			"Rodas de EVA e apoio para pés retrátil",
+			"Assento ajustável com encosto e barra removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 2 anos"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço e plástico"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável, com encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos"
+			},
+			{
+				"label": "Rodas",
+				"value": "EVA"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "ajustável e removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "110 x 53 x 75cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,4kg"
+			}
+		]
+	},
+	{
+		"id": "maral-avespa",
+		"name": "Maral Avespa",
+		"image": "/images/posts/melhor-triciclo-infantil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura em plástico reforçado para 25kg",
+			"Indicado para crianças de 1 a 3 anos",
+			"Assento fixo com encosto e barra removível",
+			"Medidas de 51 x 41 x 76cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "de 1 a 3 anos"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "plástico reforçado"
+			},
+			{
+				"label": "Assento",
+				"value": "fixo, com encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "—"
+			},
+			{
+				"label": "Rodas",
+				"value": "plásticas"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 41 x 76cm"
+			}
+		]
+	},
+	{
+		"id": "nathor-you-3-boy",
+		"name": "Nathor You 3 Boy",
+		"image": "/images/posts/melhor-triciclo-infantil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 2,18kg, o menor entre os modelos informados",
+			"Estrutura de alumínio e plástico reforçado",
+			"Rodas de EVA e assento fixo sem encosto",
+			"Indicado a partir de 1 ano e meio de idade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo básico"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 1 ano e meio"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 21kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "alumínio e plástico reforçado"
+			},
+			{
+				"label": "Assento",
+				"value": "fixo, sem encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "—"
+			},
+			{
+				"label": "Rodas",
+				"value": "EVA"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "—"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52 x 64 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,18kg"
+			}
+		]
+	},
+	{
+		"id": "kendy-kemotoca-baby-dog",
+		"name": "Kendy Kemotoca Baby Dog",
+		"image": "/images/posts/melhor-triciclo-infantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Plástico reforçado e capacidade de 16kg",
+			"Barra de empurrar e apoio para pés removíveis",
+			"Rodas plásticas e assento fixo",
+			"Indicado a partir de 1 ano de idade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo básico"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 1 ano"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 16kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "plástico reforçado"
+			},
+			{
+				"label": "Assento",
+				"value": "fixo"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "—"
+			},
+			{
+				"label": "Rodas",
+				"value": "plásticas"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48,5 x 42,5 x 57cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,66kg"
+			}
+		]
+	},
+	{
+		"id": "bandeirante-smart-2-lugares",
+		"name": "Bandeirante Smart 2 Lugares",
+		"image": "/images/posts/melhor-triciclo-infantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de até 50kg, a maior da lista",
+			"Medidas de 100,6 x 62,5 x 140,7cm",
+			"Cinto de 3 pontos e assento com encosto",
+			"Barra de empurrar e apoios para pés removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 1 ano"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 50kg"
+			},
+			{
+				"label": "Assento",
+				"value": "fixo, com encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100,6 x 62,5 x 140,7cm"
+			}
+		]
+	},
+	{
+		"id": "baby-style-zupa",
+		"name": "Baby Style Zupa",
+		"image": "/images/posts/melhor-triciclo-infantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura de aço e plástico com 25kg de capacidade",
+			"Apoio para pés retrátil e barra removível",
+			"Indicado a partir de 2 anos de idade",
+			"Medidas de 106 x 48 x 98cm e peso de 9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 2 anos"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço e plástico"
+			},
+			{
+				"label": "Assento",
+				"value": "fixo, com encosto"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "—"
+			},
+			{
+				"label": "Rodas",
+				"value": "plásticas"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "106 x 48 x 98cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			}
+		]
+	}
+]

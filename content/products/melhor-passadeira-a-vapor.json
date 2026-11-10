@@ -1,0 +1,390 @@
+[
+	{
+		"id": "electrolux-egs20-1800w",
+		"name": "Electrolux EGS20 1800W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Power Steam e saída de vapor de 40g/min",
+			"Tábua de passar regulável e base Glissium",
+			"Autonomia de 60 minutos com reservatório de 2,5 litros",
+			"Modos Eco, Refresh e De-Wrinckle"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "2,5 litros"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "45 segundos"
+			},
+			{
+				"label": "Saída de vapor",
+				"value": "40g/min"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "Power Steam; tábua de passar regulável; base Glissium; cabo flexível; funções programadas; modos Eco, Refresh e De-Wrinckle; luva protetora; escova para remoção de pelos; cabide acoplado; haste retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80~170 x 34 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-bdv2000v-1200w",
+		"name": "Black Decker BDV2000V 1200W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vapor 360° e cabo anatômico com rotação de 360°",
+			"Escova pet para remover pelos",
+			"Controle antigotejamento e desligamento automático",
+			"Copo medidor e cabo de 2 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "260mL"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "30 segundos"
+			},
+			{
+				"label": "Saída de vapor",
+				"value": "20g/min"
+			},
+			{
+				"label": "Níveis de vapor",
+				"value": "contínuo"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "copo medidor; cabo de 2 metros; 1 ano de garantia; escova pet para remoção de pelos; escova para tecidos delicados; controle antigotejamento; desligamento automático após inatividade; Vapor 360°; cabo anatômico com rotação 360º"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 10 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "890g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-bdv3000-1200w",
+		"name": "Black Decker BDV3000 1200W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Passa a vapor e a seco",
+			"Design dobrável para guardar",
+			"Reservatório removível e base antiderrapante",
+			"Aquece em 30 segundos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "1220W (127V) ou 900W (220V)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "200mL"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "30 segundos"
+			},
+			{
+				"label": "Saída de vapor",
+				"value": "14-17g/min"
+			},
+			{
+				"label": "Níveis de vapor",
+				"value": "contínuo"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "vaporizar; passar a vapor; passar a seco; design dobrável; aquecimento rápido; escova para remoção de pelos; reservatório removível; luz indicadora de funcionamento; garantia de 1 ano; base antiderrapante; função antigotejamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24 x 14 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-vp-09-1500w",
+		"name": "Mondial VP-09 1500W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmpada piloto e bocal em aço inox",
+			"Escova para tecidos e copo medidor",
+			"Cabo giratório e 1 ano de garantia",
+			"Vapor contínuo com reservatório de 260mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "1270W (127V) ou 1500W (220V)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "260mL"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "30 segundos"
+			},
+			{
+				"label": "Níveis de vapor",
+				"value": "contínuo"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "lâmpada piloto; copo medidor; escova para tecidos; bocal em aço inox; 1 ano de garantia; cabo giratório"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 10,2 x 14,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "790g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-wapore-fast-1250-1250w",
+		"name": "WAP Wapore Fast 1250 1250W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece em 25 segundos",
+			"Gatilho liga e desliga",
+			"Base antiaderente e trava do reservatório",
+			"Escova de tecidos e copo medidor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "200mL"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "11,5 minutos"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "25 segundos"
+			},
+			{
+				"label": "Saída de vapor",
+				"value": "16,8g/min"
+			},
+			{
+				"label": "Níveis de vapor",
+				"value": "contínuo"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "aquecimento rápido; base antiaderente; copo medidor; escova de tecidos; luz indicadora de funcionamento; gatilho liga/desliga; trava de liberação do reservatório de água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,5 x 14,5 x 11cm"
+			},
+			{
+				"label": "Peso",
+				"value": "900g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-42stm2001000-1200w",
+		"name": "Elgin 42STM2001000 1200W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Informa eliminar 99,9% de vírus, bactérias e germes",
+			"Vapor 360º e controle antigotejamento",
+			"Higieniza estofados e almofadas",
+			"1 ano de garantia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W (127V) ou 1500W (220V)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "360mL"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "20 minutos"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "30 segundos"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "1 ano de garantia; controle antigotejamento; elimina 99,9% de vírus, bactérias e germes; higieniza estofados, almofadas e superfícies em geral; vapor 360º"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 13,3 x 17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "820g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-42stm1001000-1350w",
+		"name": "Elgin 42STM1001000 1350W",
+		"image": "/images/posts/melhor-passadeira-a-vapor-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Informa eliminar germes, bactérias, mofo e odores",
+			"Passa e higieniza ao mesmo tempo",
+			"Reservatório de 1,6 litro, o maior da lista",
+			"Termostato contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W (127V) ou 1800W (220V)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "65 minutos"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "45 segundos"
+			},
+			{
+				"label": "Níveis de vapor",
+				"value": "10"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "elimina germes, bactérias, mofo e odores; passa e higieniza; pode ser utilizado em estofados; vapor vertical; termostato contra superaquecimento; suporte tipo cabide fixo; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 30 x 14,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

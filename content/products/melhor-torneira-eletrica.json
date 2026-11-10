@@ -1,0 +1,464 @@
+[
+	{
+		"id": "zagonel-prima-touch-5500w",
+		"name": "Zagonel Prima Touch 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5500W e bica alta com rotação de 360º",
+			"Comando por tecnologia Touch ou seletor manual",
+			"3 níveis de temperatura: fria, morna e quente",
+			"Resistência de troca rápida e proteção contra choque",
+			"Fio de 1 m e rosca padrão 1/2″"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede ou bancada"
+			},
+			{
+				"label": "Material",
+				"value": "termoplásticos, elastômeros e ligas de cobre, ferro, zinco, níquel e prata"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "360º"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (fria, morna e quente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "15kPa (1,5m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comprimento do fio",
+				"value": "1m"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "tecnologia Touch ou seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de troca rápida; sistema de proteção contra choque"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "fame-elegance-4t-5400w",
+		"name": "FAME Elegance 4T 5400W",
+		"image": "/images/posts/melhor-torneira-eletrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5400W e bica alta",
+			"4 níveis de temperatura, de fria a superquente",
+			"Acionamento com pressão mínima de 6 kPa",
+			"Resistência de troca rápida e proteção contra choque",
+			"Seletor manual e fio de 1 m"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5400W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede"
+			},
+			{
+				"label": "Material",
+				"value": "termoplásticos isolantes"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "180º"
+			},
+			{
+				"label": "Temperatura",
+				"value": "4 níveis (fria, morna, quente, superquente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "6kPa (0,6m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comprimento do fio",
+				"value": "1m"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de troca rápida; sistema de proteção contra choque"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-luna-4t-5500w",
+		"name": "Zagonel Luna 4T 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5500W e bica alta com rotação de 360°",
+			"4 níveis de temperatura, de fria a superquente",
+			"Corpo de plástico com grau de proteção IP24",
+			"Resistência de troca rápida e proteção contra choque"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "360°"
+			},
+			{
+				"label": "Temperatura",
+				"value": "4 níveis (fria, morna, quente, superquente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "15kPa (1,5m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comprimento do fio",
+				"value": "1m"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de troca rápida; sistema de proteção contra choque"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-easy-4800w",
+		"name": "Lorenzetti Loren Easy 4800W",
+		"image": "/images/posts/melhor-torneira-eletrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5500W em 220V e 4800W em 127V",
+			"Compatível com sistemas de aquecimento solar e DR",
+			"4 níveis de temperatura com seletor manual",
+			"Resistência de encaixe e rotação de 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W (220V) e 4800W (127V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede ou bancada"
+			},
+			{
+				"label": "Material",
+				"value": "termoplásticos, elastômeros e ligas de cobre"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "360°"
+			},
+			{
+				"label": "Temperatura",
+				"value": "4 níveis (fria, morna, quente, superquente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2,0m.c.a) para acionamento, 29,4kPa (3,0m.c.a) para vazão de 4L/min"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de encaixe; compatível com sistemas de aquecimento solar; compatível com DR"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "fame-1994-5400w",
+		"name": "FAME 1994 5400W",
+		"image": "/images/posts/melhor-torneira-eletrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5400W e bica alta com rotação de 360°",
+			"3 níveis de temperatura com seletor manual",
+			"Compatível com dispositivo DR",
+			"Pressão mínima de 12 kPa para acionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5400W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede"
+			},
+			{
+				"label": "Material",
+				"value": "termoplásticos isolantes"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "360°"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (fria, morna, quente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "12kPa (1,2m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de troca rápida; sistema de proteção contra choque; compatível com dispositivo DR"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "fame-01015932-5400w",
+		"name": "FAME 01015932 5400W",
+		"image": "/images/posts/melhor-torneira-eletrica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica reta e fixa",
+			"Potência de 5400W em 220V e 4800W em 127V",
+			"Compatível com sistemas de aquecimento solar e DR",
+			"Resistência de encaixe e corpo de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "reta e fixa"
+			},
+			{
+				"label": "Potência",
+				"value": "5400W (220V) e 4800W (127V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "bica fixa"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (fria, morna, quente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "12kPa (1,2m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de encaixe; compatível com sistemas de aquecimento solar; compatível com DR"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-essence-5500w",
+		"name": "Lorenzetti Essence 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5500W em 220V e 4600W em 127V",
+			"Ajuste gradual de temperatura por controle eletrônico",
+			"Rotação da bica de 360º",
+			"Compatível com DR e resistência de troca rápida"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W (220V) e 4600W (127V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica de parede ou bancada"
+			},
+			{
+				"label": "Material",
+				"value": "termoplásticos, elastômeros e ligas metálicas"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "360º"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajuste gradual"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2,0m.c.a*) para acionamento, 20kPa (2m.c.a*) para vazão de 3L/min"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Segurança",
+				"value": "resistência de troca rápida; compatível com DR"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	}
+]

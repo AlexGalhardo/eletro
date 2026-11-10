@@ -1,0 +1,195 @@
+[
+	{
+		"id": "gokoco-gd023-1400w",
+		"name": "GOKOCO GD023 1400W",
+		"image": "/images/posts/melhor-secador-gokoco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1400W com 3 velocidades e 3 temperaturas",
+			"Quatro modos personalizados além dos níveis padrão",
+			"Bocais de alta velocidade e liso, com modelador de cachos",
+			"Jato de ar frio e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas + 4 modos personalizados"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de alta velocidade; bocal liso; modelador de cachos; pente para alisamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd029-1600w",
+		"name": "GOKOCO GD029 1600W",
+		"image": "/images/posts/melhor-secador-gokoco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 1600W em 220V e 1500W em 127V",
+			"Modo de ar circulante e jato de ar frio",
+			"Bocal de ar magnético e cabo de 1,6 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 1600W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas + modo de ar circulante"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de ar magnético"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,6 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,408kg"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd032-1200w",
+		"name": "GOKOCO GD032 1200W",
+		"image": "/images/posts/melhor-secador-gokoco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"1400W com 3 velocidades e 3 temperaturas",
+			"Cilindros modeladores internos e externos com escova alisadora",
+			"Concentrador de modelagem, difusor e bolsa de armazenamento",
+			"Jato de ar frio e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cilindros modeladores internos e externos; escova alisadora; concentrador de modelagem; difusor; bolsa de armazenamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd033-1400w",
+		"name": "GOKOCO GD033 1400W",
+		"image": "/images/posts/melhor-secador-gokoco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"1300W com 2 velocidades e 4 temperaturas",
+			"Bocal magnético removível e cabo de 1,5 metro",
+			"Jato de ar frio e peso de 0,770kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal magnético removível"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,770kg"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd031-1200w",
+		"name": "GOKOCO GD031 1200W",
+		"image": "/images/posts/melhor-secador-gokoco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"1200W com 4 velocidades e 4 temperaturas",
+			"Modeladores de cachos interno e externo com escova alisadora",
+			"Difusor, bocal de alta velocidade e bolsa de armazenamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "4 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "modeladores de cachos interno e externo; escova alisadora; difusor; bocal de alta velocidade; bolsa de armazenamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt ou 127V"
+			}
+		]
+	}
+]

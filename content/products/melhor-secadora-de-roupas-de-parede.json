@@ -1,0 +1,362 @@
+[
+	{
+		"id": "electrolux-svb11-11kg",
+		"name": "Electrolux SVB11 11Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade para 11kg de roupas",
+			"Seis programas de secagem",
+			"Timer de até 120 minutos",
+			"Painel digital e porta frontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "11kg"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Timer",
+				"value": "até 120 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "tombamento com controle de tempo"
+			},
+			{
+				"label": "Abertura",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68 x 60 x 56,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25kg"
+			}
+		]
+	},
+	{
+		"id": "suggar-sc8011br-8kg",
+		"name": "Suggar SC8011BR 8Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de secagem 3D",
+			"Timer com mais de 120 minutos",
+			"Três programas com botão giratório",
+			"Potência de 850W e porta frontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Timer",
+				"value": "+120 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "secagem 3D"
+			},
+			{
+				"label": "Abertura",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69,5 x 42 x 41,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,5kg"
+			}
+		]
+	},
+	{
+		"id": "fischer-28200-63976-8kg",
+		"name": "Fischer 28200-63976 8Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Circulação de ar quente até 65ºC",
+			"Timer de até 120 minutos ou modo contínuo",
+			"Seis programas com botão giratório",
+			"Potência de 1450W em 127V e 1150W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W (127V) / 1150W (220V)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Timer",
+				"value": "até 120 minutos ou modo contínuo"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "circulação de ar quente até 65ºC"
+			},
+			{
+				"label": "Abertura",
+				"value": "zíper e velcro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 47 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "mueller-solaris-8kg",
+		"name": "Mueller Solaris 8Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aletas que reaproveitam o ar quente",
+			"Circulação de ar quente ou frio",
+			"Timer de 45 a 120 minutos",
+			"Potência de 1520W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "1520W"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Timer",
+				"value": "de 45 a 120 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "circulação de ar quente ou frio; aletas que reaproveitam ar quente"
+			},
+			{
+				"label": "Abertura",
+				"value": "zíper"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "105 x 62 x 57cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,6kg"
+			}
+		]
+	},
+	{
+		"id": "wanke-comfort-8kg",
+		"name": "Wanke Comfort 8Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito programas, o maior número entre os de 8kg",
+			"Circulação de ar quente até 65ºC",
+			"Abertura com zíper",
+			"Timer de até 120 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "1140W"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "8"
+			},
+			{
+				"label": "Timer",
+				"value": "até 120 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "circulação de ar quente até 65ºC"
+			},
+			{
+				"label": "Abertura",
+				"value": "zíper"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100 x 51 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "mueller-sun-8kg",
+		"name": "Mueller Sun 8Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 8kg de roupas",
+			"Três programas com botão giratório",
+			"Timer de 45 a 120 minutos",
+			"Potência de 1520W com aletas que reaproveitam o ar quente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "1520W"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Timer",
+				"value": "de 45 a 120 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "circulação de ar quente; aletas que reaproveitam ar quente"
+			},
+			{
+				"label": "Abertura",
+				"value": "zíper"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "105 x 62 x 57cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bsi10bb-10kg",
+		"name": "Brastemp BSI10BB 10Kg",
+		"image": "/images/posts/melhor-secadora-de-roupas-de-parede-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 10kg de roupas",
+			"Dez programas, o maior número da lista",
+			"Timer de até 180 minutos, o maior da lista",
+			"Sistema de secagem por tombamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de secagem",
+				"value": "10kg"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "10"
+			},
+			{
+				"label": "Timer",
+				"value": "até 180 minutos"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Sistema de secagem",
+				"value": "tombamento"
+			},
+			{
+				"label": "Abertura",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78,3 x 62,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "42kg"
+			}
+		]
+	}
+]

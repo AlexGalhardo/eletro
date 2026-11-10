@@ -1,0 +1,301 @@
+[
+	{
+		"id": "bosch-ghg-180-1800w",
+		"name": "Bosch GHG 180 1800W",
+		"image": "/images/posts/melhor-soprador-termico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura, de 60°C a 550°C",
+			"Dois estágios de fluxo de ar, de 350 a 550 L/min",
+			"Cabo de 2 metros",
+			"Bico redutor incluso",
+			"Peso do produto de 750g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1600W (127V) ou 1800W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (60°C / 350°C / 550°C)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "estágio 1 (350L/min); estágio 2 (550L/min)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "manual de instruções; 1 bico redutor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Peso",
+				"value": "750g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wesco-ws6427u-1800w",
+		"name": "Wesco WS6427U 1800W",
+		"image": "/images/posts/melhor-soprador-termico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura, de 40°C a 550°C",
+			"Fluxo de ar de até 500 L/min",
+			"Cinco acessórios, entre espátula e bicos",
+			"Bico com proteção para vidro",
+			"Peso leve, de 600g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1800W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (40°C / 350°C / 550°C)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "estágio 1 e 2 (300L/min); estágio 3 (500L/min)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 espátula; 1 bocal plano; 1 bico com proteção para vidro; 1 bico com redução; 1 bico tipo gancho"
+			},
+			{
+				"label": "Peso",
+				"value": "600g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-stv200n-2000w",
+		"name": "Vonder STV200N 2000W",
+		"image": "/images/posts/melhor-soprador-termico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura, de 50°C a 550°C",
+			"Fluxo de ar de até 500 L/min",
+			"Quatro bocais inclusos",
+			"Potência de 2000W em 220V",
+			"Peso do produto de 1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1800W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (50°C / 350°C / 550°C)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "estágio 1 (500L/min); estágio 2 (300L/min); estágio 3 (500L/min)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 bocal plano; 1 bocal de desvio; 1 bocal de ponta; 1 bocal de deflexão"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pst01-2000w",
+		"name": "Philco PST01 2000W",
+		"image": "/images/posts/melhor-soprador-termico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro bocais inclusos",
+			"Cabo de 2 metros",
+			"Fluxo de ar de até 480 L/min",
+			"Temperatura de 350°C a 550°C",
+			"Peso do produto de 750g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1800W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis (350°C / 550°C)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "estágio 1 (280L/min); estágio 2 (480L/min)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 bocais (plano, desvio, deflexão e ponta)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Peso",
+				"value": "750g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-est2000-1500w",
+		"name": "WAP EST2000 1500W",
+		"image": "/images/posts/melhor-soprador-termico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura de até 600°C em 220V",
+			"Cabo de 1,8 metro",
+			"Base de apoio inclusa",
+			"Fluxo de ar de até 500 L/min",
+			"Peso do produto de 800g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis: 400°C ou 550°C (127V) / 400°C ou 600°C (220V)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "estágio 1 (400L/min); estágio 2 (500L/min)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base de apoio"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Peso",
+				"value": "800g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gamma-g1935-br2-2000w",
+		"name": "Gamma G1935-BR2 2000W",
+		"image": "/images/posts/melhor-soprador-termico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W e temperatura de até 600°C",
+			"Bocal concentrador e bocal refletor",
+			"Suporte de apoio incluso",
+			"Fluxo de ar de 300 a 500 L/min",
+			"Peso do produto de 920g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "2000W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis (350°C / 600°C)"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "300 – 500L/min"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador; bocal refletor; suporte de apoio"
+			},
+			{
+				"label": "Peso",
+				"value": "920g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-hg1500-1500w",
+		"name": "Black+Decker HG1500 1500W",
+		"image": "/images/posts/melhor-soprador-termico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W",
+			"Temperatura de 400°C a 540°C",
+			"Dois bicos inclusos",
+			"Alimentação em 127V ou 220V",
+			"Peso do produto de 900g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência máxima",
+				"value": "1500W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis (400°C / 540°C)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 bicos"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,05 metro"
+			},
+			{
+				"label": "Peso",
+				"value": "900g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

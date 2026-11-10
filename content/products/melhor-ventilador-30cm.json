@@ -1,0 +1,415 @@
+[
+	{
+		"id": "mondial-vt-30c-nb-60w-coluna",
+		"name": "Mondial VT-30C-NB 60W (coluna)",
+		"image": "/images/posts/melhor-ventilador-30cm-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vento Turbo e oscilação contínua para circular o ar",
+			"Grades frontal e traseira removíveis para limpeza",
+			"Inclinação vertical regulável e baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "vento Turbo; sistema oscilante contínuo; grade frontal e traseira removíveis para limpeza; inclinação vertical regulável; baixo nível de ruído; alça de transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 44,5 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-8234-52w-coluna",
+		"name": "Ventisol 8234 52W (coluna)",
+		"image": "/images/posts/melhor-ventilador-30cm-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor Turbo e classificação energética A",
+			"Altura ajustável com oscilação horizontal",
+			"Fusível térmico e grade wind-line"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "52W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "classificação energética A; grade wind-line; altura ajustável; fusível térmico; oscilação horizontal; inclinação regulável; motor Turbo"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "116 x 40 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-30-b-55w-mesa",
+		"name": "Mondial VSP-30-B 55W (mesa)",
+		"image": "/images/posts/melhor-ventilador-30cm-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oscilante contínuo e função Vento Super Power",
+			"Porta-fio embutido e alça de transporte",
+			"Grade frontal removível e eficiência energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Oscilante Contínuo; alça de transporte; controle de velocidade; grade frontal removível para limpeza; eficiência energética A; porta-fio embutido; baixo nível de ruído; inclinação vertical regulável; função Vento Super Power"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "49 x 35 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bvt301-60w-mesa",
+		"name": "Britânia BVT301 60W (mesa)",
+		"image": "/images/posts/melhor-ventilador-30cm-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato 2 em 1, funciona de mesa ou parede",
+			"Protege o motor, que desliga em caso de superaquecimento",
+			"Tecnologia Maxx Force e classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa; parede"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Maxx Force; classificação energética A; porta-fio; alça traseira; formato 2 em 1 (mesa ou parede); inclinação vertical; oscilação horizontal automática; grade removível com travas; motor com sistema que interrompe o funcionamento em caso de superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55,8 x 36 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-turbo-compact-42w-mesa",
+		"name": "Mallory Turbo Compact 42W (mesa)",
+		"image": "/images/posts/melhor-ventilador-30cm-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor potência da lista, com 42W e funcionamento silencioso",
+			"Oscilação horizontal contínua e grade removível",
+			"Grade com sistema especial TS e eficiência energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "42W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade com sistema especial TS; eficiência energética A; oscilação horizontal contínua; inclinação vertical ajustável; grade removível; funcionamento silencioso"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 26 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-vt-30-nb-60w-mesa",
+		"name": "Mondial VT-30-NB 60W (mesa)",
+		"image": "/images/posts/melhor-ventilador-30cm-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coluna ajustável e design aerodinâmico",
+			"Sistema de ventilação silencioso com oscilação horizontal contínua",
+			"Porta-fio integrado e grade frontal removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "coluna ajustável; alça para transporte; oscilação horizontal contínua; design aerodinâmico; porta-fio integrado; grade frontal removível; sistema de ventilação silencioso"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60,5 x 38 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-protect-30-six-60w-mesa",
+		"name": "Britânia Protect 30 Six 60W (mesa)",
+		"image": "/images/posts/melhor-ventilador-30cm-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema oscilante horizontal e inclinação vertical regulável",
+			"Organizador de cabo integrado e alça traseira",
+			"Motor com proteção térmica e grade destacável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema oscilante horizontal; inclinação vertical regulável; grade destacável; motor com proteção térmica; organizador de cabo integrado; alça traseira"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59 x 38 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,59kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

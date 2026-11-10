@@ -1,0 +1,330 @@
+[
+	{
+		"id": "mondial-scp-ju-04-us-1600w",
+		"name": "Mondial SCP-JU-04-US 1600W",
+		"image": "/images/posts/melhor-secador-com-difusor-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco temperaturas com duas velocidades",
+			"Tecnologia de íons negativos com NTC",
+			"Cabo de 2,5 metros, o mais longo da lista",
+			"Peso de 285g e bag de transporte incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "íons negativos; NTC (Negative Temperature Coefficient)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador; difusor de cachos; bag de transporte"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2,5 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "285g"
+			}
+		]
+	},
+	{
+		"id": "philco-psd16a-1450w",
+		"name": "Philco PSD16A 1450W",
+		"image": "/images/posts/melhor-secador-com-difusor-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Fast Dry e multicerdas",
+			"Três velocidades e três temperaturas",
+			"Escova raquete, escova oval e dois cacheadores",
+			"Cabo de 1,8 metro e potência de 1450W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íon; Fast Dry; Multicerdas"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador; difusor; escova raquete; escova oval; cacheador direito e esquerdo"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "950g"
+			}
+		]
+	},
+	{
+		"id": "philco-psc2450-2200w",
+		"name": "Philco PSC2450 2200W",
+		"image": "/images/posts/melhor-secador-com-difusor-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W com tecnologia Tourmaline Íon",
+			"Tensão bivolt",
+			"Jato de ar frio e cabo de 1,9 metro",
+			"Bocal concentrador e bocal difusor inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador; bocal difusor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "674g"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-lichia-ceramic-ion-2100w",
+		"name": "GA.MA ITALY Lichia Ceramic Ion 2100W",
+		"image": "/images/posts/melhor-secador-com-difusor-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Ceramic Ion com Antifrizz",
+			"Potência de 2100W e cabo de 2 metros",
+			"Difusor e bico de ar tradicional",
+			"Peso de 641g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Ceramic IonEssencial Oil; Ceramic Ion Antifrizz"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "difusor; bico de ar tradicional"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "641g"
+			}
+		]
+	},
+	{
+		"id": "mondial-sc-13-2000w",
+		"name": "Mondial SC-13 2000W",
+		"image": "/images/posts/melhor-secador-com-difusor-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com tecnologia Tourmaline Íon",
+			"Bocal direcionador e difusor inclusos",
+			"Peso de 515g e jato de ar frio",
+			"Cabo de 1,49 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "difusor; bocal direcionador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,49 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "515g"
+			}
+		]
+	},
+	{
+		"id": "philco-psc2350-2200w",
+		"name": "Philco PSC2350 2200W",
+		"image": "/images/posts/melhor-secador-com-difusor-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bivolt com potência de 2200W",
+			"Bocal concentrador e difusor",
+			"Peso de 630g",
+			"Três temperaturas com jato de ar frio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador; bocal difusor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "630g"
+			}
+		]
+	},
+	{
+		"id": "gokoco-gd032-1300w",
+		"name": "GOKOCO GD032 1300W",
+		"image": "/images/posts/melhor-secador-com-difusor-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3 milhões de íons negativos por metro cúbico",
+			"Oito acessórios, incluindo dois modeladores de cachos",
+			"Escova de massagem alisadora para o cabelo",
+			"Três velocidades e três temperaturas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tecnologia",
+				"value": "até 3 milhões de íons negativos/m³"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de massagem alisadora; modelador de cachos esquerdo; bocal de alta velocidade; modelador de cachos direito; escova oval de ar quente; bocal plano de modelagem; difusor de modelagem; bolsa de armazenamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

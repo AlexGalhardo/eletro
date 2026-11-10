@@ -1,0 +1,310 @@
+[
+	{
+		"id": "natura-essencial-unico",
+		"name": "Natura Essencial Único",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família amadeirada com vetiver e cedro no coração",
+			"Saída de pimenta rosa, noz moscada e pomelo",
+			"Fundo com mirra, benjoim e âmbar",
+			"Frasco de 90ml, indicado para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "90ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pimenta rosa, ishipink, noz moscada, açafrão e pomelo"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "freesia, cedro, vetiver e copaiba"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "mirra, opoponax, benzoin, cumaru, vanilla, musk, amber e labdanum"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair, ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-homem-essence",
+		"name": "Natura Homem Essence",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída cítrica de bergamota, gengibre e limão",
+			"Coração com pimenta preta, cardamomo e canela",
+			"Indicado para o dia a dia e ocasiões especiais",
+			"Frasco de 100ml com base de patchouli e âmbar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, gengibre, grapefruit e limão"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "pimenta preta, violeta, cardamomo, canela e coriandro"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "patchouli, âmbar, iso e super, guaiacwood, cashmeran e cedro"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia, ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-homem-sagaz",
+		"name": "Natura Homem Sagaz",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída herbal com erva cidreira e sálvia",
+			"Base de cedro, sândalo e fava tonka",
+			"Coração de noz moscada e ameixa preta",
+			"Frasco de 100ml para o dia a dia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "mandarina verde, erva cidreira, cypress e sálvia"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "pimenta preta, noz moscada e ameixa preta"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "cedro, acorde amber, sândalo, baunilha e fava tonka"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia, ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-oud",
+		"name": "Natura Essencial Oud",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicação para dia a dia, ocasiões especiais e uso noturno",
+			"Coração com gerânio, cypriol e canela de Madagascar",
+			"Base com óleo de oud, cedro e patchouli",
+			"Saída de bergamota, cardamomo e açafrão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, cardamomo, elimi e açafrão"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "gerânio, cypriol, canela de madagascar, praline e bálsamo de gurjum"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "amber, cedro, sandalo, musk, ambrocenide, patchouli, cashmeran, oud oil, fir balsamo e copaíba"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia, ocasiões especiais ou uso noturno"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-classico",
+		"name": "Natura Essencial Clássico",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída herbal com lavanda, zimbro e manjericão",
+			"Coração de alecrim, sálvia e jasmim",
+			"Fundo de musgo de carvalho, sândalo e âmbar",
+			"Uso indicado no dia a dia e em ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, lavanda, gálbano, zimbro, noz moscada, grapefruit (toranja) e manjericão"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "gerânio, patchuli, alecrim, sálvia e jasmim"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "cedro, musc, musgo de carvalho, sândalo, âmbar, fir bálsamo e mirra"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia, ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-homem-cor-agio",
+		"name": "Natura Homem Cor.agio",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída com maçã, menta e pimenta rosa",
+			"Coração de couro, angélica e rosa",
+			"Base de ládano, cumaru e copaíba",
+			"Frasco de 100ml para dia a dia e ocasiões"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, pimenta preta, maçã, grapefruit (toranja), canela, menta (hortelã), noz moscada e pimenta rosa"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "lavanda , muguet (lírio do vale), rosa, angélica e couro"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "cedro, ládano, cumaru, âmbar e copaíba"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia, ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-homem-dom",
+		"name": "Natura Homem Dom",
+		"image": "/images/posts/melhor-perfumes-masculinos-da-natura-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfil adocicado com baunilha negra e tonka",
+			"Saída de cardamomo e pimenta preta",
+			"Fundo com vetiver, sândalo e almíscar",
+			"Indicado para uso noturno e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "adocicado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "cardamomo, pimenta preta e cipriol"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "absoluto baunilha negra, tonka, acorde balsâmico e folhas de violeta"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "priprioca, guaiaco, sândalo, vetiver, ambroxan, cashmeran e musc (almíscar)"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "uso noturno, ocasiões especiais"
+			}
+		]
+	}
+]

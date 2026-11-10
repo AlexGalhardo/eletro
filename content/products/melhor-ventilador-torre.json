@@ -1,0 +1,410 @@
+[
+	{
+		"id": "midea-smart-air-bladeless-vtb180a3",
+		"name": "Midea Smart Air Bladeless VTB180A3",
+		"image": "/images/posts/melhor-ventilador-torre-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 velocidades e potência de 33W",
+			"Controle remoto e timer de 12 horas",
+			"Funções de ionização e oscilação",
+			"Ruído de 61dB e altura de 106,2 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "33W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "10 níveis"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "61dB"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "12 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; ionização; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "106,2 x 25,5 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "arno-eole-ultra-neo2",
+		"name": "Arno Eole Ultra NEO2",
+		"image": "/images/posts/melhor-ventilador-torre-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 38W e 3 velocidades",
+			"Ruído de 48dB com oscilação lateral",
+			"Controle remoto e timer de 7 horas",
+			"Peso de 3,5kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "38W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "48dB"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "7 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "102,8 x 30 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-air-silence",
+		"name": "WAP Air Silence",
+		"image": "/images/posts/melhor-ventilador-torre-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 70W e 4 velocidades",
+			"Timer de 15 horas, o maior da lista",
+			"Controle remoto e oscilação lateral",
+			"Peso de 3,7kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "4 níveis"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "15 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 30 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-air-fresh",
+		"name": "WAP Air Fresh",
+		"image": "/images/posts/melhor-ventilador-torre-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 90W, a maior da lista",
+			"Reservatório de 3 litros para umidificação",
+			"Funções de climatização e aromatização",
+			"Peso de 6,01kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "3 litros"
+			},
+			{
+				"label": "Timer",
+				"value": "—"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; umidificação; climatização; aromatização; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 x 29 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,01kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-vtmp2",
+		"name": "Midea VTMP2",
+		"image": "/images/posts/melhor-ventilador-torre-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 40W e 3 velocidades",
+			"Oscilação com giro lateral",
+			"Timer de 2 horas e ruído de 63dB",
+			"Peso de 3,5kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "63dB"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "2 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "102,5 x 31 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-eole-infinite-neol",
+		"name": "Arno Eole Infinite NEOL",
+		"image": "/images/posts/melhor-ventilador-torre-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 40W e ruído de 48dB",
+			"Timer de 3 horas e oscilação lateral",
+			"Dimensões de 100 x 25 x 25 cm",
+			"Peso de 4kg e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "48dB"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "3 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100 x 25 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fix-fxv05001",
+		"name": "Fix FXV05001",
+		"image": "/images/posts/melhor-ventilador-torre-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 55W e 3 velocidades",
+			"Timer de 2 horas e oscilação lateral",
+			"Peso de 2,5kg, o mais leve desta lista",
+			"Dimensões de 86 x 16 x 16 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Oscilação",
+				"value": "sim, giro lateral"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "—"
+			},
+			{
+				"label": "Timer",
+				"value": "2 horas"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "ventilação; oscilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 16 x 16cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

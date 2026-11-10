@@ -1,0 +1,268 @@
+[
+	{
+		"id": "tramontina-13460351-45-x-35cm",
+		"name": "Tramontina 13460351 (45 x 35cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tábua de madeira em formato retangular",
+			"Peso de 2,97kg, o maior da lista",
+			"Espessura de 3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "não"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3,0 x 34 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,97kg"
+			}
+		]
+	},
+	{
+		"id": "stolf-933-44-x-29cm",
+		"name": "Stolf 933 (44 x 29cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Canaleta para líquidos na madeira",
+			"Tábua de madeira em formato retangular",
+			"Peso de 2,4kg",
+			"Espessura de 3,2cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3,2 x 29,5 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			}
+		]
+	},
+	{
+		"id": "mor-bamboo-003350-30-x-20cm",
+		"name": "Mor Bamboo 003350 (30 x 20cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Canaleta para líquidos em bambu",
+			"Pode ir à lava-louças",
+			"Peso de 574g, o mais leve informado",
+			"Espessura de 1,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "bambu"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1,5 x 20 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "574g"
+			}
+		]
+	},
+	{
+		"id": "lmba-chopar-2-em-1-40-x-27cm",
+		"name": "LMBA Chopar 2 em 1 (40 x 27cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Combina aço inoxidável e polipropileno",
+			"Canaleta para líquidos",
+			"Formato retangular de 40 x 27cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável e polipropileno"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "lumai-dupla-face-36-5-x-25cm",
+		"name": "Lumai Dupla Face (36,5 x 25cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla face com aço inoxidável e polipropileno",
+			"Canaleta para líquidos",
+			"Pode ir à lava-louças",
+			"Espessura de 1cm e peso de 790g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável e polipropileno"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1 x 25 x 36,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "790g"
+			}
+		]
+	},
+	{
+		"id": "mor-bamboo-003357-50-x-30cm",
+		"name": "Mor Bamboo 003357 (50 x 30cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior tábua da lista, com 50 x 30cm",
+			"Canaleta para líquidos em bambu",
+			"Peso de 1,43kg",
+			"Espessura de 1,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "bambu"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1,5 x 30 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,43kg"
+			}
+		]
+	},
+	{
+		"id": "mor-bamboo-003351-35-x-25cm",
+		"name": "Mor Bamboo 003351 (35 x 25cm)",
+		"image": "/images/posts/melhor-tabua-de-corte-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Canaleta para líquidos em bambu",
+			"Pode ir à lava-louças",
+			"Espessura de 1,5cm",
+			"Peso de 908g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "bambu"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Canaleta para líquidos",
+				"value": "sim"
+			},
+			{
+				"label": "Compatibilidade com lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "1,5 x 25 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "908g"
+			}
+		]
+	}
+]

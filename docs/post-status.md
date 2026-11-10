@@ -7,8 +7,8 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 494 posts, 64 fora de rascunho, 430 rascunhos,
-381 links de afiliado e 8926 pendentes.
+Total: 578 posts, 64 fora de rascunho, 514 rascunhos,
+381 links de afiliado e 10663 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
@@ -485,24 +485,108 @@ Total: 494 posts, 64 fora de rascunho, 430 rascunhos,
 | [melhor-parafusadeira-para-drywall](../content/posts/melhor-parafusadeira-para-drywall.mdx) | Melhores Parafusadeiras de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-parafusadeira-wap](../content/posts/melhor-parafusadeira-wap.mdx) | Parafusadeiras WAP de 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
 | [melhor-parafusadeiras](../content/posts/melhor-parafusadeiras.mdx) | Melhores Parafusadeiras a Bateria 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-passadeira-a-vapor](../content/posts/melhor-passadeira-a-vapor.mdx) | Melhores Passadeiras a Vapor de 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
+| [melhor-passadeira-vertical-a-vapor](../content/posts/melhor-passadeira-vertical-a-vapor.mdx) | Passadeiras Verticais a Vapor 2026: 7 Modelos Comparados | lavanderia | true | 7 | 0 | 21 |
+| [melhor-perfume-eudora-feminino](../content/posts/melhor-perfume-eudora-feminino.mdx) | Melhores Perfumes Eudora Femininos de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-perfumes-da-natura](../content/posts/melhor-perfumes-da-natura.mdx) | Melhores Perfumes Natura de 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-perfumes-femininos-da-natura](../content/posts/melhor-perfumes-femininos-da-natura.mdx) | Melhores Perfumes Femininos Natura 2026: 7 Opções | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-perfumes-masculinos-da-natura](../content/posts/melhor-perfumes-masculinos-da-natura.mdx) | Melhores Perfumes Masculinos Natura 2026: 7 Opções | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-pipoqueira-eletrica](../content/posts/melhor-pipoqueira-eletrica.mdx) | Melhores Pipoqueiras Elétricas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-pipoqueira-tramontina](../content/posts/melhor-pipoqueira-tramontina.mdx) | Pipoqueira Tramontina 2026: 5 Modelos Comparados | cozinha | true | 5 | 0 | 15 |
+| [melhor-piscina-infantil](../content/posts/melhor-piscina-infantil.mdx) | Piscinas Infantis de 2026: 7 Modelos Comparados | infantil | true | 7 | 0 | 21 |
+| [melhor-piscinas-mor](../content/posts/melhor-piscinas-mor.mdx) | Piscina Mor 2026: 7 Modelos Comparados | jardim | true | 7 | 0 | 21 |
+| [melhor-pistola-de-cola-quente](../content/posts/melhor-pistola-de-cola-quente.mdx) | Melhores Pistolas de Cola Quente 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-pistola-pintura-eletrica](../content/posts/melhor-pistola-pintura-eletrica.mdx) | Melhor Pistola de Pintura Elétrica em 2026 | ferramentas | false | 7 | 7 | 0 |
 | [melhor-poltrona-reclinavel](../content/posts/melhor-poltrona-reclinavel.mdx) | 5 Melhores Poltronas Reclináveis Para 2026 | moveis | false | 5 | 5 | 0 |
+| [melhor-potes-hermeticos-electrolux](../content/posts/melhor-potes-hermeticos-electrolux.mdx) | Potes Herméticos Electrolux 2026: 7 Conjuntos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-prensa-francesa](../content/posts/melhor-prensa-francesa.mdx) | Melhores Prensas Francesas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-processador-de-alimentos](../content/posts/melhor-processador-de-alimentos.mdx) | Melhores Processadores de Alimentos 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-processador-de-alimentos-grande](../content/posts/melhor-processador-de-alimentos-grande.mdx) | Melhores Processadores Grandes 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-processador-de-alimentos-pequeno](../content/posts/melhor-processador-de-alimentos-pequeno.mdx) | Processador de Alimentos Pequeno 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-processador-liquidificador](../content/posts/melhor-processador-liquidificador.mdx) | 5 Melhores Processador e Liquidificador 2026 | cozinha | false | 5 | 5 | 0 |
+| [melhor-processador-oster](../content/posts/melhor-processador-oster.mdx) | Melhor Processador Oster 2026: 6 Modelos Comparados | cozinha | true | 6 | 0 | 18 |
 | [melhor-pulverizador](../content/posts/melhor-pulverizador.mdx) | Melhor Pulverizador Para Jardim, Horta E Limpeza | ferramentas | false | 7 | 7 | 0 |
+| [melhor-purificador-de-agua](../content/posts/melhor-purificador-de-agua.mdx) | Melhores Purificadores de Água de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-purificador-de-agua-electrolux](../content/posts/melhor-purificador-de-agua-electrolux.mdx) | Purificadores de Água Electrolux em 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-qual-o-melhor-mop](../content/posts/melhor-qual-o-melhor-mop.mdx) | Melhores Mops de 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
 | [melhor-rebitador-manual](../content/posts/melhor-rebitador-manual.mdx) | Melhor Rebitador Manual para Comprar em 2026 | ferramentas | false | 7 | 7 | 0 |
 | [melhor-repelente-eletrico](../content/posts/melhor-repelente-eletrico.mdx) | Melhores repelente elétricos para comprar em 2026 | limpeza | false | 7 | 6 | 1 |
+| [melhor-robo-aspirador-bom-e-barato](../content/posts/melhor-robo-aspirador-bom-e-barato.mdx) | Robô Aspirador Barato 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-robo-aspirador-com-mapeamento](../content/posts/melhor-robo-aspirador-com-mapeamento.mdx) | Melhores Robôs com Mapeamento de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-robo-aspirador-e-passa-pano](../content/posts/melhor-robo-aspirador-e-passa-pano.mdx) | Melhores Robôs Aspiradores 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-robo-aspirador-melhor-custo-beneficio](../content/posts/melhor-robo-aspirador-melhor-custo-beneficio.mdx) | Robô Aspirador Custo-Benefício 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
 | [melhor-robo-aspirador-wap](../content/posts/melhor-robo-aspirador-wap.mdx) | Robô Aspirador WAP: 7 Melhores Modelos em 2026 | limpeza | false | 7 | 6 | 1 |
 | [melhor-robo-aspirador-xiaomi](../content/posts/melhor-robo-aspirador-xiaomi.mdx) | Robô Aspirador Xiaomi Vale a Pena? Melhores Modelos em 2026 | limpeza | false | 7 | 6 | 1 |
+| [melhor-saco-de-dormir](../content/posts/melhor-saco-de-dormir.mdx) | Melhores Sacos de Dormir de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-sanduicheira](../content/posts/melhor-sanduicheira.mdx) | Sanduicheiras em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-sanduicheira-britania](../content/posts/melhor-sanduicheira-britania.mdx) | Melhores Sanduicheiras Britânia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-sanduicheira-grill](../content/posts/melhor-sanduicheira-grill.mdx) | Melhores Sanduicheiras Grill 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-sanduicheira-mondial](../content/posts/melhor-sanduicheira-mondial.mdx) | Melhores Sanduicheiras Mondial de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-sanduicheira-oster](../content/posts/melhor-sanduicheira-oster.mdx) | Melhores Sanduicheiras Oster 2026: 4 Modelos | cozinha | true | 4 | 0 | 12 |
+| [melhor-secador-com-difusor](../content/posts/melhor-secador-com-difusor.mdx) | Secadores com Difusor em 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-de-cabelo](../content/posts/melhor-secador-de-cabelo.mdx) | Melhores Secadores de Cabelo 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-de-cabelo-britania](../content/posts/melhor-secador-de-cabelo-britania.mdx) | Secador de Cabelo Britânia 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-de-cabelo-para-viagem](../content/posts/melhor-secador-de-cabelo-para-viagem.mdx) | Melhores Secadores para Viagem de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-gokoco](../content/posts/melhor-secador-gokoco.mdx) | Melhor Secador Gokoco 2026: 5 Modelos Comparados | cuidados-pessoais | true | 5 | 0 | 15 |
+| [melhor-secador-mondial](../content/posts/melhor-secador-mondial.mdx) | Secadores Mondial de 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-philco](../content/posts/melhor-secador-philco.mdx) | Melhores Secadores Philco de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secador-taiff](../content/posts/melhor-secador-taiff.mdx) | Melhores Secadores Taiff 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-secadora-de-roupas-de-parede](../content/posts/melhor-secadora-de-roupas-de-parede.mdx) | Secadoras de Parede de 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
 | [melhor-secadora-roupas](../content/posts/melhor-secadora-roupas.mdx) | Melhor Secadora Roupas | lavanderia | false | 5 | 5 | 0 |
+| [melhor-serra-eletrica-para-poda](../content/posts/melhor-serra-eletrica-para-poda.mdx) | Serra Elétrica para Poda 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-serra-tico-tico](../content/posts/melhor-serra-tico-tico.mdx) | Serra Tico-Tico 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
 | [melhor-sofa-cama](../content/posts/melhor-sofa-cama.mdx) | Melhor Sofá Cama: Modelos Recomendados em 2026 | moveis | false | 7 | 7 | 0 |
+| [melhor-soprador-de-folhas](../content/posts/melhor-soprador-de-folhas.mdx) | Soprador de Folhas 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-soprador-termico](../content/posts/melhor-soprador-termico.mdx) | Soprador Térmico 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-tabua-de-corte](../content/posts/melhor-tabua-de-corte.mdx) | Melhores Tábuas de Corte de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-tacas-de-cerveja](../content/posts/melhor-tacas-de-cerveja.mdx) | Melhores Taças de Cerveja de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-tacas-de-vinho](../content/posts/melhor-tacas-de-vinho.mdx) | Melhores Taças de Vinho de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-tanquinhos](../content/posts/melhor-tanquinhos.mdx) | Melhores Tanquinhos 2026: 7 Modelos Comparados | lavanderia | true | 7 | 0 | 21 |
+| [melhor-tesoura-de-poda](../content/posts/melhor-tesoura-de-poda.mdx) | Tesouras de Poda de 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-tesoura-de-poda-tramontina](../content/posts/melhor-tesoura-de-poda-tramontina.mdx) | Melhores Tesouras Tramontina de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-torneira-com-filtro-para-cozinha](../content/posts/melhor-torneira-com-filtro-para-cozinha.mdx) | Melhores Torneiras para Cozinha de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-torneira-eletrica](../content/posts/melhor-torneira-eletrica.mdx) | Melhores Torneiras Elétricas 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-torneira-eletrica-lorenzetti](../content/posts/melhor-torneira-eletrica-lorenzetti.mdx) | Melhores Torneiras Elétricas Lorenzetti 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-torneira-flexivel](../content/posts/melhor-torneira-flexivel.mdx) | Melhores Torneiras Flexíveis de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-torneira-para-banheiro-luxo](../content/posts/melhor-torneira-para-banheiro-luxo.mdx) | Torneiras de Banheiro Luxo de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-torradeira](../content/posts/melhor-torradeira.mdx) | Torradeira 2026: 7 Modelos Comparados por Potência | cozinha | true | 7 | 0 | 21 |
+| [melhor-travesseiro](../content/posts/melhor-travesseiro.mdx) | Melhores Travesseiros de 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-travesseiro-cervical](../content/posts/melhor-travesseiro-cervical.mdx) | Melhores Travesseiros Cervicais de 2026: 7 Modelos | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-trena](../content/posts/melhor-trena.mdx) | Melhores Trenas de 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-trena-digital](../content/posts/melhor-trena-digital.mdx) | Melhores Trenas Digitais 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-triciclo-infantil](../content/posts/melhor-triciclo-infantil.mdx) | Melhores Triciclos Infantis de 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
 | [melhor-umidificador-ar-ultrassonico](../content/posts/melhor-umidificador-ar-ultrassonico.mdx) | 5 Melhores Umidificador de Ar Ultrassônico | climatizacao | false | 5 | 5 | 0 |
 | [melhor-umidificador-de-ar-para-quarto](../content/posts/melhor-umidificador-de-ar-para-quarto.mdx) | Top 7 Melhores Umidificadores de Ar para Quarto | climatizacao | false | 7 | 7 | 0 |
+| [melhor-umidificador-de-ar-ultrassonico](../content/posts/melhor-umidificador-de-ar-ultrassonico.mdx) | Melhores Umidificadores Ultrassônicos de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhor-vaporizador-arno](../content/posts/melhor-vaporizador-arno.mdx) | Melhores Vaporizador Arno Para Comprar 2026 | lavanderia | false | 5 | 5 | 0 |
+| [melhor-vaporizador-e-higienizador](../content/posts/melhor-vaporizador-e-higienizador.mdx) | Melhores Vaporizadores de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
 | [melhor-vaporizador-philips-walita](../content/posts/melhor-vaporizador-philips-walita.mdx) | Melhor Vaporizador Philips Walita: Ranking Completo | lavanderia | false | 7 | 7 | 0 |
 | [melhor-varal-de-chao](../content/posts/melhor-varal-de-chao.mdx) | Melhores Varal De Chao Para Comprar 2026 | lavanderia | false | 7 | 6 | 1 |
 | [melhor-ventilador](../content/posts/melhor-ventilador.mdx) | Top 7: Melhor Ventilador de 2026 | climatizacao | false | 7 | 7 | 0 |
+| [melhor-ventilador-30cm](../content/posts/melhor-ventilador-30cm.mdx) | Melhores Ventiladores 30cm de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhor-ventilador-40cm](../content/posts/melhor-ventilador-40cm.mdx) | Melhor Ventilador 40cm Para Comprar 2026 | climatizacao | false | 7 | 7 | 0 |
+| [melhor-ventilador-50cm](../content/posts/melhor-ventilador-50cm.mdx) | Melhores Ventiladores de 50cm de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-8-pas](../content/posts/melhor-ventilador-8-pas.mdx) | Melhores Ventiladores de 8 Pás 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-arno](../content/posts/melhor-ventilador-arno.mdx) | Melhor Ventilador Arno 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-britania](../content/posts/melhor-ventilador-britania.mdx) | Melhores Ventiladores Britânia 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhor-ventilador-coluna](../content/posts/melhor-ventilador-coluna.mdx) | Melhor Ventilador de Coluna: Top 7 de 2026 | climatizacao | false | 7 | 7 | 0 |
+| [melhor-ventilador-com-controle-remoto](../content/posts/melhor-ventilador-com-controle-remoto.mdx) | Ventiladores com Controle Remoto: 7 Modelos em 2026 | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-coluna-mondial](../content/posts/melhor-ventilador-de-coluna-mondial.mdx) | Melhor Ventilador de Coluna Mondial 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-coluna-ventisol](../content/posts/melhor-ventilador-de-coluna-ventisol.mdx) | Ventilador de Coluna Ventisol 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-ferro](../content/posts/melhor-ventilador-de-ferro.mdx) | Melhores Ventiladores de Ferro 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-mao](../content/posts/melhor-ventilador-de-mao.mdx) | Melhores Ventiladores de Mão de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-mesa](../content/posts/melhor-ventilador-de-mesa.mdx) | Ventiladores de Mesa de 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-mesa-30cm](../content/posts/melhor-ventilador-de-mesa-30cm.mdx) | Ventiladores de Mesa 30cm em 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-mesa-mondial](../content/posts/melhor-ventilador-de-mesa-mondial.mdx) | Melhores Ventiladores Mondial de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-parede](../content/posts/melhor-ventilador-de-parede.mdx) | Ventiladores de Parede de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-de-teto-ventisol](../content/posts/melhor-ventilador-de-teto-ventisol.mdx) | Ventilador de Teto Ventisol 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-mallory](../content/posts/melhor-ventilador-mallory.mdx) | Melhores Ventiladores Mallory de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-mondial-40cm](../content/posts/melhor-ventilador-mondial-40cm.mdx) | Ventiladores Mondial de 40cm em 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-philco](../content/posts/melhor-ventilador-philco.mdx) | Melhores Ventiladores Philco 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhor-ventilador-teto](../content/posts/melhor-ventilador-teto.mdx) | Melhores Ventilador de Teto de 2026 | climatizacao | false | 7 | 7 | 0 |
+| [melhor-ventilador-torre](../content/posts/melhor-ventilador-torre.mdx) | Melhores Ventiladores Torre 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-ventisol](../content/posts/melhor-ventilador-ventisol.mdx) | Melhores Ventiladores Ventisol 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ventilador-wap](../content/posts/melhor-ventilador-wap.mdx) | Melhores Ventiladores WAP 2026: 6 Modelos Comparados | climatizacao | true | 6 | 0 | 18 |
+| [melhor-ventiladores-mondial](../content/posts/melhor-ventiladores-mondial.mdx) | Melhores Ventiladores Mondial 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhores-churrasqueira-eletrica-apartamento](../content/posts/melhores-churrasqueira-eletrica-apartamento.mdx) | Melhores Churrasqueiras Elétricas Para Apartamento 2026 | cozinha | false | 5 | 5 | 0 |
 | [melhores-desidratadores-alimentos](../content/posts/melhores-desidratadores-alimentos.mdx) | 5 Melhores Desidratadores de Alimentos | cozinha | false | 5 | 5 | 0 |

@@ -1,0 +1,281 @@
+[
+	{
+		"id": "philco-pmm216",
+		"name": "Philco PMM216",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria, carregador e maleta inclusos",
+			"Corrente extra de 6 polegadas",
+			"Velocidade da corrente de 4,5m/s",
+			"Tubo de óleo lubrificante incluso",
+			"Lima de afiação e protetor de lâmina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria 21V"
+			},
+			{
+				"label": "Velocidade da corrente",
+				"value": "4,5m/s"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "6 polegadas"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "bateria; carregador; maleta; tubo de óleo lubrificante; chave de vela com ponta philips; corrente extra de 6 polegadas; protetor de lâmina, lima de afiação"
+			},
+			{
+				"label": "Peso",
+				"value": "1,362kg"
+			}
+		]
+	},
+	{
+		"id": "nakasaki-nk-62131",
+		"name": "Nakasaki NK-62131",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo extensor de até 3 metros",
+			"Duas baterias e carregador bivolt inclusos",
+			"Sabre de 15cm",
+			"Potência de 1000W",
+			"Manual incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 baterias 30V"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "até 3 metros"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "15cm"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "2 baterias; cabo extensor; carregador bivolt; manual"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "genai-gn-450b",
+		"name": "Genai GN-450B",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sabre de 24cm, o maior em centímetros",
+			"Duas baterias e carregador bivolt inclusos",
+			"Duas correntes de 6 e 8 polegadas",
+			"Maleta, chave de fenda e chave inglesa",
+			"Potência de 500W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 baterias 21V"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "24cm"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "maleta; chave de fenda; chave inglesa; 2 baterias; carregador bivolt; frasco de lubrificante (vazio); 2 correntes de 6 e 8 polegadas"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "nakasaki-nk-8020pro",
+		"name": "Nakasaki NK-8020PRO",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas baterias e carregador bivolt inclusos",
+			"Corrente extra inclusa",
+			"Potência de 800W",
+			"Sabre de 10cm",
+			"Peso do produto de 2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 25V"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "10cm"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "2 baterias; carregador bivolt; corrente extra"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "wap-k21-s01",
+		"name": "WAP K21 S01",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade da corrente de 4,8m/s",
+			"Bateria de 2000mAh inclusa",
+			"Chave phillips e chave canhão de 10mm inclusas",
+			"Maleta para transporte",
+			"Sabre de 6 polegadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "Bateria 21V"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade da corrente",
+				"value": "4,8m/s"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "6 polegadas"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "maleta; 1 bateria 2000mAh; carregador bivolt; 1 chave phillips; 1 chave canhão 10mm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "dobevi-fu-th032",
+		"name": "Dobevi FU-TH032",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-6.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade da corrente de 10m/s, a maior da lista",
+			"Sabre de 10 polegadas",
+			"Potência de 1200W",
+			"Luvas e óculos de proteção inclusos",
+			"Duas correntes e tensor de corrente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 21V"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade da corrente",
+				"value": "10m/s"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "10 polegadas"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "1 par de luvas; carregador; óculos de proteção; tensor de corrente; 2 correntes; 2 baterias"
+			}
+		]
+	},
+	{
+		"id": "inova-scr-12914",
+		"name": "Inova SCR-12914",
+		"image": "/images/posts/melhor-serra-eletrica-para-poda-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas baterias e carregador inclusos",
+			"Velocidade da corrente de 6m/s",
+			"Lâmina de 6 polegadas inclusa",
+			"Maleta para transporte",
+			"Potência de 800W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 21V"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade da corrente",
+				"value": "6m/s"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "6 polegadas"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "maleta; 2 baterias; carregador; lâmina de 6 polegadas; manual"
+			}
+		]
+	}
+]

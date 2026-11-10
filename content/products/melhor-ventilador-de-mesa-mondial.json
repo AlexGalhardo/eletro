@@ -1,0 +1,394 @@
+[
+	{
+		"id": "mondial-vtx-50-8p-150w-8-pas",
+		"name": "Mondial VTX-50-8P 150W (8 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Super Turbo para mover mais ar em menos tempo",
+			"Oscilação contínua com botão para fixar o ângulo",
+			"Hélice e grade removíveis facilitam a limpeza",
+			"Baixo nível de ruído durante o uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Super Turbo; inclinação vertical regulável; sistema Oscilante Contínuo; oscilação horizontal com botão para fixar; alça de transporte; porta-fio; baixo nível de ruído; hélice e grade removíveis; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,5 x 54 x 33,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-vtx-40-8p-140w-8-pas",
+		"name": "Mondial VTX-40-8P 140W (8 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-fio evita cabo solto pelo chão",
+			"Grades e hélice removíveis para limpeza mais simples",
+			"Inclinação vertical regulável para direcionar o ar",
+			"Alça para transporte fácil entre cômodos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio; tecnologia Super Turbo; inclinação vertical regulável; grades e hélice removíveis para limpeza; alça para transportes; baixo nível de ruído; sistema Oscilante Contínuo; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 49 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-40-b-140w-6-pas",
+		"name": "Mondial VSP-40-B 140W (6 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-fio embutido mantém o cabo organizado",
+			"Função Vento Super Power para reforçar o fluxo de ar",
+			"Baixo nível de ruído com oscilação contínua",
+			"Grade e hélice removíveis para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio embutido; Vento Super Power; grade e hélice removíveis para limpeza; alça de transporte; sistema Oscilante Contínuo; baixo nível de ruído; controle de velocidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 45 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-nvt-40-8p-b-140w-8-pas",
+		"name": "Mondial NVT-40-8P-B 140W (8 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de ventilação silencioso para ambientes mais calmos",
+			"Grades frontal e traseira removíveis para limpeza",
+			"Porta-fio integrado mantém o cabo organizado",
+			"Oscilação horizontal e inclinação vertical para direcionar o ar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio integrado; sistema de ventilação silencioso; oscilação horizontal; grade frontal e traseira removíveis; alça para transporte; design aerodinâmico; inclinação vertical regulável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 48 x 32cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-30-b-55w-6-pas",
+		"name": "Mondial VSP-30-B 55W (6 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Eficiência energética A com selo informado na ficha",
+			"Consumo de 55W para uso prolongado",
+			"Grade frontal removível para limpeza",
+			"Porta-fio embutido e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio embutido; inclinação vertical regulável; função Vento Super Power; alça de transporte; sistema Oscilante Contínuo; baixo nível de ruído; grade frontal removível para limpeza; eficiência energética A; controle de velocidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "49 x 35 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-v-30-6p-6-pas",
+		"name": "Mondial V-30-6P (6 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 2 em 1 para usar na mesa ou na parede",
+			"Eficiência energética A com potência de 50W",
+			"Oscilação horizontal para cobrir mais do ambiente",
+			"Baixo nível de ruído com três velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "50W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "eficiência energética A; função 2 em 1 (mesa e parede); oscilação horizontal; inclinação regulável; baixo nível de ruído; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "58 x 28 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-vsp-30-ap-55w-6-pas",
+		"name": "Mondial VSP-30-AP 55W (6 pás)",
+		"image": "/images/posts/melhor-ventilador-de-mesa-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Vento Super Turbo para mais fluxo de ar",
+			"Porta-fio para manter o cabo organizado",
+			"Alça de transporte para mudar o aparelho de lugar",
+			"Oscilação contínua com baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-fio; Vento Super Turbo; alça de transporte; inclinação vertical regulável; sistema Oscilante Contínuo; baixo nível de ruído; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "49 x 35 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

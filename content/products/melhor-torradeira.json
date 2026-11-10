@@ -1,0 +1,422 @@
+[
+	{
+		"id": "cuisinart-classic-cpt-160br-1000w",
+		"name": "Cuisinart Classic CPT-160BR 1000W",
+		"image": "/images/posts/melhor-torradeira-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com seis níveis de tostagem",
+			"Duas fendas extra-largas e controle de temperatura",
+			"Funções cancelar, bagel, reaquecer e descongelar",
+			"Corpo em aço inox escovado com bandeja de migalhas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "extra-larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inox escovado e detalhes cromados"
+			},
+			{
+				"label": "Funções extras",
+				"value": "cancelar; bagel; reaquecer; descongelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,2 x 26,6 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "oster-otor600-750w",
+		"name": "Oster OTOR600 750W",
+		"image": "/images/posts/melhor-torradeira-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sete níveis de tostagem com controle de temperatura",
+			"Fendas extra-largas e bandeja coletora de migalhas",
+			"Corpo em inox com funções descongelar e reaquecer",
+			"Potência de 750W em 127V ou 650W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W (127); 650W (220V)"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "extra-larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "descongelar; cancelar; reaquecer"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,2 x 15,2 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "880 gramas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ets10-800w",
+		"name": "Electrolux ETS10 800W",
+		"image": "/images/posts/melhor-torradeira-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito níveis de tostagem com controle de temperatura",
+			"Potência de 800W com fendas extra-largas",
+			"Funções cancelar, reaquecer e descongelar",
+			"Corpo em plástico com acabamento em inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "extra-larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "8 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico com acabamento em inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "cancelar; reaquecer; descongelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19,1 x 28,3 x 17,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "philco-french-toast-900w",
+		"name": "Philco French Toast 900W",
+		"image": "/images/posts/melhor-torradeira-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 900W com oito níveis de tostagem",
+			"Fendas extra-largas e bandeja coletora de migalhas",
+			"Laterais em inox com funções descongelar e reaquecer",
+			"Dimensões de 21,5 x 31,5 x 19,5cm e peso de 1,71kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "extra-larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "8 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico com laterais em inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "descongelar; reaquecer; cancelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 31,5 x 19,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,71kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "mondial-t-18-700w",
+		"name": "Mondial T-18 700W",
+		"image": "/images/posts/melhor-torradeira-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 700W com seis níveis de tostagem",
+			"Fendas largas e controle de temperatura",
+			"Bandeja coletora de migalhas para limpeza",
+			"Corpo em plástico, com peso de 730 gramas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Funções extras",
+				"value": "cancelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24,5 x 16,5 x 14,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "730 gramas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "oster-otor650-750w",
+		"name": "Oster OTOR650 750W",
+		"image": "/images/posts/melhor-torradeira-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sete níveis de tostagem e controle de temperatura",
+			"Fendas largas com bandeja coletora de migalhas",
+			"Funções descongelar, reaquecer e cancelar",
+			"Potência de 750W em 127V ou 650W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W (127V); 650W (220V)"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico com pequenas partes em inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "descongelar; reaquecer; cancelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,5 x 26 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "900 gramas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "britania-66201021-800w",
+		"name": "Britânia ‎66201021 800W",
+		"image": "/images/posts/melhor-torradeira-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 800W com sete níveis de tostagem",
+			"Fendas extra-largas e controle de temperatura",
+			"Funções descongelar, reaquecer e cancelar",
+			"Corpo em plástico com peso de 1,162kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Número de fendas",
+				"value": "2"
+			},
+			{
+				"label": "Largura das fendas",
+				"value": "extra-larga"
+			},
+			{
+				"label": "Níveis de tostagem",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "sim"
+			},
+			{
+				"label": "Bandeja coletora de migalhas",
+				"value": "sim"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Funções extras",
+				"value": "descongelar; reaquecer; cancelar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,7 x 27,2 x 27,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,162kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	}
+]
