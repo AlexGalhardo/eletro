@@ -126,6 +126,8 @@ Conferido em `src/lib/components/CardsTable.svelte`:
 - `shopeeUrl: "#"` e `amazonUrl: "#"`: os botões não aparecem.
 - A foto e o nome do produto usam a primeira loja com endereço real; sem nenhuma, apontam para a oferta padrão.
 
+Com a flag `allStoreButtons` ligada no navegador ([feature-flags.md](feature-flags.md)), os três botões aparecem, e o que não tem link real aponta para a oferta padrão.
+
 Desde a 1.3.0 todo link passa pelo dashboard de links: ver [affiliate-links.md](affiliate-links.md).
 
 Antes de publicar, cada link precisa virar um endereço real ou ser removido da lista (valor `null` ou campo ausente: o botão só aparece quando o campo tem valor).
@@ -142,6 +144,27 @@ O servidor busca um endereço digitado pelo admin, o que é uma superfície de S
 - O endpoint exige sessão de admin e entra no limite de 60 escritas por minuto.
 
 Para aceitar outro site, inclua o host em `site.postImport` (`src/lib/site.config.ts`). O parser atual só entende o layout do eletrosinter.
+
+## Importação em lote
+
+`webscrapping/batch.ts` importa vários posts do eletrosinter de uma vez. Ele lê os sitemaps `post-sitemap*.xml` da origem e lista as URLs que ainda não existem aqui. "Existe" quer dizer que algum `content/posts/*.mdx` tem a URL no campo `ref` (sem barra final, sem `www` e em minúsculas).
+
+```bash
+# Lista o que falta, sem gravar nada
+bun webscrapping/batch.ts
+
+# Importa como rascunho; --limit N importa só N posts
+bun webscrapping/batch.ts --write --limit 20
+```
+
+- Aceita `/<seção>/<slug>/` e `/<seção>/<subseção>/<slug>/`. Ignora a home e as páginas `/produto/...`.
+- Usa o mesmo `importPost` de `/admin/import`, com store local, sem a reescrita da Mistral. Os posts são importados em sequência, com pausa de 1,5 s entre um e outro.
+- Cada página vira um rascunho: `draft: true`, links `"#"`, fotos em `static/images/posts/` e capa gerada.
+- Relatório em `.data/batch-import.json` (fora do git). As páginas recusadas ficam ali com o motivo: layout sem `.box-products`, foto em host não permitido, slug repetido ou entidade HTML inválida.
+- Idempotente: rodar de novo só importa o que falta.
+- O CDN da Magalu (`a-static.mlcdn.com.br`) responde 403 a robôs: os posts com fotos lá ficam de fora. O bloqueio não é contornado.
+
+O lote copia só fatos: nomes de produto, fichas técnicas e fotos de produto. O texto é sempre original. Cada rascunho sai com um esqueleto gerado a partir do nome e da ficha técnica. Depois, agentes Claude Haiku 5.5 reescrevem o texto usando só esses dados, nunca o texto da origem, seguindo `docs/prompts/PROMPT-POSTAGEM.md`. Nenhum trecho da origem vai para o repositório.
 
 ## O que foi criado no blog
 
@@ -188,7 +211,7 @@ Se um dia a origem passar a depender de JavaScript para renderizar, ou bloquear 
 - **Texto copiado:** copiar o texto de outro site é problema de direito autoral e de SEO (conteúdo duplicado). O importador não copia, mas o rascunho gerado é pobre: publicar sem reescrever também é ruim para SEO.
 - **Ranking de terceiros:** a seleção e a ordem dos produtos são escolhas editoriais da origem. O rascunho guarda a origem em `ref`.
 - **Imagens:** ver "O que ainda depende do dono".
-- **Etiqueta de acesso:** uma página por importação, mais as fotos, com `User-Agent` identificado. Não use o importador em laço para copiar o site inteiro.
+- **Etiqueta de acesso:** uma página por importação, mais as fotos, com `User-Agent` identificado. O lote ([acima](#importação-em-lote)) copia só fatos, em sequência e com pausa de 1,5 s entre as páginas. O texto dos rascunhos é sempre original.
 - **Falha no meio:** se a gravação falhar depois de algumas fotos, elas ficam no store sem uso. Importar de novo cria fotos com sufixo (`-1-2.jpg`).
 - **Limite de requisições:** o contador de escritas fica na memória de cada instância (ver [api.md](api.md)).
 
@@ -201,5 +224,6 @@ Se um dia a origem passar a depender de JavaScript para renderizar, ou bloquear 
 | `tests/integration/import.test.ts` | Serviço e endpoint com store em pasta temporária e `fetch` simulado, inclusive a reescrita e a falha da Mistral |
 | `tests/e2e/import.spec.ts` | Acesso à tela e recusa de endereço fora da lista |
 | `tests/integration/content.test.ts` | O rascunho real e a lista, como todo conteúdo do repositório |
+| `webscrapping/batch.test.ts` | Importação em lote: escolha das URLs que faltam e opções do `batch.ts` |
 
 Nenhum teste acessa a rede nem usa uma chave real.
