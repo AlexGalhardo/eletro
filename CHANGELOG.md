@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.5.1] - 2026-11-10
+
+### Fixed
+
+- A busca da barra de navegação mostra os 6 resultados inteiros, sem cortar os 2 últimos.
+
 ## [2.5.0] - 2026-11-10
 
 ### Added
@@ -499,7 +505,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.5.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.5.1...HEAD
+[2.5.1]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.5.0...v2.5.1
 [2.5.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.9...v2.5.0
 [2.4.9]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.8...v2.4.9
 [2.4.8]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.7...v2.4.8

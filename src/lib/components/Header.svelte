@@ -99,7 +99,7 @@
 
 {#snippet suggestions()}
 	<div
-		class="absolute top-full right-0 left-0 z-50 mt-2 max-h-80 overflow-y-auto rounded-xl border border-gray-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-950"
+		class="absolute top-full right-0 left-0 z-50 mt-2 max-h-[calc(100vh-6rem)] overflow-y-auto rounded-xl border border-gray-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-950"
 		role="listbox"
 	>
 		{#each results as post, index (post.slug)}
