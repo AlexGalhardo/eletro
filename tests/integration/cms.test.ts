@@ -151,8 +151,14 @@ describe("product lists", () => {
 });
 
 describe("listProductListPreviews", () => {
-	it("gives the name and image of every product, reading only the lists that are not bundled", async () => {
-		const other = { ...product, id: "p2", name: "Produto Dois", image: "https://example.com/p2.jpg" };
+	it("gives the name, image and link counts of every product, reading only the lists that are not bundled", async () => {
+		const other = {
+			...product,
+			id: "p2",
+			name: "Produto Dois",
+			image: "https://example.com/p2.jpg",
+			amazonUrl: "#",
+		};
 		await saveProductList(store, "cafeteiras", [product, other], author);
 		await saveProductList(store, "moedores", [product], author);
 		const bundled = await readFile(path.join(root, "content/products/moedores.json"), "utf8");
@@ -170,13 +176,13 @@ describe("listProductListPreviews", () => {
 			expect.objectContaining({
 				name: "cafeteiras",
 				products: [
-					{ name: "Produto Um", image: "https://example.com/p1.jpg" },
-					{ name: "Produto Dois", image: "https://example.com/p2.jpg" },
+					{ name: "Produto Um", image: "https://example.com/p1.jpg", links: 1, pending: 0 },
+					{ name: "Produto Dois", image: "https://example.com/p2.jpg", links: 1, pending: 1 },
 				],
 			}),
 			expect.objectContaining({
 				name: "moedores",
-				products: [{ name: "Produto Um", image: "https://example.com/p1.jpg" }],
+				products: [{ name: "Produto Um", image: "https://example.com/p1.jpg", links: 1, pending: 0 }],
 			}),
 		]);
 		expect(reads).toEqual(["content/products/cafeteiras.json"]);

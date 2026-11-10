@@ -16,6 +16,7 @@
 	let search = $state("");
 	let status = $state(page.url.searchParams.get("status") ?? "");
 	let category = $state("");
+	let links = $state("");
 
 	const fold = (text: string) =>
 		text
@@ -28,7 +29,8 @@
 			(post) =>
 				(!search || fold(`${post.title} ${post.slug}`).includes(fold(search))) &&
 				(!category || post.category === category) &&
-				(!status || (status === "pending" ? !post.deployed : post.status === status)),
+				(!status || (status === "pending" ? !post.deployed : post.status === status)) &&
+				(!links || (links === "pending" ? post.pending > 0 : post.pending === 0)),
 		),
 	);
 
@@ -44,7 +46,7 @@
 	<a href="/admin/posts/new" class={ui.primary}>Novo post</a>
 </div>
 
-<div class="mt-6 grid gap-3 md:grid-cols-[2fr_1fr_1fr]">
+<div class="mt-6 grid gap-3 md:grid-cols-[2fr_1fr_1fr_1fr]">
 	<div>
 		<label for="search" class={ui.label}>Buscar</label>
 		<input id="search" type="search" bind:value={search} placeholder="Título ou slug" class={ui.input} />
@@ -68,6 +70,14 @@
 			{/each}
 		</select>
 	</div>
+	<div>
+		<label for="links" class={ui.label}>Links de afiliado</label>
+		<select id="links" bind:value={links} class={ui.input}>
+			<option value="">Todos</option>
+			<option value="pending">Com links pendentes (#)</option>
+			<option value="done">Sem pendências</option>
+		</select>
+	</div>
 </div>
 
 <p class="mt-4 text-sm text-gray-600 dark:text-gray-400" aria-live="polite">{visible.length} post(s)</p>
@@ -80,6 +90,7 @@
 				<th scope="col" class="px-4 py-2 font-medium">Título</th>
 				<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
 				<th scope="col" class="px-4 py-2 font-medium">Produtos</th>
+				<th scope="col" class="px-4 py-2 font-medium" title="Links reais / pendentes (#)">Links</th>
 				<th scope="col" class="px-4 py-2 font-medium">Data</th>
 				<th scope="col" class="px-4 py-2 font-medium">Status</th>
 			</tr>
@@ -115,6 +126,11 @@
 							</a>
 						{/each}
 					</td>
+					<td class="px-4 py-2 whitespace-nowrap">
+						{post.links}{#if post.pending > 0}
+							<span class="text-amber-600 dark:text-amber-400"> · {post.pending} pendentes</span>
+						{/if}
+					</td>
 					<td class="px-4 py-2 whitespace-nowrap">{day(post.date)}</td>
 					<td class="px-4 py-2 whitespace-nowrap">
 						{STATUS[post.status]}{#if !post.deployed}
@@ -123,7 +139,7 @@
 					</td>
 				</tr>
 			{:else}
-				<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
+				<tr><td colspan="7" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
 			{/each}
 		</tbody>
 	</table>
