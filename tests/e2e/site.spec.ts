@@ -36,9 +36,16 @@ test.describe("home", () => {
 		let labels: string[];
 		if (isMobile) {
 			await page.getByRole("button", { name: "Abrir menu" }).click();
-			const links = page.getByRole("dialog").locator("a[href='/'], a[href^='/?categoria=']");
-			labels = (await links.allTextContents()).map((label) => label.trim()).slice(1);
+			// "Todos" and the logo also link to "/", so only the category links are read; "Todos" is checked apart.
+			const dialog = page.getByRole("dialog");
+			await expect(dialog.getByRole("link", { name: "Todos", exact: true })).toHaveAttribute(
+				"href",
+				"/",
+			);
+			const links = dialog.locator("nav a[href^='/?categoria=']");
+			labels = ["Todos", ...(await links.allTextContents()).map((label) => label.trim())];
 			await page.getByRole("button", { name: "Fechar menu" }).click();
+			await expect(dialog).toBeHidden();
 		} else {
 			const filters = page.locator("main button[aria-pressed]");
 			labels = (await filters.allTextContents()).map((label) => label.trim());
