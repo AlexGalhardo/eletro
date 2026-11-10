@@ -1,11 +1,11 @@
 ---
 import { homeJsonLd } from "#lib/seo/jsonld.ts";
-import { coverWidths, getPosts } from "#lib/server/content.ts";
+import { coverWidths, getPosts, getSitePosts } from "#lib/server/content.ts";
 import { site } from "#lib/site.config.ts";
 import Site from "../layouts/Site.astro";
 import Home from "../routes/(site)/page.svelte";
 
-const posts = getPosts();
+const posts = getSitePosts();
 const data = {
 	posts: posts.map(({ slug, title, description, cover, date, category }) => ({
 		slug,
@@ -16,7 +16,8 @@ const data = {
 		date,
 		category,
 	})),
-	jsonLdPosts: posts.slice(0, 8),
+	// Structured data only names published posts, even when drafts are shown.
+	jsonLdPosts: getPosts().slice(0, 8),
 	activeCategories: [...new Set(posts.map((post) => post.category))],
 };
 ---

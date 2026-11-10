@@ -44,6 +44,15 @@ export function isPublished(post: Pick<Post, "draft" | "date">, now = new Date()
 	return !post.draft && post.date <= today(now);
 }
 
+/** What a visitor can browse: the published posts, or every post when the `showDrafts` flag is on. */
+export function visiblePosts<T extends { post: Pick<Post, "draft" | "date"> }>(
+	entries: T[],
+	showDrafts: boolean,
+	now = new Date(),
+): T[] {
+	return showDrafts ? entries : entries.filter((entry) => isPublished(entry.post, now));
+}
+
 /** Names of the product lists a post body references through `<CardsTable list="..." />`. */
 export function referencedLists(body: string): string[] {
 	return [...body.matchAll(/<CardsTable\s+list="([^"]+)"/g)].map((match) => match[1] as string);

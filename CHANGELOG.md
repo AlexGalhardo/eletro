@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.5.0] - 2026-11-10
+
+### Added
+
+- Flag `showDrafts` (ou `SHOW_DRAFTS=1` no build): rascunhos aparecem no site como se publicados, na home, nas categorias, na busca e em `/<slug>`, com `noindex`. Sitemap, `llms.txt`, API e dashboard de links seguem só com os publicados.
+
 ## [2.4.9] - 2026-11-10
 
 - fix: add the renamed photos and covers referenced by imported drafts
@@ -493,7 +499,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.9...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.5.0...HEAD
+[2.5.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.9...v2.5.0
 [2.4.9]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.8...v2.4.9
 [2.4.8]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.7...v2.4.8
 [2.4.7]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.6...v2.4.7

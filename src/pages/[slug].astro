@@ -1,15 +1,16 @@
 ---
+import { isPublished } from "#lib/content/parse.ts";
 import { postJsonLd } from "#lib/seo/jsonld.ts";
-import { getPost, getPosts, postPageData } from "#lib/server/content.ts";
+import { getSitePost, getSitePosts, postPageData } from "#lib/server/content.ts";
 import Site from "../layouts/Site.astro";
 import PostPage from "../routes/(site)/[slug]/page.svelte";
 
 export function getStaticPaths() {
-	return getPosts().map((post) => ({ params: { slug: post.slug } }));
+	return getSitePosts().map((post) => ({ params: { slug: post.slug } }));
 }
 
 const slug = Astro.params.slug ?? "";
-const entry = getPost(slug);
+const entry = getSitePost(slug);
 if (!entry) throw new Error(`Post ausente no build: ${slug}`);
 const data = postPageData(entry);
 ---
@@ -22,6 +23,7 @@ const data = postPageData(entry);
 	type="article"
 	publishedTime={entry.post.date}
 	jsonLd={postJsonLd(entry.post)}
+	noindex={!isPublished(entry.post)}
 >
 	<PostPage data={data} client:load />
 </Site>

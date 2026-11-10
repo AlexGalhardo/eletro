@@ -6,6 +6,12 @@ import raw from "../../content/flags.json";
 export const flagDefaults = {
 	/** Build flag: drafts and scheduled posts get a noindex page at /preview/<slug>. */
 	previewDrafts: raw.previewDrafts === true,
+	/**
+	 * Build flag: drafts and scheduled posts render on the site as if published (home, categories, search,
+	 * /<slug>), with noindex. Sitemap, llms.txt, API and the links dashboard keep only published posts.
+	 * Also on with SHOW_DRAFTS=1 at build time (see `showDrafts` in server/content.ts).
+	 */
+	showDrafts: raw.showDrafts === true,
 	/** Browser flag: product cards show the three store buttons even when a link is still "#". */
 	allStoreButtons: raw.allStoreButtons === true,
 };
