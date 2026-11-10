@@ -41,6 +41,15 @@ O schema é `postFrontmatterSchema` em `src/lib/content/schema.ts`. Frontmatter 
 
 Não use `{` nem `}` no texto: o mdsvex trata como expressão Svelte.
 
+## Categorias
+
+`category` aceita um `id` de `site.categories` em `src/lib/site.config.ts`:
+
+- `ferramentas`, `limpeza`, `climatizacao`, `moveis`, `lavanderia`, `cozinha`, `cuidados-pessoais`
+- `banheiro`, `cama-mesa-banho`, `iluminacao`, `infantil`, `jardim`
+
+A categoria só aparece no rodapé quando tem post publicado. Categoria nova precisa de entrada em `site.categories` e de ícone Lucide em `src/lib/components/CategoryIcon.svelte`.
+
 ## Lista de produtos
 
 Arquivo: `content/products/<lista>.json`, um array de produtos.
@@ -72,6 +81,8 @@ Arquivo: `content/products/<lista>.json`, um array de produtos.
 |---|---|
 | `<CardsTable list="<lista>" />` | Cartões dos produtos da lista. `shuffle={false}` mantém a ordem do arquivo |
 
+Com a flag `allStoreButtons` ligada no navegador ([feature-flags.md](feature-flags.md)), o `CardsTable` mostra os três botões mesmo com link `"#"`; o botão sem link real aponta para a oferta padrão.
+
 Para criar um componente novo: adicione o arquivo em `src/lib/components/`, registre o nome em `CONTENT_COMPONENTS` (`src/lib/content/mdx-preprocess.ts`) e documente nesta tabela.
 
 ## Imagens
@@ -83,3 +94,18 @@ Para criar um componente novo: adicione o arquivo em `src/lib/components/`, regi
 ## Validação
 
 `bun run test` roda `tests/integration/content.test.ts`, que confere todo post e toda lista: schema, slug, capa e imagens existentes, listas referenciadas existentes e ids sem repetição.
+
+## Status dos posts
+
+`bun run post-status` gera [`post-status.md`](post-status.md) a partir de `content/`: uma linha por post, com rascunho, produtos, links de loja reais e pendentes (campos com `"#"`). Não edite esse arquivo à mão.
+
+- Rode o comando depois de mudar `content/posts` ou `content/products`, e commite o arquivo junto.
+- `tests/integration/post-status.test.ts` falha quando o arquivo está desatualizado. O hook `pre-push` roda os testes, então ele não sai velho.
+- Commits `content:` feitos pelo painel em produção não regeneram o arquivo: a próxima sessão roda `bun run post-status`.
+- `/admin/posts` mostra a mesma informação: coluna "Links" e filtro "Links de afiliado".
+
+## Rascunhos e prévia
+
+- `draft: true` e data futura ficam fora do site. Com `previewDrafts` ligado em `content/flags.json`, o build gera `/preview/<slug>` para eles: página com faixa "Prévia de rascunho", `noindex`, fora do sitemap, do `llms.txt`, da API pública e do dashboard de links.
+- Para revisar um rascunho, abra `/preview/<slug>`, ou escolha o post na lista de `/admin/flags`.
+- Detalhes das flags e como desligar a prévia: [feature-flags.md](feature-flags.md).

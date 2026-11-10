@@ -58,6 +58,7 @@ O `id` identifica o produto no dashboard de links, junto com o post que o exibe:
 
 ```bash
 bun run test         # schema, ids repetidos na lista, imagens e listas referenciadas
+bun run post-status  # atualiza docs/post-status.md (links e pendentes da lista nos posts); commite o arquivo junto
 bun run sync-links   # catálogo dos posts publicados: id repetido no mesmo post falha aqui; sem a chave, não envia nada
 bun run build
 ```
