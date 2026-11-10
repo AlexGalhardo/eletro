@@ -1,0 +1,322 @@
+[
+	{
+		"id": "bialetti-venus-300ml",
+		"name": "Bialetti Venus 300mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 18/10 polido com acabamento elegante",
+			"Compatível com fogão a gás, elétrico e indução",
+			"Válvula de segurança patenteada",
+			"Alça de nylon preto resistente ao calor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "300mL (6 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox 18/10 polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrico; indução"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Material da alça",
+				"value": "nylon preto resistente ao calor"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, válvula patenteada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 13,5 x 10,5cm"
+			}
+		]
+	},
+	{
+		"id": "bialetti-moka-express-270ml",
+		"name": "Bialetti Moka Express 270mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo tradicional no sistema moka com vapor e pressão",
+			"Alça de nylon preto resistente ao calor",
+			"Válvula de segurança patenteada",
+			"Corpo de alumínio polido com 6 xícaras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "270mL (6 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrica; indução (apenas com adaptador)"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Material da alça",
+				"value": "nylon preto resistente ao calor"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, válvula patenteada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 12,5 x 10,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "580g"
+			}
+		]
+	},
+	{
+		"id": "verona-brinox-aluminio-300ml",
+		"name": "Verona Brinox Aluminio 300mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alumínio polido com 6 xícaras",
+			"Válvula de segurança certificada pelo INMETRO",
+			"Alça de baquelite resistente ao calor",
+			"Compatível com fogão a gás e elétrico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "300mL (6 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrico"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Material da alça",
+				"value": "baquelite resistente ao calor"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, certificada pelo INMETRO"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 16 x 11,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "500g"
+			}
+		]
+	},
+	{
+		"id": "pubamal-ta139-450ml",
+		"name": "Pubamal TA139 450mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade de moka desta lista, com 9 xícaras",
+			"Aço inox polido compatível com indução",
+			"Válvula de segurança integrada à base inferior",
+			"Alça de aço inox com acabamento ergonômico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "450mL (9 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrico; indução"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Material da alça",
+				"value": "aço inox com acabamento ergonômico"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, integrada na base inferior"
+			},
+			{
+				"label": "Peso",
+				"value": "549g"
+			}
+		]
+	},
+	{
+		"id": "mimo-style-af06-300ml",
+		"name": "Mimo Style AF06 300mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alumínio polido com 6 xícaras e 410g",
+			"Compatível com fogão a gás e elétrico",
+			"Válvula de segurança localizada na base inferior",
+			"Dimensões compactas de 19 x 17 x 11cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "300mL (6 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrica"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, localizada na base inferior"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 17 x 11cm"
+			},
+			{
+				"label": "Peso",
+				"value": "410g"
+			}
+		]
+	},
+	{
+		"id": "cadence-caf120-1-5l",
+		"name": "Cadence ‎CAF120 1,5L",
+		"image": "/images/posts/melhor-cafeteira-italiana-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cafeteira elétrica de 1,5 litro para 15 xícaras",
+			"Aço inox polido com válvula de segurança",
+			"Selo OCP SGS e Inmetro na válvula",
+			"Preparo elétrico com pressão controlada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,5 litros (15 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável polido"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "—"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação elétrica (vapor/pressão controlada)"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, com selo OCP SGS (Inmetro)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,8 x 13,2 x 21,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-61768-100-350ml",
+		"name": "Tramontina ‎61768/100 350mL",
+		"image": "/images/posts/melhor-cafeteira-italiana-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatível com fogão a gás, elétrico e indução",
+			"Válvula de segurança integrada à câmara inferior",
+			"Alça de nylon para manuseio",
+			"Seis xícaras em aço inox, polipropileno e nylon"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "350mL (6 xícaras)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox, polipropileno e nylon"
+			},
+			{
+				"label": "Compatibilidade de fogão",
+				"value": "a gás; elétrico; indução"
+			},
+			{
+				"label": "Tipo de preparo",
+				"value": "sistema de percolação “moka” tradicional (vapor/pressão)"
+			},
+			{
+				"label": "Material da alça",
+				"value": "nylon"
+			},
+			{
+				"label": "Válvula de segurança",
+				"value": "sim, integrada à câmara inferior"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,8 x 11,4 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "556g"
+			}
+		]
+	}
+]

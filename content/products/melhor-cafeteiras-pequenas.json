@@ -1,0 +1,396 @@
+[
+	{
+		"id": "mondial-c-28-ecl-expresso",
+		"name": "Mondial C-28-ECL (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo de espresso ou cápsula com 20 bar de pressão",
+			"Painel touch com 7 bebidas e opção de personalização manual",
+			"Função de limpeza automática e reservatórios removíveis",
+			"Suporte aquecido para xícaras e bandeja antirrespingo",
+			"Reservatório de leite de 700ml incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro (água); 700ml (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V); 1350W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "20 bar de pressão; porta-filtro com duas saídas; painel touch com 7 bebidas + opção manual de personalização; função limpeza automática; reservatórios removíveis; suporte aquecido para xícaras; bandeja antirrespingo; pés com ventosa; compatibilidade com cápsulas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro com duas saídas; filtros para café curto e longo; colher dosadora com socador; reservatório de leite de 700ml"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 29 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-20-ec-expresso",
+		"name": "Mondial C-20-EC (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20 bar com porta-filtro de duas saídas",
+			"Bico vaporizador para espuma de leite",
+			"Painel LED e suporte aquecido para xícaras",
+			"Compatível com adaptador para cápsulas Nespresso e Dolce Gusto",
+			"Pés antiderrapantes com ventosa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico com acabamento em aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; porta-filtro com duas saídas; bico vaporizador para espuma de leite; suporte aquecido para xícaras; painel LED; bandeja antirrespingo removível; compatível com adaptador para cápsulas Nespresso e Dolce Gusto; pés antiderrapantes com ventosa"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro com duas saídas; colher dosadora com socador; filtro para pó"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,8 x 30,6 x 15,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm10-600ml-eletrica",
+		"name": "Electrolux ECM10 600mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 600mL com jarra de vidro",
+			"Função manter aquecido e base de aquecimento",
+			"Sistema corta-pingos e luz indicadora de funcionamento",
+			"Filtro permanente removível incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido; sistema corta-pingos; base de aquecimento; luz indicadora de funcionamento; indicador do nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 14,6 x 22,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "940g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini-capsula",
+		"name": "Nespresso Essenza Mini (cápsula)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo com cápsulas e kit com 7 cápsulas",
+			"Desligamento automático e recipiente para cápsulas usadas",
+			"Capacidade de 600mL e 1260W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "desligamento automático; conteiner de cápsulas; kit com 7 cápsulas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 11 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf300-750ml-eletrica",
+		"name": "Oster OCAF300 750mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 750mL com jarra de vidro",
+			"Função Manter Aquecido para a bebida",
+			"Filtro removível incluso",
+			"Potência de 600W e 1,2kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750ml"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 14 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cadence-caf338-750ml-eletrica",
+		"name": "Cadence CAF338 750mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema corta-pingos e base de aquecimento",
+			"Indicador de nível de água no reservatório",
+			"Botão liga/desliga com luz de funcionamento",
+			"Filtro permanente removível e jarra de vidro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; base de aquecimento; indicador de nível de água; botão liga/desliga com luz de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 19,3 x 14,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "900g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf900-expresso",
+		"name": "Oster OCAF900 (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-pequenas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba de 20bar com compatibilidade com cápsulas Nespresso",
+			"Porta-filtro duplo para até 2 xícaras simultâneas",
+			"Espumador de leite e vaporizador de água quente",
+			"Painel touch com 4 funções pré-programadas",
+			"Base removível e sistema antiaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, cápsula e pó"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba de 20bar de pressão; compatibilidade com cápsulas Nespresso e café em pó; espumador de leite; vaporizador de água quente; painel touch com 4 funções pré-programadas (espresso curto, espresso longo, vaporizador e liga/desliga); sistema 2 em 1 com porta-filtro duplo para até 2 xícaras simultaneamente; sistema antiaquecimento; base removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para espresso simples e duplo; acessório para cápsulas; espumador de leite; reservatório de água removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,7 x 21,8 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,24kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

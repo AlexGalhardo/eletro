@@ -1,0 +1,334 @@
+[
+	{
+		"id": "bosch-gds-18v-1000-1-2-1600nm",
+		"name": "Bosch GDS 18V-1000 (1/2\" 1600Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 1600Nm, o maior da lista",
+			"Três níveis de velocidade variável",
+			"Iluminação LED e carregador bivolt incluso",
+			"Até 2600 impactos por minuto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "18V"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "800RPM a 1750RPM (ajustável em 3 níveis)"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "até 2600IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "1600Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″ quadrado"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			},
+			{
+				"label": "Carregador bivolt",
+				"value": "incluso"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dcf892b-b3-1-2-812nm",
+		"name": "Dewalt DCF892B-B3 (1/2\" 812Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3250 impactos por minuto",
+			"Torque de 812Nm com quatro níveis de velocidade",
+			"Iluminação LED integrada",
+			"Peso leve de 1,96kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "0 – 2000RPM (ajustável em 4 níveis)"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "3250IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "812Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″ quadrado"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "1,96kg"
+			}
+		]
+	},
+	{
+		"id": "sigma-tools-sgt-7500-1-2-620nm",
+		"name": "Sigma Tools SGT-7500 (1/2\" 620Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria de 20V com 4000mAh",
+			"Torque de 620Nm com três níveis de velocidade",
+			"Carregador bivolt incluso",
+			"Peso de apenas 1,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Capacidade da bateria",
+				"value": "4000mAh"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "0 – 2250RPM (ajustável em 3 níveis)"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "620Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″ quadrado"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "não"
+			},
+			{
+				"label": "Carregador bivolt",
+				"value": "incluso"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "oz-ch3500-1-2-430nm",
+		"name": "Oz CH3500 (1/2\" 430Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3000 impactos por minuto",
+			"Iluminação LED e carregador bivolt incluso",
+			"Bateria de 20V com 4000mAh",
+			"Torque de 430Nm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Capacidade da bateria",
+				"value": "4000mAh"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "1900RPM a 2400RPM (ajustável em 2 níveis)"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "até 3000IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "430Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			},
+			{
+				"label": "Carregador bivolt",
+				"value": "incluso"
+			}
+		]
+	},
+	{
+		"id": "black-tools-tb-21i-1-2-430nm",
+		"name": "Black Tools TB-21I (1/2\" 430Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-5.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3000 impactos por minuto",
+			"Iluminação LED e carregador bivolt incluso",
+			"Bateria de 21V com 4000mAh",
+			"Torque de 430Nm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "21V"
+			},
+			{
+				"label": "Capacidade da bateria",
+				"value": "4000mAh"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "1900RPM a 2400RPM"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "3000IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "430Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			},
+			{
+				"label": "Carregador bivolt",
+				"value": "incluso"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			}
+		]
+	},
+	{
+		"id": "potente-cord120002-1-2-880nm",
+		"name": "Potente CORD120002 (1/2\" 880Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-6.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 880Nm",
+			"Bateria de 20V com 4000mAh",
+			"Iluminação LED para o trabalho",
+			"2200 impactos por minuto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Capacidade da bateria",
+				"value": "4000mAh"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "2700RPM"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "2200IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "880Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″ quadrado"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dcf922-1-2-610nm",
+		"name": "Dewalt DCF922 (1/2\" 610Nm)",
+		"image": "/images/posts/melhor-chave-de-impacto-a-bateria-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 3550 impactos por minuto",
+			"Torque de 610Nm com iluminação LED",
+			"Mandril quadrado de 1/2 polegada",
+			"Peso de 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão da bateria",
+				"value": "20V"
+			},
+			{
+				"label": "Velocidade variável",
+				"value": "2500RPM"
+			},
+			{
+				"label": "Impactos por minuto (IPM)",
+				"value": "3550IPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "610Nm"
+			},
+			{
+				"label": "Mandril ou encaixe",
+				"value": "1/2″ quadrado"
+			},
+			{
+				"label": "Iluminação LED",
+				"value": "sim"
+			},
+			{
+				"label": "Carregador bivolt",
+				"value": "não incluso"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1Kg"
+			}
+		]
+	}
+]

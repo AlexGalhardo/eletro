@@ -1,0 +1,377 @@
+[
+	{
+		"id": "nespresso-vertuo-creatista",
+		"name": "Nespresso Vertuo Creatista",
+		"image": "/images/posts/melhor-cafeteira-nespresso-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Vertuo com extração por centrifusão",
+			"Até 7 tamanhos de bebidas e modo Coffee Creations",
+			"Tubo de vapor automático para texturizar o leite",
+			"Conectividade Bluetooth e Wi-Fi com app Nespresso",
+			"Reservatório de 2 litros de água e 240mL de leite"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 litros (água); 240mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Vertuo com extração por centrifusão; leitura de código de barras nas cápsulas; preparo de até 7 tamanhos de bebidas; modo Coffee Creations para receitas com leite; tubo de vapor automático para texturização de leite; ajuste de temperatura e textura do leite em 3 níveis; modo receita com extração concentrada; conectividade via Bluetooth e Wi-Fi com app Nespresso; painel intuitivo; desligamento automático após 2 minutos; modo economia de energia; aquecimento rápido; container para cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "12 cápsulas de degustação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,2 x 24,5 x 41,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-pixie-redesign",
+		"name": "Nespresso Pixie Redesign",
+		"image": "/images/posts/melhor-cafeteira-nespresso-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba de pressão de 19 bar e aquecimento em 25 segundos",
+			"Espresso de 40ml e café lungo de 110ml",
+			"Tamanho ristretto de 25mL programável",
+			"Operação por dois botões",
+			"Peso de 2,4kg e reservatório de 700mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700mL (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 2 tamanhos de café (espresso 40ml e lungo 110ml); tamanho ristretto (25mL) programável; bomba de pressão de 19 bar; aquecimento rápido em 25 segundos; desligamento automático após 2 minutos; modo economia de energia; sistema de operação por dois botões; recipiente interno para cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "7 cápsulas de degustação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,5 x 11,1 x 32,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini",
+		"name": "Nespresso Essenza Mini",
+		"image": "/images/posts/melhor-cafeteira-nespresso-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba de pressão de 19 bar com ristretto de 25ml",
+			"Espresso de 40ml e lungo de 110ml",
+			"Desligamento automático após 9 minutos",
+			"Recipiente para até 6 cápsulas usadas",
+			"Reservatório de 600mL e 1260W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 2 tamanhos de café (espresso 40ml e lungo 110ml); ristretto (25ml) compatível com cápsulas; bomba de pressão de 19 bar; aquecimento rápido em 25 segundos; desligamento automático após 9 minutos; modo economia de energia; operação por botões programáveis; recipiente interno para cápsulas usadas (6 cápsulas)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 11 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-citiz",
+		"name": "Nespresso CitiZ",
+		"image": "/images/posts/melhor-cafeteira-nespresso-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro bebidas: espresso, lungo, americano e americano XL",
+			"Função de água quente para outras bebidas",
+			"Aquecimento rápido em 25 segundos",
+			"Modo de baixo consumo após 2 minutos",
+			"Corpo em aço inoxidável com bandeja inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 4 opções de bebidas (espresso, lungo, americano e americano XL); função de água quente; aquecimento rápido em 25 segundos; desligamento automático após 9 minutos; modo de baixo consumo após 2 minutos; operação por botões; recipiente interno para cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "7 cápsulas de degustação; bandeja"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,4 x 13 x 38,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini-d30",
+		"name": "Nespresso Essenza Mini D30",
+		"image": "/images/posts/melhor-cafeteira-nespresso-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espumador Aeroccino3 com espuma quente e fria",
+			"Função de água quente para outras bebidas",
+			"Bomba de pressão de 19 bar e aquecimento em 25 segundos",
+			"Desligamento automático após 9 minutos",
+			"Reservatório de 600mL com 1260W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 2 tamanhos de café (espresso 40ml e lungo 110ml); ristretto (25ml) compatível com cápsulas; bomba de pressão de 19 bar; aquecimento rápido em 25 segundos; desligamento automático após 9 minutos; modo economia de energia; operação por botões programáveis; função de água quente para outras bebidas; recipiente interno para cápsulas usadas (6 cápsulas); espumador de leite Aeroccino3 com preparo de espuma quente e fria"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "espumador de leite Aeroccino3"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 11 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-vertuo-pop",
+		"name": "Nespresso Vertuo Pop",
+		"image": "/images/posts/melhor-cafeteira-nespresso-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 6 tamanhos de café com a tecnologia Centrifusion",
+			"Leitura automática de código de barras das cápsulas",
+			"Operação com um botão",
+			"Aquecimento rápido em 30 segundos",
+			"Material de plástico com 29% reciclado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1300–1500W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico 29% reciclado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de até 6 tamanhos de café (ristretto 25ml; espresso 40ml; double espresso 80ml; gran lungo 150ml; signature 230ml; alto 355ml); tecnologia Centrifusion™; leitura automática de código de barras das cápsulas; operação com um botão; conectividade via Bluetooth e Wi-Fi com app Nespresso; aquecimento rápido em 30 segundos; modo de baixo consumo de energia; recipiente interno para cápsulas usadas (até 8 espresso ou 5 mug)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "12 cápsulas de degustação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 13,6 x 42,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-creatista-plus",
+		"name": "Nespresso Creatista Plus",
+		"image": "/images/posts/melhor-cafeteira-nespresso-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento ultrarrápido em 3 segundos",
+			"Bico vaporizador profissional para texturizar o leite",
+			"Configurações de volume, temperatura e espuma personalizáveis",
+			"Espumador autolimpante integrado",
+			"Jarra de leite e tira de teste de dureza da água inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro (água); 500mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de até 7 opções de bebidas (ristretto, espresso, lungo e receitas com leite como cappuccino e latte macchiato); bomba de pressão de 19 bar; bico vaporizador profissional para texturização de leite; ajuste de temperatura e textura do leite; painel digital com seleção de bebidas; aquecimento ultrarrápido em 3 segundos; desligamento automático após 9 minutos; modo economia de energia; recipiente interno para cápsulas usadas (até 12 cápsulas); espumador de leite autolimpante integrado; configurações personalizáveis de volume, temperatura e espuma"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de leite; kit de degustação de cápsulas; tira de teste de dureza da água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 16,8 x 41,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

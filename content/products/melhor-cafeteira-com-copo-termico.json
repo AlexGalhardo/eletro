@@ -1,0 +1,314 @@
+[
+	{
+		"id": "oster-2day-inox-2-em-1-ocaf200-400ml",
+		"name": "Oster 2Day Inox 2 em 1 OCAF200 400mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Desligamento automático ao final do ciclo",
+			"Copo térmico de 400 mL com tampa e suporte para duas xícaras",
+			"Filtro removível e porta-filtro permanente",
+			"Bandeja com altura regulável e luz indicadora de funcionamento",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "inox (copo) e plástico (cafeteira)"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "desligamento automático ao final do ciclo; luz indicadora de funcionamento; bandeja com altura regulável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo térmico de 400mL com tampa; suporte para duas xícaras; filtro removível; porta-filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,8 x 13,2 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "870g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-cm01-400ml",
+		"name": "Black+Decker CM01 400mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo com tampa e vedação para transporte",
+			"Copo térmico de 400 mL com tampa",
+			"Filtro permanente e porta-filtro inclusos",
+			"Aço inox e luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "copo com tampa com vedação para transporte; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo térmico de 400mL com tampa; suporte para xícaras; filtro permanente; porta-filtro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cadence-vambora-caf207-470ml",
+		"name": "Cadence Vambora CAF207 470mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo térmico de 470 mL com tampa",
+			"Base removível para o dia a dia",
+			"Filtro removível e lavável",
+			"Aço inox e luz indicadora de funcionamento",
+			"Dimensões de 26 x 21 x 11 cm e peso de 800g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "470mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "luz indicadora de funcionamento; base removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo térmico de 470mL com tampa; filtro removível e lavável; suporte do filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 21 x 11cm"
+			},
+			{
+				"label": "Peso",
+				"value": "800g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-iced-coffee-ocaf820-600ml",
+		"name": "Oster Iced Coffee OCAF820 600mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo de café quente ou gelado",
+			"Copo de 600 mL com parede dupla e tampa",
+			"Controle de fluxo e desligamento automático",
+			"Marcações para água e gelo no copo",
+			"Canudo e colher dosadora inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de café quente ou gelado; controle de fluxo; desligamento automático; luz indicadora de funcionamento; marcações para água e gelo no copo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo de 600mL com parede dupla; tampa; canudo; filtro permanente; suporte do filtro; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,5 x 21 x 14,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,09kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elite-gourmet-ehc111a-400ml",
+		"name": "Elite Gourmet EHC111A 400mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Caneca térmica de aço inox de 400 mL",
+			"Filtro reutilizável e porta-filtro inclusos",
+			"Peso de 397g e dimensões de 24,1 x 12,7 x 16,5 cm",
+			"Luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "caneca térmica de aço inox de 400mL; filtro reutilizável; porta-filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24,1 x 12,7 x 16,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "397g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "cadence-caf206-240ml",
+		"name": "Cadence CAF206 240mL",
+		"image": "/images/posts/melhor-cafeteira-com-copo-termico-6.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 240 mL, a menor desta lista",
+			"Potência de 700W com preparo coado",
+			"Copo térmico com filtro permanente",
+			"Colher dosadora inclusa",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "240mL"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo térmico; filtro permanente; colher dosadora"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

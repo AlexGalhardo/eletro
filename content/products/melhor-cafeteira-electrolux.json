@@ -1,0 +1,184 @@
+[
+	{
+		"id": "electrolux-ecm30-1-5-litro",
+		"name": "Electrolux ECM30 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável e painel digital",
+			"Desligamento automático e função Manter Aquecido",
+			"Função corta-pingos e indicador do nível de água",
+			"Filtro permanente e jarra de vidro inclusos",
+			"Potência de 900W para 1,5 litro"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica programável" },
+			{ "label": "Capacidade", "value": "1,5 litro" },
+			{ "label": "Potência", "value": "900W" },
+			{ "label": "Material", "value": "plástico, aço inox escovado e vidro" },
+			{ "label": "Recursos e funções", "value": "timer programável; indicador do nível de água; painel digital; sistema AromaStrenght; desligamento automático; função Manter Aquecido; função corta-pingos" },
+			{ "label": "Acessórios inclusos", "value": "filtro permanente; jarra de vidro" },
+			{ "label": "Dimensões (A x L x P)", "value": "35 x 18,5 x 27,5cm" },
+			{ "label": "Peso", "value": "1,81kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-ecm25-1-2-litro",
+		"name": "Electrolux ECM25 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas e desligamento após 2 horas",
+			"Placa de aquecimento antiaderente",
+			"Lâmpada piloto e indicador do nível de água",
+			"Filtro permanente removível e jarra de vidro",
+			"Sistema corta pingos e função manter aquecido"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica programável" },
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Potência", "value": "800W" },
+			{ "label": "Material", "value": "plástico, aço inox escovado e vidro" },
+			{ "label": "Recursos e funções", "value": "sistema corta pingos; timer 24 horas; desligamento automático após 2 horas; função manter aquecido; lâmpada piloto; placa de aquecimento antiaderente; indicador do nível de água" },
+			{ "label": "Acessórios inclusos", "value": "jarra de vidro; filtro permanente removível" },
+			{ "label": "Dimensões (A x L x P)", "value": "32,9 x 18,3 x 24,9cm" },
+			{ "label": "Peso", "value": "1,7kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-ecm10-600ml",
+		"name": "Electrolux ECM10 600mL",
+		"image": "/images/posts/melhor-cafeteira-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 600ml e potência de 600W",
+			"Função manter aquecido e base de aquecimento",
+			"Sistema corta-pingos e luz indicadora de funcionamento",
+			"Filtro permanente removível e jarra de vidro",
+			"Peso de 940g e dimensões de 26,2 x 14,6 x 22,2cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica" },
+			{ "label": "Capacidade", "value": "600ml" },
+			{ "label": "Potência", "value": "600W" },
+			{ "label": "Material", "value": "plástico, aço inox escovado e vidro" },
+			{ "label": "Recursos e funções", "value": "função manter aquecido; sistema corta-pingos; base de aquecimento; luz indicadora de funcionamento; indicador do nível de água" },
+			{ "label": "Acessórios inclusos", "value": "jarra de vidro; filtro permanente removível" },
+			{ "label": "Dimensões (A x L x P)", "value": "26,2 x 14,6 x 22,2cm" },
+			{ "label": "Peso", "value": "940g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-ecm20-1-2-litro",
+		"name": "Electrolux ECM20 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 750W e capacidade de 1,2 litro",
+			"Sistema corta-pingos e base de aquecimento",
+			"Função Manter Aquecido e indicador do nível de água",
+			"Jarra de vidro e filtro permanente",
+			"Peso de 1,1kg e dimensões de 30 x 16,8 x 23cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica" },
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Material", "value": "plástico, aço inox e vidro" },
+			{ "label": "Recursos e funções", "value": "sistema corta-pingos; função Manter Aquecido; base de aquecimento; indicador do nível de água; luz indicadora de funcionamento" },
+			{ "label": "Acessórios inclusos", "value": "jarra de vidro; filtro permanente" },
+			{ "label": "Dimensões (A x L x P)", "value": "30 x 16,8 x 23cm" },
+			{ "label": "Peso", "value": "1,1kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-ecm22-1-2-litro",
+		"name": "Electrolux ECM22 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Iluminação LED e jarra de inox",
+			"Sistema corta-pingos e base de aquecimento",
+			"Filtro permanente removível e indicador de nível",
+			"Função Manter Aquecido e potência de 750W",
+			"Peso de 1,15kg e dimensões de 30,2 x 16,8 x 26,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica" },
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Material", "value": "plástico e aço inox escovado" },
+			{ "label": "Recursos e funções", "value": "sistema corta-pingos; função Manter Aquecido; base de aquecimento; indicador do nível da água; iluminação LED" },
+			{ "label": "Acessórios inclusos", "value": "jarra de inox; filtro permanente removível" },
+			{ "label": "Dimensões (A × L × P)", "value": "30,2 x 16,8 x 26,5cm" },
+			{ "label": "Peso", "value": "1,15kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-cmp70-1-25-litro",
+		"name": "Electrolux CMP70 1,25 litro",
+		"image": "/images/posts/melhor-cafeteira-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologias PerfectSense e AutoBloom",
+			"Funil de mixagem e sistema corta-pingos",
+			"Reservatório de água removível e alarme de descalcificação",
+			"Vidro em borossilicato e jarra de vidro",
+			"Potência de 1250W em 127V e 1630W em 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica" },
+			{ "label": "Capacidade", "value": "1,25 litro" },
+			{ "label": "Potência", "value": "1250W (127V) / 1630W (220V)" },
+			{ "label": "Material", "value": "polipropileno e vidro em borossilicato" },
+			{ "label": "Recursos e funções", "value": "Tecnologia PerfectSense; Tecnologia AutoBloom; funil de mixagem; sistema corta-pingos; função AromaStrength; função Manter Aquecido; desligamento automático; base de aquecimento; indicador do nível de água transparente; reservatório de água removível; alarme de descalcificação; luz indicadora de funcionamento" },
+			{ "label": "Acessórios inclusos", "value": "jarra de vidro; filtro permanente e removível; colher medidora especial" },
+			{ "label": "Dimensões (A x L x P)", "value": "34,7 x 34,2 x 17,7cm" },
+			{ "label": "Peso", "value": "2,38kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-ecm12-600ml",
+		"name": "Electrolux ECM12 600mL",
+		"image": "/images/posts/melhor-cafeteira-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra inox e filtro permanente",
+			"Placa antiaderente e lâmpada piloto",
+			"Função Manter Aquecido e sistema corta-pingos",
+			"Indicador do nível de água transparente",
+			"Potência de 600W em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "elétrica" },
+			{ "label": "Capacidade", "value": "600mL" },
+			{ "label": "Potência", "value": "600W" },
+			{ "label": "Material", "value": "plástico e aço inox escovado" },
+			{ "label": "Recursos e funções", "value": "função Manter Aquecido; sistema corta-pingos; placa antiaderente; indicador do nível de água transparente; lâmpada piloto" },
+			{ "label": "Acessórios inclusos", "value": "jarra inox; filtro permanente" },
+			{ "label": "Dimensões (A x L x P)", "value": "26,2 x 14,6 x 22,3cm" },
+			{ "label": "Peso", "value": "930g" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

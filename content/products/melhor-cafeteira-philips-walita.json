@@ -1,0 +1,282 @@
+[
+	{
+		"id": "philips-walita-ep5547-expresso",
+		"name": "Philips Walita EP5547 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-philips-walita-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia SilentBrew com preparo 40% mais silencioso",
+			"Até quatro perfis de usuário no painel touch",
+			"Filtro AquaClean para até 5000 xícaras",
+			"Sistema LatteGo para preparar bebidas com leite"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "super automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema LatteGo; moinhos de cerâmica; 12 níveis de moagem; 15bar de pressão; SilentBrew (40% mais silenciosa); QuickStart; sistema Aroma Extract; filtro AquaClean (até 5000 xícaras); painel touch com My Coffee Choice; perfis de usuário (até 4); desligamento automático; controle de temperatura (3 níveis); base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; filtro AquaClean; fita para testar a dureza da água; tampa de armazenamento LatteGo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ep4441-expresso",
+		"name": "Philips Walita EP4441 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-philips-walita-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfis de usuário, até dois, no painel touch",
+			"Controle de temperatura em três níveis",
+			"Pressão de 15 bars para o preparo do espresso",
+			"Função QuickStart para acionar o preparo mais rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "super automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema LatteGo; moinhos de cerâmica; 12 níveis de moagem; 15 bars de pressão; SilentBrew (40% mais silenciosa); QuickStart; sistema Aroma Extract; filtro AquaClean (até 5000 xícaras); painel touch intuitivo; perfis de usuário (até 2); controle de temperatura (3 níveis); desligamento automático; base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; filtro AquaClean; fita para testar a dureza da água; sistema de armazenamento LatteGo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,317kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ep1220-expresso",
+		"name": "Philips Walita EP1220 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-philips-walita-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vaporizador clássico para o leite",
+			"Componentes removíveis para facilitar a limpeza",
+			"Menu My Coffee Choice no painel touch",
+			"Pressão de 15 bar com moinhos de cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "super automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "moinhos de cerâmica; 12 níveis de moagem; 15bar de pressão; sistema Aroma Extract; painel touch intuitivo; menu My Coffee Choice; vaporizador de leite clássico; desligamento automático; componentes removíveis; base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; fita para teste de dureza da água; bandeja coletora removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,38kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ep2330-expresso",
+		"name": "Philips Walita EP2330 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-philips-walita-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alertas de manutenção para acompanhar o aparelho",
+			"Armazenamento do leite pelo sistema LatteGo",
+			"Modo silencioso pela tecnologia SilentBrew",
+			"Filtro AquaClean incluído para a água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "super automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema LatteGo; moinhos de cerâmica; 12 níveis de moagem; 15bar de pressão; tecnologia SilentBrew; sistema Aroma Extract; filtro AquaClean (até 5000 xícaras); painel intuitivo; desligamento automático; alertas de manutenção"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro AquaClean; sistema de armazenamento LatteGo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,385kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ep2230-expresso",
+		"name": "Philips Walita EP2230 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-philips-walita-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de intensidade de aroma",
+			"Três níveis de volume de bebida",
+			"Menu My Coffee Choice no painel touch",
+			"Filtro AquaClean e fita para testar a dureza da água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "super automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema LatteGo; moinhos de cerâmica; 12 níveis de moagem; 15bar de pressão; sistema Aroma Extract; filtro AquaClean (até 5000 xícaras); painel touch com My Coffee Choice; 3 níveis de intensidade de aroma; 3 níveis de volume de bebida; desligamento automático; base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; filtro AquaClean; fita para testar a dureza da água; tubo de graxa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,38kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,386 @@
+[
+	{
+		"id": "tres-coracoes-lov",
+		"name": "Três Corações LOV",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara cápsulas e outras bebidas em um só aparelho",
+			"Pressão de 15 bar na extração da cápsula",
+			"Compartimento para descarte de cápsulas usadas",
+			"Suporte ajustável para copos long drink"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "950mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, componentes metálicos e pintura metalizada"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "botão individual para tipos de bebidas; pressão de 15 bar; extração automática; sistema multipressão; cápsula de retrolavagem; compartimento para descarte de cápsulas; suporte ajustável para copos long drink"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem; guia rápido; guia de manutenção; manual; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 16 x 20,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm25",
+		"name": "Electrolux ECM25",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas para programar o preparo",
+			"Desliga sozinha após 2 horas de funcionamento",
+			"Filtro permanente removível, sem gastar papel de coar",
+			"Sistema corta pingos e placa antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer 24 horas; sistema corta pingos; filtro permanente removível; função manter aquecido; placa de aquecimento antiaderente; desligamento automático após 2 horas; indicador do nível de água; lâmpada piloto"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,9 x 18,3 x 24,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm10",
+		"name": "Electrolux ECM10",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro de 600mL para preparo compacto",
+			"Sistema corta pingos e função manter aquecido",
+			"Filtro permanente removível e base de aquecimento",
+			"Indicador do nível de água e luz de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta pingos; função manter aquecido; filtro permanente removível; base de aquecimento; indicador do nível de água; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 14,6 x 22,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "940g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf650",
+		"name": "Oster OCAF650",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de inox com capacidade de 1,2L",
+			"Função manter aquecido para servir o café quente",
+			"Sistema antigotejamento na hora de servir",
+			"Potência de 750W com corpo em plástico e inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido; sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,6 x 15,3 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-coffee-break",
+		"name": "Elgin Coffee Break",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Colher dosadora e porta filtro já inclusos",
+			"Base com aquecimento e luz indicadora de funcionamento",
+			"Filtro permanente lavável e removível",
+			"Proteção contra superaquecimento durante o uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base com aquecimento; sistema corta-pingos; filtro permanente lavável e removível; indicador do nível de água; proteção contra superaquecimento; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher dosadora; jarra de vidro; porta filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24,7 x 16 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "delta-q-miniqool-mnqc110",
+		"name": "Delta Q MiniQool MNQC110",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Volume programável para cada tipo de bebida",
+			"Compatível com cápsulas de diferentes bebidas",
+			"Pressão de 19 bar na extração das cápsulas",
+			"Eficiência energética A+++ com potência de 1200W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Material",
+				"value": "metal e plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "volume programável; compatível com cápsulas de diferentes bebidas; pressão de 19 bar; eficiência energética A+++"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,8 x 9,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm20",
+		"name": "Electrolux ECM20",
+		"image": "/images/posts/melhor-cafeteira-simples-e-barata-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro de 1,2L com 750W de potência",
+			"Sistema corta pingos e base de aquecimento",
+			"Filtro permanente removível para uso diário",
+			"Indicador do nível de água e luz de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta pingos; função manter aquecido; filtro permanente removível; base de aquecimento; indicador do nível de água; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 16,8 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

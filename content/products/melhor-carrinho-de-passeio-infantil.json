@@ -1,0 +1,397 @@
+[
+	{
+		"id": "maxi-cosi-patroller",
+		"name": "Maxi-Cosi Patroller",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-1-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Triciclo evolutivo indicado a partir de 1 ano",
+			"Suporta até 25kg com estrutura de alumínio",
+			"Assento ajustável, removível e com 2 posições de inclinação",
+			"Cinto de 5 pontos e rodas emborrachadas",
+			"Dobra para 38 x 40 x 68cm quando fechado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 1 ano"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "alumínio"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável, removível e com inclinação em 2 posições"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Rodas",
+				"value": "emborrachado"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "ajustável, removível e com 2 níveis de altura"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "dobrável, removível e substituível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "93 x 79 x 49cm (aberto); 38 x 40 x 68cm (fechado)"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			}
+		]
+	},
+	{
+		"id": "safety-1st-bytes",
+		"name": "Safety 1st Bytes",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-2-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modo berço e passeio indicado desde o nascimento",
+			"Suporta até 22kg com estrutura de ferro",
+			"Assento reclinável e apoio para pés ajustável em 2 posições",
+			"Cinto de segurança de 5 pontos",
+			"Pesa 7,8kg e mede 101 x 49,5 x 55cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "berço e passeio"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir do nascimento"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 22kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "ferro"
+			},
+			{
+				"label": "Assento",
+				"value": "reclinável"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "manopla fixa"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "ajustável em 2 posições"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "101 x 49,5 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,8kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-toys-waygo",
+		"name": "Maxi Toys Waygo",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-3-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Triciclo evolutivo indicado a partir de 2 anos",
+			"Assento rotativo de 360° com encosto em 3 posições",
+			"Suporta até 25kg com estrutura de aço e plástico",
+			"Barra de empurrar ajustável e removível",
+			"Cinto de 3 pontos e apoio para pés removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "triciclo evolutivo"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 2 anos"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 25kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço e plástico"
+			},
+			{
+				"label": "Assento",
+				"value": "rotativo 360° com encosto reclinável em 3 posições"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "ajustável e removível"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "110 x 75 x 53cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,4kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-toffy",
+		"name": "Cosco Kids Toffy",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-4-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicado para recém-nascidos, em modo berço e passeio",
+			"Assento reclinável com cinto de segurança de 5 pontos",
+			"Manopla com revestimento macio na barra de empurrar",
+			"Suporta 15kg com estrutura de ferro e polipropileno",
+			"Pesa 7,3kg e mede 98 x 62 x 87,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "berço e passeio"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "15kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "ferro e polipropileno"
+			},
+			{
+				"label": "Assento",
+				"value": "reclinável"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "manopla com revestimento macio"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 x 62 x 87,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,3kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-link",
+		"name": "Maxi Baby Link",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Berço e passeio indicado desde o nascimento",
+			"Assento com inclinação total tipo berço",
+			"Manoplas ergonômicas e apoio para pés ajustável",
+			"Estrutura de aço com 5,25kg de peso",
+			"Suporta até 15kg e tem cinto de 5 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "berço e passeio"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir do nascimento"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Assento",
+				"value": "reclinável com inclinação total tipo berço"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "manoplas ergonômicas"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 51 x 73cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,25kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-movee",
+		"name": "Maxi Baby Movee",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de passeio indicado desde o nascimento",
+			"Pesa 4,3kg, o mais leve desta lista",
+			"Cinto de segurança de 5 pontos",
+			"Assento não reclinável; mede 97 x 46 x 70cm",
+			"Suporta até 15kg com estrutura de aço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "passeio"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir do nascimento"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Assento",
+				"value": "não reclinável"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 46 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-nivi",
+		"name": "Maxi Baby Nivi",
+		"image": "/images/posts/melhor-carrinho-de-passeio-infantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Berço e passeio indicado desde o nascimento",
+			"Assento com inclinação total tipo berço",
+			"Manopla confortável na barra de empurrar",
+			"Suporta até 15kg com estrutura de aço",
+			"Pesa 6,5kg e mede 100 x 52 x 63cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "berço e passeio"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir do nascimento"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Assento",
+				"value": "reclinável com inclinação total tipo berço"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Barra de empurrar",
+				"value": "manopla confortável"
+			},
+			{
+				"label": "Apoio para pés",
+				"value": "ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100 x 52 x 63cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			}
+		]
+	}
+]

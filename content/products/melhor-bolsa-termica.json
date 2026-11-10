@@ -1,0 +1,299 @@
+[
+	{
+		"id": "insmeer-002gy-48-litros",
+		"name": "INSMEER ‎002GY (48 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 48 litros para volumes maiores",
+			"Material externo de poliéster Oxford resistente à água",
+			"Isolamento em espuma PU para manter a temperatura",
+			"Alça de ombro ajustável e removível, além de alça de mão acolchoada",
+			"Zíper duplo no compartimento principal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "48 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster Oxford resistente à água"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "espuma PU"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper duplo; 1 bolso externo lateral em tela"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de mão acolchoada; 1 alça de ombro ajustável e removível"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "45 x 35 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "800g"
+			}
+		]
+	},
+	{
+		"id": "insmeer-od013b-bg-45-litros",
+		"name": "INSMEER ‎OD013B-BG (45 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro compartimentos para organizar os itens",
+			"Oxford 900D com PVC impermeável para proteção externa",
+			"Espuma de poliestireno de 5mm como isolamento",
+			"Duas alças de mão e uma de ombro para variar o transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "45 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "Oxford 900D + PVC impermeável"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "espuma de poliestireno 5mm"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper duplo; 1 bolso frontal com zíper duplo; 2 bolsos laterais em tela"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de ombro; 2 alças de mão"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "30 x 33 x 43cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "qubccum-bt-tif02-13-5-litros",
+		"name": "Qubccum ‎BT-TIF02 (13,5 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois compartimentos internos com zíper duplo",
+			"Manta térmica laminada como isolamento",
+			"Leve, com 300g e 13,5 litros de capacidade",
+			"Duas alças de mão e uma de ombro para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "13,5 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster Oxford"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "manta térmica laminada"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "2 internos com zíper duplo; 1 bolso frontal com zíper; 2 bolsos laterais em tela"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de ombro; 2 alças de mão"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "14,5 x 24,5 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "everbags-01-6-litros",
+		"name": "Everbags 01 (6 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma PAC de 8mm revestida com PVC térmico",
+			"Alça de mão acolchoada para mais conforto",
+			"Alça de ombro regulável para ajustar ao corpo",
+			"Compartimento frontal e bolso interno em tela"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "6 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "emborrachado"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "espuma PAC 8mm revestida com PVC térmico"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper; 1 bolso frontal; 1 bolso interno em tela"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de mão acolchoada; 1 alça de ombro regulável"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "17 x 16 x 21cm"
+			}
+		]
+	},
+	{
+		"id": "as-imports-6-litros",
+		"name": "AS IMPORTS (6 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Manta térmica laminada para isolamento em 6 litros",
+			"Compartimento principal com zíper duplo",
+			"Alça de ombro ajustável e alça de mão",
+			"Dimensões compactas de 14 x 21 x 18cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "6 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "manta térmica laminada"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper duplo"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de mão; 1 alça de ombro ajustável"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "14 x 21 x 18cm"
+			}
+		]
+	},
+	{
+		"id": "sannea-wine-bag-8-litros",
+		"name": "Sannea Wine Bag (8 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma PU como isolamento térmico",
+			"Capacidade de 8 litros com peso de 700g",
+			"Compartimento principal com zíper duplo",
+			"Alças de ombro e de mão para carregar de dois jeitos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "8 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "espuma PU"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper duplo"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de ombro; 1 alça de mão"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "23 x 36 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "700g"
+			}
+		]
+	},
+	{
+		"id": "mor-7896020636090-10-litros",
+		"name": "Mor 7896020636090 (10 litros)",
+		"image": "/images/posts/melhor-bolsa-termica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"A mais leve da lista, com 254g",
+			"Três bolsos em tela além do compartimento principal",
+			"Compartimento principal com zíper duplo",
+			"Alça de ombro para carregar com as mãos livres"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "10 litros"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster"
+			},
+			{
+				"label": "Compartimentos",
+				"value": "1 principal com zíper duplo; 2 bolsos laterais em tela; 1 bolso frontal em tela"
+			},
+			{
+				"label": "Alças",
+				"value": "1 alça de ombro"
+			},
+			{
+				"label": "Dimensões (C x A x L)",
+				"value": "26 x 20 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "254g"
+			}
+		]
+	}
+]

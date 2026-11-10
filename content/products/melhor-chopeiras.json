@@ -1,0 +1,409 @@
+[
+	{
+		"id": "memo-small-inox-sml-cx050-50l-h",
+		"name": "Memo Small Inox SML.CX050 50L/h",
+		"image": "/images/posts/melhor-chopeiras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressor e potência de 850W",
+			"Capacidade de 50 litros por hora",
+			"Controle de temperatura de -1°C a 2°C",
+			"Aço inox com 2 torneiras e bandeja com grelha",
+			"Peso de 35,2kg e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "50L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "-1°C a 2°C"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 torneiras; bandeja com grelha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48 x 42 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-bierhaus-ecc055pc-5-litros",
+		"name": "Eos Bierhaus ECC055PC (5 litros)",
+		"image": "/images/posts/melhor-chopeiras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressor de 100W e barril de 5 litros",
+			"Controle de temperatura de -3°C a 10°C",
+			"Acabamento all black e gás R600a",
+			"Dimensões de 55 x 27,7 x 47,4 cm",
+			"Peso de 10,9kg e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "-3°C e 10°C"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "all black"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 27,7 x 47,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece051pb-5-litros",
+		"name": "Eos Bierhaus ECE051PB (5 litros)",
+		"image": "/images/posts/melhor-chopeiras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 65W e barril de 5 litros",
+			"Ajuste manual de temperatura de 2°C a 12°C",
+			"Bandeja removível e acabamento all black",
+			"Peso de 5,7kg e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "65W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajuste manual (2°C a 12°C)"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "all black"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja removível"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48,2 x 27,2 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "krups-beertender-b101-5-litros",
+		"name": "Krups Beertender B101 (5 litros)",
+		"image": "/images/posts/melhor-chopeiras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 70W e barril de 5 litros",
+			"Controle automático de temperatura e bandeja coletora",
+			"Plástico e metal, com 7,4kg de peso",
+			"Dimensões de 45 x 32,5 x 50,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja coletora"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 32,5 x 50,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "catfer-p-mini-barril-de-chope-5-litros",
+		"name": "Catfer P/Mini Barril de Chope (5 litros)",
+		"image": "/images/posts/melhor-chopeiras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo portátil de 5 litros",
+			"Refrigeração por gelo e torneira inclusa",
+			"Metal com pintura epóxi, com 6,5kg",
+			"Dimensões de 42,5 x 35,5 x 35,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "—"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "gelo"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "metal com pintura epóxi"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "torneira"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,5 x 35,5 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "bravo-zero-black-50l-h",
+		"name": "Bravo!Zero Black 50L/h",
+		"image": "/images/posts/melhor-chopeiras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 245W e capacidade de 50L/h",
+			"Compressor e gás R-134a",
+			"Torneira italiana e pingadeira inclusas",
+			"Alumínio com acabamento em aço fosco",
+			"Peso de 30kg e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "245W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "50L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "alumínio com acabamento em aço fosco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "torneira italiana; pingadeira"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "R-134a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50 x 29 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "memo-small-sml-ia22-50l-h",
+		"name": "Memo Small SML.IA22 50L/h",
+		"image": "/images/posts/melhor-chopeiras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 850W e capacidade de 50L/h",
+			"Compressor com gás R-134a",
+			"Torneira italiana e bandeja coletora com grelha",
+			"Aço inox com peso de 35,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "50L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "-1°C e 2°C"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "torneira italiana; bandeja coletora com grelha"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "R-134a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48 x 42 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

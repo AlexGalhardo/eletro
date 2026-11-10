@@ -1,0 +1,278 @@
+[
+	{
+		"id": "eos-latte-italiana-ecf05ecl",
+		"name": "EOS Latte Italiana ECF05ECL",
+		"image": "/images/posts/melhor-cafeteira-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis dosagens pré-programadas com um toque",
+			"Compatível com cápsulas Nespresso e Dolce Gusto",
+			"Função espuma latte com ajuste de intensidade",
+			"Alerta de descalcificação após 1000 preparos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro (água); 600mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 19 bar; sistema avançado Thermoblock; painel com luzes indicadoras em LED; 6 dosagens pré-programadas ao toque de um botão; compatível com cápsulas Nespresso e Dolce Gusto; preparo com pó ou sachê; função espuma latte; ajuste de intensidade da espuma; área superior de aquecimento para xícaras; função autolimpeza; modo de economia de energia (standby após 30 minutos); alerta de descalcificação após 1000 preparos; modo proteção por falta de água; ajuste de altura do copo; sinal sonoro ao final do preparo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 filtros; cachimbo porta-filtro; adaptador Dolce Gusto; adaptador Nespresso; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 35,6 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-espresso-3-em-1-ecf07ec",
+		"name": "EOS Espresso 3 em 1 ECF07EC",
+		"image": "/images/posts/melhor-cafeteira-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara espresso, cappuccino e latte",
+			"Aquecimento rápido e proteção contra superaquecimento",
+			"Função autolimpeza e sistema de descalcificação",
+			"Componentes removíveis para lavar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro (água); 500mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Material",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; preparo de espresso, cappuccino, latte e vaporização de leite; função autolimpeza; sistema de descalcificação; aquecimento rápido; proteção contra superaquecimento; componentes removíveis; compatível com café moído, cápsula Nespresso e sachê"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta filtro café moído; filtro para 1 xícara; filtro para 2 xícaras; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 21,5 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "eos-italiana-2-em-1-ecf06ec",
+		"name": "EOS Italiana 2 em 1 ECF06EC",
+		"image": "/images/posts/melhor-cafeteira-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara duas xícaras ao mesmo tempo",
+			"Vaporizador de leite para espuma cremosa",
+			"Botões de controle intuitivos",
+			"Componentes removíveis e compatível com café moído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Material",
+				"value": "inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "manual"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; preparo de espresso; vaporizador de leite; geração de espuma cremosa; botões de controle intuitivos; componentes removíveis; compatível com café moído, cápsulas e sachê; prepara 2 xícaras ao mesmo tempo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para café moído; filtro para 1 xícara; filtro para 2 xícaras; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,5 x 16 x 28,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-premium-3-em-1-ecf01ec",
+		"name": "EOS Premium 3 em 1 ECF01EC",
+		"image": "/images/posts/melhor-cafeteira-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produz uma xícara em 25 segundos",
+			"Tanque de água removível e transparente",
+			"Bandeja coletora lavável",
+			"Proteção contra superaquecimento e sobrepressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Material",
+				"value": "inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 19 bar; sistema avançado Thermoblock; preparo com cápsula, pó ou sachê; seletor de função; produz 1 xícara em 25 segundos; painel com 4 botões; função de espuma de leite; vapor ajustável; tanque de água removível transparente; bandeja coletora lavável; proteção contra superaquecimento e sobrepressão; prepara 2 xícaras ao mesmo tempo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 37 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-premium-ecf08ec",
+		"name": "EOS Premium ECF08EC",
+		"image": "/images/posts/melhor-cafeteira-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecedor de xícaras para mantê-las aquecidas",
+			"Preparo duplo com duas xícaras ao mesmo tempo",
+			"Aquecimento rápido e componentes removíveis",
+			"Potência de 950W, a menor da linha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Material",
+				"value": "inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; preparo de espresso; vaporizador de leite; geração de espuma cremosa; aquecimento rápido; componentes removíveis; aquecedor de xícaras. preparo duplo (2 xícaras ao mesmo tempo)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "adaptador para café moído; filtro para 1 xícara; filtro para 2 xícaras; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 23,5 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,45kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

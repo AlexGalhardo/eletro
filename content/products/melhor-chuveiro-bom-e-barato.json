@@ -1,0 +1,349 @@
+[
+	{
+		"id": "lorenzetti-duo-shower-quadra-7500w",
+		"name": "LORENZETTI Duo Shower Quadra 7500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7500W em 220V",
+			"Quatro níveis de temperatura",
+			"Compatível com DR e com sistema solar",
+			"Opera com pressão mínima de 25kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "25kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-advanced-7500w",
+		"name": "LORENZETTI Advanced 7500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletrônico com haste de regulagem",
+			"Pressão mínima de 10kPa, a menor da lista",
+			"Potência de até 7500W em 220V",
+			"Compatível com DR e sistema solar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6400W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônico com haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-shower-7500w",
+		"name": "LORENZETTI Loren Shower 7500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Haste de regulagem com quatro níveis de temperatura",
+			"Pressão mínima de 10kPa",
+			"Potência de até 7500W em 220V",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-futura-7500w",
+		"name": "LORENZETTI Futura 7500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletrônico com haste de regulagem",
+			"Pressão mínima de 10kPa",
+			"Compatível com sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônico com haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-ducha-top-jet-5500w",
+		"name": "LORENZETTI Ducha Top Jet 5500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7500W em 220V e 5500W em 127V",
+			"Quatro níveis de temperatura",
+			"Compatível com DR e sistema solar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hydra-fit-dpft-e-682br-6800w",
+		"name": "Hydra Fit DPFT.E.682BR 6800W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletrônico com haste de regulagem",
+			"Potência de até 6800W em 220V",
+			"Compatível com DR",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 6800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônica com haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-ducha-relax-5500w",
+		"name": "LORENZETTI Ducha Relax 5500W",
+		"image": "/images/posts/melhor-chuveiro-bom-e-barato-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botão seletor para escolher a temperatura",
+			"Três níveis de temperatura",
+			"Pressão mínima de 10kPa",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "4600W (127V) ou 5500W (127V), 4600W (220V) ou 5500W (220V)"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "3"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

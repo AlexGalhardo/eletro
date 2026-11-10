@@ -1,0 +1,338 @@
+[
+	{
+		"id": "zagonel-ducali-premium-digital",
+		"name": "Zagonel Ducali Premium Digital",
+		"image": "/images/posts/melhor-chuveiro-zagonel-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Regulagem gradual de temperatura",
+			"Compatível com DR e sistema solar",
+			"Potência de 7500W em 220V",
+			"Pressão mínima de 10kPa e máxima de 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-ducali",
+		"name": "Zagonel Ducali",
+		"image": "/images/posts/melhor-chuveiro-zagonel-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Opções de potência de 4400W a 7500W",
+			"Compatível com sistema solar",
+			"Regulagem gradual com grau IP24",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 4400W (127V) ou 7500W (220V), 6800W (220V), 4400W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-sublime",
+		"name": "Zagonel Sublime",
+		"image": "/images/posts/melhor-chuveiro-zagonel-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Opções de potência de 4400W a 7500W",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual com grau IP24",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 4400W (127V) ou 7500W (220V), 6800W (220V), 4400W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-quadratta",
+		"name": "Zagonel Quadratta",
+		"image": "/images/posts/melhor-chuveiro-zagonel-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7700W em 220V",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual de temperatura",
+			"Pressão mínima de 10kPa e máxima de 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7700W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-nd",
+		"name": "Zagonel ND",
+		"image": "/images/posts/melhor-chuveiro-zagonel-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7700W em 220V e 5500W em 127V",
+			"Compatível com sistema solar e DR",
+			"Grau de proteção IP24",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7700W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-moment",
+		"name": "Zagonel Moment",
+		"image": "/images/posts/melhor-chuveiro-zagonel-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas opções de potência em 220V: 6800W e 7700W",
+			"Pressão máxima de 400kPa",
+			"Regulagem gradual de temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7700W (220V), 6800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-move",
+		"name": "Zagonel Move",
+		"image": "/images/posts/melhor-chuveiro-zagonel-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Várias potências, de 4400W a 7500W",
+			"Pressão mínima de 10kPa e máxima de 400kPa",
+			"Regulagem gradual de temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 4400W (127V) ou 7500W (220V), 6800W (220V), 4400W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

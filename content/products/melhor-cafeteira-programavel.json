@@ -1,0 +1,394 @@
+[
+	{
+		"id": "philips-walita-ep4441-55-expresso",
+		"name": "Philips Walita EP4441/55 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-programavel-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Doze bebidas automáticas com painel touch",
+			"Moinhos de cerâmica com 12 níveis de moagem",
+			"Sistema LatteGo para bebidas com leite",
+			"Modo silencioso com a tecnologia SilentBrew"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "expresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8L (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e cerâmica"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "12 bebidas automáticas; controle de intensidade, volume e temperatura (3 níveis); painel touch intuitivo; 2 perfis de usuário; ajuste de moagem em 12 níveis; sistema LatteGo; filtro AquaClean; modo silencioso com a tecnologia SilentBrew; QuickStart; desligamento automático; base antiderrapante; conectividade com app HomeID"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; filtro AquaClean; fita para teste de dureza da água; sistema de armazenamento LatteGo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,317kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ep1220-15-expresso",
+		"name": "Philips Walita EP1220/15 (expresso)",
+		"image": "/images/posts/melhor-cafeteira-programavel-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 15 bar para espresso e lungo",
+			"Vaporizador clássico de leite",
+			"Aceita café em pó e prepara espresso e lungo",
+			"Componentes compatíveis com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "expresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8L (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e cerâmica"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "expresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de espresso e lungo; vaporizador clássico de leite; display touch com My Coffee Choice; ajuste de intensidade e quantidade (3 níveis); ajuste de moagem em 12 níveis; 15 bar de pressão; sistema Aroma Extract; compatível com café em pó; desligamento automático; base antiderrapante; compatível com lava-louças"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora; fita para teste de dureza da água; bandeja coletora removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,2 x 24,6 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,38kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm25-1-2l-eletrica",
+		"name": "Electrolux ECM25 1,2L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-programavel-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas com display digital",
+			"Função manter aquecido e desligamento após 2 horas",
+			"Sistema corta-pingos e indicador de nível de água",
+			"Filtro permanente removível e compatível com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer 24h; display digital; função manter aquecido; desligamento automático após 2 horas; sistema corta pingos; base de aquecimento; indicador de nível de água; compatível com lava-louças; lâmpada piloto"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,9 x 18,3 x 24,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm30-1-5l-eletrica",
+		"name": "Electrolux ECM30 1,5L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-programavel-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,5 litro e filtro permanente removível",
+			"Potência de 900W para o preparo do coado",
+			"Sistema AromaStrenght para o aroma do café",
+			"Timer programável de 24 horas com display digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável (24h); display digital; função manter aquecido; desligamento automático (2h); sistema corta pingos; indicador de nível de água; luz indicadora de funcionamento; sistema AromaStrenght"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-bvstdc4401rd-1-5l-eletrica",
+		"name": "Oster BVSTDC4401RD 1,5L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-programavel-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de intensidade do café no painel",
+			"Ciclo especial de limpeza do aparelho",
+			"Potência de 1000W em 127V e 900W em 220V",
+			"Timer programável de 24 horas e painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W (127V) / 900W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "inox, plástico e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável (24h); seletor de intensidade do café; função tempo de preparo; função manter aquecido; painel digital; ciclo especial de limpeza; aviso sonoro; base aquecedora"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 22,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-44-32x-sdi-1-2l-eletrica",
+		"name": "Mondial C-44-32X-SDI 1,2L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-programavel-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa basculante e sistema corta-pingos",
+			"Manter aquecido por até 2 horas",
+			"Painel digital com relógio e timer de 24 horas",
+			"Base com aquecimento e 800W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável (24h); painel digital com relógio; função manter aquecido (até 2h); sistema corta pingos; função aroma; indicador de nível de água; luz indicadora de funcionamento; tampa basculante; base com aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; porta-filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 17,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-primalatte-touch-expresso",
+		"name": "Oster PrimaLatte Touch (expresso)",
+		"image": "/images/posts/melhor-cafeteira-programavel-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba italiana de 19 bar para o espresso",
+			"Preparo com café moído, sachê ou cápsula",
+			"Preparo de latte e cappuccino com personalização",
+			"Limpeza automática dos tanques do aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; expresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V) / 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "expresso, sachê ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 19bar; preparo com pó/sachê/cápsula; painel touch; personalização de bebidas; preparo de latte e cappuccino; função 2x mais creme; limpeza automática dos tanques"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para café moído; porta-cápsulas compatível com Nespresso; adaptador para cápsulas Nespresso; reservatório para água ou leite; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 21,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

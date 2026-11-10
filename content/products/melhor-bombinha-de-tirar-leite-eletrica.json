@@ -1,0 +1,324 @@
+[
+	{
+		"id": "medela-duplo-swing-maxi-flex",
+		"name": "Medela Duplo Swing Maxi Flex",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove níveis de sucção para ajustar a extração",
+			"Recipiente de 150 ml com tampa e dois frascos",
+			"Recarga por USB-C, sem depender de pilhas",
+			"Dois modos de fluxo: estimulação e extração",
+			"Bocal de silicone macio e copo livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "9 níveis"
+			},
+			{
+				"label": "Capacidade do recipiente",
+				"value": "150ml"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2x frasco de 150ml com tampa; 2x funil de 21mm; 2x funil de 24mm; 2x conector PersonalFit Flex; 2x suporte para frascos; cabo USB; adaptador de energia; manual de instruções"
+			}
+		]
+	},
+	{
+		"id": "medela-solo-2-phase-expression",
+		"name": "Medela Solo 2-Phase Expression",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove níveis de sucção com dois modos de fluxo",
+			"Um frasco de 150 ml com tampa incluso",
+			"Alimentação por USB-C, com cabo e adaptador",
+			"Conector e funil PersonalFit Flex no kit",
+			"Copo livre de BPA e bocal de silicone macio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "9 níveis"
+			},
+			{
+				"label": "Capacidade do recipiente",
+				"value": "150ml"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 frasco de 150ml com tampa; conector PersonalFit Flex; funil PersonalFit Flex; cabo USB; adaptador de energia; manual de instruções"
+			}
+		]
+	},
+	{
+		"id": "fisher-price-bb320",
+		"name": "Fisher Price BB320",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quinze níveis de sucção para ajustar a extração",
+			"Alimentação por USB-C ou tomada",
+			"Extrator de leite, válvula extra e tubo de ar",
+			"Dois modos de fluxo: estimulação e extração",
+			"Polipropileno livre de BPA e bocal de silicone macio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "15 níveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C ou tomada"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "polipropileno livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "extrator de leite; válvula extra; manual de instruções; adaptador; cabo USB; tubo de ar; tampa do recipiente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 9,3 x 22,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-ultracare",
+		"name": "Maxi Baby UltraCare",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recipiente de 180 ml, o maior desta lista",
+			"Almofada massageadora incluída no kit",
+			"Alimentação por USB-C, sem pilhas",
+			"Frasco de 180 ml com diafragma e válvula",
+			"Modo único de extração, com bocal de silicone"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do recipiente",
+				"value": "180ml"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "1 modo (extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "ABS e polipropileno livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa de vedação; almofada massageadora; conector; frasco de 180ml; diafragma de silicone; válvula; motor da bomba; cabo adaptador"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 25,0 x 8,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "460g"
+			}
+		]
+	},
+	{
+		"id": "g-tech-smart",
+		"name": "G-Tech Smart",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bivolt automático e dois modos de fluxo",
+			"Quatro níveis de sucção, com recipiente de 120 ml",
+			"Copo de polipropileno livre de BPA",
+			"Bocal de silicone macio e peso de 280 g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "4 níveis"
+			},
+			{
+				"label": "Capacidade do recipiente",
+				"value": "120ml"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt automático"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "polipropileno livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Peso",
+				"value": "280g"
+			}
+		]
+	},
+	{
+		"id": "mam-tira-leite-2-em-1",
+		"name": "MAM Tira-Leite 2 em 1",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove níveis de sucção e dois modos de fluxo",
+			"Bateria recarregável, com adaptador de tomada",
+			"Mamadeira Easy Start de 160 ml inclusa",
+			"Duas bombas tira-leite 2 em 1 e dois potes de armazenamento",
+			"Copo livre de BPA e BPS, com bocal de silicone"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "9 níveis"
+			},
+			{
+				"label": "Capacidade do recipiente",
+				"value": "160ml"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico livre de BPA e BPS"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2x bomba tira-leite 2 em 1; adaptador de tomada; 2x membrana conectora; 2x capa de proteção da membrana; 2x tubo conector; alavanca para uso manual; 2x mamadeira Easy Start 160ml com disco de vedação; 2x bico; adaptador transparente com funil macio e tampa do funil; 2x pote de armazenamento"
+			}
+		]
+	},
+	{
+		"id": "lansinoh-signature-pro",
+		"name": "Lansinoh Signature Pro",
+		"image": "/images/posts/melhor-bombinha-de-tirar-leite-eletrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito níveis de sucção e dois modos de fluxo",
+			"Funciona com 6 pilhas AA, sem depender de tomada",
+			"Bolsa para transporte e dois frascos coletores",
+			"Adaptador para mamadeira incluso",
+			"Copo livre de BPA e bocal de silicone macio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Níveis de sucção",
+				"value": "8 níveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "6x pilhas AA"
+			},
+			{
+				"label": "Fluxo ajustável",
+				"value": "2 modos (estimulação e extração)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Material do bocal",
+				"value": "silicone macio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2x frasco coletor; adaptador para mamadeira; bolsa para transporte"
+			},
+			{
+				"label": "Peso",
+				"value": "968g"
+			}
+		]
+	}
+]

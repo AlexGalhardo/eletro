@@ -1,0 +1,353 @@
+[
+	{
+		"id": "emma-original-casal",
+		"name": "Emma Original (casal)",
+		"image": "/images/posts/melhor-colchoes-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três camadas com Airgocell e espuma viscoelástica",
+			"Capa removível e hipoalergênica",
+			"Bloqueio de movimento e suporte de 130kg",
+			"Tecnologia de zoneamento com firmeza firme"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma airgocell; espuma viscoelástica; espuma de suporte"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "—"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "130kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "poliéster; elastano; polipropileno"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "airgocell respirável; bloqueio de movimento; capa removível hipoalergênica; tecnologia de zoneamento"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "emma-duo-comfort-queen",
+		"name": "Emma Duo Comfort (queen)",
+		"image": "/images/posts/melhor-colchoes-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla face: macio de um lado e firme do outro",
+			"Capa hipoalergênica e lavável",
+			"Medidas de 158 x 198 cm no tamanho queen"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "queen"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 158 x 198cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma de alto conforto (lado azul); espuma de alto suporte (lado cinza)"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "130kg"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "dupla face; capa hipoalergênica lavável"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "macio (lado azul); firme (lado cinza)"
+			},
+			{
+				"label": "Face de uso",
+				"value": "dupla face"
+			}
+		]
+	},
+	{
+		"id": "emma-basics-solteiro",
+		"name": "Emma Basics (solteiro)",
+		"image": "/images/posts/melhor-colchoes-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma D28 com nível de firmeza firme",
+			"Certificação DIN-Spec informada na ficha",
+			"Hipoalergênico e antiácaro",
+			"Medidas de 88 x 188 cm e 14cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "solteiro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 88 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma D28"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "130kg"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "certificação DIN-Spec; antiácaro; hipoalergênico"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "luuna-essential-ortopedico-casal",
+		"name": "Luuna Essential Ortopédico (casal)",
+		"image": "/images/posts/melhor-colchoes-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma D28 com nível extrafirme",
+			"Suporta até 300kg com capa de poliéster reciclável",
+			"Tecido com tecnologia DeepZen e fios de carbono",
+			"Embalagem a vácuo para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma D28"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "capa removível de poliéster 100% reciclável com enchimento de fibra siliconada"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "tecido com tecnologia DeepZen e fios de carbono; embalagem a vácuo"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "extrafirme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "ortobom-iso-100-d33-solteiro",
+		"name": "Ortobom ISO 100 D33 (solteiro)",
+		"image": "/images/posts/melhor-colchoes-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma D33 com nível firme",
+			"Bordado em matelassê com revestimento em viscopoli",
+			"Tratamento antiácaro e antialérgico",
+			"Medidas de 88 x 188 cm e suporte de 100kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "solteiro"
+			},
+			{
+				"label": "Dimensões (a x l x p)",
+				"value": "18 x 88 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma D33"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D33"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "100kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "matelassê; poliéster; viscopoli"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "tratamento antiácaro e antialérgico; bordado em matelassê"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "luuna-support-ortopedico-queen",
+		"name": "Luuna Support Ortopédico (queen)",
+		"image": "/images/posts/melhor-colchoes-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espumas D28 e D29 com nível firme",
+			"Suporta 300kg e mede 158 cm de largura",
+			"Tecnologia Air Flow e superfície NoN Slip",
+			"Tratamento antiácaro para o uso diário"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "queen"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 158 x 198cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma D28; camada térmica D29"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28 e D29"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "espumas de alta densidade: Open Cell Therma-Flow Foam, MemoryGel Foam, Luuna Transition Foam e ErgoSupport Foam"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "tratamento antiácaro; Air Flow; NoN Slip"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "bf-colchoes-light-ortopedico-casal",
+		"name": "BF Colchões Light Ortopédico (casal)",
+		"image": "/images/posts/melhor-colchoes-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma Balance D33 para apoio firme",
+			"Malha belga com fios de carbono para redução de estresse",
+			"Tratamento hipoalergênico e antiácaros",
+			"Suporta 110kg com 25cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma Softlight, Espuma Balance"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D33 (Espuma Balance)"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "110kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "malha belga com tecnologia DeepZen e fios de carbono"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "redução de estresse por fios de carbono; tratamento hipoalergênico e antiácaros"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"id": "bosch-1600a003bk-25kg",
+		"name": "Bosch 1600A003BK (25kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de carga de 25kg",
+			"Nylon reforçado com zíper reforçado",
+			"Três bolsos externos para organizar",
+			"Abertura superior e dimensões de 36 x 80 x 59cm",
+			"Peso de 2kg"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "nylon reforçado" },
+			{ "label": "Capacidade de carga", "value": "25kg" },
+			{ "label": "Compartimentos", "value": "3 bolsos externos" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "36 x 80 x 59cm" },
+			{ "label": "Peso", "value": "2kg" }
+		]
+	},
+	{
+		"id": "bosch-1-619-bz0-100-15kg",
+		"name": "Bosch 1.619.BZ0.100 (15kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Poliéster 600D com capacidade de 15kg",
+			"Três bolsos externos para organizar",
+			"Zíper reforçado e abertura superior",
+			"Dimensões de 30 x 48 x 28cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "poliéster 600D" },
+			{ "label": "Capacidade de carga", "value": "15kg" },
+			{ "label": "Compartimentos", "value": "3 bolsos externos" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "30 x 48 x 28cm" }
+		]
+	},
+	{
+		"id": "bosch-1-600-a00-3bg",
+		"name": "Bosch 1.600.A00.3BG",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nylon com um bolso interno",
+			"Abertura lateral com zíper reforçado",
+			"Dimensões de 23 x 31 x 8cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "nylon" },
+			{ "label": "Compartimentos", "value": "1 bolso interno" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "lateral" },
+			{ "label": "Dimensões (A x L x P)", "value": "23 x 31 x 8cm" }
+		]
+	},
+	{
+		"id": "linlight-tool-bag-105kg",
+		"name": "Linlight Tool BAG (105kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de carga de 105kg, a maior da lista",
+			"Oxford 1680D com zíper reforçado",
+			"Oito bolsos externos e seis internos",
+			"Abertura superior e dimensões de 26 x 36 x 20cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "Oxford 1680D" },
+			{ "label": "Capacidade de carga", "value": "105kg" },
+			{ "label": "Compartimentos", "value": "8 bolsos externos / 6 bolsos internos" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "26 x 36 x 20cm" }
+		]
+	},
+	{
+		"id": "b-tek-oxford-5kg",
+		"name": "B-TEK Oxford (5kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material Oxford com capacidade de 5kg",
+			"Oito bolsos externos e oito internos",
+			"Zíper reforçado e abertura superior",
+			"Dimensões de 30 x 39 x 25cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "Oxford" },
+			{ "label": "Capacidade de carga", "value": "5kg" },
+			{ "label": "Compartimentos", "value": "8 bolsos externos / 8 bolsos internos" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "30 x 39 x 25cm" }
+		]
+	},
+	{
+		"id": "vonder-bl005-5kg",
+		"name": "Vonder BL005 (5kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lona com capacidade de 5kg",
+			"Oito bolsos para organizar as ferramentas",
+			"Peso de 348g, o mais leve informado na lista",
+			"Zíper reforçado e abertura superior",
+			"Dimensões de 18 x 35 x 12,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "lona" },
+			{ "label": "Capacidade de carga", "value": "5kg" },
+			{ "label": "Compartimentos", "value": "8 bolsos" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "18 x 35 x 12,5cm" },
+			{ "label": "Peso", "value": "348g" }
+		]
+	},
+	{
+		"id": "linlight-tool-bag-25kg",
+		"name": "Linlight Tool BAG (25kg)",
+		"image": "/images/posts/melhor-bolsa-de-ferramentas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de carga de 25kg em Oxford 1680D",
+			"Seis bolsos externos e um bolso interno",
+			"Zíper reforçado e abertura superior",
+			"Dimensões de 30 x 43 x 25cm"
+		],
+		"technicalDetails": [
+			{ "label": "Material", "value": "Oxford 1680D" },
+			{ "label": "Capacidade de carga", "value": "25kg" },
+			{ "label": "Compartimentos", "value": "6 bolsos externos / 1 bolso interno" },
+			{ "label": "Fechamento", "value": "zíper reforçado" },
+			{ "label": "Abertura", "value": "superior" },
+			{ "label": "Dimensões (A x L x P)", "value": "30 x 43 x 25cm" }
+		]
+	}
+]

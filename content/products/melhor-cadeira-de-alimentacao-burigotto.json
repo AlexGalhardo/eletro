@@ -1,0 +1,167 @@
+[
+	{
+		"id": "burigotto-prima-pappa-zero-3",
+		"name": "Burigotto Prima Pappa Zero 3",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso desde 0 meses, até 15kg",
+			"Reclinação do encosto em 5 posições",
+			"Altura ajustável e bandeja removível",
+			"Cinto de segurança de 5 pontos",
+			"Fecha em 123 x 56 x 39cm e pesa 8,4kg"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "evolutiva" },
+			{ "label": "Idade recomendada", "value": "a partir de 0 meses até 15kg" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "tecido" },
+			{ "label": "Reclinação do encosto", "value": "5 posições" },
+			{ "label": "Sistema de segurança", "value": "cinto de 5 pontos" },
+			{ "label": "Altura ajustável", "value": "sim" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "104 x 56 x 78cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "123 x 56 x 39cm" },
+			{ "label": "Peso do produto", "value": "8,4kg" }
+		]
+	},
+	{
+		"id": "burigotto-merenda",
+		"name": "Burigotto Merenda",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicada de 6 a 36 meses, até 15kg",
+			"Reclinação do encosto em 4 posições",
+			"Cinto de segurança de 5 pontos",
+			"Bandeja removível e assento de tecido",
+			"Dimensões abertas de 106 x 60 x 83cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alimentação" },
+			{ "label": "Idade recomendada", "value": "6 a 36 meses até 15kg" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "tecido" },
+			{ "label": "Reclinação do encosto", "value": "4 posições" },
+			{ "label": "Sistema de segurança", "value": "cinto de 5 pontos" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "106 x 60 x 83cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "110 x 60 x 40cm" },
+			{ "label": "Peso do produto", "value": "7,4kg" }
+		]
+	},
+	{
+		"id": "burigotto-poke",
+		"name": "Burigotto Poke",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicada de 6 a 36 meses",
+			"Cinto de segurança de 5 pontos",
+			"Bandeja removível e assento de tecido",
+			"Peso de 3,7kg e dimensões abertas de 84,5 x 58 x 63cm",
+			"Estrutura de plástico e metal"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alimentação" },
+			{ "label": "Idade recomendada", "value": "de 6 a 36 meses" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "tecido" },
+			{ "label": "Reclinação do encosto", "value": "não" },
+			{ "label": "Sistema de segurança", "value": "cinto de 5 pontos" },
+			{ "label": "Altura ajustável", "value": "não" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "84,5 x 58 x 63cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "––" },
+			{ "label": "Peso do produto", "value": "3,7kg" }
+		]
+	},
+	{
+		"id": "burigotto-bon-appetit",
+		"name": "Burigotto Bon Appetit",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicada de 6 a 36 meses, até 15kg",
+			"Cinto de segurança de 5 pontos",
+			"Bandeja removível e assento de tecido",
+			"Dimensões abertas de 100 x 65 x 84cm",
+			"Estrutura de plástico e metal"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alimentação" },
+			{ "label": "Idade recomendada", "value": "de 6 a 36 meses até 15kg" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "tecido" },
+			{ "label": "Reclinação do encosto", "value": "não" },
+			{ "label": "Sistema de segurança", "value": "cinto de 5 pontos" },
+			{ "label": "Altura ajustável", "value": "não" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "100 x 65 x 84cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "111 x 65 x 33cm" },
+			{ "label": "Peso do produto", "value": "5,3kg" }
+		]
+	},
+	{
+		"id": "burigotto-kiwi",
+		"name": "Burigotto Kiwi",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura ajustável e bandeja removível",
+			"Cinto de segurança de 3 pontos",
+			"Fechada, mede 16 x 38 x 33cm",
+			"Peso de 2kg, o mais leve da lista",
+			"Indicada de 6 a 36 meses, até 15kg"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alimentação" },
+			{ "label": "Idade recomendada", "value": "de 6 a 36 meses, até 15kg" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "tecido" },
+			{ "label": "Reclinação do encosto", "value": "não" },
+			{ "label": "Sistema de segurança", "value": "cinto de 3 pontos" },
+			{ "label": "Altura ajustável", "value": "sim" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "41,5 x 38 x 40cm" },
+			{ "label": "Dimensões fechada (A x L x P)", "value": "16 x 38 x 33cm" },
+			{ "label": "Peso do produto", "value": "2kg" }
+		]
+	},
+	{
+		"id": "burigotto-papa-soneca",
+		"name": "Burigotto Papa & Soneca",
+		"image": "/images/posts/melhor-cadeira-de-alimentacao-burigotto-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicada de 6 a 36 meses, até 15kg",
+			"Reclinação do encosto em 3 posições",
+			"Cinto de segurança de 5 pontos",
+			"Assento revestido em plástico",
+			"Bandeja removível e dimensões de 95 x 53 x 86cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "alimentação" },
+			{ "label": "Idade recomendada", "value": "de 6 a 36 meses até 15kg" },
+			{ "label": "Material da estrutura", "value": "plástico e metal" },
+			{ "label": "Revestimento do assento", "value": "plástico" },
+			{ "label": "Reclinação do encosto", "value": "3 posições" },
+			{ "label": "Sistema de segurança", "value": "cinto de 5 pontos" },
+			{ "label": "Bandeja removível", "value": "sim" },
+			{ "label": "Dimensões abertas (A x L x P)", "value": "95 x 53 x 86cm" },
+			{ "label": "Peso do produto", "value": "6,1kg" }
+		]
+	}
+]

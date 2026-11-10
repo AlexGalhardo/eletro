@@ -1,0 +1,338 @@
+[
+	{
+		"id": "vonder-crv-700",
+		"name": "Vonder CRV 700",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de carga de 40kgf, a maior da lista",
+			"Travas metálicas reforçadas para fechamento firme",
+			"Cadeado incluso para proteger as ferramentas",
+			"Alça que se recolhe e se estende para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "travas metálicas reforçadas"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "40kgf"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 37 x 63cm (com alça recolhida); 98 x 37 x 63cm (com alça estendida)"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "6,7kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-crv-0500",
+		"name": "Vonder CRV 0500",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Caixa superior, três gavetas centrais e gaveta basculante",
+			"Organizadores na tampa e bandeja removível",
+			"Duas travas metálicas frontais reforçadas",
+			"Cadeado incluído para proteção do conteúdo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 caixa superior, 3 gavetas centrais e 1 gaveta inferior basculante"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "2 travas metálicas frontais reforçadas"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "12kgf na caixa superior; 1kgf em cada gaveta central; 5kgf na caixa inferior"
+			},
+			{
+				"label": "Bandeja removível",
+				"value": "sim"
+			},
+			{
+				"label": "Organizadores na tampa",
+				"value": "sim"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "82 x 26 x 46cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "8,55kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-61-15-402-017",
+		"name": "Vonder 61.15.402.017",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chapa de aço com capacidade de 20kgf",
+			"Três gavetas para separar as ferramentas",
+			"Cadeado incluso para fechar a caixa",
+			"Dimensões compactas de 16 x 19 x 40cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "chapa de aço"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "3 gavetas"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "20kgf"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 19 x 40cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "2,77kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-cbi-020",
+		"name": "Vonder CBI 020",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material combinado de plástico e inox",
+			"Capacidade de 20kgf com duas travas",
+			"Bandeja interna removível e cadeado",
+			"Dimensões de 25,5 x 27 x 37,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico e inox"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 principal com bandeja interna"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "2 travas"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "20kgf"
+			},
+			{
+				"label": "Bandeja removível",
+				"value": "sim"
+			},
+			{
+				"label": "Organizadores na tampa",
+				"value": "não"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 27 x 37,5cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "2,26kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-vdo2575",
+		"name": "Vonder VDO2575",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chapa de aço com capacidade de 15kgf",
+			"Bandeja interna removível para organizar as peças",
+			"Peso de 1,9kg com cadeado incluso",
+			"Compartimento principal com trava única"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "chapa de aço"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 principal com bandeja interna"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "trava"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "15kgf"
+			},
+			{
+				"label": "Bandeja removível",
+				"value": "sim"
+			},
+			{
+				"label": "Organizadores na tampa",
+				"value": "não"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17 x 16 x 40cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "1,9kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-vd-4038",
+		"name": "Vonder VD 4038",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"A mais leve da lista, com 0,8kg",
+			"Fecho em polipropileno e cadeado incluso",
+			"Capacidade de carga de 12kgf",
+			"Bandeja removível e dimensões de 20 x 17,2 x 42cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 principal com bandeja interna"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "fecho em polipropileno"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "12kgf"
+			},
+			{
+				"label": "Bandeja removível",
+				"value": "sim"
+			},
+			{
+				"label": "Organizadores na tampa",
+				"value": "não"
+			},
+			{
+				"label": "Cadeado",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 17,2 x 42cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "0,8kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-crv-0100",
+		"name": "Vonder CRV 0100",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-vonder-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas caixas com 11kgf de capacidade cada",
+			"Bandeja frontal com múltiplas divisórias",
+			"Organizadores na tampa e bandeja removível",
+			"Travas reforçadas para o fechamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "2 caixas, 2 compartimentos na tampa, bandeja frontal com múltiplas divisórias e bandeja removível"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "travas reforçadas"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "11kgf (caixa inferior); 11kgf (caixa superior)"
+			},
+			{
+				"label": "Bandeja removível",
+				"value": "sim"
+			},
+			{
+				"label": "Organizadores na tampa",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 26 x 46cm"
+			},
+			{
+				"label": "Peso da caixa",
+				"value": "8,34kg"
+			}
+		]
+	}
+]

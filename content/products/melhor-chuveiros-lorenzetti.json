@@ -1,0 +1,367 @@
+[
+	{
+		"id": "lorenzetti-acqua-duo-ultra",
+		"name": "Lorenzetti Acqua Duo Ultra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7800W em 220V",
+			"Compatível com DR e com sistema solar",
+			"Regulagem gradual com 4 níveis de temperatura",
+			"Grau de proteção IP24",
+			"Funciona com pressão de 10kPa a 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-acqua-storm-ultra",
+		"name": "Lorenzetti Acqua Storm Ultra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco níveis de temperatura com regulagem gradual",
+			"Potência de até 7800W em 220V",
+			"Compatível com DR e com sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "5"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-shower-ultra",
+		"name": "Lorenzetti Loren Shower Ultra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7500W em 220V",
+			"Regulagem gradual com 4 níveis de temperatura",
+			"Compatível com DR e com sistema solar",
+			"Funciona com pressão de 10kPa a 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-duo-shower-quadra",
+		"name": "Lorenzetti Duo Shower Quadra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle multitemperaturas com 4 níveis",
+			"Potência de até 7500W em 220V",
+			"Compatível com DR e com sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "7kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "40kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "multitemperaturas"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-ducha-futura",
+		"name": "Lorenzetti Ducha Futura",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle multitemperaturas ou regulagem gradual",
+			"Potência de até 7500W em 220V",
+			"Compatível com DR e com sistema solar",
+			"Funciona com pressão de 10kPa a 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "multitemperaturas ou regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-bella-ducha-4t-ultra",
+		"name": "Lorenzetti Bella Ducha 4T Ultra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 6800W em 220V",
+			"Controle multitemperaturas com 4 níveis",
+			"Compatível com DR e com sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "4800W (127V), 5500W (127V) ou 6800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "multitemperaturas"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-ducha-acqua-star-ultra",
+		"name": "Lorenzetti Ducha Acqua Star Ultra",
+		"image": "/images/posts/melhor-chuveiros-lorenzetti-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco níveis de temperatura com regulagem gradual",
+			"Potência de até 7800W em 220V",
+			"Compatível com DR e com sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "5"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

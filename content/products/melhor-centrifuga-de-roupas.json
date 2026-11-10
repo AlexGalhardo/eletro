@@ -1,0 +1,315 @@
+[
+	{
+		"id": "britania-bcr15b-15kg",
+		"name": "Britânia BCR15B 15kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15kg com cesto de inox",
+			"Velocidade de 1600RPM",
+			"Timer de 5 minutos com desligamento automático",
+			"Trava de segurança e grade de proteção",
+			"1 ano de garantia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1600RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "1 ano de garantia; painel mecânico; grade de proteção; timer de 5 minutos com desligamento automático; abertura do cesto extra-grande; trava de segurança; porta cordão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78 x 46 x 43cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,955kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wanke-sofia-15kg",
+		"name": "Wanke Sofia 15kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15kg e rotação de 1550RPM",
+			"Timer programável e tampa dupla",
+			"Eficiência energética classificada como A",
+			"Trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1550RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "trava de segurança; timer programável; eficiência energética (A); tampa dupla"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "77 x 46 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,13kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-ct150-15kg",
+		"name": "Suggar CT150 15kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rotação de 1750RPM, a maior da lista",
+			"Timer de 6 minutos e trava de segurança",
+			"Base larga e alça lateral",
+			"Dreno na frontal e porta fio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1750RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "trava de segurança; timer de 6 minutos; base larga; alça lateral; grade de proteção; porta fio; dreno na frontal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69,5 x 42 x 41,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,55kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mueller-fit-15kg",
+		"name": "Mueller Fit 15kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15kg com tampa dupla",
+			"Motor com protetor térmico",
+			"Timer de 5 minutos e grade de proteção",
+			"1 ano de garantia",
+			"Pés antideslizantes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1720RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer de 5 minutos; 1 ano de garantia; tampa dupla; motor com protetor térmico; grade de proteção; pés antideslizantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72 x 41,1 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "colormaq-cen12-12kg",
+		"name": "Colormaq CEN12 12kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12kg com cesto de inox",
+			"Abertura automática e supercapacidade",
+			"Reuso de água e protetor de roupas",
+			"Eficiência energética classificada como A",
+			"1 ano de garantia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1560RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "trava de segurança; protetor de roupas; reuso de água; puxador lateral; 1 ano de garantia; eficiência energética (A); abertura automática; supercapacidade; grade de proteção"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 42,5 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,57kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wanke-premium-plus-15kg",
+		"name": "Wanke Premium Plus 15kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15kg com tampa dupla",
+			"Saída de água frontal com bico direcionável",
+			"Timer programável e trava de segurança",
+			"1 ano de garantia",
+			"Rotação de 1620RPM em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1550RPM (127V); 1620RPM (220V)"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "saída de água frontal com bico direcionável; trava de segurança; 1 ano de garantia; timer programável; tampa dupla"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69 x 42 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,44kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mueller-fit-12-6kg",
+		"name": "Mueller Fit 12,6kg",
+		"image": "/images/posts/melhor-centrifuga-de-roupas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12,6kg com tampa dupla",
+			"Encaixe para recipientes e alça lateral",
+			"Painel indicativo e pés antideslizantes",
+			"1 ano de garantia",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12,6kg"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "1720RPM"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "alça lateral; tampa dupla; painel indicativo; 1 ano de garantia; pés antideslizantes; possui encaixe para recipientes; classificação energética (A)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69 x 41,1 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

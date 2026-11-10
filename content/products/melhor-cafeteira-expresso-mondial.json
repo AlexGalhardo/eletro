@@ -1,0 +1,80 @@
+[
+	{
+		"id": "mondial-ccl-01",
+		"name": "Mondial CCL-01",
+		"image": "/images/posts/melhor-cafeteira-expresso-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com 7 bebidas e personalização manual",
+			"Porta-filtro com duas saídas e filtros curto e longo",
+			"Reservatórios removíveis e limpeza automática",
+			"Reservatório de leite de 700ml incluso",
+			"Pressão de 20bar e suporte aquecido para xícaras"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "1 litro (água); 700mL (leite)" },
+			{ "label": "Potência", "value": "1250W (127V); 1350W (220V)" },
+			{ "label": "Material", "value": "plástico e aço inox" },
+			{ "label": "Modo de preparo", "value": "espresso ou cápsula" },
+			{ "label": "Recursos e funções", "value": "20bar de pressão; porta-filtro com duas saídas; painel touch com 7 bebidas + opção manual de personalização; função limpeza automática; reservatórios removíveis; suporte aquecido para xícaras; bandeja antirrespingo; pés com ventosa; compatibilidade com cápsulas" },
+			{ "label": "Acessórios inclusos", "value": "porta-filtro com duas saídas; filtros para café curto e longo; colher dosadora com socador; reservatório de leite de 700ml" },
+			{ "label": "Dimensões (A x L x P)", "value": "32 x 29 x 22cm" },
+			{ "label": "Peso", "value": "4,7kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mondial-c-20-ec",
+		"name": "Mondial C-20-EC",
+		"image": "/images/posts/melhor-cafeteira-expresso-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20bar com porta-filtro de duas saídas",
+			"Bico vaporizador para espuma de leite",
+			"Painel LED e suporte aquecido para xícaras",
+			"Aceita adaptador para cápsulas Nespresso e Dolce Gusto",
+			"Reservatório de 1,2 litro e peso de 3,5kg"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Potência", "value": "1200W" },
+			{ "label": "Material", "value": "plástico com acabamento em aço inox" },
+			{ "label": "Modo de preparo", "value": "espresso ou cápsula" },
+			{ "label": "Recursos e funções", "value": "pressão de 20bar; porta-filtro com duas saídas; bico vaporizador para espuma de leite; suporte aquecido para xícaras; painel LED; bandeja antirrespingo removível; compatível com adaptador para cápsulas Nespresso e Dolce Gusto; pés antiderrapantes com ventosa" },
+			{ "label": "Acessórios inclusos", "value": "porta-filtro com duas saídas; colher dosadora com socador; filtro para pó" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,8 x 30,6 x 15,7cm" },
+			{ "label": "Peso", "value": "3,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "mondial-c-08",
+		"name": "Mondial C-08",
+		"image": "/images/posts/melhor-cafeteira-expresso-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de água removível de 2 litros",
+			"Cachimbo com duas saídas, até 2 cafés de 120ml",
+			"Pressão de 15bar e indicador luminoso",
+			"Válvula e bico vaporizador incluídos",
+			"Aceita filtro para pó ou sachê"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Potência", "value": "830W" },
+			{ "label": "Material", "value": "plástico e aço inox" },
+			{ "label": "Modo de preparo", "value": "espresso ou sachê" },
+			{ "label": "Recursos e funções", "value": "pressão de 15bar; cachimbo com duas saídas (até 2 cafés de 120ml simultâneos); válvula e bico vaporizador; reservatório de água removível de 2 litros; bandeja de resíduos removível; indicador luminoso de funcionamento" },
+			{ "label": "Acessórios inclusos", "value": "colher medidora com socador; filtro para pó ou sachê" },
+			{ "label": "Dimensões (A x L x P)", "value": "30 x 26 x 32,5cm" },
+			{ "label": "Peso", "value": "2,7kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

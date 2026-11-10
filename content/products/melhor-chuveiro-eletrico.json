@@ -1,0 +1,346 @@
+[
+	{
+		"id": "lorenzetti-acqua-duo-7800w",
+		"name": "LORENZETTI Acqua Duo 7800W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7800W em 220V",
+			"Compatível com DR para mais segurança",
+			"Quatro níveis de temperatura",
+			"Compatível com sistema solar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-acqua-storm-ultra-black-6800w",
+		"name": "LORENZETTI Acqua Storm Ultra Black 6800W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco níveis de temperatura",
+			"Compatível com DR e sistema solar",
+			"Grau de proteção IP24",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "5"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-ducha-intense-6500w",
+		"name": "FAME Ducha Intense 6500W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7800W em 220V",
+			"Controle por haste de regulagem",
+			"Compatível com sistema solar",
+			"Tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V), 6500W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-shower-7500w",
+		"name": "LORENZETTI Loren Shower 7500W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7500W em 220V",
+			"Compatível com DR e pressão mínima de 10kPa",
+			"Pressão máxima de 400kPa",
+			"Quatro níveis de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-advanced-7500w",
+		"name": "LORENZETTI Advanced 7500W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletrônico com haste de regulagem",
+			"Compatível com DR e sistema solar",
+			"Grau de proteção IP24",
+			"Potência de até 7500W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6400W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônico com haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-futura-7500w",
+		"name": "LORENZETTI Futura 7500W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle eletrônico com haste de regulagem",
+			"Pressão mínima de 10kPa",
+			"Compatível com sistema solar",
+			"Quatro níveis de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônico com haste de regulagem"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-duo-shower-quadra-7500w",
+		"name": "LORENZETTI Duo Shower Quadra 7500W",
+		"image": "/images/posts/melhor-chuveiro-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatível com DR e sistema solar",
+			"Pressão máxima de 400kPa",
+			"Controle eletrônico com haste de regulagem",
+			"Quatro níveis de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W (220V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "25kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "eletrônico com haste de regulage"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

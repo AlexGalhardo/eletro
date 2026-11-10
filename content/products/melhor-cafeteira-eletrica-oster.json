@@ -1,0 +1,334 @@
+[
+	{
+		"id": "oster-ocaf550-1-5-litro",
+		"name": "Oster OCAF550 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável para deixar o café pronto no horário certo",
+			"Base aquecida e função manter aquecido para servir por mais tempo",
+			"Sistema corta-pingos evita gotejamento ao servir",
+			"Filtro removível lavável e porta-filtro incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base aquecida; painel digital; timer programável; sistema corta-pingos; luz indicadora de funcionamento; função manter aquecido; função Sabor Intenso"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro com tampa; filtro removível lavável (permanente); porta-filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 26 x 15,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,77kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-red-flavor-bvstdc4401rd-1-5-litro",
+		"name": "Oster Red Flavor BVSTDC4401RD 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável de até 24 horas para preparo antecipado",
+			"Seletor de intensidade para ajustar a força do café",
+			"Ciclo especial de limpeza facilita a manutenção",
+			"Filtro permanente removível dispensa filtro de papel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 900W (220V)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, vidro e aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável com até 24h; seletor de intensidade do café; função Tempo de preparo; base aquecedora; ciclo especial de limpeza; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 22,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-compacta-ocaf300-750ml",
+		"name": "Oster Compacta OCAF300 750mL",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dimensões compactas, com 25,5 cm de altura, para bancadas pequenas",
+			"Função manter aquecido para servir o café por mais tempo",
+			"Jarra de vidro com filtro removível lavável",
+			"Potência de 600W com preparo de 750 mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750mL"
+			},
+			{
+				"label": "Material",
+				"value": "inox e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 14 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf650-1-2-litro",
+		"name": "Oster OCAF650 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de inox de 1,2 litro para preparos maiores",
+			"Sistema antigotejamento evita pingos ao servir",
+			"Função manter aquecido para o café continuar quente",
+			"Filtro lavável e porta-filtro inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido; sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; porta-filtro; filtro lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,6 x 15,3 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf600-1-2-litro",
+		"name": "Oster OCAF600 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro de 1,2 litro para acompanhar o preparo",
+			"Sistema antigotejamento para servir sem pingar",
+			"Função manter aquecido para o café continuar quente",
+			"Filtro removível lavável incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Material",
+				"value": "inox e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido; sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 15 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-2day-ocaf200",
+		"name": "Oster 2Day OCAF200",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo direto na xícara ou no copo térmico, sem louça extra",
+			"Bandeja com altura regulável para xícaras de tamanhos diferentes",
+			"Copo térmico de 400 mL incluso para levar o café",
+			"Filtro permanente com porta-filtro dispensa filtro de papel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400mL"
+			},
+			{
+				"label": "Material",
+				"value": "inox (copo) e plástico (cafeteira)"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo direto na xícara ou no copo térmico; bandeja com altura regulável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo térmico 400mL; filtro permanente com porta-filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,8 x 13,2 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "870g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-black-ocaf400-700ml",
+		"name": "Oster Black OCAF400 700mL",
+		"image": "/images/posts/melhor-cafeteira-eletrica-oster-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra térmica de inox para manter o café quente por mais tempo",
+			"Sistema antigotejamento para servir sem respingos",
+			"Filtro removível com porta-filtro incluso",
+			"Capacidade de 700 mL para servir várias xícaras de uma vez"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700mL"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra térmica de inox; filtro removível; porta-filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,2 x 16 x 23,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

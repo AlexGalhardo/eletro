@@ -1,0 +1,287 @@
+[
+	{
+		"id": "stanley-cross-bottle-680ml",
+		"name": "Stanley Cross Bottle 680mL",
+		"image": "/images/posts/melhor-cantil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Isolamento térmico com até 12 horas gelado",
+			"Até 2 dias com gelo",
+			"Tampa flip com aço inoxidável por dentro e por fora",
+			"Capacidade de 680mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "680mL"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "sim"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 12 horas gelado; até 2 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Peso",
+				"value": "745g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,8 x 12,7 x 6,8cm"
+			}
+		]
+	},
+	{
+		"id": "stanley-flask-2-0-236ml",
+		"name": "Stanley Flask 2.0 236mL",
+		"image": "/images/posts/melhor-cantil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 236mL, a menor da lista",
+			"Isolamento térmico com aço inoxidável 18/8",
+			"Tampa rosqueável",
+			"Livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "236mL"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "sim"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosqueável"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "nautika-apache-1-litro",
+		"name": "Nautika Apache 1 litro",
+		"image": "/images/posts/melhor-cantil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro em polipropileno",
+			"Material externo e interno em polipropileno",
+			"Peso de 320g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "não"
+			},
+			{
+				"label": "Material externo",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Material interno",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Peso",
+				"value": "320g"
+			}
+		]
+	},
+	{
+		"id": "nautika-xepa-900ml",
+		"name": "Nautika Xepa 900mL",
+		"image": "/images/posts/melhor-cantil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 900mL em alumínio atóxico",
+			"Tampa rosqueável",
+			"Peso de 270g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "900mL"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "não"
+			},
+			{
+				"label": "Material externo",
+				"value": "alumínio atóxico"
+			},
+			{
+				"label": "Material interno",
+				"value": "alumínio atóxico"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosqueável"
+			},
+			{
+				"label": "Peso",
+				"value": "270g"
+			}
+		]
+	},
+	{
+		"id": "nautika-mohave-750ml",
+		"name": "Nautika Mohave 750mL",
+		"image": "/images/posts/melhor-cantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 750mL com tampa de bico",
+			"Parede externa em poliéster Oxford",
+			"Interior em PP inodoro",
+			"Peso de 190g, o mais leve com peso informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "750mL"
+			},
+			{
+				"label": "Material externo",
+				"value": "poliéster Oxford"
+			},
+			{
+				"label": "Material interno",
+				"value": "plástico PP inodoro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "bico"
+			},
+			{
+				"label": "Peso",
+				"value": "190g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 17 x 5cm"
+			}
+		]
+	},
+	{
+		"id": "soprano-safari-1-litro",
+		"name": "Soprano Safari 1 litro",
+		"image": "/images/posts/melhor-cantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Isolamento térmico com 5 horas de frio e 2 horas de quente",
+			"Interior em poliuretano (PU)",
+			"Tampa rosqueável",
+			"Livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "sim"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "5 horas frio; 2 horas quente"
+			},
+			{
+				"label": "Material interno",
+				"value": "poliuretano (PU)"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosqueável"
+			},
+			{
+				"label": "Peso",
+				"value": "281g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,8 x 9,2 x 14,7cm"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-flask-237ml",
+		"name": "Stanley Flask 237mL",
+		"image": "/images/posts/melhor-cantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 237mL em aço inoxidável 18/8",
+			"Tampa de bico",
+			"Aço inoxidável por dentro e por fora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "237mL"
+			},
+			{
+				"label": "Isolamento térmico",
+				"value": "não"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "bico"
+			}
+		]
+	}
+]

@@ -1,0 +1,370 @@
+[
+	{
+		"id": "makita-dmp181z-161psi",
+		"name": "Makita ‎DMP181Z (161psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 161 psi e vazão de 22 litros por minuto",
+			"Bateria 18V Makita LXT compatível",
+			"Manômetro digital e desligamento automático",
+			"Resistência XPT e luz LED integrada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "161psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "22L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 18V Makita LXT"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "65cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "sim"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz LED integrada; trava de segurança na mangueira; compatibilidade com baterias Makita; manômetro digital; função de liberação de ar; 3 modos de enchimento; resistência XPT"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bico americano; bico francês; bico britânico; bico para bolas e bico para boias"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "71dB"
+			}
+		]
+	},
+	{
+		"id": "vonder-cav150-150psi",
+		"name": "Vonder CAV150 (150psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona em 12V ou 127V/220V",
+			"Display digital e desligamento automático",
+			"Lanterna LED e alça de transporte",
+			"Pressão de 150 psi com mangueira de 60cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "150psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "22L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V via plugue automotivo ou tomada 127V/220V (bivolt)"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "60cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "sim"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "alça de transporte; lanterna LED"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "mangueira com bico para encher pneus; bico para encher bola; 2 bicos para infláveis; fusível de vidro 250V; cabo elétrico para tensão 12V; cabo elétrico para tensão 127V/220V"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1,4kg"
+			}
+		]
+	},
+	{
+		"id": "mini-compressor-mibee-gtin-150psi",
+		"name": "Mini Compressor Mibee GTIN (150psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alimentação por USB-C",
+			"Vazão de 25 litros por minuto",
+			"Display digital e desligamento automático",
+			"Peso de 420 gramas e lanterna LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "150psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "25L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "50cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "sim"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "lanterna LED"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cabo USB-C; bico para inflável; bico para bola; bico para pneu; tubo de ar"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "420 gramas"
+			}
+		]
+	},
+	{
+		"id": "vonder-cav12-150psi",
+		"name": "Vonder CAV12 (150psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Manômetro analógico para acompanhar a pressão",
+			"Lanterna LED e alimentação de 12V",
+			"Vazão de 18 litros por minuto",
+			"Bicos para pneu, bolas e infláveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "150psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "18L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V via plugue automotivo"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "50cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "não"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "lanterna LED; manômetro analógico"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bico para pneu; 2 bicos para infláveis (diversos); bico encher bolas"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "800 gramas"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42330001-300psi",
+		"name": "Tramontina 42330001 (300psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão máxima de 300 psi",
+			"Manômetro com duas escalas de pressão",
+			"Alimentação de 12V pelo plugue automotivo",
+			"Peso de 617 gramas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "300psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "8L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V via plugue automotivo"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "45cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "não"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "manômetro com duas escalas de pressão"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bico para bolas; 2 bicos para boias"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "617 gramas"
+			}
+		]
+	},
+	{
+		"id": "osram-otir2000-120psi",
+		"name": "Osram OTIR2000 (120psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função Powerbank e lanterna LED",
+			"Pressão programável e display digital",
+			"Adaptador para válvula Presta",
+			"Compartimento para acessórios e 120 psi"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "120psi"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "14,5cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "sim"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "lanterna LED; compartimento para acessórios; função Powerbank; configurações de pressão programáveis"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "agulha para bolas; adaptador cônico para infláveis; adaptador para válvula Presta"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "638 gramas"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "83dB"
+			}
+		]
+	},
+	{
+		"id": "vonder-plus-cav128-150psi",
+		"name": "Vonder Plus CAV128 (150psi)",
+		"image": "/images/posts/melhor-compressor-de-ar-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função PowerBank e iluminação LED com 3 modos",
+			"Bateria recarregável por USB",
+			"Estojo em tecido e sacola de armazenamento",
+			"Pressão de 150 psi e vazão de 20 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão máxima",
+				"value": "150psi"
+			},
+			{
+				"label": "Fluxo de ar",
+				"value": "20L/min"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V via plugue automotivo ou bateria recarregável por USB"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "15cm"
+			},
+			{
+				"label": "Display digital",
+				"value": "sim"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sacola de armazenamento; função PowerBank; iluminação de LED com 3 modos"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bico para bolas; 2 bicos para infláveis; adaptador; cabo para tensão 12V DC; fusível; cabo USB-C; estojo em tecido; bico para pneus"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "900 gramas"
+			}
+		]
+	}
+]

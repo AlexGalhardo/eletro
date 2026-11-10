@@ -1,0 +1,382 @@
+[
+	{
+		"id": "oster-bvstem6801m-1-5l",
+		"name": "Oster BVSTEM6801M (1,5L)",
+		"image": "/images/posts/melhor-cafeteiras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo de espresso, sachê ou cápsulas no mesmo aparelho",
+			"Preparo de latte e cappuccino com personalização",
+			"Limpeza automática dos tanques",
+			"Dois espressos simultâneos e função 2x mais creme"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V); 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, sachê ou cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch; bomba de 19 bar; preparo com pó/sachê/cápsula; 2 espressos simultâneos; função 2x mais creme; limpeza automática dos tanques; preparo de latte e cappuccino; personalização de bebidas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "reservatório para água ou leite; porta-cápsulas compatível com Nespresso; porta-filtro para café moído; colher medidora; adaptador para cápsulas Nespresso"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 21,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-c30-br-bk-ne2-600ml",
+		"name": "Nespresso C30-BR-BK-NE2 (600ml)",
+		"image": "/images/posts/melhor-cafeteiras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento rápido em 25 segundos",
+			"Bomba de 19 bar para extração por pressão",
+			"Desligamento automático incluso",
+			"Corpo leve, com 2,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "extração por pressão"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "desligamento automático; sistema de aquecimento rápido (25s); bomba de 19 bar"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 11 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "bialetti-nuova-moka-express-ate-800ml",
+		"name": "Bialetti Nuova Moka Express (até 800ml)",
+		"image": "/images/posts/melhor-cafeteiras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo no fogão, sem depender de tomada",
+			"Corpo de alumínio",
+			"Capacidade de 60 a 810ml",
+			"Tipo italiana, de preparo tradicional"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "italiana"
+			},
+			{
+				"label": "Capacidade",
+				"value": "60 a 810ml"
+			},
+			{
+				"label": "Potência",
+				"value": "—"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "fogão"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "––"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm25-1-2l",
+		"name": "Electrolux ECM25 (1,2L)",
+		"image": "/images/posts/melhor-cafeteiras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas e desligamento após 2 horas",
+			"Placa de aquecimento antiaderente",
+			"Filtro permanente removível e função manter aquecido",
+			"Sistema corta-pingos e indicador do nível de água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta pingos; timer 24 horas; desligamento automático após 2 horas; função manter aquecido; filtro permanente removível; lâmpada piloto; placa de aquecimento antiaderente; indicador do nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,9 x 18,3 x 24,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf300-750ml",
+		"name": "Oster OCAF300 (750ml)",
+		"image": "/images/posts/melhor-cafeteiras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro e filtro removível",
+			"Função manter aquecido para servir por mais tempo",
+			"Corpo em aço inox e vidro",
+			"Leve, com 1,2kg e potência de 600W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700ml"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 14 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm30-1-5l",
+		"name": "Electrolux ECM30 (1,5L)",
+		"image": "/images/posts/melhor-cafeteiras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável e painel digital",
+			"Sistema AromaStrenght™ e filtro permanente",
+			"Desligamento automático e função manter aquecido",
+			"Jarra de vidro e corta-pingos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável; indicador do nível de água; painel digital; sistema AromaStrenght™; desligamento automático; função Manter Aquecido; função corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,81kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-espresso-lov-900ml",
+		"name": "Três Corações Espresso LOV (900ml)",
+		"image": "/images/posts/melhor-cafeteiras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botões individuais para cada tipo de bebida",
+			"Pressão de 15 bar com sistema multipressão",
+			"Suporte ajustável e compartimento para descarte de cápsulas",
+			"Extração automática e cápsula de retrolavagem inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "900ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "extração automática; cápsula de retrolavagem; botões individuais para tipos de bebidas; compartimento para descarte de cápsulas; pressão de 15 bar; sistema multipressão; suporte ajustável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem; manual; guia rápido; guia de manutenção; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 16 x 20,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
