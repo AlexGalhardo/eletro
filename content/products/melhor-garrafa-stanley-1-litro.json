@@ -1,0 +1,335 @@
+[
+	{
+		"id": "stanley-mate-system-1-2l",
+		"name": "Stanley Mate System 1,2L",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,2 litro com tampa de rolha",
+			"Conserva bebida quente por até 1,5 dia",
+			"Mantém bebida gelada por até 4 dias com gelo",
+			"Aço inoxidável 18/8 nos materiais externo e interno",
+			"Livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rolha"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 1,5 dia quente; até 1,5 dia gelada; até 4 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "32,8 x 10,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "912g"
+			}
+		]
+	},
+	{
+		"id": "stanley-aerolight-1-1l",
+		"name": "Stanley Aerolight 1,1L",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bico para servir e capacidade de 1,1 litro",
+			"Mantém bebida gelada por até 13 horas",
+			"Peso leve de 580g",
+			"Aço inoxidável 18/8 nos materiais externo e interno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,1 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "bico para servir"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 13 horas gelada; até 3 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "35,7 x 10,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "580g"
+			}
+		]
+	},
+	{
+		"id": "stanley-classic-950ml",
+		"name": "Stanley Classic 950mL",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa de rosca com capacidade de 950mL",
+			"Conserva bebida quente por até 28 horas",
+			"Mantém bebida gelada por até 1,5 dia",
+			"Aço inoxidável 18/8 nos materiais externo e interno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "950ml"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosca"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 28 horas quente; até 1,5 dia gelada; até 5 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "31 x 9,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "680g"
+			}
+		]
+	},
+	{
+		"id": "stanley-adventure-2-0-1l",
+		"name": "Stanley Adventure 2.0 1L",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro com tampa de rolha",
+			"Conserva bebida quente por até 25 horas",
+			"Mantém bebida gelada por até 27 horas",
+			"Dimensões de 30,5 x 8,9cm e peso de 679g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rolha"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 25 horas quente; até 27 horas gelada; até 5 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "30,5 x 8,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "679g"
+			}
+		]
+	},
+	{
+		"id": "stanley-flip-straw-887ml",
+		"name": "Stanley Flip Straw 887mL",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa flip de 887mL",
+			"Mantém bebida gelada por até 12 horas",
+			"Peso de 598g e dimensões de 24,8 x 10,1cm",
+			"Aço inoxidável 18/8 e livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "887ml"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 12 horas gelada; até 2 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "24,8 x 10,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "598g"
+			}
+		]
+	},
+	{
+		"id": "stanley-quencher-h2-0-flowstate-1-18l",
+		"name": "Stanley Quencher H2.0 FlowState 1,18L",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bico removível e capacidade de 1,18 litro",
+			"Mantém bebida gelada por até 11 horas",
+			"Dimensões de 27 x 15cm e peso de 645g",
+			"Aço inoxidável 18/8 e livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,18 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "bico removível"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 11 horas gelada; até 2 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "27 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "645g"
+			}
+		]
+	},
+	{
+		"id": "stanley-quencher-protour-twilight-1-18l",
+		"name": "Stanley Quencher Protour Twilight 1,18L",
+		"image": "/images/posts/melhor-garrafa-stanley-1-litro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa flip com bico straw e capacidade de 1,18 litro",
+			"Mantém bebida gelada por até 11 horas",
+			"Aço inoxidável reciclável no corpo e no interior",
+			"Livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,18 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip com bico straw"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "11 horas gelada; 2 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável reciclável"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável reciclável"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "27,4 x 10cm"
+			}
+		]
+	}
+]

@@ -1,0 +1,386 @@
+[
+	{
+		"id": "wap-1-2-k21-id03",
+		"name": "WAP 1/2\" K21-ID03",
+		"image": "/images/posts/melhor-furadeira-wap-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 60Nm, o maior desta lista",
+			"Funções de parafusar, furar e furar com impacto",
+			"Gatilho de velocidade variável e função reversa",
+			"Maleta e clipe de cinto incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "0 – 400RPM / 0 – 1600RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "60Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar, furar e furar com impacto; seletor de torque; duas velocidades mecânicas; gatilho de velocidade variável; função reversa; iIluminação LED; indicador de carga da bateria; empunhadura ergonômica emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bateria 2Ah; carregador 0,4A; maleta; clipe de cinto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "23,3 x 7,5 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "wap-1-2-wf-1000fe",
+		"name": "WAP 1/2\" WF 1000FE",
+		"image": "/images/posts/melhor-furadeira-wap-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 1000W, a maior potência desta lista",
+			"Caixa de engrenagens metálica e limitador de profundidade metálico",
+			"Função reversa nos sentidos horário e anti-horário",
+			"Controle gradual da velocidade e botão de trava"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "1000W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "22Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar e perfurar com ou sem impacto; chave de mandril com suporte; caixa de engrenagens metálica; seletor de velocidade; controle gradual da velocidade; função reversa com rotação nos sentidos horário e anti-horário; limitador de profundidade metálico; empunhadura emborrachada; botão de trava; LED indicador de alimentação"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril; empunhadura auxiliar; limitador de profundidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "30 x 10,5 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			}
+		]
+	},
+	{
+		"id": "wap-3-8-wf-700fe",
+		"name": "WAP 3/8\" WF 700FE",
+		"image": "/images/posts/melhor-furadeira-wap-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Construção 100% rolamentada",
+			"Torque máximo de 40Nm e velocidade de 3000RPM",
+			"Aletas de ventilação e botão de trava",
+			"Parafusar e perfurar com ou sem impacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "700W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "40Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar e perfurar com ou sem impacto; construção 100% rolamentada; seletor de velocidade; função reversa; botão trava; aletas de ventilação"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "22,8 x 22 x 6,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,52kg"
+			}
+		]
+	},
+	{
+		"id": "wap-3-8-k21-id01",
+		"name": "WAP 3/8\" K21-ID01",
+		"image": "/images/posts/melhor-furadeira-wap-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicador de carga da bateria e luz LED",
+			"Torque máximo de 45Nm e 2 velocidades mecânicas",
+			"Porta-bits integrado e bit duplo incluso",
+			"Bivolt e empunhadura ergonômica emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "350RPM – 1400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "45Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar, furar e furar com impacto; seletor de torque; duas velocidades mecânicas; gatilho de velocidade variável; função reversa; iIluminação LED; indicador de carga da bateria; empunhadura ergonômica emborrachada; porta-bits integrado"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bateria 2Ah; carregador 0,4A; maleta; clipe de cinto; bit duplo"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "21 x 7,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "wap-1-2-wf-700-fe13",
+		"name": "WAP 1/2\" WF 700 FE13",
+		"image": "/images/posts/melhor-furadeira-wap-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 40Nm com mandril de 13mm",
+			"Empunhadura auxiliar removível",
+			"Limitador de profundidade e chave de mandril incluídos",
+			"Parafusar e perfurar com ou sem impacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "700W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "40Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "funções de parafusar e perfurar com ou sem impacto; seletor de velocidade; função reversa; botão trava"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril; empunhadura auxiliar removível; limitador de profundidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "26 x 10,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "wap-3-8-wf-700fe-w2",
+		"name": "WAP 3/8\" WF 700FE W2",
+		"image": "/images/posts/melhor-furadeira-wap-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de velocidade e função reversa",
+			"Suporte para chave de mandril",
+			"Limitador de profundidade e empunhadura auxiliar",
+			"Parafusar e perfurar com ou sem impacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "700W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "15Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar e perfurar com ou sem impacto; seletor de velocidade; função reversa; botão trava; suporte para chave de mandril"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril; empunhadura auxiliar; limitador de profundidade"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "26 x 6,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			}
+		]
+	},
+	{
+		"id": "wap-3-8-wf-700k10",
+		"name": "WAP 3/8\" WF 700K10",
+		"image": "/images/posts/melhor-furadeira-wap-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Kit com brocas para madeira e alvenaria, trena e maleta",
+			"Motor rolamentado e aletas de ventilação",
+			"Punho auxiliar multidirecional e régua de profundidade",
+			"Torque máximo de 40Nm e velocidade de 3000RPM"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "700W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "40Nm"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "parafusar e perfurar com ou sem impacto; seletor de velocidade; função reversa; botão trava; motor rolamentado; punho auxiliar multidirecional; aletas de ventilação; limitador de profundidade"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril; punho auxiliar multidirecional; régua de profundidade; maleta organizadora; trena de 3 metros; chave Phillips; chave de fenda; 2 brocas para madeira (6 e 8mm); 3 brocas para alvenaria (5, 6 e 8mm); martelo"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "7 x 20,2 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	}
+]

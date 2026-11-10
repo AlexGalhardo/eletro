@@ -1,0 +1,445 @@
+[
+	{
+		"id": "karcher-k5-2100psi-1900w",
+		"name": "Kärcher K5 (2100psi) 1900W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 2100psi com motor de indução",
+			"Vazão de 380L/h e economia de até 80% de água",
+			"Mangueira de alta pressão de 6 metros",
+			"Rodas, alça alongada e filtro de água",
+			"Autostop e lança de jato turbo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1900W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2100psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "380L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "6 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; mangueira de alta pressão de 6 metros; engate rápido; lança de jato turbo; lança de jato leque"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "rodas; filtro de água; autostop; alça alongada; suporte para acessórios; economia de até 80% de água"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 40 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,4kg"
+			}
+		]
+	},
+	{
+		"id": "wap-ousada-plus-2200-1750psi-1500w",
+		"name": "WAP Ousada Plus 2200 (1750psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1750psi com motor universal",
+			"Sistema Stop Total e trava de segurança na pistola",
+			"Jato concentrado e jato leque na lança",
+			"Alça e rodas para transporte",
+			"Porta-acessórios e engate rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1750psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "342L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Material da mangueira",
+				"value": "nylon"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão com trava de segurança; baioneta com conexão rápida; lança com bico regulável; engate rápido; agulha para limpeza de bico"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; porta-acessórios; alça e rodas para fácil transporte; jato concentrado; jato leque"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 26 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-compacta-1500psi-1400w",
+		"name": "Kärcher Compacta (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Design compacto e ergonômico de 3kg",
+			"Pressão de 1500psi com vazão de 300L/h",
+			"Aplicador de detergente e engate rápido",
+			"Autostop e economia de até 80% de água",
+			"Porta-acessórios integrado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; lança de jato reto regulável; mangueira de alta pressão de 3 metros; aplicador de detergente; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-acessórios integrado; design compacto e ergonômico; autostop; economia de até 80% de água em comparação com mangueiras convencionais"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 21 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "wap-atacama-smart-2200-1500psi-1400w",
+		"name": "WAP Atacama Smart 2200 (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1500psi com vazão de 330L/h",
+			"Sistema Stop Total que corta o fluxo ao soltar o gatilho",
+			"Lança com bico regulável em leque e concentrado",
+			"Porta-acessórios, alça e rodas para transporte",
+			"Peso de 4kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Material da mangueira",
+				"value": "nylon"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; mangueira com 3 metros de comprimento; baioneta com conexão rápida; lança com bico regulável (leque e concentrado); engate rápido; agulha para limpeza de bico"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total (corta o fluxo de água e a energia do motor ao soltar o gatilho); porta-acessórios integrado; alça e rodas para fácil transporte"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 25 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav1300-1300psi-1200w",
+		"name": "Vonder LAV1300 (1300psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1300psi, a menor da lista",
+			"Pistões da bomba em aço inox",
+			"Sistema Stop Total e filtro interno lavável",
+			"Alça e suportes para guardar pistola e cabo",
+			"Peso de 4,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1300psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para detergente; mangueira de alta pressão de 3 metros; lança com bico ajustável; pistola com gatilho; conector engate rápido de 1/2″ com filtro interno lavável"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; pistões da bomba em aço inox; alça e suportes para armazenar pistola e cabo elétrico; sistema que gera mais pressão e libera menos água para maior eficiência e economia"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "46 x 29 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "wap-combate-turbo-2600-2100psi-1700w",
+		"name": "WAP Combate Turbo 2600 (2100psi) 1700W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 2100psi com motor de indução",
+			"Mangueira de 5 metros e bico turbo",
+			"Sistema Stop Total e porta-acessórios integrado",
+			"Filtro e baioneta com conexão rápida",
+			"Vazão de 360L/h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1700W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2100psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "360L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Material da mangueira",
+				"value": "nylon"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; baioneta com conexão rápida; lança com bico turbo e bico regulável (leque e concentrado); engate rápido; filtro"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; porta-acessórios integrado; alça e rodas para fácil transporte; bico turbo; engate rápido"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "76 x 30 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,8kg"
+			}
+		]
+	},
+	{
+		"id": "wap-lider-2200-1800psi-1750w",
+		"name": "WAP Líder 2200 (1800psi) 1750W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1800psi com vazão de 360L/h",
+			"Mangueira de 5 metros de nylon",
+			"Aplicador de detergente e engate rápido",
+			"Sistema Stop Total e porta-acessórios integrado",
+			"Bico regulável para diferentes tipos de sujeira"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1750W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1800psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "360L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Material da mangueira",
+				"value": "nylon"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; baioneta com conexão rápida; lança com bico regulável (leque e concentrado); engate rápido; aplicador de detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; porta-acessórios integrado; alça e rodas para fácil transporte; bico regulável para diferentes tipos de sujeiras"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "81 x 29 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,9kg"
+			}
+		]
+	}
+]

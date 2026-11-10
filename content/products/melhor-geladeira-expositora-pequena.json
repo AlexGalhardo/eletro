@@ -1,0 +1,337 @@
+[
+	{
+		"id": "venax-expvqbl209-209-litros",
+		"name": "Venax EXPVQBL209 209 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 209 litros com 4 prateleiras reguláveis",
+			"Porta de vidro duplo Low-E com aquecimento anti-condensação",
+			"Iluminação LED azul e degelo automático",
+			"Dreno traseiro com recipiente de degelo",
+			"Controlador de temperatura digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "209 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de -6 a 6°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "4 (reguláveis e removíveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo Low-E com aquecimento anti-condensação; controlador de temperatura digital; iluminação interna em LED azul; degelo automático; evaporador com ar forçado; dreno traseiro com recipiente de degelo; pés frontais reguláveis e traseiros com rolete; gás refrigerante R134a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "174,5 x 49,5 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "56kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eev200b-198-litros",
+		"name": "EOS EEV200B 198 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 198 litros com 4 prateleiras",
+			"Porta de vidro duplo antiembaçante com trava, chave e puxador interno",
+			"Controle de temperatura digital e iluminação LED",
+			"Pés frontais ajustáveis e rodas traseiras",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "198 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "4 (reguláveis e removíveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo com sistema antiembaçante; controle de temperatura digital; iluminação interna em LED; porta com trava, chave e puxador interno; pés frontais ajustáveis e rodas traseiras; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "127 x 53,5 x 53cm"
+			},
+			{
+				"label": "Peso",
+				"value": "44kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-95fbpv-95-litros",
+		"name": "HQ HQ-95FBPV 95 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 95 litros com porta reversível",
+			"Porta de vidro duplo e iluminação LED",
+			"Termostato ajustável com controle mecânico",
+			"Sistema Defrost e gás R600a",
+			"Duas prateleiras ajustáveis e removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "95 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "2 (ajustáveis e removíveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo; termostato ajustável com controle mecânico; iluminação interna em LED; porta reversível; sistema Defrost; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83 x 47,2 x 43,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eev110p-100-litros",
+		"name": "EOS EEV110P 100 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 100 litros com 4 prateleiras reguláveis",
+			"Porta de vidro duplo antiembaçante",
+			"Isolamento térmico com ciclopentano",
+			"Pés frontais ajustáveis e iluminação LED",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "100 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "4 (reguláveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo antiembaçante; iluminação interna em LED; pés frontais ajustáveis; isolamento térmico com ciclopentano; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83,5 x 44,5 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-85fbpv1-85-litros",
+		"name": "HQ HQ-85FBPV1 85 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 85 litros com 3 prateleiras removíveis",
+			"Porta de vidro duplo e termostato ajustável",
+			"Pés niveladores e iluminação interna",
+			"Gás refrigerante R600a",
+			"Dimensões de 71,6 x 40 x 43,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "85 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "3 (removíveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo; termostato ajustável; iluminação interna; pés niveladores; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "71,6 x 40 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-50fbpv2-50-litros",
+		"name": "HQ HQ-50FBPV2 50 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 50 litros, a menor da lista",
+			"Porta de vidro com termostato ajustável",
+			"Bandeja de água e condensador interno",
+			"Tampa traseira e iluminação interna",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "50 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "1 (ajustável e removível)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro; termostato ajustável; iluminação interna; bandeja de água; condensador interno; tampa traseira; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50,6 x 40 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eev210b-231-litros",
+		"name": "EOS EEV210B 231 litros",
+		"image": "/images/posts/melhor-geladeira-expositora-pequena-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 231 litros, a maior da lista",
+			"Porta de vidro duplo antiembaçante com trava, chave e puxador interno",
+			"Painel touch e isolamento com ciclopentano",
+			"Rodas traseiras e pés frontais ajustáveis",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "231 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "4 (ajustáveis e removíveis)"
+			},
+			{
+				"label": "Extras",
+				"value": "porta de vidro duplo antiembaçante; iluminação interna em LED; pés frontais ajustáveis; rodas traseiras; isolamento térmico com ciclopentano; porta com trava de segurança, chave e puxador interno; painel touch; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "143 x 56 x 53cm"
+			},
+			{
+				"label": "Peso",
+				"value": "48kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

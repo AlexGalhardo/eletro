@@ -1,0 +1,387 @@
+[
+	{
+		"id": "cressi-astra-2100-2100-lumens",
+		"name": "Cressi Astra 2100 (2100 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-mao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100 lúmens e alcance de 170 metros",
+			"Corpo em liga de alumínio com resistência IPX8",
+			"Recarga por conector USB magnético",
+			"Modos médio, alto e estrobo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "2100 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "médio; alto; estrobo"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 170 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via conector USB magnético"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "440g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "conector magnético"
+			}
+		]
+	},
+	{
+		"id": "ntk-tocha-gama-1500-lumens",
+		"name": "NTK Tocha Gama (1500 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-mao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500 lúmens com modos fraco, forte e SOS",
+			"Resistência IP67",
+			"Recarga pela porta USB-C",
+			"Acompanha alça, cabo USB e lâmpada LED Cree"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico ABS; policarbonato; PVC; alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1500 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fraco; forte; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "aberto"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67"
+			},
+			{
+				"label": "Dimensões",
+				"value": "20 x 9,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "690g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça para pendurar; cabo USB; 1 lâmpada de LED Cree de 20W"
+			}
+		]
+	},
+	{
+		"id": "rayovac-diy3aaabc-250-lumens",
+		"name": "Rayovac DIY3AAABC (250 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-mao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alimentação por três pilhas AAA alcalinas",
+			"Autonomia de até 39 horas",
+			"Resistente à água e a impactos de até 9 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio titânio; borracha"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alto; economia de energia"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 168 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "3 pilhas AAA alcalinas"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 39 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "resistente à água e a impactos de até 9 metros"
+			},
+			{
+				"label": "Dimensões",
+				"value": "14 x 4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "240g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça ergonômica"
+			}
+		]
+	},
+	{
+		"id": "vonder-lrv088l-88-lumens",
+		"name": "Vonder LRV088L (88 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-mao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 88 lúmens com feixe fixo",
+			"Alcance de até 70 metros",
+			"Recarga pela fonte de 4,2V DC incluída"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "88 lúmens"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 70m"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "recarregável via fonte 4,2V DC"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18,2 x 4,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "fonte de alimentação"
+			}
+		]
+	},
+	{
+		"id": "vonder-lrv100l-100-lumens",
+		"name": "Vonder LRV100L (100 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-mao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois modos: frontal e lateral",
+			"Alcance de até 200 metros",
+			"Recarga por cabo mini USB de 5V",
+			"Peso de apenas 84g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "80 lúmens (frontal) e 100 lúmens (lateral)"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "frontal; lateral"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 200 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "recarregável via Mini USB 5V DC"
+			},
+			{
+				"label": "Dimensões",
+				"value": "15,5 x 3,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "84g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "cabo mini USB"
+			}
+		]
+	},
+	{
+		"id": "makita-dml802",
+		"name": "Makita DML802",
+		"image": "/images/posts/melhor-lanterna-de-mao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Foco ajustável em 12 posições",
+			"Autonomia de até 13 horas",
+			"Acompanha gancho da correia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "160 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "único modo"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável em 12 posições"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 13 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "27,2 x 7,9 x 11,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "650g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "gancho da correia"
+			}
+		]
+	},
+	{
+		"id": "cressi-hunt-1600",
+		"name": "Cressi Hunt 1600",
+		"image": "/images/posts/melhor-lanterna-de-mao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600 lúmens com alcance de 290 metros",
+			"Modos alto e estrobo com foco concentrado",
+			"Resistência IPX8 e recarga por USB magnético",
+			"Peso de 196g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1600 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alto; estrobo"
+			},
+			{
+				"label": "Foco",
+				"value": "concentrado"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 290 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB magnético"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "16 x 4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "196g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "conector magnético"
+			}
+		]
+	}
+]

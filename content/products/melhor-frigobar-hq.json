@@ -1,0 +1,309 @@
+[
+	{
+		"id": "hq-hq-130fbpvl-130-litros",
+		"name": "HQ HQ-130FBPVL 130 litros",
+		"image": "/images/posts/melhor-frigobar-hq-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 130 litros, a maior desta lista",
+			"Porta de vidro duplo com iluminação interna",
+			"Prateleiras de vidro ajustáveis e porta reversível",
+			"Degelo manual e gás refrigerante R600a",
+			"Medidas de 81,5 x 51 x 55cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "130L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de 5 a 12°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta de vidro duplo com iluminação interna; prateleiras de vidro ajustáveis; termostato mecânico 0–5; degelo manual (Defrost); porta reversível; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "81,5 x 51 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "29,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-90rdf-90-litros",
+		"name": "HQ HQ-90RDF 90 litros",
+		"image": "/images/posts/melhor-frigobar-hq-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 90 litros com freezer de até -12°C",
+			"Sistema Defrost e prateleiras de vidro ajustáveis",
+			"Gavetão para frutas e verduras",
+			"Iluminação interna e porta reversível",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "90L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "1 a 7°C (refrigerador); até -12°C (freezer)"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Defrost; prateleiras de vidro ajustáveis; gavetão para frutas e verduras; iluminação interna; porta reversível; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83,3 x 48,6 x 53,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-bc-52-52-litros",
+		"name": "HQ BC-52 52 litros",
+		"image": "/images/posts/melhor-frigobar-hq-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 52 litros com porta reversível",
+			"Prateleira interna removível e nichos na porta",
+			"Puxador embutido e pés frontais ajustáveis",
+			"Bandeja coletora para degelo",
+			"Controle de temperatura manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "52L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de temperatura manual; porta reversível; prateleira interna removível; nichos na porta; puxador embutido; pés frontais ajustáveis; gás refrigerante R600a; agente de expansão ciclopentano; bandeja coletora para degelo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50,6 x 47 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-bc-93-93-litros",
+		"name": "HQ BC-93 93 litros",
+		"image": "/images/posts/melhor-frigobar-hq-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 93 litros com sala de refrigeração interna",
+			"Refrigerador de 0 a 10°C e sala de 0 a -6°C",
+			"Baixo nível de ruído",
+			"Prateleiras removíveis e nichos na porta",
+			"Bandeja coletora para degelo e pés ajustáveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "93L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "0 a 10°C (refrigerador); 0 a -6°C (sala de refrigeração)"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de temperatura manual; sala de refrigeração interna; porta reversível; prateleiras removíveis; nichos na porta; puxador embutido; pés frontais ajustáveis; gás refrigerante R600a; agente de expansão ciclopentano; bandeja coletora para degelo; baixo nível de ruído"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83,5 x 47 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-50fb-50-litros",
+		"name": "HQ HQ-50FB 50 litros",
+		"image": "/images/posts/melhor-frigobar-hq-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 50 litros com compartimento extra-frio",
+			"Classificação energética A+++",
+			"Baixo nível de ruído",
+			"Pés niveladores para ajuste do aparelho",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "50L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "0 a 10°C (refrigerador); 0 a -6°C (compartimento extra-frio)"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "pés niveladores; compartimento extra-frio; classificação energética A+++; gás refrigerante R600a; baixo nível de ruído"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50,5 x 45 x 43cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-95fbpv-95-litros",
+		"name": "HQ HQ-95FBPV 95 litros",
+		"image": "/images/posts/melhor-frigobar-hq-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 95 litros com porta de vidro duplo",
+			"Iluminação interna em LED",
+			"Prateleiras de vidro removíveis e ajustáveis",
+			"Sistema Defrost e controle mecânico de temperatura",
+			"Porta reversível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "95L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta de vidro duplo; iluminação interna LED; prateleiras de vidro removíveis e ajustáveis; controle de temperatura mecânico; sistema Defrost; porta reversível; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83 x 47,2 x 43,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-124fb-124-litros",
+		"name": "HQ HQ-124FB 124 litros",
+		"image": "/images/posts/melhor-frigobar-hq-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 124 litros com prateleiras de vidro",
+			"Gaveta de legumes com tampa de vidro e porta-ovos",
+			"Classificação energética A+++",
+			"Porta reversível e gás refrigerante R600a",
+			"Medidas de 83 x 48 x 48cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "124L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "prateleiras de vidro; gaveta de legumes com tampa de vidro; porta-ovos; porta reversível; classificação energética A+++; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83 x 48 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,394 @@
+[
+	{
+		"id": "brastemp-brm44h-375-litros",
+		"name": "Brastemp BRM44H 375 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 375 litros com frost free",
+			"Selo Procel A com consumo de 54kWh por mês",
+			"Compartimento para latas e long necks",
+			"Gavetão Fresh Zone e controle externo com 5 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "375 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (54kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "compartimento para latas e long necks; painel eletrônico externo; gavetão de legumes Fresh Zone; compartimento de acesso rápido; espaço para temperos; recipiente para gelo; pés niveladores; proteção contra corrosão"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com mostrador frontal e 5 níveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176 x 62,1 x 75,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf39-310-litros",
+		"name": "Electrolux TF39 310 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 315 litros com frost free",
+			"Selo Procel A com consumo de 43,6kW/h",
+			"Painel externo com drink express e turbo congelamento",
+			"Alarme de porta aberta e formas de gelo suspensas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "315 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (43,6kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis de vidro temperado"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão de frutas e legumes; painel externo com drink express e turbo congelamento; formas de gelo suspensas; rodízios; puxador ergonômico; alarme de porta aberta; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel eletrônico externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "171,5 x 60 x 61,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux DC35A 260 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 260 litros com Super Freezer a -18°C",
+			"Selo Procel A com consumo de 38,4kW/h",
+			"Porta-latas reversível para 5 unidades",
+			"Degelo automático do refrigerador e separador de garrafas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "260 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (38,4kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "Super Freezer a -18°C; porta-latas reversível para 5 unidades; separador de garrafas; cesta porta ovos; recipiente para guardar gelo; pés niveladores; degelo automático do refrigerador"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,9 x 54,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "44,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-erv270ds-240-litros",
+		"name": "Eos ERV270DS 240 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo A+++ com consumo de 20,1kWh por mês",
+			"Compressor com gás ecológico R600a",
+			"Operação silenciosa e iluminação interna",
+			"Degelo automático e gavetão horti fruti"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "240 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++ (20,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "degelo automático no refrigerador; compressor com gás ecológico R600a; operação silenciosa; iluminação interna; gavetão horti fruti; porta-latas ajustável; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "141 x 55 x 56,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crm39a-340-litros",
+		"name": "Consul CRM39A 340 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 340 litros com compartimento extra-frio",
+			"Selo A com consumo de 49,1kWh por mês",
+			"Função turbo e prateleiras com 8 níveis de ajuste",
+			"Sistema Altura Flex e display LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "340 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A (49,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis (sistema Altura Flex)"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "função turbo; prateleiras com 8 níveis de ajuste; gavetão hortifruti; controle de temperatura interno; display LED; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "169,5 x 62,1 x 71,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crd37zb-334-litros",
+		"name": "Consul CRD37ZB 334 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 334 litros com cycle defrost",
+			"Selo A com consumo de 43,5kWh por mês",
+			"Prateleiras ajustáveis em até 15 níveis",
+			"Compartimento Gelo Extra e gavetão hortifruti"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "334 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A (43,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis em até 15 níveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão hortifruti; compartimento Gelo Extra; recipiente para gelo; prateleiras removíveis; pés niveladores; controle de temperatura interno; porta-ovos"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "166,9 x 60,3 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf70-431-litros",
+		"name": "Electrolux TF70 431 litros",
+		"image": "/images/posts/melhor-geladeira-duplex-menor-preco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 431 litros com compartimento extra-frio",
+			"Selo A+++ com consumo de 35,3kWh por mês",
+			"Tecnologia AutoSense com inteligência artificial",
+			"Iluminação LED e bandeja de ovos para 12 unidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "431 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++ (35,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reversíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia AutoSense com inteligência artificial; gaveta HortiNatura; compartimento IceMax; compartimentos MoveAdapt; puxador com material reciclado; iluminação LED; bandeja de ovos para 12 unidades; rodízios; pés niveladores; compartimento de congelamento rápido"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176 x 70 x 73,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "66kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

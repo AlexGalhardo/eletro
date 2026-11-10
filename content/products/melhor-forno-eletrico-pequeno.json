@@ -1,0 +1,410 @@
+[
+	{
+		"id": "mueller-mfb35g-35-litros-1800w",
+		"name": "Mueller MFB35G (35 litros) 1800W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 35 litros para preparos em maior quantidade",
+			"Potência de 1800W com seletor de 50ºC a 250ºC",
+			"Porta de vidro duplo e luz interna para acompanhar o preparo",
+			"Nove funções, incluindo air fryer, turbo e descongelar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "35 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "50ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "air fryer; turbo; assar; dourar; assar + dourar; descongelar; manter aquecido; luz interna; desligamento automático"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja coletora; prateleira; bandeja fryer; lâmpada"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 48 x 45cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ofor250-25-litros-1700w",
+		"name": "Oster OFOR250 (25 litros) 1700W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 25 litros com porta de vidro temperado",
+			"Timer digital e alarme sonoro para controlar o tempo",
+			"Onze preparos pré-definidos para escolher com praticidade",
+			"Luva térmica e assadeira inclusas para manusear as preparações"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "30°C a 200°C"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "11 preparos pré-definidos; air fryer; turbo convecção; descongelar; grill; desidratar; estufa; grelhar; torrar; reaquecer; timer; alarme sonoro; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "luva térmica; fritadeira; cesto; bandeja coletora; assadeira; gancho para cesto"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,5 x 40 x 37,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ofor160-15-litros-1600w",
+		"name": "Oster OFOR160 (15 litros) 1600W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo compacto de 15 litros para bancadas menores",
+			"Potência de 1600W com seletor de 30ºC a 200ºC",
+			"Assadeira coletora de gordura e bandeja inclusas",
+			"Luz interna e timer digital para acompanhar o preparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "15 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "30ºC a 200ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "air fryer; turbo convecção; descongelar; grill; desidratar; estufa; grelhar; torrar; reaquecer e mais 11 preparos pré-definidos; alarme sonoro; timer; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto; assadeira coletora de gordura; bandeja coletora; prateleira/grelha"
+			},
+			{
+				"label": "Peso",
+				"value": "6,1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "‎34,5 x 34,5 x 31cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe41p-36-litros-1500w",
+		"name": "Britânia BFE41P (36 litros) 1500W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade da lista, com 36 litros de espaço interno",
+			"Seletor de 100ºC a 250ºC com função dourar",
+			"Grelha e prateleira inclusas para aproveitar o espaço",
+			"Porta de vidro temperado e timer analógico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "36 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100°C a 250°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "não"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; dourar; luz de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha; prateleira"
+			},
+			{
+				"label": "Peso",
+				"value": "5,96kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,7 x 51 x 35,2cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-pratic-cook-fr-09-6-litros-650w",
+		"name": "Mondial Pratic Cook FR-09 (6 litros) 650W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo compacto de 6 litros, com apenas 2,1kg",
+			"Tostar, gratinar e descongelar além de assar",
+			"Grelha retrátil e bandeja removível inclusas",
+			"Timer digital com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "650W"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "tostar; assar; descongelar; gratinar; dourar; timer; desligamento automático"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha retrátil; bandeja removível"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 35,5 x 20,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efe25aid-25-litros-1800w",
+		"name": "EOS EFE25AID (25 litros) 1800W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 25 litros e potência de 1800W",
+			"Air fryer, assar e desidratar em um único aparelho",
+			"Porta de vidro e inox com luz interna",
+			"Seletor de 60ºC a 230ºC para ajustar a temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "60ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "––"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro e inox"
+			},
+			{
+				"label": "Funções",
+				"value": "air fryer; assar; desidratar + funções pré-programadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto; grelha; bandeja"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,5 x 41,4 x 37,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfe25i-25-litros-1600w",
+		"name": "Philco PFE25I (25 litros) 1600W",
+		"image": "/images/posts/melhor-forno-eletrico-pequeno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Air fryer, assar, dourar e aquecer em um só modelo",
+			"Capacidade de 25 litros com potência de 1600W",
+			"Pegador incluso para manusear a bandeja e o cesto",
+			"Timer analógico e luz interna para acompanhar o preparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "air fryer; assar; dourar; aquecer; luz interna; luz de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto; bandeja; pegador"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,7 x 40,5 x 40,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

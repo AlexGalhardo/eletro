@@ -1,0 +1,339 @@
+[
+	{
+		"id": "tramontina-42556022-2300psi-2500w",
+		"name": "Tramontina 42556022 (2300psi) 2500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2500W e pressão de 2300psi",
+			"Mangueira de 10 metros",
+			"Motor de indução com bomba refrigerada a água",
+			"Sistema Stop Total e proteção contra superaquecimento",
+			"Vazão de 600 a 660L/h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2300psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "600 – 660L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "10 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; ponteira com engate rápido; 5 bicos de pressão (0°, 15°, 25°, 40° e turbo); engate rápido; filtro para sucção de água"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; bomba com refrigeração a água; pistões em aço inox; filtro interno transparente; carro de transporte com rodas de 250mm; suporte para acessórios; lança em aço inox; jato regulável; mangueira com trama de aço"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 51 x 77cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27,16kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42552012-1900psi-1800w",
+		"name": "Tramontina 42552012 (1900psi) 1800W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1800W e pressão de 1900psi",
+			"Dispositivo interno para aplicação de sabão",
+			"Filtro interno lavável",
+			"Sucção de água de cisterna ou caixa d’água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1800W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1900psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "360 – 420L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão com trava; ponteira turbo; ponteira com regulagem de jato; filtro para sucção de água; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; regulagem do jato em leque; dispositivo interno para aplicação de sabão; filtro interno lavável; sucção de água (cisterna/caixa d’água); suporte para acessórios; rodas de 180mm; alça ergonômica"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79 x 34 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42546022-1500psi-1200w",
+		"name": "Tramontina 42546022 (1500psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e pressão de 1500psi",
+			"Mangueira de 3 metros com prolongador da pistola",
+			"Regulagem do jato em leque",
+			"Rodas de 140mm e sistema Stop Total"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330 – 390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão com trava; prolongador da pistola; ponteira com regulagem de jato; filtro para sucção de água"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; regulagem do jato em leque; sucção de água; filtro interno lavável; suporte para acessórios; rodas de 140mm"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 27 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42545022-1500psi-1200w",
+		"name": "Tramontina 42545022 (1500psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e pressão de 1500psi",
+			"Mangueira de 3 metros e prolongador da pistola",
+			"Regulagem do jato em leque",
+			"Sistema Stop Total e suporte para acessórios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330 – 390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; prolongador da pistola; ponteira com regulagem de jato"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; regulagem do jato em leque; suporte para acessórios"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 23 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42554012-2100psi-2100w",
+		"name": "Tramontina 42554012 (2100psi) 2100W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W e pressão de 2100psi",
+			"Reservatório de detergente integrado",
+			"Rodas de 210mm e alça ergonômica",
+			"Motor de indução com mangueira de 5 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2100W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2100psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "420 – 468L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão com trava; ponteira turbo; ponteira com regulagem de jato; filtro para sucção de água; dispositivo interno para aplicação de sabão; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; regulagem do jato em leque; sucção de água (cisterna/caixa d’água); filtro interno lavável; suporte para acessórios; rodas de 210mm; alça ergonômica; reservatório de detergente integrado"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87 x 38 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "18,6kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-42550022-1600psi-1400w",
+		"name": "Tramontina 42550022 (1600psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-tramontina-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1400W e pressão de 1600psi",
+			"Aplicação de sabão por garrafa",
+			"Alça ergonômica e rodas de 140mm",
+			"Sucção de água de cisterna ou caixa d’água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1600psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330 – 390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão com trava; prolongador da pistola; ponteira com regulagem de jato; filtro para sucção de água; garrafa para aplicação de sabão; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; proteção contra superaquecimento; regulagem do jato em leque; sucção de água (cisterna/caixa d’água); filtro interno lavável; suporte para acessórios; rodas de 140mm; alça ergonômica; aplicação de sabão por garrafa"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69 x 28 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,1kg"
+			}
+		]
+	}
+]

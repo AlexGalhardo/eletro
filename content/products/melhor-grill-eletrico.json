@@ -1,0 +1,351 @@
+[
+	{
+		"id": "mondial-dual-grill-premium-g-10-1270w",
+		"name": "Mondial Dual Grill Premium G-10 1270W",
+		"image": "/images/posts/melhor-grill-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1270W em 127V e 1500W em 220V",
+			"Placa lisa e peças removíveis",
+			"Bandeja coletora e ajuste de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1270W (127V); 1500W (220V)"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "não"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "lisa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "bandeja coletora; peças removíveis; ajuste de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 48,5 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-cook-grill-40-g-03-1270w",
+		"name": "Mondial Cook & Grill 40 G-03 1270W",
+		"image": "/images/posts/melhor-grill-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de inclinação para escoar a gordura",
+			"7 ajustes de temperatura e alças isotérmicas",
+			"Placa ondulada com bandeja coletora de gordura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1270W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "não"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de inclinação para escoar a gordura; bandeja coletora de gordura; 7 ajustes de temperatura; alças isotérmicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12,5 x 46 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-ultra-pe-28-1200w",
+		"name": "Mondial Ultra PE-28 1200W",
+		"image": "/images/posts/melhor-grill-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Luz indicadora de funcionamento",
+			"Capacidade de 3L, equivalente a 6 xícaras",
+			"Tampa de vidro temperado com saída de vapor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3L (6 xícaras)"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "ajuste de temperatura; alças isotérmicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 37 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-top-grill-bpe01-1200w",
+		"name": "Britânia Top Grill BPE01 1200W",
+		"image": "/images/posts/melhor-grill-eletrico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de temperatura removível",
+			"Estrutura destacável da base aquecida",
+			"Capacidade de 3 xícaras e placa ondulada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3 xícaras"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de inclinação para escoar a gordura; seletor de temperatura removível; estrutura destacável da base aquecida"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15,5 x 44,5 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cadence-perfect-taste-grl300-1250w",
+		"name": "Cadence Perfect Taste GRL300 1250W",
+		"image": "/images/posts/melhor-grill-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"5 níveis de temperatura",
+			"Capacidade de 2,5 litros",
+			"Tampa de vidro temperado e peso de 1,8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,5 litros"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "5 níveis de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 41,5 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-mangiare-apeq01i-1500w",
+		"name": "Agratto Mangiare APEQ01i 1500W",
+		"image": "/images/posts/melhor-grill-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W, a maior da lista",
+			"Alças isotérmicas e anatômicas",
+			"Cabo removível e capacidade de 4,6 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "4,6 litros"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "alças isotérmicas e anatômicas; 5 níveis de temperatura; cabo removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 30,3 x 42,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-smart-grill-g-04-1200w",
+		"name": "Mondial Smart Grill G-04 1200W",
+		"image": "/images/posts/melhor-grill-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura ajustada em 7 níveis",
+			"Alças isotérmicas e bandeja coletora de gordura",
+			"Placa ondulada e tampa de vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Tampa",
+				"value": "vidro temperado com saída de vapor"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "temperatura ajustada em 7 níveis; alças isotérmicas; bandeja coletora de gordura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 37 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

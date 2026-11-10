@@ -1,0 +1,422 @@
+[
+	{
+		"id": "sofirn-sp35t",
+		"name": "Sofirn SP35T",
+		"image": "/images/posts/melhor-lanterna-tatica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5 a 3800 lúmens com modo turbo",
+			"Alcance de até 280 metros",
+			"Oito modos de luz, incluindo beacon e SOS",
+			"Resistência IPX8 e autonomia de 220 horas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio preto com ameias"
+			},
+			{
+				"label": "Potência",
+				"value": "5 a 3800 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "eco; baixo; médio; alto; turbo; estrobo; SOS; beacon"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 280 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "220 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "13,95 x 2,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "87g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "clipe de bolso; cordão de pulso; cabo de carregamento USB-C; manual; 2 anéis de vedação sobressalentes"
+			}
+		]
+	},
+	{
+		"id": "sofirn-sp31-v2-0",
+		"name": "Sofirn SP31 V2.0",
+		"image": "/images/posts/melhor-lanterna-tatica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5 a 1200 lúmens",
+			"Alumínio aeronáutico com resistência IPX8",
+			"Autonomia de 291 horas",
+			"Peso leve de 72g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio aeronáutico"
+			},
+			{
+				"label": "Potência",
+				"value": "5 a 1200 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "econômico; baixo; médio; alto; turbo; strobe; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 200 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "291 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "13,35 x 2,34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "72g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "cabo USB"
+			}
+		]
+	},
+	{
+		"id": "goreit-xhp70-2",
+		"name": "Goreit XHP70.2",
+		"image": "/images/posts/melhor-lanterna-tatica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 10.000 lúmens com foco ajustável",
+			"Alcance de 500 metros",
+			"Aceita bateria recarregável ou pilhas AAA",
+			"Resistência IP67 com 340g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio aeronáutico"
+			},
+			{
+				"label": "Potência",
+				"value": "10.000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; strobo; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável"
+			},
+			{
+				"label": "Alcance",
+				"value": "500 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável ou pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18 x 4,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "340g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "bateria; cabo de carregamento USB; 3 pilhas AAA"
+			}
+		]
+	},
+	{
+		"id": "b-max-bm-8516",
+		"name": "B-MAX BM-8516",
+		"image": "/images/posts/melhor-lanterna-tatica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 10.000 lúmens com zoom",
+			"Foco ajustável por zoom in e zoom out",
+			"Autonomia de 15 horas com bateria recarregável",
+			"Resistência IP67 em liga de alumínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "10.000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; strobe; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável (zoom in/out)"
+			},
+			{
+				"label": "Alcance",
+				"value": "100 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "15 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67"
+			},
+			{
+				"label": "Dimensões",
+				"value": "16 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "500g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "cabo USB; cordão de pulso"
+			}
+		]
+	},
+	{
+		"id": "romaz-t9",
+		"name": "Romaz T9",
+		"image": "/images/posts/melhor-lanterna-tatica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 6800 lúmens com zoom",
+			"Alcance de 500 metros",
+			"Resistência IPX7 em alumínio aeronáutico",
+			"Aceita bateria recarregável ou 3 pilhas AAA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio aeronáutico"
+			},
+			{
+				"label": "Potência",
+				"value": "6800 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; strobo; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável (zoom in/out)"
+			},
+			{
+				"label": "Alcance",
+				"value": "500 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável ou 3 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "15 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX7"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18,5 x 4,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "340g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "suporte para pilhas AAA; cabo para transporte"
+			}
+		]
+	},
+	{
+		"id": "sunitact-st1476",
+		"name": "Sunitact ST1476",
+		"image": "/images/posts/melhor-lanterna-tatica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 10.000 lúmens com zoom",
+			"Alcance de 500 metros e resistência IP67",
+			"Acompanha 3 pilhas AAA e bateria recarregável",
+			"Inclui capa de tecido, coldre e cabo USB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "10.000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; strobo; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável (zoom in/out)"
+			},
+			{
+				"label": "Alcance",
+				"value": "500 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável ou 3 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18 x 4,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "3 pilhas AAA; lanterna de chaveiro; bateria recarregável; caixa de presente; manual do usuário; capa de tecido; cabo USB; cordão e coldre"
+			}
+		]
+	},
+	{
+		"id": "sofirn-c8g",
+		"name": "Sofirn C8G",
+		"image": "/images/posts/melhor-lanterna-tatica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 10 a 2000 lúmens",
+			"Alcance de 565 metros, o maior da lista",
+			"Autonomia de 60 horas com bateria recarregável",
+			"Resistência IPX8 com carregador portátil incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "10 a 2000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "econômico; baixo; médio; alto; turbo; estrobo; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "565 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "60 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "15 x 4,46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "163g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "manual de instruções; cabo USB; fiel de lanterna ajustável; carregador portátil de bateria; adaptador para bateria; bateria recarregável"
+			}
+		]
+	}
+]

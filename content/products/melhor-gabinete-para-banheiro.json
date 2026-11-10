@@ -1,0 +1,334 @@
+[
+	{
+		"id": "max-astra",
+		"name": "Max Astra",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba inclusa com sifão, válvula e engate",
+			"Duas portas para guardar itens",
+			"Pode ser suspenso ou de piso, conforme a instalação",
+			"Kit de fixação incluso para montagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "suspenso ou piso"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Cuba",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (2)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "plástico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "sifão; kit de fixação; válvula; engate"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 50 x 81cm (suspenso); 63 x 50 x 92cm (piso)"
+			}
+		]
+	},
+	{
+		"id": "shop-master-mix-pequin-de-coluna",
+		"name": "Shop Master Mix Pequin de Coluna",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Puxador em perfil de alumínio anodizado",
+			"Uma porta para guardar itens no piso",
+			"Kit de montagem e manual de instruções inclusos",
+			"Estrutura de coluna com 61,5cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Material",
+				"value": "MDP"
+			},
+			{
+				"label": "Cuba",
+				"value": "não"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (1)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "perfil de alumínio anodizado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de montagem; manual de instruções"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 55,3 x 37,5cm"
+			}
+		]
+	},
+	{
+		"id": "veneto-riverzza-gianduia",
+		"name": "Veneto Riverzza Gianduia",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba inclusa em modelo suspenso de MDF",
+			"Uma porta com puxador de plástico",
+			"Kit de montagem incluso",
+			"Dimensões compactas de 41cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "suspenso"
+			},
+			{
+				"label": "Material",
+				"value": "MDF"
+			},
+			{
+				"label": "Cuba",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (1)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "plástico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de montagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41 x 40 x 31,5cm"
+			}
+		]
+	},
+	{
+		"id": "fit-astra",
+		"name": "Fit Astra",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba com válvula e sifão inclusos",
+			"Duas portas em material plástico",
+			"Kit de fixação incluso para instalar na parede",
+			"Dimensões de 58 x 45 x 32cm em formato suspenso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "suspenso"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Cuba",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (2)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "plástico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de fixação; válvula; sifão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "58 x 45 x 32cm"
+			}
+		]
+	},
+	{
+		"id": "riverzza-cremona-lineo",
+		"name": "Riverzza Cremona Lineo",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba inclusa em gabinete suspenso de MDF",
+			"Porta única com puxador de plástico",
+			"Kit de montagem incluso para instalação",
+			"Medidas de 41 x 31,5 x 40cm em formato suspenso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "suspenso"
+			},
+			{
+				"label": "Material",
+				"value": "MDF"
+			},
+			{
+				"label": "Cuba",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (1)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "plástico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de montagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41 x 31,5 x 40cm"
+			}
+		]
+	},
+	{
+		"id": "eccos-fabrimoveis-de-coluna",
+		"name": "Eccos Fabrimóveis de Coluna",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rodas inclusas para mover o móvel",
+			"Duas portas no formato de coluna",
+			"Estrutura de MDP com dimensões de 61,5 x 55 x 34,8cm",
+			"Sem cuba, para quem busca só o armário"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Material",
+				"value": "MDP"
+			},
+			{
+				"label": "Cuba",
+				"value": "não"
+			},
+			{
+				"label": "Portas",
+				"value": "sim (2)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "rodas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 55 x 34,8cm"
+			}
+		]
+	},
+	{
+		"id": "riverzza-gianduia-zoff",
+		"name": "Riverzza Gianduia Zoff",
+		"image": "/images/posts/melhor-gabinete-para-banheiro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba integrada para instalação suspensa",
+			"Modelo sem portas, com acesso livre ao interior",
+			"Kit de montagem incluso",
+			"Medidas de 31 x 31,5 x 63cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "suspenso"
+			},
+			{
+				"label": "Material",
+				"value": "MDF"
+			},
+			{
+				"label": "Cuba",
+				"value": "sim"
+			},
+			{
+				"label": "Portas",
+				"value": "não"
+			},
+			{
+				"label": "Gavetas",
+				"value": "não"
+			},
+			{
+				"label": "Puxador",
+				"value": "––"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de montagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 31,5 x 63cm"
+			}
+		]
+	}
+]

@@ -1,0 +1,421 @@
+[
+	{
+		"id": "lg-smart-wd18sv2s6b-18kg",
+		"name": "LG Smart (WD18SV2S6B) 18kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava até 18 kg de roupa em uma única carga",
+			"Secagem de 10 kg com função Vapor e TurboWash",
+			"Controle pelo app ThinQ, com início remoto e download de ciclos",
+			"Motor Inverter Direct Drive e 6 Motion DD",
+			"Sensor LoadSense para identificar o tamanho da carga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "18kg (lavagem); 10kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "13"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com app ThinQ (Wi-Fi); AI DD; 6 Motion DD; TurboWash; função Vapor; função Adicionar Item (“Add Clothes”); detecção de espuma; limpeza de tambor; download de ciclos pelo app; bloqueio infantil; pré-lavagem; Início remoto; sinal de fim de ciclo; LoadSense; Luz do tambor; Motor Inverter Direct Drive"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "99 x 70 x 77cm"
+			},
+			{
+				"label": "Peso",
+				"value": "95kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-titanium-vc5-cv3012mc5a-12kg",
+		"name": "LG Titanium VC5 (CV3012MC5A) 12kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ciclo Turbowash de 14 minutos para lavagens rápidas",
+			"Lava 12 kg e seca 7 kg com 13 programas",
+			"Temporizador de adiamento de 3 a 19 horas",
+			"Smart Diagnosis para apoiar a manutenção do aparelho",
+			"Vapor (Steam) e detecção de espuma"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "13"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "AI DD; 6 Motion DD; vapor (Steam); sensor de carga/água; ciclo Turbowash (14 minutos); Smart Diagnosis; Inverter Direct Drive; Adicionar Item; detecção de espuma; bloqueio infantil; temporizador de adiamento (3 a 19h); reinício automático; sinal de fim de ciclo; compatível com tambor de aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 56,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-smart-vc4-cv5012wc4a-mc4-12kg",
+		"name": "LG Smart VC4 (CV5012WC4A/MC4) 12kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle pelo app LG ThinQ, com início remoto",
+			"Função Steam e ciclo TurboWash",
+			"Sensor de carga automático e LoadSense",
+			"Temporizador de adiamento de 3 a 19 horas",
+			"Motor Inverter Direct Drive com 6 Motion DD"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "13"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com o app LG ThinQ (Wi-Fi); Início remoto; download de ciclos; AI DD; 6 Motion DD; função Steam; ciclo TurboWash; sensor de carga automático; função Adicionar Item; detecção de espuma; LoadSense; bloqueio infantil; reinício automático; sinal de fim de ciclo; temporizador de adiamento (3 a 19h); motor Inverter Direct Drive"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 66 x 56,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "73kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-torre-washtower-wk17vs6a-17kg",
+		"name": "LG Torre WashTower (WK17VS6A) 17kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 17 kg e seca 16 kg, a maior secagem da lista",
+			"26 programas na lavadora e 17 na secadora",
+			"Comando de voz pelo Google Assistente",
+			"Emparelhamento inteligente entre lavadora e secadora",
+			"TurboWash 360° e função Steam"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "17kg (lavagem); 16kg (secagem)"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "26 (lavadora); 17 (secadora)"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com o app LG ThinQ (Wi-Fi); comando de voz (Google Assistente); Emparelhamento Inteligente (Smart Pairing entre lavadora e secadora); AI DD; 6 Motion DD; Steam (vapor); TurboWash 360°; Smart Diagnosis; monitoramento de energia; início remoto e monitor de ciclo; download de ciclo; LoadSense; temporizador de adiamento (3 a 19h); sinal de fim de ciclo; motor Inverter Direct Drive"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189 x 77 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "154kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "lg-smart-vc4-cv5014pc4-14kg",
+		"name": "LG Smart VC4 (CV5014PC4) 14kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 14 kg e seca 8 kg com 13 programas",
+			"Comando de voz pelo Google Assistente e app ThinQ",
+			"Função Steam e ciclo TurboWash",
+			"Sensor de carga automático e detecção de espuma",
+			"Motor Inverter Direct Drive"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14kg (lavagem); 8kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "13"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com o app LG ThinQ (Wi-Fi); comando de voz pelo Google Assistente; AI DD; função Steam; TurboWash; 6 Motion DD; sensor de carga automático; função Adicionar Item; sistema de detecção de espuma; Inverter Direct Drive"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 61,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "76kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-torre-washtower-wk14bs6a-14kg",
+		"name": "LG Torre WashTower (WK14BS6A) 14kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 14 kg e seca 10 kg, com 9 programas",
+			"Lavagem a seco Refresh com vapor",
+			"Dual Inverter Heat Pump e motor Inverter Direct Drive",
+			"TurboWash 360° e Smart Diagnosis",
+			"Início remoto, download de ciclo e app ThinQ"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14kg (lavagem); 10kg (secagem)"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com app LG ThinQ (Wi-Fi); AI DD; TurboWash 360°; lavagem a seco “Refresh”/vapor; painel de controle central; Pareamento Smart; motor Inverter Direct Drive; Dual Inverter Heat Pump; Smart Diagnosis; download de ciclo; início remoto e monitor de ciclo; 6 Motion DD; luz do tambor; sinal de fim de ciclo; sensor de carga (LoadSense)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "165 x 60,0 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "128kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-smart-vc2-cv9014pc2-14kg",
+		"name": "LG Smart VC2 (CV9014PC2) 14kg",
+		"image": "/images/posts/melhor-lava-e-seca-lg-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 14 kg e seca 8 kg com 14 programas",
+			"Funções Steam+ e Steam Refresh",
+			"Função Adicionar Item para incluir peças durante o ciclo",
+			"Bloqueio infantil e reinício automático",
+			"Smart Diagnosis e download de ciclo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14kg (lavagem); 8kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "14"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com app LG ThinQ (Wi-Fi); comando de voz Google Assistente; AI DD; função Steam+; Steam Refresh; TurboWash 360°; função Add Clothes (Adicionar Item); sistema de detecção de espuma; LoadSense; Reinício automático; sinal de fim de ciclo; Motor Inverter Direct Drive; bloqueio infantil; Smart Diagnosis; download de ciclo; Emparelhamento Inteligente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 61,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "76kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

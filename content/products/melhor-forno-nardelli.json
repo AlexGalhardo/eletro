@@ -1,0 +1,397 @@
+[
+	{
+		"id": "nardelli-e60-60-litros",
+		"name": "Nardelli E60 (60 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 60 litros",
+			"Seletor de temperatura até 300°C com timer analógico",
+			"Grade interna e bandeja para resíduos inclusas",
+			"Interior Easy Clean e lâmpada com protetor",
+			"Botões retráteis e isolamento térmico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "60 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill e dourador; luz piloto; Easy Clean; isolamento térmico; lâmpada com protetor; botões retráteis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "19,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57,6 x 60 x 44cm (produto); 55,5 x 58,8 x 50cm (nicho)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-smart-60s-60-litros",
+		"name": "Nardelli Smart 60S (60 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 60 litros",
+			"Espeto giratório e pegador do espeto inclusos",
+			"Pés antiderrapantes e isolamento térmico",
+			"Seletor de temperatura até 300°C",
+			"Função grill e dourador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "60 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill e dourador; luz piloto; Easy Clean; isolamento térmico; pés antiderrapantes"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna removível; bandeja para resíduos; espeto giratório; pegador do espeto"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41,5 x 57,5 x 45,2cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-top-60-60-litros",
+		"name": "Nardelli Top 60 (60 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 60 litros",
+			"Dupla resistência com seleção de aquecimento",
+			"Desligamento automático com aviso sonoro",
+			"Interior Easy Clean com luz interna",
+			"Grade interna removível e bandeja para resíduos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "60 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill e dourador; luz piloto; interior Easy Clean; isolamento térmico; dupla resistência com seleção para aquecimento superior, inferior ou ambas; luz interna; lâmpada com protetor; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna removível; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "12,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41,5 x 57,5 x 45,2cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-top-40-40-litros",
+		"name": "Nardelli Top 40 (40 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 40 litros, a menor da lista",
+			"Potência de 1700W com dupla resistência",
+			"Desligamento automático com aviso sonoro",
+			"Interior Easy Clean e isolamento térmico",
+			"Grade interna e bandeja para resíduos inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "40 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "não"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill; dourador; luz piloto; interior Easy Clean; isolamento térmico; dupla resistência com seleção para aquecimento superior e inferior; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "7,90kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 50 x 47,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-top-48-48-litros",
+		"name": "Nardelli Top 48 (48 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 48 litros",
+			"Dupla resistência e luz interna",
+			"Pés antiderrapantes e desligamento automático",
+			"Interior Easy Clean com isolamento térmico",
+			"Dimensões de 57,5 x 33,7 x 45,1cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "48 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill/dourador; luz piloto; interior Easy Clean; isolamento térmico; pés antiderrapantes; luz interna; dupla resistência com seleção para aquecimento superior e inferior; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "8,56kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57,5 x 33,7 x 45,1cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-top-50-50-litros",
+		"name": "Nardelli Top 50 (50 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 50 litros",
+			"Dupla resistência com aquecimento superior e inferior",
+			"Grade interna removível e bandeja para resíduos",
+			"Luz interna e interior Easy Clean",
+			"Aviso sonoro e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill e dourador; luz piloto; interior Easy Clean; isolamento térmico; dupla resistência com seleção para aquecimento superior e inferior; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna removível; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "8,56kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,7 x 57,5 x 45,1cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nardelli-e50-50-litros",
+		"name": "Nardelli E50 (50 litros)",
+		"image": "/images/posts/melhor-forno-nardelli-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 50 litros",
+			"Seletor de temperatura até 300°C",
+			"Luz interna e interior Easy Clean",
+			"Desligamento automático e isolamento térmico",
+			"Dimensões de 39,1 x 60 x 46cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 300°C"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; grill e dourador; luz piloto; interior Easy Clean; isolamento térmico; desligamento automático"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade interna; bandeja para resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "11,2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,1 x 60 x 46cm (produto); 36,8 x 57,9 x 55cm (nicho)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

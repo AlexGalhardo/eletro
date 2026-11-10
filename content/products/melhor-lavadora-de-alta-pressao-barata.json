@@ -1,0 +1,419 @@
+[
+	{
+		"id": "electrolux-ews1850-1850psi-1500w",
+		"name": "Electrolux EWS1850 (1850psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1850psi, a maior da lista",
+			"Proteção térmica do motor e cabeçote de alumínio",
+			"Alça retrátil e rodas para transportar",
+			"Garantia de 1 ano e sistema Stop Total"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1850psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "280L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "engate rápido; aplicador de detergente; mangueira; agulha de limpeza; bico vario"
+			},
+			{
+				"label": "Extras",
+				"value": "rodas; proteção térmica do motor; alça retrátil; 1 ano de garantia; porta-acessórios com suporte; cabeçote de alumínio; Stop Total"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,3 x 34,7 x 30,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "wap-ousada-plus-2200-1750psi-1500w",
+		"name": "WAP Ousada Plus 2200 (1750psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lança com bico regulável para jato concentrado ou leque",
+			"Pistola com trava de segurança",
+			"Vazão de 342L/h com pressão de 1750psi",
+			"Alça e rodas para transporte mais fácil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1750psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "342L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "lança com bico regulável; agulha para limpeza de bico; pistola de alta pressão com trava de segurança; baioneta com conexão rápida; engate rápido; mangueira"
+			},
+			{
+				"label": "Extras",
+				"value": "jato concentrado; alça e rodas para fácil transporte; jato leque; sistema Stop Total; porta-acessórios"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 26 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,6kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-compacta-1500psi-1400w",
+		"name": "Kärcher Compacta (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Economia de até 80% de água em comparação com mangueiras convencionais",
+			"Recurso autostop incluído no modelo",
+			"Aplicador de detergente e lança de jato reto regulável",
+			"Porta-acessórios integrado e engate rápido",
+			"Dimensões compactas de 40 x 21 x 20cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "engate rápido; aplicador de detergente; pistola de alta pressão; lança de jato reto regulável; mangueira"
+			},
+			{
+				"label": "Extras",
+				"value": "autostop; economia de até 80% de água em comparação com mangueiras convencionais; porta-acessórios integrado"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 21 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,95kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-1600-1600psi-1400w",
+		"name": "Vonder Lav 1600 (1600psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 420L/h, a maior da lista",
+			"Mangueira de 5 metros, a mais longa da lista",
+			"Filtro interno lavável no conector de 1/2 polegada",
+			"Suportes para pistola e cabo elétrico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1600psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "420L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "lança com bico ajustável; conector engate rápido de 1/2″ com filtro interno lavável; aplicador de detergente; pistola com gatilho; mangueira"
+			},
+			{
+				"label": "Extras",
+				"value": "suportes para armazenar pistola e cabo elétrico; sistema Stop Total; alça e rodas para transporte"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 27 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-pratica-black-1500psi-1400w",
+		"name": "Kärcher Prática Black (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Economia de até 80% de água no uso",
+			"Dimensões compactas de 20 x 21 x 20cm",
+			"Pistola de alta pressão com lança de jato reto regulável",
+			"Porta-acessórios integrado para organizar as peças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "aplicador de detergente; pistola de alta pressão; lanç­a de jato reto regulável; engate rápido; mangueira"
+			},
+			{
+				"label": "Extras",
+				"value": "economia de até 80% de água; porta-acessórios integrado"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 21 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,95kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-easywash-qws1650-1650psi-1400w",
+		"name": "Electrolux EasyWash QWS1650 (1650psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fabricada com 50% de plástico reciclado",
+			"Garantia de 1 ano e cabeçote de alumínio",
+			"Alça ergonômica e porta-acessórios",
+			"Pressão de 1650psi com bico vario"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1650psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "280L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "engate rápido; mangueira; agulha de limpeza; bico vario"
+			},
+			{
+				"label": "Extras",
+				"value": "porta-acessórios; 1 ano de garantia; alça ergonômica; fabricação com 50% de plástico reciclado; cabeçote de alumínio; sistema Stop Total"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,2 x 28,5 x 27,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,95kg"
+			}
+		]
+	},
+	{
+		"id": "wap-atacama-smart-2200-1500psi-1400w",
+		"name": "WAP Atacama Smart 2200 (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-barata-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lança com bico regulável nos modos leque e concentrado",
+			"Vazão de 330L/h com 1500psi de pressão",
+			"Alça para transporte e porta-acessórios integrado",
+			"Garantia de 1 ano para a lavadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "engate rápido; lança com bico regulável (leque e concentrado); pistola de alta pressão; agulha para limpeza de bico; mangueira; baioneta com conexão rápida"
+			},
+			{
+				"label": "Extras",
+				"value": "alça para fácil transporte; sistema Stop Total; porta-acessórios integrado; 1 ano de garantia"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 25 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	}
+]

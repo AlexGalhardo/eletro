@@ -1,0 +1,373 @@
+[
+	{
+		"id": "metalfrio-da550ift01-546-litros",
+		"name": "Metalfrio DA550IFT01 (546 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 546 litros, a maior da lista",
+			"Compressor inverter com temperatura de até -22°C",
+			"Classificação energética A e consumo de 75,9kWh/mês",
+			"Termostato eletro-mecânico para ajustar a temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "546 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "75,9KWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato eletro-mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -22°C"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor inverter"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,5 x 166,8 x 72,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "69kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "midea-mdrc698fzd011-508-litros",
+		"name": "Midea MDRC698FZD011 (508 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação energética A++, a mais alta da lista",
+			"Temperatura mínima de até -28°C",
+			"Dois cestos internos e aço galvanizado",
+			"Consumo de 56kWh por mês em 127V e 51,9kWh em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "508 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A++"
+			},
+			{
+				"label": "Consumo",
+				"value": "56kWh/mês (127V) / 51,9kWh/mês (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -28°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço galvanizado"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86,0 x 153,0 x 73,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-chb53mb-528-litros",
+		"name": "Consul CHB53MB (528 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel externo eletrônico para ajustar a temperatura",
+			"Capacidade de 528 litros com consumo de 36,2kWh/mês",
+			"Temperatura mínima de até -23°C",
+			"Peso de 61kg e medidas de 94,3 x 147 x 77,3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "528 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "36,2kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel externo eletrônico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -23°C"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,3 x 147 x 77,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "61kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-mdrc564fzd013-418-litros",
+		"name": "Midea MDRC564FZD013 (418 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Consumo de 20kWh por mês, o menor informado da lista",
+			"Termostato mecânico externo para controle",
+			"Dois cestos em aço galvanizado",
+			"Capacidade de 418 litros com alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "418 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "20kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico externo"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -28°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço galvanizado"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,3 x 147 x 77,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "61kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "eos-efh500xx-380-litros",
+		"name": "EOS EFH500XX (380 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 380 litros com classificação A",
+			"Temperatura mínima de até -18°C",
+			"Termostato mecânico para controle da temperatura",
+			"Compressor com 60kg de peso e 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "380 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78,5 x 132 x 67,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "60kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "metalfrio-nf20-180-litros",
+		"name": "Metalfrio NF20 (180 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 185 litros, segundo a ficha",
+			"Temperatura mínima de até -22°C",
+			"Compressor com termostato mecânico de controle",
+			"Medidas de 85 x 80 x 66,5cm e peso de 53,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "185 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -22°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "––"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85,0 x 80,0 x 66,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "53,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ecogelo-efh550xx-445-litros",
+		"name": "EOS Ecogelo EFH550XX (445 litros)",
+		"image": "/images/posts/melhor-freezer-horizontal-2-portas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 445 litros com classificação A",
+			"Um cesto interno para organizar os itens",
+			"Medidas de 74 x 153,5 x 82,5cm e peso de 63kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "445 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "74,0 x 153,5 x 82,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "63kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

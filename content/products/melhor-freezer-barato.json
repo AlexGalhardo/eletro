@@ -1,0 +1,466 @@
+[
+	{
+		"id": "electrolux-he200-199-litros-horizontal",
+		"name": "Electrolux HE200 (199 litros) horizontal",
+		"image": "/images/posts/melhor-freezer-barato-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função dupla: freezer ou refrigerador, conforme a necessidade",
+			"Turbo Freezer e degelo Cycle Defrost",
+			"Temperatura de até -18°C em 199 litros",
+			"Fechadura com chave e rodízios para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "199L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+"
+			},
+			{
+				"label": "Consumo",
+				"value": "31,4kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "externo (aço inoxidável)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "degelo Cycle Defrost; rodízios para transporte; fechadura com chave; luz interna de LED; Turbo Freezer; função dupla (freezer ou refrigerador)"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 81,2 x 60,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cvu18gb-121-litros-vertical",
+		"name": "Consul CVU18GB (121 litros) vertical",
+		"image": "/images/posts/melhor-freezer-barato-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro cestos com travas para organizar os alimentos",
+			"Gaveta para frutos do mar e compartimento para picolés",
+			"Pés estabilizadores e niveladores para apoio firme",
+			"Selo A com consumo de 37kWh por mês"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade",
+				"value": "121L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "37kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "externo (aço inoxidável)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "painel externo de controle; travas nos cestos deslizantes; pés niveladores; gaveta para frutos do mar; prateleira para refeições prontas; compartimentos para gelo e picolés; pés estabilizadores"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "129,8 x 48,3 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efh250x-192-litros-horizontal",
+		"name": "Eos EFH250X (192 litros) horizontal",
+		"image": "/images/posts/melhor-freezer-barato-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 24h Safety e termostato ajustável",
+			"Dupla função, para usar como freezer ou refrigerador",
+			"Chave de segurança e dreno frontal",
+			"Temperatura mínima de -22°C em 192 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "192L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -22°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "interno (aço pré-pintado)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "dupla função (freezer ou refrigerador); função 24h Safety; tampa balanceada de 45° a 90°; rodízios na base; dreno frontal; cesto aramado; chave de segurança; LED indicador de funcionamento; termostato ajustável"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 95 x 56cm"
+			},
+			{
+				"label": "Peso",
+				"value": "38,6kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efv70-66-litros-vertical",
+		"name": "Eos EFV70 (66 litros) vertical",
+		"image": "/images/posts/melhor-freezer-barato-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Operação silenciosa com 40dB",
+			"Conserva alimentos por até 7,5 horas sem energia",
+			"Porta reversível e gavetas internas removíveis",
+			"Classificação A++ em 66 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade",
+				"value": "66L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A++"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "3"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "porta reversível; operação silenciosa com 40dB; sistema de isolamento que conserva alimentos por até 7,5h sem energia; termostato; gavetas internas removíveis; pés niveladores"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 48 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh105b-99-litros-horizontal",
+		"name": "Philco PFH105B (99 litros) horizontal",
+		"image": "/images/posts/melhor-freezer-barato-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla função: freezer ou refrigerador",
+			"Gás R600a e consumo de 22kWh por mês",
+			"Dreno de degelo frontal para limpeza",
+			"Rodinhas para transporte e puxador ergonômico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "99L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "22kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "externo (aço)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "dupla função (freezer ou refrigerador); gás R600a; painel de controle frontal; rodinhas para transporte; dreno de degelo frontal; puxador ergonômico; controle de temperatura"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84,5 x 54,5 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fei19-162-litros-vertical",
+		"name": "Electrolux FEI19 (162 litros) vertical",
+		"image": "/images/posts/melhor-freezer-barato-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Consumo de 23,1kWh por mês com selo A+++",
+			"Compressor inverter e gás ecológico R600a",
+			"Portas reversíveis e prateleiras ajustáveis",
+			"Capacidade de 162 litros em 123cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade",
+				"value": "162L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "23,1kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "externo (aço pintado); interno (plástico e arame)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor com tecnologia inverter"
+			},
+			{
+				"label": "Extras",
+				"value": "portas reversíveis; prateleiras ajustáveis; puxador ergonômico; pés com niveladores; gás ecológico R600a"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "123 x 55 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cha14ab-142-litros-horizontal",
+		"name": "Consul CHA14AB (142 litros) horizontal",
+		"image": "/images/posts/melhor-freezer-barato-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle digital de temperatura no painel externo",
+			"Trava com chave e iluminação interna em LED",
+			"Consumo de 25,4kWh por mês com classificação A+",
+			"Pés niveladores para instalação estável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "142L"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+"
+			},
+			{
+				"label": "Consumo",
+				"value": "25,4kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "digital"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "7°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "externo (aço pintado)"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "pés niveladores; trava com chave; iluminação interna em LED; painel eletrônico externo"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84,5 x 70,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

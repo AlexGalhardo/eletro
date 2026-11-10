@@ -1,0 +1,422 @@
+[
+	{
+		"id": "samsung-wd13t-13kg",
+		"name": "Samsung WD13T (13Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 13kg para lavagem e 7kg para secagem",
+			"Ciclo ultrarrápido e função Manchas Difíceis",
+			"Sistema Ecobubble e tecnologia AirWash",
+			"Centrifugação de 1400RPM com cesto em aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; ciclo ultrarrápido; função Manchas Difíceis; sistema Ecobubble; vapor de higienização; controle inteligente; tecnologia AirWash; ciclo Super Speed; função QuickDrive"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "80kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "samsung-ecobubble-wd11a-11kg",
+		"name": "Samsung Ecobubble WD11A (11Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"12 programas para diferentes tipos de roupa",
+			"Ciclo a vapor e lavagem rápida",
+			"Tambor Eco e sistema AirWash",
+			"Capacidade de 11kg para lavagem e 7kg para secagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "12"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "função Manchas Difíceis; lavagem a seco; ciclo a vapor; lavagem rápida; ecobumble (bolhas de sabão); Tambor Eco; sistema AirWash"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-ecobubble-wd10m-10kg",
+		"name": "Samsung Ecobubble WD10M (10Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trava infantil para mais segurança",
+			"Limpeza do tambor com função AirWash",
+			"12 programas e centrifugação de 1400RPM",
+			"Capacidade de 10,1kg para lavagem e 6kg para secagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10,1kg (lavagem); 6kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "12"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "ciclo a vapor; Manchas Difíceis; lavagem a seco; lavagem rápida; eco bumble (bolhas de sabão); limpeza do tambor; função AirWash; trava infantil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "67kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd11m-11kg",
+		"name": "Samsung WD11M (11Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel digital LED com botão giratório",
+			"Trava infantil e limpeza do tambor",
+			"12 programas com lavagem rápida",
+			"Capacidade de 11kg para lavagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11kg (lavagem; 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "12"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital LED e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; lavagem rápida; limpeza do tambor; trava infantil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-master-clean-11kg",
+		"name": "Midea Master Clean (11Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Wi-Fi integrado com controle pelo smartphone",
+			"Compatível com Alexa e Google assistente",
+			"Função Turbo e filtro pega-fiapos",
+			"Consumo de 69,3 litros por ciclo em 127V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11kg"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "10"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Consumo de água por ciclo",
+				"value": "69,3 litros (127V); 67,2 litros (220V)"
+			},
+			{
+				"label": "Painel",
+				"value": "digital com botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "Wi-Fi integrado; conectividade com Alexa e Google assistente; controle por smartphone; timer; limpeza de tambor; tecnologia Master Clean; função Turbo; função Auto Weight; filtro Pega-Fiapos"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 59,9 x 57cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pls11t-11kg",
+		"name": "Philco PLS11T (11Kg)",
+		"image": "/images/posts/melhor-lava-e-seca-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ciclo antialérgico e ciclo de desodorização",
+			"Motor InvertPlus e proteção anticorrosão",
+			"16 programas e pés ajustáveis",
+			"Bloqueio de porta e painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "16"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Consumo de água por ciclo",
+				"value": "78,1 litros (127V); 79 litros (220V)"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "ciclo antialérgico; ciclo desodorização; bloqueio de porta e painel; pés ajustáveis; motor InvertPlus; proteção anticorrosão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 59,5 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "65,26kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hisense-wd13x-13kg",
+		"name": "Hisense WD13X (13kg)",
+		"image": "/images/posts/melhor-lava-e-seca-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 13kg para lavagem e 8kg para secagem",
+			"Tecnologia Steam para vapor",
+			"Programa Quick Wash para lavagem rápida",
+			"Painel digital touch com botão giratório"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13kg (lavagem); 8kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "16"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital touch e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "função auto limpeza; programa Quick Wash de lavagem rápida; tecnologia Steam (vapor)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 59,5 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

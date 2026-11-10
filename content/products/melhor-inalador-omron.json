@@ -1,0 +1,333 @@
+[
+	{
+		"id": "omron-ne-u100",
+		"name": "Omron NE-U100",
+		"image": "/images/posts/melhor-inalador-omron-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Malha vibratória (Mesh) com ruído de 20dB",
+			"Taxa de nebulização de 0,25mL/min e reservatório de 10mL",
+			"Quatro pilhas AA inclusas e bolsa de armazenamento",
+			"Peso de 120g sem as pilhas, com máscaras infantil e adulto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "malha vibratória (Mesh)"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "20dB"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,25mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "adaptador da máscara; bolsa de armazenamento; máscara para adulto; máscara infantil; recipiente de medicamento; 4 pilhas AA"
+			},
+			{
+				"label": "Alimentação",
+				"value": "pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "120g (sem as pilhas)"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-c803",
+		"name": "Omron NE-C803",
+		"image": "/images/posts/melhor-inalador-omron-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressão com ruído de 45dB e taxa de 0,30mL/min",
+			"Reservatório de 10mL para uso com máscaras infantil e adulto",
+			"Tubo de ar de 100cm e cinco filtros de ar inclusos",
+			"Alimentação por tomada bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "compressão"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "45dB"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,30mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "kit inalador; tubo de ar (PVC, 100cm); máscara para adulto; máscara infantil; 5 filtros de ar"
+			},
+			{
+				"label": "Alimentação",
+				"value": "tomada (bivolt)"
+			},
+			{
+				"label": "Peso",
+				"value": "180g (somente o compressor)"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-u702",
+		"name": "Omron NE-U702",
+		"image": "/images/posts/melhor-inalador-omron-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia ultrassônica com taxa de 0,6mL/min",
+			"Ruído de 46dB e alimentação por tomada bivolt",
+			"Máscaras infantil e adulto, anel adaptador e traqueia inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "ultrassônica"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "46dB"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,6mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "7mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "máscara infantil; máscara para adulto; conjunto de copinhos para medicação; anel adaptador; traqueia; elástico"
+			},
+			{
+				"label": "Alimentação",
+				"value": "tomada (bivolt)"
+			},
+			{
+				"label": "Peso",
+				"value": "376g"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-c810",
+		"name": "Omron NE-C810",
+		"image": "/images/posts/melhor-inalador-omron-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressão com ruído de 53dB e taxa de 0,35mL/min",
+			"Reservatório de 7mL e adaptador CA incluso",
+			"Dois filtros de ar e tubo de ar de 100cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "compressão"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "53dB"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,35mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "7mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "kit inalador; máscara para adulto; máscara infantil; adaptador para máscara; 2 filtros de ar; tubo de ar (PVC, 100cm); adaptador CA"
+			},
+			{
+				"label": "Alimentação",
+				"value": "tomada (bivolt)"
+			},
+			{
+				"label": "Peso",
+				"value": "190g (unidade principal)"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-c701",
+		"name": "Omron NE-C701",
+		"image": "/images/posts/melhor-inalador-omron-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressão com taxa de 0,35mL/min e reservatório de 10mL",
+			"Tubo de ar de 130cm e três filtros de ar inclusos",
+			"Ruído de 70dBA e alimentação por tomada bivolt manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "compressão"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "70dBA"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,35mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "kit inalador; tubo de ar (PVC, 130cm); máscara para adulto; máscara infantil; 3 filtros de ar"
+			},
+			{
+				"label": "Alimentação",
+				"value": "tomada (bivolt manual)"
+			},
+			{
+				"label": "Peso",
+				"value": "1,26kg"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-u300",
+		"name": "Omron NE-U300",
+		"image": "/images/posts/melhor-inalador-omron-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Malha vibratória com ruído de no máximo 40dB",
+			"Bateria de íons de lítio recarregável por USB-C",
+			"Peso de 117g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "malha vibratória (Mesh)"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "≤40dB"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,15 a 0,90mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bocal; máscara para adulto; máscara infantil"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável de íons de lítio (recarga via USB-C)"
+			},
+			{
+				"label": "Peso",
+				"value": "117g"
+			}
+		]
+	},
+	{
+		"id": "omron-ne-c702",
+		"name": "Omron NE-C702",
+		"image": "/images/posts/melhor-inalador-omron-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressor com ruído de 70dBA e taxa de 0,35mL/min",
+			"Tubo de ar de 100cm e cinco filtros de ar inclusos",
+			"Reservatório de 10mL e alimentação por tomada bivolt manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "compressor"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "adultos e crianças"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "70dBA"
+			},
+			{
+				"label": "Taxa de nebulização",
+				"value": "0,35mL/min"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10mL"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "kit inalador; tubo de ar (PVC, 100cm); máscara para adulto; máscara infantil; 5 filtros de ar"
+			},
+			{
+				"label": "Alimentação",
+				"value": "tomada (bivolt manual)"
+			},
+			{
+				"label": "Peso",
+				"value": "1,26kg"
+			}
+		]
+	}
+]

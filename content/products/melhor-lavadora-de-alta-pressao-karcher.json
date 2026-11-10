@@ -1,0 +1,196 @@
+[
+	{
+		"id": "karcher-hd585-profi-new-2000psi-2000w",
+		"name": "Kärcher HD585 Profi New (2000psi) 2000W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W e pressão de 2000psi",
+			"Mangueira de 7,5 metros em trama de aço",
+			"Motor de indução com cabo elétrico de 5 metros",
+			"Cabeçote de alumínio e garantia de 1 ano",
+			"Alça retrátil, rodas e porta-acessórios"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "2000W" },
+			{ "label": "Pressão (PSI)", "value": "2000psi" },
+			{ "label": "Vazão de água", "value": "420L/h (127V) / 500L/h (220V)" },
+			{ "label": "Tipo de motor", "value": "indução" },
+			{ "label": "Comprimento da mangueira", "value": "7,5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola baioneta; mangueira trama de aço; lança inox revestida; bico power" },
+			{ "label": "Recursos extras", "value": "porta-acessórios com suporte; alça retrátil; rodas; cabeçote de alumínio; garantia de 1 ano" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "42,4 x 40 x 42,4cm" },
+			{ "label": "Peso", "value": "22,6kg" }
+		]
+	},
+	{
+		"id": "karcher-k5-2100psi-1900w",
+		"name": "Kärcher K5 (2100psi) 1900W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 2100psi com vazão de 380L/h",
+			"Função Autostop e filtro de água",
+			"Economia de até 80% de água",
+			"Mangueira de alta pressão de 6 metros",
+			"Alça alongada e suporte para acessórios"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1900W" },
+			{ "label": "Pressão", "value": "2100psi" },
+			{ "label": "Vazão de água", "value": "380L/h" },
+			{ "label": "Tipo de motor", "value": "indução" },
+			{ "label": "Comprimento da mangueira", "value": "6 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; lança de jato leque; mangueira de alta pressão de 6 metros; engate rápido; lança de jato turbo" },
+			{ "label": "Recursos extras", "value": "alça alongada; filtro de água; suporte para acessórios; função Autostop; economia de até 80% de água; rodas" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "40 x 40 x 60cm" },
+			{ "label": "Peso", "value": "14,4kg" }
+		]
+	},
+	{
+		"id": "karcher-compacta-1500psi-1200w",
+		"name": "Kärcher Compacta (1500psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1500psi com vazão de 300L/h",
+			"Aplicador de detergente incluso",
+			"Mangueira de alta pressão de 3 metros",
+			"Porta-acessórios integrado e economia de até 80% de água",
+			"Peso de 2,95kg e dimensões de 40 x 21 x 20cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1400W" },
+			{ "label": "Pressão", "value": "1500psi" },
+			{ "label": "Vazão de água", "value": "300L/h" },
+			{ "label": "Tipo de motor", "value": "universal" },
+			{ "label": "Comprimento da mangueira", "value": "3 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "engate rápido; aplicador de detergente; mangueira de alta pressão de 3 metros; pistola de alta pressão; lança de jato reto regulável" },
+			{ "label": "Recursos extras", "value": "economia de até 80% de água; porta-acessórios integrado" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "40 x 21 x 20cm" },
+			{ "label": "Peso", "value": "2,95kg" }
+		]
+	},
+	{
+		"id": "karcher-pratica-black-1500psi-1400w",
+		"name": "Kärcher Prática Black (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1500psi e vazão de 300L/h",
+			"Potência de 1400W com motor universal",
+			"Aplicador de detergente e engate rápido",
+			"Porta-acessórios integrado e economia de até 80% de água",
+			"Dimensões de 20 x 21 x 20cm e peso de 2,95kg"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1400W" },
+			{ "label": "Pressão", "value": "1500psi" },
+			{ "label": "Vazão de água", "value": "300L/h" },
+			{ "label": "Tipo de motor", "value": "universal" },
+			{ "label": "Comprimento da mangueira", "value": "3 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; engate rápido; lanç­a de jato reto regulável; aplicador de detergente; mangueira de alta pressão de 3 metros" },
+			{ "label": "Recursos extras", "value": "porta-acessórios integrado; economia de até 80% de água" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "20 x 21 x 20cm" },
+			{ "label": "Peso", "value": "2,95kg" }
+		]
+	},
+	{
+		"id": "karcher-k2-plus-car-1740psi-1400w",
+		"name": "Kärcher K2 Plus CAR (1740psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1740psi com vazão de 300L/h",
+			"Auto escova entre os acessórios",
+			"Mangueira de alta pressão de 4 metros",
+			"Alça retrátil, rodas e porta-acessórios",
+			"Dimensões de 25,5 x 29 x 49cm e 6,5kg"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1400W" },
+			{ "label": "Pressão (PSI)", "value": "1740psi" },
+			{ "label": "Vazão de água", "value": "300L/h" },
+			{ "label": "Tipo de motor", "value": "universal" },
+			{ "label": "Comprimento da mangueira", "value": "4 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; engate rápido; lanç­a de jato reto regulável; aplicador de detergente; mangueira de alta pressão de 4 metros; auto escova" },
+			{ "label": "Recursos extras", "value": "porta-acessórios com suporte; alça retrátil; rodas" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "25,5 x 29 x 49cm" },
+			{ "label": "Peso", "value": "6,5kg" }
+		]
+	},
+	{
+		"id": "karcher-hd4-13-2100psi-1900w",
+		"name": "Kärcher HD4/13 (2100psi) 1900W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 400L/h com pressão de 2100psi",
+			"Cabo elétrico de 7,5 metros",
+			"Mangueira trama de aço de 7,5 metros",
+			"Tubeira inox e bico leque de 15º",
+			"Alça integrada e economia de até 80% de água"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1900W" },
+			{ "label": "Pressão", "value": "2100psi" },
+			{ "label": "Vazão de água", "value": "400L/h" },
+			{ "label": "Tipo de motor", "value": "indução" },
+			{ "label": "Comprimento da mangueira", "value": "7,5 metros" },
+			{ "label": "Comprimento do cabo elétrico", "value": "7,5 metros" },
+			{ "label": "Acessórios inclusos", "value": "pistola de alta pressão; engate rápido; tubeira inox; aplicador de detergente; mangueira trama de aço de 7,5 metros; bico leque 15º" },
+			{ "label": "Recursos extras", "value": "porta-acessórios integrado; economia de até 80% de água; alça integrada; rodas" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "40 x 40 x 60cm" },
+			{ "label": "Peso", "value": "14,3kg" }
+		]
+	},
+	{
+		"id": "karcher-k3-30-1885psi-1700w",
+		"name": "Kärcher K3.30 (1885psi) 1700W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-karcher-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 360L/h com pressão de 1885psi",
+			"Sistema Plug and Play",
+			"Mangueira de alta pressão de 6 metros",
+			"Suporte integrado para guardar acessórios",
+			"Peso de 15,7kg e motor de indução"
+		],
+		"technicalDetails": [
+			{ "label": "Potência (watts)", "value": "1700W" },
+			{ "label": "Pressão", "value": "1885psi" },
+			{ "label": "Vazão de água", "value": "360L/h" },
+			{ "label": "Tipo de motor", "value": "indução" },
+			{ "label": "Comprimento da mangueira", "value": "6 metros" },
+			{ "label": "Acessórios inclusos", "value": "bico de jato leque; pistola G145 de alta pressão; mangueira de alta pressão de 6 metros; engate rápido" },
+			{ "label": "Recursos extras", "value": "suporte integrado para guardar acessórios; redução de até 80% no consumo de água; alça integrada; rodas; sistema Plug and Play" },
+			{ "label": "Tensão", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "42,4 x 40 x 60cm" },
+			{ "label": "Peso", "value": "15,7kg" }
+		]
+	}
+]

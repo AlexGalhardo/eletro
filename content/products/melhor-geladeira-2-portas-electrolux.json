@@ -1,0 +1,394 @@
+[
+	{
+		"id": "electrolux-es5gb-526-litros",
+		"name": "Electrolux (ES5GB) 526 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressor Inverter para um funcionamento econômico",
+			"Turbo Freezer e Turbo Refrigerador para resfriar mais rápido",
+			"Gaveta HortiFruti e compartimento IceMax para conservar alimentos",
+			"Painel digital externo para ajustar a temperatura com facilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "440 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (30,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "cesta porta-ovos para 12 unidades; alarme de porta aberta; iluminação no refrigerador e freezer; Turbo Freezer e Turbo Refrigerador; gaveta HortiFruti; AutoSense; compressor Inverter; compartimento IceMax"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91,1 x 66,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "92kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-is4s-440-litros",
+		"name": "Electrolux (IS4S) 440 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classe A com consumo de 38kWh por mês",
+			"Gavetas Hortifruti e Meat & Fish para organizar alimentos",
+			"Modo Férias e alarme de porta aberta para mais tranquilidade",
+			"Rodízios e pés niveladores para mover e nivelar o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "440 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (38kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gaveta Hortifruti; tecnologia Inverter; Turbo Refrigerador; gaveta Meat & Fish; alarme de porta aberta; AutoSense; pés niveladores; Turbo Freezer; iluminação LED no refrigerador e freezer; IceTwister; rodízios; puxadores embutidos; modo Férias; porta-ovos; trava do painel"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux (DC35A) 260 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor capacidade da lista, com 260 litros e classe A",
+			"Separador de garrafas e porta-latas para organizar bebidas",
+			"Gavetão para legumes e gaveta super freezer para congelados",
+			"Pés niveladores e iluminação interna para facilitar o uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "260 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (28,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "pés niveladores; separador de garrafas; iluminação interna; recipiente para gelo; gavetão para legumes e verduras; porta latas; cesta porta ovos; gaveta super freezer"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com botão giratório"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,9 x 54,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf71-481-litros",
+		"name": "Electrolux (TF71) 481 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio para alimentos que pedem temperatura mais baixa",
+			"Prateleiras expansíveis Fast Adapt para acomodar objetos maiores",
+			"Conexão Wi-Fi integrada ao aparelho",
+			"Compressor Fix Speed e gás refrigerante R600A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "480 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (28,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis, reversíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "prateleiras expansíveis (Fast Adapt); compartimento extra frio; AutoSense; rodízios; Wi-Fi; compartimento de congelamento rápido; compressor Fix Speed; cesta porta-ovos; prateleiras reversíveis; degelo automático (Frost Free); função Turbo Freezer; prateleiras removíveis; alarme de porta aberta; gás refrigerante R600A; pés niveladores; iluminação no compartimento refrigerador"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital (refrigerador); interno, com seletor (freezer)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189 x 70 x 73,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-if41-380-litros",
+		"name": "Electrolux (IF41) 380 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor consumo desta lista, com 24,9kWh por mês",
+			"Compressor Inverter e Turbo Freezer para desempenho eficiente",
+			"Forma de gelo para até 30 cubos e bandeja para 12 ovos",
+			"Rodízios e pés niveladores para facilitar a instalação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "380 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (24,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "AutoSense; compressor Inverter; Turbo Freezer; gaveta HortiFruti; iluminação interna do refrigerador em LED; alarme de porta aberta; bandeja para 12 ovos; forma de gelo para até 30 cubos; pés niveladores; rodízios"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital (refrigerador); interno, com seletor (freezer)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176,9 x 60,4 x 71,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf38-320-litros",
+		"name": "Electrolux (TF38) 320 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio para alimentos que pedem temperatura mais baixa",
+			"Gaveta HortiFruti para manter frutas e verduras organizadas",
+			"Função Turbo Freezer e degelo automático",
+			"Forma de gelo para até 30 cubos e rodízios para mover"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "320 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe C (30,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação no refrigerador; alarme de porta aberta; cesta porta-ovos para 12 unidades; pés niveladores; Turbo Freezer; gaveta HortiFruti; forma de gelo para até 30 cubos; rodízios"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com botão giratório"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 60,4 x 64,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ib7b-490-litros",
+		"name": "Electrolux (IB7B) 490 litros",
+		"image": "/images/posts/melhor-geladeira-2-portas-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio e função Turbo Freezer",
+			"Sistema Inverse e compressor Inverter para eficiência",
+			"Desodorizador TasteGuard e FoodControl para o interior sem odores",
+			"Prateleiras FastAdapt reversíveis e expansíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "490 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (29,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis, reversíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação no refrigerador; alarme de porta aberta; cesta porta-ovos para 12 unidades; pés niveladores; Turbo Freezer; gaveta HortiNatura; forma de gelo para até 30 cubos; rodízios; sistema Inverse; AutoSense; compressor Inverter; FoodControl; desodorizador TasteGuard; IceMax; prateleiras FastAdapt"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189,5 x 69,9 x 74,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "73kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

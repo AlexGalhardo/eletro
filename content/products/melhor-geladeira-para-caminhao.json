@@ -1,0 +1,337 @@
+[
+	{
+		"id": "resfriar-resgp31-31-litros",
+		"name": "Resfriar RESGP31 (31 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 33W a 48W, com 31 litros",
+			"Faixa de temperatura de 10°C a -21°C",
+			"Alimentação em 12V/24V ou 100/240V",
+			"Painel digital e corpo de plástico",
+			"Dimensões de 42,4 x 34,5 x 61,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "33W – 48W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "31 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "10°C a -21°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 100/240V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,4 x 34,5 x 61,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,7kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efc50-50-litros",
+		"name": "EOS EFC50 (50 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"50 litros, a maior capacidade da lista",
+			"Faixa de temperatura de -20°C a 20°C",
+			"Alimentação em 12V/24V ou 127V/220V",
+			"Painel digital com comandos touch",
+			"Peso de 15kg e corpo de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20ºC a 20ºC"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 65,5 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15kg"
+			}
+		]
+	},
+	{
+		"id": "resfriar-307-0035-35-litros",
+		"name": "Resfriar 307.0035 (35 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 48W a 60W e 35 litros",
+			"Faixa de temperatura de +10°C a -20°C",
+			"Alimentação em 12/24V ou 127/220V",
+			"Painel digital com comandos touch",
+			"Dimensões de 38,6 x 37,8 x 65,2 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "48W – 60W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "35 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "+10°C a -20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12/24V ou 127/220V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,6 x 37,8 x 65,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,5kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efc40-35-litros",
+		"name": "EOS EFC40 (35 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 60W e 35 litros de capacidade",
+			"Faixa de temperatura de -20°C a 20°C",
+			"Nível de ruído de 45 dB",
+			"Alimentação em 12V/24V ou 127V/220V",
+			"Peso de 15,7kg e painel de comandos touch"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "35 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20ºC a 20ºC"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "45dB"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 79 x 36,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,7kg"
+			}
+		]
+	},
+	{
+		"id": "maxfreeze-max330kb-30-litros",
+		"name": "Maxfreeze MAX330KB (30 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 60W e 30 litros de capacidade",
+			"Faixa de temperatura de -20°C a 20°C",
+			"Corpo de plástico e metal",
+			"Painel digital com comandos touch",
+			"Dimensões de 36,5 x 65,3 x 35 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "30 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,5 x 65,3 x 35cm"
+			}
+		]
+	},
+	{
+		"id": "eos-efc21-20-litros",
+		"name": "EOS EFC21 (20 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"20 litros com faixa de -20°C a 20°C",
+			"Alimentação em 12V/24V ou 127V/220V",
+			"Painel digital com comandos touch",
+			"Peso de 10,5kg e corpo de plástico",
+			"Dimensões de 59,5 x 34,5 x 37,2 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "20 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,5 x 34,5 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "resfriar-resgpd18-18-litros",
+		"name": "Resfriar RESGPD18 (18 litros)",
+		"image": "/images/posts/melhor-geladeira-para-caminhao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 32W e 18 litros de capacidade",
+			"Faixa de temperatura de 10°C a -17°C",
+			"Alimentação em 12V ou 24V",
+			"Corpo de plástico e metal, com 10,7kg",
+			"Painel digital e dimensões de 40,7 x 46,2 x 29,7 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "32W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "18 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "10°C a -17°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V ou 24V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,7 x 46,2 x 29,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,7kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,328 @@
+[
+	{
+		"id": "brastemp-blf61-15-servicos",
+		"name": "Brastemp BLF61 (15 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15 serviços",
+			"Painel touchscreen com display digital de indicadores",
+			"Funções Smart Sensor, Sanitizar e Acquaspray",
+			"Opção Meia Carga para pouca louça",
+			"Cesto superior para talheres e cesto removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1183W (127V) / 1765W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Smart Sensor; dia a dia; pesado; delicado; rápido; Acquaspray"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,8 litros por ciclo (Dia a Dia)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Smart Sensor; função Sanitizar; função Acquaspray; opção Meia Carga; cesto intermediário com ajuste de altura; abas laterais dobráveis; cesto superior para talheres; cesto removível para talheres; indicador de líquido secante; trava de painel; display digital com indicadores de lavagem; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-blf08-8-servicos",
+		"name": "Brastemp BLF08 (8 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 8 serviços, a menor da lista",
+			"Painel touchscreen com seis programas",
+			"Cesto para talheres e prateleira ajustável",
+			"Dispenser para sabão em pó ou tablete",
+			"Desligamento automático e indicador de líquido secante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 serviços"
+			},
+			{
+				"label": "Programas",
+				"value": "Acquaspray; dia a dia; pesado; delicado; rápido (água quente); econômico"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 60°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "25 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Acquaspray; ajuste de altura do cesto superior; cesto para talheres; prateleira ajustável; desligamento automático; indicador de nível de líquido secante; dispenser para sabão em pó ou tablete"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 51 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-blf10-10-servicos",
+		"name": "Brastemp BLF10 (10 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 10 serviços",
+			"Funções Smart Sensor e Meia Carga",
+			"Opção Adiar Início para programar a lavagem",
+			"Filtro de resíduos e identificador de etapas",
+			"Cesto exclusivo para talheres"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V) / 1760W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Smart Sensor; dia a dia; pesado; delicado; rápido; econômico; Acquaspray"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,5 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Smart Sensor; Meia Carga; função Acquaspray; Adiar Início; trava de painel; cesto exclusivo para talheres; ajuste de altura do cesto intermediário; indicador de reabastecimento de líquido secante; identificador de etapas; filtro de resíduos; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 44,8 x 63,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-blf60-14-servicos",
+		"name": "Brastemp BLF60 (14 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 14 serviços",
+			"Função Sanitizar e Programa Favorito",
+			"Secagem automática nos ciclos compatíveis",
+			"Abas laterais dobráveis para taças",
+			"Cesto removível para talheres"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 serviços"
+			},
+			{
+				"label": "Programas",
+				"value": "Acquaspray; pesado; dia a dia; delicado; rápido; Smart Sensor"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,8 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Smart Sensor; função Sanitizar; função Meia Carga; função Acquaspray; Programa Favorito; trava de painel; ajuste de altura do cesto intermediário; cesto removível para talheres; abas laterais dobráveis para taças; indicador de líquido secante; secagem automática nos ciclos compatíveis; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-blf62-15-servicos",
+		"name": "Brastemp BLF62 (15 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15 serviços",
+			"Secagem natural com abertura automática da porta",
+			"Tapete de silicone para itens delicados",
+			"Power Clean, Power Rack e programa Auto Clean",
+			"Sistema de filtragem e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1183W (127V) / 1765W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "acquaspray; pesado; dia a dia; delicado; rápido; Smart Sensor"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,8 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Power Clean; Power Rack; secagem inteligente; secagem natural com abertura automática da porta; Smart Sensor; função Sanitizar; função Meia Carga; função Acquaspray; programa Auto Clean; trava de painel; cesto superior para talheres; cesto intermediário com ajuste de altura; abas laterais dobráveis; tapete de silicone para itens delicados; cesto removível para talheres; sistema de filtragem; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-blb14-embutir-14-servicos",
+		"name": "Brastemp BLB14 Embutir (14 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-brastemp-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 14 serviços",
+			"Triplo sistema de filtragem",
+			"Três zonas independentes de lavagem",
+			"Proteção antitransbordo",
+			"Cesto inferior com fileiras ajustáveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "880W"
+			},
+			{
+				"label": "Programas",
+				"value": "Smart Sensor; pesado; dia a dia; rápido; Acquaspray"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "até 13,4 litros por ciclo (Dia a Dia)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Smart Sensor; triplo sistema de filtragem; cesto superior exclusivo para talheres; cesto intermediário removível e ajustável em duas posições; cesto superior removível; cesto inferior com fileiras ajustáveis; proteção antitransbordo; três zonas independentes de lavagem; indicação das etapas por iluminação na porta"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87,6 x 60,4 x 64cm"
+			},
+			{
+				"label": "Peso",
+				"value": "38,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

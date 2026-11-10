@@ -1,0 +1,440 @@
+[
+	{
+		"id": "consul-cvu26fb-231-litros",
+		"name": "Consul CVU26FB (231 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 231 litros com 4 cestos",
+			"Classificação energética A+",
+			"Painel externo de controle e compartimento para gelo",
+			"Pés niveladores para ajustar o aparelho no piso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "231 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+"
+			},
+			{
+				"label": "Consumo",
+				"value": "37kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "4"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "painel externo de controle; pés niveladores; controle de temperatura; gaveta multiuso; prateleira; cestos removíveis; compartimento para gelo"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "153,9 x 61,6 x 69,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "53kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fei27-234-litros",
+		"name": "Electrolux FEI27 (234 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação A++ e consumo de 32,9kWh por mês",
+			"Compressor com tecnologia Inverter",
+			"Compartimento de congelamento rápido",
+			"Porta reversível e 4 prateleiras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "234 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A++"
+			},
+			{
+				"label": "Consumo",
+				"value": "32,9kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "3"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor com tecnologia Inverter"
+			},
+			{
+				"label": "Extras",
+				"value": "compartimento de congelamento rápido; pés niveladores; 3 cestos aramados; 4 prateleiras; porta reversível"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "165,4 x 59 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cvu18gb-121-litros",
+		"name": "Consul CVU18GB (121 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 121 litros em 4 cestos",
+			"Travas nos cestos deslizantes",
+			"Compartimentos para gelo e picolés",
+			"Gaveta para frutos do mar e prateleira para refeições prontas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "121 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "37kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "4"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "painel externo de controle; travas nos cestos deslizantes; pés niveladores; gaveta para frutos do mar; prateleira para refeições prontas; compartimentos para gelo e picolés"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "129,8 x 48,3 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efv70-66-litros",
+		"name": "Eos EFV70 (66 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Operação silenciosa com 40dB",
+			"Porta reversível e gavetas internas removíveis",
+			"Isolamento térmico e termostato",
+			"Medidas compactas de 85 x 48 x 45cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "66 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A++"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "3"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "porta reversível; operação silenciosa com 40dB; sistema de isolamento térmico; termostato; gavetas internas removíveis; pés niveladores"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 48 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efv100-85-litros",
+		"name": "Eos EFV100 (85 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Congelamento rápido para conservar alimentos",
+			"Porta reversível e puxador embutido",
+			"Capacidade de 85 litros em 4 cestos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "85 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "4"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço pré-pintado"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "porta reversível; pés niveladores; puxador embutido e ergonômico; congelamento rápido"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 55 x 58cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-brv28nb-228-litros",
+		"name": "Brastemp BRV28NB (228 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema Frost Free para reduzir o trabalho de degelo",
+			"Função Flex e controle eletrônico externo",
+			"Prateleira de vidro temperado e pés com rodízios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "228 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A++"
+			},
+			{
+				"label": "Consumo",
+				"value": "46,2kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "3"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema Frost Free; função Flex; controle eletrônico externo; compartimento para gelo; prateleira de vidro temperado; pés com rodízios"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "169,3 x 63,1 x 69,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "66kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "imbera-evz21-560-litros",
+		"name": "Imbera EVZ21 (560 litros)",
+		"image": "/images/posts/melhor-freezer-vertical-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: refrigerador, conservador de gelo e freezer",
+			"Capacidade de 561 litros para grandes volumes",
+			"Iluminação interna e fechamento automático",
+			"Prateleiras ajustáveis para organizar os alimentos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "561 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "não especificada"
+			},
+			{
+				"label": "Consumo",
+				"value": "106,8 kWh/mês (3.56kwh/24h)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-10ºC (função conservador/gelo)"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "—"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna; fechamento automático; função 3 em 1: refrigerador, conservador de gelo e freezer; prateleiras ajustáveis"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "200,5 x 69,2 x 82,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "111kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

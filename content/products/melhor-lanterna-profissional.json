@@ -1,0 +1,356 @@
+[
+	{
+		"id": "bosch-gli-18v-1900-1900-lumens",
+		"name": "Bosch GLI 18V-1900 (1900 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1900 lúmens para áreas amplas",
+			"Autonomia de até 8 horas por carga",
+			"Dois modos de luz e foco fixo",
+			"Bateria recarregável pelo encaixe Bosch 18V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "poliamida, metal e elastômero"
+			},
+			{
+				"label": "Potência",
+				"value": "1900 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "2"
+			},
+			{
+				"label": "Foco",
+				"value": "fixo"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via encaixe Bosch 18V"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18,7 x 6,9 x 29,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Acessórios",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "bosch-gli-18v-300-300-lumens",
+		"name": "Bosch GLI 18V-300 (300 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis modos de luz para tarefas diferentes",
+			"Alcance de 1300 metros com 300 lúmens",
+			"Autonomia de 10 horas com bateria Bosch 18V",
+			"Gancho metálico para suspensão e 300g de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "poliamida, metal e elastômero"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "6"
+			},
+			{
+				"label": "Alcance",
+				"value": "1300 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via carregador Bosch 18V"
+			},
+			{
+				"label": "Autonomia",
+				"value": "10 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "11,6 x 7,8 x 24,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "gancho metálico para suspensão"
+			}
+		]
+	},
+	{
+		"id": "makita-dml815-160-lumens",
+		"name": "Makita DML815 (160 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 54 horas com bateria LXT de 18V",
+			"Corpo em alumínio e plástico",
+			"Gancho metálico para pendurar",
+			"Recarga pelo carregador Makita da bateria LXT"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio e plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "160 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fixo"
+			},
+			{
+				"label": "Foco",
+				"value": "fixo"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria LXT de 18V recarregável via carregador Makita"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 54 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "27,2 x 7,9 x 11,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "930g (sem bateria)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "gancho metálico para pendurar"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dcl040-160-lumens",
+		"name": "DEWALT DCL040 (160 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Foco ajustável para direcionar o feixe",
+			"Autonomia de até 25 horas",
+			"Alça traseira para pendurar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "160 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fixo"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 25 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "24 x 11,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "600g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça traseira para pendurar"
+			}
+		]
+	},
+	{
+		"id": "vonder-ilv1809-180-lumens",
+		"name": "Vonder ILV1809 (180 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 180 lúmens em modo fixo",
+			"Bateria intercambiável e recarregável Vonder",
+			"Corpo em plástico e borracha, com 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico e borracha"
+			},
+			{
+				"label": "Potência",
+				"value": "180 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fixo"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria intercambiável Vonder recarregável"
+			},
+			{
+				"label": "Resistência",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8,5 x 19,5 x 13cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dcl044-165-lumens",
+		"name": "DEWALT DCL044 (165 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de 460 metros com 165 lúmens",
+			"Classificação de resistência IP55",
+			"Bateria de íon de lítio recarregável",
+			"Suporte de apoio e gancho de cinto como acessórios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "165 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "460 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria Íon de lítio recarregável"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP55"
+			},
+			{
+				"label": "Dimensões",
+				"value": "25 x 9 x 17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "260g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "suporte de apoio; gancho de cinto"
+			}
+		]
+	},
+	{
+		"id": "bosch-gli-12v-330-330-lumens",
+		"name": "Bosch GLI 12V-330 (330 lúmens)",
+		"image": "/images/posts/melhor-lanterna-profissional-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 330 lúmens com foco ajustável",
+			"Autonomia de até 3 horas com bateria Bosch 12V",
+			"Acessórios de imã, mosquetão e gancho",
+			"Dois modos de luz para o dia a dia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "330 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "2"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável Bosch 12V"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 3 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "12 x 5,3 x 6,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "imã; mosquetão; gancho"
+			}
+		]
+	}
+]

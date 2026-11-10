@@ -1,0 +1,394 @@
+[
+	{
+		"id": "consul-crm56fb-fk-451-litros",
+		"name": "Consul (CRM56FB/FK) 451 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"451 litros com selo Procel A+",
+			"Freezer 3 em 1 com prateleira flex",
+			"Filtro antiodor e iluminação interna em LED",
+			"Gavetão transparente para frutas e legumes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "451 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+ (56,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "painel eletrônico externo; espaço flex; prateleira flex (freezer 3 em 1); filtro antiodor; função Turbo; iluminação interna em LED; gás ecológico; gavetão transparente para frutas e legumes; recipiente para gelo; cesta para ovos; fruteira"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "186,3 x 69,5 x 71,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "76kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crm39ab-ak-340-litros",
+		"name": "Consul (CRM39AB/AK) 340 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com 340 litros",
+			"Painel eletrônico interno para ajustar a temperatura",
+			"Prateleiras Altura Flex para organizar",
+			"Função Turbo e compartimento extra-frio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "340 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (49,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "painel eletrônico interno; função Turbo; iluminação interna de LED; prateleiras Altura Flex; compartimento extra-frio; gavetão hortifruti"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "169,5 x 62,1 x 71,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crd37eb-334-litros",
+		"name": "Consul (‎CRD37EB) 334 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Degelo Cycle Defrost com selo Procel A",
+			"Gavetão hortifruti e porta-ovos",
+			"Prateleiras removíveis e reguláveis",
+			"Pés estabilizadores para apoiar o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "334 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (43,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão hortifruti; prateleiras removíveis e reguláveis; porta-ovos; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "166,9 x 60,3 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crb36ab-300-litros",
+		"name": "Consul (CRB36AB) 300 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com consumo de 35,5kWh por mês",
+			"Compartimento extra-frio e iluminação interna em LED",
+			"Gavetão hortifruti e porta-latas",
+			"Painel eletrônico externo e pés estabilizadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "300 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (35,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "painel eletrônico externo; prateleiras removíveis e ajustáveis; porta-latas; gavetão hortifruti; iluminação interna em LED; porta-ovos; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "153,9 x 61,6 x 69,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "48kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cre44bb-bk-397-litros",
+		"name": "Consul (CRE44BB/BK) 397 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A+ com 397 litros",
+			"Função Turbo Freezer para congelar mais rápido",
+			"Gavetão Hortifruti e prateleiras removíveis",
+			"Pés estabilizadores e painel externo de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "397 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+ (52,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "painel externo de controle de temperatura; função Turbo Freezer; gavetão Hortifruti; pés estabilizadores; prateleiras removíveis; porta-ovos"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "184,7 x 62,1 x 71,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "69,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crm44ab-ak-386-litros",
+		"name": "Consul (CRM44AB/AK) 386 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio e espaço frio",
+			"Formas de gelo suspensas no freezer",
+			"Função Turbo e iluminação interna em LED",
+			"Prateleiras para latas e garrafas com porta-ovos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "386 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (56,2kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna de LED; função Turbo; prateleiras removíveis e ajustáveis; porta-ovos; prateleiras para latas e garrafas; pés estabilizadores; gavetão hortifruti; espaço frio; puxador embutido; formas de gelo suspensas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "183,4 x 62,1 x 72,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "60kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crb39ab-ak-342-litros",
+		"name": "Consul (CRB39AB/AK) 342 litros",
+		"image": "/images/posts/melhor-geladeiras-consul-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta reversível para diferentes posições na cozinha",
+			"Compartimento extra-frio com gavetão hortifruti",
+			"Porta-latas, porta-ovos e recipiente para gelo",
+			"Selo Procel A com consumo de 36,6kWh por mês"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "342 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (36,6kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "porta-latas; porta-ovos; gavetão hortifruti; iluminação interna em LED; porta reversível; prateleiras removíveis e ajustáveis; recipiente para gelo; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 61,6 x 69,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "53kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

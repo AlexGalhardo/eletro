@@ -1,0 +1,374 @@
+[
+	{
+		"id": "ecooda-ec6272",
+		"name": "Ecooda EC6272",
+		"image": "/images/posts/melhor-lampiao-led-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de até 200 metros, o maior da lista",
+			"Modos de luz branca e amarela",
+			"Função powerbank para carregar outros aparelhos",
+			"Resistência IPX5 com bateria USB-C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "20W"
+			},
+			{
+				"label": "Fluxo luminoso",
+				"value": "100 lúmens"
+			},
+			{
+				"label": "Alcance de iluminação",
+				"value": "200 metros"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "2 (ajustável via dimmer)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "7 horas no modo luminária ou 5 horas no modo lanterna"
+			},
+			{
+				"label": "Função extra",
+				"value": "modo lanterna; grade de proteção; modos de luz branca e amarela; função powerbank; indicador de nível da bateria"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "IPX5"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "17 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "260g"
+			}
+		]
+	},
+	{
+		"id": "caerus-sh-580t",
+		"name": "Caerus SH-580T",
+		"image": "/images/posts/melhor-lampiao-led-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alimentação por USB-C ou energia solar",
+			"Modos de lanterna e luminária",
+			"Autonomia de 6 horas",
+			"Resistente à água, em plástico e metal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3W ou 12W"
+			},
+			{
+				"label": "Alcance de iluminação",
+				"value": "50 metros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB-C; energia solar"
+			},
+			{
+				"label": "Autonomia",
+				"value": "6 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "modo lanterna; modo luminária"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "sim"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "13,5 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			}
+		]
+	},
+	{
+		"id": "ecooda-ec688",
+		"name": "Ecooda EC688",
+		"image": "/images/posts/melhor-lampiao-led-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fluxo luminoso de 1000 lúmens",
+			"Iluminação a 360 graus",
+			"Gancho para pendurar o lampião",
+			"Resistente à água com autonomia de 6 horas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fluxo luminoso",
+				"value": "1000 lúmens"
+			},
+			{
+				"label": "Alcance de iluminação",
+				"value": "30 metros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "baterias recarregáveis via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "6 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "gancho para pendurar; 360 graus de iluminação"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "sim"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "17,3 x 11cm"
+			},
+			{
+				"label": "Peso",
+				"value": "247g"
+			}
+		]
+	},
+	{
+		"id": "ntk-mini-lampiao",
+		"name": "NTK Mini Lampião",
+		"image": "/images/posts/melhor-lampiao-led-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de intensidade com dimmer",
+			"Alça com mosquetão para prender",
+			"Fluxo de 150 lúmens com alcance de 10 metros",
+			"Pilhas AAA não inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fluxo luminoso",
+				"value": "150 lúmens"
+			},
+			{
+				"label": "Alcance de iluminação",
+				"value": "10 metros"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 (ajustável via dimmer)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AAA (não inclusas)"
+			},
+			{
+				"label": "Autonomia",
+				"value": "6 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "alça com mosquetão"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "não"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "11 x 6,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "120g"
+			}
+		]
+	},
+	{
+		"id": "coleman-2000024046",
+		"name": "Coleman 2000024046",
+		"image": "/images/posts/melhor-lampiao-led-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 175 horas, a maior da lista",
+			"Resistência IPX4 contra respingos",
+			"Alça para transporte",
+			"Pilhas D não inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fluxo luminoso",
+				"value": "54 lúmens"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas D (não inclusas)"
+			},
+			{
+				"label": "Autonomia",
+				"value": "175 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "alça para transporte"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "IPX4"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "24,1 x 12,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "340g"
+			}
+		]
+	},
+	{
+		"id": "bask-retro",
+		"name": "BASK Retrô",
+		"image": "/images/posts/melhor-lampiao-led-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 48 horas com bateria USB-C",
+			"Quatro níveis de intensidade pelo dimmer",
+			"Quatro modos, incluindo luz de velas",
+			"Proteção IPX6 contra água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fluxo luminoso",
+				"value": "250 lúmens"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "4 (ajustável via dimmer)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "48 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "4 modos: suave de longa duração, luz de velas, luz brilhante, luz brilhante e suave"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "IPX6"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "14,5 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "210g"
+			}
+		]
+	},
+	{
+		"id": "brasfort-7839",
+		"name": "Brasfort 7839",
+		"image": "/images/posts/melhor-lampiao-led-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 40 horas com 3 pilhas AAA",
+			"Modelo retrátil com iluminação de 360º",
+			"Alça para transporte",
+			"Potência de 3,6W com 234g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3,6W"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "40 horas"
+			},
+			{
+				"label": "Função extra",
+				"value": "retrátil; iluminação 360º; alça para transporte"
+			},
+			{
+				"label": "Resistência à água",
+				"value": "não"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "14 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "234g"
+			}
+		]
+	}
+]

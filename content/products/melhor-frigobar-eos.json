@@ -1,0 +1,288 @@
+[
+	{
+		"id": "eos-efb140-88-litros",
+		"name": "EOS EFB140 88 litros",
+		"image": "/images/posts/melhor-frigobar-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 88 litros com configuração Duplex de 2 portas",
+			"Freezer e prateleiras de vidro ajustáveis",
+			"Gaveta e porta reversível",
+			"Gás refrigerante R600a e lâmpada de 1W",
+			"Altura de 84 cm e peso de 21 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "88 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer; configuração Duplex com 2 portas; prateleiras de vidro ajustáveis; gaveta; degelo manual; porta reversível; lâmpada de 1W; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84 x 48 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb101-93-litros",
+		"name": "EOS EFB101 93 litros",
+		"image": "/images/posts/melhor-frigobar-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 93 litros com freezer",
+			"Compartimento gela rápido e gaveta inferior para gelo",
+			"Termostato, pés com ajuste de altura e porta reversível",
+			"2 prateleiras de vidro ajustáveis e compartimentos na porta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "93 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento gela rápido; freezer; gaveta inferior para gelo; 2 prateleiras de vidro ajustáveis; compartimentos na porta; termostato; puxador superior; porta reversível; pés com ajuste de altura; degelo manual; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,3 x 44,4 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb80-71-litros",
+		"name": "EOS EFB80 71 litros",
+		"image": "/images/posts/melhor-frigobar-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 71 litros com freezer",
+			"Compartimento Gela Rápido e termostato ajustável",
+			"Tecnologia ECO-FRIENDLY com gás ecológico",
+			"2 prateleiras e compartimentos na porta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "71 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer; compartimento Gela Rápido; termostato ajustável; 2 prateleiras; compartimentos na porta; tecnologia ECO-FRIENDLY com gás ecológico; degelo manual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,6 x 44,9 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "18,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb100-90-litros",
+		"name": "EOS EFB100 90 litros",
+		"image": "/images/posts/melhor-frigobar-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 90 litros com freezer",
+			"Porta-latas e espaço para resfriamento rápido de bebidas",
+			"Puxador superior e porta reversível",
+			"Pés com ajuste de altura e recipiente para degelo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "90 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer; 2 prateleiras; compartimentos na porta; porta-latas; espaço para resfriamento rápido de bebidas; termostato ajustável; puxador superior; porta reversível; pés com ajuste de altura; recipiente para degelo; degelo manual; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83 x 45 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb50-47-litros",
+		"name": "EOS EFB50 47 litros",
+		"image": "/images/posts/melhor-frigobar-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 47 litros, a menor desta lista",
+			"Compartimento gela rápido e prateleira ajustável",
+			"Pés com ajuste de altura e porta reversível",
+			"Termostato ajustável e compartimentos na porta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "47 litros"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "de -2 a 2°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento gela rápido; prateleira ajustável; compartimentos na porta; termostato ajustável; porta reversível; pés com ajuste de altura; degelo manual; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 47 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb131-124-litros",
+		"name": "EOS EFB131 124 litros",
+		"image": "/images/posts/melhor-frigobar-eos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 124 litros, a maior desta lista",
+			"Freezer e compartimento gela rápido",
+			"Termostato ajustável e luz interna",
+			"Gás refrigerante R600a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "124 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer; compartimento gela rápido; termostato ajustável; degelo manual; gás refrigerante R600a; luz interna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84 x 49,5 x 56cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-efb130-118-litros",
+		"name": "EOS EFB130 118 litros",
+		"image": "/images/posts/melhor-frigobar-eos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 118 litros com freezer",
+			"Gaveta multiuso para frutas e verduras",
+			"Cesto removível e porta-latas",
+			"Espaço para resfriamento rápido de bebidas e puxador superior",
+			"Gaveta inferior para gelo e recipiente para degelo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "118 litros"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer; gaveta inferior para gelo; 2 prateleiras ajustáveis; gaveta multiuso para frutas e verduras; 1 cesto removível; compartimentos na porta; porta-latas; espaço para resfriamento rápido de bebidas; termostato ajustável; puxador superior; porta reversível; pés com ajuste de altura; recipiente para degelo; degelo manual; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83 x 52 x 53cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	}
+]

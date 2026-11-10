@@ -1,0 +1,366 @@
+[
+	{
+		"id": "megatroca-5-led-tg3-20-000-lumens",
+		"name": "MegaTroca 5 Led TG3 (20.000 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 19 horas com bateria USB-C",
+			"Cinco modos, incluindo estroboscópico e SOS",
+			"Suporte de silicone para fixar no guidão",
+			"Grau de proteção IPX5 com peso de 295g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 19 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "alta; média; baixa; estroboscópico; SOS"
+			},
+			{
+				"label": "Potência",
+				"value": "20.000 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Fixação",
+				"value": "suporte de silicone"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IPX5"
+			},
+			{
+				"label": "Peso",
+				"value": "295g"
+			}
+		]
+	},
+	{
+		"id": "headlights-t6-suporte-duplo-1600-lumens",
+		"name": "HeadLights T6 Suporte Duplo (1600 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 20 horas com micro-USB",
+			"Braçadeira ajustável para diferentes guidões",
+			"Grau de proteção IP65 contra poeira e água",
+			"Corpo de alumínio com 240g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 20 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "baixa; média; alta; estroboscópico"
+			},
+			{
+				"label": "Potência",
+				"value": "1600 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Fixação",
+				"value": "braçadeira ajustável"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP65"
+			},
+			{
+				"label": "Peso",
+				"value": "240g"
+			}
+		]
+	},
+	{
+		"id": "vonder-80-75-150-280-280-lumens",
+		"name": "Vonder 80.75.150.280 (280 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 4 horas por micro-USB",
+			"Alcance de até 150 metros com encaixe rápido",
+			"Grau de proteção IP65 no corpo de ABS",
+			"Quatro modos, com opção intermitente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "4 horas"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 7 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "alta; média; baixa; intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "280 lúmens"
+			},
+			{
+				"label": "Distância de alcance da luz",
+				"value": "até 150 metros"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Fixação",
+				"value": "encaixe rápido"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP65"
+			},
+			{
+				"label": "Peso",
+				"value": "213g"
+			}
+		]
+	},
+	{
+		"id": "defquall-lf-2028va-350-lumens",
+		"name": "DefQualL LF-2028VA (350 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 2 horas por micro-USB",
+			"Alcance de até 300 metros de luz",
+			"Fixação por encaixe rápido em alumínio",
+			"Seis modos, incluindo foco aberto e fechado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 6 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "médio; forte (foco aberto); forte (foco fechado); forte (aberto e fechado); estrobocóspico lento; estrobocóspico rápido"
+			},
+			{
+				"label": "Potência",
+				"value": "1000 lúmens"
+			},
+			{
+				"label": "Distância de alcance da luz",
+				"value": "até 300 metros"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Fixação",
+				"value": "encaixe rápido"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IPX4"
+			},
+			{
+				"label": "Peso",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "fluoreled-xa-585-300-lumens",
+		"name": "Fluoreled XA-585 (300 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 2 horas por micro-USB",
+			"Inclui luz amarela e modo SOS",
+			"Fixação por encaixe rápido em plástico ABS",
+			"Peso de 160g no conjunto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 5 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "forte; baixa; SOS; luz amarela"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Fixação",
+				"value": "encaixe rápido"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "resistência à água (classificação não especificada)"
+			},
+			{
+				"label": "Peso",
+				"value": "160g"
+			}
+		]
+	},
+	{
+		"id": "absolute-jy-7026-1000-lumens",
+		"name": "Absolute JY-7026 (1000 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 4 horas pela entrada USB",
+			"Modos normal, média, alta e piscante",
+			"Grau de proteção IP44 com corpo de alumínio",
+			"Pesa 172g com fixação por encaixe rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "4 horas"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "normal; média; alta; piscante"
+			},
+			{
+				"label": "Potência",
+				"value": "1000 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Fixação",
+				"value": "encaixe rápido"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP44"
+			},
+			{
+				"label": "Peso",
+				"value": "172g"
+			}
+		]
+	},
+	{
+		"id": "cycling-light-double-light-600-lumens",
+		"name": "Cycling Light Double-Light (600 lúmens)",
+		"image": "/images/posts/melhor-lanterna-para-bicicleta-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 20 horas com USB-C",
+			"Farol dianteiro com 8 modos de luz",
+			"Lanterna traseira com 12 modos de luz",
+			"Peso leve de 77g com proteção IP65"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 20 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "farol dianteiro com 8 modos; lanterna traseira com 12 modos"
+			},
+			{
+				"label": "Potência",
+				"value": "600 lúmens"
+			},
+			{
+				"label": "Distância de alcance da luz",
+				"value": "120 metros"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Fixação",
+				"value": "encaixe rápido"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP65"
+			},
+			{
+				"label": "Peso",
+				"value": "77g"
+			}
+		]
+	}
+]

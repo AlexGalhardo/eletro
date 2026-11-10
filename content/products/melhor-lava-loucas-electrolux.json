@@ -1,0 +1,402 @@
+[
+	{
+		"id": "electrolux-lp14v-14-servicos",
+		"name": "Electrolux LP14V (14 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 14 serviços com potência de 1250W",
+			"Intelligent Sensor e programa Acquajet para pré-lavagem",
+			"Higienização a 70°C",
+			"Cesto para talheres com bandejas ajustáveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Programas",
+				"value": "Acquajet (pré-lavagem); Express 30′; Meia Carga; Intelligent Sensor; Dia a Dia; Panelas; Turbo Lavagem; Delicado"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Higienizar 70°C; Intelligent Sensor; função Acquajet; opção Meia Carga; seleção de cesto superior ou inferior; função Adiar Início; cesto superior com ajuste de altura; suportes dobráveis para pratos e pires; cesto para talheres com bandejas ajustáveis; indicador de líquido secante; dispenser para detergente; dispenser para líquido secante; filtro; pés niveladores; prateleira para copos; três pulverizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 59,8 x 63,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "46,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ll14x-14-servicos",
+		"name": "Electrolux LL14X (14 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programa inteligente Auto Sense",
+			"Higienização de louça a 70°C",
+			"Cesto intermediário ajustável em duas posições",
+			"Consumo de 9,5 litros de água por ciclo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Programas",
+				"value": "Higienizar Compras; Auto Sense (Programa Inteligente); Dia a Dia; Pesado/Turbo; Express 30′; Pré-Lavar; Delicado"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inox"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,5 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "programa Higienizar Compras; Higienizar Louça 70°C; display digital com controle do tempo; Extra Secagem; cesto intermediário ajustável em duas posições; cesto removível para talheres; função Pré-Lavar; Trava Painel; Adiar Início; EcoPlus; filtro; pés niveladores; dispenser para sabão; três pulverizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 59,8 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "46kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ls08e-8-servicos",
+		"name": "Electrolux LS08E (8 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programa Lava & Seca em 50 minutos",
+			"Consumo de 12 litros de água por ciclo",
+			"Desligamento automático com aviso sonoro",
+			"Funcionamento silencioso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "780W (127V); 1400W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Pré-Lavar; Express 30 min; Rápido; Delicado; Dia a Dia; Pesado/Turbo; Eco; Higienizar 70°C"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "12 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "programa Lava & Seca 50 min; programa Eco; Higienizar Louça 70°C; Adiar Início; função Pré-Lavar; trava de painel; display digital com controle do tempo; indicador de reservatório de líquido secante; dispenser para líquido secante; dispenser para detergente; desligamento automático com aviso sonoro; visualizador de etapas de lavagem; funcionamento silencioso; cesto para talheres; dois pulverizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60,9 x 55 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ls14e-14-servicos",
+		"name": "Electrolux LS14E (14 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 14 serviços e consumo de 10,9 litros por ciclo",
+			"Adiar Início de até 24 horas",
+			"Trava de painel e display digital",
+			"Função Secagem Extra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V) / 1760W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Pré-Lavar; Express 30 min; Rápido; Delicado; Dia a Dia; Pesado/Turbo; Eco"
+			},
+			{
+				"label": "Painel",
+				"value": "digital"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "10,9 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "programa Lava & Seca 50min; programa Eco; Higienizar Louça 70°C; função Meia Carga; função Pré-Lavar; função Secagem Extra; função Adiar Início até 24h; trava de painel; display digital com controle do tempo; indicador de reservatório de líquido secante; dispenser para detergente; dispenser para líquido secante; desligamento automático com aviso sonoro; visualizador de etapas de lavagem; funcionamento silencioso; cesto ajustável em altura; bandeja superior para talheres; cesto para talheres"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 59,8 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "38kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ll08s-8-servicos",
+		"name": "Electrolux LL08S (8 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programa Rápido de 1 hora",
+			"Interior em aço inoxidável",
+			"Adiar Início de até 24 horas",
+			"Display digital com tempo restante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "780W (127V) / 1400W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Acquajet (pré-lavagem); Rápido (1 hora); Delicado; Eco; Dia a Dia; Turbo; Higienizar 70°C"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Higienizar 70°C; função Eco; função Pré-Lavagem; Adiar Início até 24h; interior ajustável; display digital com controle de tempo restante; cesto para talheres; filtro; pés niveladores; dispenser para detergente; dois pulverizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60,5 x 55 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ll10x-10-servicos",
+		"name": "Electrolux LL10X (10 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programa Auto Sense e Express 30 minutos",
+			"Consumo de 9,5 litros de água por ciclo",
+			"Cesto removível para talheres",
+			"Três pulverizadores para a louça"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Programas",
+				"value": "Higienizar Compras; Auto Sense (Programa Inteligente); Express 30′; Pré-Lavar; Adiar Início; Delicado; Dia a Dia"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inox"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9,5 litros por ciclo"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "programa Higienizar Compras; função Higienizar Louça 70°C; Auto Sense; função Pré-Lavar; função Extra Secagem; Adiar Início; trava de painel; display digital com controle do tempo; cesto intermediário ajustável em duas posições; cesto removível para talheres; dispenser para detergente; três pulverizadores; filtro; pés niveladores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 44,8 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "41kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ls10e-10-servicos",
+		"name": "Electrolux LS10E (10 serviços)",
+		"image": "/images/posts/melhor-lava-loucas-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modo Eco com 9 litros de água por ciclo",
+			"Cesto superior com ajuste de altura",
+			"Função Meia Carga e Secagem Extra",
+			"Programa Lava & Seca em 50 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10 serviços"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V) / 1760W (220V)"
+			},
+			{
+				"label": "Programas",
+				"value": "Pré-Lavar; Express 30′; Rápido; Delicado; Dia a Dia; Pesado/Turbo; Eco"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Painel",
+				"value": "touchscreen"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Consumo de água",
+				"value": "9 litros por ciclo (modo Eco)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "programa Lava & Seca 50min; função Higienizar Louça 70°C; função Meia Carga; função Secagem Extra; Adiar Início; trava de painel; display digital com controle do tempo; indicador de reservatório de líquido secante; desligamento automático; visualizador de etapas de lavagem; cesto superior com ajuste de altura; bandeja para talheres; cesto para talheres; prateleira para copos; dispenser para detergente; dispenser para líquido secante; filtro; dois pulverizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,5 x 44,8 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

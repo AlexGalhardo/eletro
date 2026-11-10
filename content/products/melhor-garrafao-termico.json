@@ -1,0 +1,314 @@
+[
+	{
+		"id": "stanley-jug-termica-7-5-litros",
+		"name": "Stanley Jug Térmica 7,5 litros",
+		"image": "/images/posts/melhor-garrafao-termico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 7,5 litros com alça integrada",
+			"Conservação de até 13 horas para bebidas frias",
+			"Torneira para servir",
+			"Peso de 1,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "13 horas frio"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "torneira"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36 x 29 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			}
+		]
+	},
+	{
+		"id": "igloo-42255-18-9-litros",
+		"name": "Igloo 42255 18,9 litros",
+		"image": "/images/posts/melhor-garrafao-termico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade da lista, com 18,9 litros",
+			"Isolamento em espuma de PU",
+			"Torneira para servir e alça integrada",
+			"Corpo em plástico resistente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "18,9 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico resistente"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "torneira"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54 x 35 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "termolar-supertermo-5-litros",
+		"name": "Termolar Supertermo 5 litros",
+		"image": "/images/posts/melhor-garrafao-termico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conservação de 10 horas para frio e quente",
+			"Isolamento em espuma de PU",
+			"Rolha clean para servir",
+			"Alça integrada e 5 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "10 horas frio e quente"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "rolha clean"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,4 x 19,8 x 19,8cm"
+			}
+		]
+	},
+	{
+		"id": "unitermi-arezzo-10-litros",
+		"name": "Unitermi Arezzo 10 litros",
+		"image": "/images/posts/melhor-garrafao-termico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 10 litros com alça integrada",
+			"Torneira para servir",
+			"Isolamento em espuma de PU",
+			"Peso de 1,34kg e corpo em plástico injetado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico injetado"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "torneira"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,5 x 25 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,34kg"
+			}
+		]
+	},
+	{
+		"id": "termolar-fliptop-2-5-litros",
+		"name": "Termolar Fliptop 2,5 litros",
+		"image": "/images/posts/melhor-garrafao-termico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 20 horas de conservação com gelo",
+			"Tampa fliptop para servir",
+			"Isolamento em espuma de PU",
+			"Alça integrada e 2,5 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "2,5 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico injetado"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "20 horas com gelo / 8 horas sem gelo"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "tampa fliptop"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 17,5 x 21,5cm"
+			}
+		]
+	},
+	{
+		"id": "soprano-atacama-2-5-litros",
+		"name": "Soprano Atacama 2,5 litros",
+		"image": "/images/posts/melhor-garrafao-termico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bico retrátil para servir",
+			"Peso de 513g, o mais leve entre os modelos com peso informado",
+			"Isolamento em espuma de PU",
+			"Alça integrada e 2,5 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "2,5 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "4 horas frio"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "bico retrátil"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,5 x 16,5 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "513g"
+			}
+		]
+	},
+	{
+		"id": "invicta-royal-12-litros",
+		"name": "Invicta Royal 12 litros",
+		"image": "/images/posts/melhor-garrafao-termico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com torneira para servir",
+			"Conservação de 6 horas para frio e quente",
+			"Isolamento em espuma de PU",
+			"Alça integrada e peso de 1,90kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Isolamento Térmico",
+				"value": "espuma de PU"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico resistente"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "6 horas frio e quente"
+			},
+			{
+				"label": "Sistema de servir",
+				"value": "torneira"
+			},
+			{
+				"label": "Alça integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,5 x 25 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,90kg"
+			}
+		]
+	}
+]

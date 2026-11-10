@@ -1,0 +1,290 @@
+[
+	{
+		"id": "eos-duplex-efb140d-88-litros",
+		"name": "Eos Duplex EFB140D 88 litros",
+		"image": "/images/posts/melhor-frigobar-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Freezer integrado de 27L",
+			"Gaveta para legumes e duas prateleiras de vidro",
+			"Eficiência energética classe A",
+			"Baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "88L (61L refrigerador / 27L freezer)"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "não especificada / freezer até -18 °C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "freezer integrado de 27L; duas prateleiras de vidro; gaveta para legumes; iluminação interna; baixo nível de ruído; eficiência energética classe A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84 x 48,6 x 53,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21kg"
+			}
+		]
+	},
+	{
+		"id": "midea-retro-mrv10p-95-litros",
+		"name": "Midea Retrô MRV10P 95 litros",
+		"image": "/images/posts/melhor-frigobar-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento Beer Storage para até 10 latas",
+			"Armazena até 8 latas e 2 garrafas de 2L na porta",
+			"Classificação A+ em 127V e A++ em 220V",
+			"Três ajustes de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "95L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "compartimento extra-frio 0°C e -3°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento Beer Storage para até 10 latas; prateleiras de vidro; armazena até 8 latas e 2 garrafas de 2L na porta; gaveta organizadora; baixo nível de ruído; 3 ajustes de temperatura; classificação energética: A+ (127V) e A++ (220V)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "83,5 x 48,8 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ice-compact-efb50-47-litros",
+		"name": "Eos Ice Compact EFB50 47 litros",
+		"image": "/images/posts/melhor-frigobar-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento gela rápido",
+			"Porta reversível com espaço para garrafas de até 2L",
+			"Termostato para controle de temperatura",
+			"Baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "47L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento gela rápido; prateleira ajustável; porta com espaço para garrafas de até 2L e latas; porta reversível; pés ajustáveis; termostato para controle de temperatura; baixo nível de ruído"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 47 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ice-compact-efb81-71-litros",
+		"name": "Eos Ice Compact EFB81 71 litros",
+		"image": "/images/posts/melhor-frigobar-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Degelo Click Defrost",
+			"Prateleiras ajustáveis e pés ajustáveis",
+			"Porta reversível e espaço para latas",
+			"Compartimento gela rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "71L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento gela rápido; degelo Click Defrost; porta com espaço para garrafas de até 2L e latas; prateleiras ajustáveis; termostato; porta reversível; pés ajustáveis; baixo nível de ruído"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68 x 45 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "18,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfg111-92-litros",
+		"name": "Philco PFG111 92 litros",
+		"image": "/images/posts/melhor-frigobar-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio de 0 a -5°C",
+			"Prateleiras removíveis com 6 níveis de ajuste",
+			"Gás refrigerante R600a",
+			"Porta reversível e iluminação interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "92L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "0 a 10°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento extra-frio (0 a -5°C); compartimentos para latas e garrafas; prateleiras removíveis; pés ajustáveis; porta reversível; iluminação interna; gás refrigerante R600a; prateleiras com 6 níveis de ajuste"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 47 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-mrc10b1-93-litros",
+		"name": "Midea ‎MRC10B1 93 litros",
+		"image": "/images/posts/melhor-frigobar-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimento extra-frio e termostato",
+			"Prateleiras de vidro e gaveta organizadora",
+			"Gás refrigerante ecológico livre de CFC",
+			"Prateleira para garrafas PET"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "93L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento extra-frio; prateleiras de vidro; gaveta organizadora; termostato com controle de temperatura; capacidade para garrafas de até 2L; baixo nível de ruído; gás refrigerante ecológico livre de CFC; prateleira para garrafas PET"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 47,2 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22,1kg (127V) e 20,8kg (220V)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-ice-compact-efb81p-71-litros",
+		"name": "Eos Ice Compact EFB81P 71 litros",
+		"image": "/images/posts/melhor-frigobar-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Degelo Click Defrost",
+			"Compartimento gela rápido",
+			"Porta reversível e pés ajustáveis",
+			"Espaço na porta para garrafas de até 2L e latas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "71L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento gela rápido; porta com espaço para garrafas de até 2L e latas; prateleiras ajustáveis; termostato; porta reversível; pés ajustáveis; baixo nível de ruído; Click defrost; Eco-Friendly"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67,6 x 44,9 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "18,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
