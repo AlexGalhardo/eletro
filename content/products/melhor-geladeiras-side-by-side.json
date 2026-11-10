@@ -1,0 +1,381 @@
+[
+	{
+		"id": "lg-gc-x257csh1-598-litros",
+		"name": "LG GC-X257CSH1 598 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"598 litros com selo Procel A+++ e 57,5 kWh/mês",
+			"Porta InstaView Door-in-Door",
+			"Produção de gelo esférico Craft Ice",
+			"Tecnologia UVnano e filtro Hygiene Fresh+",
+			"Controle por app e prateleiras de vidro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "598 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (57,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis"
+			},
+			{
+				"label": "Extras",
+				"value": "porta InstaView Door-in-Door; iluminação LED interna; tecnologia Linear Cooling e Door Cooling+; filtro Hygiene Fresh+; produção de gelo esférico (Craft Ice); tecnologia UVnano; Fresh Balancer; controle por app; prateleiras ajustáveis de vidro temperado; porta-garrafa"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "179 x 91,3 x 73,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "131kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-efficient-is4s-435-litros",
+		"name": "Electrolux Efficient IS4S 435 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"435 litros com selo Procel A+++ e 38 kWh/mês",
+			"Tecnologia AutoSense e Ice Twister",
+			"Puxadores embutidos e pés niveladores",
+			"Cesta porta-ovos e rodízios",
+			"Alarme de porta aberta e função trava do painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "435 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Procel A+++ (38kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia AutoSense; Ice Twister; alarme de porta aberta; função trava painel de controle; puxadores embutidos; iluminação interna; função turbo; prateleiras removíveis; cesta porta-ovos; pés niveladores; rodízios"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-prf504id-486-litros",
+		"name": "Philco PRF504ID 486 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"486 litros com selo Procel A+++ e 51 kWh/mês",
+			"Funções Turbo Freezer, Turbo Refrigerador e Modo Smart",
+			"Dispenser de água na porta",
+			"Tecnologia Inverter e Smart Cooling",
+			"Painel digital touch screen"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "486 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (51kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Extras",
+				"value": "alarme de porta aberta; funções Turbo Freezer, Turbo Refrigerador e Modo Smart; iluminação interna de LED; dispenser de água na porta; painel digital touch screen; prateleiras removíveis e ajustáveis de vidro temperado; alerta de porta aberta; tecnologia Inverter; Smart Cooling; Smart Senser"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176,8 x 92 x 63cm"
+			},
+			{
+				"label": "Peso",
+				"value": "79,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-prf535id-434-litros",
+		"name": "Philco PRF535ID 434 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"434 litros com selo Procel A+++ e 44 kWh/mês",
+			"Forma de gelo Ice Twist",
+			"Dispenser de água na porta e painel touch",
+			"Funções Turbo Freezer e Turbo Refrigerador",
+			"Iluminação interna de LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "434 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (44kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna de LED; dispenser de água na porta; painel digital touch; alarme de porta aberta; forma de gelo Ice Twist; funções Turbo Freezer e Turbo Refrigerador; tecnologia Smart Cooling; sistema Smart Sensor"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "177 x 91 x 58,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "80kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-460sbsff-460-litros",
+		"name": "HQ-460SBSFF 460 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"460 litros com selo Procel A+++ e 57,5 kWh/mês",
+			"Tecnologia Fresh Box e gavetão de hortifruti",
+			"Ajuste inteligente de temperatura com modo AI",
+			"Sistema de congelamento e resfriamento rápido",
+			"Tecnologia Inverter e pés niveladores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "460 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (57,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Extras",
+				"value": "painel digital touch; iluminação LED; prateleiras e gavetas removíveis e ajustáveis; tecnologia Fresh Box; gavetão de hortifruti; ajuste inteligente de temperatura com modo AI; sistema de congelamento e resfriamento rápido; pés niveladores; tecnologia Inverter"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178,5 x 70 x 68cm"
+			},
+			{
+				"label": "Peso",
+				"value": "70kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-rs58t5561-585-litros",
+		"name": "Samsung RS58T5561 585 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"585 litros com selo Procel A+++ e 48 kWh/mês",
+			"Display externo Family Hub LCD",
+			"Sistema All-Around Cooling e SpaceMax",
+			"Conexão Wi-Fi com função smart",
+			"Dispenser de água e gelo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "585 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Procel A+++ (48kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Extras",
+				"value": "display externo Family Hub LCD; sistema All-Around Cooling; dispenser de água e gelo; SpaceMax; trava de segurança; gavetas no refrigerador; alarme de porta aberta; prateleiras removíveis; conexão Wi-Fi (função smart); iluminação Top LED; prateleiras removíveis"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91,2 x 72,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "116kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lg-l257slpl-611-litros",
+		"name": "LG L257SLPL 611 litros",
+		"image": "/images/posts/melhor-geladeiras-side-by-side-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"611 litros com selo Procel A+++ e 57,5 kWh/mês",
+			"Máquina de gelo automática",
+			"Controle por app LG ThinQ e alertas",
+			"Gavetas com controle de umidade",
+			"Tecnologias Hygiene Fresh e UVnano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "611 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (57,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Extras",
+				"value": "dispenser de água e gelo; controle por app LG ThinQ; gavetas com controle de umidade; alertas via app; sistema de resfriamento e congelamento rápido; tecnologia Hygiene Fresh; tecnologia UVnano; sistema LinearCooling; máquina de gelo automática"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "179 x 91,3 x 73,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "111kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

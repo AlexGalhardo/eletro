@@ -1,0 +1,343 @@
+[
+	{
+		"id": "eos-efc55-50-litros",
+		"name": "EOS EFC55 (50 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 50 litros, a maior da lista",
+			"Funciona em 12V/24V ou 127V/220V",
+			"Rodinhas, alça de transporte e porta reversível",
+			"Isolamento térmico de até 4 horas e modo eco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "proteção contra descarga de bateria; modo eco; rodinhas; porta reversível; sistema de memória; luz interna; alça de transporte; isolamento térmico de até 4 horas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 65,5 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,1kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efc40-35-litros",
+		"name": "EOS EFC40 (35 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"35 litros com faixa de -20°C a 20°C",
+			"Ruído de 45dB e painel digital com comandos touch",
+			"Sistema de proteção da bateria e isolamento de até 4 horas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "35 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "45dB"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema de proteção da bateria; isolamento térmico de até 4 horas; botão liga/desliga"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 79 x 36,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,7kg"
+			}
+		]
+	},
+	{
+		"id": "vmpro-cf35-35-litros",
+		"name": "VMPro CF35 (35 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"35 litros com faixa de -20°C a 20°C",
+			"Conectividade Bluetooth e controle remoto por app",
+			"Porta-copos e painel digital com comandos touch"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "35 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 127V/220V"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com comandos touch"
+			},
+			{
+				"label": "Extras",
+				"value": "conectividade Bluetooth; controle remoto por app; porta-copos"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38 x 34,3 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15kg"
+			}
+		]
+	},
+	{
+		"id": "resfriar-resgp31-31-litros",
+		"name": "Resfriar RESGP31 (31 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Turbo resfriamento e faixa de 10°C a -21°C",
+			"Bluetooth via app e medição de temperatura interna",
+			"Proteção IPX4 e isolamento térmico em PU",
+			"Funciona em 12V/24V e em 100/240V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "33W ou 48W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "31 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "10°C a -21°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V/24V ou 100/240V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital; conectividade Bluetooth via app"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna em LED; medição de temperatura interna; proteção contra descarga da bateria do veículo; turbo resfriamento; proteção IPX4; isolamento térmico em PU; dreno de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,4 x 34,5 x 61,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,7kg"
+			}
+		]
+	},
+	{
+		"id": "resfriar-resgpd18-18-litros",
+		"name": "Resfriar RESGPD18 (18 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 10°C a -17°C em 18 litros",
+			"Bluetooth e medição de temperatura interna",
+			"Leitura da tensão da bateria e proteção contra descarga",
+			"Grade separadora e alça de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "32W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "18 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "10°C a -17°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V ou 24V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital"
+			},
+			{
+				"label": "Extras",
+				"value": "conectividade Bluetooth; medição de temperatura interna; leitura da tensão da bateria; proteção contra descarga; grade separadora; alça de transporte; dreno de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,7 x 46,2 x 29,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,7kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efc21-20-litros",
+		"name": "EOS EFC21 (20 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"20 litros com divisória interna e iluminação em LED",
+			"Modo ECO e proteção contra superaquecimento",
+			"Proteção para a bateria em três níveis",
+			"Isolamento térmico de até 4 horas e dreno para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "20 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V/220V ou 12V/24V"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital"
+			},
+			{
+				"label": "Extras",
+				"value": "divisória interna; dreno; iluminação em LED; modo ECO; proteção contra superaquecimento; porta-copos; proteção para a bateria em 3 níveis; isolamento térmico de até 4 horas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,5 x 34,5 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efc20-18-litros",
+		"name": "EOS EFC20 (18 litros)",
+		"image": "/images/posts/melhor-geladeira-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modo turbo e modo econômico",
+			"Indicador de carga da bateria e proteção contra descarga",
+			"Nível de ruído de 45dB e painel touch digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "50W"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "18 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-20°C a 20°C"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V/220V ou 12V/24V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "45dB"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "touch digital"
+			},
+			{
+				"label": "Extras",
+				"value": "modo turbo; modo econômico; proteção contra descarga da bateria; indicador de carga da bateria; isolamento térmico de até 4 horas após desligado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 57 x 32cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,7kg"
+			}
+		]
+	}
+]

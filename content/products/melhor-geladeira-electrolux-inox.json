@@ -1,0 +1,394 @@
+[
+	{
+		"id": "electrolux-im8b-590-litros",
+		"name": "Electrolux (IM8B) 590 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 590 litros",
+			"Compartimento extra-frio e gaveta HortiNatura",
+			"Painel digital com tecnologia Inverter",
+			"Prateleiras reguláveis, removíveis e expansíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "590 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (55,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "reguláveis, removíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "painel digital; AutoSense com inteligência artificial; tecnologia Inverter; gaveta HortiNatura; TasteGuard; IceTwister; dispenser de água interno com abastecimento manual; EcoPlus; alarme de porta aberta; trava no painel; iluminação interna no refrigerador e freezer; cesta porta ovos (12 unidades); porta do freezer reversível; pés niveladores; prateleiras FastAdapt"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "190 x 83,5 x 74,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "98kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-is4s-435-litros",
+		"name": "Electrolux (IS4S) 435 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A+++ com 38 kWh por mês",
+			"Capacidade total de 435 litros",
+			"Função Turbo com tecnologia AutoSense",
+			"Trava no painel de controle"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "435 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (38kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "painel digital; Ice Twister; iluminação interna; pés niveladores; trava painel de controle; cesta porta-ovos; rodízios; puxadores embutidos; alarme de porta aberta; função Turbo; tecnologia AutoSense"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf38s-320-litros",
+		"name": "Electrolux (TF38S) 320 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forma de gelo com capacidade para até 30 cubos",
+			"Turbo freezer e iluminação LED no refrigerador",
+			"Bandeja de ovos para 12 unidades",
+			"Gaveta hortifruti para legumes e frutas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "320 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (46,8kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gaveta hortifruti; turbo freezer; iluminação LED no refrigerador; alarme de porta aberta; bandeja de ovos (12 unidades); forma de gelo com capacidade para até 30 cubos; rodízios; pés niveladores; puxadores embutidos"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 60,4 x 64,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-if43s-390-litros",
+		"name": "Electrolux (IF43S) 390 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A+++ com 39,7 kWh por mês",
+			"Compartimento de congelamento rápido e extra-frio",
+			"Prateleiras retráteis e reversíveis para ajustar o espaço",
+			"Separador de garrafas e porta-condimentos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "390 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (39,7kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis, retráteis, reversíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia AutoSense; tecnologia Inverter; gaveta HortiNatura com vedação especial; compartimento de congelamento rápido; EcoPlus; separador de garrafas e porta-condimentos; iluminação LED no refrigerador; alarme de porta aberta; bandeja de ovos; forma de gelo; rodízios; pés niveladores; puxadores embutidos; prateleiras FastAdapt"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176,9 x 60 x 71,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-re21s-213-litros",
+		"name": "Electrolux (RE21S) 213 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor consumo informado da lista, com 21,6 kWh por mês",
+			"Porta latas e gaveta HortiFruti para organização",
+			"Dimensões de 140,6 x 55,5 x 56,5 cm para cozinhas compactas",
+			"Peso de 36 kg, o mais leve desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "213 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (21,6kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gaveta HortiFruti; iluminação interna no refrigerador; porta latas; pés niveladores; puxadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "140,6 x 55,5 x 56,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-im7s-480-litros",
+		"name": "Electrolux (IM7S) 480 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro desodorizador TasteGuard para o ambiente interno",
+			"Compartimento IceMax e congelamento rápido",
+			"Compartimento extra-frio com painel digital",
+			"Prateleiras removíveis e reversíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "480 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel C (51kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reversíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia AutoSense; tecnologia Inverter; gaveta HortiNatura; filtro desodorizador (TasteGuard); compartimento IceMax; compartimento de congelamento rápido; EcoPlus; painel digital; alarme de porta aberta; iluminação interna no refrigerador e freezer; cesta porta ovos; rodízios; pés niveladores; controle automático de temperatura"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189,2 x 69,9 x 74,55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "73,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-it70b-480-litros",
+		"name": "Electrolux (IT70B) 480 litros",
+		"image": "/images/posts/melhor-geladeira-electrolux-inox-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com 25 kWh por mês",
+			"Tecnologia SmartBivolt com alimentação bivolt",
+			"Função turbo freezer e compartimento IceMax",
+			"Separador de garrafas e bandeja para 12 ovos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "480 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (25kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis, reversíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia AutoSense; tecnologia Inverter; SmartBivolt; gaveta HortiNatura; compartimento IceMax; compartimento de congelamento rápido; painel digital; EcoPlus; alarme de porta aberta; separador de garrafas; bandeja de ovos (12 unidades); iluminação LED interna no refrigerador; rodízios; função turbo freezer; prateleiras FastAdapt"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189 x 70,5 x 76cm"
+			},
+			{
+				"label": "Peso",
+				"value": "67kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

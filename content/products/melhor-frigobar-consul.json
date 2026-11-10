@@ -1,0 +1,250 @@
+[
+	{
+		"id": "consul-cra12av-117-litros",
+		"name": "Consul CRA12AV 117 litros",
+		"image": "/images/posts/melhor-frigobar-consul-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 117 litros com congelador integrado",
+			"Porta-latas para até 8 unidades e recipiente para gelo",
+			"Controle de temperatura com 3 níveis",
+			"Design retrô com puxador cromado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "117L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "congelador com temperatura de até -6°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Cycle Defrost; controle de temperatura com 3 níveis (mínima, média e máxima); porta-latas armazena até 8 unidades; recipiente para gelo; gaveta multiuso; compartimentos modulares; congelador integrado; design retrô com puxador cromado; compartimento extra-frio; armazena até 6 garrafas; pés estabilizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87 x 48 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crc12cb-117-litros",
+		"name": "Consul CRC12CB 117 litros",
+		"image": "/images/posts/melhor-frigobar-consul-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 117 litros com compartimento extra frio",
+			"Congelador para gelo e picolés",
+			"Baixo nível de ruído",
+			"Gaveta multiuso e 3 prateleiras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "117L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "compartimento extra frio; congelador para gelo e picolés; porta-latas removível para até 8 unidades; gaveta multiuso; 3 prateleiras; controle de temperatura com 3 níveis; baixo nível de ruído; pés estabilizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86,2 x 48,2 x 51,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crc04ab-47-litros",
+		"name": "Consul CRC04AB 47 litros",
+		"image": "/images/posts/melhor-frigobar-consul-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle de temperatura com até 6 níveis de ajuste",
+			"Gás ecológico R600 livre de CFCs",
+			"Porta-garrafas flex com separador",
+			"Eficiência energética A+++ no modelo 127V e A++ no modelo 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "47L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de temperatura com até 6 níveis de ajuste; prateleira removível; compartimentos ajustáveis; porta-latas para 2 unidades; porta-garrafas flex (separador); compartimento extra frio; gás ecológico R600 livre de CFCs; eficiência energética A+++ no modelo 127V e A++ no modelo 220V; pés estabilizadores; bandeja d’água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 44 x 46,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crc08cb-76-litros",
+		"name": "Consul CRC08CB 76 litros",
+		"image": "/images/posts/melhor-frigobar-consul-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Congelador integrado e compartimento extra frio",
+			"Porta-latas removível para até 8 unidades",
+			"Gaveta multiuso e prateleiras",
+			"Controle de temperatura com 3 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "76L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-latas removível para até 8 unidades; gaveta multiuso; prateleiras; compartimento extra frio; congelador integrado; controle de temperatura com 3 níveis; pés estabilizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63,2 x 48,2 x 51,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crc04ae-47-litros",
+		"name": "Consul CRC04AE 47 litros",
+		"image": "/images/posts/melhor-frigobar-consul-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Gás ecológico R600 livre de CFCs",
+			"Porta-garrafas flex com separador",
+			"Compartimentos internos ajustáveis",
+			"Bandeja de água e pés estabilizadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "47L"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "prateleira removível; compartimentos internos ajustáveis; porta-latas; porta-garrafas flex com separador; uso de gás ecológico R600 livre de CFCs; pés estabilizadores; bandeja de água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 44 x 46,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cra12ae-117-litros",
+		"name": "Consul CRA12AE 117 litros",
+		"image": "/images/posts/melhor-frigobar-consul-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 117 litros com congelador integrado",
+			"Sistema Cycle Defrost",
+			"Porta-latas para até 8 unidades e recipiente para gelo",
+			"Armazena até 6 garrafas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "117L"
+			},
+			{
+				"label": "Range de temperatura (°C)",
+				"value": "congelador com temperatura de até -6°C"
+			},
+			{
+				"label": "Tipo de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Cycle Defrost; controle de temperatura com 3 níveis (mínima, média e máxima); porta-latas armazena até 8 unidades; recipiente para gelo; gaveta multiuso; compartimentos modulares; congelador integrado; design retrô com puxador cromado; compartimento extra-frio; armazena até 6 garrafas; pés estabilizadores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87 x 48 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

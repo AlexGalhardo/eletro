@@ -1,0 +1,346 @@
+[
+	{
+		"id": "vonder-cob-lcv300",
+		"name": "Vonder COB LCV300",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 5 horas e 30 minutos",
+			"Recarga por micro USB em 2 horas e 30 minutos",
+			"Luz fraca e forte com ajuste de inclinação",
+			"Resistência IP65 e IK07 com 110g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "5 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz fraca e forte"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS com revestimento emborrachado"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP65 e IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "110g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv400",
+		"name": "Vonder LCV400",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 400 lúmens, a maior da linha Vonder",
+			"Recarga por USB-C em 2 horas",
+			"Luz forte, fraca ou direcionada",
+			"Proteção IP65 com peso de 94g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "5 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte, fraca ou direcionada"
+			},
+			{
+				"label": "Potência",
+				"value": "400 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico com acabamento emborrachado"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP65"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "94g"
+			}
+		]
+	},
+	{
+		"id": "vonder-cob-lcv120",
+		"name": "Vonder COB LCV120",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com 3 pilhas AAA",
+			"Luz forte, fraca ou intermitente",
+			"Potência de 120 lúmens com 75g",
+			"Ajuste de inclinação para direcionar a luz"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "3x pilhas AAA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "––"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte, fraca ou intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "120 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "75g"
+			}
+		]
+	},
+	{
+		"id": "vonder-llv-55",
+		"name": "Vonder LLV-55",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 10 horas com 3 pilhas AAA",
+			"Potência de 130 lúmens",
+			"Corpo de plástico e alumínio com 115g",
+			"Ajuste de inclinação para direcionar a luz"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "10 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "––"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte, fraca ou intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "130 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e alumínio"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "115g"
+			}
+		]
+	},
+	{
+		"id": "ntk-cobb-led",
+		"name": "NTK Cobb LED",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 150 lúmens com 3 pilhas AAA",
+			"Luz forte, fraca ou intermitente",
+			"Peso leve de 65g",
+			"Corpo em plástico ABS com ajuste de inclinação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AAA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "––"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte, fraca ou intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "150 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "65g"
+			}
+		]
+	},
+	{
+		"id": "philips-lpl74x1",
+		"name": "Philips LPL74X1",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 12 horas por carga",
+			"Recarga por micro USB em 2 horas e 48 minutos",
+			"Resistência IP67 e IK07 com corpo de borracha",
+			"Potência de 300 lúmens com ajuste de inclinação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas e 48 minutos"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte, fraca ou intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "borracha"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67 e IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "145g"
+			}
+		]
+	},
+	{
+		"id": "ntk-fiji",
+		"name": "NTK Fiji",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Luz constante com 50 lúmens",
+			"Funciona com 3 pilhas AAA",
+			"Peso de 72g com corpo em PP",
+			"Lente em policarbonato"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AAA"
+			},
+			{
+				"label": "Autonomia",
+				"value": "não especificada"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "––"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz constante"
+			},
+			{
+				"label": "Potência",
+				"value": "50 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "corpo em plástico PP; lente em policarbonato; botão em PVC"
+			},
+			{
+				"label": "Resistência",
+				"value": "não especificada"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "––"
+			},
+			{
+				"label": "Peso",
+				"value": "72g"
+			}
+		]
+	}
+]

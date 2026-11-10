@@ -1,0 +1,389 @@
+[
+	{
+		"id": "waterpik-wp660b-650ml",
+		"name": "Waterpik WP660B (650mL)",
+		"image": "/images/posts/melhor-irrigador-oral-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 650mL e 10 níveis de pressão",
+			"Modos de limpeza floss e massagem",
+			"Bico para limpeza de gengiva e bico ortodôntico",
+			"Pulsação de 1400 pulsos por minuto",
+			"Pressão da água de 10 a 100PSI"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de bancada"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "650mL"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "floss, massagem"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "10 níveis ajustáveis"
+			},
+			{
+				"label": "Frequência de pulsação",
+				"value": "1400 pulsos/min"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "3x padrão, ortodôntico, removedor de placa, limpeza de gengiva, escova"
+			},
+			{
+				"label": "Pressão da água",
+				"value": "10 a 100PSI"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 33 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "665g"
+			}
+		]
+	},
+	{
+		"id": "waterpik-wp13-207ml",
+		"name": "Waterpik WP13 (207mL)",
+		"image": "/images/posts/melhor-irrigador-oral-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 207mL no modelo portátil",
+			"2 níveis de pressão ajustáveis",
+			"Pulsação de 1450 pulsos por minuto",
+			"Bico ortodôntico e removedor de placa",
+			"Peso de 363g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "207mL"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "2 níveis ajustáveis"
+			},
+			{
+				"label": "Frequência de pulsação",
+				"value": "1450 pulsos/min"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "2x padrão, ortodôntico, removedor de placa"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "363g"
+			}
+		]
+	},
+	{
+		"id": "multilaser-multi-hc037-600ml",
+		"name": "Multilaser Multi - HC037 (600mL)",
+		"image": "/images/posts/melhor-irrigador-oral-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 600mL e 10 níveis de pressão",
+			"Bico periodontal e limpador de língua",
+			"Rotação do bico de 360°",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de bancada"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "10 níveis ajustáveis"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "3x padrão, ortodôntico, removedor de placa, periodontal, limpador de língua"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,4 x 21,5 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "680g"
+			}
+		]
+	},
+	{
+		"id": "multilaser-multi-hc038-1-litro",
+		"name": "Multilaser Multi - HC038 (1 litro)",
+		"image": "/images/posts/melhor-irrigador-oral-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 1 litro, o maior da lista",
+			"Pressão da água de 150PSI, a maior da lista",
+			"Bico periodontal e limpador de língua",
+			"10 níveis de pressão ajustáveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de bancada"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1 litro"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "10 níveis ajustáveis"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "3x padrão, ortodôntico, removedor de placa, periodontal, limpador de língua"
+			},
+			{
+				"label": "Pressão da água",
+				"value": "150PSI"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15,7 x 22,5 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,265kg"
+			}
+		]
+	},
+	{
+		"id": "multilaser-multi-hc036-200ml",
+		"name": "Multilaser Multi - HC036 (200mL)",
+		"image": "/images/posts/melhor-irrigador-oral-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 200mL com bateria recarregável bivolt",
+			"4 níveis de pressão e modo massagem",
+			"Modos leve, moderado e normal de limpeza",
+			"Peso de 380g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "200mL"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "leve, moderado, normal, massagem"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "4 níveis ajustáveis"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "2 padrão"
+			},
+			{
+				"label": "Pressão da água",
+				"value": "100PSI"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,6 x 8 x 22,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "380g"
+			}
+		]
+	},
+	{
+		"id": "waterpulse-wp62-600ml",
+		"name": "Waterpulse WP62 (600mL)",
+		"image": "/images/posts/melhor-irrigador-oral-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 600mL e pressão de 145PSI",
+			"Proteção IPX7",
+			"Escova giratória e bico periodontal",
+			"Mangueira de 1,2 metro e ruído de até 75dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de bancada"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "10 níveis ajustáveis"
+			},
+			{
+				"label": "Frequência de pulsação",
+				"value": "1450 pulsos/min"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "3x padrão, periodontal, ortodôntico, removedor de placa, limpador de língua, escova giratória"
+			},
+			{
+				"label": "Pressão da água",
+				"value": "145PSI"
+			},
+			{
+				"label": "Proteção",
+				"value": "IPX7"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360°"
+			},
+			{
+				"label": "Tamanho da mangueira",
+				"value": "1,2 metro"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "até 75dB"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 10 x 9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "765g"
+			}
+		]
+	},
+	{
+		"id": "waterpik-wp100b-130ml",
+		"name": "Waterpik WP100B (130mL)",
+		"image": "/images/posts/melhor-irrigador-oral-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 níveis de pressão ajustáveis",
+			"Pulsação de 1400 pulsos por minuto",
+			"Pressão da água de 100PSI",
+			"Rotação do bico de 360º",
+			"Bico para limpeza de gengiva e escova inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de bancada"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL"
+			},
+			{
+				"label": "Níveis de pressão",
+				"value": "10 níveis ajustáveis"
+			},
+			{
+				"label": "Frequência de pulsação",
+				"value": "1400 pulsos/min"
+			},
+			{
+				"label": "Bicos inclusos",
+				"value": "padrão, removedor de placa, limpeza de gengiva, ortodôntico, limpador de língua, escova"
+			},
+			{
+				"label": "Pressão da água",
+				"value": "100PSI"
+			},
+			{
+				"label": "Rotação do bico",
+				"value": "360º"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "670g"
+			}
+		]
+	}
+]

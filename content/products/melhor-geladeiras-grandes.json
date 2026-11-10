@@ -1,0 +1,390 @@
+[
+	{
+		"id": "samsung-rs60t5200s9-az-628-litros",
+		"name": "Samsung (RS60T5200S9/AZ) 628 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dispenser de água e gelo com produção de até 1,5kg por dia",
+			"Tecnologia SpaceMax e Power Freeze",
+			"Acabamento resistente a impressões digitais",
+			"628 litros com selo Inmetro A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "628 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (37,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia SpaceMax; dispenser de água e gelo; gelo em cubos ou triturado; produção automática de até 1,5kg de gelo por dia com armazenamento de até 2kg; Power Cool; Power Freeze; alarme de porta aberta; função Trava; iluminação LED superior; 5 prateleiras na porta do refrigerador; 3 prateleiras na porta do freezer; 2 gavetas no refrigerador; acabamento resistente a impressões digitais; portas planas; puxadores embutidos; display LED interno e lateral"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91,2 x 72,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "108kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-im8b-590-litros",
+		"name": "Electrolux (IM8B) 590 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Gaveta HortiNatura e gaveta Hortifruti",
+			"Tecnologias AutoSense e TasteGuard",
+			"Modos Festa, Compras e Drinks",
+			"Compartimento extra-frio e prateleiras reversíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "596 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (32,6kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "fixas, reguláveis, retráteis, reversíveis e removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "AutoSense; TasteGuard; gaveta HortiNatura; gaveta Hortifruti; IceTwister; FastAdapt; EcoPlus; modos Festa, Compras e Drinks; porta-ovos; alarme de porta aberta; trava do painel; iluminação interna; porta reversível no freezer; gavetas com abertura total a 90°"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "190 x 83,5 x 74,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "98kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-is4s-435-litros",
+		"name": "Electrolux (IS4S) 435 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Turbo Freezer e Turbo Refrigerador",
+			"Modo Férias e gaveta Meat & Fish",
+			"Rodízios e pés niveladores",
+			"Alarme de porta aberta e trava do painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "440 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (38kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "AutoSense; Turbo Freezer; Turbo Refrigerador; modo Férias; IceTwister; gaveta Hortifruti; gaveta Meat & Fish; porta-ovos; alarme de porta aberta; trava do painel; iluminação LED no refrigerador e freezer; puxadores embutidos; pés niveladores; rodízios"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91 x 59cm"
+			},
+			{
+				"label": "Peso",
+				"value": "75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-brm62ak-512-litros",
+		"name": "Brastemp (BRM62AK) 512 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fresh Protein com IA e Carbon AirFilter",
+			"Turbo Freezer e compartimento extra-frio",
+			"Prateleiras Infinity e forma de gelo",
+			"Painel digital touch e bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "512 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (29,0kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia B= Smart; Smart Sensor; Fresh Space; Fresh Protein com IA; Safe Power; Smart Flow; Carbon AirFilter; tecnologia Bvox; B=Design; Turbo Freezer; modos Festa e Compras; controle Air Flow; Cold Zone; Prateleiras Infinity; forma de gelo; porta-ovos; prateleira para garrafas com separador; iluminação LED; pés niveladores; gaveta de frutas e legumes"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "194,3 x 70,5 x 74cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "hq-426mdff-426-litros",
+		"name": "HQ (426MDFF) 426 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação A+++ com 30,3kWh por mês",
+			"Tecnologia inverter com gás R600a",
+			"Nível de ruído de 39dB",
+			"Controle de umidade com Fresh Box"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "426 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A+++ (30,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "controle independente de temperatura; resfriamento e congelamento rápidos; tecnologia inverter com ajuste automático do compressor; função inteligente com ajuste conforme volume interno; tecnologia Fresh Box com controle de umidade; alarme de porta aberta; iluminação interna; porta ovos; porta latas; recipiente de gelo; pés niveladores; porta reversível; acabamento em aço com tratamento antimarcas; gás refrigerante R600a; nível de ruído de 39dB"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "185 x 73 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "76kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf70-432-litros",
+		"name": "Electrolux (TF70) 432 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Consumo de 27kWh por mês, o menor da lista",
+			"Compartimento extra-frio e função Turbo",
+			"Porta-ovos para 12 unidades",
+			"Compatível com filtro ExtraFresh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "432 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (27kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "deslizantes, removíveis e reversíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "AutoSense; HortiNatura; MoveAdapt; IceMax; TurboFreezer; função Turbo; alarme de porta aberta; iluminação LED; porta-ovos para 12 unidades; puxador com material parcialmente reciclado; rodízios; pés niveladores; compatibilidade com filtro ExtraFresh"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176 x 70 x 73,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "66kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bro85mk-559-litros",
+		"name": "Brastemp (BRO85MK) 559 litros",
+		"image": "/images/posts/melhor-geladeiras-grandes-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Xpert Inverter e Turbo Freezer",
+			"Funções Latas, Espumante e Turbo 10",
+			"Cesto Delicates e cestos no freezer",
+			"Modos Festa, Compras e Férias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "559 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "selo Inmetro A (31,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "Xpert Inverter; Safe Power; Fresh Box; Smart Cold; Carbon AirFilter; Smart Flow; Climate Adapt; tecnologia Bvox; Twist Ice Advanced; Prateleiras Infinity; Turbo Ice; Turbo Zone; Turbo Freezer; funções Latas, Espumante e Turbo 10; modos Festa, Compras e Férias; iluminação interna em LED; gaveta de frutas e legumes; cesto Delicates; cestos no freezer; separador de garrafas; porta-ovos; recipiente para gelo; alarme de porta aberta; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "185,7 x 83,6 x 79,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

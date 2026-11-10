@@ -1,0 +1,392 @@
+[
+	{
+		"id": "hq-hq-400cf2dx1-400-litros",
+		"name": "HQ (HQ-400CF2DX1) 400 litros",
+		"image": "/images/posts/melhor-freezer-hq-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"400 litros de capacidade no modelo horizontal",
+			"Classificação A+++ e consumo de 41,17kWh por mês",
+			"Termostato com ajuste e temperatura mínima de -18°C",
+			"Compressor e tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "41,17kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "82,5 x 127,5 x 74cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-300cfx-300-litros",
+		"name": "HQ (HQ-300CFX) 300 litros",
+		"image": "/images/posts/melhor-freezer-hq-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"300 litros com classificação A+++",
+			"Consumo de 33,3kWh por mês e compressor",
+			"Um cesto e controle mecânico de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "33,3kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84,5 x 111,6 x 64,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "41kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-200cfx-200-litros",
+		"name": "HQ (HQ-200CFX) 200 litros",
+		"image": "/images/posts/melhor-freezer-hq-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"200 litros com consumo de 24,4kWh por mês",
+			"Classificação energética A+++ e controle mecânico",
+			"Peso de 28kg e medidas de 84,5 x 82,7 x 55,6cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "200 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "24,4kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84,5 x 82,7 x 55,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-250cfx-250-litros",
+		"name": "HQ (HQ-250CFX) 250 litros",
+		"image": "/images/posts/melhor-freezer-hq-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"250 litros com consumo de 28,85kWh por mês",
+			"Classificação A+++ e compressor",
+			"Um cesto e medidas de 84,5 x 95 x 64,4cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "250 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "28,85kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84,5 x 95 x 64,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "37kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-160cfh-160-litros",
+		"name": "HQ (HQ-160CFH) 160 litros",
+		"image": "/images/posts/melhor-freezer-hq-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor consumo da lista, com 20,36kWh por mês",
+			"160 litros com classificação A+++",
+			"Compressor e temperatura mínima de -18°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "160 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "20,36kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "––"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "82 x 66,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-400cfx-400-litros",
+		"name": "HQ (HQ-400CFX) 400 litros",
+		"image": "/images/posts/melhor-freezer-hq-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"400 litros com classificação energética A+++",
+			"Consumo de 41,12kWh por mês e compressor",
+			"Um cesto e controle mecânico de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "41,12kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "82,5 x 127,5 x 74cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-290fv-290-litros",
+		"name": "HQ (HQ-290FV) 290 litros",
+		"image": "/images/posts/melhor-freezer-hq-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo vertical com 290 litros de capacidade",
+			"Condensador Inside e temperatura mínima de -18°C",
+			"Classificação A+++ e consumo de 26,88kWh por mês"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade",
+				"value": "290 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+++"
+			},
+			{
+				"label": "Consumo",
+				"value": "26,88kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "mecânico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "-18ºC"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "condensador Inside"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "148 x 60 x 77,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "52kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

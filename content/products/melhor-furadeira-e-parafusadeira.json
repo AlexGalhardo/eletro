@@ -1,0 +1,378 @@
+[
+	{
+		"id": "bosch-gsb13-re-m-750w",
+		"name": "Bosch GSB13-RE-M 750W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 750W com torque máximo de 1,8Nm",
+			"Função de impacto com velocidade variável e reversível",
+			"Botão de bloqueio para trabalho contínuo",
+			"Cabo de 2 metros, o mais longo desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "750W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 2 metros"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3800RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "1,8Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável e reversível; botão de bloqueio para trabalho contínuo; empunhadura emborrachada para maior conforto"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "empunhadeira auxiliar; limitador de profundidade; chave de mandril"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "27,2 x 7 x 19,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	},
+	{
+		"id": "wap-wf-700k10-700w",
+		"name": "WAP WF-700K10 700W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 40Nm, o maior informado nesta lista",
+			"Kit com brocas para madeira e alvenaria, trena e maleta",
+			"Reversão de rotação para parafusar e desparafusar",
+			"Punho auxiliar multidirecional e empunhadura ergonômica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "700W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 1 metro"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "40Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável; reversão de rotação para parafusar e desparafusar; botão de trava; empunhadura ergonômica"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "punho auxiliar multidirecional; limitador de profundidade; trena de 3 metros; chave Philips; chave de fenda; brocas para madeira (6mm e 8mm); brocas para alvenaria (5mm, 6mm e 8mm); martelo; maleta para transporte"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "25 x 20,2 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gsb450-re-450w",
+		"name": "Bosch GSB450-RE 450W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 450W, a menor potência desta lista",
+			"Torque máximo de 14,73Nm e velocidade de 3100RPM",
+			"Função de impacto com velocidade variável",
+			"Design compacto para fácil manuseio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "450W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 1 metro"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3100RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "14,73Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável; reversão de rotação para parafusar e desparafusar; botão de trava para trabalho contínuo; design compacto para fácil manuseio"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril; manual"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "23,5 x 7 x 17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "eos-maxpro-750w",
+		"name": "Eos Maxpro 750W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 750W com cabo de 1,80 metro",
+			"Mandril de 13mm com chave incluída",
+			"Empunhadura auxiliar e régua de profundidade",
+			"Velocidade de 3000RPM com função de impacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "750W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 1,80 metro"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3000RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm) com chave"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável; reversão de rotação para parafusar e desparafusar; botão de trava para trabalho contínuo; empunhadura emborrachada para melhor manuseio"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "empunhadura auxiliar; régua de profundidade; chave para mandril"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "18 x 20 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gsb550-550w",
+		"name": "Bosch GSB550 550W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 550W com cabo de 1,60 metro",
+			"Mandril de 13mm com chave de mandril incluída",
+			"Design compacto para fácil manuseio",
+			"Reversão de rotação e botão de trava"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "550W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 1,60 metro"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "3100RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/2″ (13mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável; reversão de rotação para parafusar e desparafusar; botão de trava para trabalho contínuo; design compacto para fácil manuseio"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "18 x 20 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-nffi-07m-650w",
+		"name": "Mondial NFFI-07M 650W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maleta com 11 acessórios, incluindo 5 brocas",
+			"Sistema de reversão para facilitar a remoção da broca",
+			"Empunhadura lateral multiposição para melhor controle",
+			"Velocidade variável e reversível com função de impacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "650W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 1 metro"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "2800RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; velocidade variável e reversível; sistema de reversão para facilitar a remoção da broca; empunhadura lateral multiposição para melhor controle; botão de trava para uso contínuo"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta com 11 acessórios: 1 chave de mandril, 1 empunhadura lateral multiposição, 1 martelo, 1 limitador de profundidade, 1 trena, 1 chave de fenda/chave Philips, 5 brocas"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "21,5 x 30,5 x 6,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,39kg"
+			}
+		]
+	},
+	{
+		"id": "black-decker-tm500-560w",
+		"name": "Black Decker TM500 560W",
+		"image": "/images/posts/melhor-furadeira-e-parafusadeira-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 560W com função de impacto",
+			"Design ergonômico para maior conforto",
+			"Botão de trava para uso contínuo",
+			"Mandril de 10mm e velocidade de 2800RPM"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência do motor",
+				"value": "560W"
+			},
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo de 70 centímetros"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "2800RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto; design ergonômico para maior conforto; botão de trava para uso contínuo"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "chave de mandril"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "29 x 8 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	}
+]

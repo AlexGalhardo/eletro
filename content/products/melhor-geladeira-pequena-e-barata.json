@@ -1,0 +1,394 @@
+[
+	{
+		"id": "brastemp-brm44h-375-litros",
+		"name": "Brastemp BRM44H 375 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 375 litros com frost free",
+			"Compartimento extra-frio e Selo Procel A",
+			"Gavetão Fresh Zone e compartimento para latas e long necks",
+			"Controle com 5 níveis e mostrador frontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "375 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (54kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "compartimento para latas e long necks; painel eletrônico externo; gavetão de legumes Fresh Zone; compartimento de acesso rápido; espaço para temperos; recipiente para gelo; pés niveladores; proteção contra corrosão"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "5 níveis, com mostrador frontal e painel externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176 x 62,1 x 75,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crd37-334-litros",
+		"name": "Consul CRD37 334 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 334 litros com cycle defrost",
+			"Selo A com consumo de 43,5kW/h",
+			"Gavetão hortifruti e compartimento gelo extra",
+			"Prateleiras removíveis em vidro e termostato ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "334 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (43,5kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis em vidro"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão hortifruti; compartimento gelo extra; pés niveladores; recipiente para guardar gelo"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "166,9 x 60,3 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf39-310-litros",
+		"name": "Electrolux TF39 310 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 315 litros com frost free",
+			"Selo A com consumo de 43,6kW/h",
+			"Prateleiras removíveis de vidro temperado",
+			"Alarme de porta aberta e turbo congelamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "315 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (43,6kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis em vidro temperado"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão de frutas e legumes; painel externo com drink express e turbo congelamento; formas de gelo suspensas; rodízios; puxador ergonômico; alarme de porta aberta; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel eletrônico externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "171,5 x 60 x 61,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-re31-240-litros",
+		"name": "Electrolux RE31 240 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 240 litros com cycle defrost",
+			"Selo A com consumo de 23,3kW/h",
+			"Gaveta extrafria e porta-latas para 5 unidades",
+			"Controle externo de temperatura e dimensões de 140,6 x 55 x 61,1cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "240 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (23,3kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "porta-latas reversível para 5 unidades; gaveta extrafria; separador de garrafas; controle externo de temperatura; cesta porta ovos; recipiente para guardar gelo; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "140,6 x 55 x 61,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "39kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crb36ab-300-litros",
+		"name": "Consul CRB36AB 300 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 300 litros com compartimento extra-frio",
+			"Selo A com consumo de 35,55kW/h",
+			"Prateleiras reguláveis com 9 níveis de altura",
+			"Gaveta multiuso e porta-latas para 6 unidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "300 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (35,55kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "frost free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "reguláveis com 9 níveis de altura"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão hortifruti; porta-latas para 6 unidades; controle externo de temperatura; gaveta multiuso; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "153,9 x 61,6 x 69,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "48kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux DC35A 260 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 260 litros com Super Freezer -18°C",
+			"Selo A com consumo de 38,4kW/h",
+			"Porta-latas reversível e separador de garrafas",
+			"Peso de 49kg e dimensões de 161,9 x 54,8 x 61,3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "260 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (38,4kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "cycle defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "Super Freezer -18°C; porta-latas reversível para 5 unidades; separador de garrafas; cesta porta ovos; recipiente para guardar gelo; pés niveladores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,9 x 54,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-140rdf-140-litros",
+		"name": "HQ 140RDF 140 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-e-barata-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 140 litros e sistema defrost",
+			"Selo A com consumo de 26,73kW/h",
+			"Controle mecânico de temperatura com 7 níveis",
+			"Gavetão para frutas e verduras e porta reversível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "140 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (26,73kW/h)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis em vidro"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gavetão para frutas e verduras; porta reversível; controle mecânico de temperatura com 7 níveis; iluminação interna"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botão ajustável (nível 1 a 7)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "126 x 49 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

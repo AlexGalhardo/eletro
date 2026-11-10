@@ -1,0 +1,297 @@
+[
+	{
+		"id": "vonder-ilv-1809",
+		"name": "Vonder ILV 1809",
+		"image": "/images/posts/melhor-lanterna-vonder-1-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 180 lúmens em formato de mão",
+			"Bateria recarregável, sem gastar pilhas",
+			"Material em plástico e borracha",
+			"Dimensões de 8,5 x 19,5 x 13cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de mão"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e borracha"
+			},
+			{
+				"label": "Potência",
+				"value": "180 lúmens"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Resistência",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8,5 x 19,5 x 13cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "vonder-llv-2500",
+		"name": "Vonder LLV 2500",
+		"image": "/images/posts/melhor-lanterna-vonder-2-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000 lúmens, a maior da lista",
+			"Corpo em alumínio para uso de mão",
+			"Foco ajustável e três modos de luz",
+			"Funciona com 3 pilhas D"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de mão"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alta; média; intermitente"
+			},
+			{
+				"label": "Foco",
+				"value": "ajustável"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "3 pilhas D"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv-120",
+		"name": "Vonder LCV 120",
+		"image": "/images/posts/melhor-lanterna-vonder-3-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de cabeça de apenas 75g",
+			"Três modos de luz: alta, baixa e intermitente",
+			"Funciona com 3 pilhas AAA",
+			"Potência de 120 lúmens em material plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de cabeça"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "120 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alta, baixa e intermitente"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "3 pilhas AAA"
+			},
+			{
+				"label": "Peso",
+				"value": "75g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lr-180i",
+		"name": "Vonder LR 180i",
+		"image": "/images/posts/melhor-lanterna-vonder-4-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Holofote com LED COB de 180 lúmens",
+			"Carregamento por USB-A para USB-C",
+			"Autonomia de 2 horas",
+			"Revestimento emborrachado em ABS"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "holofote"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS com acabamento emborrachado"
+			},
+			{
+				"label": "Potência",
+				"value": "LED: 12 lúmens / LED COB: 180 lúmens"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria de lítio recarregável via USB-A para USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "2 horas"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv-150",
+		"name": "Vonder LCV 150",
+		"image": "/images/posts/melhor-lanterna-vonder-5-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 150 lúmens no modelo de cabeça",
+			"Bateria de lítio recarregável",
+			"Corpo em ABS com 170g de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de cabeça"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Potência",
+				"value": "150 lúmens"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria de lítio recarregável"
+			},
+			{
+				"label": "Peso",
+				"value": "170g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lrv-100l",
+		"name": "Vonder LRV 100L",
+		"image": "/images/posts/melhor-lanterna-vonder-6-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de 200 metros",
+			"Luz frontal de 80 lúmens e lateral de 100 lúmens",
+			"Peso de 84g para uso de mão",
+			"Bateria de lítio recarregável via mini USB-A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de mão"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Potência",
+				"value": "80 lúmens (frontal) e 100 lúmens (lateral)"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "200 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria de lítio recarregável via mini USB-A"
+			},
+			{
+				"label": "Peso",
+				"value": "84g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv-300",
+		"name": "Vonder LCV 300",
+		"image": "/images/posts/melhor-lanterna-vonder-7-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação IP65 e IK07 de resistência",
+			"Dois estágios: 100 lúmens e 300 lúmens",
+			"Autonomia de 5h30 no primeiro estágio",
+			"Peso de 110g com revestimento emborrachado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de cabeça"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS com revestimento emborrachado"
+			},
+			{
+				"label": "Potência",
+				"value": "100 lúmens (1° estágio) / 300 lúmens (2º estágio)"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alta; baixa"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria de lítio recarregável via USB-A"
+			},
+			{
+				"label": "Autonomia",
+				"value": "5 horas e 30 minutos (1° estágio) / 2 horas (2° estágio)"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP65; IK07"
+			},
+			{
+				"label": "Peso",
+				"value": "110g"
+			}
+		]
+	}
+]

@@ -7,8 +7,8 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 327 posts, 64 fora de rascunho, 263 rascunhos,
-381 links de afiliado e 5473 pendentes.
+Total: 412 posts, 64 fora de rascunho, 348 rascunhos,
+381 links de afiliado e 7240 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
@@ -296,15 +296,100 @@ Total: 327 posts, 64 fora de rascunho, 263 rascunhos,
 | [melhor-forno-eletrico-de-bancada](../content/posts/melhor-forno-eletrico-de-bancada.mdx) | Forno Elétrico de Bancada 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-forno-eletrico-de-embutir](../content/posts/melhor-forno-eletrico-de-embutir.mdx) | Melhores Fornos de Embutir 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-forno-eletrico-fischer](../content/posts/melhor-forno-eletrico-fischer.mdx) | Melhor Forno Elétrico Fischer 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-mondial](../content/posts/melhor-forno-eletrico-mondial.mdx) | Forno Elétrico Mondial 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-pequeno](../content/posts/melhor-forno-eletrico-pequeno.mdx) | Melhores Fornos Elétricos Pequenos de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-forno-eletrico-philco](../content/posts/melhor-forno-eletrico-philco.mdx) | Melhores Fornos Elétricos Philco de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-forno-eletrico-suggar](../content/posts/melhor-forno-eletrico-suggar.mdx) | 5 Melhores Modelos Forno Elétrico Suggar 2026 | cozinha | false | 5 | 5 | 0 |
+| [melhor-forno-nardelli](../content/posts/melhor-forno-nardelli.mdx) | Forno Nardelli 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-freezer-barato](../content/posts/melhor-freezer-barato.mdx) | Melhores Freezers de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-freezer-horizontal-2-portas](../content/posts/melhor-freezer-horizontal-2-portas.mdx) | Freezers Horizontais: 7 Modelos Comparados em 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-freezer-hq](../content/posts/melhor-freezer-hq.mdx) | Melhor Freezer HQ 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-freezer-philco](../content/posts/melhor-freezer-philco.mdx) | Freezer Philco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-freezer-vertical](../content/posts/melhor-freezer-vertical.mdx) | Melhores Freezers Verticais de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-frigideira-tramontina](../content/posts/melhor-frigideira-tramontina.mdx) | Melhores Frigideiras Tramontina de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-frigobar](../content/posts/melhor-frigobar.mdx) | Melhores Frigobares de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-frigobar-consul](../content/posts/melhor-frigobar-consul.mdx) | Melhores Frigobares Consul 2026: 6 Modelos Comparados | cozinha | true | 6 | 0 | 18 |
+| [melhor-frigobar-eos](../content/posts/melhor-frigobar-eos.mdx) | Melhores Frigobares EOS 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-frigobar-hq](../content/posts/melhor-frigobar-hq.mdx) | Frigobar HQ de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-frigobar-midea](../content/posts/melhor-frigobar-midea.mdx) | Frigobares Midea de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-furadeira-bosch](../content/posts/melhor-furadeira-bosch.mdx) | Melhor Furadeira Bosch Para Comprar 2026 | ferramentas | false | 7 | 7 | 0 |
+| [melhor-furadeira-e-parafusadeira](../content/posts/melhor-furadeira-e-parafusadeira.mdx) | Melhores Furadeiras e Parafusadeiras 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-furadeira-wap](../content/posts/melhor-furadeira-wap.mdx) | Melhores Furadeiras WAP 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-gabinete-para-banheiro](../content/posts/melhor-gabinete-para-banheiro.mdx) | Melhores Gabinetes para Banheiro de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-garrafa-stanley](../content/posts/melhor-garrafa-stanley.mdx) | Garrafa Stanley 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafa-stanley-1-litro](../content/posts/melhor-garrafa-stanley-1-litro.mdx) | Garrafas Stanley de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafa-termica-infantil](../content/posts/melhor-garrafa-termica-infantil.mdx) | Melhores Garrafas Térmicas Infantis de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafa-termica-modus](../content/posts/melhor-garrafa-termica-modus.mdx) | Garrafa Térmica Modus 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafa-termica-para-cafe](../content/posts/melhor-garrafa-termica-para-cafe.mdx) | Melhores Garrafas Térmicas para Café 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafao-termico](../content/posts/melhor-garrafao-termico.mdx) | Melhores Garrafões Térmicos 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-garrafas-termicas](../content/posts/melhor-garrafas-termicas.mdx) | Melhores Garrafas Térmicas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-2-portas-electrolux](../content/posts/melhor-geladeira-2-portas-electrolux.mdx) | Geladeira 2 Portas Electrolux 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-3-portas](../content/posts/melhor-geladeira-3-portas.mdx) | Geladeira 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-barata](../content/posts/melhor-geladeira-barata.mdx) | Melhor Geladeira Barata 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-brastemp](../content/posts/melhor-geladeira-brastemp.mdx) | Melhores Geladeiras Brastemp de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-com-agua-na-porta](../content/posts/melhor-geladeira-com-agua-na-porta.mdx) | Geladeiras com Água na Porta 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-custo-beneficio](../content/posts/melhor-geladeira-custo-beneficio.mdx) | Melhores Geladeiras Custo-Benefício de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-cycle-defrost](../content/posts/melhor-geladeira-cycle-defrost.mdx) | Melhor Geladeira Cycle Defrost 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-duplex-menor-preco](../content/posts/melhor-geladeira-duplex-menor-preco.mdx) | Geladeira Duplex Menor Preço 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-electrolux-inox](../content/posts/melhor-geladeira-electrolux-inox.mdx) | Melhores Geladeiras Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-geladeira-eos](../content/posts/melhor-geladeira-eos.mdx) | Melhores Geladeiras EOS para Comprar em 2026 | cozinha | false | 5 | 5 | 0 |
 | [melhor-geladeira-esmaltec](../content/posts/melhor-geladeira-esmaltec.mdx) | Melhores Geladeiras Esmaltec 2026 | cozinha | false | 6 | 6 | 0 |
+| [melhor-geladeira-expositora](../content/posts/melhor-geladeira-expositora.mdx) | Geladeira Expositora 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-expositora-pequena](../content/posts/melhor-geladeira-expositora-pequena.mdx) | Expositora Pequena 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-french-door](../content/posts/melhor-geladeira-french-door.mdx) | Melhores Geladeiras French Door 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-frost-free](../content/posts/melhor-geladeira-frost-free.mdx) | Melhores Geladeiras Frost Free 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-inox](../content/posts/melhor-geladeira-inox.mdx) | Melhores Geladeiras Inox 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-midea](../content/posts/melhor-geladeira-midea.mdx) | Melhores Geladeiras Midea 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-panasonic](../content/posts/melhor-geladeira-panasonic.mdx) | Geladeiras Panasonic de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-para-caminhao](../content/posts/melhor-geladeira-para-caminhao.mdx) | Melhores Geladeiras para Caminhão 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-geladeira-pequena](../content/posts/melhor-geladeira-pequena.mdx) | Geladeira Pequena 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-pequena-e-barata](../content/posts/melhor-geladeira-pequena-e-barata.mdx) | Geladeira Pequena e Barata 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-philco](../content/posts/melhor-geladeira-philco.mdx) | Geladeiras Philco de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeira-portatil](../content/posts/melhor-geladeira-portatil.mdx) | Melhor Geladeira Portátil 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras](../content/posts/melhor-geladeiras.mdx) | Melhores Geladeiras 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras-consul](../content/posts/melhor-geladeiras-consul.mdx) | Geladeira Consul 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras-duplex](../content/posts/melhor-geladeiras-duplex.mdx) | Geladeiras Duplex em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras-grandes](../content/posts/melhor-geladeiras-grandes.mdx) | Melhores Geladeiras Grandes 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras-hq](../content/posts/melhor-geladeiras-hq.mdx) | Melhores Geladeiras HQ 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-geladeiras-side-by-side](../content/posts/melhor-geladeiras-side-by-side.mdx) | Melhores Geladeiras Side by Side 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-gerador-gasolina](../content/posts/melhor-gerador-gasolina.mdx) | Os Melhores Geradores De Gasolina em 2026 | ferramentas | false | 5 | 5 | 0 |
+| [melhor-grill-eletrico](../content/posts/melhor-grill-eletrico.mdx) | Melhores Grills Elétricos de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-grill-redondo](../content/posts/melhor-grill-redondo.mdx) | 5 Modelos De Grill Redondo Para Comprar 2026 | cozinha | false | 5 | 5 | 0 |
+| [melhor-growler](../content/posts/melhor-growler.mdx) | Growler Térmico 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-inalador-omron](../content/posts/melhor-inalador-omron.mdx) | Melhor Inalador Omron 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-irrigador-oral](../content/posts/melhor-irrigador-oral.mdx) | Melhores Irrigadores Orais 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-jogo-de-copo](../content/posts/melhor-jogo-de-copo.mdx) | Melhores Jogos de Copos de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-jogo-de-facas-tramontina](../content/posts/melhor-jogo-de-facas-tramontina.mdx) | Melhores Facas Tramontina de 2026: 7 Jogos | cozinha | true | 7 | 0 | 21 |
+| [melhor-jogo-de-panela](../content/posts/melhor-jogo-de-panela.mdx) | Melhores Jogos de Panela 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-jogo-de-xicaras-de-cafe](../content/posts/melhor-jogo-de-xicaras-de-cafe.mdx) | Jogos de Xícaras de Café 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-lampiao-led](../content/posts/melhor-lampiao-led.mdx) | Melhores Lampiões LED de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-de-cabeca](../content/posts/melhor-lanterna-de-cabeca.mdx) | Melhores Lanternas de Cabeça de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-de-cabeca-recarregavel](../content/posts/melhor-lanterna-de-cabeca-recarregavel.mdx) | Melhores Lanternas de Cabeça de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-de-mao](../content/posts/melhor-lanterna-de-mao.mdx) | Melhores Lanternas de Mão de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-para-bicicleta](../content/posts/melhor-lanterna-para-bicicleta.mdx) | Melhores Lanternas para Bicicleta de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-para-caca](../content/posts/melhor-lanterna-para-caca.mdx) | Melhores Lanternas para Caça de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-profissional](../content/posts/melhor-lanterna-profissional.mdx) | Melhores Lanternas Profissionais de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-tatica](../content/posts/melhor-lanterna-tatica.mdx) | Melhores Lanternas Táticas de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lanterna-vonder](../content/posts/melhor-lanterna-vonder.mdx) | Lanternas Vonder em 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lava-e-seca](../content/posts/melhor-lava-e-seca.mdx) | Melhores Lava e Seca de 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
 | [melhor-lava-e-seca-11-kg](../content/posts/melhor-lava-e-seca-11-kg.mdx) | As Melhores Lava e Seca 11kg de 2026 | lavanderia | false | 7 | 4 | 3 |
+| [melhor-lava-e-seca-lg](../content/posts/melhor-lava-e-seca-lg.mdx) | Melhores Lava e Seca LG 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
+| [melhor-lava-e-seca-samsung](../content/posts/melhor-lava-e-seca-samsung.mdx) | Melhores Lava e Seca Samsung 2026: 7 Modelos | lavanderia | true | 7 | 0 | 21 |
+| [melhor-lava-loucas-10-servicos](../content/posts/melhor-lava-loucas-10-servicos.mdx) | Lava-Louças de 10 Serviços em 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-lava-loucas-brastemp](../content/posts/melhor-lava-loucas-brastemp.mdx) | Lava-Louças Brastemp 2026: 6 Modelos Comparados | cozinha | true | 6 | 0 | 18 |
+| [melhor-lava-loucas-electrolux](../content/posts/melhor-lava-loucas-electrolux.mdx) | Melhores Lava-Louças Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-lava-seca-midea](../content/posts/melhor-lava-seca-midea.mdx) | 5 Melhores Lava E Seca Midea em 2026 | lavanderia | false | 5 | 5 | 0 |
 | [melhor-lavadora-alta-pressao-tekna](../content/posts/melhor-lavadora-alta-pressao-tekna.mdx) | Melhores lavadoras de alta pressão Tekna em 2026 | limpeza | false | 7 | 7 | 0 |
+| [melhor-lavadora-de-alta-pressao](../content/posts/melhor-lavadora-de-alta-pressao.mdx) | Lavadora de Alta Pressão 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-barata](../content/posts/melhor-lavadora-de-alta-pressao-barata.mdx) | Lavadoras Baratas de Pressão em 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-bosch](../content/posts/melhor-lavadora-de-alta-pressao-bosch.mdx) | Melhores Lavadoras Bosch 2026: 4 Modelos Comparados | limpeza | true | 4 | 0 | 12 |
+| [melhor-lavadora-de-alta-pressao-karcher](../content/posts/melhor-lavadora-de-alta-pressao-karcher.mdx) | Melhor Lavadora Kärcher 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-pequena](../content/posts/melhor-lavadora-de-alta-pressao-pequena.mdx) | Lavadoras de Alta Pressão: 7 Modelos em 2026 | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-philco](../content/posts/melhor-lavadora-de-alta-pressao-philco.mdx) | Melhores Lavadoras Philco 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-profissional](../content/posts/melhor-lavadora-de-alta-pressao-profissional.mdx) | Melhores Lavadoras de Alta Pressão 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-tramontina](../content/posts/melhor-lavadora-de-alta-pressao-tramontina.mdx) | Melhores Lavadoras de Alta Pressão Tramontina 2026 | limpeza | true | 6 | 0 | 18 |
+| [melhor-lavadora-de-alta-pressao-vonder](../content/posts/melhor-lavadora-de-alta-pressao-vonder.mdx) | Melhores Lavadoras Vonder de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-lavadora-de-alta-pressao-wap](../content/posts/melhor-lavadora-de-alta-pressao-wap.mdx) | Lavadora de Alta Pressão WAP 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
 | [melhor-lavadora-de-roupas-colormaq](../content/posts/melhor-lavadora-de-roupas-colormaq.mdx) | Top Modelos Lavadora de Roupas Colormaq 2026 | lavanderia | false | 7 | 6 | 1 |
 | [melhor-maquina-lavar-brastemp](../content/posts/melhor-maquina-lavar-brastemp.mdx) | Top Modelos Máquina de Lavar Brastemp 2026 | lavanderia | false | 7 | 6 | 1 |
 | [melhor-maquina-lavar-consul](../content/posts/melhor-maquina-lavar-consul.mdx) | Melhor Máquina de Lavar Consul: Ranking Completo | lavanderia | false | 7 | 6 | 1 |

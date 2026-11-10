@@ -1,0 +1,230 @@
+[
+	{
+		"id": "bosch-ghp-4-50-2500psi-2200w",
+		"name": "Bosch GHP 4-50 (2500psi) 2200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-bosch-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 2500psi, a maior desta lista",
+			"Tecnologia Quad-Pump com cilindro extra",
+			"Mangueira reforçada em aço de 9 metros",
+			"Alça telescópica em alumínio e rodas resistentes",
+			"Garantia de 2 anos Bosch com cadastro para mais 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2200W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "440L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "9 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola; lança de jato rotativo (turbo); lança de jato variável; filtro externo de alumínio; mangueira reforçada em aço de 9 metros"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Quad-Pump com cilindro extra; sistema externo de filtragem dupla de água; rodas resistentes; alça telescópica em alumínio; uso Heavy Duty; garantia 2 anos Bosch + 1 ano adicional mediante cadastro no aplicativo BeConnected"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100 x 36,4 x 35,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,2kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-ghp-220-2000psi-2100w",
+		"name": "Bosch GHP 220 (2000psi) 2100W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-bosch-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 360L/h com motor de indução",
+			"Mangueira de 8 metros com engate rápido",
+			"Sistema externo de filtragem dupla de água",
+			"Economia de água em relação à limpeza manual",
+			"Garantia de 1 ano Bosch com cadastro para mais 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2100W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2200psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "360L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "8 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola e lança de alta pressão; bico de jato variável; bico de jato rotativo (turbo); filtro externo; adaptador de mangueira de engate rápido; mangueira de 8 metros"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema externo de filtragem dupla de água; rodas resistentes; cabo telescópico em alumínio; economia de água em comparação à limpeza manual; uso Bosch Professional; garantia 1 ano Bosch + 1 ano adicional mediante cadastro no aplicativo BeConnected"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90,5 x 37 x 32,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17,8kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-ghp-180-1800psi-1500w",
+		"name": "Bosch GHP 180 (1800psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-bosch-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor universal de 1500W e pressão de 1800psi",
+			"Sem necessidade de montagem",
+			"Alça dobrável para guardar o aparelho",
+			"Aplicador de detergente e bico turbo",
+			"Garantia de 1 ano Bosch com cadastro para mais 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1800psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "240L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola e lança de alta pressão; bico de jato rotativo (turbo); bico de jato variável; aplicador de detergente; filtro externo; adaptador de mangueira de engate rápido; mangueira de 5 metros"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema externo de filtragem dupla de água; alça dobrável; sem necessidade de montagem; garantia 1 ano Bosch + 1 ano adicional mediante cadastro no aplicativo BeConnected"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "76,1 x 31,2 x 33,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-ghp-200-2000psi-1700w",
+		"name": "Bosch GHP 200 (2000psi) 1700W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-bosch-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba por placa oscilante para pressão de 2000psi",
+			"Pistões em aço inoxidável triplo",
+			"Função de escorvamento automático com fonte externa",
+			"Armazenamento embutido da mangueira",
+			"Conexões push-fit e alça dobrável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1700W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2000psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "série"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "6 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de alta pressão; bico rotativo; bico variável; lança; bico de detergente; gatilho; conector de encaixe; filtro de água"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de bomba por placa oscilante; pistões em aço inoxidável triplo; sistema duplo de filtragem de água; alça dobrável; conexões push-fit; adaptador de mangueira; função de escorvamento automático para uso com fonte de água externa; armazenamento embutido da mangueira; armazenamento da pistola em uso"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "76,1 x 33,3 x 31,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			}
+		]
+	}
+]

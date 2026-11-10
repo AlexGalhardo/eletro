@@ -1,0 +1,397 @@
+[
+	{
+		"id": "philco-plas4000-1950psi-1700w",
+		"name": "Philco PLAS4000 (1950psi) 1700W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lavadora e aspirador 2 em 1 com uso independente",
+			"Pressão de 1950psi e vazão de 300L/h",
+			"Sistema de sabão com pescador e jato até 60°",
+			"Proteção térmica com desligamento automático",
+			"Proteção IPX5 e rodinhas para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1700W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1950psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola; ponteira reguladora de jato; ponteira escova; mangueira de alta pressão; mangueira articulada do aspirador; acessório para limpar estofados; acessório para cantos; acessório escova; filtro do aspirador"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; sistema de sabão com pescador; jato ajustável até 60°; engate rápido com filtro lavável; rodinhas para transporte; porta acessórios; função blower; aspiração de pó e água; proteção térmica com desligamento automático; lavadora e aspirador 2 em 1 com uso independente; proteção IPX5"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 34 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pla3100-2100psi-1800w",
+		"name": "Philco PLA3100 (2100psi) 1800W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 2100psi, a maior desta lista",
+			"Vazão de 420L/h para mais rendimento",
+			"Ponteira de dupla função entre sabão e água",
+			"Jato regulável com filtro de água",
+			"Rodas e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1800W"
+			},
+			{
+				"label": "Pressão",
+				"value": "2100psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "420L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; lança com bico regulável; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; jato regulável; filtro de água; rodas para transporte; alça para transporte; porta acessórios; ponteira de dupla função (alterna entre sabão e água)"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78,1 x 35,3 x 28,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plp2600-1800psi-1600w",
+		"name": "Philco PLP2600 (1800psi) 1600W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1800psi com motor universal",
+			"Dispensador de detergente e jato até 120°",
+			"Trava de segurança no gatilho",
+			"Proteção térmica e válvula de segurança",
+			"Rolo para mangueira de 5 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1600W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1800psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "282L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; extensor de lança; mangueira de alta pressão; conector de entrada de água; engate rápido; recipiente para detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; dispensador de detergente; jato ajustável até 120°; filtro de entrada de água; engate rápido; rodas e alça para transporte; rolo para mangueira; porta acessórios; trava de segurança no gatilho; proteção térmica contra superaquecimento; válvula de segurança"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67 x 29 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,67kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plp2900-1800psi-1600w",
+		"name": "Philco PLP2900 (1800psi) 1600W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de jato de 0° a 135°",
+			"Dispensador de detergente e filtro de entrada de água",
+			"Proteção IPX5 contra jatos de água",
+			"Válvula de segurança e proteção térmica",
+			"Rodas e rolo para mangueira"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1600W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1800psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "288L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; extensor de lança; mangueira de alta pressão; conector de entrada de água; engate rápido; recipiente para detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; dispensador de detergente; ajuste de jato de 0° a 135°; filtro de entrada de água; engate rápido; rodas; alça para transporte; rolo para mangueira; porta acessórios; proteção térmica contra superaquecimento; válvula de segurança; proteção IPX5"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-plp2800-1800psi-1600w",
+		"name": "Philco PLP2800 (1800psi) 1600W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lança curta e lança longa inclusas",
+			"Ajuste de jato de 0° a 135°",
+			"Proteção IPX5 e proteção térmica",
+			"Mangueira de 3 metros e cabo de 5 metros",
+			"Suporte para acessórios e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1600W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1800psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "288L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; lança curta; lança longa; bico ajustável; mangueira de alta pressão; conector rápido para mangueira de água"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; ajuste de jato de 0° a 135°; filtro de entrada de água; engate rápido; suporte para acessórios; alça para transporte; proteção térmica contra superaquecimento; proteção IPX5"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48,3 x 29,5 x 18,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,27kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plp2200-1300psi-1300w",
+		"name": "Philco PLP2200 (1300psi) 1300W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1300psi e potência de 1300W",
+			"Ajuste de jato até 135°",
+			"Filtro lavável e adaptador para mangueira de 1/2″",
+			"Trava de segurança no gatilho",
+			"Peso de 4,89kg e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1300W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1300psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "246L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; lança curta; lança longa; bico ajustável; filtro lavável; adaptador para mangueira de 1/2″; mangueira de alta pressão; prolongador de ponteira"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; ajuste de jato até 135°; filtro de entrada de água; engate rápido; suporte para acessórios; alça para transporte; proteção térmica contra superaquecimento; trava de segurança no gatilho"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,7 x 23,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,89kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plp2300-1750psi-1500w",
+		"name": "Philco PLP2300 (1750psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1750psi e vazão de 330L/h",
+			"Ajuste de jato até 120°",
+			"Proteção IPX5 e proteção térmica",
+			"Filtro de entrada de água e engate rápido",
+			"Trava de segurança no gatilho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1750psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola gatilho; prolongador da lança; ponteira ajustável; mangueira de alta pressão; adaptador para mangueira de 1/2″; filtro de entrada de água"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Auto-Stop; ajuste de jato até 120°; filtro de entrada de água; engate rápido; suporte para acessórios; alça para transporte; proteção térmica contra superaquecimento; trava de segurança no gatilho; proteção IPX5"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 25,7 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,66kg"
+			}
+		]
+	}
+]

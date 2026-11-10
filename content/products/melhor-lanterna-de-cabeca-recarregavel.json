@@ -1,0 +1,346 @@
+[
+	{
+		"id": "jws-ws-161-3000-lumens",
+		"name": "JWS WS-161 (3000 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos de luz ajustáveis: forte, 60% e 30%",
+			"Modos strobo e S.O.S para sinalização",
+			"Três baterias 18650 recarregáveis via USB-C",
+			"Ajuste de inclinação para direcionar o feixe"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "3 baterias 18650 recarregáveis via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 a 4 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "forte; 60%; 30%; Strobo; S.O.S"
+			},
+			{
+				"label": "Potência",
+				"value": "3000 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "390g (com bateria)"
+			}
+		]
+	},
+	{
+		"id": "guepardo-044002-500-lumens",
+		"name": "Guepardo 044002 (500 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-2.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 12 horas com bateria de lítio",
+			"Ajuste de foco para luz concentrada ou ampla",
+			"Corpo de ABS com alumínio e resistência IPX3",
+			"Modo SOS para sinalização"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria de lítio recarregável via USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "estática; SOS; ajuste de foco"
+			},
+			{
+				"label": "Potência",
+				"value": "500 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS com alumínio"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX3"
+			},
+			{
+				"label": "Peso",
+				"value": "213g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv400-400-lumens",
+		"name": "Vonder LCV400 (400 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 2 horas via USB-C",
+			"Corpo emborrachado com grau IP65",
+			"Luz direcionada, além de forte e fraca",
+			"Leve, com 94g e ajuste de inclinação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "5 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte; fraca; direcionada"
+			},
+			{
+				"label": "Potência",
+				"value": "400 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS emborrachado"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP65; IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "94g"
+			}
+		]
+	},
+	{
+		"id": "luatek-lt-400-500-lumens",
+		"name": "Luatek LT-400 (500 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro modos de iluminação, do simples ao piscante",
+			"Autonomia de 6 horas com recarga pelo USB",
+			"Ajuste de inclinação para direcionar a luz",
+			"Corpo de plástico ABS com 220g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "6 horas"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "simples; dupla; tripla; piscante"
+			},
+			{
+				"label": "Potência",
+				"value": "2000 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "220g"
+			}
+		]
+	},
+	{
+		"id": "vonder-cob-lcv300-300-lumens",
+		"name": "Vonder COB LCV300 (300 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois modos de luz, alta e baixa",
+			"Revestimento emborrachado com proteção IP65",
+			"Ajuste de inclinação e 110g de peso",
+			"Autonomia de 5 horas e 30 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "5 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz alta e baixa"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS com revestimento emborrachado"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP65; IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "110g"
+			}
+		]
+	},
+	{
+		"id": "vonder-lcv200-200-lumens",
+		"name": "Vonder LCV200 (200 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Leve, com 91g e ajuste de inclinação",
+			"Dois modos de luz, alto e baixo",
+			"Proteção IP54 para uso ao ar livre",
+			"Recarga via micro-USB em 2h30"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "alto e baixo"
+			},
+			{
+				"label": "Potência",
+				"value": "200 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e borracha"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP54; IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "91g"
+			}
+		]
+	},
+	{
+		"id": "philips-lpl74x1-300-lumens",
+		"name": "Philips LPL74X1 (300 lúmens)",
+		"image": "/images/posts/melhor-lanterna-de-cabeca-recarregavel-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 12 horas com recarga em 2h48",
+			"Proteção IP67, a maior da lista",
+			"Material em borracha com ajuste de inclinação",
+			"Modos forte, fraca e intermitente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável via micro-USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "12 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas e 48 minutos"
+			},
+			{
+				"label": "Modos de iluminação",
+				"value": "luz forte; fraca; intermitente"
+			},
+			{
+				"label": "Potência",
+				"value": "300 lúmens"
+			},
+			{
+				"label": "Material",
+				"value": "borracha"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67; IK07"
+			},
+			{
+				"label": "Ajuste de inclinação",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "145g"
+			}
+		]
+	}
+]

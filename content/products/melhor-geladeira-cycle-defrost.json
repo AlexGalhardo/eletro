@@ -1,0 +1,189 @@
+[
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux (DC35A) 260 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Super Freezer a -18°C e compartimento extra-frio",
+			"Porta-latas reversível para 5 unidades",
+			"Prateleiras removíveis e reguláveis para organizar",
+			"Degelo automático do refrigerador com Cycle Defrost",
+			"Selo Procel A com consumo de 38,4kWh/mês"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "260 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (38,4kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "removíveis e reguláveis" },
+			{ "label": "Compartimento extra-frio", "value": "sim" },
+			{ "label": "Extras", "value": "iluminação interna no refrigerador; pés niveladores; puxador embutido ergonômico; Super Freezer a -18°C; porta-latas reversível para 5 unidades; separador de garrafas; cesta porta ovos; recipiente para guardar gelo; degelo automático do refrigerador; classificação energética A" },
+			{ "label": "Controle de temperatura", "value": "interno" },
+			{ "label": "Dimensões (A x L x P)", "value": "161,9 x 54,8 x 61,3cm" },
+			{ "label": "Peso", "value": "44,5kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "consul-crd37eb-334-litros",
+		"name": "Consul (CRD37EB) 334 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade desta lista, com 334 litros",
+			"Gavetão hortifruti para frutas e verduras",
+			"Compartimento no freezer para gelo extra",
+			"Controle de temperatura por painel eletrônico",
+			"Selo Procel A com consumo de 43,5kWh/ano"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "334 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (43,5kWh/ano)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "removíveis e reguláveis" },
+			{ "label": "Compartimento extra-frio", "value": "não" },
+			{ "label": "Extras", "value": "prateleira na porta do freezer; gavetão hortifruti; compartimento no freezer para gelo extra; porta-ovos; pés niveladores; prateleiras removíveis e reguláveis; classificação energética A" },
+			{ "label": "Controle de temperatura", "value": "interno, painel eletrônico" },
+			{ "label": "Dimensões (A x L x P)", "value": "166,9 x 60,3 x 63,4cm" },
+			{ "label": "Peso", "value": "58kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-re31-240-litros",
+		"name": "Electrolux (RE31) 240 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle externo de temperatura com 3 níveis",
+			"Gavetão para legumes e gavetão extra",
+			"Compartimento extra-frio e iluminação interna",
+			"Porta-latas reversível e separador de garrafas",
+			"Selo Procel A com consumo de 23,3kWh/mês"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "240 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (23,3kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "removíveis e reguláveis" },
+			{ "label": "Compartimento extra-frio", "value": "sim" },
+			{ "label": "Extras", "value": "puxador embutido ergonômico; botão de Degelo Prático; controle externo de temperatura; iluminação interna; porta-latas reversível; cesta porta-ovos; pés niveladores; recipiente para gelo; separador de garrafas; gavetão para legumes; gavetão extra; classificação energética A" },
+			{ "label": "Controle de temperatura", "value": "externo, com mostrador frontal e 3 níveis" },
+			{ "label": "Dimensões (A x L x P)", "value": "140,6 x 55 x 61,1cm" },
+			{ "label": "Peso", "value": "39kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hq-hq-230rdf-230-litros",
+		"name": "HQ (HQ-230RDF) 230 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta reversível para escolher o lado de abertura",
+			"Funcionamento silencioso, entre 42 e 49dB",
+			"Gavetão para frutas e verduras",
+			"Prateleiras ajustáveis e removíveis",
+			"Selo Procel A com consumo de 34,44kWh/mês"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "230 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (34,44kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "ajustáveis e removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "não" },
+			{ "label": "Extras", "value": "porta reversível; gavetão para frutas e verduras; controle mecânico de temperatura; porta-ovos; recipiente de gelo; funcionamento silencioso (42–49dB); prateleiras ajustáveis e removíveis; classificação energética A" },
+			{ "label": "Controle de temperatura", "value": "interno, mecânico" },
+			{ "label": "Dimensões (A x L x P)", "value": "140 x 55 x 55cm" },
+			{ "label": "Peso", "value": "41kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "hq-150rdf-150-litros",
+		"name": "HQ (150RDF) 150 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A+++ com consumo de 13,48kWh/mês",
+			"Medidas de 128,5 x 45,6 x 48,5cm e 27kg",
+			"Pés niveladores para ajustar a posição",
+			"Prateleiras removíveis e controle interno"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "150 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A+++ (13,48kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "não" },
+			{ "label": "Extras", "value": "pés niveladores; classificação energética A+++" },
+			{ "label": "Controle de temperatura", "value": "interno" },
+			{ "label": "Dimensões (A x L x P)", "value": "128,5 x 45,6 x 48,5cm" },
+			{ "label": "Peso", "value": "27kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "midea-rt411fgf012-294-litros",
+		"name": "Midea (RT411FGF012) 294 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 294 litros em 176 cm de altura",
+			"Prateleiras de vidro removíveis",
+			"Gavetão hortifruti e bandeja de ovos",
+			"Kit bandeja de gelo incluso",
+			"Selo A em 127V e A+ em 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "294 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (40,4kWh/mês em 127V) / A+ (37kWh/mês em 220V)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Prateleiras", "value": "removíveis" },
+			{ "label": "Compartimento extra-frio", "value": "não" },
+			{ "label": "Extras", "value": "prateleiras de vidro removíveis; gavetão hortifruti; bandeja de ovos; kit bandeja de gelo; classificação energética A+" },
+			{ "label": "Controle de temperatura", "value": "interno" },
+			{ "label": "Dimensões (A x L x P)", "value": "176,0 x 59,5 x 55,0cm" },
+			{ "label": "Peso", "value": "47,0kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-re21s-213-litros",
+		"name": "Electrolux (RE21S) 213 litros",
+		"image": "/images/posts/melhor-geladeira-cycle-defrost-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Gaveta HortiFruti para frutas e verduras",
+			"Iluminação interna em LED no refrigerador",
+			"Prateleiras de vidro resistentes e na porta",
+			"Selo Procel A com consumo de 21,6kWh/mês",
+			"Porta-latas e pés niveladores incluídos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade total", "value": "213 litros" },
+			{ "label": "Classificação energética", "value": "Selo Procel A (21,6kWh/mês)" },
+			{ "label": "Sistema de refrigeração", "value": "Cycle Defrost" },
+			{ "label": "Compartimento extra-frio", "value": "não" },
+			{ "label": "Extras", "value": "gaveta HortiFruti; prateleiras de vidro resistentes; iluminação interna LED no refrigerador; porta-latas; prateleiras na porta; pés niveladores; classificação energética A" },
+			{ "label": "Controle de temperatura", "value": "interno" },
+			{ "label": "Dimensões (A x L x P)", "value": "140,6 x 55,5 x 56,5cm" },
+			{ "label": "Peso", "value": "36kg" },
+			{ "label": "Voltagem", "value": "127V ou 220V" }
+		]
+	}
+]

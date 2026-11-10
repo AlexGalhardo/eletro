@@ -1,0 +1,418 @@
+[
+	{
+		"id": "vonder-lgv-3600-3600psi-14cv-hp",
+		"name": "Vonder LGV 3600 (3600psi) 14cv/hp",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 3600psi com vazão de 1020L/h",
+			"Bomba triplex com pistões de aço e revestimento cerâmico",
+			"Mangueira de alta pressão de 10 metros",
+			"Regulador de pressão e protetor térmico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "14cv/hp"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "3600psi / 248 bar"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "1020L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "monocilíndrico OHV 4 tempos"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "10 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola; lança; bico turbo; 5 bicos (0° vermelho; 15° amarelo; 25° verde; 40° branco; SOAP preto); mangueira de alta pressão (10m); mangueira e filtro para detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "bomba com sistema triplex; pistões em aço com revestimento cerâmico; cabeçote em latão; regulador de pressão; protetor térmico; rodas com aro metálico e pneu 13/5.00-6; engate rápido"
+			},
+			{
+				"label": "Tensão",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79 x 50 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-2030i-1960psi-2000w",
+		"name": "Vonder LAV 2030i (1960psi) 2000W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1960psi com vazão de 342L/h",
+			"Sistema Stop Total e pistões em aço inox",
+			"Mangueira de 5 metros e cabo elétrico de 5 metros",
+			"Alça e rodas para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2000W; 2,7cv/hp"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "1960psi / 135 bar"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "342L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para detergente; mangueira de alta pressão; lança com bico leque ajustável; bico turbo; pistola com gatilho; conector engate rápido de ½” com filtro interno lavável"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; pistões em aço inox; alça e rodas para transporte; suportes para pistola e cabo elétrico"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 37 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,5kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-1300-1300psi-1200w",
+		"name": "Vonder LAV 1300 (1300psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1300psi com vazão de 390L/h",
+			"Sistema Stop Total e pistões em aço inox",
+			"Mangueira de 3 metros e cabo elétrico de 5 metros",
+			"Alça e suportes para organização"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "1300psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para detergente; mangueira de alta pressão (3 metros); lança com bico ajustável; pistola com gatilho; conector engate rápido de ½” com filtro interno lavável"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; pistões em aço inox; alça e suportes para organização"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 30 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-1600-1600psi-1400w",
+		"name": "Vonder LAV 1600 (1600psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1600psi com vazão de 420L/h",
+			"Aplicador de detergente e lança com bico ajustável",
+			"Mangueira de alta pressão de 5 metros",
+			"Suportes para armazenar a pistola e o cabo elétrico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1600psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "420L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "aplicador de detergente; mangueira de alta pressão de 5 metros; lança com bico ajustável; pistola com gatilho; conector engate rápido de 1/2″ com filtro interno lavável"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; alça e rodas para transporte; suportes para armazenar pistola e cabo elétrico"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 27 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-2220i-1740psi-2200w",
+		"name": "Vonder LAV 2220i (1740psi) 2200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1740psi com vazão de 498L/h",
+			"Manômetro e regulador de pressão",
+			"Mangueira de alta pressão de 8 metros com trama de aço",
+			"Sistema de sucção para detergente e Stop Total"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2200W; 3,0cv/hp"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "1740psi / 120bar"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "498L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "8 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola; lança reta com bico leque; mangueira de alta pressão com trama de aço (8m); filtro; pino para limpeza do bico"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de sucção para detergente; sistema Stop Total; manômetro; regulador de pressão; alça e rodas; suportes para pistola e cabo elétrico"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			},
+			{
+				"label": "Peso",
+				"value": "19,7kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lgv-3000-3000psi-7cv-hp",
+		"name": "Vonder LGV 3000 (3000psi) 7cv/hp",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 3000psi com vazão de 756L/h",
+			"Pistões em aço com revestimento cerâmico",
+			"Mangueira de 10 metros com cinco bicos inclusos",
+			"Protetor térmico e engate rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "7cv/hp"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "3000psi / 206 bar"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "756L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "monocilíndrico OHV 4 tempos"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "10 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola; lança; bico turbo; 5 bicos (0° vermelho; 15° amarelo; 25° verde; 40° branco; SOAP preto); mangueira de alta pressão (10m); mangueira e filtro para detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema triplex; pistões em aço com revestimento cerâmico; cabeçote em latão; regulador de pressão; protetor térmico; rodas com aro metálico e pneu 4.10/3.50-4; engate rápido"
+			},
+			{
+				"label": "Tensão",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "71 x 40 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "41kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-1600i-1300psi-1600w",
+		"name": "Vonder LAV 1600i (1300psi) 1600W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-vonder-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1300psi com vazão de 600L/h",
+			"Sistema triplex e sistema de sucção",
+			"Mangueira de 8 metros e filtro para sucção",
+			"Quatro bicos inclusos e rodas para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1600W / 2,20cv/hp"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "1300psi / 90 bar"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "600L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "8 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de alta pressão (8m); lança; pistola com gatilho; 4 bicos (0°, 15°, 25°, 40°); 2 abraçadeiras de metal; mangueira para sucção (1,90m); filtro para sucção"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema triplex; sistema de sucção; alça com extensor fixo; rodas para transporte; suporte para cordão elétrico"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 27 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "24,7kg"
+			}
+		]
+	}
+]

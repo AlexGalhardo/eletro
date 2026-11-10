@@ -1,0 +1,406 @@
+[
+	{
+		"id": "cressi-astra-2100",
+		"name": "Cressi Astra 2100",
+		"image": "/images/posts/melhor-lanterna-para-caca-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100 lúmens e alcance de 170 metros",
+			"Modos médio, alto e strobo",
+			"Recarga por conector USB magnético",
+			"Resistência IPX8 com peso de 440g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "2100 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "médio; alto; strobo"
+			},
+			{
+				"label": "Foco",
+				"value": "feixe fixo"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 170 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via conector USB magnético"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "440g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "conector magnético"
+			}
+		]
+	},
+	{
+		"id": "cressi-hunt-1600",
+		"name": "Cressi Hunt 1600",
+		"image": "/images/posts/melhor-lanterna-para-caca-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600 lúmens com foco concentrado",
+			"Alcance de até 290 metros",
+			"Recarga por USB magnético",
+			"Resistência IPX8 com peso de 196g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1600 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alto; estrobo"
+			},
+			{
+				"label": "Foco",
+				"value": "concentrado"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 290 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB magnético"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "16 x 4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "196g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "conector magnético"
+			}
+		]
+	},
+	{
+		"id": "ntk-tocha-gama",
+		"name": "NTK Tocha Gama",
+		"image": "/images/posts/melhor-lanterna-para-caca-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Foco aberto para iluminar uma área ampla",
+			"Modos fraco, forte e SOS",
+			"Resistência IP67 com recarga por USB-C",
+			"Acompanha lâmpada de LED Cree de 20W e cabo USB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico ABS; policarbonato; PVC; alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1500 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "fraco; forte; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "aberto"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 8 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IP67"
+			},
+			{
+				"label": "Dimensões",
+				"value": "20 x 9,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "690g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça para apoiar a tocha; cabo USB; 1 lâmpada de LED Cree de 20W"
+			}
+		]
+	},
+	{
+		"id": "letour-w844",
+		"name": "LETOUR W844",
+		"image": "/images/posts/melhor-lanterna-para-caca-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior potência da lista, com 2500 lúmens",
+			"Foco aberto e concentrado em um só aparelho",
+			"Autonomia de até 20 horas com USB-C",
+			"Alcance de até 500 metros com resistência IPX5"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "2500 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; azul; vermelho; strobo; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "aberto e concentrado"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 500 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 20 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX5"
+			},
+			{
+				"label": "Dimensões",
+				"value": "18 x 13cm"
+			},
+			{
+				"label": "Peso",
+				"value": "550g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça de punho; lâmpada LED SMD"
+			}
+		]
+	},
+	{
+		"id": "albatroz-sdq-34",
+		"name": "Albatroz SDQ-34",
+		"image": "/images/posts/melhor-lanterna-para-caca-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 24 horas no modo principal",
+			"Autonomia de 52 horas no modo SOS",
+			"Cabo de carregamento com conector magnético",
+			"Peso de 652g e alça para pendurar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Potência",
+				"value": "1000 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "alto; econômico; SOS"
+			},
+			{
+				"label": "Foco",
+				"value": "concentrado"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 300 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via cabo USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "24 horas (principal) ou 52 horas (modo SOS)"
+			},
+			{
+				"label": "Resistência",
+				"value": "sim (classificação não especificada)"
+			},
+			{
+				"label": "Dimensões",
+				"value": "26,5 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "652g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "cabo de carregamento com conector magnético; alça para pendurar"
+			}
+		]
+	},
+	{
+		"id": "cressi-astra-1200",
+		"name": "Cressi Astra 1200",
+		"image": "/images/posts/melhor-lanterna-para-caca-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200 lúmens com foco concentrado",
+			"Alcance de até 250 metros",
+			"LED CREE XPL2 com recarga por USB magnético",
+			"Resistência IPX8 com peso de 240g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Potência",
+				"value": "1200 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "médio; alto; strobo"
+			},
+			{
+				"label": "Foco",
+				"value": "concentrado"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 250 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via USB magnético"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 5 horas"
+			},
+			{
+				"label": "Resistência",
+				"value": "IPX8"
+			},
+			{
+				"label": "Dimensões",
+				"value": "15 x 4,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "240g"
+			},
+			{
+				"label": "Acessórios",
+				"value": "conector magnético; LED CREE XPL2"
+			}
+		]
+	},
+	{
+		"id": "albatroz-hl001",
+		"name": "Albatroz HL001",
+		"image": "/images/posts/melhor-lanterna-para-caca-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de até 400 metros com 1600 lúmens",
+			"Modos baixo, médio, alto e SOS",
+			"Autonomia de até 10 horas",
+			"Alça de transporte e conector AC incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Potência",
+				"value": "1600 lúmens"
+			},
+			{
+				"label": "Modos de luz",
+				"value": "baixo; médio; alto; SOS"
+			},
+			{
+				"label": "Alcance",
+				"value": "até 400 metros"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "bateria recarregável via conector AC"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 10 horas"
+			},
+			{
+				"label": "Dimensões",
+				"value": "22,5 x 17cm"
+			},
+			{
+				"label": "Acessórios",
+				"value": "alça de transporte; conector AC"
+			}
+		]
+	}
+]

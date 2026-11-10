@@ -1,0 +1,429 @@
+[
+	{
+		"id": "samsung-wd18t-18kg",
+		"name": "Samsung WD18T (18kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 18 kg e seca 10 kg, a maior capacidade da lista",
+			"Ecobubble e vapor de higiene no ciclo",
+			"Dispenser automático de sabão e amaciante",
+			"Controle pelo app SmartThings e AI Control",
+			"25 programas e função Manchas Difíceis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "18kg (lavagem); 10kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1100RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "25"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "compatível com o aplicativo SmartThings; AI Control; dispenser automático de sabão e amaciante; Ecobubble; vapor de higiene; função Manchas Difíceis; entrada de água quente e fria; My Cycle; lavagem do tambor Eco; limpeza turbo / Speed Shot; função Add Clothes; tecnologia VRT Plus"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98,4 x 68,6 x 79,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "98kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd13t-13kg",
+		"name": "Samsung WD13T (13kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 13 kg e seca 7 kg com 21 programas",
+			"Recursos AI Control e Air Wash",
+			"Ciclo Menos Microfibras e tambor Eco",
+			"Smart Control e AI Energy Mode",
+			"Compatível com SmartThings e vapor de higiene"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "21"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "AI Control; Air Wash; função Manchas Difíceis; Ecobubble; ciclo Menos Microfibras; vapor de higiene; lavagem do tambor Eco; My Cycle; Smart Control; compatível com SmartThings; AI Energy Mode"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "80kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd11m-11kg",
+		"name": "Samsung WD11M (11kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 11 kg e seca 7 kg com 12 programas",
+			"Ciclo lava e seca em 59 minutos",
+			"Tecnologia Diamond Drum no tambor",
+			"Dispenser autolimpante e trava infantil",
+			"Ciclo rápido de 15 minutos e lavagem a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "12"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital LED e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; ciclo rápido 15 minutos; controle inteligente Smart Check; ciclo lava e seca em 59 minutos; lavagem do tambor Eco; dispenser autolimpante; trava infantil; tecnologia Diamond Drum"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd10m-10-1kg",
+		"name": "Samsung WD10M (10.1kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 10,1 kg e seca 6 kg com 12 programas",
+			"Ecobubble e vapor de higiene",
+			"Smart Check e dispenser autolimpante",
+			"Trava infantil e lavagem do tambor Eco",
+			"Ciclo lava e seca em 59 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10,1kg (lavagem); 6kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "12"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; Ecobubble; vapor de higiene; função Manchas Difíceis; ciclo rápido 15min; lavagem e secagem em 59 minutos; lavagem do tambor Eco; dispenser autolimpante; Smart Check; trava infantil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "67kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd11a-11kg",
+		"name": "Samsung WD11A (11kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 11 kg e seca 7 kg com 15 programas",
+			"Ciclo rápido de 15 minutos",
+			"Ecobubble e função Manchas Difíceis",
+			"Dispenser autolimpante e Smart Check",
+			"Vapor de higiene e lavagem a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11kg (lavagem); 7kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "15"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; Ecobubble; vapor de higiene; função Manchas Difíceis; ciclo rápido 15 minutos; Lavagem e secagem em 59 minutos; lavagem do tambor Eco; dispenser autolimpante; Smart Check"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd14b-14kg",
+		"name": "Samsung WD14B (14kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 14 kg e seca 9 kg com 25 programas",
+			"AI Ecobubble e AI Wash no ciclo",
+			"Recursos QuickDrive e Super Speed",
+			"Conexão Wi-Fi via SmartThings",
+			"Modo AI Energy e lavagem do Tambor+"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14kg (lavagem); 9kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "25"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "AI Ecobubble™; AI Wash; QuickDrive; Super Speed; ciclo Menos Microfibras; dispenser automático de sabão e amaciante; vapor de higiene; lavagem do Tambor+; modo AI Energy; conectividade Wi-Fi via SmartThings; ciclo rápido 15min; Air Wash"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 69,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "84kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-wd14t-14kg",
+		"name": "Samsung WD14T (14kg)",
+		"image": "/images/posts/melhor-lava-e-seca-samsung-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lava 14 kg e seca 9 kg com 22 programas",
+			"Sistema Ecobubble e vapor de higienização",
+			"Função Manchas Difíceis e lavagem a seco",
+			"Controle inteligente com SmartThings",
+			"Dispenser autolimpante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14kg (lavagem); 9kg (secagem)"
+			},
+			{
+				"label": "Velocidade de centrifugação",
+				"value": "1400RPM"
+			},
+			{
+				"label": "Tipo",
+				"value": "automática"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "22"
+			},
+			{
+				"label": "Abertura da tampa",
+				"value": "frontal"
+			},
+			{
+				"label": "Painel",
+				"value": "digital e botão giratório"
+			},
+			{
+				"label": "Material do cesto",
+				"value": "aço inox"
+			},
+			{
+				"label": "Funções extras",
+				"value": "lavagem a seco; função Manchas Difíceis; sistema Ecobubble; vapor de higienização; controle inteligente com SmartThings; dispenser autolimpante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 60 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "80kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

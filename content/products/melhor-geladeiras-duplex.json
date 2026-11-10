@@ -1,0 +1,394 @@
+[
+	{
+		"id": "brastemp-bre66a-500-litros",
+		"name": "Brastemp (BRE66A) 500 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 500 litros, a maior da lista",
+			"Compartimento extra-frio e modos Turbo",
+			"Alarme de porta aberta e trava de segurança",
+			"Tecnologia Xpert Inverter e Fresh Protein com IA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "500 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (29,6kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia Bvox; Safe Power; iluminação interna em LED; B= Design; Twist Ice; Fresh Space com Smart Sensor; pés niveladores; tecnologia B= Smart; recipiente para gelo; filtro de ar; trava de segurança; Smart Flow; alarme de porta aberta; Fresh Protein com IA; Prateleiras Infinity; Xpert Inverter; porta-ovos; prateleira Xpert Freeze; modos Turbo do refrigerador e freezer; 2 rodízios traseiros; gaveta Delicates"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "194,3 x 70,5 x 74cm"
+			},
+			{
+				"label": "Peso",
+				"value": "74kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf71-480-litros",
+		"name": "Electrolux (TF71) 480 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conectividade Wi-Fi no refrigerador",
+			"Prateleiras reversíveis e expansíveis (Fast Adapt)",
+			"Gás refrigerante R600a e classe A",
+			"Função Turbo Freezer e congelamento rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "480 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (28,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis, reversíveis e expansíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "cesta porta-ovos; Wi-Fi; alarme de porta aberta; compartimento de congelamento rápido; compartimento extra frio; degelo automático (Frost Free); pés niveladores; prateleiras removíveis; rodízios; iluminação no compartimento refrigerador; classificação energética A; gás refrigerante R600A; prateleiras reversíveis; prateleiras expansíveis (Fast Adapt); função Turbo Freezer; compressor Fix Speed; AutoSense"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo com painel digital (refrigerador); interno, com seletor (freezer)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "189 x 70 x 73,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crm44mb-377-litros",
+		"name": "Consul (CRM44MB) 377 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor consumo da lista, com 24,9kWh por mês",
+			"Tecnologia Inverter e quatro níveis de temperatura",
+			"Gavetão para frutas e legumes",
+			"Prateleiras com Altura Flex"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "377 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (24,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia Inverter; prateleiras com Altura Flex; função Turbo; iluminação em LED; gavetão de frutas e legumes; formas de gelo suspensas; porta-ovos; eficiência energética A; compartimento extra frio; degelo Frost Free; pés niveladores; 4 níveis de temperatura; separador de garrafas; prateleira Acesso Fácil; controle de circulação de ar"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "184,7 x 62,2 x 72,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "60kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-brm46m-385-litros",
+		"name": "Brastemp (BRM46M) 385 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-ovos para 12 unidades",
+			"Gaveta Fresh Zone e Turbo Freezer",
+			"Tecnologia Smart Cold e Xpert Inverter",
+			"Dois rodízios e pés estabilizadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "385 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (25,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "compartimento Turbo Freezer; gaveta Fresh Zone; porta-ovos para 12 unidades; porta-temperos; separador de garrafas; formas de gelo; iluminação interna em LED; 2 rodízios; pés estabilizadores; Safe Power; Smart Cold; Xpert Inverter; revestimento Bvox; função Turbo"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176,6 x 62,1 x 72,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux (DC35A) 260 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor capacidade da lista, com 260 litros",
+			"Gaveta super freezer para congelar",
+			"Porta-latas e separador de garrafas",
+			"Gavetão para legumes e verduras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "260 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (28,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna; gavetão para legumes e verduras; cesta porta ovos; pés niveladores; porta latas; gaveta super freezer; separador de garrafas; recipiente para gelo"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,9 x 54,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crd37mb-332-litros",
+		"name": "Consul (CRD37MB) 332 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prateleiras removíveis e gavetão para legumes",
+			"Cesta porta-ovos e iluminação interna",
+			"Painel eletrônico de controle interno",
+			"Dimensões de 167,8 x 60 x 66cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "332 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe C (29,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna; gavetão para legumes e verduras; cesta porta ovos"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "167,8 x 60 x 66cm"
+			},
+			{
+				"label": "Peso",
+				"value": "59kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-md-rt650evk013-491-litros",
+		"name": "Midea (MD-RT650EVK013) 491 litros",
+		"image": "/images/posts/melhor-geladeiras-duplex-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conectividade com app SmartHome",
+			"Flexi-Volt e tensão bivolt",
+			"Tecnologia Inverter e Turbo Freezer",
+			"Porta-ovos com dois níveis e prateleiras retráteis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "491 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (28,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "retráteis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "Extra Freezer; classificação energética A; conectividade com app SmartHome; tecnologia Inverter; Flexi-Volt; Turbo Freezer; porta-ovos com 2 níveis; gás refrigerante R600a"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, painel touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "185 x 70 x 71,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "71kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

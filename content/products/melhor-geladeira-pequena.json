@@ -1,0 +1,394 @@
+[
+	{
+		"id": "electrolux-tf38-320-litros",
+		"name": "Electrolux (TF38) 320 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com consumo de 46,8kWh por mês",
+			"Compartimento extra-frio e gaveta HortiFruti",
+			"Função Turbo Freezer e forma de gelo para até 30 cubos",
+			"Degelo automático e rodízios para mover o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "320 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (46,8kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "gaveta HortiFruti; iluminação interna em LED no refrigerador; função Turbo Freezer; bandeja para até 12 ovos; forma de gelo para até 30 cubos; pés niveladores; rodízios; degelo automático; puxador embutido; compressor Fixed Speed; recipiente para guardar gelo"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 60,4 x 64,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-dc35a-260-litros",
+		"name": "Electrolux (DC35A) 260 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Super Freezer a -18°C para congelados",
+			"Porta-latas reversível para cinco unidades",
+			"Separador de garrafas e cesta porta-ovos",
+			"Degelo automático do refrigerador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "260 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel C (38,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "iluminação interna no refrigerador; pés niveladores; puxador embutido ergonômico; Super Freezer a -18°C; porta-latas reversível para 5 unidades; separador de garrafas; cesta porta ovos; recipiente para guardar gelo; degelo automático do refrigerador"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "161,9 x 54,8 x 61,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crd37eb-334-litros",
+		"name": "Consul (CRD37EB) 334 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com 334 litros",
+			"Gavetão hortifruti e compartimento extra para gelo",
+			"Prateleira na porta do freezer e porta-ovos",
+			"Pés estabilizadores e prateleiras removíveis e reguláveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "334 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (43,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "prateleira na porta do freezer; gavetão hortifruti; compartimento no freezer para gelo extra; porta-ovos; pés estabilizadores; prateleiras removíveis e reguláveis; classificação energética A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "166,9 x 60,3 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-re31-240-litros",
+		"name": "Electrolux (RE31) 240 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com consumo de 23,3kWh por mês",
+			"Botão de Degelo Prático para facilitar a limpeza",
+			"Compartimento extra-frio e gavetão extra",
+			"Porta-latas reversível e separador de garrafas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "240 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (23,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "puxador embutido ergonômico; botão de Degelo Prático; controle externo de temperatura; iluminação interna; porta-latas reversível; cesta porta-ovos; pés niveladores; recipiente para gelo; separador de garrafas; gavetão para legumes; gavetão extra; classificação energética A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com mostrador frontal e 3 níveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "140,6 x 55 x 61,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "39kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-230rdf-230-litros",
+		"name": "HQ (HQ-230RDF) 230 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funcionamento silencioso entre 42 e 49dB",
+			"Porta reversível para encaixar na cozinha",
+			"Gavetão para frutas e verduras",
+			"Controle mecânico de temperatura e recipiente de gelo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "230 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (34,44kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Cycle Defrost"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis e removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "porta reversível; gavetão para frutas e verduras; controle mecânico de temperatura; porta-ovos; recipiente de gelo; funcionamento silencioso (42–49dB); prateleiras ajustáveis e removíveis; classificação energética A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, mecânico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "140 x 55 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crb36ab-300-litros",
+		"name": "Consul (CRB36AB) 300 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A com consumo de 35,5kWh por mês",
+			"Compartimento extra-frio e iluminação interna em LED",
+			"Gavetão hortifruti e porta-latas",
+			"Painel eletrônico externo e pés estabilizadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "300 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A (35,5kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis e ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "painel eletrônico externo; prateleiras removíveis e ajustáveis; porta-latas; gavetão hortifruti; iluminação interna em LED; porta-ovos; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "153,9 x 61,6 x 69,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "48kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-erv250ds-230-litros",
+		"name": "EOS (ERV250DS) 230 litros",
+		"image": "/images/posts/melhor-geladeira-pequena-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Selo Procel A+++, a maior eficiência desta lista",
+			"Funcionamento silencioso com 43dB(A)",
+			"Termostato ajustável e prateleiras ajustáveis",
+			"Porta-ovos e iluminação interna LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "230 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "Selo Procel A+++ (18,72kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "degelo manual"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "reguláveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "prateleiras ajustáveis; iluminação interna LED; termostato ajustável; porta-ovos; funcionamento silencioso com 43dB(A); classificação energética A+++"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "143 x 56 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "38kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

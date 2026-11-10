@@ -1,0 +1,393 @@
+[
+	{
+		"id": "samsung-rs60-628-litros",
+		"name": "Samsung (RS60) 628 litros",
+		"image": "/images/posts/melhor-geladeiras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"628 litros, a maior capacidade desta lista",
+			"Classe A com 37,4 kWh/mês de consumo",
+			"Compressor Digital Inverter e Power Cool",
+			"Gás refrigerante R600a e função Trava",
+			"Dispenser de água e gelo com produção automática"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "628 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (37,4kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free com All Around Cooling"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Extras",
+				"value": "LED superior; compartimento multiuso flexível em vidro temperado; produção de gelo interna automática; alarme de porta aberta; gás refrigerante R600a; função Trava; dispenser de água e gelo; compressor Digital Inverter; Power Cool; Power Freeze; SpaceMax"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com display LED lateral"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "178 x 91,2 x 72,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "108kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-im8-590-litros",
+		"name": "Electrolux (IM8) 590 litros",
+		"image": "/images/posts/melhor-geladeiras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"590 litros com classe A e 32,6 kWh/mês",
+			"Gaveta HortiNatura e tecnologia TasteGuard",
+			"Tecnologia AutoSense e IceTwister",
+			"Porta do freezer reversível e bandeja de ovos",
+			"Tecnologia Inverter e congelamento rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "590 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (32,6kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "reguláveis e uma prateleira retrátil"
+			},
+			{
+				"label": "Extras",
+				"value": "alarme de porta aberta; compartimento de congelamento rápido; iluminação interna; trava do painel de controle; iluminação no compartimento freezer; AutoSense; gaveta HortiNatura; tecnologia Inverter; TasteGuard; IceTwister; FastAdapt; bandeja de ovos; porta do freezer reversível"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com display LED"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "190 x 83,5 x 74,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "98kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-crm44m-377-litros",
+		"name": "Consul (CRM44M) 377 litros",
+		"image": "/images/posts/melhor-geladeiras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"377 litros com classe A e 24,9 kWh/mês",
+			"Compartimento extra-frio e função Turbo",
+			"Tecnologia Inverter e formas de gelo suspensas",
+			"Gaveta de frutas e legumes",
+			"Controle de circulação de ar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "377 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (24,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "ajustáveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "função Turbo; tecnologia Inverter; formas de gelo suspensas; porta-ovos; pés niveladores; gaveta de frutas e legumes; controle de circulação de ar"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel eletrônico e indicadores LED"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "184,7 x 62,2 x 72,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "60kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bre66a-500-litros",
+		"name": "Brastemp (BRE66A) 500 litros",
+		"image": "/images/posts/melhor-geladeiras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"500 litros com classe A e 29,7 kWh/mês",
+			"Compartimento extra-frio e Xpert Inverter",
+			"Filtro Carbon AirFilter e Fresh Protein com IA",
+			"Smart Flow e prateleiras Infinity",
+			"Alimentação bivolt e 4 gavetas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "500 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (29,7kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "Smart Flow; alarme de porta aberta; Fresh Protein com IA; Prateleiras Infinity; Xpert Inverter; porta-ovos; tecnologia Bvox; 4 gavetas; Safe Power; iluminação interna em LED; B= Design; Twist Ice; Fresh Space com Smart Sensor; pés niveladores; tecnologia B= Smart; recipiente para gelo; Carbon AirFilter; trava de segurança"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "194,3 x 70,5 x 74cm"
+			},
+			{
+				"label": "Peso",
+				"value": "74kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "brastemp-brm46m-385-litros",
+		"name": "Brastemp (BRM46M) 385 litros",
+		"image": "/images/posts/melhor-geladeiras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"385 litros com classe A e 25,1 kWh/mês",
+			"Compartimento Turbo Freezer e Smart Cold",
+			"Gaveta Fresh Zone e porta-ovos para 12 unidades",
+			"Xpert Inverter e revestimento Bvox",
+			"Separador de garrafas e 2 rodízios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "385 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (25,1kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "Safe Power; Smart Cold; Xpert Inverter; revestimento Bvox; função Turbo; compartimento Turbo Freezer; gaveta Fresh Zone; porta-ovos para 12 unidades; porta-temperos; separador de garrafas; formas de gelo; iluminação interna em LED; 2 rodízios; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com painel eletrônico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "176,6 x 62,1 x 72,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "55kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-tf38-320-litros",
+		"name": "Electrolux (TF38) 320 litros",
+		"image": "/images/posts/melhor-geladeiras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"320 litros com classe C e 30,9 kWh/mês",
+			"Compartimento extra-frio e Turbo Freezer",
+			"Cesta porta-ovos para 12 unidades",
+			"Forma de gelo para até 30 cubos",
+			"Gaveta HortiFruti e rodízios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "320 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe C (30,9kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "cesta porta-ovos para 12 unidades; forma de gelo para até 30 cubos; alarme de porta aberta; pés niveladores; rodízios; iluminação no refrigerador; Turbo Freezer; gaveta HortiFruti"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "interno, com botão giratório"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 60,4 x 64,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "50kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bro85mk-559-litros",
+		"name": "Brastemp (BRO85MK) 559 litros",
+		"image": "/images/posts/melhor-geladeiras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"559 litros com classe A e 31,3 kWh/mês",
+			"Filtro antiodor e Climate Adapt",
+			"Modos Festa, Compras e Férias",
+			"Turbo Freezer com funções Latas e Espumante",
+			"Compressor Inverter A e Fresh Box"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "559 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "classe A (31,3kWh/mês)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Prateleiras",
+				"value": "removíveis"
+			},
+			{
+				"label": "Compartimento extra-frio",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "filtro antiodor; Climate Adapt; modos Festa, Compras e Férias; cesto Delicates; Turbo Zone; Turbo Ice; sistema Twist Ice com gaveta para gelo; compressor Inverter A; alarme de porta aberta; Safe Power; iluminação LED no refrigerador e no freezer; Smart Flow; Turbo Freezer com funções Latas, Espumante e Turbo 10; Fresh Box; porta-ovos; cestos no freezer; rodízios; pés estabilizadores"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel digital touch"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "185,7 x 83,6 x 79,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "86kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

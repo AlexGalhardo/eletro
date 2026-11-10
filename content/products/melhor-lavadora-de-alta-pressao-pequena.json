@@ -1,0 +1,418 @@
+[
+	{
+		"id": "wap-wl-4000-1950psi-2000w",
+		"name": "WAP WL 4000 (1950psi) 2000W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W, a maior da lista",
+			"Motor de indução com vazão de 420L/h",
+			"Mangueira de 4 metros e cabo de 5 metros",
+			"Classe IPX5 e jatos em leque e concentrado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "2000W"
+			},
+			{
+				"label": "Pressão",
+				"value": "1950psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "420L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "indução"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "4 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de 4 metros; cabo elétrico 5 metros; bico ajustável; baioneta; engate rápido; agulha desobstruidora"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "classe de proteção IPX5; 1 ano de garantia; jato em leque e concentrado; porta acessórios"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "82,5 x 32 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ews1850-1850psi-1500w",
+		"name": "Electrolux EWS1850 (1850psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 1850psi com motor de 1500W",
+			"Proteção térmica do motor e 1 ano de garantia",
+			"Rodas e alça retrátil para transporte",
+			"Aplicador de detergente incluso no kit"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão (PSI)",
+				"value": "1850psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "280L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira; bico vario; agulha de limpeza; engate rápido; aplicador de detergente"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Stop Total; porta-acessórios com suporte; alça retrátil; rodas; cabeçote de alumínio; proteção térmica do motor; 1 ano de garantia"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,3 x 34,7 x 30,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-compacta-1500psi-1400w",
+		"name": "Kärcher Compacta (1500psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 2,95kg e medidas de 22 x 21 x 40cm",
+			"Bomba com cabeçote N-Cor e conector de alumínio",
+			"Lança de jato reto regulável na pistola",
+			"Porta-acessórios para organizar os itens"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão (PSI)",
+				"value": "1500psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "300L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; lança de jato reto regulável; mangueira de 3 metros; aplicador de detergente; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "porta-acessórios; bomba com cabeçote N-Cor e conector de alumínio"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 21 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,95kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lav-1300-1300psi-1200w",
+		"name": "Vonder LAV 1300 (1300psi) 1200W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 390L/h, a segunda maior da lista",
+			"Pistões em aço inox e alça para transporte",
+			"Conector de ½ polegada com filtro interno lavável",
+			"Lança com bico ajustável e pistola com gatilho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão (PSI / bar)",
+				"value": "1300psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "390L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para detergente; mangueira de alta pressão (3 metros); lança com bico ajustável; pistola com gatilho; conector engate rápido de ½” com filtro interno lavável"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; pistões em aço inox; alça e suportes para organização"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 30 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-qws1650-1650psi-1400w",
+		"name": "Electrolux QWS1650 (1650psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fabricação com 50% de plástico reciclado",
+			"Alça ergonômica para manuseio mais confortável",
+			"Cabeçote de alumínio e 1 ano de garantia",
+			"Bico vario e agulha de limpeza incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão (PSI)",
+				"value": "1650psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "280L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira; bico vario; agulha de limpeza; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema Stop Total; cabeçote de alumínio; fabricação com 50% de plástico reciclado; alça ergonômica; porta-acessórios; 1 ano de garantia"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,2 x 28,5 x 27,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,95kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-k3-force-car-1815psi-1500w",
+		"name": "Kärcher K3 Force CAR (1815psi) 1500W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mangueira de 6 metros, a maior da lista",
+			"Canhão de espuma e auto escova inclusos",
+			"Bico articulado de 360 graus com prolongador",
+			"Rodas grandes para movimentar o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão (PSI/bar)",
+				"value": "1815psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "360L/h"
+			},
+			{
+				"label": "Tipo de motor",
+				"value": "universal"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "6 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "canhão de espuma; bico articulado 360° com prolongador; auto escova; lança jato leque regulável; lança jato turbo rotativo; pistola ergonômica G145; engate rápido"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design plug‑and‑play; alça retrátil; rodas grandes; porta-acessórios"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 34,5 x 57,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,2kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-lap-01-gy-1600psi-1400w",
+		"name": "Mondial LAP-01-GY (1600psi) 1400W",
+		"image": "/images/posts/melhor-lavadora-de-alta-pressao-pequena-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alça para transporte e porta-acessórios integrado",
+			"Baioneta de conexão rápida e engate com adaptador",
+			"Agulha desobstruidora inclusa no kit",
+			"Vazão de 330L/h com pressão de 1600psi"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência (watts)",
+				"value": "1400W"
+			},
+			{
+				"label": "Pressão (PSI)",
+				"value": "1600psi"
+			},
+			{
+				"label": "Vazão de água",
+				"value": "330L/h"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento do cabo elétrico",
+				"value": "5 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pistola de alta pressão; baioneta com conexão rápida; lança com bico regulável; mangueira de alta pressão; engate rápido com adaptador; agulha desobstruidora"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "alça para transporte; porta‑acessórios integrado; 1 ano de garantia"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 26,5 x 23,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			}
+		]
+	}
+]

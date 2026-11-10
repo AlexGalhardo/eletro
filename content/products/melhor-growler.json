@@ -1,0 +1,313 @@
+[
+	{
+		"id": "stanley-classic-1-9-litro",
+		"name": "Stanley Classic 1,9 litro",
+		"image": "/images/posts/melhor-growler-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,9 litro com tampa flip straw",
+			"Aço inoxidável 18/8 por dentro e por fora",
+			"Até 24 horas gelada e até 4 dias com gelo",
+			"Livre de BPA",
+			"Peso de 1,18kg, o mais pesado da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip straw"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 24 horas gelada; até 4 dias com gelo; até 18 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "29,7 x 12,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,18kg"
+			}
+		]
+	},
+	{
+		"id": "ntk-301360-1-9-litro",
+		"name": "NTK 301360 1,9 litro",
+		"image": "/images/posts/melhor-growler-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,9 litro com tampa flip straw",
+			"Até 24 horas gelada e até 8 horas quente",
+			"Parede externa em aço inoxidável 201 e interna em 304",
+			"Peso de 897g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip straw"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 24 horas gelada; até 8 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 201"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "29,2 x 12,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "897g"
+			}
+		]
+	},
+	{
+		"id": "coleman-growler-1-9-litro",
+		"name": "Coleman ‎Growler 1,9 litro",
+		"image": "/images/posts/melhor-growler-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 76 horas gelada e 41 horas quente",
+			"Tampa de rosca para vedar o recipiente",
+			"Aço inoxidável 18/08 por dentro e por fora",
+			"Livre de BPA",
+			"Peso de 858g e dimensões de 26,5 x 11,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosca"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 76 horas gelada; até 41 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/08"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/08"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "26,5 x 11,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "858g"
+			}
+		]
+	},
+	{
+		"id": "versity-inox-coldkeeper-1-9-litro",
+		"name": "Versity Inox Coldkeeper 1,9 litro",
+		"image": "/images/posts/melhor-growler-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa Sport para beber com praticidade",
+			"Até 24 horas gelada e 12 horas quente",
+			"Aço inoxidável 304 por dentro e por fora",
+			"Peso de 650g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "Sport"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 24 horas gelada; até 12 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Peso",
+				"value": "650g"
+			}
+		]
+	},
+	{
+		"id": "bubba-barril-1-5-litro",
+		"name": "Bubba Barril 1,5 litro",
+		"image": "/images/posts/melhor-growler-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,54 litro com canudo embutido",
+			"Tampa multifuncional com bico giratório",
+			"Aço inoxidável por dentro e por fora",
+			"Livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,54 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "multifuncional, com canudo embutido e bico giratório"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "moduz-60oz-1-7-litro",
+		"name": "Moduz 60oz 1,7 litro",
+		"image": "/images/posts/melhor-growler-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,7 litro com tampa pop-up",
+			"Até 12 horas quente",
+			"Aço inoxidável por dentro e por fora",
+			"Dimensões de 30,5 x 10,5cm e peso de 644g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,7 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "pop-up"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 12 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "30,5 x 10,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "644g"
+			}
+		]
+	},
+	{
+		"id": "bubba-2149571-1-8-litro",
+		"name": "Bubba 2149571 1,8 litro",
+		"image": "/images/posts/melhor-growler-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 80 horas gelada, a maior conservação da lista",
+			"Até 26 horas quente com tampa de rosca",
+			"Capacidade de 1,8 litro em aço inoxidável",
+			"Livre de BPA",
+			"Peso de 748g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosca"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 80 horas gelada; até 26 horas quente"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "28,4 x 12,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "748g"
+			}
+		]
+	}
+]

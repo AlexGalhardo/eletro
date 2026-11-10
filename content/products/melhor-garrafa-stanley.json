@@ -1,0 +1,346 @@
+[
+	{
+		"id": "stanley-growler-classic-1-9-litro",
+		"name": "Stanley Growler Classic 1,9 litro",
+		"image": "/images/posts/melhor-garrafa-stanley-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,9 litro com tampa flip",
+			"Até 18 horas quente e até 4 dias com gelo",
+			"Aço inox 18/8 interno e externo, livre de BPA",
+			"Peso de 1,18kg e dimensões de 29,7 x 16,8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 18 horas quente; até 24 horas gelada; até 4 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "29,7 x 16,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,18kg"
+			}
+		]
+	},
+	{
+		"id": "stanley-classic-950ml",
+		"name": "Stanley Classic 950mL",
+		"image": "/images/posts/melhor-garrafa-stanley-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 950mL com tampa de rosca",
+			"Até 28 horas quente e até 5 dias com gelo",
+			"Aço inox 18/8 interno e externo, livre de BPA",
+			"Peso de 680g e dimensões de 31 x 11,4cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "950mL"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosca"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 28 horas quente; até 1,5 dia gelada; até 5 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "31 x 11,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "680g"
+			}
+		]
+	},
+	{
+		"id": "stanley-quick-flip-710ml",
+		"name": "Stanley Quick Flip 710mL",
+		"image": "/images/posts/melhor-garrafa-stanley-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 710mL com tampa flip",
+			"Até 12 horas gelada e até 40 horas com gelo",
+			"Pode ir à lava-louças e é livre de BPA",
+			"Peso de 410g e dimensões de 28,3 x 8,1cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "710mL"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 12 horas gelada; até 40 horas com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "28,3 x 8,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "410g"
+			}
+		]
+	},
+	{
+		"id": "stanley-aerolight-fast-flow-710ml",
+		"name": "Stanley Aerolight Fast Flow 710mL",
+		"image": "/images/posts/melhor-garrafa-stanley-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 710mL com tampa de rosca",
+			"Até 10 horas gelada e até 48 horas com gelo",
+			"Aço inox 18/8 interno e externo, livre de BPA",
+			"Peso de 400g e dimensões de 28,2 x 10cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "710mL"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rosca"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 10 horas gelada; até 48 horas com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "28,2 x 10cm"
+			},
+			{
+				"label": "Peso",
+				"value": "400g"
+			}
+		]
+	},
+	{
+		"id": "stanley-aerolight-flip-straw-473ml",
+		"name": "Stanley Aerolight Flip Straw 473mL",
+		"image": "/images/posts/melhor-garrafa-stanley-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 473mL com tampa flip",
+			"Até 8 horas gelada e até 40 horas com gelo",
+			"Aço inox reciclado 18/8, livre de BPA",
+			"Peso de 330g e dimensões de 21,2 x 9,3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "473mL"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 8 horas gelada; até 40 horas com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável reciclado 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável reciclado 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "21,2 x 9,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "330g"
+			}
+		]
+	},
+	{
+		"id": "stanley-aerolight-transit-591ml",
+		"name": "Stanley Aerolight Transit 591mL",
+		"image": "/images/posts/melhor-garrafa-stanley-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 591mL com tampa flip",
+			"Até 8 horas quente e até 2 dias com gelo",
+			"Pode ir à lava-louças e é livre de BPA",
+			"Peso de 284g e dimensões de 24,2 x 7,2cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "591mL"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "flip"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 8 horas quente; até 12 horas gelada; até 2 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "24,2 x 7,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "284g"
+			}
+		]
+	},
+	{
+		"id": "stanley-adventure-2-0-matte-1-litro",
+		"name": "Stanley Adventure 2.0 Matte 1 litro",
+		"image": "/images/posts/melhor-garrafa-stanley-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro com tampa tipo rolha",
+			"Até 25 horas quente e até 5 dias com gelo",
+			"Aço inox 18/8 interno e externo, livre de BPA",
+			"Peso de 679g e dimensões de 30,5 x 8,9cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Tipo de tampa",
+				"value": "rolha"
+			},
+			{
+				"label": "Tempo de conservação térmica",
+				"value": "até 25 horas quente; até 27 horas gelada; até 5 dias com gelo"
+			},
+			{
+				"label": "Material externo",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Material interno",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Livre de BPA",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "30,5 x 8,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "679g"
+			}
+		]
+	}
+]

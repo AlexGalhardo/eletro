@@ -1,0 +1,412 @@
+[
+	{
+		"id": "philco-pfv300i-232-litros",
+		"name": "Philco PFV300I 232 litros",
+		"image": "/images/posts/melhor-freezer-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato vertical com 232 litros de capacidade",
+			"Painel touch externo para ajustar a temperatura",
+			"Refrigeração Frost Free que dispensa degelo manual",
+			"Temperatura mínima de até -24°C",
+			"Classificação energética A em tensão 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade",
+				"value": "232 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "externo, com painel touch"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -24°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "Frost Free"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "177 x 65 x 68,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "68,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh515b-492-litros",
+		"name": "Philco PFH515B 492 litros",
+		"image": "/images/posts/melhor-freezer-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade da lista, com 492 litros",
+			"Classificação energética A com consumo de 64kWh por mês",
+			"Controle de temperatura eletrônico",
+			"Temperatura mínima de até -18°C",
+			"Refrigeração por compressor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "492 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "64kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "88,4 x 164,4 x 75,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "59,05kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh205b-199-litros",
+		"name": "Philco PFH205B 199 litros",
+		"image": "/images/posts/melhor-freezer-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"199 litros de capacidade com consumo de 34,5kWh por mês",
+			"Termostato mecânico com ajuste de temperatura",
+			"Temperatura mínima de até -18°C",
+			"Um cesto incluso para organizar os congelados",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "199 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "34,5kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 81,8 x 60,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh300b-299-litros",
+		"name": "Philco PFH300B 299 litros",
+		"image": "/images/posts/melhor-freezer-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"299 litros de capacidade em formato horizontal",
+			"Consumo de 47kWh por mês com classificação A",
+			"Termostato mecânico com ajuste de temperatura",
+			"Refrigeração por compressor",
+			"Tensão de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "299 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "47kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84 x 109 x 61,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh160b-140-litros",
+		"name": "Philco PFH160B 140 litros",
+		"image": "/images/posts/melhor-freezer-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"140 litros de capacidade com consumo de 24kWh por mês",
+			"Termostato mecânico com ajuste de temperatura",
+			"Medidas compactas de 84 x 70,5 x 55,5cm",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "140 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "24kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -18°C"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "84 x 70,5 x 55,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh105b-99-litros",
+		"name": "Philco PFH105B 99 litros",
+		"image": "/images/posts/melhor-freezer-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Consumo de 23kWh por mês, o menor da lista",
+			"Temperatura mínima de até -24°C",
+			"99 litros de capacidade para uso pequeno",
+			"Um cesto incluso",
+			"Termostato mecânico com ajuste de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "99 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Consumo",
+				"value": "23kWh/mês"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -24°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 54,5 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfh400b-371-litros",
+		"name": "Philco PFH400B 371 litros",
+		"image": "/images/posts/melhor-freezer-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"371 litros de capacidade em formato horizontal",
+			"Temperatura mínima de até -25°C, a mais baixa da lista",
+			"Um cesto incluso",
+			"Termostato mecânico com ajuste de temperatura",
+			"Classificação energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "horizontal"
+			},
+			{
+				"label": "Capacidade",
+				"value": "371 litros"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "termostato mecânico com ajuste de temperatura"
+			},
+			{
+				"label": "Temperatura mínima",
+				"value": "até -25°C"
+			},
+			{
+				"label": "Quantidade de cestos",
+				"value": "1"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Medidas (A x L x P)",
+				"value": "85 x 130 x 66,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "45kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
