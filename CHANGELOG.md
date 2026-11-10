@@ -6,6 +6,14 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.4.0] - 2026-11-10
+
+### Changed
+
+- Home: filtros de categoria numa barra lateral fixa à esquerda no desktop e posts em duas colunas; no celular e no tablet, as categorias ficam no menu.
+- Busca da barra de navegação: cada resultado mostra a capa, o título e a data do post.
+- Bordas menos arredondadas em todo o site, inclusive no campo de busca.
+
 ## [2.3.0] - 2026-11-10
 
 ### Added
@@ -449,7 +457,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.4.0...HEAD
+[2.4.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.3.0...v2.4.0
 [2.3.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.2...v2.1.0

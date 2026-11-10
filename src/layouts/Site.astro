@@ -2,12 +2,20 @@
 import Footer from "#lib/components/Footer.svelte";
 import Header from "#lib/components/Header.svelte";
 import LoadingBar from "#lib/components/LoadingBar.svelte";
-import { getPosts } from "#lib/server/content.ts";
+import { coverVariant } from "#lib/content/cover.ts";
+import { coverWidths, getPosts } from "#lib/server/content.ts";
 import Root from "./Root.astro";
 
 const posts = getPosts();
 const activeCategories = [...new Set(posts.map((post) => post.category))];
-const searchIndex = posts.map(({ slug, title }) => ({ slug, title }));
+// The smallest resized cover keeps the index light; without copies (development) the original is used.
+const searchIndex = posts.map(({ slug, title, date, cover, category }) => ({
+	slug,
+	title,
+	date,
+	category,
+	cover: (coverWidths(cover).length > 0 && coverVariant(cover, 480)) || cover,
+}));
 ---
 
 <Root {...Astro.props}>

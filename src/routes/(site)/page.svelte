@@ -64,17 +64,24 @@
 <CookieBanner />
 
 <main class="min-h-screen bg-gray-50 text-black dark:bg-black dark:text-white">
-	<div class="border-b border-gray-200 bg-white dark:border-zinc-800 dark:bg-zinc-950">
-		<div class="mx-auto max-w-6xl px-3 sm:px-6 lg:px-8">
+	<!-- Desktop: a sticky sidebar on the left of the posts. Below lg the categories live in the hamburger menu. -->
+	<div class="mx-auto max-w-6xl px-3 sm:px-6 lg:grid lg:grid-cols-[14rem_1fr] lg:items-start lg:gap-8 lg:px-8 lg:py-8">
+		<aside
+			aria-label="Filtrar por categoria"
+			class="sticky top-24 hidden max-h-[calc(100vh-7rem)] overflow-y-auto rounded-2xl border border-gray-200 bg-white lg:block dark:border-zinc-800 dark:bg-zinc-950"
+		>
+			<h2 class="px-4 pt-4 text-xs font-bold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+				Categorias
+			</h2>
 			<div
-				class="scrollbar-hide -mx-3 flex items-center gap-1.5 overflow-x-auto px-3 py-3 sm:mx-0 sm:px-0"
+				class="flex flex-col gap-1.5 p-3"
 			>
 				{#each categories as category (category.id)}
 					<button
 						type="button"
 						onclick={() => select(category.id)}
 						aria-pressed={selected === category.id}
-						class="flex shrink-0 grow cursor-pointer items-center justify-center gap-1.5 rounded-full border px-3 py-2 text-xs font-semibold tracking-wide whitespace-nowrap uppercase transition-colors duration-200 {selected ===
+						class="flex cursor-pointer items-center gap-1.5 rounded-lg border px-3 py-2 text-xs font-semibold tracking-wide whitespace-nowrap uppercase transition-colors duration-200 {selected ===
 						category.id
 							? 'border-blue-600 bg-blue-600 text-white'
 							: 'border-gray-200 text-gray-600 hover:border-blue-500 hover:text-blue-600 dark:border-zinc-700 dark:text-gray-300 dark:hover:text-blue-400'}"
@@ -84,11 +91,19 @@
 					</button>
 				{/each}
 			</div>
-		</div>
-	</div>
+		</aside>
 
-	<div class="mx-auto max-w-6xl px-3 py-8 sm:px-6 lg:px-8">
-		<div class="grid grid-cols-1 gap-5 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3">
+	<div class="py-8 lg:py-0">
+		{#if selected !== "all"}
+			<p class="mb-4 text-sm text-gray-600 lg:hidden dark:text-gray-400" aria-live="polite">
+				Categoria: <strong class="text-gray-900 dark:text-white">{categories.find((category) => category.id === selected)?.label}</strong>
+				·
+				<button type="button" onclick={() => select("all")} class="cursor-pointer text-blue-600 underline dark:text-blue-400">
+					Ver todas
+				</button>
+			</p>
+		{/if}
+		<div class="grid grid-cols-1 gap-5 sm:grid-cols-2 sm:gap-6">
 			{#each visible as post, index (post.slug)}
 				<a
 					href="/{post.slug}"
@@ -102,7 +117,7 @@
 							<img
 								src={post.cover}
 								srcset={coverSrcset(post.cover, post.coverWidths)}
-								sizes="(min-width: 1024px) 384px, (min-width: 640px) 50vw, 100vw"
+								sizes="(min-width: 1024px) 420px, (min-width: 640px) 50vw, 100vw"
 								alt={post.title}
 								decoding="async"
 								loading={index < 2 ? "eager" : "lazy"}
@@ -136,5 +151,6 @@
 		</div>
 
 		<div bind:this={sentinel} class="flex justify-center pt-8"></div>
+	</div>
 	</div>
 </main>

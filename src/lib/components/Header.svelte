@@ -2,12 +2,13 @@
 	import { Menu, Moon, Search, Sun, X } from "@lucide/svelte";
 	import Fuse from "fuse.js";
 	import { onMount } from "svelte";
+	import { formatDate } from "#lib/format.ts";
 	import { site } from "#lib/site.config.ts";
 	import { syncTheme, theme, toggleTheme } from "#lib/theme.svelte.ts";
 	import { goto } from "$app/navigation";
 	import MobileSidebar from "./MobileSidebar.svelte";
 
-	type SearchItem = { slug: string; title: string };
+	type SearchItem = { slug: string; title: string; date: string; cover: string; category: string };
 
 	let { posts }: { posts: SearchItem[] } = $props();
 
@@ -115,7 +116,23 @@
 					select(post);
 				}}
 			>
-				<div class="line-clamp-2 text-sm font-medium">{post.title}</div>
+				<div class="flex items-center gap-3">
+					{#if post.cover}
+						<img
+							src={post.cover}
+							alt=""
+							loading="lazy"
+							decoding="async"
+							class="aspect-video w-20 shrink-0 rounded bg-gray-100 object-cover dark:bg-zinc-900"
+						/>
+					{/if}
+					<div class="min-w-0">
+						<div class="line-clamp-1 text-sm font-medium">{post.title}</div>
+						<time datetime={post.date} class="text-xs text-gray-500 dark:text-gray-400">
+							{formatDate(post.date)}
+						</time>
+					</div>
+				</div>
 			</div>
 		{/each}
 	</div>
@@ -156,7 +173,7 @@
 						bind:value={searchTerm}
 						onkeydown={onKeydown}
 						onfocus={onFocus}
-						class="w-full rounded-full border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black transition-colors placeholder:text-gray-500 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/40 focus:outline-none dark:border-zinc-800 dark:bg-zinc-900 dark:text-white dark:placeholder:text-gray-400 dark:focus:border-blue-500"
+						class="w-full rounded-lg border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black transition-colors placeholder:text-gray-500 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/40 focus:outline-none dark:border-zinc-800 dark:bg-zinc-900 dark:text-white dark:placeholder:text-gray-400 dark:focus:border-blue-500"
 					/>
 					{#if suggestionsOpen}
 						{@render suggestions()}
@@ -195,7 +212,7 @@
 							bind:value={searchTerm}
 							onkeydown={onKeydown}
 							onfocus={onFocus}
-							class="w-full rounded-full border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black placeholder:text-gray-500 dark:border-zinc-800 dark:bg-zinc-900 dark:text-white"
+							class="w-full rounded-lg border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black placeholder:text-gray-500 dark:border-zinc-800 dark:bg-zinc-900 dark:text-white"
 						/>
 						{#if suggestionsOpen}
 							{@render suggestions()}
@@ -207,4 +224,8 @@
 	</div>
 </div>
 
-<MobileSidebar open={sidebarOpen} onclose={() => (sidebarOpen = false)} />
+<MobileSidebar
+	open={sidebarOpen}
+	onclose={() => (sidebarOpen = false)}
+	categories={[...new Set(posts.map((post) => post.category))]}
+/>
