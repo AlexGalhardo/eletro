@@ -6,6 +6,14 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.3.0] - 2026-11-10
+
+### Added
+
+- Feature flags: `content/flags.json` (versionado) e `/admin/flags` (página estática, vale para o GitHub Pages), com override por navegador.
+- Prévia dos rascunhos em `/preview/<slug>`, com `noindex`, `Disallow` no `robots.txt` e fora do sitemap, do `llms.txt`, da API e do dashboard de links.
+- Flag `allStoreButtons`: os cartões mostram os botões de Mercado Livre, Shopee e Amazon mesmo sem link real.
+
 ## [2.2.0] - 2026-11-10
 
 ### Added
@@ -441,7 +449,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.2.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.3.0...HEAD
+[2.3.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.2...v2.1.0
 [2.0.2]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.1...v2.0.2

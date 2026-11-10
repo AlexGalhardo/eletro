@@ -21,6 +21,7 @@ describe("public crawl files", () => {
 		const robotsBody = await (await robots()).text();
 		expect(robotsBody).toContain("Disallow: /admin");
 		expect(robotsBody).toContain("Disallow: /api");
+		expect(robotsBody).toContain("Disallow: /preview");
 		expect(robotsBody).toContain(`Sitemap: ${site.url}/sitemap.xml`);
 
 		const llmsBody = await (await llms()).text();

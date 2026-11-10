@@ -13,6 +13,7 @@ Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 Disallow: /admin
 Disallow: /api
+Disallow: /preview
 
 ${site.blockedCrawlers.map((name) => `User-agent: ${name}`).join("\n")}
 Disallow: /

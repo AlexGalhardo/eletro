@@ -1,8 +1,11 @@
 import type { CatalogueProduct } from "../affiliate-links.ts";
 import { buildCatalogue } from "../content/affiliate.ts";
 import { coverWidths as widthsOf } from "../content/cover.ts";
-import { isPublished, parsePost } from "../content/parse.ts";
+import { isPublished, parsePost, referencedLists } from "../content/parse.ts";
+import { type PostStatusRow, postStatusRow } from "../content/post-status.ts";
+import { renderPostBody } from "../content/render-body.ts";
 import { type Post, type Product, productListSchema } from "../content/schema.ts";
+import { flagDefaults } from "../flags.ts";
 
 // Content is bundled at build time, so the public site needs no filesystem or network access.
 const postFiles = import.meta.glob<string>("/content/posts/*.mdx", {
@@ -43,6 +46,33 @@ export function getPosts(): Post[] {
 export function getPost(slug: string): { post: Post; body: string } | undefined {
 	const entry = parsed.find((candidate) => candidate.post.slug === slug);
 	return entry && isPublished(entry.post) ? entry : undefined;
+}
+
+/** What the post page component needs, for the public page and for the draft preview alike. */
+export function postPageData({ post, body }: { post: Post; body: string }) {
+	const lists: Record<string, Product[]> = {};
+	for (const list of referencedLists(body)) {
+		const products = productLists.get(list);
+		if (products) lists[list] = products;
+	}
+	return {
+		post,
+		coverWidths: coverWidths(post.cover),
+		productLists: lists,
+		segments: renderPostBody(body),
+	};
+}
+
+/** Drafts and scheduled posts, built at /preview/<slug> while the `previewDrafts` flag is on. */
+export function getPreviewPosts(): { post: Post; body: string }[] {
+	return flagDefaults.previewDrafts ? parsed.filter((entry) => !isPublished(entry.post)) : [];
+}
+
+/** Every post with its draft flag and link counts, for /admin/flags. */
+export function getPostStatusRows(): PostStatusRow[] {
+	return parsed.map(({ post, body }) =>
+		postStatusRow(post, [...new Set(referencedLists(body))], productLists),
+	);
 }
 
 export function getProductList(list: string): Product[] | undefined {
