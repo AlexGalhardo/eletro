@@ -1,0 +1,330 @@
+[
+	{
+		"id": "ninja-fo101-28-4-litros-1800w",
+		"name": "Ninja FO101 (28,4 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-ninja-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade da lista, com 28,4 litros",
+			"10 funções, incluindo pizza, torrada e bagel",
+			"Portas duplas estilo french door",
+			"Pré-aquecimento rápido de 90 segundos",
+			"Acessórios compatíveis com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "28,4 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "37ºC a 232ºC"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital com botões físicos"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "10 funções (Air Fry, Air Roast, Whole Roast, Bake, Pizza, Broil, Reheat, Dehydrate, Toast e Bagel); tecnologia de ar ciclônico 232ºC; pré-aquecimento rápido de 90 segundos; portas duplas estilo french door; superfícies sem PFAS; acessórios compatíveis com lava-louças; iluminação interna; bandeja coletora removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,2 x 40,1 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-sfp701-13-6-litros-1760w",
+		"name": "Ninja SFP701 (13,6 litros) 1760W",
+		"image": "/images/posts/melhor-air-fryer-ninja-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"14 funções, incluindo cozimento no vapor e sous vide",
+			"Tecnologia Ninja Combi com HyperSteam",
+			"Preparo simultâneo de proteínas, vegetais e grãos",
+			"Função 3 em 1: multicooker, forno e air fryer",
+			"Acessórios compatíveis com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13,6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1760W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "14 funções (Combi Meals, Combi Crisp, Combi Bake, Rice/Pasta, Sear/Sauté, Steam, Bake, Toast, Pizza, Slow Cook, Proof, Sous Vide, Air Fry e Broil); tecnologia Ninja Combi™ (HyperSteam + Air Fry); preparo de refeições completas em até 15 minutos; preparo simultâneo de proteínas, vegetais e grãos; descongelamento e preparo em menos de 30 minutos; função multifuncional 3 em 1 (multicooker, forno e air fryer); acessórios compatíveis com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43 x 43,5 x 46,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-dz201-8-litros-1690w",
+		"name": "Ninja DZ201 (8 litros) 1690W",
+		"image": "/images/posts/melhor-air-fryer-ninja-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia DualZone com duas zonas independentes",
+			"Controle de tempo e temperatura por cesta",
+			"Placas crisper removíveis",
+			"Revestimento cerâmico antiaderente",
+			"Temperatura de até 204°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1690W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 204°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "6 funções (Air Fry, Air Broil, Roast, Bake, Reheat e Dehydrate); tecnologia DualZone™; Smart Finish; Match Cook; preparo simultâneo em duas zonas independentes; ventilação ciclônica com aquecimento rápido; revestimento cerâmico antiaderente; controle independente de tempo e temperatura por cesta; placas crisper removíveis"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,3 x 40,2 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-sl201-8-litros-1690w",
+		"name": "Ninja SL201 (8 litros) 1690W",
+		"image": "/images/posts/melhor-air-fryer-ninja-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Racks empilháveis para preparo em dois níveis",
+			"Preparo de até 4 alimentos simultaneamente",
+			"Design vertical compacto",
+			"Compatível com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1690W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "6 funções (Air Fry, Air Broil, Roast, Bake, Reheat e Dehydrate); tecnologia DoubleStack™; preparo de até 4 alimentos simultaneamente; racks empilháveis para preparo em dois níveis; Smart Finish; Match Cook; design vertical compacto; compatíveis com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 33,4 x 49,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-af161-5-5-litros-1750w",
+		"name": "Ninja AF161 (5,5 litros) 1750W",
+		"image": "/images/posts/melhor-air-fryer-ninja-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Max Crisp para alimentos congelados",
+			"Pausa automática ao remover o cesto",
+			"Revestimento cerâmico antiaderente",
+			"Temperatura de 40°C a 232°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 232°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "Max Crisp; Air Fry; Air Roast; Air Broil; Bake; Reheat; Dehydrate; pausa automática ao remover o cesto; revestimento cerâmico antiaderente; modo Max Crisp para alimentos congelados"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,6 x 27,9 x 35,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,3kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-dg551-3-8-litros-1760w",
+		"name": "Ninja DG551 (3,8 litros) 1760W",
+		"image": "/images/posts/melhor-air-fryer-ninja-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Termômetro inteligente integrado",
+			"Controle de ponto da carne, do mal passado ao bem passado",
+			"Tecnologia Cyclonic Grilling",
+			"Escudo antirrespingos",
+			"Temperatura de até 260°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1760W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 260°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "6 funções (Grill, Air Crisp, Roast, Bake, Broil e Dehydrate); tecnologia Cyclonic Grilling; Smart Cook System; termômetro inteligente integrado; controle de ponto da carne (mal passado ao bem passado); escudo antirrespingos; compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,7 x 45,6 x 47,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,9kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-af101-3-8-litros-1550w",
+		"name": "Ninja AF101 (3,8 litros) 1550W",
+		"image": "/images/posts/melhor-air-fryer-ninja-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura ajustável de 40°C a 200°C",
+			"Tecnologia MaxCrisp",
+			"Temporizador e superfície antiaderente",
+			"Peso de 5kg e dimensões de 33 x 27 x 35cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1550W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "Air Fry; Roast (assar); Reheat; Dehydrate; tecnologia MaxCrisp; temperatura ajustável; temporizador; superfície antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 27 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	}
+]

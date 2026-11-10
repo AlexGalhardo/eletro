@@ -1,0 +1,332 @@
+[
+	{
+		"id": "philips-skin-protect-x5012-05",
+		"name": "Philips Skin Protect X5012/05",
+		"image": "/images/posts/melhor-barbeador-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina rotativa em aço inoxidável hipoalergênico",
+			"Autonomia de 50 minutos com recarga de 1 hora",
+			"Pode ser usado no banho",
+			"Tampa de proteção e aparador de precisão inclusos",
+			"Peso aproximado de 400g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "50 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Lâminas",
+				"value": "rotativa"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável hipoalergênico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa de proteção; aparador de precisão"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "400g"
+			}
+		]
+	},
+	{
+		"id": "philips-bodygroom-bg3007-01",
+		"name": "Philips Bodygroom BG3007/01",
+		"image": "/images/posts/melhor-barbeador-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de precisão com dois pré-aparadores",
+			"Pode ser usado no banho",
+			"Pente aparador de 3mm incluso",
+			"Carregador e cabo USB-A inclusos",
+			"Peso aproximado de 220g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão com dois pré-aparadores"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável hipoalergênica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente aparador de 3mm; carregador; cabo USB-A"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			}
+		]
+	},
+	{
+		"id": "philips-oneblade-qp2724-10",
+		"name": "Philips OneBlade QP2724/10",
+		"image": "/images/posts/melhor-barbeador-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina dupla-face de precisão em aço inoxidável",
+			"Três pentes de 1mm, 3mm e 5mm inclusos",
+			"Pode ser usado no banho",
+			"Autonomia de 45 minutos com recarga de 8 horas",
+			"Tampa de proteção e cabo USB-A inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão dupla-face"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 pentes (1mm, 3mm e 5mm); tampa de proteção; cabo USB-A"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-10-bg-03",
+		"name": "Mondial Super Groom 10 BG-03",
+		"image": "/images/posts/melhor-barbeador-eletrico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos, a maior da lista",
+			"Cinco aparadores e quatro pentes inclusos",
+			"Pente ajustável com 16 alturas",
+			"Óleo lubrificante e base carregadora inclusos",
+			"Peso aproximado de 390g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 aparadores; 4 pentes (3mm, 6mm, 9mm e 12mm); pente ajustável com 16 alturas; óleo lubrificante; base carregadora; carregador; manual de instruções"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-11-bg-05",
+		"name": "Mondial Super Groom 11 BG-05",
+		"image": "/images/posts/melhor-barbeador-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos, a maior da lista",
+			"Cinco pentes, de 3mm a 15mm",
+			"Pente ajustável com 16 alturas",
+			"Base carregadora e óleo lubrificante inclusos",
+			"Lâmina de precisão em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 aparadores; 5 pentes (3mm, 6mm, 9mm, 12mm e 15mm); pente ajustável com 16 alturas; óleo lubrificante; base carregadora; carregador; manual de instruções"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "philips-s1151-00",
+		"name": "Philips S1151/00",
+		"image": "/images/posts/melhor-barbeador-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina rotativa com tampa de proteção",
+			"Pode ser usado no banho",
+			"Autonomia de 40 minutos com recarga de 8 horas",
+			"Peso aproximado de 367g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "rotativa"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa de proteção"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "367g"
+			}
+		]
+	},
+	{
+		"id": "philco-multigroom-pap03",
+		"name": "Philco Multigroom PAP03",
+		"image": "/images/posts/melhor-barbeador-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco cabeças de corte e dez pentes para barba, cabelo e corpo",
+			"Pode ser usado no banho",
+			"Autonomia de 45 minutos com recarga de 8 horas",
+			"Suporte para acessórios e base carregadora",
+			"Pente comum e óleo lubrificante inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Lâminas",
+				"value": "de precisão"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 cabeças de corte; 10 pentes (barba: 2mm, 4mm, 6mm e 8mm), (cabelo: 3mm, 6mm, 9mm e 12mm) e (corpo: 3mm, 6mm e 9mm); pente comum; óleo lubrificante; base carregadora; suporte para acessórios"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "250g"
+			}
+		]
+	}
+]

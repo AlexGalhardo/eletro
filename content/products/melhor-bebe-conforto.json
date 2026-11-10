@@ -1,0 +1,414 @@
+[
+	{
+		"id": "cosco-kids-travel-system-toffy-duo",
+		"name": "Cosco Kids Travel System Toffy Duo",
+		"image": "/images/posts/melhor-bebe-conforto-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg, com instalação de costas",
+			"Modo berço e múltiplas posições de reclinação",
+			"Cinto de 5 pontos com ajuste de altura e largura",
+			"Tecido removível e lavável à máquina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "múltiplas posições no carrinho, incluindo modo berço"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "redutor acolchoado com apoio de cabeça integrado"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com ajuste de altura e largura"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster e HDPE"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável à máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro (ABNT NBR 14.400)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 43 x 53cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-travel-system-reverse-duo",
+		"name": "Cosco Kids Travel System Reverse Duo",
+		"image": "/images/posts/melhor-bebe-conforto-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg com instalação de costas",
+			"Modo berço e múltiplas posições de reclinação",
+			"Cinto de 3 pontos com ajuste de altura e largura",
+			"Encosto de cabeça acolchoado e reposicionável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "múltiplas posições no carrinho, incluindo modo berço"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "almofada acolchoada reposicionável"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos com ajuste de altura e largura"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster e HDPE"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro (ABNT NBR 14.400)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 43 x 53cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-wizz",
+		"name": "Cosco Kids Wizz",
+		"image": "/images/posts/melhor-bebe-conforto-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg com instalação de costas",
+			"Aprovado para uso em aviões, além do Inmetro",
+			"Cinto de 3 pontos com ajuste de altura e largura",
+			"Tecido removível e lavável à máquina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "—"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "almofada acolchoada removível"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos com ajuste de altura e largura"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster e HDPE"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável à máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro (ABNT NBR 14.400) e aprovado para uso em aviões"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 43 x 53cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "galzerano-grid",
+		"name": "Galzerano Grid",
+		"image": "/images/posts/melhor-bebe-conforto-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg com cinto de 3 pontos",
+			"Cinto com indicador de travamento",
+			"Encosto redutor acolchoado e removível",
+			"Dimensões de 55 x 43 x 64cm e peso de 2,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "—"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "redutor acolchoado removível"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos com indicador de travamento"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster e plástico"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro (NBR 14.400)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 43 x 64cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,2kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-comfort",
+		"name": "Maxi Baby Comfort",
+		"image": "/images/posts/melhor-bebe-conforto-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg com instalação de costas",
+			"Cinto de 3 pontos com dois ajustes de altura",
+			"Almofada redutora acolchoada e removível",
+			"Dimensões de 27 x 43 x 66cm e peso de 3,25kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "—"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "almofada redutora acolchoada removível"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos com 2 ajustes de altura"
+			},
+			{
+				"label": "Material do assento",
+				"value": "plástico, espuma, poliuretano e tecido"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro Nº 009750/2022"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 43 x 66cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "3,25kg"
+			}
+		]
+	},
+	{
+		"id": "burigotto-rio-k-travel-system",
+		"name": "Burigotto Rio K Travel System",
+		"image": "/images/posts/melhor-bebe-conforto-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 15kg com instalação de costas",
+			"Protetor removível para recém-nascidos",
+			"Cinto de 3 pontos para bebê conforto e 5 pontos para carrinho",
+			"Reclinação em múltiplas posições no carrinho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 15kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "múltiplas posições no carrinho"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "protetor removível para recém-nascidos"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos (bebê conforto) e 5 pontos (carrinho)"
+			},
+			{
+				"label": "Material do assento",
+				"value": "plástico de engenharia com tecido acolchoado"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro Nº 009907/2019"
+			}
+		]
+	},
+	{
+		"id": "burigotto-mon-amour",
+		"name": "Burigotto Mon Amour",
+		"image": "/images/posts/melhor-bebe-conforto-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupo 0+ até 13kg com instalação de costas",
+			"Cinto de 3 pontos com ajuste de altura nos ombros",
+			"Dimensões de 60 x 44,5 x 65cm e peso de 2,7kg",
+			"Protetor e tecido removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Grupos de peso",
+				"value": "0+ (de 0 a 13kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 1 ano"
+			},
+			{
+				"label": "Instalação",
+				"value": "de costas, com cinto de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "—"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "protetor removível"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "3 pontos com ajuste de altura nos ombros"
+			},
+			{
+				"label": "Material do assento",
+				"value": "plástico de engenharia com tecido acolchoado"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro Nº 011460/2023"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60 x 44,5 x 65cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,7kg"
+			}
+		]
+	}
+]

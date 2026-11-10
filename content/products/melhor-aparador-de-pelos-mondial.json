@@ -1,0 +1,311 @@
+[
+	{
+		"id": "mondial-super-groom-bg-05",
+		"name": "Mondial Super Groom BG-05",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 90 minutos de autonomia",
+			"Lâminas de precisão em aço inoxidável",
+			"Kit com 5 aparadores e 6 pentes de corte",
+			"Pente ajustável em 16 níveis",
+			"Base carregadora inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 aparadores; 6 pentes (3mm, 6mm, 9mm, 12mm e 15mm); pente ajustável em 16 níveis; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-bg-03",
+		"name": "Mondial Super Groom BG-03",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 90 minutos de autonomia",
+			"Lâminas de precisão em aço inoxidável",
+			"Pentes de 3, 6, 9 e 12mm para diferentes comprimentos",
+			"5 aparadores e base carregadora inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 aparadores; 5 pentes (3mm, 6mm, 9mm, 12mm); base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-bg-04",
+		"name": "Mondial Super Groom BG-04",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 90 minutos de autonomia",
+			"Lâminas de precisão em aço inoxidável",
+			"Kit com 2 aparadores, 4 pentes e base carregadora",
+			"Peso aproximado de 250g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 aparadores; 4 pentes; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "250g"
+			}
+		]
+	},
+	{
+		"id": "mondial-classic-tr-01",
+		"name": "Mondial Classic TR-01",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alimentado por pilha AA, que acompanha o aparelho",
+			"Sistema de corte com lâminas rotativas",
+			"Tampa protetora inclusa",
+			"Peso aproximado de 50g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas rotativas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa protetora; pilha AA"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "50g"
+			}
+		]
+	},
+	{
+		"id": "mondial-praticgroom-bg-09",
+		"name": "Mondial PraticGroom BG-09",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pode ser usado no banho",
+			"Autonomia de 99 minutos, a maior entre os 7 modelos",
+			"Lâminas autoafiadoras e ajustáveis em aço inoxidável",
+			"5 pentes de corte e pente ajustável de 19 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas autoafiadoras e ajustáveis"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 pentes de corte (3mm, 6mm, 9mm, 12mm e 15mm); pente ajustável (com 19 níveis)"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "280g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-bg-16",
+		"name": "Mondial Super Groom BG-16",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 90 minutos de autonomia",
+			"Lâminas de precisão em aço inoxidável",
+			"5 pentes de corte, 5 aparadores e pente de 16 níveis",
+			"Base carregadora inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 pentes de corte; 5 aparadores; pente ajustável com 16 níveis; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "mondial-super-groom-bg-08",
+		"name": "Mondial Super Groom BG-08",
+		"image": "/images/posts/melhor-aparador-de-pelos-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 90 minutos de autonomia",
+			"Lâminas de precisão em aço inoxidável",
+			"5 pentes de corte e 5 aparadores inclusos",
+			"Base carregadora inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 pentes de corte; 5 aparadores; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	}
+]

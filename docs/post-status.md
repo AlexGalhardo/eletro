@@ -7,21 +7,108 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 64 posts, 64 fora de rascunho, 0 rascunhos,
-381 links de afiliado e 22 pendentes.
+Total: 151 posts, 64 fora de rascunho, 87 rascunhos,
+381 links de afiliado e 1837 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
+| [melhor-abafador-de-ruidos](../content/posts/melhor-abafador-de-ruidos.mdx) | Melhores Abafadores de Ruído de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-abajur-de-chao](../content/posts/melhor-abajur-de-chao.mdx) | Melhores Abajures de Chão de 2026: 7 Modelos | iluminacao | true | 7 | 0 | 21 |
+| [melhor-adega-climatizada](../content/posts/melhor-adega-climatizada.mdx) | Melhores Adegas Climatizadas 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer](../content/posts/melhor-air-fryer.mdx) | Melhores Air Fryers 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-12-litros](../content/posts/melhor-air-fryer-12-litros.mdx) | Melhores Air Fryers 12 Litros 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-3-5-litros](../content/posts/melhor-air-fryer-3-5-litros.mdx) | Air Fryer 3,5 Litros de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-5-litros](../content/posts/melhor-air-fryer-5-litros.mdx) | Air Fryers 5 Litros em 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-arno](../content/posts/melhor-air-fryer-arno.mdx) | Melhores Air Fryers Arno de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-barata](../content/posts/melhor-air-fryer-barata.mdx) | Air Fryer Barata 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-britania](../content/posts/melhor-air-fryer-britania.mdx) | Melhor Air Fryer Britânia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-cadence](../content/posts/melhor-air-fryer-cadence.mdx) | Melhores Air Fryers Cadence 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-com-visor](../content/posts/melhor-air-fryer-com-visor.mdx) | Melhores Air Fryers com Visor 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-custo-beneficio](../content/posts/melhor-air-fryer-custo-beneficio.mdx) | Air Fryer Custo-Benefício 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-dako](../content/posts/melhor-air-fryer-dako.mdx) | Melhores Air Fryers Dako 2026: 5 Modelos | cozinha | true | 5 | 0 | 15 |
+| [melhor-air-fryer-digital](../content/posts/melhor-air-fryer-digital.mdx) | Melhores Air Fryers Digitais 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-electrolux](../content/posts/melhor-air-fryer-electrolux.mdx) | Air Fryers Electrolux de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-elgin](../content/posts/melhor-air-fryer-elgin.mdx) | Melhores Air Fryers Elgin 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-eos](../content/posts/melhor-air-fryer-eos.mdx) | Melhores Air Fryers EOS 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-forno](../content/posts/melhor-air-fryer-forno.mdx) | Air Fryer Forno 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-gaabor](../content/posts/melhor-air-fryer-gaabor.mdx) | Melhores Air Fryers Gaabor 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-grande](../content/posts/melhor-air-fryer-grande.mdx) | Melhores Air Fryers Grandes 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-inox](../content/posts/melhor-air-fryer-inox.mdx) | Melhores Air Fryers de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-midea](../content/posts/melhor-air-fryer-midea.mdx) | Air Fryers Midea de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-mondial](../content/posts/melhor-air-fryer-mondial.mdx) | Melhor Air Fryer Mondial 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-mondial-digital](../content/posts/melhor-air-fryer-mondial-digital.mdx) | Melhores Air Fryers Mondial 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-ninja](../content/posts/melhor-air-fryer-ninja.mdx) | Melhores Air Fryers Ninja 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-oster](../content/posts/melhor-air-fryer-oster.mdx) | Air Fryer Oster 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-pequena](../content/posts/melhor-air-fryer-pequena.mdx) | Melhores Air Fryers Pequenas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-philco](../content/posts/melhor-air-fryer-philco.mdx) | Air Fryers Philco de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-philips-walita](../content/posts/melhor-air-fryer-philips-walita.mdx) | Melhor Air Fryer Philips Walita 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-air-fryer-polishop](../content/posts/melhor-air-fryer-polishop.mdx) | Melhores Air Fryers Polishop 2026: 6 Modelos Comparados | cozinha | true | 6 | 0 | 18 |
+| [melhor-air-fryer-wap](../content/posts/melhor-air-fryer-wap.mdx) | Air Fryers WAP de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-airfryer-8-litros](../content/posts/melhor-airfryer-8-litros.mdx) | Melhor Air Fryer 8 Litros Para Comprar em 2026 | cozinha | false | 5 | 5 | 0 |
 | [melhor-alicate-corte](../content/posts/melhor-alicate-corte.mdx) | 7 Melhores Alicates de Corte | ferramentas | false | 7 | 7 | 0 |
+| [melhor-amolador-de-facas](../content/posts/melhor-amolador-de-facas.mdx) | Melhores Amoladores de Facas 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-andador-infantil](../content/posts/melhor-andador-infantil.mdx) | Melhores Andadores Infantis 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos](../content/posts/melhor-aparador-de-pelos.mdx) | Melhores Aparadores de Pelos 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-do-nariz](../content/posts/melhor-aparador-de-pelos-do-nariz.mdx) | Aparador de Pelos do Nariz 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-enssu](../content/posts/melhor-aparador-de-pelos-enssu.mdx) | Aparador de Pelos Enssu 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-feminino](../content/posts/melhor-aparador-de-pelos-feminino.mdx) | Aparadores de Pelos Femininos de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-kemei](../content/posts/melhor-aparador-de-pelos-kemei.mdx) | Aparador de Pelos Kemei 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-masculino](../content/posts/melhor-aparador-de-pelos-masculino.mdx) | Melhores Aparadores de Pelos Masculinos de 2026 | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-mondial](../content/posts/melhor-aparador-de-pelos-mondial.mdx) | Melhores Aparadores de Pelos Mondial 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparador-de-pelos-philips](../content/posts/melhor-aparador-de-pelos-philips.mdx) | Melhor Aparador de Pelos Philips 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aparelhos-de-jantar](../content/posts/melhor-aparelhos-de-jantar.mdx) | Melhores Aparelhos de Jantar de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-aquecedor-britania](../content/posts/melhor-aquecedor-britania.mdx) | Aquecedor Britânia 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-aquecedor-de-agua-eletrico](../content/posts/melhor-aquecedor-de-agua-eletrico.mdx) | Melhores Aquecedores de Água Elétricos 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-aquecedor-de-agua-lorenzetti](../content/posts/melhor-aquecedor-de-agua-lorenzetti.mdx) | Melhores Aquecedores de Água Lorenzetti 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-aquecedor-eletrico](../content/posts/melhor-aquecedor-eletrico.mdx) | Aquecedor Elétrico 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
 | [melhor-aquecedor-mondial](../content/posts/melhor-aquecedor-mondial.mdx) | Melhor Aquecedor Mondial: 6 Opções para 2026 | climatizacao | false | 6 | 6 | 0 |
+| [melhor-aquecedor-para-quartos](../content/posts/melhor-aquecedor-para-quartos.mdx) | Aquecedores para Quartos de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-ar-condicionado-9000-btus](../content/posts/melhor-ar-condicionado-9000-btus.mdx) | Melhores Ares-Condicionados 9000 BTUs 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
 | [melhor-ar-condicionado-barato](../content/posts/melhor-ar-condicionado-barato.mdx) | Melhor Ar Condicionado Barato: Top 7 de 2026 | climatizacao | false | 7 | 5 | 2 |
 | [melhor-ar-condicionado-economico](../content/posts/melhor-ar-condicionado-economico.mdx) | Melhor Ar-Condicionado Econômico Para Comprar 2026 | climatizacao | false | 7 | 7 | 0 |
 | [melhor-ar-condicionado-electrolux](../content/posts/melhor-ar-condicionado-electrolux.mdx) | Melhor Ar-Condicionado Electrolux Para Comprar em 2026 | climatizacao | false | 7 | 7 | 0 |
 | [melhor-ar-condicionado-inverter](../content/posts/melhor-ar-condicionado-inverter.mdx) | Melhor Ar-Condicionado Inverter: Top 7 de 2026 | climatizacao | false | 7 | 6 | 1 |
+| [melhor-ar-condicionado-portatil](../content/posts/melhor-ar-condicionado-portatil.mdx) | Melhores Ares-condicionados Portáteis de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-aspirador-com-filtro-hepa](../content/posts/melhor-aspirador-com-filtro-hepa.mdx) | Aspirador com Filtro HEPA 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-acaros](../content/posts/melhor-aspirador-de-acaros.mdx) | Melhores Aspiradores de Ácaros 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po](../content/posts/melhor-aspirador-de-po.mdx) | Melhores Aspiradores de Pó de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-barato](../content/posts/melhor-aspirador-de-po-barato.mdx) | Melhores Aspiradores Baratos de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-black-decker](../content/posts/melhor-aspirador-de-po-black-decker.mdx) | Melhores Aspiradores Black+Decker 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-britania](../content/posts/melhor-aspirador-de-po-britania.mdx) | Melhores Aspiradores Britânia de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-mondial](../content/posts/melhor-aspirador-de-po-mondial.mdx) | Melhores Aspiradores Mondial de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-para-carros](../content/posts/melhor-aspirador-de-po-para-carros.mdx) | Aspirador de Pó para Carro 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-philco](../content/posts/melhor-aspirador-de-po-philco.mdx) | Aspirador de Pó Philco 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-portatil-potente](../content/posts/melhor-aspirador-de-po-portatil-potente.mdx) | Melhores Aspiradores Portáteis Potentes de 2026 | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-sem-fio](../content/posts/melhor-aspirador-de-po-sem-fio.mdx) | Melhores Aspiradores de Pó Sem Fio de 2026 | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-vertical](../content/posts/melhor-aspirador-de-po-vertical.mdx) | Melhores Aspiradores Verticais 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-vertical-electrolux](../content/posts/melhor-aspirador-de-po-vertical-electrolux.mdx) | Melhor Aspirador Vertical Electrolux 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-vertical-mondial](../content/posts/melhor-aspirador-de-po-vertical-mondial.mdx) | Melhores Aspiradores Verticais Mondial de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-po-vertical-wap](../content/posts/melhor-aspirador-de-po-vertical-wap.mdx) | Melhores Aspiradores de Pó WAP 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-de-secrecao](../content/posts/melhor-aspirador-de-secrecao.mdx) | Melhores Aspiradores de Secreção 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-aspirador-karcher](../content/posts/melhor-aspirador-karcher.mdx) | Melhores Aspiradores Kärcher de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-oster](../content/posts/melhor-aspirador-oster.mdx) | Melhor Aspirador Oster 2026: 6 Modelos Comparados | limpeza | true | 6 | 0 | 18 |
 | [melhor-aspirador-po-agua](../content/posts/melhor-aspirador-po-agua.mdx) | Melhor Aspirador de Pó e Água em 2026 | limpeza | false | 5 | 5 | 0 |
 | [melhor-aspirador-po-electrolux](../content/posts/melhor-aspirador-po-electrolux.mdx) | Melhores aspiradores de pó Electrolux para sua casa | limpeza | false | 7 | 6 | 1 |
 | [melhor-aspirador-po-vertical-britania](../content/posts/melhor-aspirador-po-vertical-britania.mdx) | Comprar Aspirador de Pó Vertical Britânia: Melhores Modelos 2026 | limpeza | false | 6 | 6 | 0 |
+| [melhor-aspirador-robo](../content/posts/melhor-aspirador-robo.mdx) | Melhores Robôs Aspiradores de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-vonder](../content/posts/melhor-aspirador-vonder.mdx) | Melhores Aspiradores Vonder de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-aspirador-wap](../content/posts/melhor-aspirador-wap.mdx) | Melhores Aspiradores Wap de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-barbeador-eletrico](../content/posts/melhor-barbeador-eletrico.mdx) | Barbeador Elétrico 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-barbeador-kemei](../content/posts/melhor-barbeador-kemei.mdx) | Melhores Barbeadores Kemei de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-barbeador-philips](../content/posts/melhor-barbeador-philips.mdx) | Melhor Barbeador Philips 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-barraca-de-camping](../content/posts/melhor-barraca-de-camping.mdx) | Melhores Barracas de Camping de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-batedeira-britania](../content/posts/melhor-batedeira-britania.mdx) | Melhores Batedeiras Britânia de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-batedeira-planetaria](../content/posts/melhor-batedeira-planetaria.mdx) | Melhores Batedeiras Planetárias de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-batedeiras-mondial](../content/posts/melhor-batedeiras-mondial.mdx) | Melhores Batedeiras Mondial 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-batedeiras-philco](../content/posts/melhor-batedeiras-philco.mdx) | Melhores Batedeiras Philco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-bebe-conforto](../content/posts/melhor-bebe-conforto.mdx) | Bebê Conforto 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-bebedouro-de-agua](../content/posts/melhor-bebedouro-de-agua.mdx) | Melhores Bebedouros de Água 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-bebedouro-de-mesa](../content/posts/melhor-bebedouro-de-mesa.mdx) | Melhores Bebedouros de Mesa 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-bebedouro-electrolux](../content/posts/melhor-bebedouro-electrolux.mdx) | Melhores Bebedouros Electrolux 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-berco-moises](../content/posts/melhor-berco-moises.mdx) | Melhores Berços Moisés de 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
+| [melhor-berco-portatil](../content/posts/melhor-berco-portatil.mdx) | Melhores Berços Portáteis de 2026: 7 Modelos | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-bicicleta-aro-20](../content/posts/melhor-bicicleta-aro-20.mdx) | Melhores Bicicletas Aro 20 de 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
+| [melhor-bicicleta-ergometrica](../content/posts/melhor-bicicleta-ergometrica.mdx) | Bicicleta Ergométrica 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
 | [melhor-cervejeira-eos](../content/posts/melhor-cervejeira-eos.mdx) | Melhores Cervejeiras EOS 2026 | cozinha | false | 7 | 6 | 1 |
 | [melhor-chaleira-eletrica-inox](../content/posts/melhor-chaleira-eletrica-inox.mdx) | 5 Melhores Chaleiras Elétricas Inox em 2026 | cozinha | false | 5 | 5 | 0 |
 | [melhor-climatizador](../content/posts/melhor-climatizador.mdx) | Melhores Climatizadores de Ar de 2026 | climatizacao | false | 7 | 6 | 1 |

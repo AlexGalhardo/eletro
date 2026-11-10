@@ -1,0 +1,386 @@
+[
+	{
+		"id": "karcher-rcv-3-robo-aspirador",
+		"name": "Kärcher RCV 3 (robô aspirador)",
+		"image": "/images/posts/melhor-aspirador-karcher-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira sólidos, úmidos e líquidos em um só aparelho",
+			"Base de carregamento e reservatório 2 em 1 para pó e água",
+			"Placa de MOP removível com dois MOPs de microfibra",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "robô aspirador"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500ml"
+			},
+			{
+				"label": "Potência",
+				"value": "33W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "removível"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos; úmidos; líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base de carregamento; reservatório 2 em 1 para pó e água; depósito de pó de 500ml; placa de MOP removível; escova de limpeza; 2 escovas laterais; 2 MOPs de microfibra; 2 filtros"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "karcher-nt-3000-1600w-convencional",
+		"name": "Kärcher NT 3000 1600W (convencional)",
+		"image": "/images/posts/melhor-aspirador-karcher-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro lavável e reutilizável",
+			"Reservatório de 30 litros e potência de 1600W",
+			"Função soprador além da aspiração",
+			"Cabo de 3,5 metros e mangueira de 2 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "30L"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "lavável e reutilizável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3,5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos; líquidos; úmido; função soprador"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de sucção de 2m; bocal para cantos"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "90dB"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "karcher-vcl-2-1000w-vertical-com-fio",
+		"name": "Kärcher VCL 2 1000W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-karcher-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro HEPA incluso para retenção de pó",
+			"Cabo de 5 metros com alimentação 127V ou 220V",
+			"Bocal 2 em 1 e bocal de piso",
+			"Peso de 1,7 kg para uso portátil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical; portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro HEPA; bocal 2 em 1; tubos prolongadores; bocal de piso"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "89dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "karcher-vcl-3-150w-vertical-sem-fio",
+		"name": "Kärcher VCL 3 150W (vertical sem fio)",
+		"image": "/images/posts/melhor-aspirador-karcher-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sem fio, com base carregadora",
+			"Nível de ruído de 81 dB, o menor da lista",
+			"Peso de 1,4 kg, o mais leve da lista",
+			"Filtro HEPA incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical; portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500ml"
+			},
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro HEPA; base carregadora"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "81dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "karcher-wdl-1-1500w-convencional",
+		"name": "Kärcher WDL 1 1500W (convencional)",
+		"image": "/images/posts/melhor-aspirador-karcher-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira sólidos e líquidos com função soprador",
+			"Filtros de espuma e de pano lavável",
+			"Cabo de 5 metros e mangueira de 1,5 metro",
+			"Três tubos prolongadores para alcançar pontos altos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10L"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "espuma; pano lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos; líquidos; função soprador"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de piso; bocal de canto com escovas; 3 tubos prolongadores; filtro de espuma; filtro de pano lavável; mangueira de 1,5m"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "93dB"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "karcher-vcl-1-1000w-vertical-com-fio",
+		"name": "Kärcher VCL 1 1000W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-karcher-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro HEPA lavável para manutenção",
+			"Reservatório de 600 ml, o maior entre os verticais",
+			"Bocal para cantos e frestas",
+			"Cabo de 5 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical; portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para pisos; bocal para cantos e frestas; filtro HEPA lavável; tubo prolongador"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "95dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,54kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "karcher-nt-3100-1600w-convencional",
+		"name": "Kärcher NT 3100 1600W (convencional)",
+		"image": "/images/posts/melhor-aspirador-karcher-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três tipos de filtro para sólidos e líquidos",
+			"Saco de papel incluso para coleta de pó",
+			"Função soprador e mangueira de 2 metros",
+			"Reservatório de 30 litros com potência de 1600W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "30L"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "cartucho de papel (para sólidos); espuma (para líquidos); tecido"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3,5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos; líquidos; função soprador"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de 2 metros; 2 tubos prolongadores plásticos de sucção; filtro de tecido; saco de papel; filtro de espuma; filtro cartucho de papel; bocal de pisos; bocal de cantos"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "91dB"
+			},
+			{
+				"label": "Peso",
+				"value": "6,45kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,266 @@
+[
+	{
+		"id": "kemei-km-2028",
+		"name": "Kemei Km-2028",
+		"image": "/images/posts/melhor-barbeador-kemei-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2 horas com recarga de 2 horas",
+			"Recarga via USB com cabo incluso",
+			"Cabeça de lâmina dupla para barbear",
+			"Acompanha protetor de lâmina, tela extra e pouch de viagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável via USB"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "cabeça de lâmina dupla"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabo carregador USB; protetor de lâmina; tela extra; pincel de limpeza; pouch travel"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-tx1",
+		"name": "Kemei Km-TX1",
+		"image": "/images/posts/melhor-barbeador-kemei-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 2 horas",
+			"Lâminas de tela hipoalergênica",
+			"Recarga em 2 horas",
+			"Acompanha pincel de limpeza e pouch de viagem"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "mais de 2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "tela hipoalergênica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; cabo carregador USB; pincel de limpeza; pouch travel"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2024",
+		"name": "Kemei Km-2024",
+		"image": "/images/posts/melhor-barbeador-kemei-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 1 hora por carga",
+			"Recarga completa em 8 horas",
+			"Acompanha tela extra e pouch de viagem",
+			"Protetor de lâmina e pincel de limpeza inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; tela extra; pouch travel; cabo carregador; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2026",
+		"name": "Kemei Km-2026",
+		"image": "/images/posts/melhor-barbeador-kemei-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 2 horas",
+			"Recarga em 2 horas",
+			"Lâminas de tela hipoalergênica",
+			"Bolsa de transporte inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "tela hipoalergênica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; tela extra; cabo carregador USB; pincel de limpeza; bolsa"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-6558",
+		"name": "Kemei Km-6558",
+		"image": "/images/posts/melhor-barbeador-kemei-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pente e plugues para aparar pelos do rosto, nariz e orelha",
+			"Lâminas de aço inox",
+			"Duas baterias recarregáveis",
+			"Cabo USB e pincel de limpeza inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "2 baterias recarregáveis"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente; plugue aparador; plugue shaver; plugue nasal/auricular; cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "150g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1102",
+		"name": "Kemei Km-1102",
+		"image": "/images/posts/melhor-barbeador-kemei-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de aço inox",
+			"Pouch de viagem e protetor de lâmina inclusos",
+			"Peso aproximado de 361 g",
+			"Recarga em 8 horas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; pouch travel; cabo carregador; pincel de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "361g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2027",
+		"name": "Kemei Km-2027",
+		"image": "/images/posts/melhor-barbeador-kemei-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 2 horas",
+			"Tela extra e pouch de viagem inclusos",
+			"Recarga em 2 horas com cabo USB",
+			"Peso aproximado de 300 g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "tela hipoalergênica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; tela extra; cabo carregador USB; pincel de limpeza; pouch travel"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "300g"
+			}
+		]
+	}
+]

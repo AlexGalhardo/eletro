@@ -1,0 +1,343 @@
+[
+	{
+		"id": "arno-oven-grill-expert-ufe9-11-litros-1800w",
+		"name": "Arno Oven & Grill Expert UFE9 (11 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-arno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Hot Air com espeto giratório",
+			"9 funções de preparo e 8 programas automáticos",
+			"Compatível com lava-louças e bandeja coletora de gordura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "11 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "24 horas (modo desidratação)"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Hot Air; 9 funções de preparo; 8 programas automáticos; espeto giratório; compatível com lava-louças; timer de 60min ou 24h (desidratação); bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 32,5 x 32,3cm"
+			}
+		]
+	},
+	{
+		"id": "arno-mega-afd7-7-5-litros-1700w",
+		"name": "Arno Mega AFD7 (7,5 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-arno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Hot Air com cesta removível",
+			"8 programas pré-definidos e revestimento antiaderente",
+			"Peso de 5,7kg e dimensões de 44 x 35,5 x 35,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Hot Air; 8 programas pré-definidos; revestimento antiaderente; cesta removível"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 35,5 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			}
+		]
+	},
+	{
+		"id": "arno-dual-afd2-8-3-litros-1800w",
+		"name": "Arno Dual AFD2 (8,3 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-arno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois cestos independentes e função SYNK",
+			"Controle individual de temperatura em cada cesto",
+			"Compatível com lava-louças e cestos removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8,3 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "10 horas"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Hot Air; 2 cestos independentes; função SYNK; 7 programas pré-definidos; revestimento antiaderente; cestos removíveis; timer; controle individual de temperatura; compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,5 x 47,5 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,8kg"
+			}
+		]
+	},
+	{
+		"id": "arno-easy-fry-turbo-afi6-6-litros-2000w",
+		"name": "Arno Easy Fry Turbo AFI6 (6 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-arno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Direct Heat com 12 programas automáticos",
+			"Cesto com compartimento para água e visor transparente",
+			"Peso de 4kg e capacidade de 6 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1735W (127V) / 1835W (220V)"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Direct Heat; 12 programas automáticos; cesto com compartimento para água; visor transparente; luz interna"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,6 x 36,4 x 25,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "arno-air-fryer-mega-afm7-7-5-litros-1700w",
+		"name": "Arno Air Fryer Mega AFM7 (7,5 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-arno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cesto XXL quadrado e tecnologia Hot Air",
+			"Timer com desligamento automático",
+			"Controle de temperatura de 80°C a 200°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Hot Air; timer com desligamento automático; revestimento antiaderente; cesto XXL quadrado"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 31 x 39,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "arno-airfry-moderna-pfry-3-5-litros-1350w",
+		"name": "Arno Airfry Moderna PFRY (3,5 litros) 1350W",
+		"image": "/images/posts/melhor-air-fryer-arno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor potência da lista, com 1350W",
+			"Tecnologia Hot Air com timer integrado",
+			"Compatível com lava-louças e revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Hot Air; timer integrado; revestimento antiaderente; compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,6 x 29,8 x 29,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,9kg"
+			}
+		]
+	},
+	{
+		"id": "arnoeasy-fry-extra-superficie-afp4-4-litros-1700w",
+		"name": "ArnoEasy Fry Extra Superfície AFP4 (4 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-arno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de aquecimento duplo e função pizza",
+			"Preparo sem pré-aquecimento e visor de vidro",
+			"Superfície de cozimento extragrande e 10 programas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W (127V) / 2200W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 230°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema de aquecimento duplo; tecnologia Extra Crocância; 10 programas pré-definidos; função pizza; visor de vidro; iluminação interna; preparo sem pré-aquecimento; revestimento antiaderente; compatível com lava-louças; superfície de cozimento extragrande"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 31 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,9kg"
+			}
+		]
+	}
+]

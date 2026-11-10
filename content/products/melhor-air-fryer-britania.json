@@ -1,0 +1,184 @@
+[
+	{
+		"id": "britania-baf16a-16-litros-2000w",
+		"name": "Britânia BAF16A (16 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 16 litros, fritadeira e forno em um",
+			"Dez funções predefinidas no painel digital",
+			"Função desidratar e 5 níveis de altura para grelhas",
+			"Porta removível e luz interna",
+			"Proteção contra superaquecimento e desligamento automático"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "16 litros" },
+			{ "label": "Potência", "value": "1900W (127V) / 2000W (220V)" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "90 minutos" },
+			{ "label": "Tipo de painel", "value": "digital" },
+			{ "label": "Funções especiais", "value": "10 funções predefinidas; porta removível; função desidratar; desligamento automático; luz interna; proteção contra superaquecimento; 5 níveis de altura para grelhas; 2 em 1 fritadeira e forno; timer" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "37 x 35 x 33,5cm" },
+			{ "label": "Peso", "value": "6,41kg" }
+		]
+	},
+	{
+		"id": "britania-bfr2100p-12-litros-1800w",
+		"name": "Britânia BFR2100P (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro funções em um: assa, frita, desidrata e reaquece",
+			"Nove funções pré-programadas no painel digital",
+			"Base antiderrapante e luz interna",
+			"Programação de até 90 minutos",
+			"Proteção contra superaquecimento e timer"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12 litros" },
+			{ "label": "Potência", "value": "1800W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "90 minutos" },
+			{ "label": "Tipo de painel", "value": "digital" },
+			{ "label": "Funções especiais", "value": "4 em 1: assa, frita, desidrata e reaquece; 9 funções pré-programadas; luz interna; proteção contra superaquecimento; base antiderrapante; timer; desligamento automático" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "37,7 x 36,5 x 32,7cm" },
+			{ "label": "Peso", "value": "7,42kg" }
+		]
+	},
+	{
+		"id": "britania-bfr50-5-5-litros-1500w",
+		"name": "Britânia BFR50 (5,5 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento antiaderente Redstone e coletor de resíduos",
+			"Tecnologia Air Flow 360° e cesto com trava de segurança",
+			"Painel analógico com timer de até 60 minutos",
+			"Luz indicadora de funcionamento e desligamento automático",
+			"Base antiderrapante e proteção contra sobreaquecimento"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "5,5 litros" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "revestimento antiaderente Redstone; coletor de resíduos; timer; luz indicadora de funcionamento; desligamento automático; base antiderrapante; proteção contra sobreaquecimento; tecnologia Air Flow 360°; cesto com trava de segurança" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "33 x 28 x 36cm" },
+			{ "label": "Peso", "value": "4,1kg" }
+		]
+	},
+	{
+		"id": "britania-bfr46pi-4-6-litros-1500w",
+		"name": "Britânia BFR46PI (4,6 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Circulação de ar quente em 360°",
+			"Cesto removível com revestimento antiaderente",
+			"Trava de segurança e base antiderrapante",
+			"Timer de até 60 minutos com painel analógico",
+			"Peso de 4,73kg e dimensões de 33,4 x 28,5 x 37,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "4,6 litros" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "circulação de ar quente em 360°; timer; luz indicadora de funcionamento/aquecimento; desligamento automático; base antiderrapante; cesto removível com revestimento antiaderente; trava de segurança; sistema de proteção contra superaquecimento" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "33,4 x 28,5 x 37,5cm" },
+			{ "label": "Peso", "value": "4,73kg" }
+		]
+	},
+	{
+		"id": "britania-baf20a-2-litros-1000w",
+		"name": "Britânia BAF20A (2 litros) 1000W",
+		"image": "/images/posts/melhor-air-fryer-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 2 litros e potência de 1000W",
+			"Tecnologia Air Flow 360° com fundo removível",
+			"Base antiderrapante e luz indicadora de aquecimento",
+			"Sistema de proteção contra superaquecimento",
+			"Peso de 2,46kg e timer de até 60 minutos"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "2 litros" },
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "tecnologia Air Flow 360°; timer; luz indicadora de aquecimento; base antiderrapante; fundo removível com revestimento antiaderente; sistema de proteção contra superaquecimento" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "29,5 x 24,7 x 27,5cm" },
+			{ "label": "Peso", "value": "2,46kg" }
+		]
+	},
+	{
+		"id": "britania-bfr51-5-5-litros-1500w",
+		"name": "Britânia BFR51 (5,5 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cesto com revestimento antiaderente Gold",
+			"Alça resistente a altas temperaturas",
+			"Coletor de resíduos e tecnologia Air Flow 360°",
+			"Potência de 1500W com painel analógico",
+			"Desligamento automático e base antiderrapante"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "5,5 litros" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "tecnologia Air Flow 360°; timer; cesto com revestimento antiaderente Gold; luz indicadora de funcionamento; desligamento automático; base antiderrapante; sistema de proteção contra sobreaquecimento; alça resistente a altas temperaturas; coletor de resíduos" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "33 x 28 x 36cm" },
+			{ "label": "Peso", "value": "4,1kg" }
+		]
+	},
+	{
+		"id": "britania-bfr38-4-2-litros-1500w",
+		"name": "Britânia BFR38 (4,2 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cesto com revestimento antiaderente Dura Mais",
+			"Cesto removível com trava de segurança",
+			"Tecnologia Air Flow 360° e timer",
+			"Dimensões de 32 x 27 x 35,5cm e peso de 4,14kg",
+			"Base antiderrapante e luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "4,2 litros" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Controle de temperatura", "value": "80°C a 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "tecnologia Air Flow 360°; timer; luz indicadora de funcionamento; base antiderrapante; cesto removível com trava de segurança; cesto com revestimento antiaderente Dura Mais; sistema de proteção contra superaquecimento" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "32 x 27 x 35,5cm" },
+			{ "label": "Peso", "value": "4,14kg" }
+		]
+	}
+]

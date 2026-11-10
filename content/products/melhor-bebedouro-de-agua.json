@@ -1,0 +1,442 @@
+[
+	{
+		"id": "esmaltec-egc35b",
+		"name": "Esmaltec EGC35B",
+		"image": "/images/posts/melhor-bebedouro-de-agua-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas torneiras para água natural e gelada",
+			"Reservatório interno de 1,8 litro",
+			"Alças laterais e suporte Easy Open",
+			"Bandeja removível para facilitar a limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "1,8 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico; aço inoxidável"
+			},
+			{
+				"label": "Extras",
+				"value": "bandeja removível; alças laterais; suporte Easy Open"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "100,7 x 31,8 x 32,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-be11b",
+		"name": "Electrolux BE11B",
+		"image": "/images/posts/melhor-bebedouro-de-agua-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torneira com fluxo contínuo ou controlado",
+			"Bivolt e controle automático de temperatura",
+			"Perfurador de galão incluído",
+			"Bandeja removível e peso de 4,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1 com dois modos de fluxo (contínuo ou controlado)"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "bandeja removível; perfurador de galão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 29 x 37,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "britania-bbe12p",
+		"name": "Britânia BBE12P",
+		"image": "/images/posts/melhor-bebedouro-de-agua-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema perfurador para abrir o galão",
+			"Dreno para escoamento de água",
+			"Duas torneiras com água natural e gelada",
+			"Bivolt com 40,8 cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema perfurador; bandeja removível; dreno para escoamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,8 x 28,5 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,469kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "cadence-aguo-beb110",
+		"name": "Cadence Aguô BEB110",
+		"image": "/images/posts/melhor-bebedouro-de-agua-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfurador de galão e bandeja removível",
+			"Controle automático e reservatório de 0,8 litro",
+			"O mais leve da lista, com 2,35kg",
+			"Duas torneiras para água natural e gelada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "perfurador de galão; bandeja removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 29 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "britania-aqua-bbe01pf",
+		"name": "Britânia Aqua BBE01PF",
+		"image": "/images/posts/melhor-bebedouro-de-agua-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema perfurador de garrafão",
+			"Dreno para remoção de água",
+			"Bandeja coletora removível",
+			"Duas torneiras com água natural e gelada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema perfurador de garrafão; bandeja coletora removível; dreno para remoção de água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,5 x 34 x 28,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,385kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "consul-cjk40ab",
+		"name": "Consul CJK40AB",
+		"image": "/images/posts/melhor-bebedouro-de-agua-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporte do galão removível",
+			"Furador de galão e bandeja coletora removível",
+			"Duas torneiras e controle automático",
+			"Dimensões de 42,2 x 29,8 x 34,7cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de Refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas Disponíveis",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Controle de Temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material Externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "furador de galão; suporte do galão removível; bandeja coletora removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,2 x 29,8 x 34,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "esmaltec-egm30",
+		"name": "Esmaltec EGM30",
+		"image": "/images/posts/melhor-bebedouro-de-agua-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função mix para água combinada",
+			"Três tipos de água: gelada, natural e combinada",
+			"Reservatório interno de 1,9 litro",
+			"Aparador de água removível e sistema Easy Open"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Águas disponíveis",
+				"value": "gelada, natural ou combinada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "1,9 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "função mix; aparador de água removível; sistema easy open"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,3 x 28 x 40,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

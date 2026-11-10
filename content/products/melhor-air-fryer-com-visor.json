@@ -1,0 +1,373 @@
+[
+	{
+		"id": "philips-walita-ai551-09-1600w-12-litros",
+		"name": "Philips Walita AI551/09 1600W (12 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros e painel digital",
+			"Aplicativo HomeID e visor transparente",
+			"Quatro acessórios antiaderentes inclusos",
+			"Timer de 24 horas e 10 funções pré-programadas",
+			"Bandeja coletora de gordura e base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "35°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "24 horas"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "App HomeID; base antiderrapante; 4 acessórios antiaderentes; visor transparente; compatível com lava-louças; desligamento automático; 10 funções pré-programadas; timer de 24h; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 34 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,1kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf85-1700w-12-litros",
+		"name": "Electrolux EAF85 1700W (12 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 5 em 1 com aviso para virar os alimentos",
+			"Porta removível com visor de vidro",
+			"Preaquecimento e 7 receitas pré-programadas",
+			"Bandeja antiaderente e coletora de gordura",
+			"Luz interna para acompanhar o preparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "60°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "até 90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função 5 em 1 (air fryer, assar, reaquecer, gratinar e desidratar); 7 receitas pré-programadas; aviso para virar os alimentos; preaquecer; timer sonoro; desligamento automático; porta removível; porta com visor de vidro; luz interna; bandeja antiaderente; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,9 x 32,2 x 37,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-afon-12l-bi-2000w-12-litros",
+		"name": "Mondial AFON-12L-BI 2000W (12 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função air fryer e forno em um aparelho",
+			"Visor amplo na porta e iluminação interna",
+			"Potência de 2000W em 127V e 2200W em 220V",
+			"Revestimento antiaderente Duraflon",
+			"Bandeja coletora de gordura e timer com aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W (127V) / 2200W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função air fryer + forno; 10 funções predefinidas; timer com aviso sonoro; desligamento automático; visor amplo na porta; iluminação interna; revestimento antiaderente Duraflon; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 32 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,6kg"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-na230-00-1700w-6-2-litros",
+		"name": "Philips Walita NA230/00 1700W (6,2 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove programas predefinidos para diversos alimentos",
+			"Tecnologia RapidAir com design de estrela",
+			"Grelha removível antiaderente",
+			"Trava de segurança e timer sonoro",
+			"Compatível com o aplicativo HomeID"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "fritar; assar; grelhar; 9 programas predefinidos (batatas fritas congeladas, batatas fritas frescas, coxas de frango, carne, peixe, café da manhã, legumes, bolo e manter aquecido); tecnologia RapidAir com design de estrela; timer sonoro; desligamento automático; trava de segurança; grelha removível antiaderente; peças laváveis em lava-louças; compatibilidade com aplicativo HomeID"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,8 x 30,8 x 40,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,05kg"
+			}
+		]
+	},
+	{
+		"id": "oster-digital-clear-ofrt970-1500w-4-6-litros",
+		"name": "Oster Digital Clear OFRT970 1500W (4,6 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Visor transparente no cesto",
+			"Oito funções automáticas, incluindo batata frita e bolo",
+			"Grelha Easy Clean removível",
+			"Iluminação interna e timer",
+			"Painel digital touch"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "65°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "visor transparente no cesto; iluminação interna; grelha Easy Clean removível; 8 funções automáticas (batata frita, carne, vegetais, bolo, peixe, frango, desidratar e reaquecer); timer"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 26,6 x 33,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,0kg"
+			}
+		]
+	},
+	{
+		"id": "philco-paf40a-1500w-4-litros",
+		"name": "Philco PAF40A 1500W (4 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento antiaderente Redstone",
+			"Visor glass para acompanhar o preparo",
+			"Cuba e fundo removíveis",
+			"Proteção contra superaquecimento",
+			"Peças compatíveis com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "revestimento antiaderente Redstone; visor glass para acompanhamento do preparo; luz interna; cuba e fundo removíveis; base antiderrapante; timer; desligamento automático; sistema de proteção contra superaquecimento; peças compatíveis com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 26,5 x 31,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pfr2200p-1800w-12-litros",
+		"name": "Philco PFR2200P 1800W (12 litros)",
+		"image": "/images/posts/melhor-air-fryer-com-visor-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 4 em 1: assa, frita, reaquece e desidrata",
+			"Capacidade de 12 litros e 9 funções predefinidas",
+			"Proteção contra superaquecimento",
+			"Bandeja coletora de gordura",
+			"Peças removíveis e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função 4 em 1 (assa, frita, reaquece e desidrata); peças removíveis; 9 funções predefinidas; desligamento automático; timer; aviso sonoro; luz interna; proteção contra superaquecimento; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,6 x 32,7 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,78kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,188 @@
+[
+	{
+		"id": "electrolux-erg26-45min",
+		"name": "Electrolux ERG26 (45min)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bocal Pet e base para carregamento",
+			"Bateria recarregável bivolt com 3,6kg de peso",
+			"Filtro HEPA e nível de ruído de 80dB",
+			"Bocal para cantos e frestas com escova",
+			"Reservatório de 420ml para sólidos"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "420ml" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "––" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal Pet; base para carregamento; bocal para cantos e frestas com escova" },
+			{ "label": "Nível de ruído", "value": "80dB" },
+			{ "label": "Peso", "value": "3,6kg" },
+			{ "label": "Alimentação", "value": "bateria recarregável bivolt" }
+		]
+	},
+	{
+		"id": "electrolux-erg25n-35min",
+		"name": "Electrolux ERG25N (35min)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro HEPA incluso e base de carregamento",
+			"Nível de ruído de 79dB",
+			"Bateria recarregável bivolt e peso de 3,05kg",
+			"Reservatório de 420mL para sólidos",
+			"Bocal para cantos e frestas com escova"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "420mL" },
+			{ "label": "Potência", "value": "18V" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "––" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para cantos e frestas com escova; filtro HEPA; base de carregamento" },
+			{ "label": "Nível de ruído", "value": "79dB" },
+			{ "label": "Peso", "value": "3,05kg" },
+			{ "label": "Alimentação", "value": "bateria recarregável bivolt" }
+		]
+	},
+	{
+		"id": "electrolux-stk15-1450w",
+		"name": "Electrolux STK15 (1450W)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 6 metros e potência de 1450W",
+			"Reservatório de 1,6 litro, um dos maiores da lista",
+			"Filtro HEPA Allergy Protect",
+			"Bocal UltraClean 2 em 1 para estofados",
+			"Peso de 1,91kg e ruído de 84dB"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,6 litro" },
+			{ "label": "Potência", "value": "1450W" },
+			{ "label": "Tipo de filtro", "value": "HEPA Allergy Protect" },
+			{ "label": "Comprimento do cabo", "value": "6 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para pisos; bocal UltraClean 2 em 1 para cantos, frestas e estofados" },
+			{ "label": "Nível de ruído", "value": "84dB" },
+			{ "label": "Peso", "value": "1,91kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-stk17-1600w",
+		"name": "Electrolux STK17 (1600W)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W, a maior da lista",
+			"Cabo de 6 metros e reservatório de 950mL",
+			"Bocal Multi-Clean e bocal para estofados",
+			"Suporte de acessórios incluso",
+			"Peso de 2kg e ruído de 89dB"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "950mL" },
+			{ "label": "Potência", "value": "1600W" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "6 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal Multi-Clean; bocal para cantos e frestas com escova; bocal para estofados; suporte de acessórios" },
+			{ "label": "Nível de ruído", "value": "89dB" },
+			{ "label": "Peso", "value": "2kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-stk14-1450w",
+		"name": "Electrolux STK14 (1450W)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 5 metros e potência de 1450W",
+			"Reservatório de 1,6 litro",
+			"Filtro HEPA Allergy Protect",
+			"Bocal para pisos e bocal para cantos e frestas",
+			"Peso de 1,85kg e ruído de 84dB"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,6 litro" },
+			{ "label": "Potência", "value": "1450W" },
+			{ "label": "Tipo de filtro", "value": "HEPA Allergy Protect" },
+			{ "label": "Comprimento do cabo", "value": "5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal para pisos; bocal para cantos e frestas" },
+			{ "label": "Nível de ruído", "value": "84dB" },
+			{ "label": "Peso", "value": "1,85kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-stk13-1100w",
+		"name": "Electrolux STK13 (1100W)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bocal 180° para pisos",
+			"Reservatório de 1,2 litro e cabo de 5 metros",
+			"Potência de 1100W com filtro HEPA Allergy Protect",
+			"Peso de 2kg e formato vertical ou portátil",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical ou portátil" },
+			{ "label": "Capacidade do reservatório", "value": "1,2 litro" },
+			{ "label": "Potência", "value": "1100W" },
+			{ "label": "Tipo de filtro", "value": "HEPA Allergy Protect" },
+			{ "label": "Comprimento do cabo", "value": "5 metros" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "bocal 180° para pisos; bocal para cantos e frestas" },
+			{ "label": "Nível de ruído", "value": "84dB" },
+			{ "label": "Peso", "value": "2,0kg" },
+			{ "label": "Alimentação", "value": "127V ou 220V" }
+		]
+	},
+	{
+		"id": "electrolux-erg28-35min",
+		"name": "Electrolux ERG28 (35min)",
+		"image": "/images/posts/melhor-aspirador-de-po-vertical-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo sem fio com bateria Lithium Turbo Power 18V",
+			"Unidade de mão e bocal para cantos e frestas",
+			"Base de carregamento inclusa",
+			"Filtro HEPA e reservatório de 420mL",
+			"Peso de 3,6kg e modo para sólidos"
+		],
+		"technicalDetails": [
+			{ "label": "Formato", "value": "vertical e portátil" },
+			{ "label": "Capacidade do reservatório", "value": "420mL" },
+			{ "label": "Tipo de filtro", "value": "HEPA" },
+			{ "label": "Comprimento do cabo", "value": "sem fio" },
+			{ "label": "Modos de sucção", "value": "sólidos" },
+			{ "label": "Acessórios inclusos", "value": "unidade de mão; bocal para cantos e frestas; base de carregamento" },
+			{ "label": "Peso", "value": "3,6kg" },
+			{ "label": "Alimentação", "value": "bateria Lithium Turbo Power 18V bivolt" }
+		]
+	}
+]

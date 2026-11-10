@@ -1,0 +1,357 @@
+[
+	{
+		"id": "wap-magic",
+		"name": "WAP Magic",
+		"image": "/images/posts/melhor-aspirador-de-acaros-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato vertical e portátil em um só aparelho",
+			"Filtros HEPA, de espuma e SS",
+			"Bateria de lítio para uso sem tomada",
+			"Reservatório de 260ml e 450W de potência",
+			"Bico com luz UV e base com MOP"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "260ml"
+			},
+			{
+				"label": "Potência",
+				"value": "450W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; espuma; SS (Stainless Steel)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova rotativa; bico escova com cerdas macias; base com MOP; conector articulável; mangueira extensível; bico 2 em 1 canto/escova pequeno; 2x bicos múltiplos com turbo brush (sendo um com luz UV); conector articulável; alça extensora metálica"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "83dB"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria de lítio"
+			}
+		]
+	},
+	{
+		"id": "wap-mite-cleaner-uv",
+		"name": "WAP Mite Cleaner UV",
+		"image": "/images/posts/melhor-aspirador-de-acaros-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmpada UV e pincel para limpeza",
+			"Reservatório de 360ml com filtros SS e HEPA",
+			"Cabo de 3,5 metros e alimentação em 127V ou 220V",
+			"Potência de 400W em formato portátil",
+			"Peso de 1,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "360ml"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "SS (Stainless Steel); HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3,5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "lâmpada UV; pincel para limpeza"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "91dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "luatek-lk-5102a",
+		"name": "Luatek LK-5102A",
+		"image": "/images/posts/melhor-aspirador-de-acaros-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com bateria, sem depender de tomada",
+			"Filtro HEPA para retenção de partículas",
+			"Peso de apenas 194g",
+			"Reservatório de 250ml em formato portátil",
+			"Sucção a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "250ml"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Peso",
+				"value": "194g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "xiaolang-lp-018",
+		"name": "Xiaolang LP-018",
+		"image": "/images/posts/melhor-aspirador-de-acaros-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 520ml para menos esvaziamentos",
+			"Filtros HEPA e de esponja",
+			"Alimentação por bateria, sem cabo",
+			"Formato portátil com 1,95kg",
+			"Sucção a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "520ml"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; esponja"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Peso",
+				"value": "1,95kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "gxzsk-lw-p1018",
+		"name": "Gxzsk LW-P1018",
+		"image": "/images/posts/melhor-aspirador-de-acaros-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 520ml e potência de 500W",
+			"Cabo de 5 metros para maior alcance",
+			"Escova de rolo e 2 copos reservatórios",
+			"Nível de ruído de 75dB, o menor informado na lista",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "520ml"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de rolo; 2x copos reservatórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "75dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mxnsewr-cy168",
+		"name": "Mxnsewr CY168",
+		"image": "/images/posts/melhor-aspirador-de-acaros-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 500ml e potência de 500W",
+			"Filtros HEPA e SS",
+			"Cabo de 5 metros para maior alcance",
+			"Alimentação em 127V ou 220V",
+			"Sucção a seco em formato portátil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500ml"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; SS"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "teant-mv-blue",
+		"name": "Teant MV-BLUE",
+		"image": "/images/posts/melhor-aspirador-de-acaros-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 500ml com 500W de potência",
+			"Cabo de 5 metros em formato portátil",
+			"Alimentação em 127V ou 220V",
+			"Filtro HEPA para retenção de partículas",
+			"Modo de sucção a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500ml"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

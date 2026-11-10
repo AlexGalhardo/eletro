@@ -1,0 +1,290 @@
+[
+	{
+		"id": "philips-brl128-10",
+		"name": "Philips BRL128/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria LiFePO4 com 80 minutos de uso",
+			"Três lâminas de níquel com corte bidirecional",
+			"Pode ser usado no banho",
+			"Recarga em 8 horas e escova de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria LiFePO4 recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "80 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "3 lâminas, com aparadores de dupla face e corte bidirecional"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "níquel"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; pente aparador"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "philips-oneblade-intimate",
+		"name": "Philips OneBlade Intimate",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço inoxidável com dupla face",
+			"Proteção tripla e tecnologia ajustável aos contornos",
+			"Pente aparador removível de 3mm",
+			"Pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria Ni-MH recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina de dupla face SkinProtect, com tecnologia ajustável aos contornos e proteção tripla"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente aparador removível de 3mm"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "philips-brr454-00",
+		"name": "Philips BRR454/00",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas autoafiadoras para manter o corte",
+			"Funciona com uma pilha alcalina AA",
+			"Acompanha escova de limpeza e tampa protetora",
+			"Pilha AA inclusa na compra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "1 pilha alcalina AA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas autoafiadoras"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; tampa protetora; 1 pilha AA"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-3204",
+		"name": "Kemei KM-3204",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 120 minutos, a maior informada",
+			"Cabeça aparadora e cabeça shaver",
+			"Massageador facial de silicone incluso",
+			"Bolsa de transporte e pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "aparador de pelos e shaver"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabeça aparadora; cabeça shaver; massageador facial de silicone; pente protetor; bolsa de transporte"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "600g"
+			}
+		]
+	},
+	{
+		"id": "ricca-ready",
+		"name": "Ricca Ready",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas duplas, flexíveis e hipoalergênicas",
+			"Funciona com 2 pilhas AAA",
+			"Pente aparador incluso",
+			"Alimentação por pilhas, sem recarga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "2 pilhas AAA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas duplas, flexíveis e hipoalergênicas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente aparador"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "enox-1770",
+		"name": "Enox 1770",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas duplas de aço inoxidável",
+			"Funciona com uma pilha AAA",
+			"Pente aparador incluso",
+			"Sem recarga, com alimentação por pilha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AAA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas duplas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente aparador"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "wahl-pure-confidence-3-em-1",
+		"name": "Wahl Pure Confidence 3 em 1",
+		"image": "/images/posts/melhor-aparador-de-pelos-feminino-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de corte rotativo em aço inoxidável",
+			"Duas cabeças intercambiáveis e dois pentes guia",
+			"Autonomia de 60 minutos e recarga de 2 horas",
+			"Óleo lubrificante e bolsa de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "rotativo"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 cabeças intercambiáveis; 2 pentes guia; escova de limpeza; óleo lubrificante; bolsa de transporte"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "350g"
+			}
+		]
+	}
+]

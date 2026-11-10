@@ -1,0 +1,313 @@
+[
+	{
+		"id": "panasonic-er-gk80-s",
+		"name": "Panasonic ER-GK80-S",
+		"image": "/images/posts/melhor-aparador-de-pelos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Usa no banho, com lâminas em V e pontas arredondadas",
+			"Pente de altura ajustável para variar o acabamento",
+			"Bateria interna recarregável para 50 minutos de uso",
+			"Recarga em 1 hora para voltar a usar logo",
+			"Pesa 152g e vem com capa protetora e óleo lubrificante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "50 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas em formato “V” com pontas arredondadas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente de altura ajustável; tampa de proteção; escova de limpeza; óleo lubrificante; capa protetora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "152g"
+			}
+		]
+	},
+	{
+		"id": "philips-qp2824-10",
+		"name": "Philips QP2824/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina dupla-face com revestimento deslizante e pontas arredondadas",
+			"Pode ser usado no banho",
+			"Quatro pentes de corte para barba e corpo",
+			"Protetor de pele para zonas sensíveis e lâmina extra",
+			"Bateria recarregável com 45 minutos de autonomia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dupla-face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 pentes para barba (1mm, 3mm e 5 mm); 1 pente para corpo (3mm); protetor de pele para zonas sensíveis; tampa de proteção; lâmina adicional para substituição"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "mondial-bg-03",
+		"name": "Mondial BG-03",
+		"image": "/images/posts/melhor-aparador-de-pelos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos com bateria interna recarregável",
+			"Cinco cabeças aparadoras e quatro pentes de corte",
+			"Base carregadora que também organiza os acessórios",
+			"Lâminas de aço inoxidável e pesa 130g",
+			"Pente ajustável e óleo lubrificante no kit"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 aparador principal; 5 cabeças aparadoras; 4 pentes de corte (3mm, 6mm, 9mm e 12mm); 1 pente ajustável; base carregadora/organizador; óleo lubrificante; carregador"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "130g"
+			}
+		]
+	},
+	{
+		"id": "philips-qp2724-10",
+		"name": "Philips QP2724/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 45 minutos de uso",
+			"Lâmina dual-sided de aço inoxidável",
+			"Três pentes para barba de 1, 3 e 5 mm",
+			"Pode ser usado no banho e pesa 154g",
+			"Recarga completa em 8 horas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dual-sided"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 pentes para barba (1mm, 3mm e 5mm); tampa de proteção"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "154g"
+			}
+		]
+	},
+	{
+		"id": "philips-mg3711-15",
+		"name": "Philips MG3711/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas autoafiadoras de aço temperado",
+			"Quatro pentes para barba, de 1 mm a 5 mm",
+			"Aparador de nariz e orelhas incluso no kit",
+			"Suporte de armazenamento e escova de limpeza",
+			"Autonomia de 60 minutos com bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "16 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas autoafiadoras"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço temperado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 pentes curtos para barba (1mm e 2mm); 2 pentes longos (3mm e 5mm); aparador de nariz e orelhas; suporte de armazenamento; escova de limpeza"
+			}
+		]
+	},
+	{
+		"id": "britania-bap21p",
+		"name": "Britânia BAP21P",
+		"image": "/images/posts/melhor-aparador-de-pelos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos e recarga em 90 minutos",
+			"Quatro pentes de corte de 1, 2, 5 e 6 mm",
+			"Base carregadora e óleo lubrificante no kit",
+			"Aparador de nariz e orelhas para acabamento",
+			"Lâminas de aço inoxidável e escova de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de corte (1mm, 2mm, 5mm e 6mm); aparador de nariz/orelhas; base/carregador; escova de limpeza; óleo lubrificante"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "346g"
+			}
+		]
+	},
+	{
+		"id": "philips-bg3007-01",
+		"name": "Philips BG3007/01",
+		"image": "/images/posts/melhor-aparador-de-pelos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina bidirecional com pontas arredondadas",
+			"Contorno 2D pensado para zonas sensíveis",
+			"Pode ser usado no banho, com recarga em 8 horas",
+			"Pente de 3 mm e cabo de carregamento inclusos",
+			"Autonomia de 40 minutos com bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina bidirecional com pontas arredondadas e contorno 2D para zonas sensíveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 pente de 3mm; cabo de carregamento"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	}
+]

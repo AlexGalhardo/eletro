@@ -1,0 +1,316 @@
+[
+	{
+		"id": "philco-pap03",
+		"name": "Philco PAP03",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável com 45 minutos de autonomia",
+			"Pode ser usado no banho",
+			"Lâminas de aço com óleo lubrificante incluso",
+			"Pentes para cabelo, barba e corpo mais acessório para nariz",
+			"Recarga em 8 horas pelo cabo USB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de aço"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; tampa protetora; óleo lubrificante; pentes para cabelo (3, 6, 9 e 12mm); pentes para barba (2, 4, 6 e 8mm); pentes para corpo (3, 6 e 9mm); acessório para nariz e orelha; acessório para bigode, barba e costeletas; acessório rente à pele; acessório para corte de precisão; suporte para acessórios; cabo USB"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "3,5 x 4 x 16,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "250g"
+			}
+		]
+	},
+	{
+		"id": "philips-nt1620-15",
+		"name": "Philips NT1620/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com pilha AA, sem bateria recarregável",
+			"Pode ser usado no banho",
+			"Lâminas giratórias com proteção metálica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas giratórias com proteção metálica"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "mondial-bg-03",
+		"name": "Mondial BG-03",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos com bateria recarregável",
+			"Cinco cabeças aparadoras e quatro pentes de corte",
+			"Pente ajustável com 16 níveis",
+			"Lâminas de precisão em aço inoxidável",
+			"Base carregadora e óleo lubrificante incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas de precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 cabeças aparadoras; 4 pentes de corte (3, 6, 9 e 12mm); 1 pente ajustável com 16 níveis; óleo lubrificante; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18,5 x 17,5 x 15,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-6558",
+		"name": "Kemei km-6558",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2,5 horas com bateria recarregável",
+			"Três plugues: aparador, shaver e aparador nasal",
+			"Lâminas de aço inoxidável para o corte",
+			"Cabo USB e pincel de limpeza inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2,5 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas com 3 plugues (aparador, shaver e aparador nasal)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente; plugue aparador, shaver e nasal/auricular; cabo USB; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "mondial-tr-01",
+		"name": "Mondial TR-01",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com pilha AA, sem bateria interna",
+			"Lâminas rotativas para o corte",
+			"Tampa protetora inclusa no kit",
+			"Medidas compactas de 13 x 3 x 3cm e 50g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "––"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas rotativas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa protetora; pilha AA"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13 x 3 x 3cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "50g"
+			}
+		]
+	},
+	{
+		"id": "philips-mg3711-15",
+		"name": "Philips MG3711/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 60 minutos com bateria recarregável",
+			"Lâminas autoafiadoras em aço temperado",
+			"Aparador de nariz e orelhas com quatro pentes para barba",
+			"Suporte de armazenamento e escova de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "16 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas autoafiadoras"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço temperado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "aparador de nariz e orelhas; 2 pentes curtos para barba por fazer (1mm e 2mm); 2 pentes longos (3mm e 5mm); escova de limpeza; suporte de armazenamento"
+			}
+		]
+	},
+	{
+		"id": "panasonic-er-gn30",
+		"name": "Panasonic ER-GN30",
+		"image": "/images/posts/melhor-aparador-de-pelos-do-nariz-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina dupla de alta precisão em aço inoxidável",
+			"Pode ser usado no banho",
+			"Funciona com pilha AA, sem bateria recarregável",
+			"Tampa protetora e pincel de limpeza inclusos",
+			"Medidas de 14,4 x 2,9 x 3,5cm e 60g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "––"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dupla de alta precisão"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa protetora; pincel de limpeza"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14,4 x 2,9 x 3,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "60g"
+			}
+		]
+	}
+]

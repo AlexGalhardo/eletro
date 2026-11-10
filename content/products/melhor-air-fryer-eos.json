@@ -1,0 +1,354 @@
+[
+	{
+		"id": "eos-eaf90dd-9-litros-1700w",
+		"name": "EOS EAF90DD (9 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois cestos independentes de 4,5 litros cada",
+			"Oito receitas pré-programadas e quatro modos",
+			"Cestos antiaderentes laváveis na lava-louças",
+			"Visor Glass View e iluminação interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "9 litros (dois cestos de 4,5 litros)"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "4 modos (fritar sem óleo, assar, reaquecer e desidratar); 8 receitas pré-programadas; dois cestos independentes; Glass View; iluminação interna; cestos antiaderentes e laváveis na máquina de lavar louça; timer; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 38 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eaf40aid-38-litros-1600w-1800w",
+		"name": "EOS EAF40AID (38 litros) 1600W/1800W",
+		"image": "/images/posts/melhor-air-fryer-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"38 litros para preparar porções maiores",
+			"Slow Cook e aquecimento por convecção",
+			"12 programas predefinidos e timer de 10 horas",
+			"Controle de 35°C a 230°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "38 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W (127V) / 1800W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "35ºC a 230°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "10 horas"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital com botões giratórios"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "12 programas predefinidos, incluindo assar, grelhar, tostar, desidratar e aquecer; Slow Cook; aquecimento superior, inferior e por convecção; iluminação interna; timer; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 38 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,3kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eaf60p-6-2-litros-1500w",
+		"name": "EOS EAF60P (6,2 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 5 em 1: descongelar, forno e air fryer",
+			"Revestimento antiaderente Maxx Clean",
+			"Até 200°C em 6,2 litros e 1500W",
+			"Iluminação interna e timer com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função 5 em 1 (descongelar, forno, air fryer, desidratar e reaquecer); 10 funções pré-programadas; iluminação interna; revestimento antiaderente Maxx Clean; timer; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,7 x 28,5 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			}
+		]
+	},
+	{
+		"id": "eos-efe30apd-30-litros-1600w",
+		"name": "EOS EFE30APD (30 litros) 1600W",
+		"image": "/images/posts/melhor-air-fryer-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Twist Fry com 30 litros",
+			"Função Vapor e três níveis de altura",
+			"Desidratação de até 6 horas",
+			"Doze funções pré-programadas no painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "30 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "35ºC a 230°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "6 horas (desidratar)"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Twist Fry; 12 funções pré-programadas; função Vapor; 3 níveis de altura; timer; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44,1 x 42,7 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,4kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eaf35ap-35-litros-1600w",
+		"name": "EOS EAF35AP (35 litros) 1600W",
+		"image": "/images/posts/melhor-air-fryer-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fluxo de ar com 6 elementos de aquecimento",
+			"35 litros com seis funções pré-programadas",
+			"Botões giratórios e timer de até 60 minutos",
+			"Faixa de 100°C a 230°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "35 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "100°C a 230°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "botões giratórios"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "6 funções pré-programadas; tecnologia de fluxo de ar com 6 elementos de aquecimento; timer; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 41 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eaf15ip-15-litros-1900w",
+		"name": "EOS EAF15IP (15 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-eos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro modos em um: fritar, desidratar, descongelar e manter aquecido",
+			"Sistema antiaderente MaxxiClean e Double Glass",
+			"Suporte para enrolar o cabo",
+			"Timer de até 90 minutos com desligamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "4 modos em 1 (fritar sem óleo, desidratar, descongelar e manter aquecido); timer; Double Glass; sistema antiaderente MaxxiClean; suporte para enrolar o cabo; desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,7 x 33,5 x 34,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,28kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eaf12t-12-litros-1800w",
+		"name": "EOS EAF12T (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-eos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato 3 em 1: fritar sem óleo, forno e desidratar",
+			"Tecnologia Twist Fry e porta removível",
+			"Iluminação interna e nove funções pré-programadas",
+			"Timer de até 90 minutos com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "tecnologia Twist Fry; 9 funções pré-programadas; formato 3 em 1 (fritar sem óleo, forno e desidratar); timer; desligamento automático; iluminação interna; porta removível"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,5 x 32,5 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7kg"
+			}
+		]
+	}
+]

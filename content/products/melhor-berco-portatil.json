@@ -1,0 +1,358 @@
+[
+	{
+		"id": "pipdip-moises-portatil-0-a-15kg",
+		"name": "PipDip Moisés Portátil (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois usos: berço e balanço",
+			"Suporta até 15kg",
+			"Estrutura em ferro e tecido de poliéster com linho",
+			"Peso de 7,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "2 em 1 (berço + balanço)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 3 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "ferro"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "poliéster; linho"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "7,6kg"
+			}
+		]
+	},
+	{
+		"id": "kababy-moises-co-bed-0-a-9kg",
+		"name": "KaBaby Moisés Co-bed (0 a 9kg)",
+		"image": "/images/posts/melhor-berco-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro usos: berço, dobrável, balanço e acoplável à cama",
+			"Idade recomendada de 0 a 24 meses",
+			"Colchonete e mosquiteiro inclusos",
+			"Dimensões montado de 112 x 104 x 60cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "4 em 1 (berço + dobrável + balanço + acoplável à cama)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 24 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 9kg"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "112 x 104 x 60cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "9kg"
+			}
+		]
+	},
+	{
+		"id": "burigotto-sonata-0-a-15kg",
+		"name": "Burigotto Sonata (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e cercado",
+			"Suporta até 15kg",
+			"Tecido 100% poliéster",
+			"Dimensões montado de 74,5 x 90 x 70cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + cercado)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 3 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço; polipropileno; nylon"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "100% poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "74,5 x 90 x 70cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8,49kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-nanny-0-a-18kg",
+		"name": "Cosco Kids Nanny (0 a 18kg)",
+		"image": "/images/posts/melhor-berco-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 18kg, o maior limite da lista",
+			"Três usos: berço, cercado e dobrável",
+			"Idade recomendada de 0 a 4 anos",
+			"Certificação INMETRO ABNT NBR 15.860"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + cercado + dobrável)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 4 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço e polipropileno"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação de segurança",
+				"value": "INMETRO ABNT NBR 15.860"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "120 x 10,2 x 77cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "10kg"
+			}
+		]
+	},
+	{
+		"id": "safety-1st-mini-play-0-a-15kg",
+		"name": "Safety 1st Mini Play (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 6,6kg, o mais leve da lista",
+			"Três usos: berço, cercado e dobrável",
+			"Certificação INMETRO NBR 15.860",
+			"Suporta até 15kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + cercado + dobrável)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço; plástico"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação de segurança",
+				"value": "INMETRO NBR 15.860"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "74 x 100,5 x 64,5cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "6,6kg"
+			}
+		]
+	},
+	{
+		"id": "safety-1st-side-by-side-0-a-9kg",
+		"name": "Safety 1st Side By Side (0 a 9kg)",
+		"image": "/images/posts/melhor-berco-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois usos: berço dobrável e acoplável à cama",
+			"Idade recomendada de 0 a 11 meses",
+			"Estrutura de alumínio, aço e plástico",
+			"Colchonete e mosquiteiro inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "2 em 1 (berço + dobrável + acoplável à cama)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 11 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "9kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "alumínio; aço; plástico"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "80 x 99 x 68cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8,3kg"
+			}
+		]
+	},
+	{
+		"id": "kababy-sleep-3-em-1-moises-co-bed-0-a-15kg",
+		"name": "KaBaby Sleep 3 em 1 Moisés Co-bed (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, balanço e acoplável à cama",
+			"Estrutura em aço e alumínio",
+			"Tecido de algodão e linho",
+			"Peso de 7kg e colchonete incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + balanço + acoplável à cama)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 24 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço; alumínio"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "algodão; linho"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "77 x 97 x 62cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "7kg"
+			}
+		]
+	}
+]

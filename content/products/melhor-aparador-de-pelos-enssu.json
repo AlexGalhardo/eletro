@@ -1,0 +1,316 @@
+[
+	{
+		"id": "enssu-es112by",
+		"name": "Enssu ES112BY",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina dupla com tecnologia BladeLock",
+			"Pode ser usado no banho",
+			"Dois pentes de 3 a 6mm e de 9 a 12mm",
+			"Peso aproximado de 149g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dupla com tecnologia Bladelock"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "USB carregador; base de carregamento; escova de limpeza; 2 pentes de posicionamento (de 3-6mm e 9-12mm); estojo de viagem"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "149g"
+			}
+		]
+	},
+	{
+		"id": "enssu-es033",
+		"name": "Enssu ES033",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina cerâmica com proteção lateral BladeLock",
+			"Autonomia de 60 minutos e recarga em 1 hora",
+			"Três pentes guia e bolsa para viagem",
+			"Pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina com proteção lateral BladeLock"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabo de carregamento USB; escova de limpeza; 3 pentes guias; base de carregamento; bolsa de armazenamento para viagem"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "302g"
+			}
+		]
+	},
+	{
+		"id": "enssu-es030",
+		"name": "Enssu ES030",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina cerâmica com tecnologia BladeLock",
+			"Autonomia de 60 minutos com recarga em 1 hora",
+			"Dois pentes de 3 a 6mm e de 9 a 12mm",
+			"Estojo de viagem incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina com tecnologia BladeLock"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "USB carregador; escova de limpeza; 2 pentes de posicionamento (de 3-6mm e 9-12mm); estojo de viagem"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "enssu-es500",
+		"name": "Enssu ES500",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 60 minutos com lâmina cerâmica",
+			"Dois pentes de 1 a 10mm e de 1 a 20mm",
+			"Pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "USB carregador; escova de limpeza; 2 pentes de posicionamento (1-10mm e 1-20mm)"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "205g"
+			}
+		]
+	},
+	{
+		"id": "enssu-es068bk",
+		"name": "Enssu ES068BK",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pontas arredondadas e lâmina dupla BladeLock",
+			"Autonomia de 60 minutos e recarga em 1 hora",
+			"Dois pentes de 3 a 6mm e de 9 a 12mm",
+			"Bolsa de viagem inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dupla com tecnologia BladeLock + pontas arredondadas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "dois pentes (3-6mm e 9-12mm); cabo de carregamento; escova de limpeza; bolsa de viagem"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "120g"
+			}
+		]
+	},
+	{
+		"id": "enssu-es006",
+		"name": "Enssu ES006",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço inoxidável e cerâmica",
+			"Autonomia de 60 minutos e recarga em 3 horas",
+			"Dois pentes para barba e cabelo e pente guia de 4 tamanhos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina com tecnologia BladeLock"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável e cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabo de carregamento; escova de limpeza; 2 pentes para barba e cabelo; pente guia de 4 tamanhos"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "191g"
+			}
+		]
+	},
+	{
+		"id": "enssu-es110bk",
+		"name": "Enssu ES110BK",
+		"image": "/images/posts/melhor-aparador-de-pelos-enssu-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro pentes e base carregadora",
+			"Autonomia de 60 minutos e recarga em 1 hora",
+			"Peso aproximado de 135g",
+			"Bolsa para transporte inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina com tecnologia BladeLock"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cabo de carregamento; escova de limpeza; 4 pentes; base carregadora; bolsa para transporte"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "135g"
+			}
+		]
+	}
+]

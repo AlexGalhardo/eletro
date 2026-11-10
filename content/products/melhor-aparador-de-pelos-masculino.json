@@ -1,0 +1,298 @@
+[
+	{
+		"id": "philips-bg3470-15",
+		"name": "Philips BG3470/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Triple Protect com lâmina em formato de diamante",
+			"Pode ser usado no banho",
+			"Autonomia de 1 hora com recarga em 8 horas",
+			"Pentes bidirecionais de 2mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "Triple Protect com lâmina de corte em formato de diamante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pentes bidirecionais de 2mm; escova de limpeza; cabo USB-A"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "philips-qp2824-10",
+		"name": "Philips QP2824/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de dupla face com pontas arredondadas",
+			"Pode ser usado no banho",
+			"Três pentes para barba de 1, 3 e 5mm",
+			"Protetor para zonas sensíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria Ni-MH recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina de dupla face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3x pentes para barba (1/3/5mm); pente aparador para o corpo (3mm); protetor de encaixe para zonas sensíveis; tampa de proteção; lâmina adicional para substituição"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "mondial-bg-03",
+		"name": "Mondial BG-03",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pente ajustável com 16 níveis de altura",
+			"Quatro pentes de corte de 3 a 12mm",
+			"Cinco cabeças aparadoras",
+			"Base carregadora e carregador bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável Ion Lithium"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5x cabeças aparadoras; 4x pentes de corte (3/6/9/12mm); pente ajustável com 16 níveis de altura; óleo de manutenção; carregador bivolt; base carregadora"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			}
+		]
+	},
+	{
+		"id": "philips-mg3927-15",
+		"name": "Philips MG3927/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove ferramentas, incluindo aparador de nariz e orelhas",
+			"Lâminas autoafiadoras com pontas arredondadas",
+			"Estojo para guardar os acessórios",
+			"Cabo USB-A para recarga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria Ni-MH recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas autoafiadoras com pontas arredondadas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "9x ferramentas; pente de precisão (1–3mm); pente para cabelo (12mm); pentes para o corpo (3/5mm); pente íntimo (1mm); pentes para barba (7mm); aparador para nariz e orelhas; escova de limpeza; cabo USB-A; estojo"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-multistyler-gcx623-sport",
+		"name": "GA.MA ITALY Multistyler GCX623 Sport",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 139g, o mais leve da lista",
+			"Cinco pentes guia de 2 a 12mm",
+			"Quatro cabeças intercambiáveis",
+			"Recarga completa em 45 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x cabeças intercambiáveis; 5x pentes guia (2/3/6/9/12mm); base para acessórios; cabo USB-A; óleo lubrificante; escova de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "139g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-max5090",
+		"name": "Kemei KM-MAX5090",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis pentes guia de 1 a 12mm",
+			"Lâminas 0Gap de aço inoxidável",
+			"Autonomia de 1,5 hora",
+			"Recarga em 1,5 hora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas 0Gap"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "6x pentes guia (1/2/3/6/9/12mm); protetor de lâmina; cabo carregador USB-A; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "philips-qp2724-10",
+		"name": "Philips QP2724/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-masculino-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia OneBlade de dupla proteção",
+			"Pode ser usado no banho",
+			"Pentes para barba de 1, 3 e 5mm",
+			"Autonomia de 45 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria Ni-MH recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina dupla face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3x pentes para barba (1/3/5mm); tampa de proteção"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			}
+		]
+	}
+]

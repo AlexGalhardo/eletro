@@ -1,0 +1,265 @@
+[
+	{
+		"id": "lg-dual-inverter-lp1419ivsm-ec1aamz-14-000btus",
+		"name": "LG Dual Inverter LP1419IVSM. EC1AAMZ 14.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia inverter com 14.000 BTUs",
+			"Função ventilação para circular o ar",
+			"Maior capacidade da lista, em 127V",
+			"Dimensões de 76,5 x 49,3 x 46cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "14.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "sim"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "76,5 x 49,3 x 46cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pac12000qf6-12-000btus",
+		"name": "Philco PAC12000QF6 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação energética A em 127V ou 220V",
+			"Dimensões de 71,5 x 41,5 x 35cm",
+			"Capacidade de 12.000 BTUs"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "não"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "71,5 x 41,5 x 35cm"
+			}
+		]
+	},
+	{
+		"id": "rheem-rb1cc12k127-12-000btus",
+		"name": "Rheem RB1CC12K127 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Classificação energética A e tensão de 127V ou 220V",
+			"Dimensões de 68,8 x 41,9 x 35,8cm",
+			"Capacidade de 12.000 BTUs com função ventilação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "não"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,8 x 41,9 x 35,8cm"
+			}
+		]
+	},
+	{
+		"id": "midea-mph-12crv1-12-000btus",
+		"name": "Midea ‎MPH -12CRV1 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor volume da lista pelas medidas informadas",
+			"Capacidade de 12.000 BTUs",
+			"Função ventilação e alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "não"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70,3 x 34,5 x 35,5cm"
+			}
+		]
+	},
+	{
+		"id": "eos-slim-eap12f-12-000btus",
+		"name": "Eos Slim EAP12F 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função ventilação e tensão de 127V ou 220V",
+			"Dimensões de 68,8 x 35,8 x 41,9cm",
+			"Capacidade de 12.000 BTUs"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "não"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "não especificada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,8 x 35,8 x 41,9cm"
+			}
+		]
+	},
+	{
+		"id": "hisense-12cwbrnps01-12-000btus",
+		"name": "Hisense 12CWBRNPS01 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12.000 BTUs",
+			"Função ventilação incluída",
+			"Dimensões de 69,4 x 43 x 32cm",
+			"Alimentação em 127V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "não"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "não especificada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "69,4 x 43 x 32cm"
+			}
+		]
+	},
+	{
+		"id": "delonghi-pinguino-t120ed-12-000btus",
+		"name": "Delonghi Pinguino T120ED 12.000BTUs",
+		"image": "/images/posts/melhor-ar-condicionado-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia inverter com 12.000 BTUs",
+			"Classificação energética A+, a mais alta da lista",
+			"Função ventilação e alimentação em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade de refrigeração",
+				"value": "12.000 BTUs"
+			},
+			{
+				"label": "Tecnologia Inverter",
+				"value": "sim"
+			},
+			{
+				"label": "Função Ventilação",
+				"value": "sim"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Classificação energética",
+				"value": "A+"
+			}
+		]
+	}
+]

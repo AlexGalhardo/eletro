@@ -1,0 +1,390 @@
+[
+	{
+		"id": "wap-eco-rapido-85w",
+		"name": "WAP Eco Rápido (85W)",
+		"image": "/images/posts/melhor-aspirador-wap-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona sem fio, com alimentação por bateria",
+			"Filtro HEPA lavável para reaproveitar após a limpeza",
+			"Bocal múltiplo com rotação de 180° e bico com escova",
+			"Pesa 2,4kg e tem reservatório de 700ml"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "700ml"
+			},
+			{
+				"label": "Potência",
+				"value": "85W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA (lavável)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "sem fio"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico de canto; bico com escova; filtro HEPA; bocal múltiplo com rotação 180°"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "83dB"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "wap-silent-speed-max-3-em-1-1350w",
+		"name": "WAP Silent Speed Max 3 em 1 (1350W)",
+		"image": "/images/posts/melhor-aspirador-wap-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 5 metros para alcançar áreas mais distantes",
+			"Bico múltiplo com articulação de 360º para carpetes e pisos",
+			"Reservatório de 1 litro e filtro HEPA",
+			"Pesa 1,6kg, com ruído de 83 a 84dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico múltiplo com articulação 360º para carpetes e pisos; bico canto para áreas de difícil acesso; alça removível"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "84dB (127V) e 83dB (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-gtw-inox-12-1400w",
+		"name": "WAP GTW Inox 12 (1400W)",
+		"image": "/images/posts/melhor-aspirador-wap-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira seco e líquido com reservatório de 5,7 litros",
+			"Cabo de 2,5 metros e três extensores de plástico",
+			"Filtro de espuma lavável e saco de pó de pano lavável",
+			"Potência de 1400W, com ruído de 93dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "5,7 litros (líquidos); 9 litros (sólidos)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "espuma lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2,5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco e líquido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro de espuma lavável; bico canto e escova; 3 extensores de plástico; saco para pó de pano lavável; bico múltiplo para carpetes e piso frio"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "93dB"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-gtw-10-1400w",
+		"name": "WAP GTW 10 (1400W)",
+		"image": "/images/posts/melhor-aspirador-wap-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira seco e líquido com reservatório de 3,4 litros",
+			"Filtro de espuma e pano laváveis",
+			"Cabo de 2 metros e 3 extensores de plástico",
+			"Pesa 3kg, mais leve que o GTW Inox 12"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "3,4 litros (líquidos); 7 litros (sólidos)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "espuma e pano laváveis"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco e líquido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 extensores de plástico; bico múltiplo para carpetes e piso frio; bico canto e escova; filtro de pano e espuma laváveis"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "92dB (127V) e 96dB (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-high-speed-plus-3-em-1-1350w",
+		"name": "WAP High Speed Plus 3 em 1 (1350W)",
+		"image": "/images/posts/melhor-aspirador-wap-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 4 metros e alça para uso vertical",
+			"Bico múltiplo articulado e bico canto",
+			"Filtro HEPA lavável e reservatório de 1,2 litro",
+			"Pesa 2kg, com ruído de 84dB a 85dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA (lavável)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico canto; bico múltiplo articulado; alça removível para utilização vertical; filtro HEPA"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "84dB (127V) e 85dB (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-car-12v2-180w",
+		"name": "WAP Car 12V2 (180W)",
+		"image": "/images/posts/melhor-aspirador-wap-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Liga no plug de 12V, pensado para o carro",
+			"Pesa 520g, o mais leve da lista",
+			"Cabo de 3,7 metros e filtro HEPA lavável",
+			"Bico escova e bico canto inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "420ml"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA (lavável)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3,7 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico escova; bico canto; filtro HEPA; plug 12V"
+			},
+			{
+				"label": "Peso",
+				"value": "520g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "plug 12V"
+			}
+		]
+	},
+	{
+		"id": "wap-gtw-inox-20-1600w",
+		"name": "WAP GTW Inox 20 (1600W)",
+		"image": "/images/posts/melhor-aspirador-wap-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W, a maior da lista",
+			"Aspira seco e líquido com reservatório de 10 litros",
+			"Bocal de sopro e saco de pó de pano lavável",
+			"Pesa 4kg, com ruído de 94dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10 litros (líquidos); 14 litros (sólidos)"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "pano lavável e espuma"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2,5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco e líquido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de sopro; bico canto e escova; 2 extensores de plástico; bico múltiplo para carpetes, tapetes e pisos frios; saco para pó de pano lavável; filtro de espuma lavável"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "94dB"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

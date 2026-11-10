@@ -1,0 +1,187 @@
+[
+	{
+		"id": "tramontina-profio-24031000",
+		"name": "Tramontina Profio 24031000",
+		"image": "/images/posts/melhor-amolador-de-facas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de diamante para afiação",
+			"Corpo de plástico ABS com detalhes em aço inox",
+			"Mede 6,6 x 5,2 x 19,8cm e pesa 170g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico ABS com detalhes em aço inox"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "diamante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,6 x 5,2 x 19,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "170g"
+			}
+		]
+	},
+	{
+		"id": "vonder-12-40-100-400",
+		"name": "Vonder 12.40.100.400",
+		"image": "/images/posts/melhor-amolador-de-facas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo em aço inoxidável",
+			"Lâminas de vídea e cerâmica para afiação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "vídea e cerâmica"
+			}
+		]
+	},
+	{
+		"id": "sq-50775-jfz",
+		"name": "SQ 50775 - JFZ",
+		"image": "/images/posts/melhor-amolador-de-facas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo em aço inox e PP"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox e PP"
+			}
+		]
+	},
+	{
+		"id": "mor-003904",
+		"name": "Mor - 003904",
+		"image": "/images/posts/melhor-amolador-de-facas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de tungstênio, pedra de esmeril e cerâmica",
+			"Corpo de plástico ABS com aço inox",
+			"Mede 8,5 x 5,5 x 23cm e pesa 252g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico ABS com aço inox"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "tungstênio, pedra de esmeril e cerâmica"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 5,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "252g"
+			}
+		]
+	},
+	{
+		"id": "lumai-phoenix",
+		"name": "Lumai Phoenix",
+		"image": "/images/posts/melhor-amolador-de-facas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo em aço inoxidável",
+			"Lâminas de tungstênio e cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "tungstênio e cerâmica"
+			}
+		]
+	},
+	{
+		"id": "mor-003901",
+		"name": "Mor - 003901",
+		"image": "/images/posts/melhor-amolador-de-facas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de tungstênio e cerâmica de zircônio",
+			"Corpo de plástico ABS com aço inox",
+			"Mede 4 x 5 x 9,5cm e pesa 66g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico ABS com aço inox"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "tungstênio e cerâmica de zircônio"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 5 x 9,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "66g"
+			}
+		]
+	},
+	{
+		"id": "tramontina-profio-com-base-24038000",
+		"name": "Tramontina Profio com Base 24038000",
+		"image": "/images/posts/melhor-amolador-de-facas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de cerâmica para afiação",
+			"Corpo de plástico/resina",
+			"Mede 6 x 6,6 x 6,6cm e pesa 75g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico/resina"
+			},
+			{
+				"label": "Material das lâminas de afiação",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 6,6 x 6,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "75g"
+			}
+		]
+	}
+]

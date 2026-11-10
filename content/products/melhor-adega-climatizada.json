@@ -1,0 +1,416 @@
+[
+	{
+		"id": "brastemp-bzb33be-33-garrafas",
+		"name": "Brastemp BZB33BE (33 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 33 garrafas com 5 prateleiras de madeira",
+			"Dual zone com controle superior e inferior",
+			"Vidro triplo com proteção UV e acabamento em aço inox",
+			"Controle digital touchscreen interno e termômetro digital",
+			"Iluminação interna em LED e pés niveladores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "33 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "superior (5°C a 10°C;) inferior (10°C a 18°C)"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro triplo com proteção UV e acabamento em aço inox"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "5 prateleiras com acabamento em madeira"
+			},
+			{
+				"label": "Controle",
+				"value": "digital touchscreen interno"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; pés niveladores ajustáveis; termômetro digital; dual zone; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,05 x 49,3 x 54,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-acb12-12-garrafas",
+		"name": "Electrolux ACB12 (12 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 garrafas e faixa de 12°C a 18°C",
+			"Sistema termoelétrico com 75W de potência",
+			"Alarme de porta aberta e trava de segurança no painel",
+			"Fechamento hermético e 5 prateleiras cromadas removíveis",
+			"Bivolt para 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "75W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "12 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "12°C a 18°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "termoelétrico"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro temperado duplo com acabamento em alumínio escovado"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "5 prateleiras cromadas e removíveis"
+			},
+			{
+				"label": "Controle",
+				"value": "digital touchscreen externo"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; trava de segurança no painel; alarme de porta aberta; pés niveladores; fechamento hermético; termômetro digital; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 25,2 x 51,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "philco-pad12e-12-garrafas",
+		"name": "Philco PAD12E (12 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 garrafas e 58W de potência",
+			"Temperatura de 10°C a 18°C no painel digital",
+			"Livre de CFC e pés niveladores ajustáveis",
+			"3 prateleiras deslizantes com vários ajustes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "58W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "12 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "10°C a 18°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "termoelétrico"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro duplo com acabamento em alumínio escovado"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "3 prateleiras deslizantes com vários ajustes"
+			},
+			{
+				"label": "Controle",
+				"value": "digital"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; pés niveladores ajustáveis; livre de CFC; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,5 x 25,5 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,08kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "philco-pad16e-16-garrafas",
+		"name": "Philco PAD16E (16 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 16 garrafas e 58W de potência",
+			"Temperatura de 10°C a 18°C no painel digital",
+			"Livre de CFC e iluminação interna em LED",
+			"3 prateleiras cromadas e pés niveladores ajustáveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "58W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "16 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "10°C a 18°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "termoelétrico"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro duplo com acabamento em alumínio escovado"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "3 prateleiras cromadas"
+			},
+			{
+				"label": "Controle",
+				"value": "digital"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; pés niveladores ajustáveis; livre de CFC; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52 x 43,5 x 49,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,025kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "hq-hq-av16h-16-garrafas",
+		"name": "HQ HQ-AV16H (16 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 16 garrafas com compressor",
+			"Faixa de temperatura de 4°C a 16°C",
+			"Vidro duplo com acabamento premium",
+			"Controle digital touchscreen externo e 3 prateleiras revestidas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "16 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "4°C a 16°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro duplo com acabamento premium"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "3 prateleiras revestidas"
+			},
+			{
+				"label": "Controle",
+				"value": "digital touchscreen externo"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57,5 x 43 x 41,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "electrolux-wsf24-24-garrafas",
+		"name": "Electrolux WSF24 (24 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 24 garrafas com compressor",
+			"Temperatura de 5°C a 18°C com bloqueio no painel",
+			"4 prateleiras ajustáveis e prateleiras corrediças",
+			"Potência de 60W e iluminação interna em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "24 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "5°C a 18°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "4 prateleiras ajustáveis"
+			},
+			{
+				"label": "Controle",
+				"value": "digital com função de bloqueio"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED; ajuste de prateleira; controle de temperatura; prateleiras corrediças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64,2 x 48 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "midea-wbb341-34-garrafas",
+		"name": "Midea WBB341 (34 garrafas)",
+		"image": "/images/posts/melhor-adega-climatizada-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 34 garrafas, a maior desta lista",
+			"Gás refrigerante R600a e fechamento hermético",
+			"Trava de segurança e 5 prateleiras cromadas removíveis",
+			"Temperatura de 5°C a 18°C e porta de vidro duplo com inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "65W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "34 garrafas"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "5°C a 18°C"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Tipo de porta",
+				"value": "vidro duplo com acabamento em inox"
+			},
+			{
+				"label": "Níveis internos",
+				"value": "5 prateleiras cromadas removíveis"
+			},
+			{
+				"label": "Controle",
+				"value": "digital"
+			},
+			{
+				"label": "Funções extras",
+				"value": "iluminação interna em LED branco; gás refrigerante R600a; controle de temperatura; fechamento hermético; trava de segurança; prateleiras removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84,2 x 49 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	}
+]

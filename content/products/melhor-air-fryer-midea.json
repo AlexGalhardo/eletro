@@ -1,0 +1,371 @@
+[
+	{
+		"id": "midea-smart-chef-pro-mad600g10apkw1-6-litros-1500w",
+		"name": "Midea Smart Chef Pro MAD600G10APKW1 (6 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-midea-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros e controle de temperatura até 200°C",
+			"Painel digital com timer de até 120 minutos",
+			"Duplo aquecimento e visor transparente Clear View",
+			"Compatível com Alexa e controle pelo app SmartHome",
+			"Cesto lavável em lava-louças e bandeja antiaderente Blackstone"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer com desligamento automático; cesto lavável em lava louças; sensor de desligamento; bandeja antiaderente Blackstone; bandeja de resíduos; duplo aquecimento; compatível com Alexa; conexão via app SmartHome; grade Easy Clean; visor transparente (Clear View)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 26,1 x 38,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,03kg"
+			}
+		]
+	},
+	{
+		"id": "midea-ovenfryer-2-em-1-ffa20p1-12-litros-1700w",
+		"name": "Midea OvenFryer 2 em 1 FFA20P1 (12 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-midea-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros, a maior desta lista",
+			"Potência de 1700W com controle de temperatura até 200°C",
+			"Bandeja coletora de gordura e luva térmica inclusas",
+			"Proteção contra superaquecimento e timer com desligamento automático",
+			"Visor transparente para acompanhar o preparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "visor transparente; bandeja coletora de gordura; luva térmica; timer com desligamento automático; proteção contra superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36,5 x 37,9 x 31,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7kg"
+			}
+		]
+	},
+	{
+		"id": "midea-widemax-fwm55p1-5-5-litros-1900w",
+		"name": "Midea Widemax FWM55P1 (5,5 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-midea-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 5,5 litros e potência de 1900W",
+			"Revestimento BlackStone e sensor de desligamento automático",
+			"Compatível com lava-louças",
+			"Timer para programar o preparo",
+			"Dimensões de 28 x 31,5 x 42cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sensor de desligamento automático; revestimento BlackStone; timer; compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 31,5 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			}
+		]
+	},
+	{
+		"id": "midea-widemax-cyclone-fwm85p1-8-5-litros-1900w",
+		"name": "Midea Widemax Cyclone FWM85P1 (8,5 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-midea-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 8,5 litros com potência de 1900W",
+			"Revestimento BlackStone",
+			"Sensor de desligamento automático e timer",
+			"Peso de 6,2kg e dimensões de 29,2 x 31,5 x 45,6cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sensor de desligamento automático; revestimento BlackStone; timer"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,2 x 31,5 x 45,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,2kg"
+			}
+		]
+	},
+	{
+		"id": "midea-widemax-cyclone-fwm45p2-4-5-litros-1550w",
+		"name": "Midea Widemax Cyclone FWM45P2 (4,5 litros) 1550W",
+		"image": "/images/posts/melhor-air-fryer-midea-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,5 litros com potência de 1550W",
+			"Tecnologia X Cyclone e revestimento BlackStone",
+			"Sensor de desligamento automático e timer",
+			"Dimensões de 28,8 x 27,5 x 39cm e peso de 4,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1550W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sensor de desligamento automático; tecnologia X Cyclone; revestimento BlackStone; timer"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,8 x 27,5 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,9kg"
+			}
+		]
+	},
+	{
+		"id": "midea-dualcyclone-fre35p1-3-5-litros-1500w",
+		"name": "Midea DualCyclone FRE35P1 (3,5 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-midea-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3,5 litros, a menor desta lista",
+			"Tecnologia Dual Cyclone com potência de 1500W",
+			"Suporte para fio incluso no aparelho",
+			"Sensor de desligamento automático e timer",
+			"Revestimento BlackStone"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sensor de desligamento automático; tecnologia Dual Cyclone; revestimento BlackStone; timer; suporte para fio"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,8 x 27 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			}
+		]
+	},
+	{
+		"id": "midea-smart-chef-plus-mad600010apkw1-6-litros-1700w",
+		"name": "Midea Smart Chef Plus MAD600010APKW1 (6 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-midea-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros com potência de 1700W",
+			"Painel digital touch com timer de até 120 minutos",
+			"Tecnologia X Cyclone e revestimento BlackStone",
+			"Conexão com Alexa e app SmartHome",
+			"Sensor de desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sensor de desligamento automático; tecnologia X Cyclone; revestimento BlackStone; timer; conexão com Alexa e app SmartHome; painel digital touch"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,8 x 26,3 x 38,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	}
+]

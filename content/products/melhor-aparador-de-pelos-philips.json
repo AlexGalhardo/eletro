@@ -1,0 +1,168 @@
+[
+	{
+		"id": "philips-qp6532-10",
+		"name": "Philips QP6532/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 90 minutos e recarga de 1 hora",
+			"Lâminas de dupla face com OneBlade de dupla proteção",
+			"Pode ser usado no banho",
+			"Pente de precisão com 12 comprimentos",
+			"Aparador de precisão e tampa de proteção"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "90 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas de dupla face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "tampa de proteção; aparador de precisão; pente de precisão com 12 comprimentos" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-qp2824-10",
+		"name": "Philips QP2824/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pentes para barba de 1mm, 3mm e 5mm",
+			"Protetor de pele para zonas sensíveis",
+			"Lâmina adicional para substituição",
+			"Pode ser usado no banho",
+			"Autonomia de 45 minutos e recarga de 8 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "45 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâmina dupla-face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "3 pentes para barba (1mm, 3mm e 5 mm); 1 pente para corpo (3 mm); protetor de pele para zonas sensíveis; tampa de proteção; lâmina adicional para substituição" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-qp2724-10",
+		"name": "Philips QP2724/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pentes para barba de 1mm, 3mm e 5mm",
+			"Lâmina dupla face com OneBlade",
+			"Peso aproximado de 220g",
+			"Pode ser usado no banho",
+			"Tampa de proteção incluída"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "45 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâmina dupla face com tecnologia OneBlade de dupla proteção (revestimento deslizante + pontas arredondadas)" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "3 pentes para barba (1mm, 3mm e 5mm); tampa de proteção" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "220g" }
+		]
+	},
+	{
+		"id": "philips-qp1924-10",
+		"name": "Philips QP1924/10",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina SkinProtect com proteção tripla",
+			"Corte bidirecional na lâmina SkinProtect",
+			"Pente de aparar de 3mm incluso",
+			"Pode ser usado no banho",
+			"Autonomia de 30 minutos e recarga de 8 horas"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "30 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâmina SkinProtect com proteção tripla e corte bidirecional" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "pente de aparar de 3mm" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-mg3711-15",
+		"name": "Philips MG3711/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas de aço autoafiadoras em aço temperado",
+			"Autonomia de 60 minutos e recarga de 16 horas",
+			"Aparador para pelos do nariz e orelhas",
+			"Dois pentes curtos e dois longos para barba",
+			"Escova de limpeza e suporte de armazenamento"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "60 minutos" },
+			{ "label": "Tempo de recarga", "value": "16 horas" },
+			{ "label": "Sistema de corte", "value": "lâminas de aço autoafiadoras" },
+			{ "label": "Material das lâminas", "value": "aço temperado" },
+			{ "label": "Acessórios inclusos", "value": "aparador de pelos do nariz e orelhas; 2 pentes curtos para barba (1mm e 2mm); 2 pentes longos (3mm e 5mm); escova de limpeza; suporte de armazenamento" }
+		]
+	},
+	{
+		"id": "philips-bg3007-01",
+		"name": "Philips BG3007/01",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina com contorno 2D para zonas sensíveis",
+			"Pode ser usado no banho",
+			"Pente de 3mm para aparar pelos do corpo",
+			"Autonomia de 40 minutos e recarga de 8 horas",
+			"Cabo de carregamento incluso"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "40 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâmina bidirecional com pontas arredondadas e contorno 2D para zonas sensíveis" },
+			{ "label": "Acessórios inclusos", "value": "pente para aparar pelos do corpo (3mm); cabo de carregamento" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-brt383-15",
+		"name": "Philips BRT383/15",
+		"image": "/images/posts/melhor-aparador-de-pelos-philips-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com pilhas AA em vez de bateria interna",
+			"Pentes de corte de 3mm e 5mm",
+			"Minicabeça de raspar e bolsa de armazenamento",
+			"Lâminas com pontas arredondadas",
+			"Peso aproximado de 140g"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "pilhas AA" },
+			{ "label": "Tempo de recarga", "value": "––" },
+			{ "label": "Sistema de corte", "value": "lâminas com pontas arredondadas" },
+			{ "label": "Acessórios inclusos", "value": "dois pentes de corte (3mm e 5mm); minicabeça de raspar; bolsa de armazenamento; escova de limpeza" },
+			{ "label": "Pode ser usado no banho", "value": "não" },
+			{ "label": "Peso aproximado", "value": "140g" }
+		]
+	}
+]

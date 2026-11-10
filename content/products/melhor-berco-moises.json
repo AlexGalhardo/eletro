@@ -1,0 +1,342 @@
+[
+	{
+		"id": "safety-1st-co-bed-palace-0-a-9kg",
+		"name": "Safety 1st Co-Bed Palace (0 a 9kg)",
+		"image": "/images/posts/melhor-berco-moises-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e cercado",
+			"Colchonete e mosquiteiro inclusos",
+			"Tecido 100% poliéster",
+			"Dimensões montado de 88 x 99,5 x 54,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + cercado)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 9kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço; plásticos em PE"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "100% poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação de segurança",
+				"value": "isento"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "88 x 99,5 x 54,5cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "10,7kg"
+			}
+		]
+	},
+	{
+		"id": "pipdip-moises-portatil-0-a-50kg",
+		"name": "PipDip Moisés Portátil (0 a 50kg)",
+		"image": "/images/posts/melhor-berco-moises-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e balanço",
+			"Suporta até 50kg, o maior limite da lista",
+			"Tecido de poliéster e linho",
+			"Colchonete e mosquiteiro inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + balanço)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 3 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 50kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "ferro"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "poliéster; linho"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação de segurança",
+				"value": "isento"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "105 x 98 x 67cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "7,6kg"
+			}
+		]
+	},
+	{
+		"id": "kababy-co-bed-moises-3-em-1-0-a-15kg",
+		"name": "KaBaby Co-bed Moisés 3 em 1 (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-moises-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e cercado",
+			"Suporta até 15kg",
+			"Tecido de linho e algodão",
+			"Colchonete e mosquiteiro inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + cercado)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "linho e algodão"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "110 x 77,5 x 55,5cm"
+			}
+		]
+	},
+	{
+		"id": "kababy-co-bed-serenita-0-a-9kg",
+		"name": "KaBaby Co-bed Serenitá (0 a 9kg)",
+		"image": "/images/posts/melhor-berco-moises-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro usos: berço, dobrável, cercado e balanço",
+			"Idade recomendada de 0 a 11 meses",
+			"Colchonete e mosquiteiro inclusos",
+			"Suporta até 9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "4 em 1 (berço + dobrável + cercado + balanço)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 11 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 9kg"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "112 x 104 x 60cm"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-connect-0-a-9kg",
+		"name": "Maxi Baby Connect (0 a 9kg)",
+		"image": "/images/posts/melhor-berco-moises-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e balanço",
+			"Indicado a partir de 0 mês",
+			"Estrutura de aço carbono e tecido de linho",
+			"Peso de 7,1kg com colchonete e mosquiteiro inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + balanço)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 0 mês"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 9kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "linho"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "125 x 97 x 62cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "7,1kg"
+			}
+		]
+	},
+	{
+		"id": "pipdid-co-bed-infantil-0-a-15kg",
+		"name": "PipDid Co-bed Infantil (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-moises-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três usos: berço, dobrável e balanço",
+			"Idade recomendada de 0 a 2 anos",
+			"Estrutura de aço e tecido de linho",
+			"Suporta até 15kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + balanço)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 2 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "linho"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "105 x 98 x 67cm"
+			}
+		]
+	},
+	{
+		"id": "ragaluma-sleepguard-0-a-15kg",
+		"name": "Ragaluma SleepGuard (0 a 15kg)",
+		"image": "/images/posts/melhor-berco-moises-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Certificação INMETRO informada na ficha",
+			"Três usos: berço, dobrável e cercado",
+			"Tecido 100% poliéster",
+			"Suporta até 15kg e idade de 0 a 2 anos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de berço",
+				"value": "3 em 1 (berço + dobrável + cercado)"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 2 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Material do tecido",
+				"value": "100% poliéster"
+			},
+			{
+				"label": "Colchonete incluso",
+				"value": "sim"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Certificação de segurança",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Dimensões montado (A x L x P)",
+				"value": "74 x 104 x 74cm"
+			}
+		]
+	}
+]

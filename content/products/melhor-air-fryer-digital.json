@@ -1,0 +1,372 @@
+[
+	{
+		"id": "philips-walita-ai551-08-12-litros-1900w",
+		"name": "Philips Walita AI551/08 (12 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-digital-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros e potência de 1900W",
+			"Dez funções de preparo, como assar, grelhar e preparar iogurte",
+			"Peças removíveis e laváveis em lava-louças",
+			"Programação de até 24 horas",
+			"Compatível com o aplicativo HomeID"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "35ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "24 horas"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "fritar; assar; grelhar; tostar; torrar; reaquecer; desidratar; preparar iogurte; descongelar; manter aquecido; tecnologia RapidAir; timer; desligamento automático; trava de segurança; visor transparente; iluminação interna; peças removíveis e laváveis em lava-louças; compatibilidade com aplicativo HomeID; base antiderrapante; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 34 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,1kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf85-12-litros-1700w",
+		"name": "Electrolux EAF85 (12 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-digital-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 5 em 1: air fryer, assar, reaquecer, gratinar e desidratar",
+			"7 receitas pré-programadas",
+			"Aviso para virar os alimentos e timer sonoro",
+			"Porta removível com visor de vidro",
+			"Bandeja antiaderente incluída"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "60ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "até 90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função 5 em 1 (air fryer, assar, reaquecer, gratinar e desidratar); 7 receitas pré-programadas; aviso para virar os alimentos; timer sonoro; desligamento automático; porta removível; porta com visor de vidro; luz interna; bandeja antiaderente; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,9 x 32,2 x 37,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-afon-12l-12-litros-2000w",
+		"name": "Mondial AFON-12L (12 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-digital-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função air fryer e forno em um aparelho de 12 litros",
+			"10 funções predefinidas",
+			"Timer com aviso sonoro e visor amplo na porta",
+			"Revestimento antiaderente Duraflon",
+			"Potência de 2000W (127V) e 2200W (220V)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W (127V) / 2200W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função air fryer + forno; 10 funções predefinidas; timer com aviso sonoro; desligamento automático; visor amplo na porta; iluminação interna; revestimento antiaderente Duraflon; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 32 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,6kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bfr2100p-12-litros-1800w",
+		"name": "Britania BFR2100P (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-digital-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 4 em 1: assa, frita, desidrata e reaquece",
+			"9 funções pré-programadas",
+			"Proteção contra superaquecimento",
+			"Base antiderrapante e luz interna",
+			"Temperatura de 80°C a 200°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "4 em 1: assa, frita, desidrata e reaquece; 9 funções pré-programadas; luz interna; proteção contra superaquecimento; base antiderrapante; timer; desligamento automático; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,7 x 36,5 x 32,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,42kg"
+			}
+		]
+	},
+	{
+		"id": "philco-paf65-6-5-litros-1700w",
+		"name": "Philco PAF65 (6,5 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-digital-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: frita, assa e grelha",
+			"8 funções pré-programadas e função favorito",
+			"Revestimento cerâmico Redstone",
+			"Cuba e fundo removíveis",
+			"Peças compatíveis com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "3 em 1: frita, assa e grelha; 8 funções pré-programadas; função programar; função favorito; visor glass; sinal LED Turn para virar alimentos; revestimento cerâmico Redstone; desligamento automático; proteção contra superaquecimento; base antiderrapante; luz indicadora de funcionamento; cuba e fundo removíveis; alça removível; peças compatíveis com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,3 x 28,2 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			}
+		]
+	},
+	{
+		"id": "oster-ofrt970-4-6-litros-1500w",
+		"name": "Oster OFRT970 (4,6 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-digital-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grelha Easy Clean removível",
+			"8 funções automáticas, como batata frita e frango",
+			"Visor transparente no cesto",
+			"Peso de 4,0kg e capacidade de 4,6 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "65°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "visor transparente no cesto; iluminação interna; grelha Easy Clean removível; 8 funções automáticas (batata frita, carne, vegetais, bolo, peixe, frango, desidratar e reaquecer); timer"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 26,6 x 33,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,0kg"
+			}
+		]
+	},
+	{
+		"id": "oster-multi-touch-3-em-1-12-litros-1700w",
+		"name": "Oster Multi Touch 3 em 1 (12 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-digital-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: forno, grill e fritadeira",
+			"12 funções pré-programadas",
+			"Alerta Shaking Time para mexer os alimentos",
+			"Painel touch colorido e porta removível",
+			"Capacidade de 12 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W (127V) / 1800W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "0ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital touch colorido"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "função 3 em 1 (forno, grill e fritadeira); painel touch colorido; 12 funções pré-programadas; alerta Shaking Time para mexer os alimentos; porta removível; bandeja coletora de gordura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 40,3 x 38,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			}
+		]
+	}
+]

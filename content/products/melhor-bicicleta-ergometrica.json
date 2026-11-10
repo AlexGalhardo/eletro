@@ -1,0 +1,386 @@
+[
+	{
+		"id": "gallant-elite-spinning-gsb13hbta-pt-110kg",
+		"name": "Gallant Elite Spinning (GSB13HBTA-PT) 110Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Roda de inércia de 13kg e resistência por atrito",
+			"Painel LCD com seis funções, incluindo frequência cardíaca",
+			"Medição de frequência cardíaca no guidão",
+			"Selim ergonômico e assento ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical (estilo spinning)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "110kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico por atrito"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "tempo, velocidade, distância, calorias, frequência cardíaca e odômetro"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "2 pilhas AAA"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "roda de inércia de 13kg; medição de frequência cardíaca no guidão; selim ergonômico com ajuste; guidão com revestimento em espuma ajustável; rodinhas de transporte; estrutura reforçada com transmissão por correia"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "118 x 52 x 108cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			}
+		]
+	},
+	{
+		"id": "meta-parts-x11-120kga",
+		"name": "Meta Parts X11 120Kga",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 140kg com 30 níveis de resistência",
+			"Assento ajustável em até 17cm de altura",
+			"Freio de segurança e estabilizadores de piso",
+			"Painel LCD com velocidade, tempo, distância, caloria e pulso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical (estilo spinning)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "140kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico por fricção"
+			},
+			{
+				"label": "Níveis de resistência",
+				"value": "30 níveis"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "velocidade, tempo, distância, caloria e pulso"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "bateria"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "guidão ajustável; assento ajustável em altura e distância; pedal com correia ajustável; porta-garrafa; rodinhas de transporte; estabilizadores de piso; freio de segurança"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável em até 17cm de altura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 39 x 110cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			}
+		]
+	},
+	{
+		"id": "wct-fitness-10100055-140kg",
+		"name": "WCT Fitness (10100055) 140Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 120kg com resistência por feltro de lã",
+			"Assento ajustável em altura e distância",
+			"Painel LCD com modo scan e hodômetro",
+			"Rodinhas de transporte e estabilizadores de piso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical (estilo spinning)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "120kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico por fricção (feltro de lã)"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "tempo, velocidade, distância, calorias, hodômetro e modo scan"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "pilha"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "guidão ajustável; assento ajustável em altura e distância; pedal com correia ajustável; porta-garrafa; rodinhas de transporte; estabilizadores de piso"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável em até 12cm de altura e 6cm de distância"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "110 x 45 x 85cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			}
+		]
+	},
+	{
+		"id": "gallant-trainer-gbe1hbta-pt-100kg",
+		"name": "Gallant Trainer (GBE1HBTA-PT) 100Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 100kg com estrutura ampliada",
+			"Rolamento com movimento suave e pedal com correia",
+			"Painel LCD com tempo, velocidade, distância e calorias",
+			"Assento de altura ajustável e 10,5kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "100kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "tempo, velocidade, distância e calorias"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "pilha AA"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "rolamento com movimento suave; estrutura ampliada; pedal com correia"
+			},
+			{
+				"label": "Assento",
+				"value": "altura ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "120 x 83 x 41cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "dream-fitness-ex-450-100kg",
+		"name": "Dream Fitness EX 450 100Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 100kg com oito níveis de resistência",
+			"Regulador de esforço com alavanca",
+			"Estrutura em aço carbono com pintura eletrostática",
+			"Assento ajustável em três níveis de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "100kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico por fita sintética"
+			},
+			{
+				"label": "Níveis de resistência",
+				"value": "8"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "pilha"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "regulador de esforço com alavanca; guidão ajustável; estrutura em aço carbono com pintura eletrostática; estabilizadores de piso"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável em 3 níveis de altura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "111 x 48 x 86cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			}
+		]
+	},
+	{
+		"id": "polimet-bp-880-100kg",
+		"name": "Polimet BP-880 100Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 100kg com resistência por cinta",
+			"Selim anatômico com ajuste de altura",
+			"Painel LCD com modo scan e regulador de esforço manual",
+			"Guidão de apoio para antebraço e estabilizadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "100kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "mecânico por cinta"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "tempo, velocidade, distância, calorias e modo scan"
+			},
+			{
+				"label": "Alimentação do painel",
+				"value": "bateria"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "selim anatômico com ajuste de altura; estabilizadores de piso; guidão de apoio para antebraço; regulador de esforço manual"
+			},
+			{
+				"label": "Assento",
+				"value": "ajustável em 5 níveis de altura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "117 x 51 x 100cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,6kg"
+			}
+		]
+	},
+	{
+		"id": "hezaru-zxc1100-150kg",
+		"name": "Hezaru ZXC1100 150Kg",
+		"image": "/images/posts/melhor-bicicleta-ergometrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 150kg com resistência magnética",
+			"Compatível com apps de simulação via Bluetooth",
+			"Frenagem de emergência e pedal com freio de segurança",
+			"Painel LCD com RPM, pulsação, calorias e distância"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "vertical (estilo spinning)"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "150kg"
+			},
+			{
+				"label": "Sistema de resistência",
+				"value": "magnético"
+			},
+			{
+				"label": "Painel",
+				"value": "LCD"
+			},
+			{
+				"label": "Funções do painel",
+				"value": "tempo, velocidade, distância, calorias, rotações por minuto (RPM) e pulsação"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "alça antiderrapante ajustável em altura; assento acolchoado ajustável; sistema de frenagem de emergência; compatível com apps de simulação via Bluetooth; pedal com freio de segurança; estrutura com ajuste completo de posição"
+			},
+			{
+				"label": "Assento",
+				"value": "altura ajustável de 79 a 91cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 50 x 83cm"
+			}
+		]
+	}
+]

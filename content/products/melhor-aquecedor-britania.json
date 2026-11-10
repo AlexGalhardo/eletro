@@ -1,0 +1,386 @@
+[
+	{
+		"id": "britania-baq1720b-1500w",
+		"name": "Britânia BAQ1720B 1500W",
+		"image": "/images/posts/melhor-aquecedor-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece áreas de 12 a 15m² com potência de 1500W",
+			"Proteção contra superaquecimento e desligamento em tombamento",
+			"Três níveis de potência e termostato com regulagem manual",
+			"Rodinhas e cavidade para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "12 a 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "proteção contra superaquecimento e desligamento automático em caso de tombamento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Material externo",
+				"value": "metal e plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência; sete aletas; rodinhas e cavidade para transporte; suporte para o cordão elétrico"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 25,5 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,80kg"
+			}
+		]
+	},
+	{
+		"id": "britania-baq2200b-1500w",
+		"name": "Britânia BAQ2200B 1500W",
+		"image": "/images/posts/melhor-aquecedor-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece áreas de 12 a 15m² com 1500W ou 2000W",
+			"Controle remoto e timer programável",
+			"Três níveis de temperatura e termostato com regulagem manual",
+			"Grade de proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "de parede, termoventilador"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "de 12 a 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "proteção contra superaquecimento e grade de proteção"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento e ventilação; timer programável; controle remoto; luzes indicadoras de modo e timer"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,7 x 45,5 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,90kg"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1100n-1500w",
+		"name": "Britânia AB1100N 1500W",
+		"image": "/images/posts/melhor-aquecedor-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W em 127V ou 2000W em 220V",
+			"Funções de aquecimento e ventilação em um só aparelho",
+			"Dois níveis de aquecimento e alça para transporte",
+			"Peso de 988g e dimensões de 26 x 22 x 13,3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil termoventilador"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "desligamento automático em caso de superaquecimento, fusível térmico e grade de segurança"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento e ventilação; dois níveis de aquecimento; alça para transporte; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 22 x 13,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "988g"
+			}
+		]
+	},
+	{
+		"id": "britania-ab800b-800w",
+		"name": "Britânia AB800B 800W",
+		"image": "/images/posts/melhor-aquecedor-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 800W com duas lâmpadas halógenas",
+			"Sistema antiqueda com desligamento automático",
+			"Ajuste de temperatura em dois níveis, sem termostato",
+			"Peso de 846g e dimensões de 38,5 x 29,5 x 13,9cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil halógeno"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (2 níveis)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático, proteção contra sobreaquecimento e grade protetora"
+			},
+			{
+				"label": "Termostato",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "duas lâmpadas halógenas; placa difusora; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,5 x 29,5 x 13,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "846g"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1200-1200w",
+		"name": "Britânia AB1200 1200W",
+		"image": "/images/posts/melhor-aquecedor-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com ajuste em três níveis",
+			"Função Oscilar e alça para transporte",
+			"Sistema antiqueda com desligamento automático e grade protetora",
+			"Corpo em metal, plástico e vidro, com 2,20kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil halógeno"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático e grade protetora"
+			},
+			{
+				"label": "Material externo",
+				"value": "metal, plástico e vidro"
+			},
+			{
+				"label": "Extras",
+				"value": "lâmpadas de halogênio; função Oscilar; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54,8 x 37,6 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,20kg"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1500p-2000w",
+		"name": "Britânia AB1500P 2000W",
+		"image": "/images/posts/melhor-aquecedor-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W em 127V ou 2000W em 220V",
+			"Termostato com regulagem manual e três níveis de temperatura",
+			"Alça para transporte e luz indicadora de funcionamento",
+			"Proteção contra superaquecimento e fusível térmico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil termoventilador"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "desligamento contra superaquecimento, fusível térmico e grade de segurança"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento e ventilação; alça para transporte; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 22,5 x 13,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "934g"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1600p-1500w",
+		"name": "Britânia AB1600P 1500W",
+		"image": "/images/posts/melhor-aquecedor-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W com ajuste de temperatura progressivo",
+			"Função Oscilar e alça para transporte",
+			"Sistema antiqueda com desligamento automático e grade protetora",
+			"Termostato com regulagem manual e luz indicadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil cerâmico"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático e grade protetora"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento e ventilação; função Oscilar; alça para transporte; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 20,5 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,59kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,394 @@
+[
+	{
+		"id": "mondial-afon-12l-bi-2000w",
+		"name": "Mondial AFON-12L-BI 2000W",
+		"image": "/images/posts/melhor-air-fryer-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros, entre as maiores desta lista",
+			"Receitas predefinidas e timer",
+			"Duas assadeiras, cesto, bandeja coletora e livro de receitas",
+			"Painel digital e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "12"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas, timer, aviso sonoro, desligamento automático"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "‎01 fritadeira, 02 assadeiras, 01 cesto, 01 bandeja coletora, 01 livro de receitas, luva de silicone"
+			},
+			{
+				"label": "Dimensões: ‎",
+				"value": "‎32 x 36,1 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,62kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf90-1700w",
+		"name": "Electrolux EAF90 1700W",
+		"image": "/images/posts/melhor-air-fryer-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco métodos de preparo e sete receitas pré-programadas",
+			"Funções fritar, gratinar, aquecer, desidratar e rotisserie",
+			"Espeto giratório com gancho e duas grelhas incluídos",
+			"Função preaquecer e função virar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "12"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "60ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "5 métodos de preparo, 7 receitas pré-programadas, função preaquecer, função virar, timer, aviso sonoro, desligamento automático, fritar, gratinar, aquecer, desidratar e rotisserie"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "01 luva de silicone, 02 grelhas, 01 espeto giratório e gancho, 01 bandeja coletora de resíduos e 01 cesto interno de 5L"
+			},
+			{
+				"label": "Dimensões",
+				"value": "40,9 x 32,2 x 37,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			}
+		]
+	},
+	{
+		"id": "oster-ofrt520-1500w",
+		"name": "Oster OFRT520 1500W",
+		"image": "/images/posts/melhor-air-fryer-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,6 litros",
+			"Timer, aviso sonoro e desligamento automático",
+			"Cesto e grelha removível",
+			"Painel de botões analógicos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "4,6"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80ºC e 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "botões analógicos"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer, aviso sonoro e desligamento automático"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cesto e grelha removível"
+			},
+			{
+				"label": "Dimensões: ‎",
+				"value": "‎36,3 x 25,2 x 28,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,08kg"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ri9270-90-2000w",
+		"name": "Philips Walita RI9270/90 2000W",
+		"image": "/images/posts/melhor-air-fryer-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função manter aquecido e receitas predefinidas",
+			"Capacidade de 6,2 litros, com 4,6 litros úteis",
+			"Cesto e grelha removíveis",
+			"Timer e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "6,2; útil 4,6L"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas, timer, aviso sonoro, desligamento automático e função manter aquecido"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cesto e grelha removíveis"
+			},
+			{
+				"label": "Dimensões",
+				"value": "36,6 x 31,6 x 40,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-hd9202-91-1400w",
+		"name": "Philips Walita HD9202/91 1400W",
+		"image": "/images/posts/melhor-air-fryer-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,1 litros para preparos menores",
+			"Cesto e grelha removível",
+			"Timer e aviso sonoro",
+			"Botões analógicos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "4,1"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "botões analógicos"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer, aviso sonoro e desligamento automático"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "grelha e cesto removível"
+			},
+			{
+				"label": "Dimensões",
+				"value": "33,5 x 33,5 x 38,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,45kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pfr2200p-1800w",
+		"name": "Philco PFR2200P 1800W",
+		"image": "/images/posts/melhor-air-fryer-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch digital e timer",
+			"Capacidade de 12 litros com duas assadeiras rasas",
+			"Bandeja coletora de gordura incluída",
+			"Cesto de 3,5 litros incluído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "12"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "touch digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer, aviso sonoro e desligamento automático"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "2 assadeiras rasas, 1 cesto de 3,5L e 1 bandeja coletora de gordura"
+			},
+			{
+				"label": "Dimensões",
+				"value": "19 x 24,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,05kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-afn-80-bi-1900w",
+		"name": "Mondial AFN-80-BI 1900W",
+		"image": "/images/posts/melhor-air-fryer-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funções assar, cozinhar, gratinar e fritar",
+			"Capacidade de 8 litros e cesto quadrado",
+			"Timer, aviso sonoro e desligamento automático",
+			"Botões analógicos e potência de 1900W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade em litros",
+				"value": "8"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Tensão",
+				"value": "110V ou 220V"
+			},
+			{
+				"label": "Temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "botões analógicos"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer, aviso sonoro, desligamento automático, assar, cozinhar, gratinar e fritar"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cesto quadrado"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32,50 x 35 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,1kg"
+			}
+		]
+	}
+]

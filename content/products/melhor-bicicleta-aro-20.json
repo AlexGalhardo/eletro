@@ -1,0 +1,338 @@
+[
+	{
+		"id": "colli-gps-masculina",
+		"name": "Colli GPS Masculina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aro 20 com 21 marchas",
+			"Quadro de aço carbono com suporte de até 70kg",
+			"Freio V-Brake e pneus com cravos",
+			"Indicada para crianças de 1,20m a 1,40m"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 70kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Brake"
+			},
+			{
+				"label": "Marchas",
+				"value": "21 marchas"
+			},
+			{
+				"label": "Pneus",
+				"value": "com cravos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "13,4kg"
+			}
+		]
+	},
+	{
+		"id": "colli-max-boy-masculina",
+		"name": "Colli Max Boy Masculina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quadro de aço carbono até 70kg",
+			"Pneus com cravos e freio V-Break",
+			"Estatura indicada de 1,20m a 1,40m",
+			"Peso de 13,4kg e aro 20"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 70kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Break"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "com cravos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "13,4kg"
+			}
+		]
+	},
+	{
+		"id": "colli-celina-feminina",
+		"name": "Colli Celina Feminina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 11,2kg para facilitar o manuseio",
+			"Quadro de aço carbono com 70kg de carga",
+			"Pneus lisos e freio V-Break",
+			"Modelo feminino para idades de 7 a 10 anos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 70kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Break"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "lisos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "11,2kg"
+			}
+		]
+	},
+	{
+		"id": "colli-jully-feminina",
+		"name": "Colli Jully Feminina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 11kg, o menor entre os modelos Colli",
+			"Suporta até 70kg no quadro de aço carbono",
+			"Freio V-Break e pneus lisos",
+			"Para crianças de 7 a 10 anos, de 1,20m a 1,40m"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 70kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Break"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "lisos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "11kg"
+			}
+		]
+	},
+	{
+		"id": "ravok-rv-x-cross-masculina",
+		"name": "Ravok RV-X Cross Masculina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 75kg, acima dos modelos Colli",
+			"Quadro em aço com pneus com cravos",
+			"Peso de 11,5kg para o modelo Cross",
+			"Faixa de 7 a 10 anos informada na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 75kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Break"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "com cravos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "11,5kg"
+			}
+		]
+	},
+	{
+		"id": "pro-x-serie-1-masculina",
+		"name": "Pro-X Série 1 Masculina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicada a partir de 6 anos, de 1,20m a 1,70m",
+			"Suporta até 80kg, a maior carga da lista",
+			"Quadro de aço carbono com pneus com cravos",
+			"Peso de 12kg e freio V-Break"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças a partir de 6 anos (1,20m a 1,70m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 80kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "V-Break"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "com cravos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "12kg"
+			}
+		]
+	},
+	{
+		"id": "colli-skill-boy-masculina",
+		"name": "Colli Skill Boy Masculina",
+		"image": "/images/posts/melhor-bicicleta-aro-20-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Freio a disco, o único da lista com esse tipo",
+			"Peso de 15,3kg, o maior da lista",
+			"Pneus com cravos e quadro de aço carbono",
+			"Suporta até 70kg e aro 20"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho da roda (aro)",
+				"value": "20″"
+			},
+			{
+				"label": "Indicação",
+				"value": "crianças de 7 a 10 anos (1,20m a 1,40m)"
+			},
+			{
+				"label": "Estrutura (quadro)",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 70kg"
+			},
+			{
+				"label": "Tipo de freio",
+				"value": "freio a disco"
+			},
+			{
+				"label": "Marchas",
+				"value": "—"
+			},
+			{
+				"label": "Pneus",
+				"value": "com cravos"
+			},
+			{
+				"label": "Peso da bicicleta",
+				"value": "15,3kg"
+			}
+		]
+	}
+]
