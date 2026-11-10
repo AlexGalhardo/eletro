@@ -7,8 +7,8 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 151 posts, 64 fora de rascunho, 87 rascunhos,
-381 links de afiliado e 1837 pendentes.
+Total: 237 posts, 64 fora de rascunho, 173 rascunhos,
+381 links de afiliado e 3598 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
@@ -109,11 +109,97 @@ Total: 151 posts, 64 fora de rascunho, 87 rascunhos,
 | [melhor-berco-portatil](../content/posts/melhor-berco-portatil.mdx) | Melhores Berços Portáteis de 2026: 7 Modelos | cama-mesa-banho | true | 7 | 0 | 21 |
 | [melhor-bicicleta-aro-20](../content/posts/melhor-bicicleta-aro-20.mdx) | Melhores Bicicletas Aro 20 de 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
 | [melhor-bicicleta-ergometrica](../content/posts/melhor-bicicleta-ergometrica.mdx) | Bicicleta Ergométrica 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-blender](../content/posts/melhor-blender.mdx) | Melhores Blenders de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-bolsa-de-ferramentas](../content/posts/melhor-bolsa-de-ferramentas.mdx) | Melhor Bolsa de Ferramentas 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-bolsa-de-transporte-pet](../content/posts/melhor-bolsa-de-transporte-pet.mdx) | Melhor Bolsa de Transporte Pet 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-bolsa-termica](../content/posts/melhor-bolsa-termica.mdx) | Melhores Bolsas Térmicas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-bombinha-de-tirar-leite](../content/posts/melhor-bombinha-de-tirar-leite.mdx) | Bombinhas de Tirar Leite: 7 Modelos em 2026 | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-bombinha-de-tirar-leite-eletrica](../content/posts/melhor-bombinha-de-tirar-leite-eletrica.mdx) | Melhores Bombinhas Elétricas de Tirar Leite 2026 | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-cadeira-de-alimentacao-burigotto](../content/posts/melhor-cadeira-de-alimentacao-burigotto.mdx) | Melhor Cadeira de Alimentação Burigotto 2026: 6 Modelos | infantil | true | 6 | 0 | 18 |
+| [melhor-cadeira-de-alimentacao-para-bebe](../content/posts/melhor-cadeira-de-alimentacao-para-bebe.mdx) | Melhores Cadeiras de Alimentação para Bebê 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-cadeira-de-camping](../content/posts/melhor-cadeira-de-camping.mdx) | Melhores Cadeiras de Camping de 2026: 7 Modelos | jardim | true | 7 | 0 | 21 |
+| [melhor-cadeira-de-praia](../content/posts/melhor-cadeira-de-praia.mdx) | Melhores Cadeiras de Praia de 2026: 7 Modelos | jardim | true | 7 | 0 | 21 |
+| [melhor-cadeira-de-praia-mor](../content/posts/melhor-cadeira-de-praia-mor.mdx) | Cadeira de Praia Mor 2026: 7 Modelos | jardim | true | 7 | 0 | 21 |
+| [melhor-cadeirinha-de-descanso-para-bebe](../content/posts/melhor-cadeirinha-de-descanso-para-bebe.mdx) | Melhores Cadeirinhas de Descanso 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-cadeirinha-para-carro](../content/posts/melhor-cadeirinha-para-carro.mdx) | Cadeirinha para Carro 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-cafeteira-3-coracoes](../content/posts/melhor-cafeteira-3-coracoes.mdx) | Cafeteira 3 Corações 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-arno](../content/posts/melhor-cafeteira-arno.mdx) | Melhores Cafeteiras Arno de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-bialetti](../content/posts/melhor-cafeteira-bialetti.mdx) | Cafeteiras Bialetti de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-black-decker](../content/posts/melhor-cafeteira-black-decker.mdx) | Cafeteira Black+Decker 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-britania](../content/posts/melhor-cafeteira-britania.mdx) | Cafeteira Britânia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-cadence](../content/posts/melhor-cafeteira-cadence.mdx) | Cafeteira Cadence 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-com-copo-termico](../content/posts/melhor-cafeteira-com-copo-termico.mdx) | Melhores Cafeteiras com Copo Térmico 2026 | cozinha | true | 6 | 0 | 18 |
+| [melhor-cafeteira-de-capsula](../content/posts/melhor-cafeteira-de-capsula.mdx) | Melhores Cafeteiras de Cápsula 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-electrolux](../content/posts/melhor-cafeteira-electrolux.mdx) | Melhor Cafeteira Electrolux 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eletrica](../content/posts/melhor-cafeteira-eletrica.mdx) | Melhores Cafeteiras Elétricas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eletrica-electrolux](../content/posts/melhor-cafeteira-eletrica-electrolux.mdx) | Cafeteiras Electrolux de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eletrica-oster](../content/posts/melhor-cafeteira-eletrica-oster.mdx) | Melhores Cafeteiras Elétricas Oster de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eletrica-pequena](../content/posts/melhor-cafeteira-eletrica-pequena.mdx) | Melhores Cafeteiras Elétricas Pequenas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eletrica-programavel](../content/posts/melhor-cafeteira-eletrica-programavel.mdx) | Cafeteira Elétrica Programável 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-eos](../content/posts/melhor-cafeteira-eos.mdx) | Melhores Cafeteiras EOS de 2026: 5 Modelos | cozinha | true | 5 | 0 | 15 |
+| [melhor-cafeteira-expresso-mondial](../content/posts/melhor-cafeteira-expresso-mondial.mdx) | Melhor Cafeteira Expresso Mondial 2026: 3 Modelos | cozinha | true | 3 | 0 | 9 |
+| [melhor-cafeteira-expresso-oster](../content/posts/melhor-cafeteira-expresso-oster.mdx) | Melhores Cafeteiras Expresso Oster 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-gaggia](../content/posts/melhor-cafeteira-gaggia.mdx) | Melhores Cafeteiras Gaggia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-individual](../content/posts/melhor-cafeteira-individual.mdx) | Melhores Cafeteiras Individuais de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-italiana](../content/posts/melhor-cafeteira-italiana.mdx) | Cafeteira Italiana 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-jarra-inox](../content/posts/melhor-cafeteira-jarra-inox.mdx) | Melhores Cafeteiras Jarra Inox 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-mallory](../content/posts/melhor-cafeteira-mallory.mdx) | Cafeteira Mallory 2026: 5 Modelos Comparados | cozinha | true | 5 | 0 | 15 |
+| [melhor-cafeteira-nespresso](../content/posts/melhor-cafeteira-nespresso.mdx) | Cafeteiras Nespresso de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-para-2-xicaras](../content/posts/melhor-cafeteira-para-2-xicaras.mdx) | Melhores Cafeteiras para 2 Xícaras 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-para-30-xicaras](../content/posts/melhor-cafeteira-para-30-xicaras.mdx) | Cafeteiras para 30 Xícaras em 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-para-escritorio](../content/posts/melhor-cafeteira-para-escritorio.mdx) | Cafeteira para Escritório 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-philips-walita](../content/posts/melhor-cafeteira-philips-walita.mdx) | Melhores Cafeteiras Philips Walita de 2026: 5 Modelos | cozinha | true | 5 | 0 | 15 |
+| [melhor-cafeteira-programavel](../content/posts/melhor-cafeteira-programavel.mdx) | Cafeteiras Elétricas e Expressos: 7 Modelos em 2026 | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteira-simples-e-barata](../content/posts/melhor-cafeteira-simples-e-barata.mdx) | Cafeteiras Simples e Baratas de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteiras](../content/posts/melhor-cafeteiras.mdx) | Melhores Cafeteiras de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteiras-mondial](../content/posts/melhor-cafeteiras-mondial.mdx) | Cafeteiras Mondial 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteiras-oster](../content/posts/melhor-cafeteiras-oster.mdx) | Cafeteiras Oster de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteiras-pequenas](../content/posts/melhor-cafeteiras-pequenas.mdx) | Cafeteiras Pequenas de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-cafeteiras-philco](../content/posts/melhor-cafeteiras-philco.mdx) | Cafeteira Philco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-caixa-de-areia-para-gatos](../content/posts/melhor-caixa-de-areia-para-gatos.mdx) | Caixa de Areia para Gatos 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-caixa-de-ferramentas-com-rodas](../content/posts/melhor-caixa-de-ferramentas-com-rodas.mdx) | Caixas de Ferramentas com Rodas 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-caixa-de-ferramentas-vonder](../content/posts/melhor-caixa-de-ferramentas-vonder.mdx) | Caixas de Ferramentas Vonder em 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-caixa-termica](../content/posts/melhor-caixa-termica.mdx) | Melhores Caixas Térmicas de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-caixa-termica-grande](../content/posts/melhor-caixa-termica-grande.mdx) | Melhores Caixas Térmicas Grandes de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-canguru-para-bebe](../content/posts/melhor-canguru-para-bebe.mdx) | Melhores Cangurus para Bebê de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-cantil](../content/posts/melhor-cantil.mdx) | Cantil 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-carrinho-de-bebe](../content/posts/melhor-carrinho-de-bebe.mdx) | Carrinho de Bebê 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-carrinho-de-bebe-3-rodas](../content/posts/melhor-carrinho-de-bebe-3-rodas.mdx) | Carrinhos de Bebê 3 Rodas 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-carrinho-de-passeio-infantil](../content/posts/melhor-carrinho-de-passeio-infantil.mdx) | Melhores Carrinhos de Passeio Infantis 2026: 7 Modelos | infantil | true | 7 | 0 | 21 |
+| [melhor-carrinhos-de-compras](../content/posts/melhor-carrinhos-de-compras.mdx) | Carrinho de Compras 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-casinha-de-cachorro](../content/posts/melhor-casinha-de-cachorro.mdx) | Melhores Casinhas de Cachorro 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-centrifuga-de-roupas](../content/posts/melhor-centrifuga-de-roupas.mdx) | Centrífuga de Roupas 2026: 7 Modelos Comparados | lavanderia | true | 7 | 0 | 21 |
+| [melhor-cervejeira](../content/posts/melhor-cervejeira.mdx) | Melhores Cervejeiras de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-cervejeira-eos](../content/posts/melhor-cervejeira-eos.mdx) | Melhores Cervejeiras EOS 2026 | cozinha | false | 7 | 6 | 1 |
+| [melhor-cervejeira-philco](../content/posts/melhor-cervejeira-philco.mdx) | Cervejeira Philco 2026: 5 Modelos Comparados | cozinha | true | 5 | 0 | 15 |
+| [melhor-chaleira-eletrica](../content/posts/melhor-chaleira-eletrica.mdx) | Melhores Chaleiras Elétricas 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-chaleira-eletrica-inox](../content/posts/melhor-chaleira-eletrica-inox.mdx) | 5 Melhores Chaleiras Elétricas Inox em 2026 | cozinha | false | 5 | 5 | 0 |
+| [melhor-chapinha](../content/posts/melhor-chapinha.mdx) | Melhores Chapinhas de 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-chave-de-fenda-eletrica](../content/posts/melhor-chave-de-fenda-eletrica.mdx) | Melhores Chaves de Fenda Elétricas 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-chave-de-impacto-a-bateria](../content/posts/melhor-chave-de-impacto-a-bateria.mdx) | Melhores Chaves de Impacto de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-chopeira-eletrica](../content/posts/melhor-chopeira-eletrica.mdx) | Chopeira Elétrica 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-chopeiras](../content/posts/melhor-chopeiras.mdx) | Melhores Chopeiras 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-churrasqueira-para-apartamento](../content/posts/melhor-churrasqueira-para-apartamento.mdx) | Melhores Churrasqueiras para Apartamento de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-churrasqueiras-mor](../content/posts/melhor-churrasqueiras-mor.mdx) | Melhores Churrasqueiras Mor de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-chuveiro-bom-e-barato](../content/posts/melhor-chuveiro-bom-e-barato.mdx) | Chuveiros Bons e Baratos de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiro-deca](../content/posts/melhor-chuveiro-deca.mdx) | Melhores Chuveiros Deca de 2026: 7 Modelos Comparados | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiro-eletrico](../content/posts/melhor-chuveiro-eletrico.mdx) | Melhores Chuveiros Elétricos de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiro-fame](../content/posts/melhor-chuveiro-fame.mdx) | Chuveiro Fame 2026: 7 Modelos Comparados | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiro-quadrado](../content/posts/melhor-chuveiro-quadrado.mdx) | Chuveiros Quadrados de 2026: 7 Modelos Comparados | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiro-zagonel](../content/posts/melhor-chuveiro-zagonel.mdx) | Melhores Chuveiros Zagonel de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-chuveiros-lorenzetti](../content/posts/melhor-chuveiros-lorenzetti.mdx) | Melhores Chuveiros Lorenzetti de 2026: 7 Modelos | banheiro | true | 7 | 0 | 21 |
+| [melhor-cinto-de-ferramentas](../content/posts/melhor-cinto-de-ferramentas.mdx) | Melhores Cintos de Ferramentas 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-circulador-de-ar](../content/posts/melhor-circulador-de-ar.mdx) | Circuladores de Ar de 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
 | [melhor-climatizador](../content/posts/melhor-climatizador.mdx) | Melhores Climatizadores de Ar de 2026 | climatizacao | false | 7 | 6 | 1 |
 | [melhor-climatizador-midea](../content/posts/melhor-climatizador-midea.mdx) | Melhor Climatizador Midea: 6 Opções para Comprar em 2026 | climatizacao | false | 6 | 6 | 0 |
+| [melhor-climatizador-pequeno](../content/posts/melhor-climatizador-pequeno.mdx) | Melhores Climatizadores Pequenos de 2026: 7 Modelos | climatizacao | true | 7 | 0 | 21 |
+| [melhor-climatizador-philco](../content/posts/melhor-climatizador-philco.mdx) | Climatizador Philco 2026: 6 Modelos Comparados | climatizacao | true | 6 | 0 | 18 |
 | [melhor-climatizador-quente-e-frio](../content/posts/melhor-climatizador-quente-e-frio.mdx) | Melhor Climatizador Quente e Frio: Opções para 2026 | climatizacao | false | 5 | 4 | 1 |
+| [melhor-coifa-de-ilha](../content/posts/melhor-coifa-de-ilha.mdx) | Coifas de Ilha em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-colchao-casal](../content/posts/melhor-colchao-casal.mdx) | Melhores Colchões Casal 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-colchao-inflavel](../content/posts/melhor-colchao-inflavel.mdx) | Colchão Inflável 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-colchoes](../content/posts/melhor-colchoes.mdx) | Melhores Colchões 2026: 7 Modelos Comparados | cama-mesa-banho | true | 7 | 0 | 21 |
+| [melhor-compressor-de-ar-portatil](../content/posts/melhor-compressor-de-ar-portatil.mdx) | Melhores Compressores de Ar Portáteis 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-cooktop-1-boca](../content/posts/melhor-cooktop-1-boca.mdx) | Melhores Cooktops 1 Boca Para Comprar | cozinha | false | 6 | 6 | 0 |
 | [melhor-cooktop-suggar](../content/posts/melhor-cooktop-suggar.mdx) | Melhores Cooktops Suggar Em 2026 | cozinha | false | 7 | 7 | 0 |
 | [melhor-descascador-legumes-tramontina](../content/posts/melhor-descascador-legumes-tramontina.mdx) | Melhores Descascadores de Legumes Tramontina 2026 | cozinha | false | 7 | 7 | 0 |

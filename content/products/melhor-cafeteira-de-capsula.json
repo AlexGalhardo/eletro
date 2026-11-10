@@ -1,0 +1,423 @@
+[
+	{
+		"id": "arno-nescafe-dolce-gusto-genio-s-touch-dgs4",
+		"name": "Arno Nescafé Dolce Gusto Genio S Touch DGS4",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com extração automática",
+			"Função extragrande e função Espresso Boost",
+			"Regulagem de temperatura e desligamento automático",
+			"Acompanha agulha de limpeza e ferramenta de enxágue",
+			"Reservatório de 800ml"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e componentes metálicos"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch; extração automática; função extragrande; regulagem de temperatura; função Espresso Boost; desligamento automático; indicador luminoso em LED"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "ferramenta de enxágue; agulha de limpeza; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,2 x 11 x 27,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-cafeteira-citiz",
+		"name": "Nespresso Cafeteira CitiZ",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 1 litro, o maior da lista",
+			"Pressão de 19 bar para cafés espresso",
+			"Opção de água quente para chá",
+			"Kit de boas-vindas com 7 cápsulas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula espresso"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "19 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e componentes metálicos"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "desligamento automático; conteiner de cápsulas; opção de água quente para chá"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "reservatório; bandeja; kit boas-vindas com 7 cápsulas; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,8 x 13 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-espresso-passione",
+		"name": "Três Corações Espresso Passione",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botões individuais para cada tipo de bebida",
+			"Sistema multipressão e extração automática",
+			"Compartimento para descarte de cápsulas",
+			"Acompanha cápsula de retrolavagem e guia rápido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "700ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "compartimento para descarte de cápsulas; cápsula de retrolavagem; extração automática; botões individuais para tipos de bebidas; sistema multipressão"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem; manual; guia rápido; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,7 x 12 x 32,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-espresso-lov",
+		"name": "Três Corações Espresso LOV",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 950ml",
+			"Suporte ajustável e compartimento para recolher gotas",
+			"Botões individuais e sistema multipressão",
+			"Acompanha guia de manutenção"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "Tipo: cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "950ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "cápsula de retrolavagem; compartimento para descarte de cápsulas; extração automática; botões individuais para tipos de bebidas; sistema multipressão; suporte ajustável; compartimento para recolher gotas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem; manual; guia rápido; guia de manutenção; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 16 x 20,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nespresso-essenza-mini-d30",
+		"name": "Nespresso Essenza Mini D30",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Kit com 7 cápsulas incluso",
+			"Pressão de 19 bar para cafés espresso",
+			"Reservatório de 600ml para preparos menores",
+			"Desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula espresso"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "19 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "desligamento automático; conteiner de cápsulas; kit com 7 cápsulas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 11 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "delta-q-quick",
+		"name": "Delta Q Quick",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bandeja com ajuste de altura",
+			"Dois botões programáveis",
+			"Ejeção automática de cápsulas usadas",
+			"Recipiente próprio para cápsulas usadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "19 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bandeja com ajuste de altura; 2 botões programáveis; recipiente de cápsulas usadas; ejeção automática de cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,7 x 11,6 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-nescafe-dolce-gusto-genio-s-plus-dgs2",
+		"name": "Arno Nescafé Dolce Gusto Genio S Plus DGS2",
+		"image": "/images/posts/melhor-cafeteira-de-capsula-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1450W, a maior da lista",
+			"Função extragrande e função Espresso Boost",
+			"Extração automática e regulagem de temperatura",
+			"Bandeja coletora e grelha em inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800ml"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e componentes metálicos"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "extração automática; função extragrande; regulagem de temperatura; função Espresso Boost; desligamento automático"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja coletora; grelha em inox; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,2 x 11 x 27,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

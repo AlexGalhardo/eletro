@@ -1,0 +1,421 @@
+[
+	{
+		"id": "3-coracoes-touch",
+		"name": "3 Corações Touch",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touchscreen",
+			"Sistema multipressão",
+			"Compatível com cápsulas TRES®",
+			"Compartimento para até 4 cápsulas usadas",
+			"Cápsula de retrolavagem inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "560mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touchscreen; sistema multipressão; compartimento interno para até 4 cápsulas usadas; bandeja coletora de resíduos removível; compatível com cápsulas TRES®"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 13,8 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-lov",
+		"name": "3 Corações LOV",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporte para xícaras e copos long drink",
+			"Sistema multipressão",
+			"Compartimento externo para até 4 cápsulas usadas",
+			"Bandeja coletora de resíduos removível",
+			"Reservatório de 950mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "950mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; suporte para xícaras e copos long drink; bandeja coletora de resíduos removível; compartimento externo para até 4 cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 16 x 20,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-passione",
+		"name": "3 Corações Passione",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bebidas programáveis entre 30mL e 250mL",
+			"Ajuste da temperatura da bebida",
+			"Modo de economia de energia",
+			"Reservatório de 700mL",
+			"Bandeja coletora de resíduos removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "700mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; compartimento interno para até 4 cápsulas usadas; bandeja coletora de resíduos removível; ajuste da temperatura da bebida; bebidas programáveis entre 30mL e 250mL; modo de economia de energia"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,7 x 12 x 32,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-luna",
+		"name": "3 Corações Luna",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funcionamento silencioso",
+			"Pressão de até 15 bar",
+			"Compartimento para até 5 cápsulas usadas",
+			"Reservatório de 600mL",
+			"Potência de 1200W, a menor da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão até 15 bar; funcionamento silencioso; sistema multipressão; compartimento interno para até 5 cápsulas usadas; bandeja coletora de resíduos removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,2 x 18,4 x 33,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-espresso-barista",
+		"name": "3 Corações Espresso Barista",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-5.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vaporizador de leite com recipiente incluso",
+			"Descarte automático de cápsulas",
+			"Reservatório para até 18 cápsulas usadas",
+			"Reservatório de 1,3 litro, o maior da lista",
+			"Regulagem da altura para xícaras e copos long drink"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,3 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; descarte automático de cápsulas; reservatório para até 18 cápsulas usadas; vaporizador de leite; reprogramação da quantidade da bebida; regulagem da altura para xícaras e copos long drink; função de economia de energia; bandeja coletora de resíduos removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem; recipiente para leite"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 22 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-versa",
+		"name": "3 Corações Versa",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Descarte interno de cápsulas usadas",
+			"Sistema multipressão",
+			"Bandeja coletora de resíduos removível",
+			"Cápsula de retrolavagem inclusa",
+			"Bomba de 15 bar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; descarte interno de cápsulas usadas; bandeja coletora de resíduos removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 28 x 17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "3-coracoes-lov-premium",
+		"name": "3 Corações LOV Premium",
+		"image": "/images/posts/melhor-cafeteira-3-coracoes-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Extração silenciosa",
+			"Suporte para xícaras e copos long drink",
+			"Sistema multipressão",
+			"Reservatório de 950mL",
+			"Bandeja coletora de resíduos removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Pressão da bomba",
+				"value": "15 bar"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "950mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsulas"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; extração silenciosa; suporte para xícaras e copos long drink; bandeja coletora de resíduos removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,7 x 16,7 x 21,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

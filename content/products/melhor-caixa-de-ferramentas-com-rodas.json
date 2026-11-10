@@ -1,0 +1,341 @@
+[
+	{
+		"id": "dewalt-dwst60452",
+		"name": "Dewalt DWST60452",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Plástico ABS como material principal",
+			"Três níveis com divisórias para organizar as peças",
+			"Alça retrátil e rodízios fixos",
+			"Travas de segurança metálicas",
+			"Peso suportado de 100kg na parte superior"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "3 níveis com divisórias"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60 x 44 x 52cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "50kg"
+			},
+			{
+				"label": "Peso suportado superior",
+				"value": "100kg"
+			}
+		]
+	},
+	{
+		"id": "stanley-stst83319",
+		"name": "Stanley STST83319",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 80 litros",
+			"Três níveis com divisórias para organizar as peças",
+			"Rodízios fixos e alça retrátil",
+			"Travas de segurança metálicas",
+			"Peso suportado interno de 45kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "80 litros"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "3 níveis com divisórias"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "74 x 55 x 40cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "45kg"
+			}
+		]
+	},
+	{
+		"id": "irwin-iwst33027",
+		"name": "IRWIN IWST33027",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 53 litros",
+			"Divisória para separar as peças em um nível",
+			"Rodízios fixos e alça retrátil",
+			"Peso suportado de 130kg na parte superior",
+			"Travas de segurança metálicas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "53 litros"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 nível com divisória"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,5 x 41,9 x 61,3cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "35kg"
+			},
+			{
+				"label": "Peso suportado superior",
+				"value": "130kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-crv0400",
+		"name": "Vonder CRV0400",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Polipropileno como material principal",
+			"Dois níveis com divisórias",
+			"Rodízios fixos para transporte",
+			"Travas de segurança de plástico resistente",
+			"Peso suportado interno de 25kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "2 níveis com divisórias"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "não"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "plástico resistente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 26 x 46cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "25kg"
+			}
+		]
+	},
+	{
+		"id": "stanley-stst33027",
+		"name": "Stanley STST33027",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Polipropileno como material principal",
+			"Capacidade interna de 53 litros",
+			"Alça retrátil e rodízios fixos",
+			"Peso suportado de 130kg na parte superior",
+			"Travas de segurança metálicas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "53 litros"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 nível com divisória"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "35kg"
+			},
+			{
+				"label": "Peso suportado superior",
+				"value": "130kg"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dwst08450",
+		"name": "Dewalt DWST08450",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso suportado interno de até 113,4kg",
+			"Um nível com divisórias para as peças",
+			"Alça retrátil e rodízios fixos",
+			"Travas de segurança metálicas",
+			"Material de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 nível com divisórias"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98,5 x 60,4 x 50,5cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "113,4kg"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dwst17871",
+		"name": "Dewalt DWST17871",
+		"image": "/images/posts/melhor-caixa-de-ferramentas-com-rodas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 113 litros, a maior da lista",
+			"Compartimento único sem divisórias",
+			"Alça retrátil e rodízios fixos",
+			"Travas de segurança metálicas",
+			"Peso suportado interno de 50kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "113 litros"
+			},
+			{
+				"label": "Número de compartimentos",
+				"value": "1 nível sem divisórias"
+			},
+			{
+				"label": "Rodízios",
+				"value": "sim, fixos"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Travas de segurança",
+				"value": "metálicas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43 x 60 x 80cm"
+			},
+			{
+				"label": "Peso suportado interno",
+				"value": "50kg"
+			}
+		]
+	}
+]

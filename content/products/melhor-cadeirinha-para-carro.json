@@ -1,0 +1,450 @@
+[
+	{
+		"id": "graco-extend2-fit-convertible",
+		"name": "Graco Extend2 Fit Convertible",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 12 anos",
+			"Reclinação em 6 posições e encosto em 10 posições",
+			"Instalação com InRight Latch ou cinto do carro",
+			"Cinto de 5 pontos com ajuste junto ao apoio de cabeça"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2, 3 (de 0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 12 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "InRight Latch e cinto de segurança do carro"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (6 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "ajustável em 10 posições"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com ajuste simultâneo ao apoio de cabeça"
+			},
+			{
+				"label": "Material do assento",
+				"value": "plástico, poliéster e aço"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,69 x 49,53 x 54,61cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "8,6kg"
+			}
+		]
+	},
+	{
+		"id": "safety-1st-black-urban",
+		"name": "Safety 1st Black Urban",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 10 anos",
+			"Reclinação em 4 posições",
+			"Instalação com cintos do veículo ou Isofix a partir do grupo 1",
+			"Tecido removível e lavável na máquina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2 e 3 (0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 10 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "cintos do veículo ou sistema Isofix (a partir do grupo 1)"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (4 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "apoio de cabeça com ajuste simultâneo ao dos cintos"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com ajuste de altura simultâneo ao apoio de cabeça"
+			},
+			{
+				"label": "Material do assento",
+				"value": "capa 100% poliéster; enchimento 82% poliuretano e 18% poliéster"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável na máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 46 x 51cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "10,3kg"
+			}
+		]
+	},
+	{
+		"id": "litet-all-stages-fix-2-0-bb450",
+		"name": "Litet All Stages Fix 2.0 BB450",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 12 anos",
+			"Isofix e top tether com sinalizadores de instalação",
+			"Apoio de cabeça com 14 posições de ajuste",
+			"Protetores de ombros e entrepernas no cinto de 5 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2 e 3 (0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 12 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "sistema Isofix e top tether com sinalizadores de instalação"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (4 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "apoio de cabeça ajustável em 14 posições"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com 3 ajustes de altura e protetores de ombros e entrepernas"
+			},
+			{
+				"label": "Material do assento",
+				"value": "partes plásticas em HDPE; tecido poliéster; espuma PU"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,6 x 41,3 x 52,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "9,07kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-progress-kx-27",
+		"name": "Cosco Kids‎ Progress KX-27",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 10 anos",
+			"Reclinação em 3 posições",
+			"Encosto ajustável em 9 posições junto aos cintos",
+			"Tecido removível e lavável na máquina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2 e 3 (0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 10 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "cinto de segurança do carro (reversa até 13kg e frontal até 36kg)"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (3 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "ajustável em 9 posições automaticamente aos cintos da cadeira"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com ajuste de altura simultâneo"
+			},
+			{
+				"label": "Material do assento",
+				"value": "capa 100% poliéster; estrutura PEAD"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável na máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 46 x 66cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-tour-mxz-ef",
+		"name": "Cosco Kids Tour ‎MXZ-EF",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grupos 1 a 3 (9 a 36kg), para 1 a 10 anos",
+			"Cinto de 5 pontos com protetores acolchoados",
+			"Encosto ajustável em altura e tecido lavável",
+			"Peso de 3,65kg e dimensões de 63,9 x 42,6 x 47,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "1, 2 e 3 (9 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "1 a 10 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "cinto de segurança"
+			},
+			{
+				"label": "Reclinação",
+				"value": "não"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "ajustável em altura"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com protetores acolchoados"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster e HDPE"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável na máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63,9 x 42,6 x 47,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "3,65kg"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-evolutty-360x",
+		"name": "Cosco Kids Evolutty 360X",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 10 anos",
+			"Reclinação em 4 posições e encosto removível",
+			"Isofix com top tether para grupos 0+ e 1",
+			"Tecido removível e lavável na máquina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2 e 3 (0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 10 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "sistema Isofix com top tether para grupos 0+ e 1; Isofix opcional com cintos para grupos 2 e 3"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (4 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "acolchoado e removível"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com ajuste de altura simultâneo ao apoio de cabeça"
+			},
+			{
+				"label": "Material do assento",
+				"value": "têxtil 100% poliéster; estrutura PEAD"
+			},
+			{
+				"label": "Tecido",
+				"value": "removível e lavável na máquina"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "47 x 46,5 x 61,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "10,5kg"
+			}
+		]
+	},
+	{
+		"id": "burigotto-4road",
+		"name": "Burigotto 4Road",
+		"image": "/images/posts/melhor-cadeirinha-para-carro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multigrupo de 0 a 36kg, para 0 a 10 anos",
+			"Reclinação em 4 posições e encosto em múltiplas posições",
+			"Protetores de ombros acolchoados no cinto de 5 pontos",
+			"Estofamento de fácil higienização"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multigrupo"
+			},
+			{
+				"label": "Grupos de peso",
+				"value": "0+, 1, 2 e 3 (0 a 36kg)"
+			},
+			{
+				"label": "Faixa etária recomendada",
+				"value": "0 a 10 anos"
+			},
+			{
+				"label": "Instalação",
+				"value": "cinto de segurança de 3 pontos do veículo"
+			},
+			{
+				"label": "Reclinação",
+				"value": "sim (4 posições)"
+			},
+			{
+				"label": "Encosto de cabeça",
+				"value": "regulável em múltiplas posições"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos com protetores de ombros acolchoados"
+			},
+			{
+				"label": "Material do assento",
+				"value": "plástico de engenharia"
+			},
+			{
+				"label": "Tecido",
+				"value": "estofamento de fácil higienização"
+			},
+			{
+				"label": "Certificação",
+				"value": "Inmetro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57 x 45 x 52cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "6,2kg"
+			}
+		]
+	}
+]

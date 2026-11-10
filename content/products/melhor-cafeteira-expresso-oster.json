@@ -1,0 +1,401 @@
+[
+	{
+		"id": "oster-nova-perfect-brew",
+		"name": "Oster Nova Perfect Brew",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moedor integrado com 30 níveis de moagem",
+			"Porta-filtro de 58mm com duas saídas",
+			"Tecnologias Thermoblock e Tempsense",
+			"Jarra de leite em inox e achatador de café inclusos",
+			"Reservatório de 1 litro e potência de 1380W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1380W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Thermoblock; tecnologia Antiestática; moedor integrado com 30 níveis de moagem; tecnologia Tempsense; porta-filtro 58mm com duas saídas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro 58mm com duas saídas; filtros simples e pressurizados; jarra de leite inox; achatador de café; pino de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 28,5 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-primalatte-touch",
+		"name": "Oster PrimaLatte Touch",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com preparo de latte e cappuccino",
+			"Bomba italiana de 19bar",
+			"Função 2x mais creme e limpeza automática dos tanques",
+			"Preparo com pó, sachê ou cápsula",
+			"Reservatório de 1,5 litro para água ou leite"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V); 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, sachê ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch; bomba italiana de 19bar; preparo com pó/sachê/cápsula; função 2x mais creme; limpeza automática dos tanques; preparo de latte e cappuccino; personalização de bebidas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "reservatório para água ou leite; porta-cápsulas compatível com Nespresso; porta-filtro para café moído; colher medidora; adaptador para cápsulas Nespresso"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 21,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-nova-primalatte-inox",
+		"name": "Oster Nova PrimaLatte Inox",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba italiana de 19bar de pressão",
+			"Painel com 3 botões de preparo rápido",
+			"Função de autolimpeza",
+			"Reservatórios removíveis de água e leite",
+			"Base regulável para copos e xícaras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro (água); 450ml (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V); 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, cápsula ou sachê"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 19bar de pressão; painel com 3 botões de preparo rápido; função de autolimpeza; compatibilidade com cápsulas Nespresso, pó e sachê; base regulável para copos e xícaras; reservatórios removíveis de água e leite"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para cápsulas Nespresso; filtros para cafés curto e longo; reservatórios de água e leite; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 22 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf900",
+		"name": "Oster OCAF900",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba de 20bar, a maior pressão da lista",
+			"Porta-filtro duplo para até 2 xícaras",
+			"Painel touch com 4 funções pré-programadas",
+			"Espumador de leite e vaporizador de água quente",
+			"Compatível com cápsulas Nespresso e café em pó"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, cápsula e pó"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba de 20bar de pressão; compatibilidade com cápsulas Nespresso e café em pó; espumador de leite; vaporizador de água quente; painel touch com 4 funções pré-programadas (espresso curto, espresso longo, vaporizador e liga/desliga); sistema 2 em 1 com porta-filtro duplo para até 2 xícaras simultaneamente; sistema anti-aquecimento; base removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para espresso simples e duplo; acessório para cápsulas; espumador de leite; reservatório de água removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,7 x 21,8 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,24kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-xpert-perfect-brew",
+		"name": "Oster Xpert Perfect Brew",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moedor integrado com 30 níveis de moagem",
+			"Pré-infusor de água e controle manual de intensidade",
+			"Porta-filtro duplo para até 2 xícaras",
+			"Reservatório removível de 2,8 litros",
+			"Bomba italiana de 15bar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W (127V); 1380W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 15bar de pressão; moedor integrado com 30 níveis de moagem; tecnologia Thermoblock; pré-infusor de água; reservatório removível de 2,8L; porta-filtro duplo para o preparo de até 2 xícaras por vez; controle manual de intensidade; jarra espumadora de leite"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro; prensador; jarra para leite; 2 filtros simples e 2 duplos (curto e longo); escova e itens de limpeza"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "44 x 36,6 x 39,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-perfect-brew-maxima",
+		"name": "Oster Perfect Brew Máxima",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Visor LED com timer e informações de preparo",
+			"Moedor cônico com 30 níveis e dosagem automática",
+			"Sistema Thermoblock duplo",
+			"Pré-infusão com 3 modos",
+			"Porta-filtro profissional de 58mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e alumínio, com detalhes em plástico reforçado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema Thermoblock duplo; bomba italiana de 15bar; moedor cônico com 30 níveis de moagem e dosagem automática; visor LED com timer e informações de preparo; tecnologia antiestática; pré-infusão com 3 modos; tubo vaporizador em aço inox; porta-filtro profissional de 58mm; filtros simples e pressurizados; porta-filtro duplo para preparar duas xícaras simultaneamente; controle digital de dosagem"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 filtros simples; 2 filtros pressurizados; jarra de leite em inox; termômetro de leite; compactador metálico; pino de limpeza; disco de silicone; escova de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41,7 x 31 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-compacta-perfect-brew",
+		"name": "Oster Compacta Perfect Brew",
+		"image": "/images/posts/melhor-cafeteira-expresso-oster-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Largura de 15cm, a mais estreita da lista",
+			"Bomba italiana de 15bar",
+			"Tecnologia Thermoblock com dois aquecedores independentes",
+			"Espumador de leite com termômetro integrado",
+			"Vaporizador lateral ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 1250W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso e cappuccino"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 15bar de pressão; tecnologia Thermoblock com dois aquecedores independentes; medidor de pressão analógico; espumador de leite com termômetro integrado; vaporizador lateral ajustável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro simples e duplo; termômetro de leite; espumador; colher dosadora; pino para limpeza; grade removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 15 x 32cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,09kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

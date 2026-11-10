@@ -1,0 +1,314 @@
+[
+	{
+		"id": "kesntto-box-inteligente",
+		"name": "Kesntto Box Inteligente",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema de autolimpeza elétrica",
+			"Entrada superior e 65 litros de capacidade",
+			"Filtro para controle de odores",
+			"Acompanha tapete, saco coletor, pá e adaptador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "autolimpante"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Capacidade",
+				"value": "65 litros"
+			},
+			{
+				"label": "Entrada",
+				"value": "superior"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "autolimpante elétrica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tapete; saco coletor; pá; adaptador"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "50,3 x 50,5 x 51,56cm"
+			}
+		]
+	},
+	{
+		"id": "animaux-caixa-higienica-premium",
+		"name": "Animaux Caixa Higiênica Premium",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Entrada frontal e superior",
+			"Filtro para controle de odores",
+			"Tampa, pá, roçador e tapete inclusos",
+			"Plástico com dimensões de 36,5 x 51 x 40cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fechada"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Entrada",
+				"value": "frontal e superior"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa; pá; filtro; roçador; tapete"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "36,5 x 51 x 40cm"
+			}
+		]
+	},
+	{
+		"id": "animaux-cat-box-medio",
+		"name": "Animaux Cat Box Médio",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Entrada frontal e superior",
+			"Filtro para controle de odores",
+			"Tampa e pá inclusas",
+			"ABS com dimensões de 35 x 30 x 45cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fechada"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Entrada",
+				"value": "frontal e superior"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa; filtro; pá"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "35 x 30 x 45cm"
+			}
+		]
+	},
+	{
+		"id": "durapet-s-toalet-dura-cat",
+		"name": "Durapet's Toalet Dura Cat",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura fechada em plástico",
+			"Filtro para controle de odores",
+			"Tampa, pá, filtro e tapete inclusos",
+			"Dimensões de 40 x 40 x 58cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fechada"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Entrada",
+				"value": "frontal"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa; pá; filtro; tapete"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "40 x 40 x 58cm"
+			}
+		]
+	},
+	{
+		"id": "jel-plast-sandbox",
+		"name": "Jel Plast SandBox",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo aberto, sem tampa",
+			"Comedouro e bebedouro inclusos",
+			"Polipropileno com 28 x 42 x 54cm",
+			"Limpeza manual com entrada superior frontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aberta"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Entrada",
+				"value": "superior frontal"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pá; comedouro; bebedouro"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "sem filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "28 x 42 x 54cm"
+			}
+		]
+	},
+	{
+		"id": "reamfit-pet-box-50",
+		"name": "Reamfit Pet Box 50",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Entrada frontal e superior",
+			"Filtro para controle de odores",
+			"Tampa, pá e filtro inclusos",
+			"Plástico com 40 x 40 x 50cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fechada"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Entrada",
+				"value": "frontal e superior"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa; pá; filtro"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "40 x 40 x 50cm"
+			}
+		]
+	},
+	{
+		"id": "chalesco-banheiro-toilet-plus",
+		"name": "Chalesco Banheiro Toilet Plus",
+		"image": "/images/posts/melhor-caixa-de-areia-para-gatos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Entrada frontal e superior",
+			"Filtro para controle de odores",
+			"Pá inclusa na compra",
+			"Plástico com 40 x 41 x 47cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fechada"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Entrada",
+				"value": "frontal e superior"
+			},
+			{
+				"label": "Sistema de limpeza",
+				"value": "manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pá"
+			},
+			{
+				"label": "Controle de odores",
+				"value": "com filtro"
+			},
+			{
+				"label": "Tamanho (A x L x P)",
+				"value": "40 x 41 x 47cm"
+			}
+		]
+	}
+]

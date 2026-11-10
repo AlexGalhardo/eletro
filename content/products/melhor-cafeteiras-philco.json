@@ -1,0 +1,390 @@
+[
+	{
+		"id": "philco-pcf03a-expresso",
+		"name": "Philco PCF03A (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20 bar e 5 níveis de moagem",
+			"Display digital e preparo automático das bebidas",
+			"Tempo do leite ajustável",
+			"Sistema autolimpante e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro (água); 680mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W (127V) / 1250W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; 5 níveis de moagem; display digital; 3 níveis de dosagem; tempo do leite ajustável; sistema automático de preparo das bebidas; saída de café com altura ajustável; sistema autolimpante automático; desligamento automático por inatividade; sensores de alerta no painel; cordão elétrico removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 43cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,42kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-coffe-express-expresso",
+		"name": "Philco Coffe Express (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-filtro duplo e pressão de 15 bar",
+			"Bico vaporizador para espuma de leite",
+			"Depósito de resíduos e filtro em aço inox removíveis",
+			"Placa aquecedora para xícaras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "15 bar de pressão; porta-filtro duplo; depósito de resíduos removível; bico vaporizador; placa aquecedora para xícaras; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher dosadora; filtro removível em aço inox; depósito de resíduos removível; filtro permanente em aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 24 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,18kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf20a-720ml-eletrica",
+		"name": "Philco PCF20A 720mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema corta-pingos e luz de funcionamento",
+			"Indicador de nível de água",
+			"Filtro permanente e porta-filtro removíveis",
+			"Capacidade de 720mL com 650W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720mL"
+			},
+			{
+				"label": "Potência",
+				"value": "650W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta pingos; luz indicadora de funcionamento; indicador de nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,2 x 16 x 21,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,31kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf40b-1-6-litro-eletrica",
+		"name": "Philco PCF40B 1,6 litro (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programação do café em até 24 horas",
+			"Relógio integrado e função aroma",
+			"Reservatório de água com graduação",
+			"Placa de aquecimento e sistema corta-pingos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel com display digital; relógio integrado; programa o preparo do café em até 24h de antecedência; função aroma; reservatório de água com graduação; placa de aquecimento; sistema corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 24,7 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,02kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf04a-expresso",
+		"name": "Philco PCF04A (expresso)",
+		"image": "/images/posts/melhor-cafeteiras-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20 bar com controle de intensidade",
+			"Placa de aquecimento e indicador de nível",
+			"Coletor de resíduos removível",
+			"Filtro permanente e porta-filtro removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; luz indicadora de funcionamento; indicador de nível de água; controle de intensidade; placa de aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível; coletor de resíduos removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 27,7 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf40c-1-6-litro-eletrica",
+		"name": "Philco PCF40C 1,6 litro (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,6 litro com 950W",
+			"Botão luminoso liga/desliga",
+			"Placa de aquecimento e sistema corta-pingos",
+			"Colher dosadora e filtro permanente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "reservatório de água com graduação; placa de aquecimento; sistema corta-pingos; botão luminoso liga/desliga"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,5 x 19,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,89kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf40d-1-6-litro-eletrica",
+		"name": "Philco PCF40D 1,6 litro (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra térmica que mantém o café aquecido",
+			"Sistema corta-pingos e indicador de nível",
+			"Capacidade de 1,6 litro com 950W",
+			"Filtro permanente e porta-filtro removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "jarra térmica mantém o café aquecido; sistema corta pingos; luz indicadora de funcionamento; indicador de nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38 x 20 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,33kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

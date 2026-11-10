@@ -1,0 +1,405 @@
+[
+	{
+		"id": "safety-1st-travel-system-mobi-nv-trio",
+		"name": "Safety 1st Travel System Mobi NV Trio",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Idade recomendada desde o recém-nascido, com peso de 15kg",
+			"Assento reversível e cinto de 5 pontos",
+			"Capota retrátil com proteção solar UV50+",
+			"Rodas com dianteira dupla e giro de 360º",
+			"Cesto de compras incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "sim"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com proteção solar UV50+; alça para brinquedo"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, com dianteira dupla e giro 360º e traseiras grandes com suspensão"
+			},
+			{
+				"label": "Freios",
+				"value": "centralizado; travas de direcionamento dianteiras"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto de compras"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "10,4kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "100 x 62 x 99,5cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "43 x 62 x 110cm"
+			}
+		]
+	},
+	{
+		"id": "infanti-flux",
+		"name": "Infanti Flux",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso de 0 a 4,5 anos com peso suportado de 15kg",
+			"Cinto de segurança de 5 pontos",
+			"Rodas pneumáticas com dianteira e giro de 360º",
+			"Trava de direcionamento dianteira",
+			"Certificação INMETRO"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "0 a 4,5 anos"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "não"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, pneumáticas, com dianteira e giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "único ponto de acionamento; trava de direcionamento dianteira"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "11,6kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "110 x 60 x 132cm"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-toffy",
+		"name": "Cosco Kids Toffy",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso do carrinho de 7kg, o mais leve da lista",
+			"Capota retrátil com visor e porta-objetos",
+			"Colchonete removível e cesto inferior inclusos",
+			"Dimensões fechadas de 25 x 61,5 x 86,5cm",
+			"Certificação INMETRO e ABNT 14.389"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor; porta-objetos"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, com dianteiras duplas e giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros, com trava de direcionamento dianteiro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colchonete removível; cesto inferior"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO; ABNT 14.389"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "7kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "98 x 54 x 84,7cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "25 x 61,5 x 86,5cm"
+			}
+		]
+	},
+	{
+		"id": "galzerano-cross-trail",
+		"name": "Galzerano Cross Trail",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bandeja removível com porta-copos",
+			"Capota com cortina e visor integrado",
+			"Adaptadores para bebê conforto inclusos",
+			"Rodas com dianteiras duplas e giro de 360º",
+			"Peso do carrinho de 8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com cortina; visor integrado"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, com dianteiras duplas e giro 360º"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja removível com porta-copos; porta-objetos; adaptadores para bebê conforto"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "8kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "100 x 55 x 110cm"
+			}
+		]
+	},
+	{
+		"id": "styll-baby",
+		"name": "Styll Baby",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capota retrátil com visor integrado e bolso para os pais",
+			"Rodas com dianteiras duplas, suspensão e giro de 360º",
+			"Bandeja frontal com porta-copos",
+			"Peso do carrinho de 7,5kg",
+			"Certificação INMETRO"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor integrado; bolso para os pais"
+			},
+			{
+				"label": "Rodas",
+				"value": "sim, com dianteiras duplas, suspensão e giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros, com trava de direcionamento dianteira"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja frontal com porta copos; porta-objetos"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "78 x 62 x 95cm"
+			}
+		]
+	},
+	{
+		"id": "litet-jogger-sway",
+		"name": "Litet Jogger Sway",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capota retrátil com visor e proteção solar FPU 50+",
+			"Rodas com suspensão",
+			"Freios conjugados para controlar o carrinho",
+			"Adaptadores para bebê conforto e bolso na capota",
+			"Cinto de segurança de 5 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor integrado; proteção solar FPU 50+"
+			},
+			{
+				"label": "Rodas",
+				"value": "sim, com suspensão"
+			},
+			{
+				"label": "Freios",
+				"value": "sim, conjugado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "adaptadores para bebê conforto; bolso na capota"
+			}
+		]
+	},
+	{
+		"id": "burigotto-cr3",
+		"name": "Burigotto CR3",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3-rodas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rodas com amortecedores e dianteiras giratórias",
+			"Freio traseiro conjugado",
+			"Adaptadores para bebê conforto e porta-objetos",
+			"Dimensões abertas de 106 x 64,5 x 108,7cm",
+			"Certificação CE-CAR/IQB 000014 55808/23-003"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 15kg"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, com amortecedores e dianteiras giratórias"
+			},
+			{
+				"label": "Freios",
+				"value": "sim, traseiro conjugado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "adaptadores para bebê conforto; porta-objetos"
+			},
+			{
+				"label": "Certificação",
+				"value": "CE-CAR/IQB 000014 55808/23-003"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "106 x 64,5 x 108,7cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "78,8 x 64,5 x 42cm"
+			}
+		]
+	}
+]

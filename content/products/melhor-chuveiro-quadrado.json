@@ -1,0 +1,329 @@
+[
+	{
+		"id": "docol-heaven-q150",
+		"name": "Docol Heaven Q150",
+		"image": "/images/posts/melhor-chuveiro-quadrado-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle de regulagem gradual",
+			"Pressão mínima de 20kPa",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-acqua-duo",
+		"name": "Lorenzetti Acqua Duo",
+		"image": "/images/posts/melhor-chuveiro-quadrado-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7800W em 220V",
+			"Quatro níveis de temperatura",
+			"Compatível com DR e sistema solar",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-acqua-storm-ultra",
+		"name": "Lorenzetti Acqua Storm Ultra",
+		"image": "/images/posts/melhor-chuveiro-quadrado-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco níveis de temperatura",
+			"Potência de até 7800W em 220V",
+			"Compatível com DR e sistema solar",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "5"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-intense",
+		"name": "Fame Intense",
+		"image": "/images/posts/melhor-chuveiro-quadrado-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7800W em 220V",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual de temperatura",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400 (127V), 6500W ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-quadratta",
+		"name": "Zagonel Quadratta",
+		"image": "/images/posts/melhor-chuveiro-quadrado-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7700W em 220V",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual de temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7700W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-shower-ultra",
+		"name": "Lorenzetti Loren Shower Ultra",
+		"image": "/images/posts/melhor-chuveiro-quadrado-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de até 7500W em 220V",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual de temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V), 6800W ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "zagonel-ducali-premium",
+		"name": "Zagonel Ducali Premium",
+		"image": "/images/posts/melhor-chuveiro-quadrado-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7500W em 220V",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual de temperatura",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5500W (127V) ou 7500W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

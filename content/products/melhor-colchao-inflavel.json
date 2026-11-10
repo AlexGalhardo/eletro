@@ -1,0 +1,369 @@
+[
+	{
+		"id": "joyfox-colchao-inflavel-queen",
+		"name": "JoyFox Colchão Inflável (queen)",
+		"image": "/images/posts/melhor-colchao-inflavel-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 300kg, a maior da lista",
+			"Bomba de ar elétrica embutida",
+			"Kit de reparo e bolsa para transporte",
+			"Travesseiros infláveis e cabo USB inclusos",
+			"Revestimento superior flocado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "queen"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "flocado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "elétrica embutida"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bomba; kit de reparo; bolsa para transporte; travesseiros infláveis; cabo USB; manual de instruções; bicos cônicos"
+			},
+			{
+				"label": "Altura",
+				"value": "44cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "2,03 x 1,54cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Voltagem (se elétrica)",
+				"value": "bivolt automático"
+			}
+		]
+	},
+	{
+		"id": "intex-fiber-tech-dura-beam-casal",
+		"name": "INTEX Fiber Tech Dura Beam (casal)",
+		"image": "/images/posts/melhor-colchao-inflavel-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 272kg",
+			"PVC com fibras de poliéster",
+			"Revestimento superior flocado",
+			"Bomba elétrica integrada",
+			"Altura de 33cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "casal"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "272kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC com fibras de poliéster"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "flocado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "elétrica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bomba elétrica integrada"
+			},
+			{
+				"label": "Altura",
+				"value": "33cm"
+			},
+			{
+				"label": "Voltagem (se elétrica)",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mor-009072-casal",
+		"name": "MOR 009072 (casal)",
+		"image": "/images/posts/melhor-colchao-inflavel-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 160kg",
+			"Revestimento superior aveludado",
+			"Bomba manual integrada",
+			"Kit de reparo e bolsa com alça para transporte",
+			"Peso do produto de 3,16kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "casal"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "160kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "aveludado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "manual integrada"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kit de reparo; bolsa com alça para transporte"
+			},
+			{
+				"label": "Altura",
+				"value": "22cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "1,91 x 1,37cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3,16kg"
+			},
+			{
+				"label": "Voltagem (se elétrica)",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "intex-64103e-dura-beam-queen",
+		"name": "INTEX 64103E Dura Beam (queen)",
+		"image": "/images/posts/melhor-colchao-inflavel-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 272kg",
+			"Revestimento superior flocado",
+			"PVC flocado com fibras de poliéster",
+			"Altura de 25cm",
+			"Peso do produto de 4,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "queen"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "272kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flocado; fibras de poliéster"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "flocado"
+			},
+			{
+				"label": "Altura",
+				"value": "25cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "2,03 x 1,52cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "4,2kg"
+			},
+			{
+				"label": "Voltagem (se elétrica)",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "o2flow-21633-casal",
+		"name": "O2Flow 21633 (casal)",
+		"image": "/images/posts/melhor-colchao-inflavel-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso do produto de 3kg, o mais leve da lista",
+			"Capacidade de 200kg",
+			"Revestimento superior aveludado",
+			"Bomba manual integrada",
+			"Altura de 22cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "casal"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "200kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "aveludado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "manual integrada"
+			},
+			{
+				"label": "Altura",
+				"value": "22cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "1,91 x 1,37cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "intex-usb-64114-queen",
+		"name": "INTEX USB-64114 (queen)",
+		"image": "/images/posts/melhor-colchao-inflavel-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 272kg",
+			"Bomba elétrica integrada",
+			"PVC laminado e flocado",
+			"Revestimento superior aveludado",
+			"Altura de 30cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "queen"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "272kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC laminado e flocado"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "aveludado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "elétrica integrada"
+			},
+			{
+				"label": "Altura",
+				"value": "30cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "2,03 x 1,52cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "5,7kg"
+			}
+		]
+	},
+	{
+		"id": "coleman-110120025517-casal",
+		"name": "Coleman 110120025517 (casal)",
+		"image": "/images/posts/melhor-colchao-inflavel-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 160kg",
+			"Bolsa para transporte inclusa",
+			"Revestimento superior aveludado",
+			"Bomba manual integrada",
+			"Peso do produto de 3,73kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "casal"
+			},
+			{
+				"label": "Capacidade de peso",
+				"value": "160kg"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flocado"
+			},
+			{
+				"label": "Revestimento superior",
+				"value": "aveludado"
+			},
+			{
+				"label": "Bomba de ar",
+				"value": "manual integrada"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bolsa para transporte"
+			},
+			{
+				"label": "Altura",
+				"value": "22cm"
+			},
+			{
+				"label": "Tamanho inflado",
+				"value": "191 x 1,37cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3,73kg"
+			},
+			{
+				"label": "Voltagem (se elétrica)",
+				"value": "—"
+			}
+		]
+	}
+]

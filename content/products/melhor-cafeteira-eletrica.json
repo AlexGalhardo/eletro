@@ -1,0 +1,338 @@
+[
+	{
+		"id": "electrolux-ecm30-1-5-litros",
+		"name": "Electrolux ECM30 1,5 litros",
+		"image": "/images/posts/melhor-cafeteira-eletrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 900W para o preparo do café",
+			"Timer programável com painel digital",
+			"Jarra de vidro e filtro permanente",
+			"Sistema AromaStrenght e função corta-pingos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litros"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável; indicador do nível de água; painel digital; sistema AromaStrenght™; desligamento automático; função Manter Aquecido; função corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,81kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm22-1-2-litros",
+		"name": "Electrolux ECM22 1,2 litros",
+		"image": "/images/posts/melhor-cafeteira-eletrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de inox e filtro permanente incluídos",
+			"Iluminação LED e indicador de nível de água",
+			"Base de aquecimento com função manter aquecido",
+			"Potência de 750W com 1,2 litro de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litros"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; função Manter Aquecido; base de aquecimento; indicador do nível de água; iluminação LED"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,2 x 16,8 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,15kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf300-750ml",
+		"name": "Oster OCAF300 750ml",
+		"image": "/images/posts/melhor-cafeteira-eletrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W com jarra de vidro",
+			"Filtro removível para a limpeza",
+			"Função manter aquecido no café",
+			"Capacidade de 700ml segundo a ficha técnica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 14 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm10-600ml",
+		"name": "Electrolux ECM10 600ml",
+		"image": "/images/posts/melhor-cafeteira-eletrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro permanente removível com jarra de vidro",
+			"Luz indicadora de funcionamento e nível de água",
+			"Potência de 600W em peso de 940g",
+			"Base de aquecimento e sistema corta-pingos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido; sistema corta-pingos; base de aquecimento; filtro permanente removível; luz indicadora de funcionamento; indicador do nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 14,6 x 22,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "940g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcf19-720ml",
+		"name": "Britânia BCF19 720ml",
+		"image": "/images/posts/melhor-cafeteira-eletrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 550W para 720ml de café",
+			"Placa de aquecimento e sistema corta-pingo",
+			"Colher dosadora e filtro permanente incluídos",
+			"Jarra de vidro com 720ml de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingo; placa de aquecimento; filtro permanente"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher dosadora; jarra de vidro; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 14,9 x 19,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "930g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-44-32x-sdi-1-2-litros",
+		"name": "Mondial C-44-32X-SDI 1,2 litros",
+		"image": "/images/posts/melhor-cafeteira-eletrica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Display digital com relógio e timer",
+			"Tampa basculante e sistema corta-pingos",
+			"800W de potência em 1,2 litro",
+			"Colher dosadora e filtro permanente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litros"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "display digital; relógio; timer; função Manter Aquecido; sistema corta-pingos; tampa basculante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 17,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-43-20x-si-800ml",
+		"name": "Mondial C-43-20X-SI 800ml",
+		"image": "/images/posts/melhor-cafeteira-eletrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 800ml com jarra de vidro",
+			"Função manter aquecido e corta-pingos",
+			"Potência de 550W, igual à da Britânia BCF19",
+			"Filtro permanente e colher dosadora nos acessórios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico; aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter aquecido; sistema corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; colher dosadora; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 15 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,241 @@
+[
+	{
+		"id": "bolaazul-lu0103-200kg",
+		"name": "BolaAzul LU0103 200kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 200kg, a maior carga da lista",
+			"Armação de aço com pintura esmaltada",
+			"Assento de tecido Oxford",
+			"Dimensões de 103 x 59 x 52cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 200kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "aço com pintura esmaltada"
+			},
+			{
+				"label": "Material do assento",
+				"value": "tecido Oxford"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 59 x 52cm"
+			}
+		]
+	},
+	{
+		"id": "bask-ultralight-150kg",
+		"name": "BASK Ultralight 150kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Armação em liga de alumínio",
+			"Peso de apenas 1,1kg",
+			"Suporta até 150kg",
+			"Assento de tecido Oxford 600D"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 150kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "liga de alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "tecido Oxford 600D"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67 x 55 x 35cm"
+			}
+		]
+	},
+	{
+		"id": "mor-002274-110kg",
+		"name": "Mor - 002274 110kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Armação de alumínio",
+			"Assento de poliéster com revestimento em PVC",
+			"Peso de 1,31kg",
+			"Suporta até 110kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 110kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster com revestimento em PVC"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,31kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72,5 x 54,5 x 53cm"
+			}
+		]
+	},
+	{
+		"id": "mor-conforto-sannet-120kg",
+		"name": "Mor - Conforto Sannet 120kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 120kg",
+			"Armação de alumínio",
+			"Assento de poliéster com revestimento em PVC",
+			"Dimensões de 85 x 57 x 58,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 120kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster com revestimento em PVC"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 57 x 58,5cm"
+			}
+		]
+	},
+	{
+		"id": "textil-sauter-camping-150kg",
+		"name": "Têxtil Sauter Camping 150kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 150kg",
+			"Assento de poliéster",
+			"Dimensões de 80 x 50 x 50cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 150kg"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 50 x 50cm"
+			}
+		]
+	},
+	{
+		"id": "omega-technology-cha-004-120kg",
+		"name": "Ômega Technology CHA-004 120kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Armação de aço tubular",
+			"Suporta até 120kg",
+			"Assento de Oxford 600D com revestimento interno em PVC",
+			"Peso de 1,8kg e dimensões de 80 x 76 x 47cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 120kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "aço tubular"
+			},
+			{
+				"label": "Material do assento",
+				"value": "tecido Oxford 600D com revestimento interno em PVC"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 76 x 47cm"
+			}
+		]
+	},
+	{
+		"id": "bask-h00005-180kg",
+		"name": "BASK H00005 180kg",
+		"image": "/images/posts/melhor-cadeira-de-camping-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 150kg",
+			"Armação de aço",
+			"Assento de poliéster com revestimento de PE",
+			"Peso do produto de 2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 150kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "aço"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster 600 x 300D com revestimento de polietileno (PE)"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 50 x 77,5cm"
+			}
+		]
+	}
+]

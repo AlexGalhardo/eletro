@@ -1,0 +1,333 @@
+[
+	{
+		"id": "mallory-easy-coffee-1-5-litro",
+		"name": "Mallory Easy Coffee 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel digital programável",
+			"Jarra de inox de 1,5 litro",
+			"Filtro permanente removível",
+			"Reservatório com visor graduado",
+			"Desligamento automático e sistema corta-pingos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel digital programável; sistema corta-pingos; desligamento automático; reservatório de água com visor graduado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente removível"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf650-1-2-litro",
+		"name": "Oster OCAF650 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 750W com jarra de inox",
+			"Função manter aquecido",
+			"Sistema antigotejamento",
+			"Filtro lavável com porta-filtro",
+			"Peso de 1,46kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido; sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; porta-filtro; filtro lavável"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "31,6 x 15,3 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm12-600ml",
+		"name": "Electrolux ECM12 600mL",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W e capacidade de 600mL",
+			"Função Manter Aquecido",
+			"Indicador transparente do nível de água",
+			"Filtro removível e lavável",
+			"Luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico com acabamento em aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta pingos; função Manter Aquecido; indicador do nível de água transparente; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro removível e lavável"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "26,2 x 14,6 x 22,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "940g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-34-ji-600ml",
+		"name": "Mondial C-34-JI 600mL",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa basculante com liga/desliga luminoso",
+			"Base aquecida com função Manter Aquecido",
+			"Colher dosadora inclusa",
+			"Filtro permanente com porta-filtro removível",
+			"Indicador de nível de água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tampa basculante; indicador de nível de água; base aquecida (função Manter Aquecido); sistema corta-pingos; liga/desliga luminoso."
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; colher dosadora; porta-filtro removível; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 16,5 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "940g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-cm15-750ml",
+		"name": "Black+Decker CM15 750mL",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Visor de nível de água e luz de funcionamento",
+			"Base aquecedora e sistema corta-pingos",
+			"Filtro permanente com porta-filtro removível",
+			"Colher medidora inclusa",
+			"Jarra de aço inox de 750mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750ml"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "visor de nível de água; luz de funcionamento; base aquecedora; sistema corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente com porta filtro removível; colher medidora"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "26 x 16 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "930g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm22-1-2-litro",
+		"name": "Electrolux ECM22 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Iluminação LED e base de aquecimento",
+			"Função Manter Aquecido",
+			"Sistema corta-pingos",
+			"Indicador do nível da água",
+			"Filtro permanente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; base de aquecimento; iluminação LED; função Manter Aquecido; indicador do nível da água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "30,2 x 16,8 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,15kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf40c-1-6-litro",
+		"name": "Philco PCF40C 1,6 litro",
+		"image": "/images/posts/melhor-cafeteira-jarra-inox-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade desta lista, com 1,6 litro",
+			"Base de aquecimento e iluminação LED",
+			"Colher dosadora e porta-filtro removível",
+			"Sistema corta-pingos",
+			"Acabamento em aço inox escovado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; base de aquecimento; iluminação LED; indicador do nível da água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "33,5 x 19,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,89kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

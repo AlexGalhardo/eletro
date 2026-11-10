@@ -1,0 +1,352 @@
+[
+	{
+		"id": "nexara-ne-st8-bk-180-litros-175kg",
+		"name": "Nexara NE-ST8-BK (180 litros) 175Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Carga de 175 kg, a maior da lista",
+			"Capacidade interna de 180 litros",
+			"Estrutura de aço reforçado e lona 600D Oxford",
+			"Alça retrátil e formato dobrável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "dobrável"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "175kg"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "180 litros"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço reforçado"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "lona 600D Oxford reforçada"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "56,9 x 59 x 82,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			}
+		]
+	},
+	{
+		"id": "python-fly-100-litros-150kg",
+		"name": "Python Fly (100 litros) 150Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Carga de 150 kg e capacidade de 100 litros",
+			"Lona reforçada e removível",
+			"Alça retrátil e formato dobrável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "dobrável"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "150kg"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "100 litros"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "ferro"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "lona reforçada removível"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90 x 75 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,24kg"
+			}
+		]
+	},
+	{
+		"id": "artiko-go-sobe-escada-40kg",
+		"name": "Artiko Go Sobe Escada 40Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rodas triplas com sistema sobe escada",
+			"Bolsa impermeável removível",
+			"Carga de 40 kg com estrutura de aço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fixo"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "40kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "bolsa impermeável removível"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "triplas com sistema sobe escada"
+			},
+			{
+				"label": "Alça",
+				"value": "fixa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 42 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "mimo-style-carrinho-dobravel-30kg",
+		"name": "Mimo Style Carrinho Dobrável 30Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura de alumínio e formato dobrável",
+			"Peso de 1kg, o mais leve da lista",
+			"Carga de 30 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "dobrável"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "30kg"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "poliéster"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "fixa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "93 x 26 x 93cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "mor-bag-to-go-39-litros-30kg",
+		"name": "Mor Bag To Go (39 litros) 30Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade interna de 39 litros",
+			"Carga de 30 kg e estrutura de aço",
+			"Alça fixa e rodas simples"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fixo"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "30kg"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "39 litros"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "poliéster"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "fixa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 28,5 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,56kg"
+			}
+		]
+	},
+	{
+		"id": "vghome-dobravel-25-litros-25kg",
+		"name": "VGHome Dobrável (25 litros) 25Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alça ajustável e formato dobrável",
+			"Capacidade de 25 litros com carga de 25 kg",
+			"Estrutura de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "dobrável"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "25kg"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "25 litros"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "plástico"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "plástico"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 33 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			}
+		]
+	},
+	{
+		"id": "cadina-camping-hg0469-50-litros-100kg",
+		"name": "Cadina Camping HG0469 (50 litros) 100Kg",
+		"image": "/images/posts/melhor-carrinhos-de-compras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Carga de 100 kg e capacidade de 50 litros",
+			"Estrutura de alumínio e plástico",
+			"Alça retrátil e formato dobrável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "dobrável"
+			},
+			{
+				"label": "Capacidade de carga",
+				"value": "100kg"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "alumínio e plástico"
+			},
+			{
+				"label": "Material da bolsa/cesto",
+				"value": "poliéster"
+			},
+			{
+				"label": "Tipo de rodas",
+				"value": "simples"
+			},
+			{
+				"label": "Alça",
+				"value": "retrátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "47 x 45 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			}
+		]
+	}
+]

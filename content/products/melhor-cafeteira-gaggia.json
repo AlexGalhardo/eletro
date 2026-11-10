@@ -1,0 +1,378 @@
+[
+	{
+		"id": "gaggia-accademia-espresso",
+		"name": "Gaggia Accademia (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vaporizador profissional de aço inox e jarra de leite integrada",
+			"Sistema Espresso Plus com ajuste de creme em 3 níveis",
+			"Moedor de café cerâmico ajustável",
+			"Quatro perfis personalizados e modo ECO"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro (água); 600mL (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox, vidro e metal Zama"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "superautomática"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema Espresso Plus com ajuste de creme em 3 níveis; função On the Fly para ajustes durante preparo; moedor de café cerâmico ajustável; aquecedor de xícaras programável; vaporizador profissional de aço inox; jarra de leite integrada; aquecedor de xícaras com timer; modo ECO; ciclos automáticos de enxágue e limpeza do leite; quatro perfis personalizados"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; escova de limpeza; tira de medição da dureza da água; colher medidora; filtro Intenza+"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,5 x 28,2 x 42,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-anima-pannarello-espresso",
+		"name": "Gaggia Anima Pannarello (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moedores 100% cerâmicos com 5 configurações",
+			"Função Optiaroma com 5 níveis de intensidade",
+			"Função Memo para memorizar preferências",
+			"Preparo de 2 xícaras simultâneas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W (127V) / 1850W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "acabamento em aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "superautomático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "vaporizador Pannarello clássico; função Optiaroma com 5 níveis de intensidade de café; moedores 100% cerâmicos com 5 configurações; função Memo para memorizar preferências; sistema de limpeza automática ao ligar/desligar; descalcificação guiada; grupo de infusão removível; preparo de 2 xícaras simultâneas; componentes removíveis para limpeza"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; chave de ajuste do moedor; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 22,1 x 43,0"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-brera-espresso",
+		"name": "Gaggia Brera (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia bean-to-cup com moagem automática",
+			"Moedores 100% cerâmicos ajustáveis",
+			"Interface em LED com ícones e botões",
+			"Avisos automáticos de manutenção"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "superautomático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia bean-to-cup com moagem automática; moedores 100% cerâmicos ajustáveis; função Optiaroma para personalizar intensidade; interface intuitiva em LED com ícones e botões; vaporizador Pannarello em aço inox; avisos automáticos de manutenção; compatível com grãos ou café moído; ciclo automático de enxágue; limpeza de descalcificação com aviso; compatibilidade com filtro de água Intenza+"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 25,6 x 43,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-navaglio-espresso",
+		"name": "Gaggia Navaglio (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vaporizador Pannarello para cappuccinos e lattes",
+			"Sistema de pré-infusão para extração uniforme",
+			"Função Memo para configurações de duração e intensidade",
+			"Compatível com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W (127V) / 1850W (220V)"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "moedor cerâmico com 5 ajustes; sistema de pré-infusão para extração uniforme; função Memo para memorizar configurações de duração e intensidade; vaporizador clássico (Pannarello) para cappuccinos e lattes; preparo simultâneo de 2 xícaras; compatível com lava-louças"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; chave de ajuste do moedor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 25,6 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-evolution-deluxe-espresso",
+		"name": "Gaggia Evolution Deluxe (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta-filtro com toque premium",
+			"Preparo simultâneo de 2 xícaras",
+			"Ciclo de descalcificação manual",
+			"Compatibilidade com filtro de água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "manual"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "porta-filtro com toque premium; compatibilidade com filtro de água; ciclo de descalcificação manual; preparo simultâneo de 2 xícaras"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "dosador/prensa para café moído"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,3 x 25,5 x 19,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-cadorna-prestige-espresso",
+		"name": "Gaggia Cadorna Prestige (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Memória para até 4 preferências",
+			"Moedores cerâmicos ajustáveis com 10 níveis",
+			"Sistema de espuma dupla com jarra de leite integrada",
+			"Contador de bebidas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W (127V) / 1850W (220V)"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "memória para até 4 preferências; moedores cerâmicos ajustáveis com 10 níveis; sistema de pré-infusão; sistema de espuma dupla com jarra de leite integrada e limpeza automática; ciclo de enxágue automático; limpeza automática do circuito de leite; ciclo de descalcificação automático; contador de bebidas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; chave de ajuste do moedor/colher medidora; filtro Intenza+"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 38 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "gaggia-magenta-milk-espresso",
+		"name": "Gaggia Magenta Milk (espresso)",
+		"image": "/images/posts/melhor-cafeteira-gaggia-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"9 tipos de bebidas pré-programadas",
+			"Sistema de leite CAPPinCUP com jarra de vidro removível",
+			"Sistema Optiaroma com 5 níveis de intensidade",
+			"Compatível com lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W (127V) / 1800W (220V)"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "9 tipos de bebidas pré-programadas; moedores cerâmicos ajustáveis em 5 níveis; sistema Optiaroma com 5 níveis de intensidade; sistema de leite CAPPinCUP com jarra de vidro removível; função de pré-infusão; bandeja de espresso ajustável em aço inox; grupo de indução removível; ciclos automáticos de enxágue, limpeza do circuito de leite e descalcificação; configuração de dureza da água; compatível com lava-louças"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo de graxa; colher para café moído; tira de medição da dureza da água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,7 x 22,4 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

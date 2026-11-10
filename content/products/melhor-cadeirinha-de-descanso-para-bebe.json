@@ -1,0 +1,357 @@
+[
+	{
+		"id": "maxi-cosi-swing-cassia-0-a-9kg",
+		"name": "Maxi-Cosi Swing Cassia (0 a 9kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 9kg e tem cinto de 3 pontos",
+			"Revestimento de tecido acolchoado removível e lavável",
+			"Visor touchscreen e balanço em 2 direções",
+			"15 melodias, timer e função vibratória",
+			"Rotação de 360º e redutor para recém-nascidos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "9kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "tecido acolchoado removível e lavável"
+			},
+			{
+				"label": "Posições de inclinação",
+				"value": "2 níveis ajustáveis"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "visor touchscreen; 2 direções de balanço; 5 velocidades; 15 melodias; timer; detector de movimento para acionamento automático; função vibratória; rotação 360º; redutor para recém nascidos"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66 x 63 x 60,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-eletrica-snug-0-a-18kg",
+		"name": "Maxi Baby Elétrica Snug (0 a 18kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta 18kg e é indicada até 18 meses",
+			"Mosquiteiro e capota retrátil",
+			"Controle remoto e conexão Bluetooth",
+			"Balanço de 90º e 12 melodias programadas",
+			"Função 3 em 1: descanso, balanço e refeição"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "até 18 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado, removível e lavável"
+			},
+			{
+				"label": "Posições de inclinação",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "brinquedos suspensos removíveis; balanço de 90º; encosto ajustável; 12 melodias programadas; comando por controle remoto; conexão Bluetooth; entrada USB; bandeja removível; capota retrátil; 5 velocidades; função 3 em 1: descanso, balanço e refeição; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "75 x 60 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-funtime-0-a-18kg",
+		"name": "Maxi Baby Funtime (0 a 18kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta 18kg, com idade recomendada até 6 meses",
+			"Alça removível com brinquedos",
+			"Vibração suave e brinquedo musical",
+			"Três níveis de inclinação ajustáveis",
+			"Pesa 2,8kg e tem pés antiderrapantes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "até 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado, removível e lavável"
+			},
+			{
+				"label": "Posições de inclinação",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "alça removível com brinquedos; vibração suave; brinquedo musical; função balanço; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 45 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-eletrica-fancy-0-a-18kg",
+		"name": "Maxi Baby Elétrica Fancy (0 a 18kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta 18kg e é indicada até 18 meses",
+			"Mosquiteiro e brinquedos de pelúcia",
+			"Balanço automático de 90º",
+			"Controle remoto e 5 velocidades ajustáveis",
+			"Conexão Bluetooth e pés antiderrapantes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "até 18 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado, removível e lavável"
+			},
+			{
+				"label": "Posições de inclinação",
+				"value": "—"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "controle remoto; brinquedos de pelúcia; melodias programadas; balanço automático de 90º; pés antiderrapantes; 5 velocidades ajustáveis; conexão Bluetooth"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "75 x 60 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-rocker-polar-0-a-18kg",
+		"name": "Maxi Baby Rocker Polar (0 a 18kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta 18kg, com revestimento em plush",
+			"Caixa vibratória e musical",
+			"Travesseiro em formato de ursinho",
+			"Dois níveis de inclinação e modo balanço",
+			"Pesa 3kg e tem cinto de 3 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "até 18kg"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado em plush, removível e lavável"
+			},
+			{
+				"label": "Posições de inclinação",
+				"value": "2 níveis ajustáveis"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "modo balanço; caixa vibratória e musical; alça removível com brinquedos suspensos; travesseiro em formato de ursinho"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 45 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "baby-style-bliss-0-a-18kg",
+		"name": "Baby Style Bliss (0 a 18kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta 18kg com cinto de 3 pontos",
+			"Controle remoto e móbile com brinquedos",
+			"Conexão USB e Bluetooth",
+			"Balanço com 5 velocidades e temporizador",
+			"Pesa 3,5kg e revestimento acolchoado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "18kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "controle remoto; móbile com brinquedos; conexão USB e Bluetooth; balanço com 5 velocidades; temporizador"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48 x 61 x 72cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			}
+		]
+	},
+	{
+		"id": "clingo-joyful-0-a-9kg",
+		"name": "Clingo Joyful (0 a 9kg)",
+		"image": "/images/posts/melhor-cadeirinha-de-descanso-para-bebe-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 9kg, com idade recomendada até 6 meses",
+			"Painel touch e conectividade Bluetooth",
+			"Controle remoto e função timer",
+			"Canções de ninar e balanço com 5 velocidades",
+			"Pesa 4,2kg e tem revestimento acolchoado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "até 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 9kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "acolchoado"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "cinto de 3 pontos"
+			},
+			{
+				"label": "Mosquiteiro",
+				"value": "não"
+			},
+			{
+				"label": "Recursos adicionais",
+				"value": "painel touch; conectividade Bluetooth; controle remoto; função timer; canções de ninar; balanço com 5 velocidades"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "‎95 x 75 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	}
+]

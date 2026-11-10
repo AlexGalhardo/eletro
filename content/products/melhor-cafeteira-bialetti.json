@@ -1,0 +1,270 @@
+[
+	{
+		"id": "bialetti-new-brikka-4-xicaras-200ml",
+		"name": "Bialetti New Brikka 4 xícaras 200mL",
+		"image": "/images/posts/melhor-cafeteira-bialetti-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Brikka System para produzir crema",
+			"Válvula de segurança para uso no fogão",
+			"Capacidade de 4 xícaras, com 200mL",
+			"Alumínio e compatibilidade com fogão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "italiana para fogão"
+			},
+			{
+				"label": "Capacidade",
+				"value": "200mL"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia patenteada Brikka System; válvula de segurança; produção de crema; compatível com fogão"
+			}
+		]
+	},
+	{
+		"id": "bialetti-french-press-preziosa-1-litro",
+		"name": "Bialetti French Press Preziosa 1 litro",
+		"image": "/images/posts/melhor-cafeteira-bialetti-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro para servir várias xícaras",
+			"Aço inox e vidro no corpo",
+			"Preparo de café filtrado e chá",
+			"Cabo de nylon com pega resistente ao calor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "prensa francesa"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de café filtrado e chá; cabo em nylon com pega ergonômica resistente ao calor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30x 20 x 20cm"
+			}
+		]
+	},
+	{
+		"id": "bialetti-moka-express-6-xicaras-270ml",
+		"name": "Bialetti Moka Express 6 xícaras 270mL",
+		"image": "/images/posts/melhor-cafeteira-bialetti-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Válvula patenteada Bialetti para café italiano",
+			"Compatível com fogão a gás e elétrico, e indução com adaptador",
+			"Alumínio polido com 270mL de capacidade",
+			"Peso de 580g e dimensões de 20,5 x 12,5 x 10,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "italiana para fogão"
+			},
+			{
+				"label": "Capacidade",
+				"value": "270mL"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio polido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "válvula patenteada Bialetti; preparo de café italiano; compatível com fogão a gás, elétrico e de indução (com adaptador)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 12,5 x 10,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "580g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-french-press-smart-1-litro",
+		"name": "Bialetti French Press Smart 1 litro",
+		"image": "/images/posts/melhor-cafeteira-bialetti-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1 litro com corpo em ABS e vidro",
+			"Preparo de café por extração e de chá",
+			"Cabo ergonômico resistente ao calor",
+			"Corpo leve de 490g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "prensa francesa"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro"
+			},
+			{
+				"label": "Material",
+				"value": "ABS e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de café por extração; preparo de chá; cabo ergonômico resistente ao calor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 15 x 10,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "490g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-french-press-preziosa-350ml",
+		"name": "Bialetti French Press Preziosa 350mL",
+		"image": "/images/posts/melhor-cafeteira-bialetti-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 350mL em aço inox e vidro",
+			"Preparo de café filtrado e chá",
+			"Cabo de nylon com pega ergonômica",
+			"Corpo leve de 300g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "prensa francesa"
+			},
+			{
+				"label": "Capacidade",
+				"value": "350mL"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de café filtrado; preparo de chá; cabo em nylon com pega ergonômica resistente ao calor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 14,5 x 14,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-french-press-smart-350ml",
+		"name": "Bialetti French Press Smart 350mL",
+		"image": "/images/posts/melhor-cafeteira-bialetti-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 350mL em ABS e vidro",
+			"Preparo de café por extração e de chá",
+			"Cabo ergonômico resistente ao calor",
+			"Peso de 250g e dimensões de 16,5 x 11 x 8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "prensa francesa"
+			},
+			{
+				"label": "Capacidade",
+				"value": "350mL"
+			},
+			{
+				"label": "Material",
+				"value": "ABS e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de café por extração; preparo de chá; cabo ergonômico resistente ao calor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,5 x 11 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "250g"
+			}
+		]
+	},
+	{
+		"id": "bialetti-moka-express-12-xicaras-775ml",
+		"name": "Bialetti Moka Express 12 xícaras 775mL",
+		"image": "/images/posts/melhor-cafeteira-bialetti-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 775mL para 12 xícaras",
+			"Válvula patenteada Bialetti para café expresso",
+			"Alumínio e compatibilidade com fogão",
+			"Dimensões de 28,5 x 20 x 14cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "italiana para fogão"
+			},
+			{
+				"label": "Capacidade",
+				"value": "775mL"
+			},
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "válvula patenteada Bialetti; preparo de café expresso italiano; compatível com fogão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,5 x 20 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,359 @@
+[
+	{
+		"id": "bravo-zero-black-50l-h",
+		"name": "Bravo!Zero Black 50L/h",
+		"image": "/images/posts/melhor-chopeira-eletrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 50 litros por hora com compressor",
+			"Torneira italiana e pingadeira inclusas",
+			"Acabamento em aço fosco sobre alumínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "245W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "50L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "alumínio com acabamento em aço fosco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "torneira italiana; pingadeira"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "R-134a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50 x 29 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-bierhaus-ecc055pc-5-litros",
+		"name": "Eos Bierhaus ECC055PC (5 litros)",
+		"image": "/images/posts/melhor-chopeira-eletrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Barril de 5 litros com refrigeração por compressor",
+			"Faixa de temperatura de -3°C a 10°C",
+			"Acabamento all black e 100W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "-3°C e 10°C"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "all black"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 27,7 x 47,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-bierhaus-ece051pb-5-litros",
+		"name": "Eos Bierhaus ECE051PB (5 litros)",
+		"image": "/images/posts/melhor-chopeira-eletrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Barril de 5 litros e ajuste manual de temperatura",
+			"Bandeja removível inclusa",
+			"Potência de 65W e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "65W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajuste manual (2°C a 12°C)"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "all black"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja removível"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "48,2 x 27,2 x 47,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "krups-beertender-b101-5-litros",
+		"name": "Krups Beertender B101 (5 litros)",
+		"image": "/images/posts/melhor-chopeira-eletrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle de temperatura automático",
+			"Bandeja coletora inclusa",
+			"Barril de 5 litros e 70W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "barril de 5 litros"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "automático"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja coletora"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 32,5 x 50,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "antonow-minia-15-smart-flex-15l-h",
+		"name": "Antonow Minia 15 Smart Flex 15L/h",
+		"image": "/images/posts/melhor-chopeira-eletrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 15 litros por hora",
+			"Pingadeira em inox inclusa",
+			"Ajuste manual de temperatura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "127V (480W) / 220V (440W)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "15L/h"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajuste manual"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pingadeira em inox"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "46,4 x 18,5 x 48,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tsi-tsi20l-20l-h",
+		"name": "TSI TSI20L 20L/h",
+		"image": "/images/posts/melhor-chopeira-eletrica-6.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 20 litros por hora em aço inox",
+			"Kit extração e pingadeira em inox",
+			"Expansão direta para refrigerar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "expansão direta"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajuste manual"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pingadeira em inox; kit extração"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42 x 19,5 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "bravo-zero-black-70l-h",
+		"name": "Bravo!Zero Black 70L/h",
+		"image": "/images/posts/melhor-chopeira-eletrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 70 litros por hora, a maior da lista",
+			"Sistema booster para refrigeração",
+			"Torneira italiana inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "70L/h"
+			},
+			{
+				"label": "Sistema de refrigeração",
+				"value": "booster"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "ajuste manual"
+			},
+			{
+				"label": "Materiais e acabamento",
+				"value": "alumínio com acabamento em aço zincado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "torneira italiana"
+			},
+			{
+				"label": "Gás refrigerante",
+				"value": "310g / 134a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50 x 29 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

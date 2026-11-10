@@ -1,0 +1,366 @@
+[
+	{
+		"id": "britania-bcf32b-1-2-litro",
+		"name": "Britânia BCF32B 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,2 litro com 800W",
+			"Jarra de aço inox",
+			"Sistema corta-pingos e indicador do nível da água",
+			"Filtro permanente e porta-filtro removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; indicador do nível da água; placa de aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de aço inox; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,2 x 19,5 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,32kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcf19b-720ml",
+		"name": "Britânia BCF19B 720mL",
+		"image": "/images/posts/melhor-cafeteira-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de aço inox com capacidade de 720ml",
+			"Sistema corta-pingos com base antiderrapante",
+			"Placa de aquecimento e filtro permanente",
+			"Potência de 550W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720ml"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; placa de aquecimento; base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de aço inox; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 17 x 19,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,97kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-cp15-600ml",
+		"name": "Britânia CP15 600mL",
+		"image": "/images/posts/melhor-cafeteira-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro com 600ml",
+			"Indicador do nível da água e luz de funcionamento",
+			"Sistema corta-pingos e placa de aquecimento",
+			"Filtro permanente e porta-filtro removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; indicador do nível da água; placa de aquecimento; luz de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,5 x 15 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,94kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcf19a-720ml",
+		"name": "Britânia BCF19A 720mL",
+		"image": "/images/posts/melhor-cafeteira-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 720ml com 550W",
+			"Indicador do nível da água",
+			"Jarra de vidro e filtro permanente",
+			"Sistema corta-pingos e placa de aquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "720ml"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; indicador do nível da água; placa de aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 17 x 19,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,97kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcf32c-1-2-litro",
+		"name": "Britânia BCF32C 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,2 litro com 800W",
+			"Luz indicadora de funcionamento",
+			"Jarra de vidro e filtro permanente",
+			"Sistema corta-pingos e indicador de nível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; indicador do nível da água; placa de aquecimento; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,1 x 31,4 x 16,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bcf20a-800ml",
+		"name": "Britânia BCF20A 800mL",
+		"image": "/images/posts/melhor-cafeteira-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 800ml com 650W",
+			"Indicador do nível da água e placa de aquecimento",
+			"Suporte para o filtro",
+			"Filtro permanente e colher dosadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml"
+			},
+			{
+				"label": "Potência",
+				"value": "650W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; indicador do nível da água; placa de aquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de plástico; colher dosadora; filtro permanente; suporte do filtro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,3 x 25,7 x 13,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-duo-coffe-250ml",
+		"name": "Britânia Duo Coffe 250mL",
+		"image": "/images/posts/melhor-cafeteira-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara dois cafés simultaneamente",
+			"Níveis internos de água para um ou dois cafés",
+			"Proteção contra superaquecimento",
+			"Acompanha duas xícaras de cerâmica e filtro permanente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "250ml"
+			},
+			{
+				"label": "Potência",
+				"value": "450W"
+			},
+			{
+				"label": "Material",
+				"value": "aço escovado e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 2 cafés simultâneos; níveis internos de água para 1 ou 2 cafés; botão luminoso de funcionamento; proteção contra superaquecimento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 xícaras de cerâmica; filtro permanente; porta filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 16 x 19,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

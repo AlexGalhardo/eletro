@@ -1,0 +1,351 @@
+[
+	{
+		"id": "hamilton-beach-brewstation-elite-600ml",
+		"name": "Hamilton Beach BrewStation Elite 600mL",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Relógio digital programável e desligamento automático",
+			"Chapa de aquecimento e três modos de preparo",
+			"Filtro permanente e recipiente de café inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "950W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "chapa de aquecimento; relógio digital programável; desligamento automático; três modos de preparo: Normal, Extra Forte e Preparo Reduzido; filtro removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "compartimento do filtro; recipiente de café; bandeja de gotejamento; base cafeteira; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,5 x 20,5 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm30-1-5-litro",
+		"name": "Electrolux ECM30 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel digital e indicador do nível de água",
+			"Sistema AromaStrenght e função corta-pingos",
+			"Jarra de vidro e filtro permanente inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função corta-pingos; painel digital; desligamento automático; sistema AromaStrenght; indicador do nível de água; função Manter Aquecido; timer programável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; jarra de vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,81kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm25-1-2-litro",
+		"name": "Electrolux ECM25 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placa de aquecimento antiaderente",
+			"Sistema corta pingos e lâmpada piloto",
+			"Jarra de vidro e filtro permanente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "placa de aquecimento antiaderente; indicador do nível de água; sistema corta pingos; lâmpada piloto; função manter aquecido; desligamento automático após 2 horas; timer 24 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,9 x 18,3 x 24,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-44-32x-sdi-1-28-litro",
+		"name": "Mondial C-44-32X-SDI 1,28 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base aquecida e painel digital com relógio",
+			"Tampa basculante e sistema corta-pingos",
+			"Colher dosadora e filtro permanente inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base aquecida; painel digital com relógio; sistema corta-pingos; luz indicadora de funcionamento; tampa basculante; função manter aquecido; indicador de nível de água; função programável até 24h"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 17,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf550-1-2-litro",
+		"name": "Oster OCAF550 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base aquecida e timer programável",
+			"Sistema corta-pingos e luz indicadora de funcionamento",
+			"Painel digital com jarra de 1,2 litro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base aquecida; painel digital; timer programável; sistema corta-pingos; luz indicadora de funcionamento; função manter aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 26 x 15,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,77kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-bvstdc4401rd-1-5-litro",
+		"name": "Oster BVSTDC4401RD 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox escovado com jarra de 1,5 litro",
+			"Timer programável e aviso sonoro de funcionamento",
+			"Função manter aquecido e base aquecida"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 900W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox escovado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base aquecida; painel digital; timer programável; aviso sonoro de funcionamento; função manter aquecido; função tempo de preparo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 22,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-cm350g-br-1-5-litro",
+		"name": "Black+Decker CM350G-BR 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-eletrica-programavel-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Display touch e timer programável",
+			"Função sabor e base aquecedora",
+			"Jarra de aço inox e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função sabor; base aquecedora; sistema corta pingos; timer programável; desligamento automático; display touch"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de aço inox; filtro permanente; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 21 x 17cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

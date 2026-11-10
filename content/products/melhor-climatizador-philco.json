@@ -1,0 +1,275 @@
+[
+	{
+		"id": "philco-pcl10qf-5-em-1-5-litros",
+		"name": "Philco PCL10QF 5 em 1 5 litros",
+		"image": "/images/posts/melhor-climatizador-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de até 7h e controle remoto",
+			"Filtro colmeia e pré-filtro removível",
+			"Garrafas de gel para resfriamento",
+			"Rodas e alça para movimentação"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "5 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "climatização, umidificação, ventilação, aquecimento e resfriamento"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer de até 7h; controle remoto; mostrador luminoso com botão touch; aviso sonoro; rodas para movimentação; alça para transporte; sistema de filtro colmeia; pré-filtro removível; garrafas de gel para resfriamento; medidor do nível de água; ciclo quente e frio; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,5 x 28,5 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcl14f-4-em-1-14-litros",
+		"name": "Philco PCL14F 4 em 1 14 litros",
+		"image": "/images/posts/melhor-climatizador-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 14 litros e potência de 80W",
+			"Painel touch com mostrador luminoso",
+			"Controle remoto com alcance de até 8m",
+			"Timer de até 7h e função oscilar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "14 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "climatização, umidificação, ventilação e resfriamento"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer de até 7h; painel touch com mostrador luminoso; controle remoto com alcance de até 8m; sinal sonoro; alças laterais; 4 rodinhas; dreno para saída de água; aletas direcionáveis; dois reservatórios para gelo; modo noturno; modo vento natural; ciclo frio; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79 x 31,2 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,875kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcl05a-4-em-1-5-litros",
+		"name": "Philco PCL05A 4 em 1 5 litros",
+		"image": "/images/posts/melhor-climatizador-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 5 litros e potência de 80W",
+			"Timer programável de 1, 2, 4 e 8 horas",
+			"Filtro colmeia e dois modos de ventilação, natural e dormir"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "5 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "climatização, umidificação, ventilação e resfriamento"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "80W"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer programável (1h, 2h, 4h e 8h); controle remoto; filtro colmeia; 2 modos de ventilação (natural e dormir); alça para transporte; rodinhas para movimentação; aletas horizontais e verticais; ciclo frio; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "67 x 31 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,72kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcl1f-4-em-1-4-5-litros",
+		"name": "Philco PCL1F 4 em 1 4,5 litros",
+		"image": "/images/posts/melhor-climatizador-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 4,5 litros e potência de 70W",
+			"Timer de até 8h e controle remoto de até 6m",
+			"Luzes indicadoras de funcionamento e de velocidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "ventilação, umidificação, purificação e evaporação"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer de até 8h; controle remoto com alcance de até 6m; luzes indicadoras de funcionamento; luzes indicadoras de velocidade; modos natural e sleep; sinal sonoro; alça para transporte; 4 rodinhas; indicador de nível mínimo e máximo de água; pré-filtro; filtro de ar removível antibacteriano e antimofo; porta para controle remoto; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 27,5 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcl14a-4-em-1-14-litros",
+		"name": "Philco PCL14A 4 em 1 14 litros",
+		"image": "/images/posts/melhor-climatizador-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 14 litros e potência de 90W",
+			"Painel touch com mostrador luminoso",
+			"Timer de até 8h e controle remoto de até 8m"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "14 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "ventilação, umidificação, resfriamento e filtragem"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "função oscilar; timer de até 8h; painel touch com mostrador luminoso; controle remoto com alcance de até 8m; sinal sonoro; alças laterais; 4 rodinhas; dreno para saída de água; modo noturno, normal e natural; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78,7 x 27,5 x 37cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcl22a-4-em-1-22-litros",
+		"name": "Philco PCL22A 4 em 1 22 litros",
+		"image": "/images/posts/melhor-climatizador-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 22 litros e autonomia de até 50h",
+			"Turbina exclusiva do modelo",
+			"Filtro colmeia e função oscilar",
+			"Potência de 100W com timer de até 8h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do reservatório",
+				"value": "22 litros"
+			},
+			{
+				"label": "Modos",
+				"value": "resfriamento, umidificação, ventilação e filtragem"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Funções e recursos extras",
+				"value": "autonomia de até 50h; modelo de turbina exclusivo; filtro colmeia; função oscilar; timer de até 8h; painel touch com mostrador luminoso; controle remoto com alcance de até 8m; sinal sonoro; rodinhas integradas; dreno para saída de água; modo noturno, normal e natural; garantia de 1 ano"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88,7 x 27,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	}
+]

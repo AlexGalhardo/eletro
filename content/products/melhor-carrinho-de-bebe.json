@@ -1,0 +1,436 @@
+[
+	{
+		"id": "maxi-cosi-eva",
+		"name": "Maxi-Cosi Eva³",
+		"image": "/images/posts/melhor-carrinho-de-bebe-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso suportado de 22kg, o maior da lista",
+			"Capota com proteção UV50+ e visor com imã",
+			"Cinto de segurança de 5 pontos",
+			"Rodas com giro de 360º",
+			"Mosquiteiro e porta-objetos inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "22kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com proteção UV50+; visor com imã; aba de sol removível; alça para brinquedo"
+			},
+			{
+				"label": "Rodas",
+				"value": "4, com giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros; travas de direcionamento dianteiras"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mosquiteiro; adaptadores para bebês conforto Maxi-Cosi; porta-objetos"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "7,85kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "1,06 x 49,5 x 86cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "24 x 49,5 x 55,5cm"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-travel-system-reverse-duo",
+		"name": "Cosco Kids Travel System Reverse DUO",
+		"image": "/images/posts/melhor-carrinho-de-bebe-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Assento reversível e bebê conforto incluso",
+			"Capota retrátil e cinto de segurança de 5 pontos",
+			"Rodas com dianteiras duplas e giro de 360º",
+			"Certificações INMETRO e ABNT NBR",
+			"Bandeja porta-copos inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "sim"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Rodas",
+				"value": "4, com dianteiras duplas e giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros interligados"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja porta-copos; bebê conforto"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO; ABNT NBR 14.389; ABNT NBR 14.400"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "8,5kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "96 x 48 x 89cm"
+			}
+		]
+	},
+	{
+		"id": "cosco-kids-toffy",
+		"name": "Cosco Kids Toffy",
+		"image": "/images/posts/melhor-carrinho-de-bebe-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso do carrinho de 7kg",
+			"Colchonete removível e cesto inferior",
+			"Capota com visor e porta-objetos",
+			"Rodas dianteiras duplas com giro de 360º",
+			"Cinto de segurança de 5 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor e porta-objetos"
+			},
+			{
+				"label": "Rodas",
+				"value": "3, com dianteiras duplas e giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colchonete removível; cesto inferior"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO; ABNT 14.389"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "7kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "98 x 54 x 84,7cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "25 x 61,5 x 86,5cm"
+			}
+		]
+	},
+	{
+		"id": "voyage-bebe-spot",
+		"name": "Voyage Bebê Spot",
+		"image": "/images/posts/melhor-carrinho-de-bebe-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso do carrinho de 5,8kg",
+			"Capota com visor e bolso",
+			"Bandeja porta-copos frontal e traseira",
+			"Freios traseiros integrados",
+			"Certificações INMETRO e ABNT NBR 14.389"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor e bolso"
+			},
+			{
+				"label": "Rodas",
+				"value": "4"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros integrados"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja porta-copos frontal e traseira"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO; ABNT NBR 14.389; 006426/2015"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "5,8kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "80 x 47 x 98cm"
+			}
+		]
+	},
+	{
+		"id": "multikids-baby-pocket",
+		"name": "Multikids Baby Pocket",
+		"image": "/images/posts/melhor-carrinho-de-bebe-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso do carrinho de 5kg, o mais leve da lista",
+			"Rodas duplas em 4 pontos",
+			"Cinto de segurança de 5 pontos",
+			"Certificação INMETRO"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "não"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 (duplas)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "—"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO; 006861/2016"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "5kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "94 x 45 x 74cm"
+			}
+		]
+	},
+	{
+		"id": "galzerano-napoli",
+		"name": "Galzerano Napoli",
+		"image": "/images/posts/melhor-carrinho-de-bebe-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Assento reversível e cinto de segurança de 5 pontos",
+			"Capota retrátil",
+			"Rodas com giro de 360º",
+			"Cesto inferior incluso",
+			"Freios traseiros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "sim"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Rodas",
+				"value": "4, com giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto inferior"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "8,2kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "1,05 x 56,5 x 93cm"
+			}
+		]
+	},
+	{
+		"id": "burigotto-zap-metal",
+		"name": "Burigotto Zap Metal",
+		"image": "/images/posts/melhor-carrinho-de-bebe-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capota retrátil com visor",
+			"Freios traseiros interligados",
+			"Rodas com giro de 360º",
+			"Cesto porta-objetos incluso",
+			"Cinto de segurança de 5 pontos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Idade recomendada",
+				"value": "recém-nascido"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "15kg"
+			},
+			{
+				"label": "Assento reversível",
+				"value": "não"
+			},
+			{
+				"label": "Cinto de segurança",
+				"value": "5 pontos"
+			},
+			{
+				"label": "Capota retrátil",
+				"value": "sim, com visor"
+			},
+			{
+				"label": "Rodas",
+				"value": "4, com giro 360º"
+			},
+			{
+				"label": "Freios",
+				"value": "traseiros interligados"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cesto porta-objetos"
+			},
+			{
+				"label": "Certificação",
+				"value": "CE-CAR/IQB 0014 53434/19-001"
+			},
+			{
+				"label": "Peso do carrinho",
+				"value": "7,4kg"
+			},
+			{
+				"label": "Dimensões abertas (A x L x P)",
+				"value": "1,04 x 51 x 77cm"
+			},
+			{
+				"label": "Dimensões fechado (A x L x P)",
+				"value": "58 x 28cm"
+			}
+		]
+	}
+]

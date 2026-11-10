@@ -1,0 +1,390 @@
+[
+	{
+		"id": "nescafe-dolce-gusto-genio-s-basic-dgs5-800ml",
+		"name": "Nescafé Dolce Gusto Genio S Basic DGS5 800mL",
+		"image": "/images/posts/melhor-cafeteira-individual-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba de 15 bar para o preparo da bebida",
+			"Modo ECO de 1 minuto para economizar energia",
+			"Bebidas quentes e frias com função XL",
+			"Alerta de descalcificação para manter o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "Modo ECO 1 min; função XL; bebidas quentes e frias; alerta de descalcificação; bomba com 15 bar de pressão"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,3 x 11,2 x 28,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-passione-700ml",
+		"name": "Três Corações Passione 700mL",
+		"image": "/images/posts/melhor-cafeteira-individual-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bebidas programáveis entre 30mL e 250mL",
+			"Ajuste da temperatura da bebida",
+			"Bandeja coletora de resíduos removível",
+			"Modo de economia de energia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "700mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1260W (127V) / 1150W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; compartimento interno para até 4 cápsulas usadas; bandeja coletora de resíduos removível; ajuste da temperatura da bebida; bebidas programáveis entre 30mL e 250mL; modo de economia de energia"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,7 x 12 x 32,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-lov-950ml",
+		"name": "Três Corações LOV 950mL",
+		"image": "/images/posts/melhor-cafeteira-individual-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporte para xícaras e copos long drink",
+			"Capacidade de 950mL, a maior da lista",
+			"Sistema multipressão com 1250W",
+			"Compartimento externo para 4 cápsulas usadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "950mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema multipressão; suporte para xícaras e copos long drink; bandeja coletora de resíduos removível; compartimento externo para até 4 cápsulas usadas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29,5 x 16 x 20,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "nescafe-dolce-gusto-mini-me-800ml",
+		"name": "Nescafé Dolce Gusto Mini Me 800mL",
+		"image": "/images/posts/melhor-cafeteira-individual-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Desligamento automático para mais segurança",
+			"Seletor de nível de água para dosar o preparo",
+			"LED de funcionamento e modo ECO",
+			"Pressão de 15 bar com 1340W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1340W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 15 bar; bebidas quentes e frias; modo ECO; desligamento automático; seletor de nível de água; LED de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,2 x 31,6 x 19,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-2day-inox-2-em-1-ocaf200-400ml",
+		"name": "Oster 2Day Inox 2 em 1 OCAF200 400mL",
+		"image": "/images/posts/melhor-cafeteira-individual-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo direto na xícara ou no copo térmico",
+			"Bandeja com altura regulável",
+			"Filtro removível e porta-filtro permanente",
+			"Copo térmico de inox incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "inox (copo) e plástico (cafeteira)"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo direto na xícara ou no copo térmico; bandeja com altura regulável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro removível; porta-filtro permanente; copo térmico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,8 x 13,2 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "870g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cadence-single-up-caf230-300ml",
+		"name": "Cadence Single Up CAF230 300mL",
+		"image": "/images/posts/melhor-cafeteira-individual-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara 2 cafés ao mesmo tempo",
+			"Ajuste de altura para diferentes xícaras",
+			"Filtro permanente lavável e dosador incluso",
+			"Base antiderrapante para estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "300mL"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "ajuste de altura; prepara 2 cafés ao mesmo tempo; base antiderrapante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 xícaras exclusivas; dosador; filtro permanente lavável; bandeja removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22,5 x 14,7 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "tres-coracoes-espresso-luna-600ml",
+		"name": "Três Corações Espresso Luna 600mL",
+		"image": "/images/posts/melhor-cafeteira-individual-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funcionamento silencioso com pressão de 15 bar",
+			"Compartimento para até 5 cápsulas usadas",
+			"Sistema multipressão com 1250W",
+			"Cápsula de retrolavagem inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula e multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão até 15 bar; funcionamento silencioso; sistema multipressão; compartimento interno para até 5 cápsulas usadas; bandeja coletora de resíduos removível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cápsula de retrolavagem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,2 x 18,4 x 33,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

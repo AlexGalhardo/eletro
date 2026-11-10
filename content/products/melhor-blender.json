@@ -1,0 +1,296 @@
+[
+	{
+		"id": "oster-ultra-power-obld100-600ml-800ml-1000w",
+		"name": "Oster Ultra Power OBLD100 (600mL/800mL) 1000W",
+		"image": "/images/posts/melhor-blender-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com dois copos",
+			"Modos turbo, auto pulsar e moer",
+			"Tampas flip-top com alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 copos (600mL e 800mL)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis + função modo turbo, auto pulsar e moer"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (600mL e 800mL); 2 tampas flip-top com alça para transporte; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	},
+	{
+		"id": "ninja-blast-bc100bkbz-470ml-700w",
+		"name": "Ninja Blast BC100BKBZ (470mL) 700W",
+		"image": "/images/posts/melhor-blender-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de 470mL em plástico Tritan",
+			"Função auto-limpar",
+			"Peso de 780g e alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "470mL"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico Tritan"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível + função auto-limpar"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "copo; tampa com bico e alça para transporte; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "780g"
+			}
+		]
+	},
+	{
+		"id": "mondial-dg-01-2x-750ml-300w",
+		"name": "Mondial DG-01 (2x 750mL) 300W",
+		"image": "/images/posts/melhor-blender-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois copos de 750mL cada",
+			"Copos em San Cristal",
+			"Dois níveis de velocidade e função pulsar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 copos (750mL cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "San Cristal"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis + função pulsar"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (750mL cada); unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-sport-blender-bse20-2x-600ml-320w",
+		"name": "Electrolux Sport Blender BSE20 (2x 600mL) 320W",
+		"image": "/images/posts/melhor-blender-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois copos de 600mL cada",
+			"Tampas com vedação para transporte",
+			"Suporte de lâminas removível",
+			"Dois níveis de velocidade e pulsar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "320W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 copos (600mL cada)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 tampas com vedação para transporte; 2 copos (600mL cada); suporte de lâminas removível; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,35kg"
+			}
+		]
+	},
+	{
+		"id": "oster-power-to-go-obld700-2x-600ml-700w",
+		"name": "Oster Power To Go OBLD700 (2x 600mL) 700W",
+		"image": "/images/posts/melhor-blender-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois copos de 600mL em plástico Tritan",
+			"Tampas com alça para transporte",
+			"Peso de 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 copos (600mL cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico Tritan"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (600mL cada); 2 tampas com alça; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-bld701-2x-500ml-600w",
+		"name": "Cadence BLD701 (2x 500mL) 600W",
+		"image": "/images/posts/melhor-blender-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas jarras de 500mL cada",
+			"Material BPA Free",
+			"Tampas flip-top para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 jarras (500mL cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "BPA Free"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 jarras (500mL cada); 2 tampas flip-top; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "oster-power-to-go-obld750-475ml-600ml-700w",
+		"name": "Oster Power To Go OBLD750 (475mL/600mL) 700W",
+		"image": "/images/posts/melhor-blender-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copos de 475mL e 600mL",
+			"Copo de inox de 475mL e Tritan de 600mL",
+			"Tampas com alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2 copos (475mL e 600mL)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico Tritan (600mL) e inox (475mL)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (475mL e 600mL); 2 tampas com alça; unidade motora"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,37kg"
+			}
+		]
+	}
+]

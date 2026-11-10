@@ -1,0 +1,281 @@
+[
+	{
+		"id": "bask-h00005-bask-150kg",
+		"name": "Bask H00005-BASK 150kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 150kg de peso",
+			"Armação de aço com assento de poliéster",
+			"Peso de 2kg e dimensões de 80 x 50 x 77,5cm",
+			"Assento fixo, sem ajuste de reclínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 150kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "aço"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "não reclinável"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 50 x 77,5cm"
+			}
+		]
+	},
+	{
+		"id": "mor-2105-120kg",
+		"name": "Mor 2105 120kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 120kg de peso",
+			"Armação de alumínio com assento de poliéster",
+			"Seis posições de reclínio para ajustar o descanso",
+			"Peso de 2,38kg e dimensões de 86,5 x 63 x 71cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 120kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "6 posições"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2,38kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86,5 x 63 x 71cm"
+			}
+		]
+	},
+	{
+		"id": "mor-2267-100kg",
+		"name": "Mor 2267 100kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito posições de reclínio, a maior quantidade da lista",
+			"Armação de alumínio com assento de poliéster",
+			"Peso de 1,91kg facilita o transporte",
+			"Suporta até 100kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 100kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "8 posições"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,91kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87 x 53,5 x 68cm"
+			}
+		]
+	},
+	{
+		"id": "mor-2002-110kg",
+		"name": "Mor 2002 110kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor volume da lista, com 72 x 56 x 38cm",
+			"Peso de 1,26kg, o mais leve entre as 7 cadeiras",
+			"Assento em polietileno e armação em alumínio",
+			"Suporta até 110kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 110kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "polietileno"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "não reclinável"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,26kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72 x 56 x 38cm"
+			}
+		]
+	},
+	{
+		"id": "mor-2278-110kg",
+		"name": "Mor 2278 110kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 1,34kg, o segundo mais leve da lista",
+			"Armação de alumínio com assento de poliéster",
+			"Suporta até 110kg de peso",
+			"Assento fixo, sem ajuste de reclínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 110kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "não reclinável"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "1,34kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72,5 x 54,5 x 53cm"
+			}
+		]
+	},
+	{
+		"id": "leboos-lb-yz001-bk-150kg",
+		"name": "Leboos LB-YZ001-BK 150kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 150kg de peso",
+			"Armação de alumínio com assento de poliéster",
+			"Dimensões de 76 x 49,5 x 53,4cm",
+			"Assento fixo, sem ajuste de reclínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 150kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "não reclinável"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "76 x 49,5 x 53,4cm"
+			}
+		]
+	},
+	{
+		"id": "mor-2166-110kg",
+		"name": "Mor 2166 110kg",
+		"image": "/images/posts/melhor-cadeira-de-praia-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro posições de reclínio para ajustar o encosto",
+			"Suporta até 110kg de peso",
+			"Armação de alumínio com assento de poliéster"
+		],
+		"technicalDetails": [
+			{
+				"label": "Peso suportado",
+				"value": "até 110kg"
+			},
+			{
+				"label": "Material da armação",
+				"value": "alumínio"
+			},
+			{
+				"label": "Material do assento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Níveis de reclínio",
+				"value": "4 posições"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2,43kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 64 x 73cm"
+			}
+		]
+	}
+]

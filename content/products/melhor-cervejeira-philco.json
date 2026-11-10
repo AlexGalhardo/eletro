@@ -1,0 +1,258 @@
+[
+	{
+		"id": "philco-pcv25a-250-litros",
+		"name": "Philco PCV25A 250 litros",
+		"image": "/images/posts/melhor-cervejeira-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"250 litros de capacidade interna com vidro triplo",
+			"Sistema antissudação e iluminação interna em LED",
+			"Quatro prateleiras reguláveis e rodízios traseiros",
+			"Trava e chave para mais segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "250 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-6°C a 5°C"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro triplo"
+			},
+			{
+				"label": "Recursos e funções extras",
+				"value": "sistema antissudação; iluminação interna em LED; sistema de ventilação interna; 4 prateleiras reguláveis; rodízios traseiros; pés niveladores frontais; trava; chave; gás refrigerante R600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "168 x 52,5 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "47,45kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcv10a-100-litros",
+		"name": "Philco PCV10A 100 litros",
+		"image": "/images/posts/melhor-cervejeira-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: cervejeira, adega e frigobar",
+			"Porta espelhada com iluminação LED que pode ser desligada",
+			"Sistema antissudação e pés niveladores",
+			"Faixa de temperatura de -6°C a 18°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "100 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-6°C a 18°C"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhado"
+			},
+			{
+				"label": "Recursos e funções extras",
+				"value": "função 3 em 1 (cervejeira, adega e frigobar); iluminação interna em LED com opção de desligamento; pés niveladores; gás refrigerante R600A; sistema antissudação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 49,5 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcv09a-96-litros",
+		"name": "Philco PCV09A 96 litros",
+		"image": "/images/posts/melhor-cervejeira-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1 para bebidas com vidro triplo",
+			"Ventilação forçada e memória em quedas de energia",
+			"Temperatura exibida em Celsius ou Fahrenheit",
+			"Até três prateleiras e pés frontais niveladores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "96 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-8°C a 16°C"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital interno"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro triplo"
+			},
+			{
+				"label": "Recursos e funções extras",
+				"value": "função 3 em 1 (cervejeira, adega e frigobar para bebidas); iluminação interna em LED com opção de desligamento; sistema de ventilação forçada; até 3 prateleiras; função de memória em quedas de energia; exibição de temperatura em Celsius ou Fahrenheit; pés frontais niveladores"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84 x 40,5 x 47,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,95kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcv05a-50-litros",
+		"name": "Philco PCV05A 50 litros",
+		"image": "/images/posts/melhor-cervejeira-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 2 em 1: cervejeira e frigobar",
+			"Degelo automático para menos trabalho de manutenção",
+			"Painel digital externo para ajustar a temperatura",
+			"Compacta, com 50 litros para espaços pequenos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-6°C a 10°C"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital externo"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Recursos e funções extras",
+				"value": "função 2 em 1 (cervejeira e frigobar); degelo automático; sistema de ventilação interna; 1 grade interna de arame; 2 pés niveladores frontais"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 46,5 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcv142p-91-litros",
+		"name": "Philco PCV142P 91 litros",
+		"image": "/images/posts/melhor-cervejeira-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: cervejeira, adega e frigobar",
+			"Vidro triplo e sistema antissudação",
+			"Até três prateleiras ajustáveis e memória em quedas de energia",
+			"Temperatura em Celsius ou Fahrenheit no painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "91 litros"
+			},
+			{
+				"label": "Faixa de temperatura",
+				"value": "-8°C a 16°C"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital interno"
+			},
+			{
+				"label": "Refrigeração",
+				"value": "compressor"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro triplo"
+			},
+			{
+				"label": "Recursos e funções extras",
+				"value": "função 3 em 1 (cervejeira, adega e frigobar para bebidas); sistema antissudação; iluminação interna em LED com opção de desligamento; sistema de ventilação interna; até 3 prateleiras ajustáveis; função de memória; exibição de temperatura em Celsius ou Fahrenheit; pés niveladores ajustáveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "84 x 40 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,525kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

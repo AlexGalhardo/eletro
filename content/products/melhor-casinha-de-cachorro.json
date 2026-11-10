@@ -1,0 +1,332 @@
+[
+	{
+		"id": "mecpet-n6",
+		"name": "MecPet N6",
+		"image": "/images/posts/melhor-casinha-de-cachorro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tamanho N6 com dimensões de 66 x 57 x 75cm",
+			"Material em polipropileno",
+			"Ventilação por aberturas laterais e frontal",
+			"Porta frontal e telhado",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N6"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado"
+			},
+			{
+				"label": "Ventilação",
+				"value": "aberturas laterais e frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66 x 57 x 75cm"
+			}
+		]
+	},
+	{
+		"id": "dura-pet-durahouse-n5",
+		"name": "Dura Pet DuraHouse N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Telhado removível",
+			"Ventilação pelo topo (chaminé) e pela frente",
+			"Dimensões de 72 x 72 x 85cm",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N5"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado removível"
+			},
+			{
+				"label": "Ventilação",
+				"value": "abertura no topo (chaminé) e frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "72 x 72 x 85cm"
+			}
+		]
+	},
+	{
+		"id": "tanatela-pet-2-em-1-n5",
+		"name": "Tánatela Pet 2 em 1 N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Telhado removível e ventilação traseira por ranhuras",
+			"Peso de 800g, o mais leve da lista",
+			"Dimensões de 57 x 54 x 77cm",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N5"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado removível"
+			},
+			{
+				"label": "Ventilação",
+				"value": "abertura traseira (ranhuras) e frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57 x 54 x 77cm"
+			},
+			{
+				"label": "Peso",
+				"value": "800g"
+			}
+		]
+	},
+	{
+		"id": "beethoven-agropet-n5",
+		"name": "Beethoven Agropet N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Feita em madeira pínus",
+			"Telhado fixo e abertura frontal",
+			"Dimensões de 90 x 60 x 80cm",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N5"
+			},
+			{
+				"label": "Material",
+				"value": "madeira pínus"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado fixo"
+			},
+			{
+				"label": "Ventilação",
+				"value": "abertura frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90 x 60 x 80cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31kg"
+			}
+		]
+	},
+	{
+		"id": "furacao-pet-iglu-n2",
+		"name": "Furacão Pet Iglu N2",
+		"image": "/images/posts/melhor-casinha-de-cachorro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dimensões compactas de 40 x 37,5 x 51cm",
+			"Peso de 1,1kg",
+			"Telhado removível e porta frontal",
+			"Ventilação pela abertura frontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N2"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado removível"
+			},
+			{
+				"label": "Ventilação",
+				"value": "abertura frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 37,5 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "home-universal-pet-n3",
+		"name": "Home universal Pet N3",
+		"image": "/images/posts/melhor-casinha-de-cachorro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ventilação por aberturas laterais",
+			"Telhado removível e porta frontal",
+			"Dimensões de 38 x 38 x 47cm",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N3"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado removível"
+			},
+			{
+				"label": "Ventilação",
+				"value": "aberturas laterais"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38 x 38 x 47cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "beethoven-agropet-madeira-n5",
+		"name": "Beethoven Agropet Madeira N5",
+		"image": "/images/posts/melhor-casinha-de-cachorro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Feita em madeira pínus",
+			"Telhado fixo e abertura frontal",
+			"Dimensões de 70 x 40 x 60cm",
+			"Peso de 8,4kg",
+			"Adequada para sol e chuva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "N5"
+			},
+			{
+				"label": "Material",
+				"value": "madeira pínus"
+			},
+			{
+				"label": "Cobertura",
+				"value": "telhado fixo"
+			},
+			{
+				"label": "Ventilação",
+				"value": "abertura frontal"
+			},
+			{
+				"label": "Entrada",
+				"value": "porta frontal"
+			},
+			{
+				"label": "Resistência",
+				"value": "adequada para sol e chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "70 x 40 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,4kg"
+			}
+		]
+	}
+]

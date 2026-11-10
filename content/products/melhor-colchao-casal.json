@@ -1,0 +1,356 @@
+[
+	{
+		"id": "emma-original",
+		"name": "Emma Original",
+		"image": "/images/posts/melhor-colchao-casal-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três camadas com Airgocell e espuma viscoelástica",
+			"Capa removível e hipoalergênica",
+			"Bloqueio de movimento e suporte de 130kg",
+			"Altura de 25cm e firmeza classificada como firme"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma Airgocell; espuma viscoelástica; espuma de suporte"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "130kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "tecido em poliéster, elastán e polipropileno"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "Airgocell respirável; bloqueio de movimento; capa removível hipoalergênica; 3 camadas"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "emma-duo-comfort",
+		"name": "Emma Duo Comfort",
+		"image": "/images/posts/melhor-colchao-casal-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla face: alto conforto de um lado e alto suporte do outro",
+			"Capa hipoalergênica e lavável",
+			"Tratamento antiácaros e suporte de 130kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma com memory foam; espuma de alto conforto; espuma de alto suporte"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "130kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "tecido em poliéster e polipropileno"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "tecnologia dupla face; capa hipoalergênica e lavável; antiácaros"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "médio"
+			},
+			{
+				"label": "Face de uso",
+				"value": "dupla face"
+			}
+		]
+	},
+	{
+		"id": "luuna-support",
+		"name": "Luuna Support",
+		"image": "/images/posts/melhor-colchao-casal-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta até 300kg com espuma D28 na base",
+			"Capa removível e lavável em poliéster reciclável",
+			"Distribuição equilibrada de peso para aliviar pressão",
+			"Tecnologia AirFlow e Sistema Responsive eActive Support"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma de suporte D28 e espuma Térmica Comfy D29"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28 na base e D29 na camada superior"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "poliéster reciclável com enchimento de fibra siliconada"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "capa removível e lavável; distribuição equilibrada de peso para alívio de pressão; Sistema Responsive eActive Support; Cloud Comfort; tecnologia AirFlow"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "luuna-blue",
+		"name": "Luuna Blue",
+		"image": "/images/posts/melhor-colchao-casal-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três camadas de espuma, incluindo viscoelástica D40",
+			"Base D28 e espuma térmica D29 para apoio firme",
+			"Tratamento têxtil antiderrapante na superfície",
+			"Suporte de 300kg e altura de 21cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "três camadas de espuma; base em espuma Ergo Suporte D28; camada viscoelástica D40; espuma térmica Comfy D29"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28 (base); D40 (viscoelástica); D29 (superior)"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "espuma viscoelástica; espuma térmica Air Flow; Cloud Comfort; tratamento têxtil antiderrapante; Active Support"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "emma-basics",
+		"name": "Emma Basics",
+		"image": "/images/posts/melhor-colchao-casal-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma D28 com nível extrafirme",
+			"Capa fixa hipoalergênica e antiácaro",
+			"Suporta 260kg com 14cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma D28"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D28"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "260kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "capa fixa com propriedades hipoalergênicas e antiácaros"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "hipoalergênico; antiácaro; D28 Ortopédico"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "extrafirme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "bf-colchoes-light-ortopedico",
+		"name": "BF Colchões Light Ortopédico",
+		"image": "/images/posts/melhor-colchao-casal-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma Balance D33 para apoio firme",
+			"Malha belga com fios de carbono para redução de estresse",
+			"Tratamento hipoalergênico e antiácaros",
+			"Suporta 110kg com 25cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma Softlight; Espuma Balance"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "D33 (Espuma Balance)"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "110kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "malha belga com tecnologia DeepZen e fios de carbono"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "redução de estresse por fios de carbono; tratamento hipoalergênico e antiácaros"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	},
+	{
+		"id": "luuna-original",
+		"name": "Luuna Original",
+		"image": "/images/posts/melhor-colchao-casal-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Viscose de bambu de alta gramatura na capa",
+			"Gel Memory Foam com tecnologia Air Flow",
+			"Molas ensacadas e 28cm de altura",
+			"Hipoalergênico e antimicrobiano, com suporte de 300kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "casal"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28 x 138 x 188cm"
+			},
+			{
+				"label": "Estrutura interna",
+				"value": "espuma Gel Memory Foam; espuma Air Flow; espuma responsive"
+			},
+			{
+				"label": "Densidade da espuma",
+				"value": "alta densidade"
+			},
+			{
+				"label": "Suporte de peso",
+				"value": "300kg"
+			},
+			{
+				"label": "Revestimento",
+				"value": "Luuna Soft Bamboo"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "viscose de bambu de alta gramatura; Gel Memory Foam; Air Flow; Responsive; hipoalergênico e antimicrobiano; Molas Ensacadas"
+			},
+			{
+				"label": "Nível de firmeza",
+				"value": "firme"
+			},
+			{
+				"label": "Face de uso",
+				"value": "face única"
+			}
+		]
+	}
+]

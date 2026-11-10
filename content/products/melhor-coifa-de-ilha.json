@@ -1,0 +1,410 @@
+[
+	{
+		"id": "suggar-tp3521pt-35cm",
+		"name": "Suggar TP3521PT 35cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 1100m³/h com três velocidades",
+			"Filtros de telas de alumínio e carvão ativado",
+			"Duas lâmpadas LED e botões físicos",
+			"Estrutura em aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "1100m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Filtros",
+				"value": "telas de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "2 lâmpadas LED"
+			},
+			{
+				"label": "Potência",
+				"value": "432W (127V); 422W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "123 x 35 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20,5kg"
+			}
+		]
+	},
+	{
+		"id": "oster-ocfa590-90cm",
+		"name": "Oster OCFA590 90cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 1400m³/h na função exaustor",
+			"Painel duplo touch screen com três velocidades",
+			"Três filtros de alumínio e carvão ativado",
+			"Quatro lâmpadas LED e vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "1400m³/h na função exaustor e 500m³/h na função depurador"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "duplo painel touch screen"
+			},
+			{
+				"label": "Filtros",
+				"value": "3 filtros de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "4 lâmpadas LED"
+			},
+			{
+				"label": "Potência",
+				"value": "240W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e vidro temperado"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "110,5 x 90 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			}
+		]
+	},
+	{
+		"id": "fischer-tradition-line-90cm",
+		"name": "Fischer Tradition Line 90cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 700m³/h e três velocidades",
+			"Quatro lâmpadas LED integradas",
+			"Potência de 208W em 127V e 228W em 220V",
+			"Botões físicos e estrutura em aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "700m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "4 lâmpadas LED"
+			},
+			{
+				"label": "Potência",
+				"value": "208W (127V); 228W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "122,7 x 90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "24,94kg"
+			}
+		]
+	},
+	{
+		"id": "milano-gallant-gco90gt1a-90cm",
+		"name": "Milano Gallant GCO90GT1A 90cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com três velocidades",
+			"Filtro de carvão vegetal",
+			"Quatro lâmpadas LED em aço inox",
+			"Medidas de 59 x 89,5 x 60cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "painel touch"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de carvão vegetal"
+			},
+			{
+				"label": "Iluminação",
+				"value": "4 lâmpadas LED"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59 x 89,5 x 60cm"
+			}
+		]
+	},
+	{
+		"id": "nardelli-nar-50011400-90cm",
+		"name": "Nardelli NAR-50011400 90cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 900m³/h no modo exaustor",
+			"Painel touch com três velocidades",
+			"Potência de 244W e quatro lâmpadas LED",
+			"Vidro temperado combinado com aço inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "700m³/h no modo depurador e 900m³/h no modo exaustor"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "painel touch"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "4 lâmpadas LED"
+			},
+			{
+				"label": "Potência",
+				"value": "244W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e vidro temperado"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90 x 90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "25kg"
+			}
+		]
+	},
+	{
+		"id": "nardelli-nar-50011830-90cm",
+		"name": "Nardelli NAR-50011830 90cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 900m³/h no modo exaustor",
+			"Botões físicos com três velocidades",
+			"Estrutura em aço inox e potência de 244W",
+			"Filtros de alumínio e carvão ativado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "700m³/h no modo depurador e 900m³/h no modo exaustor"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "4 lâmpadas LED"
+			},
+			{
+				"label": "Potência",
+				"value": "244W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "90 x 90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "21,8kg"
+			}
+		]
+	},
+	{
+		"id": "eos-eco40ir-35cm",
+		"name": "EOS ECO40IR 35cm",
+		"image": "/images/posts/melhor-coifa-de-ilha-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 750m³/h com três velocidades",
+			"Potência de 210W com iluminação LED",
+			"Peso de 10,5kg e aço inox",
+			"Filtros de alumínio e carvão ativado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções",
+				"value": "exaustor e depurador"
+			},
+			{
+				"label": "Vazão",
+				"value": "750m³/h"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Comando",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Filtros",
+				"value": "filtro de alumínio e filtro de carvão ativado"
+			},
+			{
+				"label": "Iluminação",
+				"value": "LED"
+			},
+			{
+				"label": "Potência",
+				"value": "210W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "125,5 x 35 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			}
+		]
+	}
+]

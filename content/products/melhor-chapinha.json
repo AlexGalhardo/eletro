@@ -1,0 +1,410 @@
+[
+	{
+		"id": "mq-professional-480",
+		"name": "MQ Professional 480",
+		"image": "/images/posts/melhor-chapinha-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"17 níveis de temperatura até 250°C",
+			"Placas flutuantes e revestimento titanium",
+			"Cabo giratório de 360° com 3 metros",
+			"Visor LED e tecnologia de íon negativo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "45W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "250°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (17 níveis)"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "titanium"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "360º"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Largura da placa",
+				"value": "média (3cm)"
+			},
+			{
+				"label": "Extras",
+				"value": "placas flutuantes; tecnologia íon negativo; aquecimento MCH; visor led; ponta antitérmica; controle de temperatura"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "467g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "taiff-red-ion-100141",
+		"name": "Taiff Red Ion 100141",
+		"image": "/images/posts/melhor-chapinha-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia de íon negativo e PTC",
+			"Sistema dual transmission e bivolt automático",
+			"Placa de cerâmica com flutuação orbital",
+			"Peso de 292g e cabo de 1,80 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "46W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "200°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "não"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "não"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia íon negativo; sistema dual transmission; bivolt automático; sistema de flutuação orbital; tecnologia PTC"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "292g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "taiff-ceramica-100074",
+		"name": "Taiff Cerâmica 100074",
+		"image": "/images/posts/melhor-chapinha-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento PTC com perfil cerâmico",
+			"Indicador LED e bivolt automático",
+			"Placa média de 3,5 cm",
+			"Peso de 270g e cabo de 1,80 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "42W – 46W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "180°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "não"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "não"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Largura da placa",
+				"value": "média (3,5cm)"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia de aquecimento PTC; perfil de aquecimento cerâmico; indicador LED; bivolt automático"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "270g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "britania-titanium-blue",
+		"name": "Britânia Titanium Blue",
+		"image": "/images/posts/melhor-chapinha-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"13 níveis de ajuste até 220°C",
+			"Placas flutuantes e revestimento titanium",
+			"Desligamento automático com indicador luminoso",
+			"Trava de fechamento e cabo giratório de 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "35W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "220°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (13 níveis)"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "titanium"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "360°"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Extras",
+				"value": "placas flutuantes; desligamento automático; indicador luminoso; trava de fechamento"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "290g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "ga-ma-italy-eleganza-plus",
+		"name": "GA.MA ITALY Eleganza Plus",
+		"image": "/images/posts/melhor-chapinha-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placa fina de 2,0 mm em cerâmica",
+			"Tecnologia ceramic ion e alça para pendurar",
+			"Desligamento automático e peso de 241g",
+			"Temperatura máxima de 210°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "34W – 37W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "210°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "não"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "não"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Largura da placa",
+				"value": "fina (2,0mm)"
+			},
+			{
+				"label": "Extras",
+				"value": "tecnologia ceramic ion; alça para pendurar; desligamento automático"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "241g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127V e 220V)"
+			}
+		]
+	},
+	{
+		"id": "lizze-extreme-profissional",
+		"name": "LIZZE Extreme Profissional",
+		"image": "/images/posts/melhor-chapinha-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Display LED e ponta fria",
+			"Cabo de 2,7 metros giratório a 360°",
+			"Placas flutuantes de 2,9 mm",
+			"Desligamento automático e aro para pendurar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "44W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "250°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (5 níveis)"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "titanium"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "360°"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "2,7 metros"
+			},
+			{
+				"label": "Largura da placa",
+				"value": "média (2,9mm)"
+			},
+			{
+				"label": "Extras",
+				"value": "placas flutuantes; desligamento automático; display de led; aro para pendurar; ponta fria; controle de temperatura"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "450g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V (voltagem única)"
+			}
+		]
+	},
+	{
+		"id": "mondial-p-20",
+		"name": "Mondial P-20",
+		"image": "/images/posts/melhor-chapinha-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia tourmaline íon em placa cerâmica",
+			"Trava de segurança e indicador luminoso",
+			"Sete níveis de ajuste até 220°C",
+			"Bivolt automático e peso de 320g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "45W"
+			},
+			{
+				"label": "Utilização",
+				"value": "seco"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "220°C"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (7 níveis)"
+			},
+			{
+				"label": "Tipo de revestimento",
+				"value": "cerâmica com tourmaline íon"
+			},
+			{
+				"label": "Cabo giratório",
+				"value": "360°"
+			},
+			{
+				"label": "Tamanho do cabo",
+				"value": "1,94 metro"
+			},
+			{
+				"label": "Extras",
+				"value": "placas flutuantes; trava de segurança; indicador luminoso de funcionamento; tecnologia tourmaline íon; bivolt automático"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "320g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt (127 V e 220V)"
+			}
+		]
+	}
+]

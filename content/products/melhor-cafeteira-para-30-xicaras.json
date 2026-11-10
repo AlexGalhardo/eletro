@@ -1,0 +1,369 @@
+[
+	{
+		"id": "wap-wcd1500-1-5-litro",
+		"name": "WAP WCD1500 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas para programar o preparo do café",
+			"Função manter aquecido e sistema corta-pingos",
+			"Controle de intensidade: normal, forte ou gelado",
+			"Autolimpeza e desligamento automático para praticidade",
+			"Suporte para café gelado e filtro permanente inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável (24h); painel digital; função manter aquecido; sistema corta pingos; controle de intensidade (normal, forte e gelado); sistema de autolimpeza; desligamento automático; indicador de nível de água; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente; colher dosadora; suporte para café gelado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 23 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,75kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm30-1-5-litro",
+		"name": "Electrolux ECM30 1,5 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de 24 horas e display digital para o preparo",
+			"Desligamento automático após 2 horas de funcionamento",
+			"Sistema corta-pingos e indicador de nível de água",
+			"Filtro permanente removível, sem gastar papel de filtro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável (24h); display digital; função manter aquecido; desligamento automático (2h); sistema corta pingos; indicador de nível de água; luz indicadora de funcionamento; sistema AromaStrenght"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 18,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm25-1-2-litro",
+		"name": "Electrolux ECM25 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatível com lava-louças para limpeza mais prática",
+			"Timer de 24 horas com display digital",
+			"Base de aquecimento e lâmpada piloto de funcionamento",
+			"Desligamento automático após 2 horas de uso",
+			"Potência de 800W com filtro permanente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer 24h; display digital; função manter aquecido; desligamento automático após 2 horas; sistema corta pingos; base de aquecimento; indicador de nível de água; compatível com lava-louças; lâmpada piloto"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,9 x 18,3 x 24,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf650-1-2-litro",
+		"name": "Oster OCAF650 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema antigotejamento para servir sem pingar",
+			"Marcador de nível de água para acompanhar o preparo",
+			"Filtro lavável e porta-filtro inclusos",
+			"Função manter aquecido com base aquecedora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "marcador de nível de água; sistema antigotejamento; função manter aquecido; base aquecedora; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro; filtro lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,6 x 15,3 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf600-1-2-litro",
+		"name": "Oster OCAF600 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material em inox e vidro",
+			"Função manter aquecido para o café seguir quente",
+			"Sistema antigotejamento e marcador de nível de água",
+			"Filtro removível e lavável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "inox e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido; sistema antigotejamento; marcador de nível de água"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro removível lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 15 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,58kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecm20-1-2-litro",
+		"name": "Electrolux ECM20 1,2 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botão liga/desliga com luz indicadora de funcionamento",
+			"Base de aquecimento e função manter aquecido",
+			"Sistema corta-pingos e indicador do nível de água",
+			"Filtro permanente removível e peso de 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "base de aquecimento; botão Liga/desliga com luz indicadora de funcionamento; sistema corta-pingos; indicador do nível de água; função manter aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 16,8 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcf40b-1-6-litro",
+		"name": "Philco PCF40B 1,6 litro",
+		"image": "/images/posts/melhor-cafeteira-para-30-xicaras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programa o preparo do café em até 24 horas antes",
+			"Função aroma e porta-filtro removível",
+			"Reservatório de 1,6 litro com graduação",
+			"Corpo em aço inox com placa de aquecimento",
+			"Potência de 1000W, a maior da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel com display digital; relógio integrado; programa o preparo do café em até 24h de antecedência; função aroma; reservatório de água com graduação; placa de aquecimento; sistema corta-pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro permanente removível; porta filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 24,7 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,02kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,353 @@
+[
+	{
+		"id": "fame-granducha-jato-forte",
+		"name": "Fame Granducha Jato Forte",
+		"image": "/images/posts/melhor-chuveiro-fame-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão mínima de 13kPa e máxima de 400kPa",
+			"Regulagem gradual da temperatura",
+			"Compatível com DR e sistema solar",
+			"Grau de proteção IP24",
+			"Potência de 7000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V), 7000W (220V) ou 4400W (220V – versão blindada)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "13kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-intense",
+		"name": "Fame Intense",
+		"image": "/images/posts/melhor-chuveiro-fame-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7800W em 220V",
+			"Pressão mínima de 10kPa",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual da temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V), 6500W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-super-ducha-quattro",
+		"name": "Fame Super Ducha Quattro",
+		"image": "/images/posts/melhor-chuveiro-fame-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro níveis de temperatura",
+			"Controle multitemperaturas",
+			"Potência de 6800W em 220V",
+			"Compatível com DR e sistema solar",
+			"Pressão mínima de 10kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V) ou 6800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "multitemperaturas"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-super-ducha",
+		"name": "Fame Super Ducha",
+		"image": "/images/posts/melhor-chuveiro-fame-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 4400W em 220V",
+			"Pressão mínima de 13kPa",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual da temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "4400W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "13kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fame-evidence",
+		"name": "Fame Evidence",
+		"image": "/images/posts/melhor-chuveiro-fame-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 6800W em 220V e 5400W em 127V",
+			"Pressão mínima de 13kPa",
+			"Compatível com DR e sistema solar",
+			"Regulagem gradual da temperatura",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V), 6800W (220V) ou 4400W (220V – versão blindada)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "13kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-faminho-4t",
+		"name": "Fame Faminho 4T",
+		"image": "/images/posts/melhor-chuveiro-fame-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro níveis de temperatura",
+			"Controle multitemperaturas",
+			"Potência de 6800W em 220V",
+			"Pressão mínima de 10kPa",
+			"Compatível com DR e sistema solar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "4400W (127V), 5400W (127V), 4400W (220V) ou 6800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Níveis de temperatura",
+				"value": "4"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "multitemperaturas"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fame-compacta",
+		"name": "Fame Compacta",
+		"image": "/images/posts/melhor-chuveiro-fame-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7800W em 220V",
+			"Pressão mínima de 10kPa",
+			"Regulagem gradual da temperatura",
+			"Compatível com DR e sistema solar",
+			"Grau de proteção IP24"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "5400W (127V), 6500W (220V) ou 7800W (220V)"
+			},
+			{
+				"label": "Compatível com DR",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima da água",
+				"value": "10kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Tipo de controle",
+				"value": "regulagem gradual"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Compatível com sistema solar",
+				"value": "sim"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

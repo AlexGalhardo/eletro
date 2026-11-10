@@ -1,0 +1,383 @@
+[
+	{
+		"id": "arno-espresso-steam-e-pump-opio-soleil-marfim-scsp-expresso",
+		"name": "Arno Espresso Steam e Pump Opio Soleil Marfim SCSP (expresso)",
+		"image": "/images/posts/melhor-cafeteira-arno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara 2 xícaras ao mesmo tempo",
+			"Bomba com 15bar de pressão e bico vaporizador",
+			"Aquecimento de xícaras integrado e colher medidora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2L (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "preparo de 2 xícaras ao mesmo tempo; bomba com 15bar de pressão; bico vaporizador; aquecimento de xícaras integrado"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta filtro (simples e duplo); colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,6 x 24,6 x 34,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-nescafe-dolce-gusto-genio-s-basic-dgs1-capsula",
+		"name": "Arno Nescafé Dolce Gusto Genio S Basic DGS1 (cápsula)",
+		"image": "/images/posts/melhor-cafeteira-arno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de até 15bar com bebidas quentes e frias",
+			"Função XL e alerta de limpeza por LED",
+			"Compatível com mais de 50 sabores de cápsulas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W (127V) / 1340W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão até 15bar; duas temperaturas (serve bebidas quentes e frias); função XL; desligamento automático; alerta de limpeza via LED; compatível com mais de 50 sabores de cápsulas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja coletora com grelha; ferramenta de enxágue; agulha de limpeza; reservatório removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,2 x 11 x 27,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-dolce-gusto-mini-me-capsula",
+		"name": "Arno Dolce Gusto Mini Me (cápsula)",
+		"image": "/images/posts/melhor-cafeteira-arno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de nível de água e extração automática",
+			"Modo Eco com desligamento automático",
+			"Acompanha jarra de vidro e bandeja removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "cápsula; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1340W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "automático"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "seletor de nível de água; 15bar de pressão; extração automática; modo Eco (desligamento automático); prepara bebidas quentes ou frias"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; bandeja removível; reservatório removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,2 x 31,6 x 19,6cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-soleil-marfim-sfcm-1-25l-eletrica",
+		"name": "Arno Soleil Marfim SFCM 1,25L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-arno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável e desligamento automático",
+			"Reservatório com visor lateral e sistema corta pingos",
+			"Inclui jarra de vidro e suporte de filtro removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,25L (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, metal e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável; reservatório com visor lateral; desligamento automático; sistema corta pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; suporte de filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,5 x 22,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-preferita-cfpf-750ml-eletrica",
+		"name": "Arno Preferita CFPF 750mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-arno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Placa de aquecimento e sistema corta pingos",
+			"Filtro permanente removível e porta-filtro",
+			"Reservatório com visor lateral e potência de 550W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750ml (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, metal e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "placa de aquecimento; reservatório com visor lateral; sistema corta pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível; porta-filtro; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 21,8 x 16,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-perfectta-inox-cfpi-600ml-eletrica",
+		"name": "Arno Perfectta Inox CFPI 600mL (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-arno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 1kg, a mais leve da lista",
+			"Placa de aquecimento e reservatório com visor lateral",
+			"Inclui jarra de vidro e filtro removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "650W (127V) / 600W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, metal e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "placa de aquecimento; reservatório com visor lateral; sistema corta pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível; colher medidora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 15 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "arno-new-element-inox-cfne-1-8l-eletrica",
+		"name": "Arno New Element Inox CFNE 1,8L (elétrica)",
+		"image": "/images/posts/melhor-cafeteira-arno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tubo misturador Flavormix e ajuste da intensidade do café",
+			"Timer integrado de até 24 horas",
+			"Conservação de calor por mais tempo e placa de aquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,8L (água)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, metal e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tubo misturador Flavormix; ativação automática; conservação de calor por mais tempo; ajuste da intensidade do café; timer integrado de até 24h; placa de aquecimento; sistema corta pingos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; colher medidora; suporte de filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 21 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

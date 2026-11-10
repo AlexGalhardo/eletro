@@ -1,0 +1,171 @@
+[
+	{
+		"id": "bosch-proclick",
+		"name": "Bosch Proclick",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Feito em poliéster, material principal do conjunto",
+			"Duas bolsas, a maior com 29 x 21 x 15cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "poliéster"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 21 x 15cm (bolsa 1) / 24 x 20 x 15cm (bolsa 2)"
+			}
+		]
+	},
+	{
+		"id": "stanley-stst511304",
+		"name": "Stanley STST511304",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Feito em tecido Denier 600×600"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "tecido Denier 600×600"
+			}
+		]
+	},
+	{
+		"id": "cinto-profissional-26-bolsos",
+		"name": "Cinto Profissional 26 Bolsos",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"26 bolsos para separar ferramentas e acessórios",
+			"Construído em nylon, plástico e oxford"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compartimentos",
+				"value": "26 bolsos"
+			},
+			{
+				"label": "Material",
+				"value": "nylon, plástico e oxford de alta qualidade"
+			}
+		]
+	},
+	{
+		"id": "vonder-cm012",
+		"name": "Vonder CM012",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"18 divisões e 3 compartimentos múltiplos para ferramentas variadas",
+			"Alça metálica para prender o martelo",
+			"Cinto de nylon com compartimentos em lona reforçada, com 750g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compartimentos",
+				"value": "18 divisões, 3 compartimentos múltiplos, alça metálica para martelo"
+			},
+			{
+				"label": "Material",
+				"value": "cinto de nylon com compartimentos em lona reforçada"
+			},
+			{
+				"label": "Peso",
+				"value": "750g"
+			}
+		]
+	},
+	{
+		"id": "eda-arriata-cartucheira",
+		"name": "Eda Arriata Cartucheira",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"11 bolsos e porta trena metálico",
+			"Construída em couro e nylon",
+			"Pesa 270g, o mais leve entre os que informam peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compartimentos",
+				"value": "11 bolsos, porta trena metálico"
+			},
+			{
+				"label": "Material",
+				"value": "couro e nylon"
+			},
+			{
+				"label": "Peso",
+				"value": "270g"
+			}
+		]
+	},
+	{
+		"id": "b-tek-bt-399",
+		"name": "B-Tek BT-399",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"7 suportes para ferramentas e 1 bolso com fecho em velcro",
+			"Mede 31 x 46 x 26cm",
+			"Construído em cotton e poliéster"
+		],
+		"technicalDetails": [
+			{
+				"label": "Compartimentos",
+				"value": "7 suportes para ferramentas, 1 bolso com fecho em velcro"
+			},
+			{
+				"label": "Material",
+				"value": "cotton e poliéster"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 46 x26cm"
+			}
+		]
+	},
+	{
+		"id": "tramontina-pro-44952-420",
+		"name": "Tramontina Pro 44952/420",
+		"image": "/images/posts/melhor-cinto-de-ferramentas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Construído em nylon como material principal",
+			"Mede 23 x 27,5 x 24,5cm",
+			"Pesa 320g, menos que os 750g do Vonder CM012"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "nylon"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 27,5 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "320g"
+			}
+		]
+	}
+]

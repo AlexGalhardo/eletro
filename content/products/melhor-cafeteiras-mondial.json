@@ -1,0 +1,394 @@
+[
+	{
+		"id": "mondial-c-28-ecl-espresso",
+		"name": "Mondial C-28-ECL (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20 bar para espresso e cápsula",
+			"Painel touch com 7 bebidas e opção manual",
+			"Reservatório de leite de 700ml para preparar bebidas com leite",
+			"Função de limpeza automática e reservatórios removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso; multibebidas"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 litro (água); 700ml (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W (127V); 1350W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "20 bar de pressão; porta-filtro com duas saídas; painel touch com 7 bebidas + opção manual de personalização; função limpeza automática; reservatórios removíveis; suporte aquecido para xícaras; bandeja antirrespingo; pés com ventosa; compatibilidade com cápsulas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro com duas saídas; filtros para café curto e longo; colher dosadora com socador; reservatório de leite de 700ml"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 29 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-20-ec-espresso",
+		"name": "Mondial C-20-EC (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 20 bar com porta-filtro de duas saídas",
+			"Bico vaporizador para espuma de leite",
+			"Adaptador para cápsulas Nespresso e Dolce Gusto",
+			"Painel LED e bandeja antirrespingo removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico com acabamento em aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 20 bar; porta-filtro com duas saídas; bico vaporizador para espuma de leite; suporte aquecido para xícaras; painel LED; bandeja antirrespingo removível; compatível com adaptador para cápsulas Nespresso e Dolce Gusto; pés antiderrapantes com ventosa"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro com duas saídas; colher dosadora com socador; filtro para pó"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,8 x 30,6 x 15,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-44-32x-sdi-eletrica",
+		"name": "Mondial C-44-32X-SDI (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Programação de até 24 horas para o café ficar pronto",
+			"Função manter aquecido e base aquecida",
+			"Sistema corta-pingos para servir sem gotejar",
+			"Jarra de vidro e filtro permanente incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; função programável até 24h; função manter aquecido; indicador de nível de água; tampa basculante; base aquecida; painel digital com relógio; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 17,5 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-30-18x-fb-eletrica",
+		"name": "Mondial C-30-18X-FB (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema corta-pingos e base aquecida",
+			"Indicador de nível de água na jarra",
+			"Filtro permanente e porta-filtro removível",
+			"Jarra de vidro com colher dosadora inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600ml"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; base aquecida; indicador de nível de água; tampa basculante; liga/desliga luminoso"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; colher dosadora; filtro permanente e porta-filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 23 x 16,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "950g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-43-20x-si-eletrica",
+		"name": "Mondial C-43-20X-SI (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função Manter Aquecido na base aquecedora",
+			"Capacidade de 800ml com jarra de vidro",
+			"Sistema corta-pingos e tampa basculante",
+			"Luz indicadora de funcionamento e filtro permanente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "800ml"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema corta-pingos; base aquecedora (função Manter Aquecido); indicador de nível de água; tampa basculante; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente; porta-filtro removível; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 15 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-08-espresso",
+		"name": "Mondial C-08 (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de água de 2 litros removível",
+			"Cachimbo com duas saídas para dois cafés simultâneos",
+			"Pressão de 15 bar com válvula e bico vaporizador",
+			"Bandeja de resíduos removível para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "830W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso ou sachê"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "pressão de 15 bar; cachimbo com duas saídas (até 2 cafés de 120ml simultâneos); válvula e bico vaporizador; reservatório de água removível de 2 litros; bandeja de resíduos removível; indicador luminoso de funcionamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "colher medidora com socador; filtro para pó ou sachê"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 26 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-c-42-2x-bi-eletrica",
+		"name": "Mondial C-42-2X-BI (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Prepara dois cafés ao mesmo tempo",
+			"Filtro permanente com porta-filtro removível",
+			"Bandeja antiderrapante removível",
+			"Acompanha duas xícaras de porcelana e colher dosadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "240ml (2 xícaras de 120ml)"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador ou sachê"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "prepara 2 cafés simultaneamente; filtro permanente com porta-filtro removível; tampa basculante; bandeja antiderrapante removível; botão liga/desliga luminoso"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 xícaras de porcelana; 1 colher dosadora; filtro permanente"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 17,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "750g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

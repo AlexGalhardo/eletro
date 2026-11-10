@@ -1,0 +1,398 @@
+[
+	{
+		"id": "oster-perfect-brew-maxima-espresso",
+		"name": "Oster Perfect Brew Máxima (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-oster-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 2,8 litros com bomba italiana de 15bar",
+			"Moedor cônico com 30 níveis de moagem",
+			"Visor LED com timer e informações de preparo",
+			"Porta-filtro profissional de 58mm",
+			"Jarra de leite em inox e termômetro de leite"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox e alumínio, com detalhes em plástico reforçado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema Thermoblock duplo; bomba italiana de 15bar; moedor cônico com 30 níveis de moagem e dosagem automática; visor LED com timer e informações de preparo; tecnologia antiestática; pré-infusão com 3 modos; tubo vaporizador em aço inox; porta-filtro profissional de 58mm; filtros simples e pressurizados; porta-filtro duplo para preparar duas xícaras simultaneamente; controle digital de dosagem"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 filtros simples; 2 filtros pressurizados; jarra de leite em inox; termômetro de leite; compactador metálico; pino de limpeza; disco de silicone; escova de limpeza"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41,7 x 31 x 34,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-primalatte-touch-espresso",
+		"name": "Oster PrimaLatte Touch (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-oster-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch com bomba italiana de 19bar",
+			"Preparo de latte e cappuccino com personalização de bebidas",
+			"Função 2x mais creme",
+			"Limpeza automática dos tanques",
+			"Adaptador para cápsulas Nespresso incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V); 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, sachê ou cápsula"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch; bomba italiana de 19bar; preparo com pó/sachê/cápsula; função 2x mais creme; limpeza automática dos tanques; preparo de latte e cappuccino; personalização de bebidas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "reservatório para água ou leite; porta-cápsulas compatível com Nespresso; porta-filtro para café moído; colher medidora; adaptador para cápsulas Nespresso"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 21,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf650-eletrica",
+		"name": "Oster OCAF650 (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-oster-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,2 litros com função manter aquecido",
+			"Sistema antigotejamento",
+			"Jarra de inox e filtro lavável",
+			"Potência de 750W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coador"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função manter aquecido; sistema antigotejamento"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de inox; porta-filtro; filtro lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,6 x 15,3 x 25,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-nova-primalatte-inox-espresso",
+		"name": "Oster Nova PrimaLatte Inox (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-oster-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bomba italiana de 19bar com painel de 3 botões",
+			"Compatível com cápsulas Nespresso, pó e sachê",
+			"Base regulável para copos e xícaras",
+			"Reservatórios removíveis de água e leite",
+			"Função de autolimpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multibebidas; cápsula; espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,6 litro (água); 450ml (leite)"
+			},
+			{
+				"label": "Potência",
+				"value": "1170W (127V); 1050W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso, cápsula ou sachê"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 19bar de pressão; painel com 3 botões de preparo rápido; função de autolimpeza; compatibilidade com cápsulas Nespresso, pó e sachê; base regulável para copos e xícaras; reservatórios removíveis de água e leite"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro para cápsulas Nespresso; filtros para cafés curto e longo; reservatórios de água e leite; colher dosadora"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 22 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-flavor-eletrica",
+		"name": "Oster Flavor (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-oster-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer programável com até 24 horas",
+			"Seletor de intensidade do café",
+			"Filtro permanente, removível e lavável",
+			"Base aquecedora e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,5 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 900W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox escovado"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "timer programável com até 24h; seletor de intensidade do café; função Tempo de Preparo; base aquecedora; filtro permanente, removível e lavável; função limpeza automática; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro permanente removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 22 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,41kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ocaf300-eletrica",
+		"name": "Oster OCAF300 (elétrica)",
+		"image": "/images/posts/melhor-cafeteiras-oster-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 750mL com jarra de vidro",
+			"Função Manter Aquecido",
+			"Filtro removível incluso",
+			"Potência de 600W e peso de 1,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "750ml"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Material",
+				"value": "plástico, aço inox escovado e vidro"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "coado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Manter Aquecido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "jarra de vidro; filtro removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25 x 14 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-xpert-perfect-brew-espresso",
+		"name": "Oster Xpert Perfect Brew (espresso)",
+		"image": "/images/posts/melhor-cafeteiras-oster-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório removível de 2,8 litros",
+			"Moedor integrado com 30 níveis de moagem",
+			"Pré-infusor de água e bomba italiana de 15bar",
+			"Porta-filtro duplo para até 2 xícaras por vez",
+			"Jarra espumadora de leite inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "espresso"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W (127V); 1380W (220V)"
+			},
+			{
+				"label": "Material",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Modo de preparo",
+				"value": "espresso"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "bomba italiana de 15bar de pressão; moedor integrado com 30 níveis de moagem; tecnologia Thermoblock; pré-infusor de água; reservatório removível de 2,8L; porta-filtro duplo para o preparo de até 2 xícaras por vez; controle manual de intensidade; jarra espumadora de leite"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "porta-filtro; prensador; jarra para leite; 2 filtros simples e 2 duplos (curto e longo); escova e itens de limpeza"
+			},
+			{
+				"label": "Dimensões (A × L × P)",
+				"value": "44 x 36,6 x 39,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

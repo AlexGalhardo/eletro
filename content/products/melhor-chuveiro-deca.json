@@ -1,0 +1,220 @@
+[
+	{
+		"id": "deca-1965-c",
+		"name": "Deca 1965.C",
+		"image": "/images/posts/melhor-chuveiro-deca-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Desviador para trocar o modo de uso",
+			"Opera com pressão de 40 a 400kPa",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "40kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desviador"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1990-c-std-kit",
+		"name": "Deca 1990.C.STD.KIT",
+		"image": "/images/posts/melhor-chuveiro-deca-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Desviador incluído no modelo",
+			"Crivo articulável para direcionar a água",
+			"Sistema autolimpante para manter o crivo limpo",
+			"Compatível com baixa e alta pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "60kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desviador; crivo articulável; sistema autolimpante; compatível com baixa e alta pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1990-c-std",
+		"name": "Deca 1990.C.STD",
+		"image": "/images/posts/melhor-chuveiro-deca-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema autolimpante para o crivo",
+			"Compatível com baixa e alta pressão",
+			"Opera entre 20 e 400kPa de pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema autolimpante; compatível com baixa e alta pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1975-c",
+		"name": "Deca 1975.C",
+		"image": "/images/posts/melhor-chuveiro-deca-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Crivos salientes para facilitar a limpeza",
+			"Mangueira flexível para facilitar o uso",
+			"Desviador e compatibilidade com baixa e alta pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desviador; crivos salientes para fácil limpeza; compatível com baixa e alta pressão; mangueira flexível"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1977-c-ct",
+		"name": "Deca 1977.C.CT",
+		"image": "/images/posts/melhor-chuveiro-deca-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Crivos salientes para fácil limpeza",
+			"Desviador para trocar o modo de uso",
+			"Compatível com baixa e alta pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desviador; crivos salientes para fácil limpeza; compatível com baixa e alta pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1990-c-ct",
+		"name": "Deca 1990.C.CT",
+		"image": "/images/posts/melhor-chuveiro-deca-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Crivo articulável para direcionar a água",
+			"Sistema autolimpante para o crivo",
+			"Compatível com baixa e alta pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "crivo articulável; sistema autolimpante; compatível com baixa e alta pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "deca-1990-c-tet",
+		"name": "Deca 1990.C.TET",
+		"image": "/images/posts/melhor-chuveiro-deca-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Crivo articulável para direcionar a água",
+			"Autolimpante, com pressão de 20 a 400kPa",
+			"Funciona com baixa e alta pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Pressão mínima da água",
+				"value": "20kPa"
+			},
+			{
+				"label": "Pressão máxima da água",
+				"value": "400kPa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "crivo articulável; sistema autolimpante; compatível com baixa e alta pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
