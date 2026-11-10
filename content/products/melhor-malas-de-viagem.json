@@ -1,0 +1,440 @@
+[
+	{
+		"id": "samsonite-versalite-dlx",
+		"name": "Samsonite Versalite DLX",
+		"image": "/images/posts/melhor-malas-de-viagem-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Expansível com 40 litros de capacidade",
+			"Quatro rodas com giro de 360° e alça retrátil",
+			"Cadeado com trava TSA e dois bolsos externos",
+			"Peso de 2,21kg para carregar com menos esforço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "bordo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54 x 32 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,21kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Material",
+				"value": "poliéster"
+			},
+			{
+				"label": "Cadeado",
+				"value": "com trava TSA"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superiores"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "2"
+			},
+			{
+				"label": "Expansível",
+				"value": "sim"
+			},
+			{
+				"label": "Impermeável",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "sestini-waves-20",
+		"name": "Sestini Waves 20",
+		"image": "/images/posts/melhor-malas-de-viagem-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"47 litros de capacidade e estrutura expansível",
+			"Alças laterais e superior emborrachadas",
+			"Cadeado fixo com segredo integrado",
+			"Impermeabilidade parcial e rodas com giro de 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "bordo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "47 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "fixo com segredo integrado"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "laterais e superior com revestimento emborrachado"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Expansível",
+				"value": "sim"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "fortt-mab01-vr",
+		"name": "Fortt MAB01-VR",
+		"image": "/images/posts/melhor-malas-de-viagem-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 3kg e dimensões de 55 x 35 x 22cm",
+			"Trava TSA e quatro rodas com giro de 360°",
+			"Alça retrátil com alças superior e lateral"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "bordo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "com trava TSA"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior e lateral"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "silent-noronha",
+		"name": "Silent Noronha",
+		"image": "/images/posts/melhor-malas-de-viagem-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro rodas duplas com giro de 360°",
+			"Cadeado numérico embutido na estrutura",
+			"Medidas de 53 x 24 x 35cm e peso de 2,79kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "média"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 24 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,79kg"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "númerico embutido"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 rodas duplas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "alça superior e lateral"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "fx1-essenza",
+		"name": "FX1 Essenza",
+		"image": "/images/posts/melhor-malas-de-viagem-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 2,2kg, o mais leve desta lista",
+			"Material de 70% nylon e 30% PVC",
+			"Alça retrátil e alça superior de plástico",
+			"Duas rodinhas de plástico na base"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "média"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 23 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Material",
+				"value": "70% nylon e 30% PVC"
+			},
+			{
+				"label": "Cadeado",
+				"value": "não possui"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 rodinhas em plástico"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "alça superior em plástico"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "sestini-classy-28",
+		"name": "Sestini Classy 28",
+		"image": "/images/posts/melhor-malas-de-viagem-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tamanho grande com 93 litros de capacidade",
+			"Cadeado fixo com segredo e quatro rodas com giro de 360°",
+			"Alça superior emborrachada para carregar",
+			"Medidas de 75 x 49 x 29cm e peso de 3,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "grande"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "75 x 49 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,9kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "93 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "cadeado fixo com segredo"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 rodas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior emborrachada"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "sestini-classy-20",
+		"name": "Sestini Classy 20",
+		"image": "/images/posts/melhor-malas-de-viagem-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"38 litros de capacidade no tamanho bordo",
+			"Cadeado fixo com segredo",
+			"Alça de mão emborrachada e quatro rodas com giro de 360°",
+			"Peso de 2,5kg e material em ABS"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tamanho",
+				"value": "bordo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 33 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "38 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "fixo com segredo"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 rodas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "alça de mão emborrachada"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	}
+]

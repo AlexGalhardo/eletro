@@ -1,0 +1,336 @@
+[
+	{
+		"id": "hafundy-td-00a",
+		"name": "HaFundy TD-00A",
+		"image": "/images/posts/melhor-luminaria-de-mesa-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"LED integrado com 3 tonalidades: quente, neutra e fria",
+			"Controle de intensidade",
+			"Alimentação por cabo USB",
+			"Braço articulável para direcionar a luz",
+			"Fixação com garra lateral em ABS e metal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fixação com garra lateral"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "LED integrado"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "3 tonalidades (quente, neutra e fria)"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "cabo USB"
+			},
+			{
+				"label": "Material",
+				"value": "ABS + metal"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "até 73cm"
+			}
+		]
+	},
+	{
+		"id": "marx-greg-3d",
+		"name": "Marx Greg 3D",
+		"image": "/images/posts/melhor-luminaria-de-mesa-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base de apoio sobre a mesa em plástico",
+			"Lâmpada LED E27 com alimentação bivolt",
+			"Braço articulável para ajustar a luz",
+			"Altura de 51 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "base para apoio sobre a mesa"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "lâmpada LED E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "51cm"
+			}
+		]
+	},
+	{
+		"id": "goremi-coba",
+		"name": "GOREMI Coba",
+		"image": "/images/posts/melhor-luminaria-de-mesa-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abajur de mesa retrátil em plástico",
+			"LED integrado com 3 opções: baixa, média e alta",
+			"Controle de intensidade e bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "abajur de mesa retrátil"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "LED integrado"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "3 tonalidades (baixa, média e alta)"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Articulação",
+				"value": "sem braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "31cm"
+			}
+		]
+	},
+	{
+		"id": "luminatti-by-danuri-viking",
+		"name": "Luminatti By Danuri VIKING",
+		"image": "/images/posts/melhor-luminaria-de-mesa-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base de apoio com lâmpada E27",
+			"Estrutura de aço com braço flexível",
+			"Alimentação bivolt",
+			"Altura de 21 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "base para apoio sobre a mesa"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "lâmpada com soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "aço"
+			},
+			{
+				"label": "Articulação",
+				"value": "braço flexível"
+			},
+			{
+				"label": "Altura",
+				"value": "21cm"
+			}
+		]
+	},
+	{
+		"id": "auxmir-m4",
+		"name": "Auxmir M4",
+		"image": "/images/posts/melhor-luminaria-de-mesa-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"LED integrado com 4 modos: flash, estroboscópio, fade e luz constante",
+			"Controle de intensidade e bateria recarregável",
+			"Base de ABS com 15,2 cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "base para apoio sobre a mesa"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "LED integrado"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "4 tonalidades (flash, estroboscópio, fade e luz constante)"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Articulação",
+				"value": "sem braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "15,2cm"
+			}
+		]
+	},
+	{
+		"id": "luminatti-by-danuri-lm1244",
+		"name": "Luminatti By Danuri LM1244",
+		"image": "/images/posts/melhor-luminaria-de-mesa-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base de metal com braço articulável",
+			"Altura de 66 cm",
+			"Lâmpada com soquete E27 e alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "base para apoio sobre a mesa"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "lâmpada com soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "66cm"
+			}
+		]
+	},
+	{
+		"id": "techled-0001",
+		"name": "TECHLED 0001",
+		"image": "/images/posts/melhor-luminaria-de-mesa-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fixação com garra lateral e base para uso sobre a mesa",
+			"LED integrado com 3 tonalidades: quente, natural e fria",
+			"Controle de intensidade e braço articulável",
+			"Altura de 65 cm e alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "fixação com garra lateral e base para uso sobre a mesa"
+			},
+			{
+				"label": "Fonte de luz",
+				"value": "LED integrado"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "3 tonalidades (quente, natural e fria)"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "65cm"
+			}
+		]
+	}
+]

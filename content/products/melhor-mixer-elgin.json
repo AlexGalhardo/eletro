@@ -1,0 +1,250 @@
+[
+	{
+		"id": "elgin-master-mix-5-em-1-1000w",
+		"name": "Elgin Master Mix 5 em 1 1000W",
+		"image": "/images/posts/melhor-mixer-elgin-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco funções em um aparelho de 1000W",
+			"Processador de 2,2 litros e fouet inclusos",
+			"Fatiador e dois raladores para preparar mais receitas",
+			"Cinco níveis de velocidade e função turbo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "5 em 1 (mixer, processador, batedor de claras, ralador e fatiador)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "5 níveis + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo de 800mL com tampa; processador com 2,2 litros; fouet; fatiador; empurrador; 2 raladores"
+			},
+			{
+				"label": "Peso",
+				"value": "1,64kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41 x 6,5 x 6,5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-power-inox-3-em-1-1000w",
+		"name": "Elgin Power Inox 3 em 1 1000W",
+		"image": "/images/posts/melhor-mixer-elgin-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com controle variável",
+			"Função turbo para ingredientes mais firmes",
+			"Copo de 800mL com tampa e processador de 400mL",
+			"Lâminas e corpo em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, processador e fouet)"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "controle variável + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo de 800mL com tampa; processador com 400mL; fouet"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,5 x 8,5 x 8,5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-power-inox-lunar-3-em-1-600w",
+		"name": "Elgin Power Inox Lunar 3 em 1 600W",
+		"image": "/images/posts/melhor-mixer-elgin-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W com dois níveis de velocidade",
+			"Copo dosador de 700mL e processador de 400mL",
+			"Fouet para claras e cremes",
+			"Lâminas em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, miniprocessador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador de 700mL; fouet; processador de 400mL"
+			},
+			{
+				"label": "Peso",
+				"value": "1,25kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 8 x 8cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-turbo-chef-3-em-1-200w",
+		"name": "Elgin Turbo Chef 3 em 1 200W",
+		"image": "/images/posts/melhor-mixer-elgin-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 200W para tarefas leves",
+			"Processador de 300mL e fouet inclusos",
+			"Peso de 1kg e formato de 35 x 5 x 5cm",
+			"Copo dosador de 700mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, miniprocessador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador de 700mL; fouet; processador de 300mL"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 5 x 5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-mix1002-2-em-1-200w",
+		"name": "Elgin MIX1002 2 em 1 200W",
+		"image": "/images/posts/melhor-mixer-elgin-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com ou sem copo",
+			"Peso de 0,5kg, o mais leve da lista",
+			"Copo dosador de 700mL incluso",
+			"Lâminas em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "2 em 1 (com ou sem copo)"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador de 700mL"
+			},
+			{
+				"label": "Peso",
+				"value": "0,5kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 5 x 5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

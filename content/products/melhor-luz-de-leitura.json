@@ -1,0 +1,276 @@
+[
+	{
+		"id": "manetta-luz-de-pescoco",
+		"name": "Manetta luz de pescoço",
+		"image": "/images/posts/melhor-luz-de-leitura-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 80 horas com recarga USB-C",
+			"Três níveis de brilho para ajustar a luz",
+			"Uso direto no pescoço com haste flexível",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis de brilho"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via cabo USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 80 horas"
+			},
+			{
+				"label": "Fixação",
+				"value": "uso direto no pescoço"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste flexível"
+			}
+		]
+	},
+	{
+		"id": "cliplamp-portatil",
+		"name": "ClipLamp Portátil",
+		"image": "/images/posts/melhor-luz-de-leitura-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Clipe com proteção antiderrapante para fixar",
+			"Haste flexível com três níveis de brilho",
+			"Recarga por cabo USB-C",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis de brilho"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via cabo USB-C"
+			},
+			{
+				"label": "Autonomia",
+				"value": "não especificada"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe com proteção antiderrapante"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste flexível"
+			}
+		]
+	},
+	{
+		"id": "pearpot-nhw3e001",
+		"name": "Pearpot NHW3E001",
+		"image": "/images/posts/melhor-luz-de-leitura-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 3 horas com três níveis de brilho",
+			"Clipe e haste ajustável para direcionar a luz",
+			"Recarga por cabo USB-A",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis de brilho"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via cabo USB-A"
+			},
+			{
+				"label": "Autonomia",
+				"value": "3 horas"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste ajustável"
+			}
+		]
+	},
+	{
+		"id": "luoled-bl101bk",
+		"name": "LUOLED BL101BK",
+		"image": "/images/posts/melhor-luz-de-leitura-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 80 horas com cinco níveis de brilho",
+			"Recarga por USB-A",
+			"Clipe e haste ajustável",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "5 níveis de brilho"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via USB-A"
+			},
+			{
+				"label": "Autonomia",
+				"value": "80 horas"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste ajustável"
+			}
+		]
+	},
+	{
+		"id": "tavian-mini-clip-abajur",
+		"name": "Tavian Mini Clip Abajur",
+		"image": "/images/posts/melhor-luz-de-leitura-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 1 hora e 10 minutos com bateria AG3",
+			"Clipe e haste flexível",
+			"Iluminação em LED compacta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "não ajustável"
+			},
+			{
+				"label": "Bateria",
+				"value": "botão AG3"
+			},
+			{
+				"label": "Autonomia",
+				"value": "1 hora e 10 minutos"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste flexível"
+			}
+		]
+	},
+	{
+		"id": "noxs01-clipe9",
+		"name": "NOXS01 Clipe9",
+		"image": "/images/posts/melhor-luz-de-leitura-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga por cabo USB-C",
+			"Clipe ajustável e haste flexível",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "não ajustável"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via USB-C"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe ajustável"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste flexível"
+			}
+		]
+	},
+	{
+		"id": "baseus-dgrad-0g",
+		"name": "Baseus DGRAD-0G",
+		"image": "/images/posts/melhor-luz-de-leitura-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 24 horas com três níveis de brilho",
+			"Clipe com almofada de borracha",
+			"Haste flexível e recarga por micro-USB",
+			"Iluminação em LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis de brilho"
+			},
+			{
+				"label": "Bateria",
+				"value": "recarregável via micro-USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Fixação",
+				"value": "clipe com almofada de borracha"
+			},
+			{
+				"label": "Articulação",
+				"value": "haste flexível"
+			}
+		]
+	}
+]

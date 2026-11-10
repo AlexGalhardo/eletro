@@ -1,0 +1,402 @@
+[
+	{
+		"id": "dreame-h60-gt",
+		"name": "Dreame H60 GT",
+		"image": "/images/posts/melhor-limpadora-de-pisos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira resíduos secos e molhados",
+			"Recolhe a água suja por sucção",
+			"Autonomia de até 35 minutos no modo Eco",
+			"Bateria recarregável com base de carregamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "aspira resíduos secos e molhados, esfrega e recolhe a água suja por sucção"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos duros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável (6 células de 2500mAh)"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 35 minutos (Eco); 25 minutos (Standard)"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "não especificado (pó); 780mL (água limpa); 700mL (água suja na vertical) ou 450mL (água suja na horizontal)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "base de carregamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "arno-x-clean-4-lxc4",
+		"name": "Arno X-CLEAN 4 LXC4",
+		"image": "/images/posts/melhor-limpadora-de-pisos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de velocidade e bivolt",
+			"Autonomia de até 50 minutos",
+			"Rolo de limpeza adicional e escova lateral",
+			"Reservatório de 730mL de água limpa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "aspira sujeiras secas e líquidas, lava e recolhe a água suja por sucção"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos duros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 50 minutos"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "730mL (água limpa); 440mL (água suja)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "rolo de limpeza adicional; escova lateral; filtro seco; filtro de espuma; base de carregamento; escova de limpeza com filtro; carregador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "118 x 31,5 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,4kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-experience-multiclean-emc2500",
+		"name": "Electrolux Experience MultiClean EMC2500",
+		"image": "/images/posts/melhor-limpadora-de-pisos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Passa pano com MOP seco ou úmido",
+			"Filtro HEPA e rolo rotativo",
+			"Indicada para porcelanato e pisos laminados",
+			"Bivolt e autonomia de até 40 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "aspira sujeiras secas e líquidas e passa pano com MOP seco ou úmido"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos frios, cerâmica, porcelanato, laminados e amadeirados"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria de íons de lítio"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 40 minutos"
+			},
+			{
+				"label": "Potência",
+				"value": "350W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "580mL (água limpa)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "rolo rotativo; filtro HEPA; escova de limpeza; base; carregador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "112 x 25 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-sc-2-premium",
+		"name": "Kärcher SC 2 Premium",
+		"image": "/images/posts/melhor-limpadora-de-pisos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Higieniza com vapor e remove sujeiras difíceis",
+			"Potência de 1500W com dois níveis",
+			"Bocal de piso, bocal de jato pontual e escova circular",
+			"Reservatório de 1 litro para vapor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "limpa, remove sujeiras difíceis e higieniza com vapor"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos, rejuntes, fogões, banheiros, estofados, sofás e cortinas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "cabo elétrico"
+			},
+			{
+				"label": "Autonomia",
+				"value": "—"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "1 litro (água para vapor)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "bocal de piso; pano de microfibra; bocal de jato pontual; escova circular; tubos prolongadores"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 25,4 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg (sem acessórios)"
+			}
+		]
+	},
+	{
+		"id": "vonder-multiuso-lmv-1400",
+		"name": "Vonder Multiuso LMV 1400",
+		"image": "/images/posts/melhor-limpadora-de-pisos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo elétrico de 6 metros",
+			"Rodo articulado e mangueira flexível",
+			"Bico limpa-vidros com pano de microfibra",
+			"Três níveis de velocidade e 1500W em 127V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "limpa, remove sujeiras e higieniza com vapor"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pedras, madeiras, metais, vidros, plásticos e tecidos"
+			},
+			{
+				"label": "Alimentação",
+				"value": "cabo elétrico (6 metros)"
+			},
+			{
+				"label": "Autonomia",
+				"value": "18 minutos (nível 1); 15 minutos (nível 2); 12 minutos (nível 3)"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 1400W (220V)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "440mL (água para vapor)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "cabo extensor; mangueira flexível; rodo articulado; pano de microfibra; bico limpa-vidros com pano; 3 escovas redondas de nylon; escova de latão; espátula; bico direcional; bico com escova de nylon reta"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "117 x 29 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,44kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-br-30-4",
+		"name": "Kärcher BR 30/4",
+		"image": "/images/posts/melhor-limpadora-de-pisos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo elétrico de 10 metros de alcance",
+			"Reservatórios de 4 litros para água limpa e suja",
+			"Rolo de cerdas vermelhas",
+			"Indicada para pisos rejuntados e resistentes à umidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "lava, esfrega e recolhe a água suja por sucção"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos planos, irregulares e rejuntados, resistentes à umidade"
+			},
+			{
+				"label": "Alimentação",
+				"value": "cabo elétrico (10 metros)"
+			},
+			{
+				"label": "Autonomia",
+				"value": "—"
+			},
+			{
+				"label": "Potência",
+				"value": "1180W"
+			},
+			{
+				"label": "Capacidade dos reservatórios",
+				"value": "4 litros (água limpa); 4 litros (água suja)"
+			},
+			{
+				"label": "Acessórios",
+				"value": "rolo de cerdas vermelhas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "118 x 33,5 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			}
+		]
+	},
+	{
+		"id": "arno-x-clean-7-lxc7",
+		"name": "Arno X-CLEAN 7 LXC7",
+		"image": "/images/posts/melhor-limpadora-de-pisos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira e lava pisos duros como madeira e laminado",
+			"Autonomia de até 50 minutos sem fio",
+			"Filtro seco e filtro de espuma",
+			"Rolo de limpeza adicional e base de carregamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Funções de limpeza",
+				"value": "aspira sujeiras secas e líquidas, lava e recolhe a água suja por sucção"
+			},
+			{
+				"label": "Superfícies indicadas",
+				"value": "pisos duros, como madeira, laminado, cerâmica e porcelanato"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 50 minutos"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Acessórios",
+				"value": "rolo de limpeza adicional; filtro seco; filtro de espuma; base de carregamento; escova de limpeza; carregador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "116 x 21 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6kg"
+			}
+		]
+	}
+]

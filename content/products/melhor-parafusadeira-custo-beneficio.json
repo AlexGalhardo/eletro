@@ -1,0 +1,390 @@
+[
+	{
+		"id": "wap-k21-id01-1400rpm",
+		"name": "WAP K21-ID01 1400RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque de 45Nm, o maior da lista",
+			"21 níveis de torque e seletor de função",
+			"Bateria de 2000mAh com maleta de transporte",
+			"Luz de LED e controle de velocidade eletrônico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "350RPM a 1400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "45Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "21V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "IPX0"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "21 níveis de torque; seletor de função para parafusar, perfurar e perfurar com impacto; luz de LED integrada; controle de velocidade eletrônico; empunhadura ergonômica emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 bateria de 2000mAh; 1 carregador de 400mA; maleta de transporte; clip para cinto"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "23,3 x 7,5 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "wap-bpfi-12k4-1500rpm",
+		"name": "WAP BPFI-12K4 1500RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função de impacto além de parafusar e perfurar",
+			"Seis brocas de aço e seis bits inclusos",
+			"Indicador de carga da bateria e luz de LED",
+			"Velocidade variável e reversível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "400RPM a 1500RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "30Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "classe de isolação II"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "seletor de torque com 18 níveis para parafusar, 1 função para perfurar e 1 função de impacto; luz de LED integrada para melhor visibilidade; indicador de carga da bateria; empunhadura emborrachada para maior conforto; controle de velocidade variável e reversível"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta de transporte; 1 suporte magnético de bit 1/4″; 6 brocas de aço (1,5mm, 2,5mm, 3,0mm, 4mm, 5mm, 6mm); 6 bits (2 fenda: 5mm e 6mm; 2 Phillips: PH1 e PH2; 2 Pozidrive: PZ1 e PZ2); 1 carregador bivolt; 1 bateria de 12V 1.500mAh"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "22 x 6,9 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "wap-bpf-12k3-740rpm",
+		"name": "WAP BPF-12K3 740RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle de velocidade pela pressão no gatilho",
+			"Conjunto de brocas de aço rápido em seis medidas",
+			"Indicador de nível de bateria com LED",
+			"Empunhadura ergonômica emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio de 1500mAh removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "740RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "17Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "IPX0"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "seletor de torque com 18 níveis para parafusar e 1 nível para perfurar; luz de LED integrada; indicador de nível de bateria com LED; controle de velocidade variável através da pressão no gatilho; empunhadura ergonômica emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta de transporte; conjunto de brocas de aço rápido (1,5mm, 2,5mm, 3,0mm, 4mm, 5mm, 6mm); suporte magnético de bit 1/4″; bits Pozidrive (PZ1, PZ2); bits Phillips (PH1, PH2); bits de fenda (5mm, 6mm); carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "9 x 6,9 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bpf01-200rpm",
+		"name": "Britânia BPF01 200RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mandril magnético de 6mm para fixar os bits",
+			"Função reversível para desparafusar",
+			"Fonte bivolt e 11 bits de tamanhos diferentes",
+			"Peso de 470g e luz de LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "200RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "3Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4,8V"
+			},
+			{
+				"label": "Mandril",
+				"value": "6mm magnético"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função reversível (desparafusar); luz de LED para melhor visibilidade; indicador de carga da bateria"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "11 bits de diferentes tamanhos; 1 adaptador; fonte carregadora bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "14 x 5 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "470g"
+			}
+		]
+	},
+	{
+		"id": "worker-pfw-012-550rpm",
+		"name": "Worker PFW-012 550RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"16 posições de torque e modo de perfuração",
+			"Soquete prolongador magnético de 1/4 polegada",
+			"Carregador bivolt automático e tempo de carga de 3 a 4 horas",
+			"Seis brocas para madeira inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 4 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "550RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "10Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "regulagem para 16 posições de torque e 1 posição para perfuração; velocidade variável; modo reversível; luz de LED para melhor visibilidade do local de trabalho; cabo com revestimento emborrachado"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta plástica; 1 bateria de 12V (1,3Ah); 1 carregador bivolt automático; 6 brocas para madeira (1,5mm, 2,5mm, 3,0mm, 4,0mm, 5,0mm e 6,0mm); 6 bits (2 fendas: 5mm e 6mm; 2 Phillips: PH1 e PH2; 2 Pozidrive: PZ1 e PZ2); 1 soquete prolongador magnético de 1/4″"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-pfv-012-650rpm",
+		"name": "Vonder PFV-012 650RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trena de 5m e soquete magnético inclusos",
+			"18 posições de torque e perfuração",
+			"Indicador de carga da bateria",
+			"Cabo emborrachado para mais conforto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "650RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "15,5Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "possui regulagem para 18 posições de torque e 1 posição para perfuração; luz de LED para melhor visibilidade do local de trabalho; cabo com revestimento emborrachado para maior conforto; indicador de carga da bateria; velocidade variável e reversível"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 maleta; 1 bateria de 12V; 1 fonte de carregamento bivolt automática; 6 brocas de aço rápido (1,5mm, 2,5mm, 3,0mm, 4,0mm, 5,0mm e 6,0mm); 6 bits (2 fendas: 5mm e 6mm; 2 Phillips: PH1 e PH2; 2 Pozidrive PZ1 e PZ2); 1 soquete magnético de 1/4″; 1 trena de 5m"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "black-decker-bd40k4-320rpm",
+		"name": "Black Decker BD40K4 320RPM",
+		"image": "/images/posts/melhor-parafusadeira-custo-beneficio-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema Push & Go para acionamento rápido",
+			"Desencapador de fios integrado",
+			"Cabo de carregamento USB",
+			"Peso de 268g e formato compacto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável de íons de lítio"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "360RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "5Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "sistema de acionamento Push & Go; função reversível (desparafusar); luz de LED para melhor visibilidade; indicador de nível de bateria; desencapador de fios integrado"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "estojo; 4 bits de diferentes tamanhos; cabo de carregamento USB"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "18,1 x 3,7 x 3,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "268g"
+			}
+		]
+	}
+]

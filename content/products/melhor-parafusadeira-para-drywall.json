@@ -1,0 +1,346 @@
+[
+	{
+		"id": "bosch-gtb-185-li-18v-4500rpm",
+		"name": "Bosch GTB 185-LI 18V 4500RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia PowerSAVE com motor brushless",
+			"Torque máximo de 5,2Nm e rotação de 4500 RPM",
+			"Batente de profundidade reversível",
+			"Bateria recarregável e removível, em tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável e removível"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "4500RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "5,2Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "tecnologia PowerSAVE; motor brushless; batente de profundidade reversível"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "26,1 x 5,6 x 19,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg (com bateria)"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dcf620b-20v-4400rpm",
+		"name": "Dewalt DCF620B 20V 4400RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque de 30Nm, o maior da lista",
+			"Motor brushless e regulagem automática de profundidade",
+			"Bateria de lítio 20V 2,0 Ah e carregador incluídos",
+			"Luz LED e trava no gatilho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável e removível"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "4400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "30Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "1,4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "motor brushless; regulagem automática de profundidade; sistema Set & Forget; luz LED; trava no gatilho"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bateria de lítio 20V 2,0 Ah; carregador bivolt GAL 12V-20; presilha para cinto"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			}
+		]
+	},
+	{
+		"id": "makita-fs4000-570w-4000rpm",
+		"name": "Makita FS4000 570W 4000RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 16Nm e rotação de 4000 RPM",
+			"Rotação reversível e tecnologia de dupla isolação",
+			"Porta bit magnético e 2 bits phillips inclusos",
+			"Classe II de proteção com 1,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "4000RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "16Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "classe II"
+			},
+			{
+				"label": "Mandril",
+				"value": "1,4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "sistema de rotação reversível; tecnologia de dupla isolação"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "porta bit magnético; 2 bits phillips"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "20,7 x 6,5 x 28,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-pfv514-500w-2050rpm",
+		"name": "Vonder PFV514 500W 2050RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque de 13Nm com rotação de 2050 RPM",
+			"Sistema de rotação reversível",
+			"Cabo com revestimento emborrachado",
+			"Dupla isolação e mandril de 1,4 polegada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "2050RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "13Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "classe II"
+			},
+			{
+				"label": "Mandril",
+				"value": "1,4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "sistema de rotação reversível; tecnologia de dupla isolação; cabo com revestimento emborrachado"
+			},
+			{
+				"label": "Peso",
+				"value": "1,6kg"
+			}
+		]
+	},
+	{
+		"id": "skil-6520-520w-4500rpm",
+		"name": "Skil 6520 520W 4500RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rotação de 4500 RPM com alimentação por cabo",
+			"Limitador de profundidade",
+			"Embreagem com desconexão automática",
+			"Iluminação LED e ponteiras de fenda inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "4500RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "limitador de profundidade; embreagem com desconexão automática; iluminação LED"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "ponteiras de fenda"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "einhell-tc-dy-500-e-500w-2200rpm",
+		"name": "Einhell TC-DY 500-E 500W 2200RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento por pressão com parada automática do giro",
+			"Caixa de engrenagem em alumínio reforçado",
+			"Rotação de 2200 RPM com mandril de 1,4 polegada",
+			"Clipe de cintura incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "2200RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1,4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "sistema de acionamento por pressão; parada automática do giro; caixa de engrenagem em alumínio reforçado"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "clipe de cintura"
+			},
+			{
+				"label": "Peso",
+				"value": "1,65kg"
+			}
+		]
+	},
+	{
+		"id": "dewalt-dw255-540w-5300rpm",
+		"name": "Dewalt DW255 540W 5300RPM",
+		"image": "/images/posts/melhor-parafusadeira-para-drywall-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Rotação de 5300 RPM, a mais alta da lista",
+			"Sistema 100% rolamentado e reversível",
+			"Gatilho emborrachado com função Set and Forget",
+			"Torque de 6,8Nm com clipe de cintura incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "—"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "5300RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "6,8Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "sistema 100% rolamentado; sistema reversível; Set and Forget; gatilho emborrachado"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "clipe de cintura"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	}
+]

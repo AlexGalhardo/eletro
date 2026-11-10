@@ -1,0 +1,323 @@
+[
+	{
+		"id": "singer-facilita-pro-4411-10-pontos",
+		"name": "Singer Facilita Pro 4411 10 pontos",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Costura reta com até 1100 pontos por minuto",
+			"Dez pontos disponíveis na máquina",
+			"Material em metal e 90W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "reta"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "10"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 1100 pontos por minuto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,5 x 39,5 x 16cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			}
+		]
+	},
+	{
+		"id": "singer-m3335-23-pontos",
+		"name": "Singer M3335 23 pontos",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Costura reta com até 750 pontos por minuto",
+			"Material em metal e 70W de potência",
+			"Voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "reta"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "100"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 750 pontos por minuto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43 x 23,2 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,71kg"
+			}
+		]
+	},
+	{
+		"id": "singer-m1605-6-pontos",
+		"name": "Singer M1605 6 pontos",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis pontos e 60W de potência",
+			"Costura reta com até 750 pontos por minuto",
+			"Material em metal e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "reta"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "6"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 750 pontos por minuto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 36 x 18cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			}
+		]
+	},
+	{
+		"id": "importway-iwmc-505-12-pontos",
+		"name": "ImportWay IWMC-505 12 pontos",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"12 pontos disponíveis",
+			"Passa linha manual",
+			"Voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "12"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "epsilon-eps-sm205-1-ponto",
+		"name": "Epsilon EPS-SM205 1 ponto",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Material em plástico e peso de 610g",
+			"Voltagem bivolt e 6W de potência",
+			"Costura reta de até 750 pontos por minuto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "reta"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "6W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 750 pontos por minuto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 11,5 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "610g"
+			}
+		]
+	},
+	{
+		"id": "handy-stitch-1-ponto",
+		"name": "Handy Stitch 1 ponto",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Costura reta de até 110 pontos por minuto",
+			"Material em plástico",
+			"Passa linha manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "reta"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "6W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 110 pontos por minuto"
+			}
+		]
+	},
+	{
+		"id": "singer-s0235-6-pontos",
+		"name": "Singer S0235 6 pontos",
+		"image": "/images/posts/melhor-maquina-de-costura-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Overloque com até 1300 pontos por minuto",
+			"Potência de 100W e seis pontos",
+			"Material em metal e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de máquina",
+				"value": "overloque"
+			},
+			{
+				"label": "Passa linha",
+				"value": "manual"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Quantidade de pontos",
+				"value": "6"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Pontos por minuto",
+				"value": "até 1300 pontos por minuto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,9 x 33,4 x 28,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			}
+		]
+	}
+]

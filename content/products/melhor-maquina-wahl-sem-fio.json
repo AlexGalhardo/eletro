@@ -1,0 +1,286 @@
+[
+	{
+		"id": "wahl-vapor-5-stars",
+		"name": "Wahl Vapor 5 Stars",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2 horas e 30 minutos",
+			"Lâmina F32 FADEOUT com revestimento DLC",
+			"7 pentes graduadores de altura premium",
+			"Carregador e protetor de lâmina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "F32 FADEOUT com revestimento em aço carbono DLC"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "7 pentes graduadores de altura premium; óleo lubrificante; escova de limpeza; protetor de lâmina; carregador"
+			},
+			{
+				"label": "Peso",
+				"value": "280g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-magic-clip-cordless",
+		"name": "Wahl Magic Clip Cordless",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Recarga em 2 horas",
+			"8 pentes graduadores com clip de metal",
+			"Lâmina cromada e óleo lubrificante incluso",
+			"Autonomia de 1 hora e 30 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "cromada"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes graduadores de altura Premium, com clip de metal nos tamanhos (#½, #1, #1½, #2, #3, #4, #6 e #8); óleo lubrificante; escova de limpeza; pente; protetor de lâmina"
+			},
+			{
+				"label": "Peso",
+				"value": "335g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-family-pro-cut",
+		"name": "Wahl Family Pro Cut",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tesoura e 8 pentes guia de altura",
+			"Bolsa organizadora para guardar os acessórios",
+			"Lâmina de aço de alto carbono",
+			"Pente de cabeleireiro e protetor acrílico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço de alto carbono"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes guia de altura (3mm, 6mm, 10mm, 13mm, 16mm, 19mm, 22mm e 25mm); pente de cabeleireiro/barbeiro; bolsa/estojo organizadora; frasco de óleo lubrificante de lâminas; escova/pincel de limpeza; protetor acrílico de lâmina; tesoura; pente; carregador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-launch-profissional",
+		"name": "Wahl Launch Profissional",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2 horas com bateria",
+			"Peso de 147g para manuseio leve",
+			"Três pentes guia e estojo de transporte",
+			"Escovas de limpeza grande e pequena"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza pequena; escova de limpeza grande; protetor da lâmina; óleo lubrificante; 3 pentes guia (#1/2; #1; #1½); estojo de transporte; carregador"
+			},
+			{
+				"label": "Peso",
+				"value": "147g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-color-pro-cordless",
+		"name": "Wahl Color Pro Cordless",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"12 pentes guia para diferentes alturas",
+			"Lâmina em aço carbono",
+			"Recarga completa em 12 horas",
+			"Capa e tesoura inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "12 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço em carbono"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; capa; proteção da lâmina; tesoura; óleo lubrificante; 12 pentes guia (left ear tapper; right ear tapper; 1,5mm; 4,5mm; 3mm; 6mm; 10mm; 16mm; 19mm; 22mm; 25mm) ; 2 pentes para cabelo"
+			},
+			{
+				"label": "Peso",
+				"value": "226g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-vortex-cordless",
+		"name": "Wahl Vortex Cordless",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 4 horas e 30 minutos, a maior da lista",
+			"6 pentes guia e um pente",
+			"Carregador e adaptadores internacionais",
+			"Lâmina de aço com óleo lubrificante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "4 horas e 30 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova de limpeza; óleo lubrificante; 6 pentes guia; pente; carregador e adaptadores internacionais"
+			},
+			{
+				"label": "Peso",
+				"value": "240g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-legend-cordless",
+		"name": "Wahl Legend Cordless",
+		"image": "/images/posts/melhor-maquina-wahl-sem-fio-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8 pentes premium de 1/2 a 8mm",
+			"Autonomia de 1 hora e 40 minutos",
+			"Recarga em 2 horas",
+			"Pincel de limpeza e protetor de lâmina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes premium (1/2, 1 1/2, 2, 3, 4, 6 e 8mm); pente de cabelo; pincel de limpeza; óleo lubrificante; protetor de lâmina; carregador"
+			},
+			{
+				"label": "Peso",
+				"value": "500g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

@@ -1,0 +1,370 @@
+[
+	{
+		"id": "dewalt-dcw220b-20v",
+		"name": "Dewalt DCW220B 20V",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alimentação por bateria de 20V",
+			"Controle de velocidade variável",
+			"Sistema Wireless Tool Control incluso",
+			"Adaptador giratório Airlock e trava para uso contínuo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "75 x 533mm"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "variável"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "trava para uso contínuo; sistema Wireless Tool Control; adaptador giratório Airlock"
+			},
+			{
+				"label": "Tensão",
+				"value": "20V"
+			}
+		]
+	},
+	{
+		"id": "vonder-liv-1200-1200w-450m-min",
+		"name": "Vonder LIV 1200 1200W (450m/min)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinta de 100 x 610mm, a maior da lista",
+			"Velocidade da cinta de 450m/min, a mais alta com tomada",
+			"Coleta de pó e dupla isolação do motor",
+			"Cabo emborrachado e trava do interruptor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 1200W (220V)"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "100 x 610mm"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "450m/min"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "fixa"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "cabo emborrachado; motor com dupla isolação; regulagem da lixa; trava do interruptor"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "6,2kg"
+			}
+		]
+	},
+	{
+		"id": "makita-m9400b-940w-380m-min",
+		"name": "Makita M9400B 940W (380m/min)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade da cinta de 380m/min",
+			"Base de apoio de 112 x 102mm",
+			"Classe de segurança II e ajuste do trilhamento",
+			"Trava para uso contínuo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Potência",
+				"value": "940W"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "100 x 610mm"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "380m/min"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "fixa"
+			},
+			{
+				"label": "Base de apoio",
+				"value": "112 x 102mm"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "classe de segurança II; ajuste do trilhamento da lixa; trava para uso contínuo"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,9 x 17,5 x 35,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,2kg"
+			}
+		]
+	},
+	{
+		"id": "wesco-ws4366u-920w-150m-mim-a-270m-mim",
+		"name": "Wesco WS4366U 920W (150m/mim a 270m/mim)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade variável de 150 a 270m/min",
+			"Dupla isolação e áreas emborrachadas",
+			"Ajuste da tensão da lixa",
+			"Peso de 2,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Potência",
+				"value": "920W"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "76 x 533mm"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "150 a 270m/min"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "variável"
+			},
+			{
+				"label": "Base de apoio",
+				"value": "76 x 135mm"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "dupla isolação; áreas emborrachadas; ajuste da tensão da lixa"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-ilcv-1812-18v-276m-min-582m-min",
+		"name": "Vonder ILCV 1812 18V (276m/min - 582m/min)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria de 18V e 1,8kg de peso",
+			"Velocidade de 276 a 582m/min com controle variável",
+			"Ajuste de ângulo e da cinta",
+			"Motor com dupla isolação e cabo emborrachado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "3 a 19mm de largura x 454mm de comprimento"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "276 a 582m/min"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "variável"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "não"
+			},
+			{
+				"label": "Recursos",
+				"value": "motor com dupla isolação; cabo emborrachado; ajuste de ângulo e da cinta"
+			},
+			{
+				"label": "Tensão",
+				"value": "18V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "wap-wf-lc01-850w-300m-min",
+		"name": "WAP WF LC01 850W (300m/min)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alavanca para troca rápida da lixa",
+			"Empunhaduras principal e auxiliar emborrachadas",
+			"Botão para ajuste da cinta e trava de uso contínuo",
+			"Potência de 850W e velocidade de 300m/min"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "76 x 457mm"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "300m/min"
+			},
+			{
+				"label": "Controle de velocidade",
+				"value": "fixa"
+			},
+			{
+				"label": "Base de apoio",
+				"value": "76 x 120mm"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "classe de segurança II; empunhadura principal e auxiliar emborrachadas; alavanca para troca rápida da lixa; botão para ajuste da cinta; trava de uso contínuo"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17 x 17 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,87kg"
+			}
+		]
+	},
+	{
+		"id": "makita-9910-650w-270m-min",
+		"name": "Makita 9910 650W (270m/min)",
+		"image": "/images/posts/melhor-lixadeira-de-cinta-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coleta de pó e dupla isolação",
+			"Ferramenta compacta de 14,1 x 13,2 x 26,2cm",
+			"Velocidade da cinta de 270m/min",
+			"Peso de 2,6kg e potência de 650W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "tomada"
+			},
+			{
+				"label": "Potência",
+				"value": "650W"
+			},
+			{
+				"label": "Cinta de lixa",
+				"value": "76 x 457mm"
+			},
+			{
+				"label": "Velocidade da cinta",
+				"value": "270m/min"
+			},
+			{
+				"label": "Coleta de pó",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos",
+				"value": "dupla isolação"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14,1 x 13,2 x 26,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			}
+		]
+	}
+]

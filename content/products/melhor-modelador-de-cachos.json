@@ -1,0 +1,366 @@
+[
+	{
+		"id": "taiff-curves-automatic-32mm-39w",
+		"name": "Taiff Curves Automatic (32mm) 39W",
+		"image": "/images/posts/melhor-modelador-de-cachos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura, de 170°C a 210°C",
+			"Visor digital e desligamento automático",
+			"Revestimento de cerâmica com tecnologia de íons negativos",
+			"Diâmetro de 32mm e peso de 200g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "39W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "32mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "170°C, 190°C e 210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "íons negativos; visor digital; desligamento automático"
+			},
+			{
+				"label": "Cabo",
+				"value": "2,5 metros, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			}
+		]
+	},
+	{
+		"id": "taiff-curves-25mm-48-51w",
+		"name": "Taiff Curves (25mm) 48-51W",
+		"image": "/images/posts/melhor-modelador-de-cachos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 25mm com temperatura de 210°C",
+			"LED indicador de funcionamento",
+			"Ponta com proteção térmica",
+			"Cabo de 3 metros giratório em 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "48-51W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "25mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "LED indicador de funcionamento; ponta com proteção térmica"
+			},
+			{
+				"label": "Cabo",
+				"value": "3 metros, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "310g"
+			}
+		]
+	},
+	{
+		"id": "philco-pec15-25mm-55w",
+		"name": "Philco PEC15 (25mm) 55W",
+		"image": "/images/posts/melhor-modelador-de-cachos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento PTC com temperatura de 220°C",
+			"Íons de turmalina na tecnologia do aparelho",
+			"Ponta fria para manusear o aparelho",
+			"Cabo de 3 metros giratório em 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "25mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "220°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "aquecimento PTC; luz indicadora de funcionamento; íons de turmalina; ponta fria"
+			},
+			{
+				"label": "Cabo",
+				"value": "3 metros, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "320g"
+			}
+		]
+	},
+	{
+		"id": "mondial-em-12-25mm-55w",
+		"name": "Mondial EM-12 (25mm) 55W",
+		"image": "/images/posts/melhor-modelador-de-cachos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 25mm e temperatura de 210°C",
+			"Cabo de 1,8 metro giratório em 360°",
+			"Bivolt e peso de 200g",
+			"Revestimento de cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "25mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "—"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "200g"
+			}
+		]
+	},
+	{
+		"id": "taiff-curves-13mm-26-27w",
+		"name": "Taiff Curves (13mm) 26-27W",
+		"image": "/images/posts/melhor-modelador-de-cachos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 13mm, o menor da lista",
+			"LED indicador de funcionamento",
+			"Ponta termoplástica protetora",
+			"Cabo de 3 metros giratório em 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "26-27W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "13mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "LED indicador de funcionamento; ponta termoplástica protetora"
+			},
+			{
+				"label": "Cabo",
+				"value": "3 metros, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "262g"
+			}
+		]
+	},
+	{
+		"id": "kiss-instawave-25mm-40w",
+		"name": "Kiss Instawave (25mm) 40W",
+		"image": "/images/posts/melhor-modelador-de-cachos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois níveis de temperatura, de 204°C a 210°C",
+			"Função beep e desligamento automático",
+			"Emissão de íons negativos",
+			"Cabo de 1,8 metro giratório em 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "25mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "204°C a 210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "emissão de íons negativos; função beep; auto desligamento"
+			},
+			{
+				"label": "Cabo",
+				"value": "1,8 metro, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "393g"
+			}
+		]
+	},
+	{
+		"id": "mondial-mct-ju-03-32mm-180w",
+		"name": "Mondial MCT-JU-03 (32mm) 180W",
+		"image": "/images/posts/melhor-modelador-de-cachos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Efeito triondas e revestimento com titânio",
+			"Painel digital com dois níveis de temperatura",
+			"Revestimento de cerâmica, titânio, tourmaline e nano silver",
+			"Potência de 180W e diâmetro de 32mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Revestimento",
+				"value": "cerâmica, titânio, tourmaline e nano silver"
+			},
+			{
+				"label": "Diâmetro do tubo",
+				"value": "32mm"
+			},
+			{
+				"label": "Ajustes de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Temperatura variável",
+				"value": "até 210°C"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "efeito triondas; painel digital; íons negativos; desligamento automático"
+			},
+			{
+				"label": "Cabo",
+				"value": "2,5 metros, giratório 360°"
+			},
+			{
+				"label": "Bivolt",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "670g"
+			}
+		]
+	}
+]

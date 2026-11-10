@@ -1,0 +1,305 @@
+[
+	{
+		"id": "mondial-cr-09m",
+		"name": "Mondial CR-09M",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona na tomada com cabo em 127V ou 220V",
+			"Quatro pentes de corte de 3mm a 12mm",
+			"Lâmina de titânio",
+			"Tesoura para acabamento e maleta inclusas",
+			"Peso aproximado de 315g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "titânio"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de corte com alturas (3mm, 6mm, 9mm e 12mm); pente de barbeiro; tesoura para acabamento; escova para limpeza; óleo para manutenção das lâminas; maleta"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "315g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-cr-11",
+		"name": "Mondial CR-11",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria recarregável com autonomia de 2 horas e 20 minutos",
+			"Quatro pentes de corte de 3mm a 12mm",
+			"Lâmina de aço inox com pente de barbeiro",
+			"Escova de limpeza e óleo de manutenção",
+			"Bivolt e peso aproximado de 280g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de corte (3mm, 6mm, 9mm e 12mm); pente de barbeiro; tesoura para acabamento; escova de limpeza; óleo de manutenção"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "280g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-bg-03",
+		"name": "Mondial BG-03",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 1 hora e 30 minutos na bateria",
+			"Cinco cabeças aparadoras para cabelo, barba e nariz",
+			"Pente ajustável e quatro pentes de corte",
+			"Base carregadora e carregador inclusos",
+			"Aparador de pelos incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 30 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "aparador de pelos; 5 cabeças aparadoras (para cabelo, barba e bigode, precisão, nariz e orelhas e microbarbeador); 4 pentes de corte (de 3mm, 6mm, 9mm e 12mm); pente ajustável; óleo lubrificante; carregador; base carregadora"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "390g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-cr-07",
+		"name": "Mondial CR-07",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com cabo em 127V ou 220V",
+			"Quatro pentes de corte de 3mm a 12mm",
+			"Pente de barbeiro para acabamento",
+			"Escova de limpeza e óleo de manutenção",
+			"Peso aproximado de 320g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de corte (3mm, 6mm, 9mm e 12mm); pente de barbeiro para acabamento; escova de limpeza; óleo de manutenção"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "320g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-cr-02",
+		"name": "Mondial CR-02",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com cabo em 127V ou 220V",
+			"Quatro pentes de corte de 3mm a 12mm",
+			"Pente de barbeiro para acabamento",
+			"Escova de limpeza e óleo de manutenção",
+			"Peso aproximado de 415g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de corte (3mm, 6mm, 9mm e 12mm); pente de barbeiro para acabamento; escova de limpeza; óleo de manutenção"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "415g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-cr-04",
+		"name": "Mondial CR-04",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria recarregável com autonomia de 1 hora",
+			"Pentes de corte de 3mm a 15mm e de 18mm a 30mm",
+			"Tesoura e pente de barbeiro inclusos",
+			"Base carregadora e bivolt",
+			"Peso aproximado de 155g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tesoura; pente de corte 1 (3/6/9/12/15mm). pente de corte 2 (18/21/24/27/30mm); pente de barbeiro; escova de limpeza; base carregadora; óleo de manutenção"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "155g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-cr-10-bi",
+		"name": "Mondial CR-10-BI",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com cabo em 127V ou 220V",
+			"Tesoura e quatro pentes de corte",
+			"Lâmina de aço inox com pente de barbeiro",
+			"Escova de limpeza e óleo de manutenção",
+			"Peso aproximado de 320g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tesoura; 4 pentes de corte ( 3mm, 6mm, 9mm e 12mm); pente de barbeiro; escova de limpeza; óleo de manutenção"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "320g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

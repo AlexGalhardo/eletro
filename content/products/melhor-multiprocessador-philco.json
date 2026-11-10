@@ -1,0 +1,382 @@
+[
+	{
+		"id": "philco-pmp10a-1000w-1-25-litro",
+		"name": "Philco PMP10A 1000W (1,25 litro)",
+		"image": "/images/posts/melhor-multiprocessador-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"1000W com dois níveis de velocidade e pulsar",
+			"Espremedor e lâmina de ralar inclusos",
+			"Jarra de 1,25 litro e copo de liquidificador",
+			"Trava de segurança no painel giratório"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,25 litro"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar/picar/misturar, cortar, ralar/fatiar; espremer e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "lâmina de ralar; lâmina de fatiar; lâmina de processar; espremedor; adaptador de lâmina; jarra de 1,25L; copo de liquidificador; base de multiprocessador"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,7 x 27,2 x 22,5cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pmp1600p-1700w-2-1-litros",
+		"name": "Philco PMP1600P 1700W (2,1 litros)",
+		"image": "/images/posts/melhor-multiprocessador-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior potência desta lista, com 1700W",
+			"Nove funções, de processar a espremer",
+			"Batedores para massas leves e para massas pesadas",
+			"Jarra de 2,1 litros com pilão e disco emulsificador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,1 litros"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar, misturar, picar, triturar, cortar, fatiar, ralar, espremer e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; adaptador de lâminas; lâmina de fatiar; lâmina de ralar; lâmina processadora; espremedor de frutas (peneira e cone); batedor de massas leves; batedor de massa pesada; disco emulsificador; pilão; jarra do processador de 2,1L"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "plástico AS"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 29 x 27,5cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pmp11a-1000w-1-25-litro",
+		"name": "Philco PMP11A 1000W (1,25 litro)",
+		"image": "/images/posts/melhor-multiprocessador-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de liquidificador de 2,2 litros e jarra de 1,25 litro",
+			"Lâminas para ralar, fatiar e picar",
+			"Espremer e liquidificar além de processar",
+			"Trava de segurança no painel giratório"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,25 litro"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar/misturar/triturar/picar; cortar; fatiar/ralar, espremer e liquidificar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "faca para processar alimentos; faca para liquidificar; lâmina para ralar; lâmina para fatiar; lâmina para picar; copo de liquidificador de 2,2L; jarra do processador de 1,25L; adaptador de lâmina"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "plástico SAN"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 26 x 23cm"
+			}
+		]
+	},
+	{
+		"id": "philco-inox-glass-350w-1-2-litro",
+		"name": "Philco Inox Glass 350W (1,2 litro)",
+		"image": "/images/posts/melhor-multiprocessador-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro de 1,2 litro com tampa",
+			"Lâmina processadora para preparos simples",
+			"Trava de segurança no botão superior",
+			"Potência de 350W em um só nível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "350W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Velocidade",
+				"value": "1 nível"
+			},
+			{
+				"label": "Funções",
+				"value": "processar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; copo de 1,2L; lâmina processadora; tampa"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "vidro"
+			},
+			{
+				"label": "Painel",
+				"value": "botão superior"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 18,2 x 15,5cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pmn04a-420w-500ml",
+		"name": "Philco PMN04A 420W (500mL)",
+		"image": "/images/posts/melhor-multiprocessador-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de 500mL com sobretampa dosadora",
+			"Tritura, mistura e processa com um botão giratório",
+			"Pilão e lâmina inclusos",
+			"Trava de segurança no painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "420W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "500mL"
+			},
+			{
+				"label": "Velocidade",
+				"value": "1 nível + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "triturar, misturar e processar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; jarra de 500mL; sobretampa dosadora; pilão; tampa da jarra; lâmina"
+			},
+			{
+				"label": "Tipo de jarra",
+				"value": "plástico"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23,8 x 20,5 x 13,8cm"
+			}
+		]
+	},
+	{
+		"id": "philco-ph900v-300w-500ml",
+		"name": "Philco PH900V 300W (500mL)",
+		"image": "/images/posts/melhor-multiprocessador-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de 500mL com sobretampa dosadora",
+			"Processa, tritura, corta, mistura e pica",
+			"Pilão e lâmina inclusos",
+			"Trava de segurança no painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "500mL"
+			},
+			{
+				"label": "Velocidade",
+				"value": "1 nível + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "processar/triturar, cortar, misturar e picar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "unidade motora; jarra de 500mL; sobretampa dosadora; pilão; lâmina; tampa"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 20 x 13,7cm"
+			}
+		]
+	},
+	{
+		"id": "philco-pmp10b-1000w-1-5-litro",
+		"name": "Philco PMP10B 1000W (1,5 litro)",
+		"image": "/images/posts/melhor-multiprocessador-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de 2,7 litros para preparos maiores",
+			"Liquidificador com 4 lâminas Pro Maxx",
+			"Lâminas de ralar e de fatiar",
+			"Potência de 1000W com trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2,7 litros (total); 1,5 litro (útil)"
+			},
+			{
+				"label": "Velocidade",
+				"value": "2 níveis + pulsar"
+			},
+			{
+				"label": "Funções",
+				"value": "liquidificar, processar, espremer, ralar e fatiar"
+			},
+			{
+				"label": "Acessórios",
+				"value": "jarra do processador de 2,7L; faca de liquidificador com 4 lâminas Pro Maxx; faca para processador; lâmina de ralar; lâmina de fatiar"
+			},
+			{
+				"label": "Painel",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Trava de segurança",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "43,9 x 26,5 x 26,5cm"
+			}
+		]
+	}
+]

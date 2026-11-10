@@ -1,0 +1,285 @@
+[
+	{
+		"id": "idimex-lice",
+		"name": "IDIMEX Lice",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura e pés em pinus maciço",
+			"Corrediça telescópica para a gaveta",
+			"Nicho aberto para organizar objetos",
+			"Acabamento fosco e dimensões de 56 x 52 x 38cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira de pinus maciço (estrutura e pés); MDP (fundos e laterais da gaveta)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "1 gaveta"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "1 nicho aberto, sem portas"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "fosco"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "56 x 52 x 38cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "10kg"
+			}
+		]
+	},
+	{
+		"id": "idimex-apoana-2-gavetas",
+		"name": "IDIMEX Apoana — 2 gavetas",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas gavetas com corrediça telescópica",
+			"Nicho aberto para objetos do dia a dia",
+			"Estrutura de pinus maciço e pintura à base de água"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira de pinus maciço (estrutura e pés); MDF (fundos das gavetas)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "2 gavetas"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "1 nicho aberto, sem portas"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "pintura à base de água na cor castanho"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54 x 45 x 35cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "idimex-cefira",
+		"name": "IDIMEX Cefira",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Frente de gaveta em palha natural trançada",
+			"Nicho aberto com prateleira inferior",
+			"Pintura livre de solventes e acabamento fosco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira de pinus maciço (estrutura e pés); palha natural trançada (frente da gaveta)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "1 gaveta"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "1 nicho aberto com prateleira inferior, sem portas"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "fosco, na cor castanho, com pintura livre de solventes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 50 x 40,5cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "9kg"
+			}
+		]
+	},
+	{
+		"id": "idimex-adamo",
+		"name": "IDIMEX Adamo",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura de pinus maciço com pintura fosca",
+			"Gaveta com interior em MDP e fundo em MDF",
+			"Nicho aberto e corrediça telescópica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira maciça de pinus (estrutura e pés); MDP (interior da gaveta); MDF (fundo da gaveta)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "1 gaveta"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "1 nicho aberto, sem portas"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "pintura à base de água, fosca, na cor castanho"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 50 x 40,5cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "idimex-apoana-1-gaveta",
+		"name": "IDIMEX Apoana — 1 gaveta",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uma gaveta com corrediça telescópica",
+			"Espaço aberto com prateleira inferior",
+			"Acabamento fosco madeirado com pintura livre de solventes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira maciça de pinus (estrutura e pés); MDF (fundo da gaveta)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "1 gaveta"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "espaço aberto com 1 prateleira inferior, sem portas"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "fosco, madeirado, com pintura livre de solventes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 42 x 35cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "idimex-leone",
+		"name": "IDIMEX Leone",
+		"image": "/images/posts/melhor-mesa-de-cabeceira-idimex-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pintura fosca à base de água na cor freijó",
+			"Gaveta com corrediça telescópica",
+			"Estrutura de pinus maciço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "madeira maciça de pinus (estrutura e pés); MDF (fundo da gaveta e parte traseira)"
+			},
+			{
+				"label": "Gavetas",
+				"value": "1 gaveta"
+			},
+			{
+				"label": "Portas e nichos",
+				"value": "sem portas e nichos"
+			},
+			{
+				"label": "Tipo de corrediça",
+				"value": "telescópica"
+			},
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Acabamento",
+				"value": "pintura fosca à base de água, na cor freijó"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "54,8 x 45 x 35,4cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "8kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,401 @@
+[
+	{
+		"id": "electrolux-mi41s-1600w-31-litros",
+		"name": "Electrolux MI41S 1600W 31 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W, a maior desta lista",
+			"Capacidade de 31 litros com prato de 31,5cm",
+			"Painel touchscreen com 9 programas e função tira odor",
+			"QR code para receitas e menu kids no painel",
+			"Porta de vidro espelhado com trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "31 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; limpa fácil; manter aquecido; desliga display; QR code para receitas; trava de segurança; meu prato; função mudo; receitas pré-programadas; função descongelar; limpa fácil; menu dia a dia; menu kids; relógio; porção; potência; tecla início/+30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 52 x 42,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo42eb-1560w-42-litros",
+		"name": "Philco PMO42EB 1560W 42 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 42 litros, a maior desta lista",
+			"Prato de 34,5cm, o maior desta lista",
+			"Descongelamento por tempo ou por peso",
+			"Menu FIT e função manter aquecido",
+			"Pintura que facilita a limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "42 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1560W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; menu FIT; manter aquecido; função tira odor; função potência; função relógio; função display/sound; travar teclado; pintura limpa fácil"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "34,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 54 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo23eb-1100w-20-litros",
+		"name": "Philco PMO23EB 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1100W com 20 litros de capacidade",
+			"Prato de 25cm, o menor diâmetro desta lista",
+			"Trava de segurança e função mudo no painel",
+			"Descongelamento por tempo e por peso",
+			"Relógio e função adicionar 30 segundos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo e peso; manter aquecido; menu FIT; tira odor; função mudo; trava de segurança; relógio; adicionar 30 segundos; função potência"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 45 x 35,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me23s-1100w-23-litros",
+		"name": "Electrolux ME23S 1100W 23 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Descongelamento assistido que avisa para virar ou mexer",
+			"Funções de derreter, desidratar e cozinhar rápido",
+			"Economia de energia que desliga o display",
+			"Porta espelhada com capacidade de 23 litros",
+			"Painel com trava e função mudo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "23 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "4"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelamento assistido (avisa para virar/mexer); derreter; desidratar; cozinhar rápido; cozinhar delicado; manter aquecido; tira odor; economia de energia (desliga display); mudo; trava painel; relógio; menu receitas; tecla descongelar"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27,0cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 46,1 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "panasonic-nn-st27lwru-700w-21-litros",
+		"name": "Panasonic NN-ST27LWRU 700W 21 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 700W, a menor desta lista",
+			"Revestimento antiaderente com função antibacteriana AG",
+			"Pega fácil para manusear o aparelho",
+			"Três receitas pré-programadas e descongelamento em três opções",
+			"Desodorizador e adicionar +30 segundos ao tempo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "21 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Funções",
+				"value": "pega fácil; revestimento antiaderente; função antibacteriana AG; desodorizador; adicionar +30 segundos; trava de segurança; relógio; pega fácil; potência; 3 receitas pré-programadas; descongelamento em 3 opções"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 44,2 x 36,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo38e-1400w-33-litros",
+		"name": "Philco PMO38E 1400W 33 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Receitas pré-programadas de brigadeiro, pipoca, lasanha, pizza e bolo de caneca",
+			"Capacidade de 33 litros com prato de 31,5cm",
+			"Menu FIT e descongelamento por tempo ou peso",
+			"Função tira odor e adicionar +30 segundos",
+			"Ajuste de display e som pelo painel sensível ao toque"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "33 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; limpa fácil; manter aquecido; display/sound; relógio; potência; descongelar por tempo; descongelar por peso; adicionar +30 segundos; receitas pré-programadas (brigadeiro, pipoca, lasanha, pizza e bolo de caneca); menu FIT"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,4 x 51,5 x 38,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ms37r-1500w-27-litros",
+		"name": "Electrolux MS37R 1500W 27 litros",
+		"image": "/images/posts/melhor-microondas-espelhado-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menu online com 55 receitas acessível por QR Code",
+			"Botões de membrana e 55 programas no painel",
+			"Tabela de níveis de potência para ajustar o preparo",
+			"Ajuste de brilho do display e bip mudo",
+			"Trava do painel e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "27 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões de membrana"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "55"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; menu faça fácil; menu online com 55 receitas via QR Code; manter aquecido; tira odor; limpa fácil; início/+30 s; cancela/pausa; trava painel; trava de segurança; ajuste de brilho do display; mudo (bip); ajuste de potência (tabela de níveis); relógio; timer"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "28,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,1 x 48,3 x 40,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

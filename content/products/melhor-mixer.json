@@ -1,0 +1,362 @@
+[
+	{
+		"id": "wap-wm1-1000w",
+		"name": "WAP WM1 1000W",
+		"image": "/images/posts/melhor-mixer-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 1000W em 220V, com 600W em 127V",
+			"Função turbo e velocidade variável",
+			"Mini processador de 500mL e batedor de claras",
+			"Copo de 700mL com tampa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, mini processador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "600W (127V) ou 1000W (220V)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "variável + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo 700ml com tampa; mini processador 500ml; batedor de claras"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,5 x 6,5 x 6,5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mixer-philco-pmx2000-800w",
+		"name": "Mixer Philco PMX2000 800W",
+		"image": "/images/posts/melhor-mixer-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 800W com velocidade variável e turbo",
+			"Jarra de 1,2L e copo medidor de 1050mL",
+			"Haste em inox sobre corpo de plástico",
+			"Batedor de claras incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, processador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "variável + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "inox"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico com haste em inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo medidor 1050ml; jarra 1,2L; batedor de claras"
+			},
+			{
+				"label": "Peso",
+				"value": "846g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 5,2 x 8,5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eib10-400w",
+		"name": "Electrolux EIB10 400W",
+		"image": "/images/posts/melhor-mixer-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mini processador e batedor de claras inclusos",
+			"Copo de 600mL com plástico livre de BPA",
+			"Duas velocidades com função turbo",
+			"Lâminas de aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, mini processador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico livre de BPA"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo 600ml; mini processador de alimentos; batedor de claras"
+			},
+			{
+				"label": "Peso",
+				"value": "1,05kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,1 x 5,5 x 9,1cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-turbo-chef-200w",
+		"name": "Elgin Turbo Chef 200W",
+		"image": "/images/posts/melhor-mixer-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Triturador de 300mL para picar ingredientes",
+			"Fouet flexível para bater claras",
+			"Copo de 700mL com lâminas de aço inoxidável",
+			"Potência de 200W, a menor da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, triturador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo 700ml; triturador 300ml; fouet flexível"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 5 x 5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bmx400p-400w",
+		"name": "Britânia BMX400P 400W",
+		"image": "/images/posts/melhor-mixer-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 500W com duas velocidades e turbo",
+			"Jarra de 1,2L e copo de 1050mL com alça",
+			"Fouet flexível para bater claras",
+			"Haste em inox e corpo de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, triturador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico com haste em inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo 1050ml com alça e tampa; jarra 1,2L; fouet flexível"
+			},
+			{
+				"label": "Peso",
+				"value": "1,37kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42 x 5,5 x 5,5cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eib20-600w",
+		"name": "Electrolux EIB20 600W",
+		"image": "/images/posts/melhor-mixer-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W, a maior entre as Electrolux",
+			"Duas velocidades com função turbo",
+			"Mini processador e copo de 600mL",
+			"Haste em inox no corpo de plástico livre de BPA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, mini processador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico livre de BPA com haste em inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo 600ml; mini processador de alimentos; batedor de claras"
+			},
+			{
+				"label": "Peso",
+				"value": "1,16kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,1 x 5,5 x 9,1cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philips-walita-ri2622-72-400w",
+		"name": "Philips Walita RI2622/72 400W",
+		"image": "/images/posts/melhor-mixer-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo portátil de 500mL e processador de 350mL",
+			"Velocidade variável com função turbo",
+			"Corpo em ABS com borracha antideslizante",
+			"Peso de 760g, um dos mais leves da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "3 em 1 (mixer, mini processador e batedor de claras)"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Velocidades",
+				"value": "variável + função turbo"
+			},
+			{
+				"label": "Lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico ABS com aço inoxidável e borracha antideslizante"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo portátil 500ml; processador compacto 350ml; batedor de claras"
+			},
+			{
+				"label": "Peso",
+				"value": "760g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,9 x 6,6 x 6,6cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

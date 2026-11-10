@@ -1,0 +1,278 @@
+[
+	{
+		"id": "philips-hc5610-15",
+		"name": "Philips HC5610/15",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 75 minutos sem fio",
+			"2 pentes para cabelo, curto e longo",
+			"Pente para barba incluso",
+			"Lâmina de aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "75 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 pentes para cabelo (curto e longo); 1 pente para barba; escova de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "250g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-easy-even-haircut-hc3505-15",
+		"name": "Philips Easy Even Haircut HC3505/15",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pente de altura ajustável",
+			"Cortador e escova de limpeza",
+			"Lâmina de aço inoxidável",
+			"Funciona com fio, sem depender de bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente de altura ajustável; escova de limpeza; cortador"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "350g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1995",
+		"name": "Kemei KM-1995",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 120 minutos, a maior da lista",
+			"4 pentes de altura",
+			"Óleo lubrificante e escova de limpeza",
+			"Base de apoio e cabo USB de carregamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de altura; escova de limpeza; óleo lubrificante; cabo USB de carregamento; base de apoio"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "370g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-hair-stylo-cr7-cr-07",
+		"name": "Mondial Hair Stylo Cr7 CR-07",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"4 pentes de altura e tesoura",
+			"Pente de barbear incluso",
+			"Óleo lubrificante e escova de limpeza",
+			"Lâmina de aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de altura; escova de limpeza; óleo lubrificante; tesoura; pente de barbear"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "320g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-hair-stylo-cr-02",
+		"name": "Mondial Hair Stylo CR-02",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"4 pentes de altura e tesoura",
+			"Pente de barbear incluso",
+			"Óleo lubrificante e escova de limpeza",
+			"Funciona com fio, em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 pentes de altura; escova de limpeza; óleo lubrificante; tesoura; pente de barbear"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "415g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wahl-family-pro-cut",
+		"name": "Wahl Family Pro Cut",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8 pentes e tesoura inclusos",
+			"Estojo para guardar todos os acessórios",
+			"Autonomia de 60 minutos sem fio",
+			"Protetor de lâmina e óleo lubrificante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes; escova de limpeza; óleo lubrificante; protetor de lâmina; tesoura; pente de barbear; estojo para armazenamento"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "220g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-homecut-basic",
+		"name": "WAHL HomeCut Basic",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8 pentes e tesoura inclusos",
+			"Protetor de lâmina e pente de barbear",
+			"Funciona com fio, em 127V ou 220V",
+			"Escova de limpeza e óleo lubrificante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "não aplicável"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes; escova de limpeza; óleo lubrificante; protetor de lâmina; tesoura; pente de barbear"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "591g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

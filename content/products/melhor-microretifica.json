@@ -1,0 +1,328 @@
+[
+	{
+		"id": "dremel-4000",
+		"name": "Dremel 4000",
+		"image": "/images/posts/melhor-microretifica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 175W e rotação de até 35.000rpm",
+			"7 níveis de velocidade",
+			"Pinça de 3,2mm (1/8″) para acessórios",
+			"Kit com 26 peças",
+			"Modelo com fio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "175W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "5000 a 35.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "3,2mm (1/8″)"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "7 níveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 26 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 4,1 x 4,3cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "600g"
+			}
+		]
+	},
+	{
+		"id": "dremel-8240",
+		"name": "Dremel 8240",
+		"image": "/images/posts/melhor-microretifica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funcionamento sem fio com bateria de 12V e 2Ah",
+			"Rotação de 5.000 a 35.000rpm",
+			"Pinça de 3,2mm (1/8″) para acessórios",
+			"Kit com 5 peças",
+			"Peso aproximado de 660g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica com bateria de 12V e 2Ah"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "5000 a 35.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "3,2mm (1/8″)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 5 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,4 x 5,4 x 4,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "660g"
+			}
+		]
+	},
+	{
+		"id": "dremel-stylo",
+		"name": "Dremel Stylo+",
+		"image": "/images/posts/melhor-microretifica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 9W, a menor desta lista",
+			"5 níveis de velocidade e rotação até 22.000rpm",
+			"Tamanho compacto de 16 x 3 x 2,3cm",
+			"Peso aproximado de 110g",
+			"Kit com 11 peças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "9W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "5000 a 22.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "3,2mm (1/8″)"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "5 níveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 11 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 3 x 2,3cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "110g"
+			}
+		]
+	},
+	{
+		"id": "dremel-3000",
+		"name": "Dremel 3000",
+		"image": "/images/posts/melhor-microretifica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 130W com 5 níveis de velocidade",
+			"Rotação de 10.000 a 33.000rpm",
+			"Pinça de 3,2mm (1/8″) para acessórios",
+			"Kit com 10 peças",
+			"Peso aproximado de 620g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "130W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "10.000 a 33.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "3,2mm (1/8″)"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "5 níveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 10 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 5 x 4,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "620g"
+			}
+		]
+	},
+	{
+		"id": "vonder-mrv-115",
+		"name": "Vonder MRV-115",
+		"image": "/images/posts/melhor-microretifica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 115W e rotação de 30.000rpm",
+			"Pinça de 3,1mm (1/8″) para acessórios",
+			"Kit com 8 peças",
+			"Alimentação elétrica com fio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "115W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "30.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "3,1mm (1/8″)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 8 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "2,7 x 0,9 x 0,7cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "764g"
+			}
+		]
+	},
+	{
+		"id": "vonder-mbv-036",
+		"name": "Vonder MBV-036",
+		"image": "/images/posts/melhor-microretifica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Operação sem fio com alimentação de 3,6V",
+			"Rotação de 15.000rpm e 3 níveis de velocidade",
+			"Pinça de 2,3mm (3/32″) para acessórios",
+			"Kit com 24 peças",
+			"Peso aproximado de 414g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3,6V"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica sem fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "15.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "2,3mm (3/32″)"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 24 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 21 x 13cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "414g"
+			}
+		]
+	},
+	{
+		"id": "black-decker-rt18ka",
+		"name": "Black+Decker RT18KA",
+		"image": "/images/posts/melhor-microretifica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 180W e rotação de 35.000rpm",
+			"Três diâmetros de pinça: 1,6mm, 2,4mm e 3,2mm",
+			"Kit com 113 peças, o maior desta lista",
+			"Dimensões de 20 x 5,5 x 6,5cm",
+			"Peso aproximado de 680g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Tipo",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Velocidade de rotação",
+				"value": "35.000rpm"
+			},
+			{
+				"label": "Diâmetro da pinça",
+				"value": "1/16″ (1,6mm), 3/32″ (2,4mm) e 1/8″ (3,2mm)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "kits com 113 peças"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 5,5 x 6,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "680g"
+			}
+		]
+	}
+]

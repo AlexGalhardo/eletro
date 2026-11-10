@@ -1,0 +1,332 @@
+[
+	{
+		"id": "bosch-gex-125-1-ae-250w",
+		"name": "Bosch GEX 125-1 AE 250W",
+		"image": "/images/posts/melhor-lixadeira-orbital-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 250W e velocidade de 15.000 a 24.000 OPM",
+			"Cabo de 2,55 metros de alimentação",
+			"Tensão de 127V ou 220V",
+			"Dimensões compactas de 12 x 15 x 23cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio (2,55m)"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "15.000 a 24.000 OPM"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "88dB(A)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 15 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3Kg"
+			}
+		]
+	},
+	{
+		"id": "stanley-ss30-300w",
+		"name": "Stanley SS30 300W",
+		"image": "/images/posts/melhor-lixadeira-orbital-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 300W, a maior da lista",
+			"Velocidade de 13.000 OPM com 50Hz ou 60Hz",
+			"Empunhadura de borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "13.000 OPM"
+			},
+			{
+				"label": "Frequência",
+				"value": "50hz ou 60hz"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15,6 x 12,3 x 16cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5Kg"
+			}
+		]
+	},
+	{
+		"id": "bosch-gss-140-220w",
+		"name": "Bosch GSS-140 220W",
+		"image": "/images/posts/melhor-lixadeira-orbital-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade de 28.000 OPM, a maior da lista",
+			"Potência de 220W e peso de 1,1kg",
+			"Empunhadura de borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Potência",
+				"value": "220W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "28000 OPM"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "93dB(A)"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,9 x 11,2 x 12,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1Kg"
+			}
+		]
+	},
+	{
+		"id": "wap-elo-250-250w",
+		"name": "WAP ELO 250 250W",
+		"image": "/images/posts/melhor-lixadeira-orbital-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 250W e velocidade de 14.000 OPM",
+			"Cabo de 2 metros de alimentação",
+			"Empunhadura de borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio (2m)"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "14.000 OPM"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 11 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,24Kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plo01-250w",
+		"name": "Philco PLO01 250W",
+		"image": "/images/posts/melhor-lixadeira-orbital-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 250W e velocidade de 14.000 OPM",
+			"Cabo de 2 metros de alimentação",
+			"Dimensões de 13,5 x 11,5 x 25cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio (2m)"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "14.000 OPM"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,5 x 11,5 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,21Kg"
+			}
+		]
+	},
+	{
+		"id": "skil-7232-200w",
+		"name": "Skil 7232 200W",
+		"image": "/images/posts/melhor-lixadeira-orbital-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade de 28.000 OPM com 200W de potência",
+			"Dimensões compactas de 16 x 11 x 14cm",
+			"Empunhadura de borracha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "28.000 OPM"
+			},
+			{
+				"label": "Frequência",
+				"value": "50/60Hz"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "93dBA"
+			},
+			{
+				"label": "Capacidade do coletor",
+				"value": "—"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16 x 11 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3Kg"
+			}
+		]
+	},
+	{
+		"id": "makita-bo4557-180w",
+		"name": "Makita BO4557 180W",
+		"image": "/images/posts/melhor-lixadeira-orbital-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de apenas 900g, o mais leve da lista",
+			"Nível de ruído de 80 dBA, o menor informado",
+			"Velocidade de 14.000 OPM e 180W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Alimentação",
+				"value": "elétrica com fio"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Velocidade",
+				"value": "14.000 OPM"
+			},
+			{
+				"label": "Frequência",
+				"value": "60Hz"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "80dBA"
+			},
+			{
+				"label": "Material da empunhadura",
+				"value": "borracha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,7 x 11,2 x 13,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "900g"
+			}
+		]
+	}
+]

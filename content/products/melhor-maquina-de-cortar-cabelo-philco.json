@@ -1,0 +1,305 @@
+[
+	{
+		"id": "philco-pap03-multi-groom-aqua-12-em-1",
+		"name": "Philco PAP03 Multi Groom Aqua 12 em 1",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria recarregável com 120 minutos de autonomia",
+			"Recarga em 2 horas e voltagem bivolt automática",
+			"Pentes de 3 a 12mm e aparadores para barba e corpo",
+			"Base de carregamento e cabo USB inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes para cabelo (3/6/9/12mm); pente regulador para barba (2/4/6/8mm); pente vertical para o corpo (3/6/9mm); aparador de precisão; aparador para nariz e orelhas; acessório rente à pele; aparador para barba, bigode e costeletas; aparador vertical para o corpo; base de carregamento; cabo USB; escova de limpeza; pente; óleo lubrificante"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "250g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt automático"
+			}
+		]
+	},
+	{
+		"id": "philco-pcr07",
+		"name": "Philco PCR07",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior autonomia da lista, com 4 horas e 30 minutos",
+			"Recarga em 4 horas pelo cabo USB",
+			"Lâmina de cerâmica e pincel de limpeza incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio; cabo USB"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "4 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "4 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes de corte (3/6/9/12mm); capa protetora de lâmina; óleo lubrificante; pincel de limpeza; pente"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "323g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pap16-multigroom-8-em-1",
+		"name": "Philco PAP16 MultiGroom 8 em 1",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco pentes de 1 a 6mm e cabeça rente à pele",
+			"Autonomia de 90 minutos e recarga em 90 minutos",
+			"Cabo elétrico de 90cm além da base de carregamento",
+			"Bolsa e suporte para acessórios incluídos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio; cabo elétrico (90cm); base de carregamento"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5x pentes de corte (1/2/3/5/6mm); cabeça para corte rente à pele; aparador de nariz e orelha; aparador de bigode e costeletas; escova de limpeza; óleo lubrificante; bolsa; suporte para acessórios"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "302g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pcr04",
+		"name": "Philco PCR04",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo elétrico de 1,80 metro, sem depender de bateria",
+			"Quatro pentes de corte de 3 a 12mm e tesoura",
+			"Lâmina de cerâmica e voltagem de 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo elétrico (1,80 metro)"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes de corte (3/6/9/12mm); pente; tesoura; protetor de lâmina; óleo lubrificante; escova de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "550g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcr12cr-skull-pro-chrome",
+		"name": "Philco PCR12CR Skull Pro Chrome",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço e cabo elétrico",
+			"Quatro pentes de corte de 3 a 12mm e tesoura",
+			"Protetor de lâmina e óleo lubrificante inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo elétrico"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes de corte (3/6/9/12mm); tesoura; pente; protetor de lâmina; óleo lubrificante; escova de limpeza"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "420g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pcre1",
+		"name": "Philco PCRE1",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria de lítio com 60 minutos de autonomia",
+			"Peso de 160g, o mais leve da lista",
+			"Quatro pentes de corte de 1,5 a 4mm e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio; cabo USB"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes de corte (1,5/2/3/4mm); escova de limpeza; óleo lubrificante"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "160g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-dual-action-titanium",
+		"name": "Philco Dual Action Titanium",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-philco-7.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço e cabo elétrico",
+			"Quatro pentes de corte de 3 a 12mm e bolsa",
+			"Tesoura, protetor de lâmina e óleo lubrificante inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "cabo elétrico"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes de corte (3/6/9/12mm); tesoura; pente; protetor de lâmina; óleo lubrificante; escova de limpeza; bolsa"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "590g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

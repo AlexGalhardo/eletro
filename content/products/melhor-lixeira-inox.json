@@ -1,0 +1,400 @@
+[
+	{
+		"id": "vonder-63-56-050-003-50-litros",
+		"name": "Vonder 63.56.050.003 50 litros",
+		"image": "/images/posts/melhor-lixeira-inox-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 50 litros, a maior desta lista",
+			"Corpo em aço inox 410 no formato retangular",
+			"Pedal mecânico com amortecimento para fechar a tampa com suavidade",
+			"Balde interno de plástico removível para facilitar a limpeza",
+			"Alça externa e base emborrachada para transporte e estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Volume interno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico com amortecimento"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "base emborrachada; sistema de amortecimento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 47,5 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,95kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-brazil-94538130-30-litros",
+		"name": "Tramontina Brazil 94538130 30 litros",
+		"image": "/images/posts/melhor-lixeira-inox-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 30 litros em formato circular",
+			"Aço inox AISI 430 com acabamento polido",
+			"Sistema Stay Open que mantém a tampa aberta",
+			"Ventosa na base e tampa com ressalto para maior estabilidade",
+			"Balde interno com alça e alça externa para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox AISI 430"
+			},
+			{
+				"label": "Acabamento",
+				"value": "polido"
+			},
+			{
+				"label": "Volume interno",
+				"value": "30 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Espessura",
+				"value": "0,4mm"
+			},
+			{
+				"label": "Extras",
+				"value": "tampa com sistema Stay Open; ventosa na base; tampa com ressalto"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65,5 x 36 x 29,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,65kg"
+			}
+		]
+	},
+	{
+		"id": "powermaid-slim-soft-close-5-litros",
+		"name": "Powermaid Slim Soft Close 5 litros",
+		"image": "/images/posts/melhor-lixeira-inox-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abertura basculante em formato retangular de 5 litros",
+			"Fechamento suave soft close para a tampa descer com suavidade",
+			"Revestimento anti-fingerprint que ajuda a reduzir marcas de dedos",
+			"Balde interno removível com alça para facilitar a retirada",
+			"Medidas compactas de 28,7 x 14 x 28,2cm e 0,55kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume interno",
+				"value": "5 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "basculante"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "fechamento suave soft close; revestimento anti-fingerprint"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,7 x 14 x 28,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,55kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-94538112-12-litros",
+		"name": "Tramontina 94538112 12 litros",
+		"image": "/images/posts/melhor-lixeira-inox-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros para o lixo do dia a dia",
+			"Aço inox AISI 430 polido com espessura de 0,34mm",
+			"Ventosa na base e tampa com ressalto para maior estabilidade",
+			"Alça externa para carregar a lixeira com mais praticidade",
+			"Balde interno plástico com alça para retirar o lixo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox AISI 430"
+			},
+			{
+				"label": "Acabamento",
+				"value": "polido"
+			},
+			{
+				"label": "Volume interno",
+				"value": "12 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Espessura",
+				"value": "0,34mm"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema Stay Open; tampa com ressalto; ventosa na base"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 31 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,97kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-new-94538705-5-litros",
+		"name": "Tramontina New 94538705 5 litros",
+		"image": "/images/posts/melhor-lixeira-inox-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa plástica que não encosta na parede ao abrir",
+			"Orifício lateral para prender o saco de lixo",
+			"Pegador para transportar com praticidade",
+			"Compacta: 5 litros em 24 x 26,6 x 20,5cm e 0,82kg",
+			"Aço inox AISI 430 polido com espessura de 0,4mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox AISI 430"
+			},
+			{
+				"label": "Acabamento",
+				"value": "polido"
+			},
+			{
+				"label": "Volume interno",
+				"value": "5 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "—"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Espessura",
+				"value": "0,4mm"
+			},
+			{
+				"label": "Extras",
+				"value": "tampa plástica não encosta na parede ao abrir; orifício lateral para prender o saco de lixo; pegador para transporte"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24 x 26,6 x 20,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,82kg"
+			}
+		]
+	},
+	{
+		"id": "powemaid-slim-3-litros",
+		"name": "Powemaid Slim 3 litros",
+		"image": "/images/posts/melhor-lixeira-inox-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3 litros em formato circular",
+			"Ventosa na base e pedal com base em inox",
+			"Acabamento escovado em aço inoxidável",
+			"Alça para transporte e apenas 0,3kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acabamento",
+				"value": "escovado"
+			},
+			{
+				"label": "Volume interno",
+				"value": "3 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Extras",
+				"value": "ventosa na base; pedal com base em inox; alça para transporte"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24,1 x 17,2 x 18,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,3kg"
+			}
+		]
+	},
+	{
+		"id": "calha-umida-ci-2021-4-litros-embutir",
+		"name": "Calha Úmida CI 2021 4 litros (embutir)",
+		"image": "/images/posts/melhor-lixeira-inox-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de embutir para instalar em bancadas",
+			"Tampa articulada removível para facilitar a limpeza",
+			"Moldura de apoio para o acabamento na bancada",
+			"Balde interno e capacidade de 4 litros",
+			"Formato quadrado com espessura de 0,8mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acabamento",
+				"value": "escovado"
+			},
+			{
+				"label": "Volume interno",
+				"value": "4 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "tampa articulada"
+			},
+			{
+				"label": "Balde interno",
+				"value": "sim"
+			},
+			{
+				"label": "Alça externa",
+				"value": "—"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrada"
+			},
+			{
+				"label": "Espessura",
+				"value": "0,8mm"
+			},
+			{
+				"label": "Extras",
+				"value": "tampa articulada removível; modelo de embutir em bancadas; moldura de apoio"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19,8 x 19,8 x 21,5cm"
+			}
+		]
+	}
+]

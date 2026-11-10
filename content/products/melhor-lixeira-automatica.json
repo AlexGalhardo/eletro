@@ -1,0 +1,367 @@
+[
+	{
+		"id": "member-s-mark-50-litros",
+		"name": "Member's Mark 50 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de aço inox e plástico com acabamento polido",
+			"Sensor de aproximação e botão ABRIR/FECHAR",
+			"Balde interno removível com alça e 50 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox e plástico"
+			},
+			{
+				"label": "Acabamento",
+				"value": "polido"
+			},
+			{
+				"label": "Volume interno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "6 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação e botão ABRIR/FECHAR"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61,5 x 27 x 38,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-63-56-055-003-55-litros",
+		"name": "Vonder 63.56.055.003 55 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 410 com acabamento polido",
+			"Alça externa para transporte",
+			"55 litros de volume interno, o maior da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Acabamento",
+				"value": "polido"
+			},
+			{
+				"label": "Volume interno",
+				"value": "55 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 42,5 x 28,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "oikos-elliptical-6-litros",
+		"name": "Oikos Elliptical 6 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato oval com acabamento clean na cor branca",
+			"Sensor de aproximação em 6 litros, o menor volume",
+			"Alimentado por 2 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Acabamento",
+				"value": "clean na cor branca"
+			},
+			{
+				"label": "Volume interno",
+				"value": "6 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "oval"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 26 x 14cm"
+			}
+		]
+	},
+	{
+		"id": "globalmix-inox-gh121-40-litros",
+		"name": "Globalmix Inox GH121 40 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox com acabamento escovado",
+			"Sensor de aproximação e botão OPEN/CLOSE",
+			"Corpo retangular de 50 x 34 x 25cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acabamento",
+				"value": "escovado"
+			},
+			{
+				"label": "Volume interno",
+				"value": "40 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "6 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação e botão OPEN/CLOSE"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50 x 34 x 25cm"
+			}
+		]
+	},
+	{
+		"id": "coibeu-wkz-16l-16-litros",
+		"name": "Coibeu WKZ-16L 16 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três modos de abertura: sensor, toque lateral e botão manual",
+			"Corpo retangular de 16 litros em plástico",
+			"Peso de 941g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Volume interno",
+				"value": "16 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação, toque lateral e botão manual"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 26 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "941g"
+			}
+		]
+	},
+	{
+		"id": "luvinco-yozi-12-litros",
+		"name": "LuvinCo YoZI 12 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três sensores: aproximação, joelho e vibração",
+			"Peso de 350g, o mais leve da lista",
+			"Formato oval de 12 litros em plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Volume interno",
+				"value": "12 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação, sensor de joelho e sensor de vibração"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "oval"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 28 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "350g"
+			}
+		]
+	},
+	{
+		"id": "globalmix-sense-premium-gh123-50-litros",
+		"name": "Globalmix Sense Premium GH123 50 litros",
+		"image": "/images/posts/melhor-lixeira-automatica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo retangular de 50 litros em aço inox",
+			"Sensor de aproximação e botão OPEN/CLOSE",
+			"Dimensões de 60 x 34 x 25cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acabamento",
+				"value": "aço escovado"
+			},
+			{
+				"label": "Volume interno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "6 pilhas AA"
+			},
+			{
+				"label": "Modos de abertura",
+				"value": "sensor de aproximação e botão OPEN/CLOSE"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60 x 34 x 25cm"
+			}
+		]
+	}
+]

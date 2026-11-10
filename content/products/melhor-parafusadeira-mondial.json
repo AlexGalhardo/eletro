@@ -1,0 +1,338 @@
+[
+	{
+		"id": "mondial-pf-09m-1400rpm",
+		"name": "Mondial PF-09M 1400RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque de 40Nm, o maior da lista",
+			"Carregamento em 2 horas",
+			"Controle de torque com 21 posições",
+			"Luz LED e indicador de nível de bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de Íon Lítio recarregável e removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "2 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "0–350RPM; 0–1400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "40Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (0,8 – 10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação variável (2 velocidades); sistema reversível; controle de torque com 21 posições; seletor de função para parafusamento e furação com ou sem impacto; luz de LED; indicador de nível de bateria"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta; bit ponta dupla"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "20,5 x 20 x 7,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,16kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-pi-10ma-1250rpm",
+		"name": "Mondial PI-10MA 1250RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função furadeira com impacto",
+			"Mandril de aperto rápido e estrutura emborrachada",
+			"Lanterna LED e controle de torque com 16 posições",
+			"Maleta com 6 bits, 6 brocas e prolongador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável e removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "0–350RPM; 0–1250RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "20Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação variável; sistema reversível; controle de torque com 16 posições; função furadeira com impacto; lanterna LED; indicador de nível de bateria; mandril de aperto rápido; estrutura emborrachada; 1 ano de garantia"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta; 6 bits; 6 brocas; 1 prolongador"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "24 x 23,3 x 7,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-fpf-06m-650rpm",
+		"name": "Mondial FPF-06M 650RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ferramenta 2 em 1: furadeira e parafusadeira",
+			"Torque de 10Nm com 16 posições de controle",
+			"Mandril de 1/32 a 3/8 polegada",
+			"Lanterna LED e garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de Íons de Lítio recarregável e removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 4 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "650RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "10Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/32″–3/8″ (0,8–10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "ferramenta 2 em 1 (furadeira e parafusadeira); rotação variável; sistema reversível; controle de torque com 16 posições; lanterna LED; indicador de nível de bateria; mandril de aperto rápido; estrutura emborrachada; 1 ano de garantia"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta; 6 bits; 6 brocas; 1 prolongador"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "21 x 19 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,57kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-fpf-05-200rpm",
+		"name": "Mondial FPF-05 200RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo simples para tarefas leves",
+			"Carregador bivolt e prolongador incluídos",
+			"Punho ergonômico e rotação reversível",
+			"11 bits para diferentes parafusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "200RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "3Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/4″"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação reversível; controle de torque; lanterna LED; indicador de nível de bateria; punho ergonômico; 1 ano de garantia"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "prolongador; 11 bits; carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "14 x 4,5 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "320g"
+			}
+		]
+	},
+	{
+		"id": "mondial-pi-12ma-1250rpm",
+		"name": "Mondial PI-12MA 1250RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função de impacto com até 17.550ipm",
+			"Seletor de função para parafusar e furar",
+			"Carregador bivolt e maleta plástica",
+			"12 bits, 6 brocas e 1 prolongador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável e removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "0–350RPM; 0–1250RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "20Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (0,8–10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação variável com 2 velocidades; sistema reversível; controle de torque com 16 posições; seletor de função para parafusamento, furação sem impacto e furação com impacto; luz de LED; indicador de nível de bateria; mandril de aperto rápido; estrutura emborrachada; função de impacto com até 17.550ipm; 1 ano de garantia"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta plástica; 12 bits; 6 brocas; 1 prolongador; carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "19 x 20 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-pi-11ma-1250rpm",
+		"name": "Mondial PI-11MA 1250RPM",
+		"image": "/images/posts/melhor-parafusadeira-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"20 bits e 20 brocas para aço, concreto e madeira",
+			"Seletor de função com ou sem impacto",
+			"Soquetes e bits longos para trabalhos variados",
+			"Carregador bivolt e maleta plástica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável de lítio e removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "0–350RPM; 0–1250RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "20Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (0,8–10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação variável com 2 velocidades; sistema reversível; controle de torque com 16 posições; seletor de função para parafusamento, furação com ou sem impacto; luz de LED; função impacto com até 17.550ipm); estrutura emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta plástica; 20 bits; 20 brocas para aço, concreto e madeira; 8 bits longos; 4 soquetes; 1 prolongador; 1 broca alargadora; carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "19 x 20 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "980g"
+			}
+		]
+	}
+]

@@ -1,0 +1,394 @@
+[
+	{
+		"id": "brastemp-bmo40ar-900w-40-litros",
+		"name": "Brastemp (BMO40AR) 900W 40 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 40 litros, a maior da lista",
+			"Painel touchscreen com 58 programas",
+			"Função crisp, vapor e grill",
+			"Porta de vidro espelhado e prato de 36cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "58"
+			},
+			{
+				"label": "Funções",
+				"value": "função crisp; função vapor; bloqueio das teclas; seletor de potência; relógio; função grill; descongelar; timer; aquecimento especial; 8 níveis de potência"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "36cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 59,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me3bp-1400w-34-litros",
+		"name": "Electrolux (ME3BP) 1400W 34 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 34 litros e potência de 1400W",
+			"Painel touchscreen com seis programas",
+			"Função derreter, desidratar e cozinhar delicado",
+			"Tira odor e função manter aquecido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "derreter; desidratar; cozinhar rápido; cozinhar delicado; descongelamento assistido; tira odor; manter aquecido; economia de energia; trava painel; relógio"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,9 x 59,5 x 44,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me3ep-1400w-34-litros",
+		"name": "Electrolux (ME3EP) 1400W 34 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 34 litros com potência de 1400W",
+			"Função autolimpante e tira odor",
+			"Nove opções de menu para o dia a dia",
+			"Prato de 32,5cm e painel touchscreen"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar; autolimpante; Tira Odor; 9 opções de menu: dia a dia, faça fácil, menu guarnições, menu kids, meus favoritos, sobremesa, prato rápido, menu receitas e menu receitas fáceis; início/+30seg"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "32,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,3 x 59,4 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-mga20p1-1450w-35-litros",
+		"name": "Midea (MGA20P1) 1450W 35 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 35 litros e potência de 1450W",
+			"Função eco e tecnologia SmartPlace",
+			"Função limpa fácil e tira odor",
+			"Minuto fácil e cinco programas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "35 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "minuto fácil; preferido; eco; tira odor; limpa fácil; aquecer; descongelar; ajuste de potência; relógio; trava de segurança; iniciar/+30seg; tecnologia SmartPlace"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,8 x 59,4 x 47,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "panasonic-nn-gb68qsruk-1450w-30-litros",
+		"name": "Panasonic (NN-GB68QSRUK) 1450W 30 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 30 litros com 10 níveis de potência",
+			"Função grill e combinado",
+			"Auto descongelamento e auto reaquecimento",
+			"Desodorizador e trava de segurança eletrônica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "30 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "8"
+			},
+			{
+				"label": "Funções",
+				"value": "grill; combinado; desodorizador; auto descongelamento; auto reaquecimento; memória; função mudo; timer; relógio; trava de segurança eletrônica; adicionar/+30seg.; tempo de espera; 10 níveis de potência"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,8 x 59,5 x 42,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bm146ae-1400w-32-litros",
+		"name": "Brastemp (BM146AE) 1400W 32 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 32 litros com 18 programas",
+			"Função volume e menu descongelar",
+			"Trava de segurança e 10 níveis de potência",
+			"Timer e função iniciar com +30 segundos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "32 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "18"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; tira odor; 10 níveis de potência; timer; trava de segurança; função volume; iniciar/+30seg"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "32,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 59,5 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-mgb35m1-1450w-35-litros",
+		"name": "Midea (MGB35M1) 1450W 35 litros",
+		"image": "/images/posts/melhor-microondas-de-embutir-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 35 litros com 10 níveis de potência",
+			"Função autolimpeza e luz interna",
+			"Tecnologia Smart Plate e função eco",
+			"Timer, relógio e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "35 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; função limpa fácil; desodorizador; relógio; +30seg; trava de segurança; 10 níveis de potência; tira odor; função eco; minuto fácil; função preferido; autolimpeza; timer; luz interna; tecnologia Smart Plate"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,8 x 59,4 x 47,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

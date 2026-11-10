@@ -1,0 +1,306 @@
+[
+	{
+		"id": "oster-blender-power-600ml-700w",
+		"name": "Oster Blender Power (600ml) 700W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 700W, a maior da lista",
+			"Duas jarras To Go de 500ml",
+			"Copo em Tritan ultrarresistente ou aço inox",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (500ml cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico Tritan ultrarresistente ou aço inox"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 jarras To Go de 500ml cada"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "black-decker-freestyle-lp320-600ml-300w",
+		"name": "Black Decker Freestyle LP320 (600ml) 300W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas jarras de 300ml e 600ml",
+			"Dois níveis de velocidade e função pulsar",
+			"Tampas flip-top com vedação para transporte",
+			"Material SAN BPA Free"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W (127V) ou 290W (220V)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (300ml e 600ml)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "SAN BPA Free"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis; função pulsar"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 jarras (300ml e 600ml); 2 tampas flip-top com vedação para transporte"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-dg-01-750ml-300w",
+		"name": "Mondial DG-01 (750ml) 300W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copos de 750ml, os maiores da lista",
+			"Tampas flip-top inclusas",
+			"Dois níveis de velocidade e função pulsar",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (750ml cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico resistente (material específico não informado)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2 níveis; função pulsar"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (750ml cada); 2 tampas flip-top"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-zoop-contrast-500ml-600w",
+		"name": "Cadence Zoop Contrast (500ml) 600W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W",
+			"Duas jarras de 500ml com tampas flip-top",
+			"Copos em material BPA Free",
+			"Peso de 1,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (500ml cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "BPA Free"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 jarras (500ml cada); 2 tampas flip-top"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "hamilton-beach-personal-600ml-300w",
+		"name": "Hamilton Beach Personal (600ml) 300W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas jarras de 600ml",
+			"Base de liquidificador e duas tampas de viagem",
+			"Potência de 380W em 220V",
+			"Peso de 960g, o mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W (127V) ou 380W (220V)"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (600ml cada)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "1 base de liquidificador; 2 copos (600ml cada); 2 tampas de viagem"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "960g"
+			}
+		]
+	},
+	{
+		"id": "philco-fit-retro-600ml-300w",
+		"name": "Philco Fit Retrô (600ml) 300W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas jarras de 600ml",
+			"Copo em Tritan e metal",
+			"Tampas com bico de abertura",
+			"Peso de 1,01kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 jarras (600ml cada)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico Tritan e metal"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "2 copos (600ml cada); 2 tampas com bico de abertura"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,01kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-blender-zoop-sport-500ml-600w",
+		"name": "Cadence Blender Zoop Sport (500ml) 600W",
+		"image": "/images/posts/melhor-mini-liquidificador-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W",
+			"Jarra inox de 435ml",
+			"Jarra de 500ml em plástico BPA Free",
+			"Duas tampas inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "600W"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1 jarra (500ml); 1 jarra inox (435ml)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico BPA Free; inox"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 nível"
+			},
+			{
+				"label": "Itens Inclusos",
+				"value": "1 jarra (500ml); 1 jarra inox (435ml); 2 tampas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,12kg"
+			}
+		]
+	}
+]

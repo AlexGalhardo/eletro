@@ -1,0 +1,378 @@
+[
+	{
+		"id": "electrolux-embutir-me3bc-1400w-34-litros",
+		"name": "Electrolux Embutir (ME3BC) 1400W 34 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1400W e capacidade de 34 litros",
+			"Painel touch com 6 programas e função tira odor",
+			"Receitas pré-programadas e QR code para receitas",
+			"Prato de 25,4cm e descongelamento assistido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6 (painel)"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; desliga display; QR code para receitas; trava de segurança; função mudo; receitas pré-programadas; função descongelar; relógio; derreter; desidratar; cozinhar rápido; cozinhar delicado; função economia de energia; descongelamento assistido (avisa para virar/mexer); tecla início/+30 segundos; ajuste de tempo em +1min, +5min ou +10min; cancela/pausa"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,9 x 59,5 x 44,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me36b-1600w-36-litros",
+		"name": "Electrolux (ME36B) 1600W 36 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W e capacidade de 36 litros",
+			"Função fermentar além de descongelar e desidratar",
+			"Prato de 31,5cm para pratos maiores",
+			"Painel touch com trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "36 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6 (painel)"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; desliga display; QR code para receitas; trava de segurança; função mudo; receitas pré-programadas; função descongelar; relógio; derreter; desidratar; cozinhar rápido; cozinhar delicado; função economia de energia; função fermentar; descongelamento assistido (avisa para virar/mexer); tecla início/+30 segundos; ajuste de tempo em +1min, +5min ou +10min; cancela/pausa"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 52 x 41,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-meo44-1400w-34-litros",
+		"name": "Electrolux (MEO44) 1400W 34 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove programas no painel com menus light, kids e dia a dia",
+			"Potência de 1400W e capacidade de 34 litros",
+			"Função limpa fácil para facilitar a limpeza",
+			"Ajuste de brilho do display e função mudo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9 (painel)"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; desliga display; QR code para receitas; trava de segurança; receitas pré-programadas; função descongelar; relógio; limpa fácil; menus: light, kids, dia a dia e receitas; potência; tecla início/+30 segundos; porção; cancela/pausa; ajuste de brilho; mudo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 53,9 x 42,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-mi41s-1600w-31-litros",
+		"name": "Electrolux (MI41S) 1600W 31 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta de vidro espelhado com painel touch",
+			"Potência de 1600W e 31 litros de capacidade",
+			"Menus dia a dia e kids com função meu prato",
+			"Função início rápido e prato de 31,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "31 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9 (painel)"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; desliga display; QR code para receitas; trava de segurança; receitas pré-programadas; função descongelar; relógio; limpa fácil; meu prato; início rápido; função mudo; menu dia a dia; menu kids; porção; potência; tecla início/+30 segundos; porção; cancela/pausa"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 52 x 42,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ms37r-1500w-27-litros",
+		"name": "Electrolux (MS37R) 1500W 27 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"55 receitas no menu online via QR Code",
+			"Potência de 1500W com tabela de níveis de potência",
+			"Painel de membrana com trava de painel",
+			"Timer e ajuste de brilho do display"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "27 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões de membrana"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "55"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; menu faça fácil; menu online com 55 receitas via QR Code; manter aquecido; tira odor; limpa fácil; início/+30 segundos; cancela/pausa; trava painel; trava de segurança; ajuste de brilho do display; mudo (bip); ajuste de potência (tabela de níveis); relógio; timer; porção"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "28,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,1 x 48,3 x 40,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me23s-1100w-23-litros",
+		"name": "Electrolux (ME23S) 1100W 23 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1100W e capacidade de 23 litros",
+			"Quatro programas com menu de receitas",
+			"Economia de energia com desligamento do display",
+			"Prato de 27cm e função desidratar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "23 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "4"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; QR code para receitas; trava de segurança; receitas pré-programadas; função descongelar; relógio; desidratar; cozinhar rápido; cozinhar delicado; derreter; economia de energia (desliga display); mudo; relógio; menu receitas; descongelamento assistido (avisa para virar/mexer); cancela/pausa; início/+30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 46,1 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-embutir-me3hp-1450w-34-litros",
+		"name": "Electrolux Embutir (ME3HP) 1450W 34 litros",
+		"image": "/images/posts/melhor-microondas-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função grill e menu gratinar no painel",
+			"Potência de 1450W e capacidade de 34 litros",
+			"Dez programas com menu dia a dia",
+			"Porta espelhada e prato de 31,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "10"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; trava de segurança; receitas pré-programadas; função descongelar; relógio; grill; início/+30 segundos; porção; potência; menu gratinar e dia a dia; cancela/pausa"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,8 x 59,5 x 44cm"
+			},
+			{
+				"label": "Peso",
+				"value": "18kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

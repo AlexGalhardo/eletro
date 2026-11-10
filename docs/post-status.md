@@ -7,8 +7,8 @@ tabela fica desatualizada. A mesma informação aparece em `/admin/posts`.
 - **Links:** campos de loja com endereço real (`https://`).
 - **Pendentes:** campos de loja ainda com `"#"`, esperando o link de afiliado.
 
-Total: 412 posts, 64 fora de rascunho, 348 rascunhos,
-381 links de afiliado e 7240 pendentes.
+Total: 494 posts, 64 fora de rascunho, 430 rascunhos,
+381 links de afiliado e 8926 pendentes.
 
 | Slug | Título | Categoria | Draft | Produtos | Links | Pendentes |
 |---|---|---|---|---|---|---|
@@ -391,18 +391,100 @@ Total: 412 posts, 64 fora de rascunho, 348 rascunhos,
 | [melhor-lavadora-de-alta-pressao-vonder](../content/posts/melhor-lavadora-de-alta-pressao-vonder.mdx) | Melhores Lavadoras Vonder de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
 | [melhor-lavadora-de-alta-pressao-wap](../content/posts/melhor-lavadora-de-alta-pressao-wap.mdx) | Lavadora de Alta Pressão WAP 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
 | [melhor-lavadora-de-roupas-colormaq](../content/posts/melhor-lavadora-de-roupas-colormaq.mdx) | Top Modelos Lavadora de Roupas Colormaq 2026 | lavanderia | false | 7 | 6 | 1 |
+| [melhor-limpadora-de-pisos](../content/posts/melhor-limpadora-de-pisos.mdx) | Melhores Limpadoras de Pisos 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-liquidificador-arno](../content/posts/melhor-liquidificador-arno.mdx) | Liquidificador Arno 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-black-and-decker](../content/posts/melhor-liquidificador-black-and-decker.mdx) | Melhores Liquidificadores Black+Decker 2026: 5 Modelos | cozinha | true | 5 | 0 | 15 |
+| [melhor-liquidificador-britania](../content/posts/melhor-liquidificador-britania.mdx) | Liquidificador Britânia 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-cadence](../content/posts/melhor-liquidificador-cadence.mdx) | Melhores Liquidificadores Cadence de 2026: 6 Modelos | cozinha | true | 6 | 0 | 18 |
+| [melhor-liquidificador-copo-de-vidro](../content/posts/melhor-liquidificador-copo-de-vidro.mdx) | Melhores Liquidificadores de Vidro 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-mondial](../content/posts/melhor-liquidificador-mondial.mdx) | Melhores Liquidificadores Mondial de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-ninja](../content/posts/melhor-liquidificador-ninja.mdx) | Melhores Liquidificadores Ninja de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-oster](../content/posts/melhor-liquidificador-oster.mdx) | Melhores Liquidificadores Oster de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-philco](../content/posts/melhor-liquidificador-philco.mdx) | Melhores Liquidificadores Philco de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-potente-e-silencioso](../content/posts/melhor-liquidificador-potente-e-silencioso.mdx) | Melhores Liquidificadores Potentes 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificador-walita](../content/posts/melhor-liquidificador-walita.mdx) | Melhores Liquidificadores Walita 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-liquidificadores](../content/posts/melhor-liquidificadores.mdx) | Melhor Liquidificador 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-lixadeira-de-cinta](../content/posts/melhor-lixadeira-de-cinta.mdx) | Lixadeiras de Cinta em 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lixadeira-de-parede-vonder](../content/posts/melhor-lixadeira-de-parede-vonder.mdx) | Melhor Lixadeira de Parede Vonder 2026: 6 Modelos | ferramentas | true | 6 | 0 | 18 |
+| [melhor-lixadeira-orbital](../content/posts/melhor-lixadeira-orbital.mdx) | Lixadeira Orbital 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-lixeira-automatica](../content/posts/melhor-lixeira-automatica.mdx) | Melhores Lixeiras Automáticas de 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-lixeira-com-pedal](../content/posts/melhor-lixeira-com-pedal.mdx) | Lixeira com Pedal 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-lixeira-grande-com-tampa](../content/posts/melhor-lixeira-grande-com-tampa.mdx) | Melhores Lixeiras Grandes com Tampa 2026: 7 Modelos | limpeza | true | 7 | 0 | 21 |
+| [melhor-lixeira-inox](../content/posts/melhor-lixeira-inox.mdx) | Melhores Lixeiras Inox de 2026: 7 Modelos Comparados | limpeza | true | 7 | 0 | 21 |
+| [melhor-luminaria-de-chao](../content/posts/melhor-luminaria-de-chao.mdx) | Melhores Luminárias de Chão 2026: 7 Modelos Comparados | iluminacao | true | 7 | 0 | 21 |
+| [melhor-luminaria-de-mesa](../content/posts/melhor-luminaria-de-mesa.mdx) | Melhores Luminárias de Mesa 2026 Comparadas | iluminacao | true | 7 | 0 | 21 |
+| [melhor-luz-de-leitura](../content/posts/melhor-luz-de-leitura.mdx) | Melhores Luzes de Leitura de 2026: 7 Modelos | iluminacao | true | 7 | 0 | 21 |
+| [melhor-mala-de-bordo](../content/posts/melhor-mala-de-bordo.mdx) | Melhores Malas de Bordo 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-malas-de-viagem](../content/posts/melhor-malas-de-viagem.mdx) | Melhores Malas de Viagem 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-mangueira-de-jardim](../content/posts/melhor-mangueira-de-jardim.mdx) | Melhores Mangueiras de Jardim de 2026: 7 Modelos | jardim | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cafe-oster](../content/posts/melhor-maquina-de-cafe-oster.mdx) | Melhores Máquinas de Café Oster 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo](../content/posts/melhor-maquina-de-cortar-cabelo.mdx) | Máquinas de Cortar Cabelo de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo-kemei](../content/posts/melhor-maquina-de-cortar-cabelo-kemei.mdx) | 7 Máquinas Kemei de Cortar Cabelo em 2026 | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo-mondial](../content/posts/melhor-maquina-de-cortar-cabelo-mondial.mdx) | Máquina de Cortar Cabelo Mondial 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo-philco](../content/posts/melhor-maquina-de-cortar-cabelo-philco.mdx) | Melhor Máquina de Cortar Cabelo Philco 2026 | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo-sem-fio](../content/posts/melhor-maquina-de-cortar-cabelo-sem-fio.mdx) | Máquina de Cortar Cabelo 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-cortar-cabelo-wahl](../content/posts/melhor-maquina-de-cortar-cabelo-wahl.mdx) | Melhores Máquinas Wahl de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-maquina-de-costura-portatil](../content/posts/melhor-maquina-de-costura-portatil.mdx) | Máquina de Costura 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-maquina-de-fazer-pao](../content/posts/melhor-maquina-de-fazer-pao.mdx) | Melhores Máquinas de Fazer Pão 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-maquina-de-gelo](../content/posts/melhor-maquina-de-gelo.mdx) | Melhores Máquinas de Gelo de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-maquina-de-sorvete](../content/posts/melhor-maquina-de-sorvete.mdx) | Máquinas de Sorvete em 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-maquina-de-waffle](../content/posts/melhor-maquina-de-waffle.mdx) | Melhores Máquinas de Waffle 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-maquina-lavar-brastemp](../content/posts/melhor-maquina-lavar-brastemp.mdx) | Top Modelos Máquina de Lavar Brastemp 2026 | lavanderia | false | 7 | 6 | 1 |
 | [melhor-maquina-lavar-consul](../content/posts/melhor-maquina-lavar-consul.mdx) | Melhor Máquina de Lavar Consul: Ranking Completo | lavanderia | false | 7 | 6 | 1 |
 | [melhor-maquina-lavar-electrolux](../content/posts/melhor-maquina-lavar-electrolux.mdx) | Top Melhores Máquinas de Lavar Electrolux 2026 | lavanderia | false | 7 | 3 | 4 |
 | [melhor-maquina-lavar-panasonic](../content/posts/melhor-maquina-lavar-panasonic.mdx) | As 5 Melhores Maquinas de Lavar Panasonic | lavanderia | false | 5 | 5 | 0 |
 | [melhor-maquina-lavar-roupa-12-kg](../content/posts/melhor-maquina-lavar-roupa-12-kg.mdx) | Top Modelos Máquina de Lavar Roupa 12kg 2026 | lavanderia | false | 7 | 7 | 0 |
+| [melhor-maquina-wahl-sem-fio](../content/posts/melhor-maquina-wahl-sem-fio.mdx) | Máquinas Wahl Sem Fio de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-massageador-de-pes](../content/posts/melhor-massageador-de-pes.mdx) | Melhores Massageadores de Pés de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-mesa-de-cabeceira-idimex](../content/posts/melhor-mesa-de-cabeceira-idimex.mdx) | Mesa de Cabeceira Idimex 2026: 6 Modelos Comparados | moveis | true | 6 | 0 | 18 |
 | [melhor-mesa-dobravel](../content/posts/melhor-mesa-dobravel.mdx) | Melhor Mesa Dobrável Para Comprar 2026 | moveis | false | 7 | 7 | 0 |
+| [melhor-microondas](../content/posts/melhor-microondas.mdx) | Melhores Microondas 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-20-litros](../content/posts/melhor-microondas-20-litros.mdx) | Melhores Micro-ondas de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-barato-e-pequeno](../content/posts/melhor-microondas-barato-e-pequeno.mdx) | Melhores Microondas Baratos e Pequenos 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-bom-e-barato](../content/posts/melhor-microondas-bom-e-barato.mdx) | Melhores Micro-ondas de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-brastemp](../content/posts/melhor-microondas-brastemp.mdx) | Micro-ondas Brastemp de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-de-embutir](../content/posts/melhor-microondas-de-embutir.mdx) | Micro-ondas de Embutir de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-electrolux](../content/posts/melhor-microondas-electrolux.mdx) | Melhores Micro-ondas Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
 | [melhor-microondas-embutir-electrolux](../content/posts/melhor-microondas-embutir-electrolux.mdx) | Melhores Microondas de Embutir Electrolux 2026 | cozinha | false | 5 | 5 | 0 |
+| [melhor-microondas-espelhado](../content/posts/melhor-microondas-espelhado.mdx) | Melhores Micro-ondas Espelhados de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-inox](../content/posts/melhor-microondas-inox.mdx) | Micro-ondas Inox 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-melhor-custo-beneficio](../content/posts/melhor-microondas-melhor-custo-beneficio.mdx) | Micro-ondas 2026: 7 Modelos Comparados pela Ficha Técnica | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-midea](../content/posts/melhor-microondas-midea.mdx) | Micro-ondas Midea 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-pequeno](../content/posts/melhor-microondas-pequeno.mdx) | Melhores Microondas Pequenos 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microondas-philco](../content/posts/melhor-microondas-philco.mdx) | Micro-ondas Philco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-microretifica](../content/posts/melhor-microretifica.mdx) | Melhores Microretíficas 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-mini-liquidificador-portatil](../content/posts/melhor-mini-liquidificador-portatil.mdx) | Melhores Mini Liquidificadores Portáteis 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-mini-parafusadeira](../content/posts/melhor-mini-parafusadeira.mdx) | Mini Parafusadeira 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-mini-processador](../content/posts/melhor-mini-processador.mdx) | Melhor Mini Processador 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-mini-secador-de-cabelo](../content/posts/melhor-mini-secador-de-cabelo.mdx) | Melhores Mini Secadores de 2026: 7 Modelos Comparados | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-mini-ventilador](../content/posts/melhor-mini-ventilador.mdx) | Mini Ventiladores de 2026: 7 Modelos Comparados | climatizacao | true | 7 | 0 | 21 |
+| [melhor-mixer](../content/posts/melhor-mixer.mdx) | Melhores Mixers de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-mixer-elgin](../content/posts/melhor-mixer-elgin.mdx) | Mixers Elgin em 2026: 5 Modelos Comparados | cozinha | true | 5 | 0 | 15 |
 | [melhor-mixer-mondial](../content/posts/melhor-mixer-mondial.mdx) | Melhores Mixers Mondial 2026 | cozinha | false | 7 | 7 | 0 |
+| [melhor-mochila-camping](../content/posts/melhor-mochila-camping.mdx) | Mochila de Camping 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-modelador-de-cachos](../content/posts/melhor-modelador-de-cachos.mdx) | Melhores Modeladores de Cachos de 2026: 7 Modelos | cuidados-pessoais | true | 7 | 0 | 21 |
+| [melhor-moedor-de-cafe](../content/posts/melhor-moedor-de-cafe.mdx) | Moedor de Café 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
 | [melhor-moedor-eletrico-cafe](../content/posts/melhor-moedor-eletrico-cafe.mdx) | Melhores Moedores Elétricos de Café 2026 | cozinha | false | 7 | 7 | 0 |
+| [melhor-motosserra](../content/posts/melhor-motosserra.mdx) | Melhores Motosserras 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-multiprocessador-philco](../content/posts/melhor-multiprocessador-philco.mdx) | Multiprocessador Philco 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-nivel-a-laser](../content/posts/melhor-nivel-a-laser.mdx) | Melhores Níveis a Laser 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-organizador-de-parafusos](../content/posts/melhor-organizador-de-parafusos.mdx) | Organizadores de Parafusos de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-panela-arroz-eletrico](../content/posts/melhor-panela-arroz-eletrico.mdx) | Melhores Panelas de Arroz Elétricas 2026 | cozinha | false | 7 | 7 | 0 |
+| [melhor-panela-de-pressao-com-fechamento-externo](../content/posts/melhor-panela-de-pressao-com-fechamento-externo.mdx) | Panelas de Pressão de 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-panela-de-pressao-eletrica](../content/posts/melhor-panela-de-pressao-eletrica.mdx) | Melhores Panelas de Pressão Elétricas 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-panela-de-pressao-eletrica-electrolux](../content/posts/melhor-panela-de-pressao-eletrica-electrolux.mdx) | Panelas Elétricas Electrolux em 2026: 4 Modelos | cozinha | true | 4 | 0 | 12 |
+| [melhor-panela-de-pressao-eletrica-midea](../content/posts/melhor-panela-de-pressao-eletrica-midea.mdx) | Panela de Pressão Elétrica Midea 2026: 6 Modelos | cozinha | true | 6 | 0 | 18 |
+| [melhor-panela-eletrica-electrolux](../content/posts/melhor-panela-eletrica-electrolux.mdx) | Melhores Panelas Elétricas Electrolux de 2026: 7 Modelos | cozinha | true | 7 | 0 | 21 |
+| [melhor-panelas-de-pressao](../content/posts/melhor-panelas-de-pressao.mdx) | Melhores Panelas de Pressão 2026: 7 Modelos Comparados | cozinha | true | 7 | 0 | 21 |
+| [melhor-paquimetro-digital](../content/posts/melhor-paquimetro-digital.mdx) | Melhores Paquímetros Digitais 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-parafusadeira-boa-e-barata](../content/posts/melhor-parafusadeira-boa-e-barata.mdx) | Parafusadeiras Boas e Baratas em 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-parafusadeira-bosch](../content/posts/melhor-parafusadeira-bosch.mdx) | Melhores Parafusadeiras Bosch em 2026 | ferramentas | false | 7 | 6 | 1 |
 | [melhor-parafusadeira-com-fio](../content/posts/melhor-parafusadeira-com-fio.mdx) | 5 Dicas De Parafusadeira Com Fio Para Comprar | ferramentas | false | 5 | 5 | 0 |
+| [melhor-parafusadeira-custo-beneficio](../content/posts/melhor-parafusadeira-custo-beneficio.mdx) | Parafusadeiras de Custo-Benefício em 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-parafusadeira-mondial](../content/posts/melhor-parafusadeira-mondial.mdx) | Parafusadeira Mondial 2026: 6 Modelos Comparados | ferramentas | true | 6 | 0 | 18 |
+| [melhor-parafusadeira-para-drywall](../content/posts/melhor-parafusadeira-para-drywall.mdx) | Melhores Parafusadeiras de 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
+| [melhor-parafusadeira-wap](../content/posts/melhor-parafusadeira-wap.mdx) | Parafusadeiras WAP de 2026: 7 Modelos Comparados | ferramentas | true | 7 | 0 | 21 |
+| [melhor-parafusadeiras](../content/posts/melhor-parafusadeiras.mdx) | Melhores Parafusadeiras a Bateria 2026: 7 Modelos | ferramentas | true | 7 | 0 | 21 |
 | [melhor-pistola-pintura-eletrica](../content/posts/melhor-pistola-pintura-eletrica.mdx) | Melhor Pistola de Pintura Elétrica em 2026 | ferramentas | false | 7 | 7 | 0 |
 | [melhor-poltrona-reclinavel](../content/posts/melhor-poltrona-reclinavel.mdx) | 5 Melhores Poltronas Reclináveis Para 2026 | moveis | false | 5 | 5 | 0 |
 | [melhor-processador-liquidificador](../content/posts/melhor-processador-liquidificador.mdx) | 5 Melhores Processador e Liquidificador 2026 | cozinha | false | 5 | 5 | 0 |

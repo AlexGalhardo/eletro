@@ -1,0 +1,283 @@
+[
+	{
+		"id": "tramontina-multi-ats-30-metros",
+		"name": "Tramontina Multi ATS (30 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 14bar de pressão e diâmetro interno de 1/2″",
+			"2 engates rápidos e esguicho com jato regulável",
+			"Adaptador fêmea com rosca de 3/4″ e redução de 1/2″"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "trançada"
+			},
+			{
+				"label": "Comprimento",
+				"value": "30 metros"
+			},
+			{
+				"label": "Diâmetro interno",
+				"value": "1/2″"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 14bar (203psi)"
+			},
+			{
+				"label": "Temperatura máxima de trabalho",
+				"value": "50°C"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 engates rápidos; esguicho com jato regulável; 1 adaptador fêmea com rosca de 3/4″ e redução de 1/2″"
+			}
+		]
+	},
+	{
+		"id": "duraflex-akfg1935-30-metros",
+		"name": "Duraflex AKFG1935 (30 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo flexível com 30 metros de comprimento",
+			"Até 12bar de pressão e diâmetro de 1/2″",
+			"Esguicho e engate rápido inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "flexível"
+			},
+			{
+				"label": "Comprimento",
+				"value": "30 metros"
+			},
+			{
+				"label": "Diâmetro interno",
+				"value": "1/2″"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 12bar (174psi)"
+			},
+			{
+				"label": "Temperatura máxima de trabalho",
+				"value": "50ºC"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "esguicho; engate rápido"
+			}
+		]
+	},
+	{
+		"id": "marqs-home-standard-30-metros",
+		"name": "Marqs Home Standard (30 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de até 20bar, a maior da lista",
+			"Diâmetro interno de 7/16″ com 30 metros",
+			"Esguicho e engate rápido inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "trançada"
+			},
+			{
+				"label": "Comprimento",
+				"value": "30 metros"
+			},
+			{
+				"label": "Diâmetro interno",
+				"value": "7/16″"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 20bar (289psi)"
+			},
+			{
+				"label": "Temperatura máxima de trabalho",
+				"value": "50ºC"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "esguicho; engate rápido"
+			}
+		]
+	},
+	{
+		"id": "tramontina-flex-para-jardim-20-metros",
+		"name": "Tramontina Flex Para Jardim (20 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trançada de 20 metros com suporte incluso",
+			"Pressão de até 10bar e temperatura de 50°C",
+			"Esguicho e engate rápido inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "trançada"
+			},
+			{
+				"label": "Comprimento",
+				"value": "20 metros"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 10bar (145psi)"
+			},
+			{
+				"label": "Temperatura máxima de trabalho",
+				"value": "50°C"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "esguicho; engate rápido; suporte"
+			}
+		]
+	},
+	{
+		"id": "tramontina-flex-para-jardim-30-metros",
+		"name": "Tramontina Flex Para Jardim (30 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trançada de 30 metros com esguicho e engate rápido",
+			"Pressão de até 10bar e temperatura de 50°C",
+			"Material em PVC flexível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "trançada"
+			},
+			{
+				"label": "Comprimento",
+				"value": "30 metros"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 10bar (145psi)"
+			},
+			{
+				"label": "Temperatura máxima de trabalho",
+				"value": "50°C"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "esguicho; engate rápido"
+			}
+		]
+	},
+	{
+		"id": "policorda-mangueira-de-jardim-verde-trancada-30-metros",
+		"name": "Policorda Mangueira de Jardim Verde Trançada (30 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trançada verde de 30 metros",
+			"Adaptadores de torneira de 1/2″ e 3/4″",
+			"Diâmetro interno de 7/16″"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "trançada"
+			},
+			{
+				"label": "Comprimento",
+				"value": "30 metros"
+			},
+			{
+				"label": "Diâmetro interno",
+				"value": "7/16″"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "esguicho; engate rápido; adaptador de torneira 1/2″ e 3/4″"
+			}
+		]
+	},
+	{
+		"id": "vonder-31-21-120-120-20-metros",
+		"name": "Vonder 31.21.120.120 (20 metros)",
+		"image": "/images/posts/melhor-mangueira-de-jardim-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporte com bucha e parafuso para fixação",
+			"Conector e adaptador de 3/4″ para 1/2″",
+			"Pressão de até 10bar em 20 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "flexível"
+			},
+			{
+				"label": "Comprimento",
+				"value": "20 metros"
+			},
+			{
+				"label": "Diâmetro interno",
+				"value": "1/2″"
+			},
+			{
+				"label": "Pressão suportada",
+				"value": "até 10bar (150psi)"
+			},
+			{
+				"label": "Material",
+				"value": "PVC flexível"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "conector 3/4″; adaptador 3/4″ para 1/2″; esguicho; suporte com bucha e parafuso para fixação"
+			}
+		]
+	}
+]

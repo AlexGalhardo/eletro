@@ -1,0 +1,162 @@
+[
+	{
+		"id": "vonder-lvp-950-950w",
+		"name": "Vonder LVP 950 950W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 950W, a maior desta lista",
+			"Velocidade variável de 600 a 2400 RPM",
+			"Cabo de 4 metros para maior alcance",
+			"Sete lixas, de grão 60 a 240",
+			"Bolsa para armazenamento e transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "telescópico" },
+			{ "label": "Potência", "value": "950W" },
+			{ "label": "Diâmetro da lixa", "value": "225mm" },
+			{ "label": "Velocidade", "value": "600RPM – 2400RPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Comprimento do cabo", "value": "4 metros" },
+			{ "label": "Acessórios", "value": "mangueira flexível para conexão no aspirador de pó; 2 adaptadores para conexão no aspirador de pó; 7 lixas (grãos 60, 80, 100, 120, 150, 180 e 240); tubo extensor; saco coletor de pó; bolsa para armazenamento e transporte" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "6,6kg" }
+		]
+	},
+	{
+		"id": "vonder-lpv-925-880w",
+		"name": "Vonder LPV 925 880W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lixa de 225mm para cobrir mais área",
+			"Velocidade variável de 1000 a 2100 RPM",
+			"Maleta plástica para guardar os acessórios",
+			"Cabo de 4,5 metros para maior alcance",
+			"Tubo extensor e saco coletor de pó"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "telescópico" },
+			{ "label": "Potência", "value": "880W" },
+			{ "label": "Diâmetro da lixa", "value": "225mm" },
+			{ "label": "Velocidade", "value": "1000RPM – 2100RPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Comprimento do cabo", "value": "4,5 metros" },
+			{ "label": "Acessórios", "value": "maleta plástica; mangueira flexível para conexão no aspirador de pó; 2 adaptadores para conexão no aspirador de pó; 7 lixas (grãos 60, 80, 100, 120, 150, 180 e 240); tubo extensor; saco coletor de pó" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "35 x 94 x 25,5cm" },
+			{ "label": "Peso", "value": "4,4kg" }
+		]
+	},
+	{
+		"id": "vonder-lpv-750-750w",
+		"name": "Vonder LPV 750 750W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 750W com velocidade variável",
+			"Velocidade de 1500 a 2700 RPM",
+			"Mangueira flexível e saco de aspiração",
+			"Sete lixas, de grão 60 a 240",
+			"Peso de 2,5kg com lixa de 180mm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual" },
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Diâmetro da lixa", "value": "180mm" },
+			{ "label": "Velocidade", "value": "1500RPM – 2700RPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Acessórios", "value": "mangueira flexível; saco de aspiração; 7 lixas (grãos 60, 80, 100, 120, 150, 180 e 240)" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "2,5kg" }
+		]
+	},
+	{
+		"id": "vonder-lpv-800-800w",
+		"name": "Vonder LPV 800 800W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 800W com velocidade variável",
+			"Junta de vedação e conector universal de borracha",
+			"Chave Allen de 5mm incluída",
+			"Bolsa para transporte e tubo extensor",
+			"Peso de 3,9kg e lixa de 225mm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "telescópico" },
+			{ "label": "Potência", "value": "800W" },
+			{ "label": "Diâmetro da lixa", "value": "225mm" },
+			{ "label": "Velocidade", "value": "1190RPM – 2250RPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Acessórios", "value": "bolsa para transporte; junta de vedação; mangueira flexível para conexão no aspirador de pó; chave Allen (5mm); adaptador para conexão no aspirador de pó; conector universal de borracha; 7 lixas (grãos 60, 80, 100, 120, 150, 180 e 240); tubo extensor" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "3,9kg" }
+		]
+	},
+	{
+		"id": "vonder-lrv-350b-350w",
+		"name": "Vonder LRV 350B 350W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade de 4000 a 10.000 OPM",
+			"Nove lixas, de grão 60 a 800",
+			"Mangueira de 3 metros para aspirador",
+			"Dois adaptadores para aspirador e uma chave",
+			"Peso de 1,5kg com lixa de 150mm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "manual" },
+			{ "label": "Potência", "value": "350W" },
+			{ "label": "Diâmetro da lixa", "value": "150mm" },
+			{ "label": "Velocidade", "value": "4000OPM – 10.000OPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Acessórios", "value": "2 adaptadores para aspirador; 9 lixas (grãos 60, 80, 120, 180, 240, 320, 400, 600 e 800); chave; mangueira para aspirador com 3 metros" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "1,5kg" }
+		]
+	},
+	{
+		"id": "vonder-lpv-600-600w",
+		"name": "Vonder LPV 600 600W",
+		"image": "/images/posts/melhor-lixadeira-de-parede-vonder-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 600W com lixa de 225mm",
+			"Cabo de 4 metros e velocidade de 600 a 1500 RPM",
+			"Maleta plástica e tubo extensor",
+			"Mangueira flexível para conectar ao aspirador",
+			"Sete lixas, de grão 60 a 240"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "telescópico" },
+			{ "label": "Potência", "value": "600W" },
+			{ "label": "Diâmetro da lixa", "value": "225mm" },
+			{ "label": "Velocidade", "value": "600RPM – 1500RPM" },
+			{ "label": "Controle de velocidade", "value": "variável" },
+			{ "label": "Frequência", "value": "50Hz/60Hz" },
+			{ "label": "Comprimento do cabo", "value": "4 metros" },
+			{ "label": "Acessórios", "value": "maleta plástica; mangueira flexível para conexão no aspirador de pó; adaptador para conexão no aspirador de pó; 7 lixas (grãos 60, 80, 100, 120, 150, 180 e 240); tubo extensor" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Peso", "value": "5,3kg" }
+		]
+	}
+]

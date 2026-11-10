@@ -1,0 +1,438 @@
+[
+	{
+		"id": "sestini-classy-20",
+		"name": "Sestini Classy 20",
+		"image": "/images/posts/melhor-mala-de-bordo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Divisória interna em X e bolsos com zíper",
+			"Alça superior e quatro rodas com giro de 360°",
+			"38 litros de capacidade com 2,5kg de peso",
+			"Cadeado embutido simples, sem trava TSA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 33 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "38 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS e forro em poliéster"
+			},
+			{
+				"label": "Cadeado",
+				"value": "embutido simples (sem trava TSA)"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 simples com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "1 divisória interna em formato X; bolsos com zíper"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "american-tourister-cirrus-light",
+		"name": "American Tourister Cirrus Light",
+		"image": "/images/posts/melhor-mala-de-bordo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"40 litros de capacidade com 4kg de peso",
+			"Cintas elásticas com trava e bolso com zíper",
+			"Material em ABS e nylon",
+			"Quatro rodas simples com giro de 360°"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53,9 x 33,9 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS e nylon"
+			},
+			{
+				"label": "Cadeado",
+				"value": "não possui"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 simples com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "cintas elásticas com trava e bolso com ziper"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "fortt-mab02-am",
+		"name": "Fortt MAB02-AM",
+		"image": "/images/posts/melhor-mala-de-bordo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cadeado embutido com senha configurável",
+			"Quatro rodas duplas com giro de 360°",
+			"Bolso interno na tampa e cinta elástica",
+			"Peso de 3kg e medidas de 55 x 35 x 22cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Material",
+				"value": "ABS e forro em nylon"
+			},
+			{
+				"label": "Cadeado",
+				"value": "embutido com senha configurável (sem trava TSA)"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 duplas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "laterais e superiores"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "cinta elástica; bolso interno na tampa"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			},
+			{
+				"label": "Impermeável",
+				"value": "parcial"
+			}
+		]
+	},
+	{
+		"id": "silent-noronha",
+		"name": "Silent Noronha",
+		"image": "/images/posts/melhor-mala-de-bordo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trava TSA integrada ao cadeado numérico",
+			"Compartimento com zíper e cinta elástica",
+			"Rodas duplas com giro de 360° e alça superior",
+			"Material em ABS rígido com 2,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 35 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Material",
+				"value": "ABS rígido"
+			},
+			{
+				"label": "Cadeado",
+				"value": "numérico integrado (com trava TSA)"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 duplas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "compartimento com zíper; cinta elástica"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "fx1-essenza",
+		"name": "FX1 Essenza",
+		"image": "/images/posts/melhor-mala-de-bordo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 2,2kg, o mais leve desta lista",
+			"Bolso interno na tampa e cintas elásticas",
+			"Material em nylon e PVC com alça superior",
+			"Duas rodas de plástico com giro de 360º"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Material",
+				"value": "nylon e PVC"
+			},
+			{
+				"label": "Cadeado",
+				"value": "não possui"
+			},
+			{
+				"label": "Rodas",
+				"value": "2 simples de plástico 360º"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "bolso interno na tampa; cintas elásticas"
+			},
+			{
+				"label": "Expansível",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "american-tourister-linex",
+		"name": "American Tourister LINEX",
+		"image": "/images/posts/melhor-mala-de-bordo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trava TSA e estrutura expansível",
+			"Impermeável, segundo a ficha técnica",
+			"Compartimento dividido com zíper e bolsos internos",
+			"Polipropileno e 40 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Cadeado",
+				"value": "com trava TSA"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 duplas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não possui"
+			},
+			{
+				"label": "Organização interna",
+				"value": "compartimento dividido com zíper; cintas elásticas; bolsos internos"
+			},
+			{
+				"label": "Expansível",
+				"value": "sim"
+			},
+			{
+				"label": "Impermeável",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "sestini-waves-20",
+		"name": "Sestini Waves 20",
+		"image": "/images/posts/melhor-mala-de-bordo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"47 litros de capacidade e estrutura expansível",
+			"Cadeado fixo com segredo integrado",
+			"Divisória com zíper e bolso em tela",
+			"Alça superior com 2,6kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "55 x 35 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			},
+			{
+				"label": "Capacidade",
+				"value": "47 litros"
+			},
+			{
+				"label": "Material",
+				"value": "ABS"
+			},
+			{
+				"label": "Cadeado",
+				"value": "fixo com segredo integrado"
+			},
+			{
+				"label": "Rodas",
+				"value": "4 rodas com giro 360°"
+			},
+			{
+				"label": "Alça retrátil",
+				"value": "sim"
+			},
+			{
+				"label": "Alças fixas",
+				"value": "superior"
+			},
+			{
+				"label": "Bolsos externos",
+				"value": "não"
+			},
+			{
+				"label": "Organização interna",
+				"value": "1 divisória com zíper; bolso em tela; cintas elásticas"
+			},
+			{
+				"label": "Expansível",
+				"value": "sim"
+			}
+		]
+	}
+]

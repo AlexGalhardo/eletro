@@ -1,0 +1,287 @@
+[
+	{
+		"id": "ga-ma-italy-eolic-travel-1600w",
+		"name": "GA.MA ITALY Eolic Travel 1600W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W, a maior em 127V da lista",
+			"Concentrador de ar incluso e cabo de 1,60 metro",
+			"Pesa 0,384kg, com 2 velocidades e 2 temperaturas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,60 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,384kg"
+			}
+		]
+	},
+	{
+		"id": "philco-travel-shine-1000w",
+		"name": "Philco Travel Shine 1000W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pesa 0,29kg, o mais leve da lista",
+			"Cabo de 1,8 metro e concentrador de ar incluso",
+			"Duas velocidades e duas temperaturas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 2750W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,29kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-golden-rose-sc-47-gr-1200w",
+		"name": "Mondial Golden Rose SC-47-GR 1200W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com 2 velocidades e 2 temperaturas",
+			"Cabo de 1,50 metro e concentrador de ar incluso",
+			"Pesa 0,30kg e funciona em bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,50 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,30kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-max-travel-sc-10-1200w",
+		"name": "Mondial Max Travel SC-10 1200W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tem jato de ar frio e potência de 1200W",
+			"Concentrador de ar incluso e cabo de 1,50 metro",
+			"Pesa 0,34kg e funciona em bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,50 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,34kg"
+			}
+		]
+	},
+	{
+		"id": "philco-titanium-travel-1000w",
+		"name": "Philco Titanium Travel 1000W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 1,9 metro, o mais longo da lista",
+			"Duas velocidades e duas temperaturas",
+			"Pesa 0,35kg e funciona em bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W (127V); 750W (220V)"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,35kg"
+			}
+		]
+	},
+	{
+		"id": "philips-bhc010-81-1200w",
+		"name": "Philips BHC010/81 1200W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três velocidades e três temperaturas",
+			"Jato de ar frio incluso",
+			"Concentrador de ar e cabo de 1,5 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc1200-1200w",
+		"name": "Britânia BSC1200 1200W",
+		"image": "/images/posts/melhor-mini-secador-de-cabelo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e cabo de 1,70 metro",
+			"Concentrador de ar incluso e funciona em bivolt",
+			"Pesa 0,30kg, com 2 velocidades e 2 temperaturas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,70 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,30kg"
+			}
+		]
+	}
+]

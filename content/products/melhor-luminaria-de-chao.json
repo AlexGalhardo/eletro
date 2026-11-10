@@ -1,0 +1,296 @@
+[
+	{
+		"id": "luczeng-linho-vintage",
+		"name": "LucZeng Linho Vintage",
+		"image": "/images/posts/melhor-luminaria-de-chao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"LED integrado com 3 tonalidades: quente, neutra e fria",
+			"Cúpula de linho sobre estrutura de metal",
+			"Altura de 155 cm com estrutura fixa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED integrado"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "3 tonalidades (quente, neutra e fria)"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Material",
+				"value": "metal com cúpula de linho"
+			},
+			{
+				"label": "Articulação",
+				"value": "estrutura fixa"
+			},
+			{
+				"label": "Altura",
+				"value": "155cm"
+			}
+		]
+	},
+	{
+		"id": "tratofino-decoracoes-tf001",
+		"name": "Tratofino Decorações TF001",
+		"image": "/images/posts/melhor-luminaria-de-chao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"LED com 1 tonalidade de luz",
+			"Alimentação bivolt",
+			"Estrutura de MDF com altura de 155 cm",
+			"Estrutura fixa para uso sem ajustes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "LED"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "1 tonalidade"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "MDF"
+			},
+			{
+				"label": "Articulação",
+				"value": "estrutura fixa"
+			},
+			{
+				"label": "Altura",
+				"value": "155cm"
+			}
+		]
+	},
+	{
+		"id": "techled-articulado",
+		"name": "Techled Articulado",
+		"image": "/images/posts/melhor-luminaria-de-chao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Braço articulável para direcionar a luz",
+			"Altura de 190 cm, a maior desta lista",
+			"Soquete E27 com alimentação bivolt",
+			"Estrutura de metal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "metal"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "190cm"
+			}
+		]
+	},
+	{
+		"id": "teem-tm5300",
+		"name": "Teem TM5300",
+		"image": "/images/posts/melhor-luminaria-de-chao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Braço articulável com altura de até 180 cm",
+			"Soquete E27 com alimentação bivolt",
+			"Estrutura de metal e plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "metal e plástico"
+			},
+			{
+				"label": "Articulação",
+				"value": "com braço articulável"
+			},
+			{
+				"label": "Altura",
+				"value": "até 180cm"
+			}
+		]
+	},
+	{
+		"id": "unidecor-casa-0502102701",
+		"name": "UniDecor Casa 0502102701",
+		"image": "/images/posts/melhor-luminaria-de-chao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Madeira maciça, aço carbono, acetato e tecido Brugges",
+			"Soquete E27 com altura de 160 cm",
+			"Alimentação bivolt e 1 tonalidade de luz",
+			"Estrutura fixa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "1 tonalidade"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "madeira maciça, aço carbono, acetato e tecido Brugges"
+			},
+			{
+				"label": "Articulação",
+				"value": "estrutura fixa"
+			},
+			{
+				"label": "Altura",
+				"value": "160cm"
+			}
+		]
+	},
+	{
+		"id": "tebarrot-pelicano-1324",
+		"name": "Tebarrot Pelicano 1324",
+		"image": "/images/posts/melhor-luminaria-de-chao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"MDF com pintura UV",
+			"Soquete E27 com altura de 160 cm",
+			"Alimentação bivolt",
+			"Estrutura fixa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "soquete E27"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "MDF com pintura UV"
+			},
+			{
+				"label": "Articulação",
+				"value": "estrutura fixa"
+			},
+			{
+				"label": "Altura",
+				"value": "160cm"
+			}
+		]
+	},
+	{
+		"id": "gimpo-pf-04",
+		"name": "Gimpo PF-04",
+		"image": "/images/posts/melhor-luminaria-de-chao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 180 cm com soquete E27",
+			"Estrutura de metal e plástico",
+			"Alimentação bivolt",
+			"Estrutura fixa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Fonte de luz",
+				"value": "soquete E27"
+			},
+			{
+				"label": "Temperatura de cor",
+				"value": "não"
+			},
+			{
+				"label": "Controle de intensidade",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Material",
+				"value": "metal e plástico"
+			},
+			{
+				"label": "Articulação",
+				"value": "estrutura fixa"
+			},
+			{
+				"label": "Altura",
+				"value": "180cm"
+			}
+		]
+	}
+]

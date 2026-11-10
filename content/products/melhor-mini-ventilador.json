@@ -1,0 +1,386 @@
+[
+	{
+		"id": "basike-ba-fan343-mesa",
+		"name": "Basike Ba-FAN343 (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis velocidades com controle por botão",
+			"Operação silenciosa e display LED",
+			"Inclinação vertical ajustável",
+			"Bateria recarregável e 4,5W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "4,5W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "7"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "operação silenciosa; display LED com nível de bateria e velocidade; controle de velocidade; inclinação vertical ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,9 x 13,7 x 16,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			}
+		]
+	},
+	{
+		"id": "basike-ba-fan342-mesa",
+		"name": "Basike Ba-FAN342 (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-2.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis velocidades para ajustar o vento",
+			"Operação silenciosa e design rotativo",
+			"Display digital com status da bateria",
+			"Bateria recarregável e 4W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "4W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "7"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "operação silenciosa; display digital com status da bateria e velocidade; design rotativo e ajustável; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,5 x 15 x 8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "400g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			}
+		]
+	},
+	{
+		"id": "alfacell-al12005-mesa",
+		"name": "Alfacell AL12005 (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ventilação de 4 pás com diâmetro de 14,9cm",
+			"Alimentação por USB e inclinação ajustável",
+			"Uma velocidade com botão de controle",
+			"Dimensões compactas de 15 x 15 x 8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "2W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "4"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "14,9cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "inclinação vertical ajustável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 15 x 8cm"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB"
+			}
+		]
+	},
+	{
+		"id": "ventisol-19133-mesa",
+		"name": "Ventisol 19133 (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base removível e clipe de suporte",
+			"Duas velocidades com botão giratório",
+			"Ligação em 127V ou 220V",
+			"Inclinação regulável para direcionar o vento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "18W (127V); 14W (220V)"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "base removível; clipe de suporte; inclinação regulável; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 20 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "740g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "bright-vn001-mesa",
+		"name": "Bright VN001 (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três velocidades e inclinação articulável",
+			"Alimentação por USB e apenas 150g",
+			"Ventilação com três pás",
+			"Dimensões de 13,5 x 12,5 x 5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "5W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "inclinação articulável; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,5 x 12,5 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "150g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB"
+			}
+		]
+	},
+	{
+		"id": "ventimais-mini-turbo-mesa",
+		"name": "VentiMais Mini Turbo (mesa)",
+		"image": "/images/posts/melhor-mini-ventilador-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor turbo de 25W para mais vento",
+			"Suporte para parede e uso como mesa",
+			"Diâmetro de 20cm com base estável",
+			"Articulado com duas velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa ou parede"
+			},
+			{
+				"label": "Potência",
+				"value": "25W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "20cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "2"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "articulado; suporte para parede; motor turbo; base estável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 17 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "770g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "basike-ba-fan330-portatil",
+		"name": "Basike Ba-FAN330 (portátil)",
+		"image": "/images/posts/melhor-mini-ventilador-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Design articulado e dobrável para levar",
+			"Painel de LED com status da bateria",
+			"Alimentação por USB e apenas 275g",
+			"Controle giratório e inclinação ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design articulado e dobrável; painel de LED com status da bateria e velocidade; controle de velocidade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,8 x 6,15 x 5,68cm"
+			},
+			{
+				"label": "Peso",
+				"value": "275g"
+			},
+			{
+				"label": "Alimentação",
+				"value": "USB"
+			}
+		]
+	}
+]

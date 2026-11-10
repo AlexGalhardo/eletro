@@ -1,0 +1,286 @@
+[
+	{
+		"id": "kemei-km-2600",
+		"name": "Kemei Km-2600",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 2 horas de uso",
+			"Recarga rápida em 1,5 hora",
+			"Lâmina de aço inoxidável com protetor",
+			"Três pentes especiais e três pentes comuns"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 3x pentes especiais (1.5/3/4.5mm); 3x pentes comuns (6/10/13mm); cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2296",
+		"name": "Kemei Km-2296",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 4 horas de uso",
+			"Lâmina de DLC com base carregadora",
+			"Oito pentes para diferentes comprimentos",
+			"Cabo USB e pincel de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2,5 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "DLC"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 8x pentes (3/6/10/13/16/19/22/25mm); cabo carregador USB; base carregadora; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1995",
+		"name": "Kemei Km-1995",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 4 horas com recarga de 3 horas",
+			"Lâmina de aço inoxidável",
+			"Frasco de óleo lubrificante para a lâmina",
+			"Quatro pentes com medidas de 3 a 12mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes (3/6/10/12mm); frasco com óleo lubrificante; escova de limpeza; cabo para carregamento"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "350g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-9163",
+		"name": "Kemei Km-9163",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2,5 horas de uso",
+			"Lâmina de aço inoxidável com protetor",
+			"Três pentes finos de 0.5 a 1.5mm",
+			"Cabo USB e pincel de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2,5 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2,5 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 3x pentes (0.5/1/1.5mm); cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-032",
+		"name": "Kemei Km-032",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 1 hora de uso",
+			"Lâmina de aço inoxidável com protetor",
+			"Três pentes de 1, 2 e 3mm",
+			"Recarga de 8 horas pelo cabo USB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 3x pentes (1/2/3mm); cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1990",
+		"name": "Kemei Km-1990",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 2 horas com recarga de 3 horas",
+			"Lâmina de aço inoxidável com protetor",
+			"Quatro pentes inclusos",
+			"Cabo carregador USB e pincel de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 4x pentes; cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-119",
+		"name": "Kemei Km-119",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-kemei-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 4 horas de uso",
+			"Capa protetora e escova de limpeza",
+			"Carregador bivolt com cabo",
+			"Frasco de óleo lubrificante e quatro pentes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "5 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "capa protetora para lâmina; 4x pentes (3/6/10/13mm); frasco com óleo lubrificante; escova de limpeza; carregador com cabo (bivolt)"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "523g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]
