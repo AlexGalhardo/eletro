@@ -6,6 +6,13 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.2.0] - 2026-11-10
+
+### Added
+
+- `docs/post-status.md`, gerado por `bun run post-status`: cada post com draft, produtos, links de afiliado reais e pendentes (`#`). Um teste falha quando o arquivo fica desatualizado.
+- Coluna "Links" e filtro "Links de afiliado" em `/admin/posts`.
+
 ## [2.1.0] - 2026-11-10
 
 ### Added
@@ -434,7 +441,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.1.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.2.0...HEAD
+[2.2.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.2...v2.1.0
 [2.0.2]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/AlexGalhardo/eletroradar-cms/compare/v2.0.0...v2.0.1

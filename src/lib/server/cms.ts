@@ -1,5 +1,6 @@
 import type { z } from "zod";
 import { isPublished, parsePost, referencedLists, serializePost } from "../content/parse.ts";
+import { type LinkCounts, linkCounts } from "../content/post-status.ts";
 import {
 	type Post,
 	type PostInput,
@@ -217,11 +218,13 @@ export async function listProductListPreviews(store: ContentStore, bundled = new
 			const raw =
 				known.get(list.sha) ??
 				decode((await store.read(listPath(list.name)))?.bytes ?? new Uint8Array());
-			let products: { name: string; image: string }[] = [];
+			let products: ({ name: string; image: string } & LinkCounts)[] = [];
 			try {
-				products = productListSchema
-					.parse(JSON.parse(raw))
-					.map(({ name, image }) => ({ name, image }));
+				products = productListSchema.parse(JSON.parse(raw)).map((product) => ({
+					name: product.name,
+					image: product.image,
+					...linkCounts([product]),
+				}));
 			} catch {
 				// A broken file is still listed, without pictures, so it can be opened and fixed.
 			}
