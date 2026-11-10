@@ -47,6 +47,7 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/architecture.md`](docs/architecture.md) | Visão geral, pastas, fluxo de dados, decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos, componentes disponíveis no Markdown |
 | [`docs/post-status.md`](docs/post-status.md) | Status de cada post (rascunho, produtos, links de afiliado e pendentes); gerado por `bun run post-status`, não editar à mão |
+| [`docs/imported-drafts-review.md`](docs/imported-drafts-review.md) | Checklist dos 514 rascunhos importados: fichas técnicas contraditórias, decisões de SEO pendentes e posts da origem que não entraram |
 | [`docs/feature-flags.md`](docs/feature-flags.md) | Feature flags do projeto e de navegador (`content/flags.json`, `/admin/flags`), prévia de rascunho em `/preview/<slug>` |
 | [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero para agentes: dependências, `.env`, banco, Docker, testes, GitHub Pages e dashboard de links, com comando e verificação por passo |
 | [`docs/development.md`](docs/development.md) | Como rodar, scripts de `setups/`, Docker (`infra/`), variáveis de ambiente, convenções |

@@ -17,6 +17,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [architecture.md](architecture.md) | Entender as pastas, o fluxo de uma página e as decisões de projeto |
 | [content.md](content.md) | Criar ou alterar posts, listas de produtos e componentes de Markdown |
 | [post-status.md](post-status.md) | Ver o status de cada post (rascunho, produtos, links de afiliado e pendentes); gerado por `bun run post-status` |
+| [imported-drafts-review.md](imported-drafts-review.md) | Revisar os rascunhos importados antes de publicar: fichas contraditórias, decisões de SEO e posts não importados |
 | [feature-flags.md](feature-flags.md) | Ligar ou desligar uma flag (`content/flags.json`, `/admin/flags`), acrescentar uma flag nova ou revisar um rascunho em `/preview/<slug>` |
 | [agent-setup.md](agent-setup.md) | Preparar o projeto do zero: dependências, `.env`, banco, Docker, testes, GitHub Pages e dashboard de links, com a verificação de cada passo |
 | [development.md](development.md) | Rodar o projeto, usar os scripts de `setups/` e o Docker de `infra/`, configurar variáveis de ambiente |
