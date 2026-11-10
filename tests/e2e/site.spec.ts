@@ -1,30 +1,52 @@
+import type { Page } from "@playwright/test";
 import { expect, test } from "./test.ts";
 
 const POST = "/melhor-airfryer-8-litros";
 
+// Desktop filters with the sidebar buttons; below lg the categories live in the hamburger menu as links.
+async function chooseCategory(page: Page, isMobile: boolean, name: string): Promise<void> {
+	if (!isMobile) return page.getByRole("button", { name, exact: true }).click();
+	await page.getByRole("button", { name: "Abrir menu" }).click();
+	await page.getByRole("dialog").getByRole("link", { name, exact: true }).click();
+}
+
 test.describe("home", () => {
-	test("filters posts by category", async ({ page }) => {
+	test("filters posts by category", async ({ page, isMobile }) => {
 		await page.goto("/");
 		const cards = page.locator("main a[href^='/']");
 		await expect(cards).toHaveCount(8);
 
-		await page.getByRole("button", { name: "Móveis" }).click();
+		await chooseCategory(page, isMobile, "Móveis");
 
-		await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute("aria-pressed", "true");
+		if (!isMobile)
+			await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute(
+				"aria-pressed",
+				"true",
+			);
+		else await expect(page.getByText("Categoria: Móveis")).toBeVisible();
 		await expect(cards).toHaveCount(3);
 		await expect(cards.first()).toContainText(/sofá|poltrona|mesa/i);
 	});
 
 	test("offers only categories that have a published post, in the filter and in the footer", async ({
 		page,
+		isMobile,
 	}) => {
 		await page.goto("/");
-		const filters = page.locator("main button[aria-pressed]");
-		const labels = (await filters.allTextContents()).map((label) => label.trim());
+		let labels: string[];
+		if (isMobile) {
+			await page.getByRole("button", { name: "Abrir menu" }).click();
+			const links = page.getByRole("dialog").locator("a[href='/'], a[href^='/?categoria=']");
+			labels = (await links.allTextContents()).map((label) => label.trim()).slice(1);
+			await page.getByRole("button", { name: "Fechar menu" }).click();
+		} else {
+			const filters = page.locator("main button[aria-pressed]");
+			labels = (await filters.allTextContents()).map((label) => label.trim());
+		}
 
 		expect(labels[0]).toBe("Todos");
 		for (const label of labels.slice(1)) {
-			await page.getByRole("button", { name: label, exact: true }).click();
+			await chooseCategory(page, isMobile, label);
 			await expect(page.locator("main a[href^='/']").first(), label).toBeVisible();
 		}
 		await expect(page.locator("footer nav[aria-label='Categorias'] a")).toHaveText(labels.slice(1));
@@ -40,10 +62,15 @@ test.describe("home", () => {
 		await expect.poll(() => cards.count()).toBeGreaterThan(8);
 	});
 
-	test("opens the category linked from the footer", async ({ page }) => {
+	test("opens the category linked from the footer", async ({ page, isMobile }) => {
 		await page.goto("/?categoria=moveis");
 
-		await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute("aria-pressed", "true");
+		if (!isMobile)
+			await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute(
+				"aria-pressed",
+				"true",
+			);
+		else await expect(page.getByText("Categoria: Móveis")).toBeVisible();
 		await expect(page.locator("main a[href^='/']")).toHaveCount(3);
 	});
 
