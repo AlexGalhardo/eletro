@@ -93,6 +93,8 @@ docker compose --file infra/docker-compose.yml down                         # --
 | `bun run db:migrate` | Aplica as migrations no banco de `DATABASE_URL` |
 | `bun scripts/release.ts --dry-run` | Mostra a próxima versão e as notas (ver [`ci-cd.md`](ci-cd.md)) |
 | `bun webscrapping/cli.ts <url>` | Lê um post de um site de origem e mostra o rascunho (ver [`webscrapping-modelation.md`](webscrapping-modelation.md)) |
+| `bun webscrapping/batch.ts` | Lista os posts do eletrosinter que ainda não existem aqui; com `--write [--limit N]` importa como rascunho (ver [`webscrapping-modelation.md`](webscrapping-modelation.md#importação-em-lote)) |
+| `bun run post-status` | Regenera [`post-status.md`](post-status.md) a partir de `content/`; rode depois de mudar posts ou listas de produtos |
 
 ## Variáveis de ambiente
 

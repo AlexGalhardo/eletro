@@ -350,6 +350,60 @@ Técnicas, sem bloqueio externo:
 
 **Assert:** `.claude/settings.json` não existe e `git grep hook-guard` só encontra o `CHANGELOG.md` e este plano; `bun run check`, `bun run lint` e `bun run test` passam.
 
+---
+
+## Fase 1.x — conteúdo em massa
+
+Objetivo: publicar o acervo de posts da origem com texto original, em lotes, sem mudar o site.
+
+### C1. Importação em lote
+
+- [x] Categorias novas em `site.categories`: `banheiro`, `cama-mesa-banho`, `iluminacao`, `infantil` e `jardim`, com ícones em `CategoryIcon.svelte`
+- [x] `webscrapping/batch.ts`: lista as URLs de posts do eletrosinter que ainda não existem aqui (campo `ref`)
+- [x] `bun webscrapping/batch.ts --write [--limit N]`: importa em sequência, com pausa de 1,5 s, sem reescrita da Mistral; relatório em `.data/batch-import.json`; idempotente
+- [ ] Posts com fotos no CDN da Magalu (403 a robôs) ou da Shopee: 17 ficaram de fora do lote; importar à mão com outra foto
+- [ ] Reescrita dos ~550 rascunhos com agentes Haiku, usando só nome e ficha técnica (`docs/prompts/PROMPT-POSTAGEM.md`)
+- [ ] Trocar os links `"#"` e publicar em lotes (`draft: false` só depois de revisado)
+- [ ] Páginas com layout que o parser não entende (batedeira, cafeteira expresso, fogões de 4 e 5 bocas) e as outras recusadas no relatório
+
+**Assert:** `webscrapping/batch.test.ts` verde; `bun webscrapping/batch.ts` sem `--write` não grava nada; uma segunda execução com `--write` não importa de novo o que já existe; `bun run build` não publica rascunho.
+
+### C2. Status dos posts e links no admin
+
+- [x] `bun run post-status` (`scripts/post-status.ts`, lógica em `src/lib/content/post-status.ts`) gera `docs/post-status.md`
+- [x] `tests/integration/post-status.test.ts` falha quando o arquivo está desatualizado
+- [x] `/admin/posts`: coluna "Links" (reais e pendentes) e filtro "Links de afiliado" (todos, com pendentes, sem pendências)
+
+**Assert:** `src/lib/content/post-status.test.ts` e `tests/integration/post-status.test.ts` verdes; depois de `bun run post-status`, `docs/post-status.md` não muda.
+
+### C3. Feature flags e prévia
+
+- [x] `content/flags.json` (`previewDrafts`, `allStoreButtons`) e `src/lib/flags.ts` (`flagDefaults`, `browserFlag`, `setBrowserFlag`, override em `localStorage`)
+- [x] `/admin/flags`: página Astro estática, sem Svelte, com as flags de navegador e a lista de posts
+- [x] `allStoreButtons`: os cartões mostram os três botões mesmo com link `"#"`
+- [x] `/preview/<slug>`: faixa "Prévia de rascunho", `noindex`, `Disallow` no `robots.txt`, fora do sitemap, do `llms.txt`, da API pública e do dashboard de links
+
+**Assert:** `src/lib/flags.test.ts` verde; com `previewDrafts: true`, `/preview/<slug>` responde 200 com `noindex`; com `false`, o build não gera `/preview`; o rascunho segue fora do sitemap, do `llms.txt` e da API (`tests/e2e/smoke.spec.ts`, a conferir a cobertura de `/preview`).
+
+---
+
+## Fase Astro puro — migração sem Svelte
+
+Objetivo: remover o Svelte do projeto e ficar só com Astro e pacotes agnósticos. O painel `/admin` vira páginas Astro com `<script>` TypeScript e endpoints Astro. Decisão do dono em 2026-11-10; código novo já evita Svelte.
+
+### M1. Migração
+
+- [ ] Componentes do site (42 arquivos `.svelte`) viram `.astro` ou TypeScript; ilhas interativas (`CardsTable`, busca, filtro, tema) sem runtime Svelte
+- [ ] Painel `/admin` (`src/routes/admin/`) em páginas Astro com `<script>` TypeScript
+- [ ] Rotas de API (`src/routes/api/v1/`) em endpoints Astro, com os mesmos handlers e testes
+- [ ] Shims `$app/*` e `src/env.ts` removidos; imports de servidor passam a apontar para módulos próprios
+- [ ] Dependências `svelte`, `@astrojs/svelte`, `svelte-check` e `@lucide/svelte` removidas do `package.json` e do `bun.lock`
+- [ ] `bun run check` passa a usar `astro check` no lugar do svelte-check
+- [ ] MCP do Svelte em `.mcp.json` removido, se não houver mais uso
+- [ ] `docs/architecture.md`, `docs/development.md`, `docs/tooling.md` e `.claude/rules/code-style.md` atualizados (Svelte, runes, shims)
+
+**Assert:** nenhum `.svelte` e nenhum import de `svelte`, `@sveltejs/*` ou `$app/*` em `src/` e `tests/`; `bun run check`, `bun run lint`, `bun run test` e `bun run test:e2e` verdes; o build gera as mesmas URLs de antes.
+
 ## Onde a sessão de 2026-10-06 parou
 
 Todas as fases do plano foram percorridas. ALPHA publicada como `v0.1.0`; BETA (B1 a B7) e a fase 1.0.0-rc (R1 a R5) entregues, com a versão `v1.0.0-rc.1` marcada. O que separa o release candidate da `1.0.0` está em "Pendências conhecidas para a 1.0.0", no grupo R5: quase tudo depende do primeiro deploy ou de uma decisão do dono.
@@ -384,6 +438,9 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-10-11 | Scripts de setup não instalam o Bun nem encerram o processo que ocupa a porta | Um script que instala software ou mata processos de outra pessoa surpreende; agora ele diz o que fazer, usa a próxima porta livre ou para |
 | 2026-10-11 | Variáveis essenciais só são exigidas no build de produção (`VERCEL_ENV=production`) | Pedido do dono, sem quebrar o clone novo, os testes e o Docker, que rodam sem nenhuma variável |
 | 2026-10-06 | Importação só de hosts listados em `site.postImport` | O servidor busca uma URL digitada pelo admin (SSRF); a lista fechada limita o alcance |
+| 2026-11-10 | Remover o Svelte: site e painel em Astro puro, com TypeScript | Decisão do dono; o projeto fica só com Astro e pacotes agnósticos (fase "Astro puro") |
+| 2026-11-10 | Importação em lote copia só fatos (nomes, fichas, fotos de produto); texto sempre original, em sequência e com pausa | Mesmo critério do importador unitário; não sobrecarregar a origem |
+| 2026-11-10 | Flags de navegador em `localStorage`; prévia de rascunho em `/preview/<slug>` no GitHub Pages | Pages não tem login, mas os rascunhos já são públicos no repositório: a prévia não expõe nada novo |
 
 ## Pendências do dono
 

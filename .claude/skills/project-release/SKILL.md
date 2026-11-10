@@ -13,6 +13,8 @@ description: Publica a release de um commit - calcula a versão pela mensagem, c
 
 Escreva a mudança em `## [Unreleased]` no `CHANGELOG.md`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`). Mudança sem efeito visível (`docs`, `chore`, `test`) pode ficar sem texto: o script usa o assunto do commit como nota.
 
+Se `content/` mudou, rode `bun run post-status` e inclua `docs/post-status.md` no commit.
+
 ```bash
 bun run check && bun run lint && bun run test
 bun scripts/release.ts --message "feat: descrição do commit" --dry-run   # confere versão e notas

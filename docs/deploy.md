@@ -108,6 +108,15 @@ Se usar ambientes de preview, dê a eles um banco e um `BETTER_AUTH_SECRET` pró
 
 O GitHub Pages não chama rotas. A fila de avisos existe no código e nos testes (`GET /api/v1/newsletter/dispatches/run`, cabeçalho `Authorization: Bearer <CRON_SECRET>`). Não há cron no host de produção.
 
+## Prévia e páginas de revisão
+
+O build publica duas páginas extras no GitHub Pages:
+
+- `/preview/<slug>`, para cada rascunho e post agendado, quando `previewDrafts` está ligado em `content/flags.json`. Tem faixa "Prévia de rascunho" e `noindex`. Com `previewDrafts: false`, o build não gera nenhuma.
+- `/admin/flags`, página estática para ligar as flags de navegador e listar os posts.
+
+Não há login: qualquer pessoa que souber o endereço abre as duas. O que elas mostram já está no repositório público. Detalhes em [feature-flags.md](feature-flags.md) e [security.md](security.md).
+
 ## Conferir depois do primeiro deploy
 
 - [ ] O site público abre e as 64 páginas de post respondem.

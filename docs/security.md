@@ -10,6 +10,7 @@ Relatório da revisão de 2026-10-06 (item R2 do [`PLAN.md`](../PLAN.md)) e mode
 |---|---|---|
 | Visitante → site público | Qualquer pessoa | Páginas estáticas; só o formulário de contato e a newsletter recebem dados |
 | Visitante → `/api/v1` | Qualquer pessoa | Leituras públicas pré-renderizadas em `index.json`. Escritas ficam nos handlers (zod, limite por IP) e não rodam no GitHub Pages |
+| Visitante → `/preview/<slug>` e `/admin/flags` | Qualquer pessoa | Páginas estáticas públicas, sem login (o Pages não tem). `noindex`, `Disallow` no `robots.txt` e fora do sitemap. O conteúdo da prévia já está no repositório público. Flag de navegador só muda o que aquele navegador mostra, não é controle de acesso |
 | Admin → `/admin` e escritas da API | Quem está em `ADMIN_GITHUB_USERS` ou, com e-mail verificado, em `ADMIN_EMAILS` | Sessão do better-auth em cookie `HttpOnly`, `SameSite=Lax`; lista conferida a cada requisição |
 | Conteúdo → build | O admin, pelo painel, ou um commit direto | O corpo do post vira HTML no build (`marked`); `<CardsTable>` continua uma ilha Svelte. `validateBody` e os schemas são o portão |
 | Servidor → GitHub, Resend, Neon | Configuração | Segredos só em variáveis de ambiente; caminhos do store validados |
@@ -83,13 +84,14 @@ Nenhuma tem correção disponível subindo uma dependência direta do projeto. R
 
 - Tag ou atributo novo liberado no corpo do post passa por `src/lib/content/validate-body.ts` e ganha teste em `validate-body.test.ts`.
 - Cabeçalho de resposta do servidor entra em `src/hooks.server.ts`. O GitHub Pages não aplica esses cabeçalhos nas páginas estáticas; a política de referrer também está no `<meta>` de `src/layouts/Root.astro`.
+- Página estática pública nova (como `/preview` e `/admin/flags`): não coloque segredo nem dado de assinante no build, e não trate flag de navegador como permissão. Detalhes em [feature-flags.md](feature-flags.md#segurança).
 - Endpoint novo que busca uma URL informada por alguém precisa de lista de hosts permitidos, só `https`, sem seguir redirecionamento para fora da lista, com limite de tempo e de tamanho.
 
 ## Robôs, scraping e IA
 
 O `robots.txt` (`src/routes/robots.txt/server.ts`) declara a regra de uso do conteúdo:
 
-- `Disallow: /admin` e `Disallow: /api` para todos os robôs.
+- `Disallow: /admin`, `Disallow: /api` e `Disallow: /preview` para todos os robôs.
 - `Content-Signal: search=yes, ai-input=yes, ai-train=no` (<https://contentsignals.org>): busca e uso do conteúdo para responder a alguém são permitidos; treino de modelos, não.
 - Os robôs de `site.blockedCrawlers` (coleta em massa e treino de IA, como `GPTBot`, `ClaudeBot`, `CCBot` e `Google-Extended`) recebem `Disallow: /`. Buscadores (`Googlebot`, `Bingbot`) e assistentes que abrem a página a pedido de um usuário (`OAI-SearchBot`, `ChatGPT-User`, `Claude-User`, `PerplexityBot`) não estão na lista e continuam liberados.
 - O texto de `site.contentPolicy` repete a regra para pessoas e modelos, no `llms.txt` e nos Termos de Uso.

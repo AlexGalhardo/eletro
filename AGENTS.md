@@ -46,6 +46,8 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/README.md`](docs/README.md) | Índice da documentação |
 | [`docs/architecture.md`](docs/architecture.md) | Visão geral, pastas, fluxo de dados, decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos, componentes disponíveis no Markdown |
+| [`docs/post-status.md`](docs/post-status.md) | Status de cada post (rascunho, produtos, links de afiliado e pendentes); gerado por `bun run post-status`, não editar à mão |
+| [`docs/feature-flags.md`](docs/feature-flags.md) | Feature flags do projeto e de navegador (`content/flags.json`, `/admin/flags`), prévia de rascunho em `/preview/<slug>` |
 | [`docs/agent-setup.md`](docs/agent-setup.md) | Setup do zero para agentes: dependências, `.env`, banco, Docker, testes, GitHub Pages e dashboard de links, com comando e verificação por passo |
 | [`docs/development.md`](docs/development.md) | Como rodar, scripts de `setups/`, Docker (`infra/`), variáveis de ambiente, convenções |
 | [`docs/tooling.md`](docs/tooling.md) | Ferramentas: o que cada uma faz, onde está a configuração, hooks do git, Docker, ferramentas dos agentes |
@@ -81,6 +83,8 @@ bun run sync-links   # só a validação e o envio dos links ao dashboard
 bun run check        # svelte-check + TypeScript
 bun run lint         # Biome + markdownlint
 bun run format       # Biome com correção automática
+bun run post-status  # regenera docs/post-status.md a partir de content/
+bun webscrapping/batch.ts [--write] [--limit N]   # lista, ou importa em lote, os posts do eletrosinter que faltam
 bun run test         # Vitest: unitários e integração
 bun run test:e2e     # Playwright: smoke e e2e
 ```
@@ -96,3 +100,5 @@ bun run test:e2e     # Playwright: smoke e e2e
 - **CI:** os workflows de CI e release ficam em `.github/workflows-disabled/`. A exceção já pedida é `.github/workflows/pages.yml`, que publica o site estático no GitHub Pages. Não mova os outros.
 - **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
 - **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.
+- **Status dos posts:** depois de mudar `content/`, rode `bun run post-status` e commite `docs/post-status.md`; o teste falha se ele ficar velho.
+- **Sem Svelte novo:** o projeto está migrando para Astro puro; código novo usa `.astro` e TypeScript, sem componentes Svelte.

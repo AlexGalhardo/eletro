@@ -54,6 +54,8 @@ Hook que falha é corrigido na causa. `--no-verify` é proibido (`.claude/rules/
 | `scripts/sync-links.ts` | Valida os links de afiliado e os envia ao dashboard; roda antes de todo build | [`affiliate-links.md`](affiliate-links.md) |
 | `scripts/cover-variants.ts` | Gera as cópias redimensionadas das capas antes do `astro build` | [`performance.md`](performance.md) |
 | `webscrapping/cli.ts` | Lê um post de um site de origem e mostra o rascunho | [`webscrapping-modelation.md`](webscrapping-modelation.md) |
+| `webscrapping/batch.ts` | Lista ou importa em lote os posts do eletrosinter que faltam, em sequência e com pausa | [`webscrapping-modelation.md`](webscrapping-modelation.md#importação-em-lote) |
+| `scripts/post-status.ts` | Gera `docs/post-status.md` (status, links e pendentes de cada post); a lógica fica em `src/lib/content/post-status.ts`. O teste de integração falha se o arquivo estiver desatualizado | [`content.md`](content.md#status-dos-posts) |
 | `setups/*.sh` | Preparam a máquina e sobem o projeto, local ou em Docker | [`development.md`](development.md#setup-automático) |
 
 ## Docker

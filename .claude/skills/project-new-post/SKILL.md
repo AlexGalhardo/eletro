@@ -43,11 +43,12 @@ Escreva texto original em português do Brasil. Não copie parágrafos de outro 
 
 ```bash
 bun run test         # valida frontmatter, corpo, listas e imagens de todo o conteúdo
+bun run post-status  # atualiza docs/post-status.md (rascunho, produtos, links e pendentes); commite o arquivo junto
 bun run sync-links   # valida os links de afiliado dos posts publicados; sem a chave, não envia nada
 bun run build        # compila o post de verdade
 ```
 
-Com `draft: true` ou data futura o post não pode aparecer em lugar nenhum, e os produtos dele ficam fora do dashboard de links até a publicação: os testes smoke (`bun run test:e2e`) conferem o site.
+Com `draft: true` ou data futura o post não pode aparecer em lugar nenhum, e os produtos dele ficam fora do dashboard de links até a publicação: os testes smoke (`bun run test:e2e`) conferem o site. Para revisar o rascunho, abra `/preview/<slug>` (com `previewDrafts` ligado em `content/flags.json`).
 
 ## Commit
 
@@ -56,3 +57,5 @@ Tipo `content`: `content: add post <slug>`. Imagens e lista de produtos do post 
 ## Pelo painel
 
 O mesmo post pode ser criado em `/admin/posts/new`, ou importado como rascunho em `/admin/import` a partir de um site de origem permitido (`site.postImport` em `site.config.ts`). O painel aplica as mesmas validações.
+
+Em lote, `bun webscrapping/batch.ts` cria rascunhos dos posts da origem que ainda não existem aqui (`--write --limit N` para importar). Cada rascunho sai com texto de esqueleto: a reescrita é um passo separado, ver `docs/webscrapping-modelation.md`.
