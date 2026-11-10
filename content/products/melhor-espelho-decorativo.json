@@ -1,0 +1,292 @@
+[
+	{
+		"id": "cubas-e-gabinetes-clair-semi-oval-170x70cm",
+		"name": "Cubas e Gabinetes Clair (semi oval) 170x70cm",
+		"image": "/images/posts/melhor-espelho-decorativo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato semi oval de 170 x 70cm",
+			"Vidro lapidado",
+			"Sem moldura e peso de 4kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "semi oval"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "—"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "170 x 70cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "mev-glass-retro-retangular-146x36cm",
+		"name": "Mev Glass Retrô (retangular) 146x36cm",
+		"image": "/images/posts/melhor-espelho-decorativo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moldura em polipropileno preto",
+			"Formato retangular de 146 x 36cm",
+			"Vidro lapidado de 5mm, o mais espesso da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "polipropileno (PP)"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "preta"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "146 x 36cm"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "5mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "adnet-decorativo-redondo-60cm",
+		"name": "Adnet Decorativo (redondo) 60cm",
+		"image": "/images/posts/melhor-espelho-decorativo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moldura em couro ecológico",
+			"Quatro cores: caramelo, preto, café e gelo",
+			"Formato redondo de 60 x 60cm",
+			"Vidro comum de 3mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "redondo"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "couro ecológico"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "4 cores disponíveis: caramelo; preto; café; gelo"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "comum"
+			}
+		]
+	},
+	{
+		"id": "we-mirror-organico-60x40cm",
+		"name": "We Mirror (orgánico) 60x40cm",
+		"image": "/images/posts/melhor-espelho-decorativo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Moldura em E.V.A com couro",
+			"Cor marrom e formato orgânico",
+			"Peso de 2,5kg e vidro lapidado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "orgânico"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "E.V.A + couro"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "marrom"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "cebrace-guardian-retangular-60x40cm",
+		"name": "Cebrace Guardian (retangular) 60x40cm",
+		"image": "/images/posts/melhor-espelho-decorativo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato retangular de 60 x 40cm",
+			"Vidro lapidado de 4mm",
+			"Sem moldura e peso de 2,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "—"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "60 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "4mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "lopazzi-og-04-organico-90x60cm",
+		"name": "Lopazzi OG-04 (orgânico) 90x60cm",
+		"image": "/images/posts/melhor-espelho-decorativo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato orgânico de 90 x 60cm, o segundo maior da lista",
+			"Vidro lapidado de 3mm",
+			"Sem moldura e peso de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "orgânico"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "—"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "90 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	},
+	{
+		"id": "cebrace-doaf-organico-80x60cm",
+		"name": "Cebrace Doaf (orgánico) 80x60cm",
+		"image": "/images/posts/melhor-espelho-decorativo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato orgânico de 80 x 60cm",
+			"Vidro lapidado",
+			"Sem moldura e peso de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "orgánico"
+			},
+			{
+				"label": "Material da moldura",
+				"value": "sem moldura"
+			},
+			{
+				"label": "Cor da moldura",
+				"value": "—"
+			},
+			{
+				"label": "Tamanho (A x L)",
+				"value": "80 x 60cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			},
+			{
+				"label": "Espessura do vidro",
+				"value": "3mm"
+			},
+			{
+				"label": "Tipo do vidro",
+				"value": "lapidado"
+			}
+		]
+	}
+]

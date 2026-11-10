@@ -1,0 +1,330 @@
+[
+	{
+		"id": "electrolux-efficient-fe5gb-5-bocas",
+		"name": "Electrolux Efficient FE5GB (5 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 108,9 litros, a maior capacidade da lista",
+			"Tripla chama de 3,2kW e dois queimadores rápidos de 2,7kW",
+			"Superfície de vidro temperado com trempes de ferro fundido",
+			"Funciona em tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 1,8kW; 2Q Rápidos de 2,7kW; 1Q Tripla Chama de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,5 x 76,1 x 65,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "42kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bfs5ncr-5-bocas",
+		"name": "Brastemp BFS5NCR (5 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 96 litros com cinco queimadores",
+			"Dois queimadores semirrápidos de 2,5kW",
+			"Superfície em inox com trempes de arame",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "96 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápido de 2,5kW; 3Q Rápido de 1,8kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97,6 x 77,8 x 68,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "39kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-monaco-plus-4-bocas",
+		"name": "Atlas Mônaco Plus (4 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 82 litros",
+			"Mega chama de 3,0kW",
+			"Superfície em inox com trempes de arame",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "82 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q semirrápido de 1,67kW; 2Q rápido de 2,0kW; 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88,8 x 76,2 x 55,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-decorato-vetro-inox-5-bocas",
+		"name": "Mueller Decorato Vetro Inox (5 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 98 litros",
+			"Tripla chama de 3,7kW, a mais potente da lista",
+			"Ultra chama de 2,6kW e queimadores família de 2,0kW",
+			"Superfície de vidro temperado com trempes de ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "98 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,7kW; 1Q Ultra Chama de 2,6kW; 2Q Família de 2,0kW; 1Q Médio de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 75 x 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "braslar-sirius-4-bocas",
+		"name": "Braslar Sirius (4 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 46,3 litros, o menor da lista",
+			"Três queimadores ramal de 1,75kW",
+			"Superfície em inox",
+			"Peso de 14,25kg, o mais leve entre os modelos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "46,3 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Ramal de 1,75kW; 1Q Família de 2,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 47,5 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,25kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "new-itatiaia-star-new-4-bocas",
+		"name": "New Itatiaia Star New (4 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 48 litros",
+			"Superfície em aço inoxidável 430",
+			"Trempes de arame redondo",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "48 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inoxidável 430"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame redondo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86,3 x 48,3 x 54,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "consul-cfo4nab-4-bocas",
+		"name": "Consul CFO4NAB (4 bocas)",
+		"image": "/images/posts/melhor-fogao-com-forno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 58 litros",
+			"Queimador grande de 2,75kW",
+			"Três queimadores médios de 1,65kW",
+			"Superfície em inox com trempes de arame redondo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "58 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q grande de 2,75kW; 3Q médio de 1,65kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame redondo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 51,5 x 60,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "23,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

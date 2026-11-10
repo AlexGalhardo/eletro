@@ -1,0 +1,307 @@
+[
+	{
+		"id": "pacco-supercup-880ml",
+		"name": "PACCO SuperCup 880mL",
+		"image": "/images/posts/melhor-copo-pacco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 880mL com tampa hermética",
+			"Até 12 horas de bebida fria e 6 horas de bebida quente",
+			"Canudo abre-fecha e vedação em silicone",
+			"Aço inox 18/8 e lavável na lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Capacidade",
+				"value": "880mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "hermética com vedação em silicone e canudo abre-fecha"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 12 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "até 6 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "25,7 x 10,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "aproximadamente 461g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "pacco-thermocup-600ml",
+		"name": "PACCO Thermocup 600mL",
+		"image": "/images/posts/melhor-copo-pacco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 600mL com tampa de polipropileno",
+			"Até 6 horas de bebida fria e 3 horas de bebida quente",
+			"Vedação em silicone na tampa",
+			"Aço inox 18/8 e lavável na lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "polipropileno com vedação em silicone"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 6 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "até 3 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "17,5 x 8,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "aproximadamente 327g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "pacco-slim-cup-600ml",
+		"name": "PACCO Slim Cup 600mL",
+		"image": "/images/posts/melhor-copo-pacco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato alto e estreito, de 27,3 x 7,6cm",
+			"Até 12 horas de bebida fria e 6 horas de bebida quente",
+			"Tampa em Tritan com bico e canudo interno",
+			"Aço inox 18/8 com peso de 411g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Capacidade",
+				"value": "600mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "Tritan com bico e vedação em silicone e canudo interno de polipropileno"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 12 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "até 6 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "27,3 x 7,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "aproximadamente 411g"
+			}
+		]
+	},
+	{
+		"id": "pacco-beercup-473ml",
+		"name": "PACCO BeerCup 473mL",
+		"image": "/images/posts/melhor-copo-pacco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 473mL em aço inox 18/8",
+			"Até 4 horas gelada e 10 horas com gelo",
+			"Dimensões de 15,8 x 9cm e peso de 262g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 4 horas gelada; até 10 horas com gelo"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "15,8 x 9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "262g"
+			}
+		]
+	},
+	{
+		"id": "pacco-joycup-370ml",
+		"name": "PACCO JoyCup 370mL",
+		"image": "/images/posts/melhor-copo-pacco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento interno em cerâmica PURETASTE",
+			"Capacidade de 370mL com até 4 horas de bebida fria",
+			"Até 1 hora de bebida quente, com 13,5 x 7,6cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8 com revestimento interno em cerâmica PURETASTE"
+			},
+			{
+				"label": "Capacidade",
+				"value": "370mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 4 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "até 1 hora"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "13,5 x 7,6cm"
+			}
+		]
+	},
+	{
+		"id": "pacco-mini-cup-80ml",
+		"name": "PACCO Mini Cup 80mL",
+		"image": "/images/posts/melhor-copo-pacco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 80mL, a menor da linha",
+			"Revestimento interno em cerâmica PURETASTE sobre aço 18/8",
+			"Dimensões de 7 x 5cm e peso de 58g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8 com revestimento interno em cerâmica PURETASTE"
+			},
+			{
+				"label": "Capacidade",
+				"value": "80mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "—"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "7 x 5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58g"
+			}
+		]
+	},
+	{
+		"id": "pacco-happycup-295ml",
+		"name": "PACCO HappyCup 295mL",
+		"image": "/images/posts/melhor-copo-pacco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 295mL com tampa de polipropileno e silicone",
+			"Até 6 horas gelado e 9 horas com gelo",
+			"Até 3 horas de bebida quente",
+			"Aço inox 18/8 com peso de 261g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável 18/8"
+			},
+			{
+				"label": "Capacidade",
+				"value": "295mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "polipropileno com vedação em silicone"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "até 6 horas gelado; até 9 horas com gelo"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "até 3 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "11,7 x 8,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "261g"
+			}
+		]
+	}
+]

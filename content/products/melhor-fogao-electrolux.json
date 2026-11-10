@@ -1,0 +1,366 @@
+[
+	{
+		"id": "electrolux-fe5d-5-bocas-tradicional",
+		"name": "Electrolux FE5D 5 bocas (tradicional)",
+		"image": "/images/posts/melhor-fogao-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno inferior de 108,9 litros e superior de 35,1 litros",
+			"Cinco queimadores, com uma tripla chama de 3,3kW",
+			"Superfície de vidro temperado com trempes de ferro fundido",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros (inferior); 35,1 litros (superior)"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 2kW; 2Q Rápidos de 2,65kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,2 x 76 x 65,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "58,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe5g-5-bocas-tradicional",
+		"name": "Electrolux FE5G 5 bocas (tradicional)",
+		"image": "/images/posts/melhor-fogao-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 108,9 litros para preparos maiores",
+			"Tripla chama de 3,3kW e dois queimadores rápidos de 2,7kW",
+			"Trempes em aço escovado sobre superfície de vidro",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 2kW; 2Q Rápidos de 2,7kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço escovado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,2 x 76 x 65,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "43kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe5i-5-bocas-tradicional",
+		"name": "Electrolux FE5I 5 bocas (tradicional)",
+		"image": "/images/posts/melhor-fogao-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Superfície em aço inox",
+			"Trempes de arame cilíndrico",
+			"Forno de 108,9 litros",
+			"Peso de 31,5kg e dimensões de 97 x 76 x 65cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 2kW; 2Q Rápido de 2,7kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame cilíndrico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 76 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe4g-4-bocas-tradicional",
+		"name": "Electrolux FE4G 4 bocas (tradicional)",
+		"image": "/images/posts/melhor-fogao-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 72,6 litros com quatro queimadores",
+			"Tripla chama de 2,75kW",
+			"Superfície de vidro com trempes em aço estampado",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "72,6 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápidos de 2kW; 1Q Rápido de 2,65kW; 1Q Tripla chama de 2,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço estampado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,8 x 52 x 63,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe4i-4-bocas-tradicional",
+		"name": "Electrolux FE4I 4 bocas (tradicional)",
+		"image": "/images/posts/melhor-fogao-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três queimadores semirrápidos de 2kW",
+			"Superfície em aço inox com trempes de arame cilíndrico",
+			"Forno de 72,6 litros",
+			"Tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "72,6 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Semirrápidos de 2kW; 1Q Tripla chama de 2,75kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "arame cilíndrico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 52 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "27,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe5e-5-bocas-embutir",
+		"name": "Electrolux FE5E 5 bocas (embutir)",
+		"image": "/images/posts/melhor-fogao-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de embutir com cinco queimadores",
+			"Forno de 108,9 litros",
+			"Tripla chama de 3,3kW e rápidos de 2,7kW",
+			"Superfície de vidro com trempes em aço estampado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápido de 2,0kW; 2Q Rápido de 2,7kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço estampado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,5 x 81,3 x 68cm"
+			},
+			{
+				"label": "Peso",
+				"value": "42,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-fe4e-4-bocas-embutir",
+		"name": "Electrolux FE4E 4 bocas (embutir)",
+		"image": "/images/posts/melhor-fogao-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de embutir com quatro queimadores",
+			"Forno de 79,2 litros",
+			"Tripla chama de 3,3kW",
+			"Superfície de vidro com trempes em aço estampado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "79,2 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápido de 2,0kW; 1Q Rápido de 2,7kW; 1Q Tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço estampado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68,5 x 60,9 x 68,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "32,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

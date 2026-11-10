@@ -1,0 +1,358 @@
+[
+	{
+		"id": "mueller-decorato-gourmet-inox-5-bocas",
+		"name": "Mueller Decorato Gourmet Inox (5 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 98 litros com superfície de inox escovado",
+			"Tripla chama de 3,7kW e dupla chama de 3,0kW",
+			"Trempes de ferro fundido",
+			"Bivolt e peso de 34kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "98 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,7kW; 1Q Dupla Chama de 3,0kW; 1Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 × 75 × 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "34kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-decorato-vetro-5-bocas",
+		"name": "Mueller Decorato Vetro (5 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 98 litros com superfície de vidro",
+			"Ultra Chama de 2,6kW e tripla chama de 3,7kW",
+			"Trempes de ferro fundido",
+			"Bivolt e dimensões de 95 x 75 x 62cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "98 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,7kW; 1Q Ultra Chama de 2,6kW; 1Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 × 75 × 62cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mfv5bf-5-bocas",
+		"name": "Mueller MFV5BF (5 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 81,6 litros com cinco queimadores",
+			"Tripla chama de 3,7kW e dois queimadores família",
+			"Superfície de vidro temperado",
+			"Trempes de ferro fundido e bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "81,6 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,7kW; 2Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "91 x 75 x 62,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "31,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mfi5bc-5-bocas",
+		"name": "Mueller MFI5BC (5 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 81,6 litros com cinco queimadores",
+			"Ultra Chama de 3,7kW no queimador principal",
+			"Superfície de aço esmaltado",
+			"Dimensões de 86 x 75 x 55cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "81,6 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Ultra Chama de 3,7kW; 2Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 75 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mfv4bf-4-bocas",
+		"name": "Mueller MFV4BF (4 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 48,1 litros para cozinhas compactas",
+			"Dois queimadores família e dois médios de 1,7kW",
+			"Superfície de vidro temperado",
+			"Trempes de ferro fundido e bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "48,1 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "91 x 48,5 x 62,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-mfi4bc-4-bocas",
+		"name": "Mueller MFI4BC (4 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 48,1 litros com quatro queimadores",
+			"Um queimador família e três médios",
+			"Superfície de aço esmaltado",
+			"Peso de 15,9kg e dimensões de 86 x 48,5 x 55cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "48,1 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Família de 2,0kW e 3Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "86 x 48,5 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mueller-decorato-inox-5-bocas",
+		"name": "Mueller Decorato Inox (5 bocas)",
+		"image": "/images/posts/melhor-fogao-mueller-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 98 litros com superfície de inox brilhante",
+			"Tripla chama de 3,7kW e quatro queimadores menores",
+			"Trempes de aço esmaltado",
+			"Peso de 30,7kg e dimensões de 98 x 75 x 65cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de fogão",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "98 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,7kW, 2Q Família de 2,0kW e 2Q Médios de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox brilhante"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 x 75 x 65cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

@@ -1,0 +1,426 @@
+[
+	{
+		"id": "electrolux-oe8gf-80-litros",
+		"name": "Electrolux OE8GF (80 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"FoodSensor, termômetro de carnes, para controlar o ponto do preparo",
+			"Convecção, grill e gratinar e dourar em um só aparelho",
+			"Duas prateleiras deslizantes para organizar as assadeiras",
+			"Porta de vidro duplo e luz interna para acompanhar o preparo",
+			"Potência de 1800W e temperatura de até 280ºC"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "80 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 280ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "FoodSensor (termômetro de carnes); PerfectCook360 (cavidade selada + convecção); convecção; grill; gratinar e dourar; timer com aviso sonoro; relógio; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras deslizantes"
+			},
+			{
+				"label": "Peso",
+				"value": "24,8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,6 x 59,6 x 61,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-boa84ar-78-litros",
+		"name": "Brastemp BOA84AR (78 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Cleartec com grill e timer",
+			"Timer touch e luz interna para acompanhar o preparo",
+			"Duas prateleiras ajustáveis para diferentes alturas",
+			"Potência de 1250W com temperatura de até 280ºC"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "78 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 280ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "touch"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro"
+			},
+			{
+				"label": "Funções",
+				"value": "grill; timer; tecnologia Cleartec; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras ajustáveis"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 60 x 58,4cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-boa84ae-78-litros",
+		"name": "Brastemp BOA84AE (78 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grelha ajustável e pegador de grelha inclusos",
+			"Tecnologia Cleartec com grill e timer touch",
+			"78 litros de capacidade interna e 1250W de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "78 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "até 280ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "touch"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro"
+			},
+			{
+				"label": "Funções",
+				"value": "grill; timer touch; tecnologia Cleartec; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras; grelha ajustável; pegador de grelha"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 60 x 58cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-infinity-50-litros",
+		"name": "Fischer Infinity (50 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento EasyClean para facilitar a limpeza",
+			"Válvula corta gás e proteção móvel do queimador",
+			"Timer giratório com aviso sonoro",
+			"Capacidade de 50 litros em 45 x 59,5 x 60,8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1027,5W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "160ºC a 260ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "grill elétrico; controle de temperatura; timer com aviso sonoro; revestimento interno EasyClean; válvula corta gás; lâmpada interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade; proteção móvel do queimador"
+			},
+			{
+				"label": "Peso",
+				"value": "19,65kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 59,5 x 60,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "venax-industrial-fi-9728-109-litros",
+		"name": "Venax Industrial FI 9728 (109 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 109 litros, a maior da lista",
+			"Potência de 4500W, a maior da lista",
+			"Porta de aço com visor e tranca",
+			"Isolamento térmico em lã de vidro e revestimento Easy Clean"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "industrial com base"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "109 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "4500W"
+			},
+			{
+				"label": "Luz interna",
+				"value": "—"
+			},
+			{
+				"label": "Porta",
+				"value": "aço com visor e tranca"
+			},
+			{
+				"label": "Funções",
+				"value": "acendimento manual; ajuste de temperatura em 5 posições; revestimento interno Easy Clean; isolamento térmico em lã de vidro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras reguláveis"
+			},
+			{
+				"label": "Peso",
+				"value": "33,6kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130,5 x 59 x 72cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "itajobi-forno-cavalete-76-litros",
+		"name": "Itajobi Forno Cavalete (76 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa de vidro temperado para acompanhar o preparo",
+			"Aquecimento a gás de baixa pressão",
+			"Isolamento térmico em lã de vidro",
+			"Capacidade de 76 litros com uma grade inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "convencional com cavalete"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "76 litros"
+			},
+			{
+				"label": "Luz interna",
+				"value": "—"
+			},
+			{
+				"label": "Porta",
+				"value": "tampa de vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "aquecimento a gás de baixa pressão; isolamento térmico em lã de vidro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 grade"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "116 x 54,3 x 55cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "continental-oc8gm-80-litros",
+		"name": "Continental OC8GM (80 litros)",
+		"image": "/images/posts/melhor-forno-a-gas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia TOPLimpaFácil com cavidade selada de cantos arredondados",
+			"Ajuste de temperatura de 180ºC a 280ºC",
+			"Grill e timer com aviso sonoro",
+			"Duas prateleiras reguláveis e removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "embutir"
+			},
+			{
+				"label": "Capacidade interna",
+				"value": "80 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "180ºC a 280ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "tecnologia TOPLimpaFácil; cavidade selada com cantos arredondados; grill; timer com aviso sonoro; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras reguláveis e removíveis"
+			},
+			{
+				"label": "Peso",
+				"value": "23,3kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,6 x 59,6 x 57,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

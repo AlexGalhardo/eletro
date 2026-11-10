@@ -1,0 +1,321 @@
+[
+	{
+		"id": "dako-diplomata-glass-grill-style",
+		"name": "Dako Diplomata Glass Grill Style",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 100 litros com cinco queimadores",
+			"Queimador Tripla Chama de 3,3kW à esquerda",
+			"Mesa de vidro temperado com trempes de ferro fundido",
+			"Alimentação bivolt segundo a ficha técnica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Semirrápidos de 1,7kW; 1Q Mega Chama de 3,0kW; 1Q Tripla Chama de 3,3kW (Esquerda)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "94,7 x 76 x 65,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "40kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-efficient-fe5gb",
+		"name": "Electrolux Efficient FE5GB",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 108,9 litros, o maior da lista",
+			"Dois queimadores rápidos de 2,7kW",
+			"Queimador de tripla chama de 3,2kW",
+			"Vidro temperado com trempes em ferro fundido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "108,9 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápido de 1,8kW; 2Q Rápido de 2,7kW; 1Q Tripla Chama de 3,2kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,5 x 76,1 x 65,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "42kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-monaco-top-glass",
+		"name": "Atlas Mônaco Top Glass",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trempes de aço Limpa Fácil para a limpeza",
+			"Forno de 82 litros com cinco queimadores",
+			"Queimador mega chama de 3,0kW",
+			"Peso de 28kg e medidas de 87,7 x 75 x 56,4cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "82 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Semirrápido de 1,67kW; 2Q Rápido de 2,0kW; 1Q Mega Chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço Limpa Fácil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87,7 x 75 x 56,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "28kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-atenas-glass",
+		"name": "Atlas Atenas Glass",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 86,5 litros com cinco queimadores",
+			"Dois queimadores ramal de 2,0kW",
+			"Trempes de aço esmaltado sobre vidro temperado",
+			"Megachama de 3,0kW em um dos queimadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "86,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Ramal de 1,7kW, 2Q Ramal de 2,0kW e 1Q Megachama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88 x 75 x 59,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "itatiaia-electra-glass-plus",
+		"name": "Itatiaia Electra Glass Plus",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco queimadores em mesa de vidro",
+			"Medidas de 80,8 x 77,3 x 61cm e peso de 33,7kg",
+			"Superfície de vidro com cinco bocas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80,8 x 77,3 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33,7kg"
+			}
+		]
+	},
+	{
+		"id": "suggar-neo-glass-fgvng510prix",
+		"name": "Suggar Neo Glass FGVNG510PRIX",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros com mesa de vidro temperado",
+			"Queimador Mega Chama com dois queimadores Família",
+			"Trempes em aço esmaltado",
+			"Peso de 30,5kg e medidas de 92 x 76,5 x 64,3cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Mega Chama; 2Q Família"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 76,5 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "dako-supreme-black-glass",
+		"name": "Dako Supreme Black Glass",
+		"image": "/images/posts/melhor-fogao-com-mesa-de-vidro-5-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 100 litros no forno",
+			"Tripla chama de 3,3kW e dois queimadores família",
+			"Trempes de ferro fundido e vidro temperado",
+			"Medidas de 95 x 76,6 x 65,2cm e 36,6kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "100 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Tripla Chama de 3,3kW; 2Q Família de 2,0kW; 2Q Semirrápidos de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 76,6 x 65,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "36,6kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

@@ -1,0 +1,326 @@
+[
+	{
+		"id": "stanley-quencher-2-0-887ml",
+		"name": "Stanley Quencher 2.0 887ml",
+		"image": "/images/posts/melhor-copo-termico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa de rosca com abertura deslizante",
+			"Mantém a bebida fria por 9 horas",
+			"Capacidade de 887ml em aço inoxidável",
+			"Pode ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "887ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "plástica com vedação de rosca e abertura deslizante"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "9 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "25 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "623g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-navy-473ml",
+		"name": "Stanley Navy 473ml",
+		"image": "/images/posts/melhor-copo-termico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conserva a bebida fria por 4,5 horas",
+			"Conserva a bebida quente por 1,5 hora",
+			"Tampa de vedação de encaixe",
+			"Pode ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "plástica com vedação de encaixe"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4,5 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "1,5 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "17,2 x 9,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "330g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-matte-black-2-0-473ml",
+		"name": "Stanley Matte Black 2.0 473ml",
+		"image": "/images/posts/melhor-copo-termico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conserva a bebida fria por 4 horas",
+			"Conserva a bebida quente por 45 minutos",
+			"Capacidade de 473ml em aço inoxidável",
+			"Pode ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "45 minutos"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "14,6 x 8,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "340g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "mor-008042-360ml",
+		"name": "Mor 008042 360ml",
+		"image": "/images/posts/melhor-copo-termico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conserva a bebida quente por 2 horas",
+			"Conserva a bebida fria por 4 horas",
+			"Tampa de vedação de encaixe",
+			"Pode ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "360ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "plástica com vedação de encaixe"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "2 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "12,5 x 9,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "221g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "romantic-crown-1-18-litros",
+		"name": "Romantic Crown 1,18 litros",
+		"image": "/images/posts/melhor-copo-termico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conserva a bebida fria por 30 horas",
+			"Conserva a bebida quente por 8 horas",
+			"Capacidade de 1,18 litro, a maior da lista",
+			"Tampa de rosca com abertura deslizante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,18 litro"
+			},
+			{
+				"label": "Tampa",
+				"value": "plástica com vedação de rosca e abertura deslizante"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "30 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "8 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "27 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "185g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-pilsner-glass-happy-hour-444ml",
+		"name": "Stanley Pilsner Glass Happy Hour 444ml",
+		"image": "/images/posts/melhor-copo-termico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 444ml em aço inoxidável",
+			"Conserva a bebida fria por 4 horas",
+			"Dimensões de 18,3 x 8,2cm",
+			"Peso de 380g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "444ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "18,3 x 8,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "380g"
+			}
+		]
+	},
+	{
+		"id": "stanley-prismatico-alto-381ml",
+		"name": "Stanley Prismático Alto 381ml",
+		"image": "/images/posts/melhor-copo-termico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Conserva a bebida fria por 4 horas",
+			"Conserva a bebida quente por 40 minutos",
+			"Peso de 190g",
+			"Pode ir à lava-louças"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "381ml"
+			},
+			{
+				"label": "Tampa",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "14,6 x 7,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "190g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	}
+]

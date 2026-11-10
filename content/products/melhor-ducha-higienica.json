@@ -1,0 +1,382 @@
+[
+	{
+		"id": "docol-nova-loggica-01137906",
+		"name": "Docol Nova Lóggica 01137906",
+		"image": "/images/posts/melhor-ducha-higienica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Suporta pressão máxima de até 40 m.c.a.",
+			"Aceita água quente de até 70°C",
+			"Mangueira flexível com rosca padrão de 1/2 polegada",
+			"Corpo em cerâmica, plástico e ligas de cobre e zamac"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica, plástico, ligas de cobre e zamac"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "não"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Compatível com água quente",
+				"value": "sim"
+			},
+			{
+				"label": "Temperatura da água",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-7560043",
+		"name": "Lorenzetti 7560043",
+		"image": "/images/posts/melhor-ducha-higienica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aceita água quente em 3 níveis, até 70°C",
+			"Mangueira de 1,20 metro para instalação na parede",
+			"Plástico ABS com liga metálica na construção",
+			"Pressão mínima de 2 m.c.a. e máxima de 20 m.c.a."
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "plástico ABS e liga metálica"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "não"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "20m.c.a"
+			},
+			{
+				"label": "Compatível com água quente",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Temperatura da água",
+				"value": "até 70°C"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,20 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "softinox-dhs",
+		"name": "SoftInox DHS",
+		"image": "/images/posts/melhor-ducha-higienica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Metal cromado com mangueira flexível de 1,20 metro",
+			"Acompanha derivação T para a instalação",
+			"Funciona com água de até 45ºC",
+			"Pressão entre 4 e 15 m.c.a. na faixa de uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "metal cromado"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "4m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "15m.c.a"
+			},
+			{
+				"label": "Temperatura da água",
+				"value": "até 45ºC"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,20 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "brinovar-duchapra",
+		"name": "Brinovar DUCHAPRA",
+		"image": "/images/posts/melhor-ducha-higienica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mangueira de 1,5 metro com malha inoxidável",
+			"Aceita água de 5°C a 45°C, inclusive quente",
+			"Aço inoxidável e plástico na construção",
+			"Pressão entre 3 e 15 m.c.a. com rosca de 1/2 polegada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável, malha inoxidável, plástico"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "não"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "3m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "15m.c.a"
+			},
+			{
+				"label": "Compatível com água quente",
+				"value": "sim"
+			},
+			{
+				"label": "Temperatura da água",
+				"value": "5°C a 45°C"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim (malha inoxidável)"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "premier-all-black",
+		"name": "Premier All Black",
+		"image": "/images/posts/melhor-ducha-higienica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mangueira de 1,15 metro com rosca de 1/2 polegada",
+			"Compatível com água quente, sem temperatura informada",
+			"Construção em ABS, metal e plástico",
+			"Exige pressão mínima de 4 m.c.a."
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "ABS, metal e plástico"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "4m.c.a"
+			},
+			{
+				"label": "Compatível com água quente",
+				"value": "sim"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,15 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "deca-1984-c-act-lnk",
+		"name": "Deca 1984.C.ACT.LNK",
+		"image": "/images/posts/melhor-ducha-higienica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acompanha derivação T para a instalação",
+			"Faixa de pressão entre 2 e 40 m.c.a.",
+			"Mangueira de 1,2 metro com rosca de 1/2 polegada",
+			"Liga de cobre, aço e plástico ABS na construção"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "liga de cobre, aço e plástico ABS"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,2 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	},
+	{
+		"id": "celite-b5008clcrb",
+		"name": "Celite B5008CLCRB",
+		"image": "/images/posts/melhor-ducha-higienica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor pressão mínima da lista, de 1,5 m.c.a.",
+			"Acompanha derivação T e mangueira de 1,20 metro",
+			"Metal cromado com pressão máxima de 40 m.c.a.",
+			"Rosca de 1/2 polegada para instalação na parede"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com registro"
+			},
+			{
+				"label": "Material",
+				"value": "metal cromado"
+			},
+			{
+				"label": "Acompanha derivação T",
+				"value": "sim"
+			},
+			{
+				"label": "Pressão mínima de funcionamento",
+				"value": "1,5m.c.a"
+			},
+			{
+				"label": "Pressão máxima de funcionamento",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "1,20 metro"
+			},
+			{
+				"label": "Flexível",
+				"value": "sim"
+			},
+			{
+				"label": "Padrão de rosca",
+				"value": "1/2″"
+			},
+			{
+				"label": "Instalação",
+				"value": "parede"
+			}
+		]
+	}
+]

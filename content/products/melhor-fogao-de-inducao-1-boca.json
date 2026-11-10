@@ -1,0 +1,368 @@
+[
+	{
+		"id": "midea-cyad1-2000w",
+		"name": "Midea CYAD1 2000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 níveis de potência com touch e slider",
+			"Trava para crianças e desligamento automático",
+			"8 funções, incluindo fritar, ferver, arroz e fondue",
+			"Timer e função manter aquecido"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "10 níveis de potência; trava para crianças; timer; desligamento automático; 8 funções: fritar, refogar, cozimento lento, ferver, arroz, manter aquecido, fondue e sopa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29,5 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cuisine-cadence-2000w",
+		"name": "Cuisine Cadence 2000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento por indução direta com bobina 100% em cobre",
+			"Sinal sonoro ao concluir o preparo",
+			"Timer programável e trava de segurança",
+			"Só funciona com panela sobre a superfície",
+			"Vidro temperado com controle digital de 8 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "digital (8 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável; trava de segurança; sinal sonoro de preparo concluído; aquecimento por indução direta; funcionamento apenas com panela sobre a superfície; bobina 100% em cobre"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 28 x 34,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pct12p-1300w",
+		"name": "Philco PCT12P 1300W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 opções de temperatura no controle touch",
+			"Reconhecimento de panelas com fundo magnético",
+			"Timer programável e desligamento automático",
+			"Trava de segurança e tensão bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,1KWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável; 10 opções de temperatura; reconhecimento de panelas com fundo magnético; desligamento automático; trava de segurança"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,7 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,319kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "midea-cydj11-2000w",
+		"name": "Midea CYDJ11 2000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer digital programável de até 180 minutos",
+			"9 níveis de potência e função turbo",
+			"Tecnologia even pro e sensor de panela",
+			"Resfriamento rápido após o uso",
+			"6 funções, incluindo fritar, arroz e sopa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,0KWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer digital programável até 180 minutos; 9 níveis de potência; função turbo; tecnologia even pro; sensor de desligamento automático; resfriamento rápido; 6 funções: fritar, função refogar, cozimento lento, ferver, arroz e sopa; sensor de panela"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,6 x28,0 x 35,0cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,37kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-acki01i-01-1200w",
+		"name": "Agratto ACKI01I-01 1200W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8 programas pré-definidos no controle touch",
+			"Consumo médio de 1,2 kWh, o menor desta lista",
+			"Timer digital e desligamento automático",
+			"Trava de segurança e pés antiderrapantes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (8 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,2KWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "8 programas pré-definidos; desligamento automático; timer digital; trava de segurança; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9 x 40 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-le3tp-1500w",
+		"name": "Electrolux LE3TP 1500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 níveis de potência no controle touch",
+			"Superfície fria fora da zona de aquecimento",
+			"Timer com desligamento automático",
+			"Consumo médio de 1,5 kWh e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,5KWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "10 níveis de potência; timer com desligamento automático; superfície fria fora da zona de aquecimento; trava de segurança;"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 28 x 35,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "dako-inducao-portatil-2000w",
+		"name": "Dako Indução Portátil 2000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-1-boca-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 níveis de potência e 3 receitas pré-programadas",
+			"Função manter aquecido e play/pause",
+			"Indicador de calor residual",
+			"Timer digital e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,0KWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "10 níveis de potência; 3 receitas pré-programadas; função manter aquecido; função play/pause; indicador de calor residual; trava de segurança; timer digital"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,5 x 29 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

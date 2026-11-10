@@ -1,0 +1,382 @@
+[
+	{
+		"id": "eos-cheff-gourmet-eci01ppb-2200w-1-boca",
+		"name": "Eos Cheff Gourmet ECI01PPB 2200W (1 boca)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W e aquecimento por indução",
+			"Controle manual em 10 níveis de temperatura",
+			"Timer de até 24 horas e desligamento automático",
+			"Sensor de panelas com fundo magnético",
+			"Vidro temperado Full Glass com base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado (Full Glass)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (10 níveis)"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "indução"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "base antiderrapante; desligamento automático; timer de até 24 horas; controle de temperatura ajustável; proteção contra superaquecimento; sensor de panelas com fundo magnético"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pct12p-2000w-1-boca",
+		"name": "Philco PCT12P 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com aquecimento por indução",
+			"Controle manual em 10 níveis de temperatura",
+			"Display digital touchscreen e timer de até 180 minutos",
+			"Sensor de panela e desligamento automático",
+			"Proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "indução"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "proteção contra superaquecimento; desligamento automático; sensor de panela; timer de até 180 minutos; display digital touchscreen"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,7 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,319kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "elgin-double-cook-2000w-2-bocas",
+		"name": "Elgin Double Cook 2000W (2 bocas)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com controle de temperatura individual",
+			"Potência de 2000W com resistência elétrica",
+			"Cinco níveis de temperatura por boca",
+			"Corpo em aço inox e base antiderrapante",
+			"Luz indicadora dupla de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis por boca)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "resistência elétrica"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz indicadora dupla; base antiderrapante; controle de temperatura individual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 43 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-fmp-02-2500w-2-bocas",
+		"name": "Agratto FMP-02 2500W (2 bocas)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas: prato médio de 1000W e grande de 1500W",
+			"Cinco níveis de temperatura em cada boca",
+			"Aço carbono com aquecimento por resistência elétrica",
+			"Luz de funcionamento para cada boca",
+			"Base antiderrapante para maior estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2500W (prato médio 1000W e pato grande 1500W)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis por boca)"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "resistência elétrica"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz de funcionamento para cada boca; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 26,5 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,130kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-cook-for-you-1000w-1-boca",
+		"name": "Elgin Cook For You 1000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com resistência elétrica",
+			"Ferro fundido com cinco níveis de temperatura",
+			"Termostato e luz indicadora de funcionamento",
+			"Base antiderrapante e consumo médio de 1kWh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1kWh"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "resistência elétrica"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz indicadora de funcionamento; termostato; base antiderrapante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 21 x 7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-acki01i-02-2000w-1-boca",
+		"name": "Agratto ACKI01I-02 2000W (1 boca)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste digital fino em 8 níveis de temperatura",
+			"Indução com 1200W em 127V ou 2000W em 220V",
+			"Timer programável e trava de segurança",
+			"Painel touchscreen com 8 modos de potência"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "digital (ajuste fino com 8 níveis)"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "indução"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável; trava de segurança; painel touchscreen; 8 modos de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9 x 31 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-cyad11-1500w-1-boca",
+		"name": "Midea CYAD11 1500W (1 boca)",
+		"image": "/images/posts/melhor-fogao-eletrico-portatil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste digital fino em 10 níveis de temperatura",
+			"Indução com 1500W em 127V ou 2000W em 220V",
+			"Timer programável e desligamento automático",
+			"Oito funções pré-definidas no painel touchscreen"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "digital (ajuste fino com 10 níveis)"
+			},
+			{
+				"label": "Sistema de aquecimento",
+				"value": "indução"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desligamento automático; painel digital touchscreen; timer programável; 8 funções pré-definidas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29,5 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

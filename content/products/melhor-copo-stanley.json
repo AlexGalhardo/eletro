@@ -1,0 +1,283 @@
+[
+	{
+		"id": "stanley-quencher-h2-0-1-18-litro",
+		"name": "Stanley Quencher H2.0 1,18 litro",
+		"image": "/images/posts/melhor-copo-stanley-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1,18 litro, a maior da lista",
+			"Tampa em 3 posições com canudo removível",
+			"Até 2 dias com gelo e 7 horas para bebida quente",
+			"Aço inoxidável em toda a estrutura",
+			"Peso de 645g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1,18 litro"
+			},
+			{
+				"label": "Tampa",
+				"value": "em 3 posições e canudo removível"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "11 horas gelada; até 2 dias com gelo"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "7 horas"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "27 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "645g"
+			}
+		]
+	},
+	{
+		"id": "stanley-quencher-2-0-887ml",
+		"name": "Stanley Quencher 2.0 887mL",
+		"image": "/images/posts/melhor-copo-stanley-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 887mL com tampa em 3 posições",
+			"Canudo removível para facilitar a limpeza",
+			"Até 40 horas com gelo e 9 horas gelada",
+			"Pode ir à lava-louças",
+			"Peso de 623g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "887mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "em 3 posições e canudo removível"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "9 horas gelada; até 40 horas com gelo"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "25 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "623g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-copo-termico-de-cerveja-com-tampa-473ml",
+		"name": "Stanley Copo Térmico de Cerveja com Tampa 473mL",
+		"image": "/images/posts/melhor-copo-stanley-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vedação de encaixe com abridor de garrafas acoplado",
+			"Até 17 horas com gelo e 4,5 horas gelada",
+			"Pode ir à lava-louças",
+			"Capacidade de 473mL em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "vedação de encaixe com abridor de garrafas acoplado"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4,5 horas; até 17 horas com gelo"
+			},
+			{
+				"label": "Tempo de conservação da bebida quente",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-everyday-tumbler-473ml",
+		"name": "Stanley Everyday Tumbler 473mL",
+		"image": "/images/posts/melhor-copo-stanley-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vedação de encaixe com slider",
+			"Até 20 horas com gelo e 5 horas gelada",
+			"Pode ir à lava-louças",
+			"Capacidade de 473mL em aço inoxidável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "vedação de encaixe com slider"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "5 horas; até 20 horas com gelo"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "stanley-copo-termico-2-0-473ml",
+		"name": "Stanley Copo Térmico 2.0 473mL",
+		"image": "/images/posts/melhor-copo-stanley-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 473mL em aço inoxidável",
+			"Até 15 horas com gelo e 4 horas gelada",
+			"Dimensões de 16 x 9,4cm e peso de 480g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "473mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "––"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas; até 15 horas com gelo"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "16 x 9,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "480g"
+			}
+		]
+	},
+	{
+		"id": "stanley-copo-termico-354ml",
+		"name": "Stanley Copo Térmico 354mL",
+		"image": "/images/posts/melhor-copo-stanley-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 345mL, a menor da lista",
+			"Até 15 horas com gelo e 4 horas gelada",
+			"Aço inoxidável em toda a estrutura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "345mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "––"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas; até 15 horas com gelo"
+			}
+		]
+	},
+	{
+		"id": "stanley-pilsner-glass-happy-hour-444ml",
+		"name": "Stanley Pilsner Glass Happy Hour 444mL",
+		"image": "/images/posts/melhor-copo-stanley-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato de pilsner de 444mL em aço inoxidável",
+			"Peso de 380g, o mais leve com peso informado",
+			"Até 14 horas com gelo",
+			"Pode ir à lava-louças",
+			"Dimensões de 18,3 x 8,2cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "444mL"
+			},
+			{
+				"label": "Tampa",
+				"value": "––"
+			},
+			{
+				"label": "Tempo de conservação da bebida fria",
+				"value": "4 horas; até 14 horas com gelo"
+			},
+			{
+				"label": "Dimensões (A x L)",
+				"value": "18,3 x 8,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "380g"
+			},
+			{
+				"label": "Pode ir à lava-louças",
+				"value": "sim"
+			}
+		]
+	}
+]

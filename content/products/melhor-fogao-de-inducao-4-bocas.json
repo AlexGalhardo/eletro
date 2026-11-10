@@ -1,0 +1,368 @@
+[
+	{
+		"id": "electrolux-ie60p-7350w",
+		"name": "Electrolux IE60P 7350W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7350W e 14 níveis de controle",
+			"Zona Unicook e função PowerBoost",
+			"Timer de até 99 minutos e trava de segurança",
+			"Sensor de panela magnética e tecnologia Hob2Hood",
+			"Altura de 4,4 cm, a menor desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7350W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "zona Unicook; função Turbo; timer de até 99 minutos; trava de segurança; sensor de panela magnética; tecnologia Hob2Hood; função PowerBoost. Manter Aquecido; 14 níveis de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "oster-otop402-600w",
+		"name": "Oster OTOP402 600W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle deslizante com 14 níveis",
+			"Função Booster e aquecimento rápido",
+			"Timer de até 99 minutos com trava de segurança",
+			"Superfície fácil de limpar",
+			"Consumo médio de 6 kWh, o menor desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "6000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slide (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "6kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função de aquecimento rápido; timer de até 99 minutos; controle deslizante; sistema de segurança com trava; superfície fácil de limpar; função Booster"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04ep-7500w",
+		"name": "Eos ECI04EP 7500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7500W, a maior desta lista",
+			"Função turbo e 10 níveis de potência",
+			"Timer de até 99 minutos e desligamento automático",
+			"Trava de segurança para o uso no dia a dia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função turbo; timer de até 99 minutos; trava de segurança; desligamento automático; 10 níveis de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04epf-7000w",
+		"name": "Eos ECI04EPF 7000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Superfície de vidro temperado com tecnologia Freezone",
+			"Acendimento automático e função Turbo",
+			"10 níveis de potência e timer de até 99 minutos",
+			"Acompanha livro de receitas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7,0kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo; timer de até 99 minutos; trava de segurança; tecnologia Freezone; acendimento automático; acompanha livro de receitas; 10 níveis de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pctq1-7000w",
+		"name": "Philco PCTQ1 7000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel digital sensível ao toque com 9 níveis",
+			"Compatível com panelas magnéticas de 12 a 21 cm",
+			"Função Turbo e timer de até 99 minutos",
+			"Peso de 7,78 kg, o menor desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7,0kW/h"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo; timer de até 99 minutos; desligamento automático; painel digital sensível ao toque; compatível com panelas magnéticas de 12 a 21cm; 9 níveis de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,1 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,78kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04ep2-7200w",
+		"name": "Eos ECI04EP2 7200W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função booster para modo turbo",
+			"Design para embutir",
+			"Vidro polido com 9 níveis de potência",
+			"Timer incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7200W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vidro polido"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7,2kW/h"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função booster (modo turbo); design para embutir; 9 níveis de potência; timer"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-33243-89825-7200w",
+		"name": "Fischer 33243-89825 7200W",
+		"image": "/images/posts/melhor-fogao-de-inducao-4-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função SmartHeat e 9 níveis de potência",
+			"Sistema de segurança Cooksense",
+			"Temporizador de até 99 minutos",
+			"Superfície vitrocerâmica com potência de 7200W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7200W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "7,2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "temporizador de até 99min; sistema de segurança Cooksense; função SmartHeat; 9 níveis de potência"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

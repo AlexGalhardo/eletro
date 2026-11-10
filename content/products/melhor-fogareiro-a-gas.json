@@ -1,0 +1,394 @@
+[
+	{
+		"id": "ntk-flex-fuel-aramis-3-em-1",
+		"name": "NTK Flex Fuel Aramis 3 em 1",
+		"image": "/images/posts/melhor-fogareiro-a-gas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com regulagem de chama",
+			"Ignição automática e trava de segurança",
+			"Acompanha mini grelha, grelha inteiriça e grelha de fogão",
+			"Pés ajustáveis e controle da chama"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço esmaltado, epóxi especial e enamel atóxico"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás butano ou GLP"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "cartucho ou botijão GLP"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "2 bocas"
+			},
+			{
+				"label": "Peso",
+				"value": "9kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 68 x 37cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mini grelha; grelha inteiriça; grelha em formato de fogão"
+			},
+			{
+				"label": "Segurança",
+				"value": "pés ajustáveis; trava de segurança; controle da chama"
+			}
+		]
+	},
+	{
+		"id": "ntk-duo-ceramik-1-boca",
+		"name": "NTK Duo Ceramik (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ignição automática com regulagem de chama",
+			"Maleta para transporte inclusa",
+			"Trava de segurança e controle de chama",
+			"Aço esmaltado com pintura epóxi e peso de 2,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço esmaltado, pintura epóxi e enamel atóxico"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás butano ou GLP"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "botijões de baixa pressão ou cartuchos"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "1 boca"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9 x 33 x 35cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "maleta para transporte"
+			},
+			{
+				"label": "Segurança",
+				"value": "trava de segurança; controle de chama"
+			}
+		]
+	},
+	{
+		"id": "bestfer-camping-1-boca",
+		"name": "Bestfer Camping (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ignição automática com regulagem de chama",
+			"Usa cartuchos de gás como fonte",
+			"Aço, alumínio e ferro na construção",
+			"Maleta para transporte e peso de 1,86kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço, alumínio e ferro"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás butano"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "cartuchos de gás"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "1 boca"
+			},
+			{
+				"label": "Peso",
+				"value": "1,86kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 28 x 34cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "maleta para transporte"
+			},
+			{
+				"label": "Segurança",
+				"value": "trava de segurança; controle da chama"
+			}
+		]
+	},
+	{
+		"id": "ntk-frontier-flex-1-boca",
+		"name": "NTK Frontier Flex (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aceita gás butano ou propano como fonte",
+			"Ignição automática e regulagem de chama",
+			"Maleta para transporte inclusa",
+			"Aço esmaltado com 2,1kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço esmaltado e enamel atóxico"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás butano ou propano"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "gás butano"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "1 boca"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 26 x 35cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "maleta para transporte"
+			},
+			{
+				"label": "Segurança",
+				"value": "trava de segurança; controle da chama"
+			}
+		]
+	},
+	{
+		"id": "ntk-atomo-1-boca",
+		"name": "NTK Átomo (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 405g, o mais leve da lista",
+			"Pés dobráveis para guardar",
+			"Aço inoxidável com cartuchos Campgás",
+			"Maleta para transporte inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás butano"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "cartuchos Campgás"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "1 boca"
+			},
+			{
+				"label": "Peso",
+				"value": "405g"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,5 x 16 x 16cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "maleta para transporte"
+			},
+			{
+				"label": "Segurança",
+				"value": "pés dobráveis; trava de segurança; controle da chama"
+			}
+		]
+	},
+	{
+		"id": "vtelor-laurindos-2-bocas",
+		"name": "Vtelor Laurindos (2 bocas)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas com regulagem de chama",
+			"Mangueira e registros inclusos",
+			"Inox e aço carbono com 1,68kg",
+			"Controle da chama para maior segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "inox e aço carbono"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "botijão de gás GLP"
+			},
+			{
+				"label": "Ignição",
+				"value": "manual"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "2 bocas"
+			},
+			{
+				"label": "Peso",
+				"value": "1,68kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 22,5 x 42,5cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira; registros, chapa removível"
+			},
+			{
+				"label": "Segurança",
+				"value": "controle da chama"
+			}
+		]
+	},
+	{
+		"id": "guepardo-new-duppio-bdz-168-1-boca",
+		"name": "Guepardo New Duppio BDZ-168 (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-a-gas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Válvula de segurança e dispositivo corta chama",
+			"Aceita cartuchos Campgás ou botijão GLP",
+			"Ignição automática e regulagem de chama",
+			"Maleta plástica para transporte inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Fonte de energia",
+				"value": "gás"
+			},
+			{
+				"label": "Compatibilidade de gás",
+				"value": "cartuchos Campgás ou botijão de gás GLP"
+			},
+			{
+				"label": "Ignição",
+				"value": "automática"
+			},
+			{
+				"label": "Regulagem de chama",
+				"value": "sim"
+			},
+			{
+				"label": "Quantidade de bocas",
+				"value": "1 boca"
+			},
+			{
+				"label": "Peso",
+				"value": "1,66kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,5 x 34 x 25,5cm"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "maleta plástica para transporte"
+			},
+			{
+				"label": "Segurança",
+				"value": "válvula de segurança; dispositivo corta chama"
+			}
+		]
+	}
+]

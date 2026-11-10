@@ -1,0 +1,366 @@
+[
+	{
+		"id": "beltempo-diamante-bt-2317-retangular",
+		"name": "Beltempo Diamante BT-2317 (retangular)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento brilhante em mármore sintético branco",
+			"Furo para torneira, com válvula de 3,5cm",
+			"Tipo apoio ou sobrepor, conforme a bancada",
+			"Formato retangular de 37cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "apoio ou sobrepor"
+			},
+			{
+				"label": "Material",
+				"value": "mármore sintético"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Acabamento",
+				"value": "brilhante"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "13,50 x 37,00 x 13,50cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "3,5cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "7,65kg"
+			}
+		]
+	},
+	{
+		"id": "beltempo-cuba-onix-quadrada",
+		"name": "Beltempo Cuba Ônix (quadrada)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento brilhante com Hard Lacca PU e Gel Coat",
+			"Furo para torneira e válvula de 3,5cm",
+			"Apoio sobre a bancada com formato quadrado",
+			"Peso de 5,55kg em mármore sintético"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "apoio"
+			},
+			{
+				"label": "Material",
+				"value": "mármore sintético"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrada"
+			},
+			{
+				"label": "Acabamento",
+				"value": "brilhante (Hard Lacca Pu + Gel Coat)"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "26,5 x 40,5 x 37,2cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "3,5cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "5,55kg"
+			}
+		]
+	},
+	{
+		"id": "beltempo-r29-cristal-redonda",
+		"name": "Beltempo R29 Cristal (redonda)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vidro com acabamento texturizado",
+			"Cores branca, preta e transparente",
+			"Leve, com 1,5kg e válvula de 3,5cm",
+			"Formato redondo para apoio sobre a bancada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "apoio"
+			},
+			{
+				"label": "Material",
+				"value": "vidro"
+			},
+			{
+				"label": "Formato",
+				"value": "redonda"
+			},
+			{
+				"label": "Acabamento",
+				"value": "texturizado"
+			},
+			{
+				"label": "Cor",
+				"value": "branca, preto e transparente"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "11,5 x 29 x 10cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "3,5cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "não"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			}
+		]
+	},
+	{
+		"id": "cozimax-luna-retangular",
+		"name": "Cozimax Luna (retangular)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cerâmica lisa e branca de formato retangular",
+			"Válvula de 3,5cm para o escoamento",
+			"Peso de 3,675kg, mais leve que as de mármore",
+			"Apoio com 39cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "apoio"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Acabamento",
+				"value": "liso"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "9 x 39 x 29cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "3,5cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "não"
+			},
+			{
+				"label": "Peso",
+				"value": "3,675kg"
+			}
+		]
+	},
+	{
+		"id": "docelar-torino-retangular",
+		"name": "DoceLar Torino (retangular)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de sobrepor com acabamento brilhante",
+			"Mármore sintético branco de 3,8kg",
+			"Formato retangular de 39cm de largura",
+			"Sem furo para torneira, conforme a ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "sobrepor"
+			},
+			{
+				"label": "Material",
+				"value": "mármore sintético"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Acabamento",
+				"value": "brilhante"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "10 x 39 x 27cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "7/8″"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "não"
+			},
+			{
+				"label": "Peso",
+				"value": "3,8kg"
+			}
+		]
+	},
+	{
+		"id": "reno-rc8002-oval",
+		"name": "Reno RC8002 (oval)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior válvula da lista, com 4cm",
+			"Acabamento semibrilho em cerâmica branca",
+			"Formato oval de 40 x 34cm",
+			"Peso de 12kg, o mais pesado da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "apoio"
+			},
+			{
+				"label": "Material",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Formato",
+				"value": "oval"
+			},
+			{
+				"label": "Acabamento",
+				"value": "semibrilho"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "15 x 40 x 34cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "não"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			}
+		]
+	},
+	{
+		"id": "beltempo-rubelita-bt-3100-quadrada",
+		"name": "Beltempo Rubelita BT-3100 (quadrada)",
+		"image": "/images/posts/melhor-cuba-para-banheiro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tipo semi encaixe com formato quadrado",
+			"Furo para torneira e válvula de 3,5cm",
+			"Acabamento brilhante em mármore sintético branco",
+			"Peso de 5,4kg e 35cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "semi encaixe"
+			},
+			{
+				"label": "Material",
+				"value": "mármore sintético"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrado"
+			},
+			{
+				"label": "Acabamento",
+				"value": "brilhante"
+			},
+			{
+				"label": "Cor",
+				"value": "branca"
+			},
+			{
+				"label": "Dimensões externas (A x L x P)",
+				"value": "11,5 x 35 x 35cm"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "3,5cm"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "5,4kg"
+			}
+		]
+	}
+]

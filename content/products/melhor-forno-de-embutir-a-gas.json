@@ -1,0 +1,422 @@
+[
+	{
+		"id": "brastemp-boh84ar-78-litros",
+		"name": "Brastemp BOH84AR (78 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"78 litros de capacidade e 1250W de potência",
+			"Termômetro Meat Control e controle de temperatura interna",
+			"Vidro duplo temperado na porta",
+			"Convecção e função grill com timer digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "78 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "160ºC a 280ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "Grill; controle de temperatura interna; timer com auto desligamento; termômetro Meat Control; convecção"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras; grelha ajustável; pegador de grelha"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 57 x 58cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-boa84ae-78-litros",
+		"name": "Brastemp BOA84AE (78 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"78 litros e potência de 1300W",
+			"Acendimento automático e tecnologia Cleartec",
+			"Grill e timer digital",
+			"Acompanha grelha ajustável e pegador de grelha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "78 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "160°C a 280°C"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "Grill; timer digital; acendimento automático; tecnologia Cleartec;"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras; grelha ajustável; pegador de grelha"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 60 x 58cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "continental-oc4gm-50-litros",
+		"name": "Continental OC4GM (50 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vidro interno removível para limpeza",
+			"Timer sonoro e tecnologia TOPLimpaFácil",
+			"Potência de 1400W em 50 litros",
+			"Temperatura de 180°C a 280°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "180°C a 280°C"
+			},
+			{
+				"label": "Timer",
+				"value": "mecânico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo e vidro interno removível"
+			},
+			{
+				"label": "Funções",
+				"value": "timer sonoro; tecnologia TOPLimpaFácil"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 prateleira regulável"
+			},
+			{
+				"label": "Peso",
+				"value": "18,8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,6 x 59,6 x 57,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "venax-cristallo-giii-50-litros",
+		"name": "Venax Cristallo GIII (50 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta de vidro duplo panorâmico espelhado e removível",
+			"Função de assar com gás e grill elétrica com timer",
+			"Duas prateleiras deslizantes",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "180°C a 290°C"
+			},
+			{
+				"label": "Timer",
+				"value": "sim"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo panorâmico espelhado removível"
+			},
+			{
+				"label": "Funções",
+				"value": "assar com gás; função grill elétrica com timer"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "duas prateleiras deslizantes"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 51,7 x 61,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-oe8gh-80-litros",
+		"name": "Electrolux OE8GH (80 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"80 litros, a maior capacidade da lista",
+			"Ventilador interno e função gratinar e dourar",
+			"1800W de potência, a maior da lista",
+			"Duas prateleiras removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "80 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "180°C a 280°C"
+			},
+			{
+				"label": "Timer",
+				"value": "digital"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "assar com gás; ventilador interno; grill elétrico; função gratinar e dourar"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras removíveis"
+			},
+			{
+				"label": "Peso",
+				"value": "24,8kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59,6 x 59,6 x 61,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-31000-79710-50-litros",
+		"name": "Fischer 31000-79710 (50 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funções de assar, dourar, tostar, gratinar e aquecer",
+			"Proteção móvel do queimador",
+			"Grade cromada ajustável",
+			"Timer e funcionamento em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1027W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "160°C a 260°C"
+			},
+			{
+				"label": "Timer",
+				"value": "sim"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "assar; dourar; tostar; gratinar; aquecer"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 grade cromada ajustável; 1 proteção móvel do queimador"
+			},
+			{
+				"label": "Peso",
+				"value": "19,65kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 59,5 x 60,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-boa84ar-78-litros",
+		"name": "Brastemp BOA84AR (78 litros)",
+		"image": "/images/posts/melhor-forno-de-embutir-a-gas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer digital touchscreen",
+			"Vidro duplo com acabamento espelhado",
+			"Função assar com gás e grill",
+			"Duas prateleiras ajustáveis e 78 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "78 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "160°C a 280°C"
+			},
+			{
+				"label": "Timer",
+				"value": "digital touchscreen"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo com acabamento espelhado"
+			},
+			{
+				"label": "Funções",
+				"value": "assar com gás; função grill; timer sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 prateleiras ajustáveis"
+			},
+			{
+				"label": "Peso",
+				"value": "27kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 59,5 x 58,4cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	}
+]

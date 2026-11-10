@@ -1,0 +1,260 @@
+[
+	{
+		"id": "philips-colgate-sonicpro-50",
+		"name": "Philips Colgate SonicPro 50",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Limpeza sônica com três modos, incluindo cuidado com a gengiva e branco",
+			"Autonomia de até 14 dias com bateria íon de lítio",
+			"Sensor de pressão com tecnologia BrushSync",
+			"Voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "3 (limpeza, cuidado com a gengiva e branco)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria íon de lítio"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão, tecnologia BrushSync"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "oral-b-series-io2",
+		"name": "Oral-B Series iO2",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com três modos, do ultra delicado à limpeza diária",
+			"Sensor de pressão para controlar a força da escovação",
+			"Alimentação por bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "3 (ultra delicado, delicado e limpeza diária)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "oral-b-pro-clean",
+		"name": "Oral-B PRO Clean",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Movimento 2D, combinando oscilação e rotação",
+			"Modo automático para simplificar a escovação",
+			"Alimentação por 2 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "movimento 2D (oscilatória e giratória)"
+			},
+			{
+				"label": "Modos",
+				"value": "automático"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "oral-b-pro-series-1",
+		"name": "Oral-B PRO Series 1",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com modo único de escovação",
+			"Alimentação por 2 pilhas AA",
+			"Funciona com pilhas, sem depender de recarga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-10",
+		"name": "Philips Colgate SonicPro 10",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com modo único de escovação",
+			"Bateria íon de lítio, sem troca de pilhas",
+			"Voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria íon de lítio"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kess-soni-k-100",
+		"name": "KESS Soni-K 100",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica",
+			"Três modos: limpeza, suave e polimento",
+			"Alimentação por 2 pilhas AAA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "3 (limpeza, suave e polimento)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AAA"
+			},
+			{
+				"label": "Tempo de carga",
+				"value": "—"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonic-pro-35",
+		"name": "Philips Colgate Sonic Pro 35",
+		"image": "/images/posts/melhor-escova-de-dente-eletrica-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com dois modos: limpeza e sensibilidade",
+			"Alimentação por cabo USB",
+			"Autonomia de 14 dias e sensor de pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2 (limpeza e sensibilidade)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "cabo USB"
+			},
+			{
+				"label": "Autonomia",
+				"value": "14 dias"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

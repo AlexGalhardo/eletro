@@ -1,0 +1,330 @@
+[
+	{
+		"id": "docol-90021127016",
+		"name": "Docol 90021127016",
+		"image": "/images/posts/melhor-cuba-gourmet-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 304 com resistência à corrosão",
+			"Dois compartimentos para separar lavagem e preparo",
+			"Bojo de 20 cm de profundidade",
+			"Formato retangular com 60 cm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304 (AISI 304)"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "2"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "não"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4,5″"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "20cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 60 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,86kg"
+			}
+		]
+	},
+	{
+		"id": "brinovar-cb003pra",
+		"name": "Brinovar CB003PRA",
+		"image": "/images/posts/melhor-cuba-gourmet-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois compartimentos para separar lavagem e preparo",
+			"Furo para torneira já preparado",
+			"Largura de 78 cm, a maior da linha",
+			"Aço inox 201 com bojo de 20 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 201"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "2"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4 1/2”"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "20cm (principal) / 20cm (secundário)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 78 x 43cm"
+			}
+		]
+	},
+	{
+		"id": "stillus-home-cub-003",
+		"name": "Stillus Home Cub-003",
+		"image": "/images/posts/melhor-cuba-gourmet-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cuba de um compartimento em formato retangular",
+			"Furo para torneira para instalação direta",
+			"Aço inox 201 com bojo de 20 cm",
+			"Medidas de 20 x 50 x 40 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 201"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "1"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4 1/2″"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "20cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 x 50 x 40cm"
+			}
+		]
+	},
+	{
+		"id": "stillus-home-cub-006",
+		"name": "Stillus Home Cub-006",
+		"image": "/images/posts/melhor-cuba-gourmet-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 304 com formato quadrado",
+			"Furo para torneira já preparado",
+			"Um compartimento para uso simples",
+			"Válvula de 4 1/2 polegadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "1"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrado"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4 1/2″"
+			}
+		]
+	},
+	{
+		"id": "brinovar-cbcas007pra",
+		"name": "Brinovar CBCAS007PRA",
+		"image": "/images/posts/melhor-cuba-gourmet-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 304 com bojo de 22 cm externos",
+			"Furo para torneira e válvula de 4 1/2 polegadas",
+			"Largura de 75 cm com um compartimento",
+			"Profundidade de 45 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "1"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4 1/2”"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "22cm (externa) / 21,5cm (interna)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 75 x 45cm"
+			}
+		]
+	},
+	{
+		"id": "alphanox-cg6042304",
+		"name": "Alphanox CG6042304",
+		"image": "/images/posts/melhor-cuba-gourmet-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 304 com bojo de 21 cm",
+			"Furo para torneira já preparado",
+			"Medidas de 21 x 60 x 42 cm",
+			"Válvula de 4 1/2 polegadas para escoamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "1"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Diâmetro da válvula",
+				"value": "4 1/2″"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "21cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 60 x 42cm"
+			}
+		]
+	},
+	{
+		"id": "soft-inox-cubasq1cr",
+		"name": "Soft Inox CUBASQ1CR",
+		"image": "/images/posts/melhor-cuba-gourmet-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aço inox 304 em formato quadrado",
+			"Furo para torneira para instalação direta",
+			"Bojo de 20,5 cm de profundidade",
+			"Medidas de 20,5 x 60 x 45 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Local de instalação",
+				"value": "cozinha / área gourmet"
+			},
+			{
+				"label": "Material",
+				"value": "aço inoxidável 304"
+			},
+			{
+				"label": "Nº de compartimentos",
+				"value": "1"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrado"
+			},
+			{
+				"label": "Furo para torneira",
+				"value": "sim"
+			},
+			{
+				"label": "Profundidade do bojo",
+				"value": "20,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 60 x 45cm"
+			}
+		]
+	}
+]

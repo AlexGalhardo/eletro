@@ -1,0 +1,357 @@
+[
+	{
+		"id": "ulike-me-mi01-cb",
+		"name": "Ulike ME ‎MI01 CB",
+		"image": "/images/posts/melhor-depilador-a-laser-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 999.999 flashes e até 3 disparos por segundo",
+			"Resfriamento com a tecnologia Sapphire Ice Cooling",
+			"Modos automático e manual com 4 níveis ajustáveis",
+			"Indicado para rosto, axilas, pernas, braços e biquíni"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "4 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "999.999"
+			},
+			{
+				"label": "Velocidade do flash",
+				"value": "até 3 disparos por segundo"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "rosto, axilas, pernas, braços e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos escuros"
+			},
+			{
+				"label": "Sistema de resfriamento",
+				"value": "tecnologia Sapphire Ice Cooling"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mlay-t14",
+		"name": "Mlay T14",
+		"image": "/images/posts/melhor-depilador-a-laser-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 1.500.000 flashes em três cartuchos",
+			"Resfriamento duplo, com gelo e separação IPL",
+			"Cinco níveis ajustáveis e abertura de flash de 3,9cm²",
+			"Indicado para peles claras a escuras, com pelos dourados a escuros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "5 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "até 1.500.000 (3 cartuchos de até 500.000 flashes cada)"
+			},
+			{
+				"label": "Área de abertura do flash",
+				"value": "3,9cm²"
+			},
+			{
+				"label": "Velocidade do flash",
+				"value": "0,5 a 1,0 s/flash"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "pernas, braços, axilas e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a escuras e pelos dourados a escuros"
+			},
+			{
+				"label": "Sistema de resfriamento",
+				"value": "duplo, com gelo e separação IPL"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mlay-t18",
+		"name": "Mlay T18",
+		"image": "/images/posts/melhor-depilador-a-laser-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Flashes ilimitados e resfriamento duplo com gelo",
+			"Abertura de flash de 3,5cm² e modos automático e manual",
+			"Indicado para costas, buço, braços, pernas, axilas e biquíni"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "ilimitado"
+			},
+			{
+				"label": "Área de abertura do flash",
+				"value": "3,5cm²"
+			},
+			{
+				"label": "Velocidade do flash",
+				"value": "1,0 a 1,8 s/flash"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "braços, pernas, costas, buço, axilas e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos dourados a escuros"
+			},
+			{
+				"label": "Sistema de resfriamento",
+				"value": "duplo, com gelo e separação IPL"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "lescolton-t-009i",
+		"name": "Lescolton T-009i",
+		"image": "/images/posts/melhor-depilador-a-laser-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco níveis ajustáveis e 300.000 flashes",
+			"Abertura de flash de 4cm² para rosto e corpo",
+			"Modos automático contínuo e intermitente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "5 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "300.000"
+			},
+			{
+				"label": "Área de abertura do flash",
+				"value": "4cm²"
+			},
+			{
+				"label": "Velocidade do flash",
+				"value": "2s/flash"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático contínuo e intermitente"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "rosto e corpo"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos escuros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mlay-t11",
+		"name": "Mlay T11",
+		"image": "/images/posts/melhor-depilador-a-laser-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Flashes ilimitados com três níveis ajustáveis",
+			"Abertura de flash de 3,5cm² para rosto, peito e costas",
+			"Modos automático e manual para peles claras a médias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "ilimitada"
+			},
+			{
+				"label": "Área de abertura do flash",
+				"value": "3,5cm²"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "rosto, axilas, pernas, braços, costas, peito e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos dourados a escuro"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ahnsock-ipl-02",
+		"name": "Ahnsock IPL-02",
+		"image": "/images/posts/melhor-depilador-a-laser-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito níveis ajustáveis e 999.999 flashes",
+			"Abertura de flash de 3cm² com 1,2 a 2,2 s por flash",
+			"Indicado para rosto, abdômen, costas e linha do biquíni"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "8 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "999.999"
+			},
+			{
+				"label": "Área de abertura do flash",
+				"value": "3cm²"
+			},
+			{
+				"label": "Velocidade do flash",
+				"value": "1,2 a 2,2 s/flash"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "braços, pernas, costas, abdômen, axilas, rosto e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos escuros"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "innza-jd-tm016",
+		"name": "Innza ‎JD-TM016",
+		"image": "/images/posts/melhor-depilador-a-laser-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nove níveis ajustáveis, o maior número da lista",
+			"Até 999.999 flashes com modos automático e manual",
+			"Resfriamento com gelo e indicação para peles claras a médias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "IPL (luz pulsada intensa)"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "9 níveis ajustáveis"
+			},
+			{
+				"label": "Quantidade de flashes",
+				"value": "999.999"
+			},
+			{
+				"label": "Modos de uso",
+				"value": "automático e manual"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "costas, braços, peito, pernas, buço, axilas e linha do biquíni"
+			},
+			{
+				"label": "Compatibilidade de pele",
+				"value": "peles claras a médias e pelos escuros"
+			},
+			{
+				"label": "Sistema de resfriamento",
+				"value": "com gelo"
+			}
+		]
+	}
+]

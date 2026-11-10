@@ -1,0 +1,263 @@
+[
+	{
+		"id": "dewalt-dwht10992",
+		"name": "Dewalt DWHT10992",
+		"image": "/images/posts/melhor-estilete-retratil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina larga de 31mm, a maior da lista",
+			"Corpo de alumínio com travamento automático da lâmina",
+			"Clipe de bolso para levar a ferramenta com praticidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "alumínio"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "31mm"
+			},
+			{
+				"label": "Dimensões (L x C)",
+				"value": "2,5 x 22cm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "irwin-iwht10578",
+		"name": "IRWIN IWHT10578",
+		"image": "/images/posts/melhor-estilete-retratil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de plástico com lâmina de aço inox",
+			"Travamento automático para manter a lâmina firme",
+			"Clipe de bolso e lâmina de 18mm de largura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "18mm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "vonder-35-99-150-150",
+		"name": "Vonder 35.99.150.150",
+		"image": "/images/posts/melhor-estilete-retratil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de alumínio com lâmina de aço inox de 19mm",
+			"Travamento automático da lâmina durante o uso",
+			"Clipe de bolso para carregar a ferramenta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "alumínio"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "19mm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "irwin-1774106",
+		"name": "IRWIN 1774106",
+		"image": "/images/posts/melhor-estilete-retratil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de alumínio com lâmina de aço inox de 18mm",
+			"Dimensões de 3,7 x 17cm para manuseio compacto",
+			"Travamento automático da lâmina no corpo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "alumínio"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "18mm"
+			},
+			{
+				"label": "Dimensões (L x C)",
+				"value": "3,7 x 17cm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "stanley-stht10424",
+		"name": "Stanley STHT10424",
+		"image": "/images/posts/melhor-estilete-retratil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de alumínio com lâmina de 18mm",
+			"Formato compacto de 3,62 x 7cm",
+			"Travamento automático e clipe de bolso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "alumínio"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "18mm"
+			},
+			{
+				"label": "Dimensões (L x C)",
+				"value": "3,62 x 7cm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "gross-7888255",
+		"name": "Gross 7888255",
+		"image": "/images/posts/melhor-estilete-retratil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina de aço japonês SK-2 com 18mm de largura",
+			"Corpo de plástico com dimensões de 14 x 22cm",
+			"Travamento automático para manter a lâmina firme"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço japonês SK-2"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "18mm"
+			},
+			{
+				"label": "Dimensões (L x C)",
+				"value": "14 x 22cm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "não"
+			}
+		]
+	},
+	{
+		"id": "stanley-stht10479",
+		"name": "Stanley STHT10479",
+		"image": "/images/posts/melhor-estilete-retratil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo de metal com lâmina de aço inox de 18mm",
+			"Formato compacto de 3 x 8,6cm",
+			"Travamento automático da lâmina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "metal"
+			},
+			{
+				"label": "Lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Largura da lâmina",
+				"value": "18mm"
+			},
+			{
+				"label": "Dimensões (L x C)",
+				"value": "3 x 8,6cm"
+			},
+			{
+				"label": "Sistema de travamento",
+				"value": "automático"
+			},
+			{
+				"label": "Clipe de bolso",
+				"value": "não"
+			}
+		]
+	}
+]

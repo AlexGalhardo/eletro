@@ -1,0 +1,368 @@
+[
+	{
+		"id": "suggar-fg4002vc-inducao",
+		"name": "Suggar FG4002VC (indução)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch screen com display digital",
+			"9 níveis de potência e função Turbo",
+			"Zona FlexZone e timer de até 99 minutos",
+			"Sensor de panela e indicador de superfície quente",
+			"Proteção contra superaquecimento e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x zonas de 190 × 190mm (1800W; 2100W no Turbo); 1x zona de Ø210mm (2000W; 2500W no Turbo); 1x zona de Ø160mm (1500W; 1800W no Turbo)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch screen; display digital; 9 níveis de potência; FlexZone; função Turbo; timer de até 99 minutos; trava de segurança; indicador de superfície quente; sensor de panela; proteção contra superaquecimento; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,6 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg0422vc-inducao",
+		"name": "Suggar FG0422VC (indução)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel touch screen com display digital",
+			"9 níveis de potência e função Turbo",
+			"Quatro zonas, duas de Ø180 mm e duas de Ø160 mm",
+			"Timer de até 99 minutos e trava de segurança",
+			"Altura de 4 cm, a menor desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "indução"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x zonas de Ø180mm (1500W); 2x zonas de Ø160mm (1200W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "—"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "painel touch screen; display digital; 9 níveis de potência; função Turbo; timer de até 99 minutos; trava de segurança; indicador de superfície quente; sensor de panela; proteção contra superaquecimento; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg4004avp-a-gas",
+		"name": "Suggar FG4004AVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Queimador rápido de 2800W e 3 semirrápidos de 1650W",
+			"Acendimento superautomático",
+			"Botões multicontrol removíveis",
+			"Trempes de aço esmaltado e vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x rápido (2800W); 3x semirrápidos (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,66kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg4134ix-a-gas",
+		"name": "Suggar FG4134IX (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3200W e queimador auxiliar de 1000W",
+			"Superfície de aço inox",
+			"Trempes antideslizantes",
+			"Acendimento superautomático e botões multicontrol removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama (3200W); 1x rápido (2500W); 1x semirrápido (1750W); 1x auxiliar (1000W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis; trempes antideslizantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 × 59 × 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,96kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg4404fvp-a-gas",
+		"name": "Suggar FG4404FVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3500W e 3 semirrápidos de 1650W",
+			"Trempes de ferro fundido",
+			"Vidro temperado e acendimento superautomático",
+			"Botões multicontrol removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama (3500W); 3x semirrápidos (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg4304avp-a-gas",
+		"name": "Suggar FG4304AVP (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3500W e 3 semirrápidos de 1650W",
+			"Vidro temperado com trempes de aço esmaltado",
+			"Acendimento superautomático",
+			"Botões multicontrol removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama (3500W); 3x semirrápidos (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,24kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg4404fvpix-a-gas",
+		"name": "Suggar FG4404FVPIX (a gás)",
+		"image": "/images/posts/melhor-cooktop-suggar-4-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla chama de 3500W e 3 semirrápidos de 1650W",
+			"Vidro temperado com frame em aço inox",
+			"Trempes de ferro fundido",
+			"Acendimento superautomático e botões multicontrol removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "a gás"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1x tripla chama (3500W); 3x semirrápidos (1650W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado com frame em aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; botões multicontrol removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,02kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

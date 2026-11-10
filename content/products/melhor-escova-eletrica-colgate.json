@@ -1,0 +1,256 @@
+[
+	{
+		"id": "philips-colgate-sonicpro-70",
+		"name": "Philips Colgate SonicPro 70",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro modos de limpeza, incluindo limpeza profunda",
+			"Sensor de pressão para proteger a gengiva",
+			"Autonomia de até 14 dias com bateria recarregável",
+			"Bivolt para usar em qualquer tomada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "4 (limpeza, branqueamento, gengiva saudável e limpeza profunda)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-50",
+		"name": "Philips Colgate SonicPro 50",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três modos: limpeza, gengiva e branco",
+			"Sensor de pressão com tecnologia BrushSync",
+			"Autonomia de até 14 dias por carga",
+			"Bivolt com bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "3 (limpeza, cuidado com a gengiva e branco)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão, tecnologia BrushSync"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-10",
+		"name": "Philips Colgate SonicPro 10",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica com bateria recarregável",
+			"Um modo simples para o uso diário",
+			"Autonomia de até 14 dias por carga",
+			"Bivolt para qualquer tomada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-35",
+		"name": "Philips Colgate SonicPro 35",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois modos: limpeza e sensibilidade",
+			"Sensor de pressão para controlar a força",
+			"Autonomia de até 14 dias por carga",
+			"Bivolt com bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2 (limpeza e sensibilidade)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Sensor",
+				"value": "pressão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-20",
+		"name": "Philips Colgate SonicPro 20",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 20 dias por carga",
+			"Tecnologia sônica com um modo de escovação",
+			"Compatível com bivolt e bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "1"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 20 dias"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-10-kids",
+		"name": "Philips Colgate Sonicpro 10 Kids",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica para a escovação infantil",
+			"Dois modos de baixa e alta intensidade",
+			"Autonomia de até 14 dias por carga",
+			"Bivolt com bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2 (baixa e alta intensidade)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia",
+				"value": "até 14 dias"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-colgate-sonicpro-kids",
+		"name": "Philips Colgate SonicPro Kids",
+		"image": "/images/posts/melhor-escova-eletrica-colgate-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia sônica para a escovação infantil",
+			"Dois modos de baixa e alta intensidade",
+			"Alimentação por bateria recarregável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tecnologia",
+				"value": "sônica"
+			},
+			{
+				"label": "Modos",
+				"value": "2 (baixa e alta intensidade)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria recarregável"
+			}
+		]
+	}
+]

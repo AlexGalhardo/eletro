@@ -1,0 +1,346 @@
+[
+	{
+		"id": "venancio-extra-e6d3f-forno-6-bocas",
+		"name": "Venâncio Extra E6D3F + Forno (6 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis queimadores e forno de 68,85 litros",
+			"Acendimento manual",
+			"Estrutura em aço carbono",
+			"Dimensões de 80 x 108 x 82cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "6"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "68,85 litros"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 108 x 82cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "dako-couracado-forno-4-bocas",
+		"name": "Dako Couraçado + Forno (4 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 107 litros, a maior capacidade da lista",
+			"Duas chamas duplas de 6,2kW",
+			"Duas chamas simples de 5,2kW",
+			"Estrutura de aço carbono"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "107 litros"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Dupla Chama de 6,2kW; 2Q Chama Simples de 5,2kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79,3 x 84 x 85cm"
+			},
+			{
+				"label": "Peso",
+				"value": "49,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "dako-couracado-2-bocas",
+		"name": "Dako Couraçado (2 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Instalação em piso ou bancada",
+			"Duas chamas duplas de 6,2kW",
+			"Profundidade de 43,5cm, a menor entre os modelos",
+			"Peso de 19,3kg, o mais leve entre os informados"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso ou bancada"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Dupla Chama de 6,2kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79,3 x 84 x 43,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "dako-couracado-4-bocas",
+		"name": "Dako Couraçado (4 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas chamas duplas de 6,2kW",
+			"Duas mega chamas de 5,2kW",
+			"Acendimento manual e estrutura de aço carbono",
+			"Dimensões de 79,3 x 84 x 83,8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2Q Dupla Chama de 6,2kW; 2Q Mega Chama de 5,2kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79,3 x 84 x 83,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "32,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "venancio-br4b-4-bocas",
+		"name": "Venancio BR4B (4 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro queimadores em instalação de piso",
+			"Acendimento manual",
+			"Dimensões de 78 x 80 x 80cm",
+			"Peso de 20kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78 x 80 x 80cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "venancio-bravo-br2b-2-bocas",
+		"name": "Venancio Bravo BR2B (2 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chama tripla de 4,75kW",
+			"Chama dupla de 4,25kW",
+			"Instalação de piso",
+			"Acendimento manual"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "2"
+			},
+			{
+				"label": "Capacidade do forno",
+				"value": "—"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "1Q Chama Tripla de 4,75kW; 1Q Chama Dupla de 4,25kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "75 x 83,5 x 46cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "venancio-br6bfpr-forno-6-bocas",
+		"name": "Venâncio BR6BFPR + Forno (6 bocas)",
+		"image": "/images/posts/melhor-fogao-industrial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três chamas triplas de 4,2kW",
+			"Três chamas duplas de 3,5kW",
+			"Seis queimadores em instalação de piso",
+			"Estrutura de aço carbono"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de instalação",
+				"value": "piso"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "6"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "3Q Chama Tripla de 4,2kW; 3Q Chama Dupla de 3,5kW"
+			},
+			{
+				"label": "Acendimento",
+				"value": "manual"
+			},
+			{
+				"label": "Material da estrutura",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "78 x 125 x 84,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	}
+]

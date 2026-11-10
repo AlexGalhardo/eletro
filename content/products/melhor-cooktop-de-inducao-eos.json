@@ -1,0 +1,333 @@
+[
+	{
+		"id": "eos-epci04ec-7000w-4-bocas",
+		"name": "EOS EPCI04EC 7000W 4 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coifa integrada com vazão de 650m³/h",
+			"Função Boost e 9 níveis de potência",
+			"Bloqueio para crianças e aviso de calor residual",
+			"Extração externa ou recirculação interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch screen"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "coifa integrada com vazão de 650m³/h; tecnologia Plasma+; Flexzone; painel touch screen; display digital; 9 níveis de potência; função Boost; função Pausa; timer de até 99 minutos como contador ou para desligamento de uma ou mais zonas; bloqueio para crianças; aviso de calor residual; desligamento automático; limitação de potência; coifa com modo Boost, desligamento retardado e acionamento automático com o cooktop; extração externa ou recirculação interna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24 x 83 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "20kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci05epf1-9500w-5-bocas",
+		"name": "EOS ECI05EPF1 9500W 5 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco bocas com potência de 9500W",
+			"Vidro Full Glass com 10 níveis no painel touch",
+			"Função Turbo e trava Safety Lock",
+			"Desligamento automático e timer de até 99 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "9500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "5"
+			},
+			{
+				"label": "Material",
+				"value": "vidro Full Glass"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch screen (10 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo; timer de até 99 minutos; Safety Lock; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 90 x 5,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04epf-7000w-4-bocas",
+		"name": "EOS ECI04EPF 7000W 4 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro bocas de 7000W e peso de 8,5kg",
+			"Timer programável de até 99 minutos",
+			"Trava de segurança no painel touch"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch screen"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer programável de até 99 minutos; trava de segurança"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci04ep-7500w-4-bocas",
+		"name": "EOS ECI04EP 7500W 4 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7500W em quatro bocas",
+			"Painel digital touch com 9 níveis",
+			"Função Turbo e desligamento automático",
+			"Vidro cerâmico e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "7500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "4"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital touch (9 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo; timer programável de até 99 minutos; trava de segurança; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,6kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci02ep-3500w-2-bocas",
+		"name": "EOS ECI02EP 3500W 2 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas de 3500W com vidro cerâmico",
+			"Proteção contra superaquecimento",
+			"Sensor de panela e indicador de calor residual",
+			"Trava Safety Lock e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital touch (9 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo; timer programável de até 99 minutos; desligamento automático; proteção contra superaquecimento; indicador de calor residual; trava de segurança (Safety Lock); sensor de panela"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,7 x 28,8 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci01pp-2000w-1-boca",
+		"name": "EOS ECI01PP 2000W 1 boca",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uma boca de 2000W, a opção mais compacta",
+			"Timer de até 180 minutos",
+			"Desligamento após 2 horas sem uso",
+			"Sensor de panela e vidro Full Glass"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado (Full Glass)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch screen (10 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "timer de até 180 minutos; desligamento automático após 2 horas sem uso; trava de segurança; sensor de panela"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4 x 29 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci05epf-9500w-5-bocas",
+		"name": "EOS ECI05EPF 9500W 5 bocas",
+		"image": "/images/posts/melhor-cooktop-de-inducao-eos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Freezone Due em cinco bocas de 9500W",
+			"Função Turbo e timer de até 99 minutos",
+			"Trava de segurança e vidro Full Glass",
+			"Peso de 11kg e painel digital touch com 10 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "9500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "5"
+			},
+			{
+				"label": "Material",
+				"value": "vidro temperado (Full Glass)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel digital touch (10 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Freezone Due; função Turbo; timer de até 99 minutos; trava de segurança"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6,2 x 90 x 5,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

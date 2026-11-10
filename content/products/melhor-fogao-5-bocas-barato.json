@@ -1,0 +1,364 @@
+[
+	{
+		"id": "suggar-fgisl510prix",
+		"name": "Suggar FGISL510PRIX",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros com porta de vidro duplo",
+			"Queimador tripla chama e acendimento automático",
+			"Controle de temperatura do forno de 180°C a 280°C",
+			"Duas grades, uma fixa e uma deslizante com 3 níveis",
+			"Trempes de ferro fundido e dobradiças italianas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; queimador tripla chama; forno com válvula de segurança; porta espelhada com vidro duplo; dobradiças italianas; controle de temperatura do forno de 180°C a 280°C; 1 grade fixa e 1 grade deslizante com 3 níveis de ajuste; puxador em alumínio escovado; pés elevados; luz no forno (lâmpada não acompanha o produto)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "91,3 x 75,0 x 63,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-monaco-top-glass",
+		"name": "Atlas Mônaco Top Glass",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mega chama de 3,0kW e 2 queimadores família de 2,0kW",
+			"Trempes de aço esmaltado com 6 pontos de apoio",
+			"Forno de 86,5 litros com acabamento Limpa Fácil",
+			"Grade deslizante com 2 regulagens de altura",
+			"Eficiência energética classe A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "86,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x ramal de 1,7kW; 2x família de 2,0kW; 1x mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado com 6 pontos de apoio"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; botões removíveis; puxador em aço esmaltado; pés altos; forno com acabamento limpa fácil; porta com vidro duplo; grade deslizante com 2 regulagens de altura; sistema corta/bloqueia gás; eficiência energética classe A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "87,9 x 75,0 x 59,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "33kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-atenas-glass",
+		"name": "Atlas Atenas Glass",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 86,5 litros com porta de vidro duplo",
+			"Mega chama de 3,0kW e rápidos de 2,0kW",
+			"Compatível com gás GN e GLP",
+			"Trempes duplas de aço esmaltado e pés altos e robustos",
+			"Eficiência energética A e botões removíveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "86,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x semirrápidos de 1,67kW; 2x rápidos de 2,0kW; 1x mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "dupla de aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; puxador em alumínio escovado; pés altos e robustos; forno com acabamento limpa fácil; porta com vidro duplo; 1 grade deslizante; botões removíveis; sistema corta/bloqueia gás; eficiência energética: A; compatível com gás GN e GLP"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "89,63 x 75,3 x 58,17cm"
+			},
+			{
+				"label": "Peso",
+				"value": "24kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-monaco-plus",
+		"name": "Atlas Mônaco Plus",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 86,5 litros com acabamento Limpa Fácil",
+			"Acendimento automático e botões removíveis",
+			"Mega chama de 3,0kW e 2 queimadores família de 2,0kW",
+			"Conversão de gás gratuita em até 90 dias"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "86,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x ramal de 1,7kW; 2x família de 2,0kW; 1x mega chama de 3,0kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "inox escovado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; forno com acabamento limpa fácil; porta com vidro duplo; 1 grade deslizante; botões removíveis; sistema corta/bloqueia gás; eficiência energética: A; conversão de gás gratuita em até 90 dias após o recebimento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "88,6 x 75,0 x 58,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "24kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "continental-fc5ib",
+		"name": "Continental FC5IB",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 88,6 litros com Forno Eco Turbo",
+			"2 queimadores de 2,7kW e 3 de 1,7kW",
+			"Mesa compartimentada e vidro interno removível",
+			"Tecnologia TOPLimpaFácil e classificação energética A",
+			"Puxador ergonômico de alumínio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "88,6 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x queimadores de 2,7kW; 3x queimadores de 1,7kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço revestido"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; luz interna no forno; sistema bloqueia gás; vidro interno removível; Forno Eco Turbo; puxador ergonômico de alumínio; mesa compartimentada; tecnologia TOPLimpaFácil; classificação energética: A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 76 x 60,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "32,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "atlas-agile-up",
+		"name": "Atlas Agile Up",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 86,5 litros com 2 prateleiras deslizantes",
+			"Tripla chama de 3,3kW, a maior desta lista",
+			"Trempes de ferro fundido e superfície de vidro temperado",
+			"Visor amplo no forno e luz interna inclusa",
+			"Peso de 22 kg, o menor desta lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "86,5 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "2x semirrápidos de 1,67kW; 2x rápidos de 2,0kW; 1x tripla chama de 3,3kW"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "ferro fundido"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático; duas prateleiras deslizantes no forno; puxador em alumínio escovado; visor amplo no forno; tecnologia Limpa Fácil; luz interna (incluso na embalagem); sistema corta/bloqueia gás; eficiência energética A"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92,87 x 75,66 x 59,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "22kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "suggar-neo-glass",
+		"name": "Suggar Neo Glass",
+		"image": "/images/posts/melhor-fogao-5-bocas-barato-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Forno de 90 litros com proteção térmica de vidro duplo",
+			"Acendimento automático total",
+			"Válvula de segurança no forno",
+			"Grade fixa com 3 níveis e pés elevados",
+			"Trempes de aço esmaltado e superfície de vidro temperado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade do forno",
+				"value": "90 litros"
+			},
+			{
+				"label": "Número de queimadores",
+				"value": "5"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Funções extras",
+				"value": "acendimento automático total; forno com proteção térmica de vidro duplo; puxador em aço pintado; pés elevados; válvula de segurança no forno; grade fixa com três níveis de ajuste"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "92 x 76,5 x 64,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "30,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

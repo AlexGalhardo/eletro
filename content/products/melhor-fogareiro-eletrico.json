@@ -1,0 +1,366 @@
+[
+	{
+		"id": "mondial-fast-cook-dual-fe-03-2000w-2-bocas",
+		"name": "Mondial Fast Cook Dual FE-03 2000W (2 bocas)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seis níveis de temperatura por boca",
+			"Termostato de segurança e luz piloto",
+			"Aço inox com consumo médio de 2kWh",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (6 níveis por boca)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "termostato de segurança; luz piloto indicadora de funcionamento; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 26 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,83kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-fmp-02-2500w-2-bocas",
+		"name": "Agratto FMP-02 2500W (2 bocas)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2500W em duas bocas",
+			"Pratos de aquecimento grande e médio",
+			"Acendimento automático",
+			"Aço carbono com 3,130kg de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis por boca)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz piloto; prato de aquecimento grande; prato de aquecimento médio; acendimento automático; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 26,5 x 48,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,130kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-double-cook-2000w-2-bocas",
+		"name": "Elgin Double Cook 2000W (2 bocas)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas de 2000W com cinco níveis cada",
+			"Termostato e luz indicadora de funcionamento",
+			"Aço inox com dimensões de 7 x 43 x 21cm",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis por boca)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "termostato; luz indicadora de funcionamento; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 43 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-cook-for-you-1000w-1-boca",
+		"name": "Elgin Cook For You 1000W (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-4.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com base antiderrapante",
+			"Termostato e luz indicadora de aquecimento",
+			"Consumo médio de 1kWh",
+			"Aço inox com peso de 1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "termostato; luz indicadora de aquecimento; base antiderrapante; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 21 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "inma-unicook-1000w-1-boca",
+		"name": "INMA UniCook 1000W (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com cinco níveis",
+			"Sistema de ventilação e pés de borracha",
+			"Luz de LED que indica o funcionamento",
+			"Funciona em 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "pés de borracha; luz de led que indica o funcionamento; sistema de ventilação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 21 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,24kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V e 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-4918-2000w-2-bocas",
+		"name": "Agratto 4918 2000W (2 bocas)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas bocas de 2000W com cinco níveis cada",
+			"Luz indicadora de funcionamento",
+			"Aço inox com 2,71kg de peso",
+			"Consumo médio de 2kWh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis por boca)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "2kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz indicadora de funcionamento; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 26,5 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,71kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "agratto-fma-01-1500w-1-boca",
+		"name": "Agratto FMA-01 1500W (1 boca)",
+		"image": "/images/posts/melhor-fogareiro-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W em uma boca",
+			"Termostato e luz de funcionamento",
+			"Cinco níveis de temperatura manual",
+			"Consumo médio de 1,5kWh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "1"
+			},
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "manual (5 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "1,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luz de funcionamento; termostato; controle de temperatura"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,5 x 23,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,05kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

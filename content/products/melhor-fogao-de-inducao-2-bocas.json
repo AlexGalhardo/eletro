@@ -1,0 +1,351 @@
+[
+	{
+		"id": "electrolux-ic30-3700w",
+		"name": "Electrolux IC30 3700W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3700W, a maior desta lista",
+			"Função Unicook e função turbo",
+			"Sistema anti derramamento e indicador de calor residual",
+			"Touch com slider de 14 níveis",
+			"Timer programável e trava de segurança no painel"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3700W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (14 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Unicook; sistema anti derramamento; indicador de calor residual; função manter aquecido; função turbo; timer programável; trava de segurança no painel"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,5 x 30 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "oster-otop202-3000w",
+		"name": "Oster OTOP202 3000W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"14 níveis de potência com controle slide touch",
+			"Função Booster e timer de até 99 minutos",
+			"Consumo médio de 3,0 kWh",
+			"Desligamento automático e trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3000W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch com slider (14 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,0kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "desligamento automático; trava de segurança; temporizador; função Booster; controle slide touch; timer de até 99 minutos; 14 níveis de potência; função 2 em 1"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 29 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-eci02ep-3500w",
+		"name": "Eos ECI02EP 3500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W com função Turbo Power",
+			"Vidro cerâmico Full Glass com 10 níveis",
+			"Trava de segurança Safety Lock",
+			"Timer de até 99 minutos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico (Full Glass)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (10 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Turbo Power; função timer de até 99 minutos; trava de segurança Safety Lock; desligamento automático; acompanha livro de receitas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,7 x 28,8 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-33580-91180-3500w",
+		"name": "Fischer 33580-91180 3500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W com função SmartHeat",
+			"Sistema CookSense e função Booster",
+			"Timer programável de até 99 minutos",
+			"Consumo médio de 3,5 kWh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmica"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função SmartHeat; sistema CookSense; trava de segurança no painel; timer programável de até 99 minutos; função Booster; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,9 x 28,8 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pct11p-3400w",
+		"name": "Philco PCT11P 3400W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3400W e função turbo",
+			"Reconhecimento de panelas com fundo magnético",
+			"Desligamento automático em caso de superaquecimento ou derramamento",
+			"Função pausa e timer de até 99 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3400W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função turbo; função pausa; função timer de até 99 minutos; trava de segurança; reconhecimento de panelas com fundo magnético; desligamento automático em caso de superaquecimento ou derramamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5,6 x 28,8 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,392kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-fg0222vc-3500w",
+		"name": "Suggar FG0222VC 3500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W e função turbo",
+			"Sensor de panela e indicador de superfície quente",
+			"Função trava painel e timer de até 99 minutos",
+			"Consumo médio de 3,5 kWh"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Consumo médio",
+				"value": "3,5kWh"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função turbo; função timer de até 99 minutos; função trava painel; indicador de superfície quente; sensor de panela"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,0 x 29 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,0kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "dako-inducao-2-bocas-3500w",
+		"name": "Dako Indução 2 Bocas 3500W",
+		"image": "/images/posts/melhor-fogao-de-inducao-2-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 3500W e detector de panela",
+			"Função Play/Pause e função Manter Aquecido",
+			"Indicador de calor residual e trava de segurança",
+			"Timer digital com controle touch de 9 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "3500W"
+			},
+			{
+				"label": "Número de bocas",
+				"value": "2"
+			},
+			{
+				"label": "Material",
+				"value": "vitrocerâmico"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "touch (9 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Timer; função Play/Pause; função Manter Aquecido; detector de panela; indicador de calor residual; trava de segurança"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 28,8 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

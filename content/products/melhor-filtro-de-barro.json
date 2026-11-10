@@ -1,0 +1,241 @@
+[
+	{
+		"id": "rs-vale-artesanal-moderno-6-litros",
+		"name": "RS VALE Artesanal Moderno (6 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 6 litros, sendo 3 + 3",
+			"Uma vela com fluxo de água de 3 L/h",
+			"Modelo artesanal moderno com 36 cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "6 litros (3+3)"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "3L/h"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "36 x 20cm"
+			}
+		]
+	},
+	{
+		"id": "sao-joao-premium-16-374-0-6-litros",
+		"name": "São João Premium ‎16.374-0 (6 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas velas para filtrar com mais elementos",
+			"Capacidade total de 6 litros, sendo 3 + 3",
+			"Fluxo de água de 3 L/h",
+			"Peso de 8,58 kg e dimensões de 47,5 x 26 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "6 litros (3+3)"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "2"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "3L/h"
+			},
+			{
+				"label": "Peso",
+				"value": "8,58kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "47,5 x 26cm"
+			}
+		]
+	},
+	{
+		"id": "santo-antonio-fst16l1-6-litros",
+		"name": "Santo Antônio FST16L1 (6 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 6 litros, sendo 3 + 3",
+			"Uma vela com fluxo de água de 3 L/h",
+			"Dimensões de 43 x 21 cm",
+			"Peso de 8 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "6 litros (3+3)"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "3L/h"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "43 x 21cm"
+			}
+		]
+	},
+	{
+		"id": "stefani-sao-joao-tradicional-4-litros",
+		"name": "Stéfani São João Tradicional (4 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 4 litros com uma vela",
+			"Peso de 7 kg e dimensões de 45 x 25 cm",
+			"Fluxo de água de 0,3 L/h, o menor da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "4 litros"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "0,3L/h"
+			},
+			{
+				"label": "Peso",
+				"value": "7kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "45 x 25cm"
+			}
+		]
+	},
+	{
+		"id": "barrozen-rustico-6-litros",
+		"name": "BarroZen Rústico (6 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade total de 6 litros, sendo 3 + 3",
+			"Estilo rústico com dimensões de 46 x 18 cm",
+			"Peso de 9,5 kg com uma vela"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "6 litros (3+3)"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1"
+			},
+			{
+				"label": "Peso",
+				"value": "9,5kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "46 x 18cm"
+			}
+		]
+	},
+	{
+		"id": "sao-joao-classic-59-400-8-8-litros",
+		"name": "São João Classic 59.400-8 (8 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fluxo de água de 4 L/h, o maior desta lista",
+			"Uma vela e dimensões de 52 x 26 cm",
+			"Peso de 11,63 kg, o maior da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "6 litros"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "4L/h"
+			},
+			{
+				"label": "Peso",
+				"value": "11,63kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "52 x 26cm"
+			}
+		]
+	},
+	{
+		"id": "ceramica-stefani-advance-4-litros",
+		"name": "Cerâmica Stéfani Advance (4 litros)",
+		"image": "/images/posts/melhor-filtro-de-barro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vela tripla ação com fluxo de água de 3 L/h",
+			"Capacidade total de 4 litros",
+			"Peso de 4 kg, o menor desta lista com peso informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade total",
+				"value": "4 litros"
+			},
+			{
+				"label": "Quantidade de velas",
+				"value": "1 vela tripla ação"
+			},
+			{
+				"label": "Fluxo de água",
+				"value": "3L/h"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Dimensões (A x D)",
+				"value": "39,5 x 23,5cm"
+			}
+		]
+	}
+]

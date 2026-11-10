@@ -1,0 +1,330 @@
+[
+	{
+		"id": "electrolux-ie60p",
+		"name": "Electrolux IE60P",
+		"image": "/images/posts/melhor-cooktop-4-bocas-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"14 níveis de potência e função powerboost",
+			"Zona unicock e sensor de calor residual",
+			"Painel touch com função timer",
+			"Garantia de 2 anos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "não se aplica"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "zona unicock; trava de segurança; 14 níveis de potência; powerboost; sensor de calor residual; painel touch; função timer; instalação gratuita (apenas algumas regiões); 2 anos de garantia"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "4,4 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pctq1",
+		"name": "Philco PCTQ1",
+		"image": "/images/posts/melhor-cooktop-4-bocas-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 7000W nos queimadores",
+			"Função Calor Turbo e timer de até 99 minutos",
+			"Reconhecimento automático de panelas com fundo magnético",
+			"Desligamento automático e display digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "7000W"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro cerâmico"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "não se aplica"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "função Calor Turbo; timer de até 99 minutos; desligamento automático; 9 níveis de potência; reconhecimento automático de panelas com fundo magnético; display digital; painel touch"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "6,1 x 59 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "itatiaia-essencial",
+		"name": "Itatiaia Essencial",
+		"image": "/images/posts/melhor-cooktop-4-bocas-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acendimento superautomático",
+			"Trempes removíveis e grades em aço esmaltado",
+			"Garantia de 1 ano e eficiência energética A",
+			"Funciona em bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "acendimento superautomático; trempes removíveis; garantia de 1 ano; grades individuais em aço esmaltado; eficiência energética (A)"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "16 x 56,5 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "mondial-ctg-01",
+		"name": "Mondial CTG-01",
+		"image": "/images/posts/melhor-cooktop-4-bocas-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8700W no total, o maior valor da lista",
+			"Sistema By Pass e botões removíveis",
+			"Conversão gratuita de gás",
+			"Controle preciso dos queimadores"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "8700W no total, sendo 1 queimador ultrarrápido (2650W), 1 queimador rápido (2350W), 2 queimadores semirrápidos (2x 1700W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "sistema By Pass; botões removíveis; tempres individuais esmaltadas; conversão gratuita de gás; 1 ano de garantia; acendimento superautomático; controle preciso dos queimadores"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "17 x 60 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "chamalux-ultra",
+		"name": "Chamalux Ultra",
+		"image": "/images/posts/melhor-cooktop-4-bocas-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Ultra Chama no queimador ultrarrápido",
+			"Queimadores em alumínio com acabamento esmaltado",
+			"Pode ser convertido a gás natural",
+			"Selo de eficiência energética A"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "7450W no total, sendo 1 queimador ultrarrápido (2200W), 3 queimadores semirrápidos (1750w)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "alumínio com acabamento esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "tecnologia Ultra Chama; acendimento superautomático; queimadores em alumínio com acabamento esmaltado; pode ser convertido a gás natural; selo de eficiência energética (A)"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "10 x 46 x 55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-26342-57175",
+		"name": "Fischer 26342-57175",
+		"image": "/images/posts/melhor-cooktop-4-bocas-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Trempes em material EasyClean",
+			"Acendedor superautomático",
+			"Conversão gratuita para gás natural",
+			"Classificação energética A e garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "8250W no total, sendo 1 queimador rápido (3000W) e 3 queimadores semirrápidos (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço carbono esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "trempes em material EasyClean; acendedor superautomático; conversão gratuita para gás natural; classificação energética (A); 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "11,8 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "fischer-1519-5713",
+		"name": "Fischer 1519-5713",
+		"image": "/images/posts/melhor-cooktop-4-bocas-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com gás GN e GLP",
+			"Selo A de eficiência energética",
+			"Acendimento superautomático",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Número de queimadores",
+				"value": "4"
+			},
+			{
+				"label": "Potência dos queimadores",
+				"value": "8250W no total, sendo 1 queimador rápido (3000W) e 3 queimadores semirrápidos (1750W)"
+			},
+			{
+				"label": "Material da superfície",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Material das trempes",
+				"value": "aço carbono esmaltado"
+			},
+			{
+				"label": "Recursos e funções",
+				"value": "selo “A” de eficiência energética; acendimento superautomático; funciona com gás GN e GLP; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (AxLxP)",
+				"value": "11,5 x 55 x 46cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,95kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

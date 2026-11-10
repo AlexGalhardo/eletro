@@ -1,0 +1,405 @@
+[
+	{
+		"id": "philco-pfe65-65-litros-1800w-2000w",
+		"name": "Philco PFE65 (65 litros) 1800W/2000W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 65 litros, a maior da lista",
+			"Dupla resistência com seletor individual",
+			"Potência de 1800W em 127V e 2000W em 220V",
+			"Luz interna e grelha com 3 níveis de altura",
+			"Desligamento automático e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "65 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "90ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; luz interna; dupla resistência com seletor individual; luz indicadora de funcionamento; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha com 3 níveis de altura; bandeja coletora"
+			},
+			{
+				"label": "Peso",
+				"value": "8,06kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,9 x 58,3 x 45,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfe52p-50-litros-1500w-2000w",
+		"name": "Philco PFE52P (50 litros) 1500W/2000W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Porta de vidro temperado com luz interna",
+			"Dupla resistência com seleção de aquecimento superior e inferior",
+			"Seletor de temperatura de 100ºC a 230ºC",
+			"Grelha inox deslizante com 3 níveis de regulagem",
+			"Potência de 1500W em 127V e 2000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "50 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 230ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; dupla resistência com seleção para aquecimento superior, inferior, superior e inferior; luz indicadora de funcionamento; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha inox deslizante com 3 níveis de regulagem; bandeja coletora"
+			},
+			{
+				"label": "Peso",
+				"value": "8,06kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,9 x 58,3 x 45,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfe44p-44-litros-1500w-2000w",
+		"name": "Philco PFE44P (44 litros) 1500W/2000W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de temperatura de 100ºC a 250ºC",
+			"Dupla resistência para aquecimento superior e inferior",
+			"Luz interna e grelha deslizante com 3 regulagens",
+			"Potência de 1500W em 127V e 2000W em 220V",
+			"Aviso sonoro e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "44 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) / 2000W (220V)"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; dupla resistência com seleção para aquecimento superior, inferior, superior e inferior; luz indicadora de funcionamento; aviso sonoro; desligamento automático; luz interna"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha inox deslizante com 3 regulagens de altura"
+			},
+			{
+				"label": "Peso",
+				"value": "6,62kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,6 x 54,1 x 39,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-frn-52-b-52-litros-1800w",
+		"name": "Mondial FRN-52-B (52 litros) 1800W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 52 litros e potência de 1800W",
+			"Porta de vidro para acompanhar o preparo",
+			"Seletor de aquecimento interno com 3 opções",
+			"Seletor de temperatura de 100ºC a 250ºC",
+			"Desligamento automático e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "52 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; seletor de aquecimento interno com 3 opções; luz indicadora de funcionamento; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha inox deslizante e regulável"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,2 x 56 x 33,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bfe41p-36-litros-1500w",
+		"name": "Britânia BFE41P (36 litros) 1500W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 36 litros e potência de 1500W",
+			"Porta de vidro temperado com luz interna",
+			"Dupla resistência com seleção de aquecimento superior e inferior",
+			"Bandeja coletora de resíduos e grelha inox deslizante",
+			"Desligamento automático e aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "36 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; dupla resistência com seleção para aquecimento superior, inferior, superior e inferior; luz indicadora de funcionamento; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha inox deslizante; bandeja coletora de resíduos"
+			},
+			{
+				"label": "Peso",
+				"value": "5,96kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,7 x 51 x 35,2cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-ft9n-9-litros-800w",
+		"name": "Black+Decker FT9N (9 litros) 800W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 9 litros e potência de 800W",
+			"Porta de vidro temperado para acompanhar o preparo",
+			"Dupla resistência com seleção de aquecimento superior e inferior",
+			"Seletor de temperatura de 100ºC a 250ºC",
+			"Grelha cromada e bandeja de alumínio inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "9 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "800W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "100ºC a 250ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro temperado"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; dupla resistência com seleção para aquecimento superior e inferior; luz indicadora de funcionamento; desligamento automático; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grelha cromada; bandeja de alumínio"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "fischer-9741-79182-44-litros-1775w",
+		"name": "Fischer 9741-79182 (44 litros) 1775W",
+		"image": "/images/posts/melhor-forno-eletrico-de-bancada-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de temperatura de 50ºC a 320ºC",
+			"Porta de vidro duplo com luz interna",
+			"Função dourador além da dupla resistência",
+			"Capacidade de 44 litros e potência de 1775W",
+			"Grade removível e bandeja coletora esmaltada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade interna",
+				"value": "44 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1775W"
+			},
+			{
+				"label": "Seletor de temperatura",
+				"value": "50ºC a 320ºC"
+			},
+			{
+				"label": "Timer",
+				"value": "analógico"
+			},
+			{
+				"label": "Luz interna",
+				"value": "sim"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro duplo"
+			},
+			{
+				"label": "Funções",
+				"value": "timer; luz interna; dupla resistência com seleção para aquecimento superior e inferior; luz indicadora de funcionamento; dourador; aviso sonoro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "grade removível; bandeja coletora esmaltada"
+			},
+			{
+				"label": "Peso",
+				"value": "14,21kg"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 57,5 x 52cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]
