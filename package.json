@@ -1,7 +1,7 @@
 {
 	"name": "eletroradar.com.br",
 	"description": "Open source blog CMS built with Astro 7.4, Markdown content and a web admin dashboard.",
-	"version": "2.5.1",
+	"version": "2.5.2",
 	"private": true,
 	"license": "MIT",
 	"type": "module",
