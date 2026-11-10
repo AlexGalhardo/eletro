@@ -1,0 +1,470 @@
+[
+	{
+		"id": "xiaomi-robot-vacuum-x20-max",
+		"name": "Xiaomi Robot Vacuum X20 MAX",
+		"image": "/images/posts/melhor-aspirador-robo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 120 minutos de funcionamento com base de carregamento",
+			"Modos aspira, esfrega, lava e passa pano",
+			"Reservatório de pó de 2,5L e de água de 4L",
+			"Mapeamento inteligente e sensores de obstáculos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tempo de funcionamento",
+				"value": "até 120 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "2,5L"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "4L"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspira; esfrega; lava; passa pano"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-x20",
+		"name": "Xiaomi Robot Vacuum X20+",
+		"image": "/images/posts/melhor-aspirador-robo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 140 minutos de funcionamento com base de carregamento",
+			"Reservatórios de 2,5L para pó e 4L para água",
+			"Mapeamento inteligente com sensores de obstáculos",
+			"Altura de 9,7 cm e potência de 75W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "140 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "2,5L"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "4L"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre; aspira; esfrega; passa pano"
+			},
+			{
+				"label": "Potência",
+				"value": "75W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "58,6 x 42,7 x 34cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "samsung-vr5000rm",
+		"name": "Samsung VR5000RM",
+		"image": "/images/posts/melhor-aspirador-robo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 150 minutos de funcionamento com base de carregamento",
+			"Oito modos de limpeza, incluindo zig-zag e spot",
+			"Altura de 8,5 cm com mapeamento inteligente",
+			"Escova giratória e passa pano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8,5cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "150 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "4 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "0,2L"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "automático; zig-zag; spot; bordas; máximo; padrão; eco; manual"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "46,5 x 15,3 x 39,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vacuum-s20",
+		"name": "Xiaomi Robot Vacuum S20+",
+		"image": "/images/posts/melhor-aspirador-robo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 170 minutos de funcionamento, o maior da lista",
+			"Quatro modos de aspiração e esfregão",
+			"Quatro velocidades de sucção e mapeamento inteligente",
+			"Escova giratória e passa pano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "170 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não possui"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "4 modos de aspiração e esfregão; 4 velocidades de sucção"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "35,0 x 9,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb30",
+		"name": "Electrolux ERB30",
+		"image": "/images/posts/melhor-aspirador-robo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos automático, zig-zag, bordas e manual",
+			"Reservatório de pó de 310 ml e base de carregamento",
+			"Sensores de obstáculos e passa pano",
+			"Dimensões de 29 x 29 x 7 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "310ml"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "não"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "automático; zig-zag; bordas; manual"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "29 x 29 x 7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-s20-xm806bra",
+		"name": "Xiaomi S20 XM806BRA",
+		"image": "/images/posts/melhor-aspirador-robo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos varredura, aspiração, passa pano e zig-zag",
+			"Reservatório de pó de 400 ml e de água de 270 ml",
+			"Mapeamento inteligente com base de carregamento",
+			"Padrão de limpeza em forma de Y"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "10,3cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "220 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "400ml"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "270ml"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varredura; aspiração; passa pano; zig-zag; forma de Y"
+			},
+			{
+				"label": "Potência",
+				"value": "45W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32 x 32 x 10,3cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "karcher-rcv-5",
+		"name": "Kärcher RCV 5",
+		"image": "/images/posts/melhor-aspirador-robo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Passa pano seco, úmido ou combinado",
+			"Reservatórios de 330 ml para pó e 240 ml para água",
+			"Mapeamento inteligente e sensores de obstáculos",
+			"Potência de 5000Pa com base de carregamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "230 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "330ml"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "240ml"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspira; passa pano seco, úmido ou combinado"
+			},
+			{
+				"label": "Potência",
+				"value": "5000Pa"
+			},
+			{
+				"label": "Dimensões",
+				"value": "35 x 35 x 9,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

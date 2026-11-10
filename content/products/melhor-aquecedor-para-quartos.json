@@ -1,0 +1,390 @@
+[
+	{
+		"id": "cadence-aqc260-1500w",
+		"name": "Cadence AQC260 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de potência: 600W, 900W e 1500W",
+			"Sistema anti-overturn com desligamento automático",
+			"Cobertura de até 15m²",
+			"Funcionamento silencioso e rodízios"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema Anti-overturn com desligamento automático em caso de queda ou inclinação excessiva e proteção contra superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de potência (600W, 900W e 1500W); 7 aletas de aquecimento; funcionamento silencioso; rodízios; alça para transporte; porta-cabo e plugue"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63 x 23,7 x 35,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-06-1500w",
+		"name": "Mondial A-06 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Termostato com regulagem manual",
+			"Cobertura de até 16m², a maior da lista",
+			"Sete elementos de calefação",
+			"Lâmpada piloto e guarda-fio"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 16m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "três níveis de aquecimento (600W, 900W e 1500W); funcionamento silencioso; sete elementos de calefação; lâmpada piloto; rodízios; alça para transporte; guarda-fio para cabo e plugue"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,5 x 24,5 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-08-2000w",
+		"name": "Mondial A-08 2000W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece, circula e desumidifica o ar",
+			"Peso de 840g e dimensões compactas",
+			"Protetor térmico e grade de proteção",
+			"Potência de 2000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a ar"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 12m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático, protetor térmico e grade de proteção"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento, circulação e desumidificação do ar; dois níveis de aquecimento; funcionamento silencioso; lâmpada piloto; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,5 x 22 x 13,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "840g"
+			}
+		]
+	},
+	{
+		"id": "wap-air-heat-ceramic-1500w",
+		"name": "WAP Air Heat Ceramic 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oscilação horizontal para espalhar o calor",
+			"Aquecimento cerâmico com dois níveis",
+			"Interruptor antiqueda com desligamento automático",
+			"Peso de 1,38kg e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil cerâmico"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 12m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "interruptor antiqueda com desligamento automático, protetor térmico e grade de proteção"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento, circulação e desumidificação do ar; dois níveis de aquecimento; oscilação horizontal; funcionamento silencioso; indicador luminoso; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 14 x 16,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,38kg"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1100n-1500w",
+		"name": "Britânia AB1100N 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Termoventilador com modo de ventilação sem aquecer",
+			"Desligamento automático por superaquecimento",
+			"Fusível térmico e grade de segurança",
+			"Potência de 2000W em 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil termoventilador"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "desligamento automático em caso de superaquecimento, fusível térmico e grade de segurança"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento e ventilação; três níveis de potência (dois para aquecimento e um para ventilação); lâmpada indicadora de funcionamento; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 22 x 13,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "988g"
+			}
+		]
+	},
+	{
+		"id": "wap-air-heat-1500w",
+		"name": "WAP Air Heat 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece, circula e desumidifica o ar",
+			"Dois níveis de aquecimento e funcionamento silencioso",
+			"Protetor térmico e grades de proteção",
+			"Peso de 1kg e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil termoventilador"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 12m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "protetor térmico com desligamento automático e grades de proteção"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento, circulação e desumidificação do ar; dois níveis de aquecimento; funcionamento silencioso; lâmpada indicadora de funcionamento; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,3 x 13,3 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-05-1500w",
+		"name": "Mondial A-05 1500W",
+		"image": "/images/posts/melhor-aquecedor-para-quartos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento cerâmico com dois níveis",
+			"Cobertura de até 12m²",
+			"Sistema antiqueda com desligamento automático",
+			"Grade de proteção e lâmpada piloto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil cerâmico"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "até 12m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático e grade de proteção"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "funções de aquecimento, circulação e desumidificação do ar; dois níveis de aquecimento; funcionamento silencioso; lâmpada piloto; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,5 x 20 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			}
+		]
+	}
+]

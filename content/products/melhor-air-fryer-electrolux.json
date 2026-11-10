@@ -1,0 +1,371 @@
+[
+	{
+		"id": "electrolux-eaf180-7-litros-1700w",
+		"name": "Electrolux EAF180 (7 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 7 litros com 6,2 litros úteis",
+			"Quatro funções: AirFry, AirFry + Vapor, Vapor e Desidratar",
+			"Tecnologia VaporCrisp e Air Cooking 360º",
+			"Grade removível com camada dupla de antiaderente",
+			"Programação de até 5 horas no painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "7 litros (total); 6,2 litros (útil)"
+			},
+			{
+				"label": "Potência",
+				"value": "AirFry (1700W) / Vapor (900W)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "5h"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "4 em 1: AirFry, AirFry + Vapor, Vapor e Desidratar; timer com aviso sonoro e luminoso; VaporCrisp; Air Cooking 360º; grade removível camada dupla de antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,7 x 32,5 x 44,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,4kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf90-12-litros-1700w",
+		"name": "Electrolux EAF90 (12 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros, a maior desta lista",
+			"Cinco modos de preparo, incluindo gratinar e rotisserie",
+			"Dez funções programadas e sete receitas pré-selecionadas",
+			"Programação de até 24 horas",
+			"Função pré-aquecer e cesto antiaderente removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "60°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "24 horas"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "5 modos de preparo: air fry, gratinar, reaquecer, desidratar e rotisserie; 10 funções programadas; 7 receitas pré-selecionadas; função pré-aquecer; cesto removível e antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,9 x 32,2 x 37,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf15-3-2-litros-1400w",
+		"name": "Electrolux EAF15 (3,2 litros) 1400W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3,2 litros úteis com cesto antiaderente removível",
+			"Timer sonoro e desligamento automático",
+			"Oito receitas no painel",
+			"Luz indicadora de funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,6 litros (total); 3,2 litros (útil)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "mecânico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer sonoro; desligamento automático; cesto antiaderente removível; 8 receitas no painel; luz indicadora"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,2 x 34,8 x 28,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,85kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf45-5-6-litros-1400w",
+		"name": "Electrolux EAF45 (5,6 litros) 1400W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 5,6 litros com 4 litros úteis",
+			"Air Cooking 360º e cesto com camada dupla antiaderente",
+			"Funções virar, assar, airfry e aquecer",
+			"Cinco receitas sugeridas no painel digital",
+			"Timer de 99 minutos com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,6 litros (total); 4 litros (útil)"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "60°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "99 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "virar; assar; airfry; aquecer; cesto removível com camada dupla antiaderente; Air Cooking 360º; 5 receitas sugeridas; timer com desligamento automático; aviso sonoro; indicador luminoso"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,4 x 34,7 x 26,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,9kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf50-5-litros-1800w",
+		"name": "Electrolux EAF50 (5 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 5 litros úteis, com 6,5 litros no total",
+			"Oito receitas sugeridas",
+			"Cesto removível com camada dupla antiaderente",
+			"Controle de temperatura de 80°C a 200°C",
+			"Desligamento automático com aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6,5 litros (total); 5 litros (útil)"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "mecânico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "8 receitas sugeridas; cesto removível com camada dupla antiaderente; controle de temperatura; timer; aviso sonoro; desligamento automático; luz indicadora de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,1 x 31,8 x 38,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf05-3-litros-1200w",
+		"name": "Electrolux EAF05 (3 litros) 1200W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3 litros, com 2,58 litros úteis",
+			"Air Cooking 360° e oito receitas pré-sugeridas",
+			"Cesto removível com camada dupla antiaderente",
+			"Timer sonoro e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3 litros (total); 2,58 litros (útil)"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "mecânico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "Air Cooking 360°; timer sonoro; desligamento automático; cesto removível com camada dupla antiaderente; 8 receitas pré-sugeridas; indicador luminoso"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,4 x 24,5 x 32,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,3kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf170-5-1-litros-1500w",
+		"name": "Electrolux EAF170 (5,1 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vidro transparente superior Vision360",
+			"Funções de assar, desidratar, reaquecer e airfryer",
+			"Função Preaquecer e Air Cooking 360°",
+			"Timer com aviso sonoro e luminoso",
+			"Grade removível com dupla camada antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,1 litros (total)"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "vidro transparente superior Vision360; função assar, desidratar, reaquecer e airfryer; Air Cooking 360°; função Preaquecer; timer com aviso sonoro e luminoso; desligamento automático; grade removível com dupla camada antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,83 x 29,9 x 45,78cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,16kg"
+			}
+		]
+	}
+]

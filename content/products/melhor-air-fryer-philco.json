@@ -1,0 +1,366 @@
+[
+	{
+		"id": "philco-paf15c-15-litros-1900w",
+		"name": "Philco PAF15C (15 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15 litros e potência de 1900W",
+			"Tecnologia Air Fryer 360º com 10 funções predefinidas",
+			"Porta removível e revestimento Redstone",
+			"Timer com aviso sonoro e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer; aviso sonoro; 10 funções predefinidas; tecnologia Air Fryer 360º; desligamento automático; porta removível; revestimento Redstone"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,5 x 34 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,49kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pfr2200p-12-litros-1800w",
+		"name": "Philco PFR2200P (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com peças removíveis",
+			"Timer de até 90 minutos e sinal sonoro",
+			"Revestimento Ultra Maxx e luz interna",
+			"Proteção contra superaquecimento e nove funções predefinidas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "peças removíveis; revestimento Ultra Maxx; 9 funções predefinidas; desligamento automático; timer de até 90min; sinal sonoro; luz interna; proteção contra superaquecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,6 x 32,7 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,78kg"
+			}
+		]
+	},
+	{
+		"id": "philco-gourmet-black-pfr15pg-4-4-litros-1500w",
+		"name": "Philco Gourmet Black PFR15PG (4,4 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,4 litros e potência de 1500W",
+			"Revestimento Maxx Gold com base antiderrapante",
+			"Luzes indicadoras de funcionamento e aquecimento",
+			"Sistema contra superaquecimento e timer"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,4 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer; sistema contra superaquecimento; luz indicadora de funcionamento e aquecimento; base antiderrapante; controle de temperatura; revestimento Maxx Gold"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34,6 x 29,6 x 37,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-chrome-pfr02pc-5-5-litros-1700w",
+		"name": "Philco Chrome PFR02PC (5,5 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 5,5 litros e potência de 1700W",
+			"Coletor de resíduos para facilitar a limpeza",
+			"Revestimento Ultra Maxx e base antiderrapante",
+			"Timer programável e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "30 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "desligamento automático; timer programável; aviso sonoro; luz indicadora de funcionamento; luz indicadora de aquecimento; coletor de resíduos; controle de temperatura; proteção contra superaquecimento; revestimento antiaderente Ultra Maxx; base antiderrapante"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,4 x 31,8 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "philco-paf40a-4-litros-1500w",
+		"name": "Philco PAF40A (4 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4 litros com cuba removível",
+			"Peças compatíveis com lava-louças",
+			"Revestimento Redstone e base antiderrapante",
+			"Luz interna e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer; desligamento automático; luz interna; cuba removível; controle de temperatura; proteção contra superaquecimento; base antiderrapante; revestimento antiaderente Redstone; compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 26,5 x 31,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-paf14a-14-litros-2000w",
+		"name": "Philco PAF14A (14 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W, a mais alta da lista",
+			"Capacidade de 14 litros com divisor de lados",
+			"Alça removível e oito funções pré-programadas",
+			"Temperatura de 40ºC a 200ºC"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "14 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "alça removível; divisor de lados; timer; proteção contra superaquecimento; 8 funções pré-programadas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V e 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 40,5 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "philco-paf16a-16-litros-1900w",
+		"name": "Philco PAF16A (16 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 16 litros, a maior da lista",
+			"Cesto antiaderente e porta com abertura lateral",
+			"Painel digital com dez funções pré-programadas",
+			"Alça removível e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "16 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1900W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "cesto antiaderente; alça removível; porta com abertura lateral; proteção contra superaquecimento; desligamento automático; luz interna; painel digital com 10 funções pré-programadas; timer com aviso sonoro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,5 x 33,5 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,362 @@
+[
+	{
+		"id": "britania-bbt500b-500w-4-litros",
+		"name": "Britânia BBT500B 500W 4 litros",
+		"image": "/images/posts/melhor-batedeira-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tigela de 4 litros em aço inox",
+			"11 velocidades com função Turbo",
+			"Tampa antirrespingo e três batedores",
+			"Potência de 500W em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "aço inox"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "11 + função Turbo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa antirrespingo; 3 batedores (clara em neve, massa leve e massa pesada)"
+			},
+			{
+				"label": "Recursos",
+				"value": "função Turbo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,5 x 38 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bbp900a-900w-4-5-litros",
+		"name": "Britânia BBP900A 900W 4,5 litros",
+		"image": "/images/posts/melhor-batedeira-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 900W, a maior da lista",
+			"Tigela de 4,5 litros com 12 velocidades e Turbo",
+			"Cabeçote articulável com base antiderrapante",
+			"Botão de abertura automática"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "plástico"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "12 + função turbo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa antirrespingo; 3 batedores (clara em neve, massa leve e massa pesada)"
+			},
+			{
+				"label": "Recursos",
+				"value": "função Turbo; cabeçote articulável; base antiderrapante; botão de abertura automática"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33,5 x 23 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,45kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bbp760p-power-plus-700w-4-5-litros",
+		"name": "Britânia BBP760P Power Plus 700W 4,5 litros",
+		"image": "/images/posts/melhor-batedeira-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro batedores, incluindo o de massas delicadas",
+			"Partida suave e cabeçote articulável",
+			"Recipiente compatível com freezer",
+			"Tigela de 4,5 litros com 12 velocidades e Turbo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "plástico"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "12 + função turbo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa antirrespingo; 4 batedores (clara em neve, massas delicadas, massa leve e massa pesada)"
+			},
+			{
+				"label": "Recursos",
+				"value": "função Turbo; cabeçote articulável; base antiderrapante; botão de abertura automática; partida suave; recipiente compatível com freezer"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,5 x 43 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,23kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-diamante-550w-4-3-litros",
+		"name": "Britânia Diamante 550W 4,3 litros",
+		"image": "/images/posts/melhor-batedeira-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro batedores, dois para clara e dois para massa leve",
+			"Unidade motora removível com apoio traseiro",
+			"Botão ejetor e função Turbo",
+			"Recipiente compatível com freezer e banho-maria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4,3 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "aço inox"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "4 + função turbo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4 batedores (2 para clara em neve e 2 para massa leve)"
+			},
+			{
+				"label": "Recursos",
+				"value": "função Turbo; botão ejetor; unidade motora removível com apoio traseiro; recipiente compatível com freezer e banho-maria"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 30 x 20,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,66kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-perola-550-500w-4-3-litros",
+		"name": "Britânia Pérola 550 500W 4,3 litros",
+		"image": "/images/posts/melhor-batedeira-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tigela de aço inox de 4,3 litros",
+			"Unidade motora removível e botão ejetor",
+			"Recipiente compatível com freezer, micro-ondas e banho-maria",
+			"Função Turbo com 4 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4,3 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "aço inox"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "4 + função turbo"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 batedores (massas leves)"
+			},
+			{
+				"label": "Recursos",
+				"value": "função Turbo; botão ejetor; unidade motora removível; recipiente compatível com freezer, micro-ondas e banho-maria"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 31 x 19cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bbt350p-350w-4-3-litros",
+		"name": "Britânia BBT350P 350W 4,3 litros",
+		"image": "/images/posts/melhor-batedeira-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 350W com quatro velocidades",
+			"Plataforma basculante e botão ejetor",
+			"Dois batedores para massas leves",
+			"Tigela de 4,3 litros em plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "350W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4,3 litros"
+			},
+			{
+				"label": "Material da tigela",
+				"value": "plástico"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "4"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 batedores (massas leves)"
+			},
+			{
+				"label": "Recursos",
+				"value": "botão ejetor; plataforma basculante"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 34 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,54kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bbt400p-concept-400w-4-litros",
+		"name": "Britânia BBT400P Concept 400W 4 litros",
+		"image": "/images/posts/melhor-batedeira-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função portátil com 400W de potência",
+			"Tigela extra de 3,1 litros inclusa",
+			"Quatro velocidades e dois batedores",
+			"Peso de 1,51kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Capacidade da tigela",
+				"value": "4 litros"
+			},
+			{
+				"label": "Número de velocidades",
+				"value": "4"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 batedores (massas leves); tigela extra de 3,1 litros"
+			},
+			{
+				"label": "Recursos",
+				"value": "função portátil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,4 x 33,6 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,51kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

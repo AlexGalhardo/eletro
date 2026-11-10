@@ -1,0 +1,377 @@
+[
+	{
+		"id": "nevoni-1001po",
+		"name": "Nevoni 1001PO",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Frasco coletor de 3,25L com tampa de segurança",
+			"Regulador de vácuo com vacuômetro",
+			"Filtro bactericida e mangueira de silicone",
+			"Alimentação bivolt",
+			"Indicado para aspiração em traqueostomia e endoscopia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de saliva, sangue, secreções, nasal/bucal/pulmonar; traqueostomia; aspiração de mecônio em recém-nascidos; endoscopia; colonoscopia; biópsias; procedimentos odontológicos"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "3,25L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "frasco coletor de 3,25L, tampa com válvula de segurança, mangueira de silicone e filtro bactericida"
+			},
+			{
+				"label": "Regulador de vácuo",
+				"value": "sim, com vacuômetro (indicador de pressão)"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "nevoni-5005br",
+		"name": "Nevoni 5005BR",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vácuo máximo de 74,5kPa e fluxo de 20L/min",
+			"Frasco de 1,3L com tampa de válvula de segurança",
+			"Mangueira de silicone de 1,6m e dois fusíveis",
+			"Dimensões compactas de 26 x 15,2 x 18,5cm",
+			"Peso aproximado de 1,5kg com alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração em traqueostomia, endotraqueal, nasal/bucal, secreções pulmonares via sondas, mecônio em recém-nascidos e aspiração veterinária de pequeno porte"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1,3L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tampa com válvula de segurança acoplada, frasco coletor de 1,3L, mangueira de silicone (1,6m), dois fusíveis"
+			},
+			{
+				"label": "Vácuo máximo",
+				"value": "74,5kPa (558mmHg)"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "20L/min"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 15,2 x 18,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "aspiramax-ma520",
+		"name": "Aspiramax MA520",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vácuo máximo de 80kPa e fluxo de 20L/min",
+			"Regulador de vácuo com botão de regulagem",
+			"Nível de ruído de 61,5dB, o menor informado nesta lista",
+			"Cinta de travamento e filtro de ar",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de líquidos e secreções humanas"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1,3L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "filtro de ar, cinta de travamento, recipiente com tampa, tubo de sucção e extensão (mangueira)"
+			},
+			{
+				"label": "Vácuo máximo",
+				"value": "80kPa (600mmHg)"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "20L/min"
+			},
+			{
+				"label": "Regulador de vácuo",
+				"value": "sim, com botão de regulagem"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "61,5dB"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22,5 x 17,5 x 35,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "dellamed-7037",
+		"name": "Dellamed 7037",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspiração para uso clínico, cirúrgico, odontológico e domiciliar",
+			"Fluxo de 16L/min com 65dB de ruído",
+			"Dois filtros e sonda redutora",
+			"Mangueira de paciente e entrada de compressor",
+			"Peso aproximado de 3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de fluidos e secreções em procedimentos clínicos, cirúrgicos, odontológicos, veterinários e uso domiciliar"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de paciente, entrada de compressor, dois filtros, sonda redutora e fusível"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "16L/min"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "65dB"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 14,5 x 23,5cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "3kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "medicate-md100",
+		"name": "Medicate MD100",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Frasco de 1L com tampa de válvula de segurança",
+			"Vácuo máximo de 71kPa e fluxo de 15L/min",
+			"Mangueira de silicone de 2m para o paciente",
+			"Dimensões de 24 x 21 x 29cm",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de sangue, saliva e secreções em pequenos procedimentos cirúrgicos e odontológicos"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "frasco coletor de 1L, tampa plástica com válvula de segurança, mangueira de silicone de 2m para paciente e mangueira de silicone para vácuo"
+			},
+			{
+				"label": "Vácuo máximo",
+				"value": "71kPa (533,4mmHg)"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "15L/min"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24 x 21 x 29cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "md-dv-350",
+		"name": "MD DV-350",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna recarregável para uso sem tomada",
+			"Vácuo máximo de 82,6kPa, o maior desta lista",
+			"Regulador de vácuo com manômetro indicador",
+			"Filtro microbiano e tubo de sucção",
+			"Fluxo de 18L/min e peso aproximado de 3,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de secreções, fluidos corporais e corpos estranhos nas áreas nasais, faringe e traqueia em ambiente doméstico, hospitais, clínicas e instituições de cuidados ao idoso"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bomba de sucção, adaptador e cabo de alimentação, bateria interna recarregável, frasco coletor, filtro microbiano, tubo intermediário e tubo de sucção"
+			},
+			{
+				"label": "Vácuo máximo",
+				"value": "82,6kPa (620mmHg)"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "18L/min"
+			},
+			{
+				"label": "Regulador de vácuo",
+				"value": "sim, com manômetro indicador de pressão"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "3,5kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "redcare-supermedy-asp-1000",
+		"name": "RedCare Supermedy ‎ASP-1000",
+		"image": "/images/posts/melhor-aspirador-de-secrecao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tampa com sistema anti-transbordo",
+			"Vácuo máximo de 75kPa e fluxo de 15L/min",
+			"Controle de pressão ajustável no regulador",
+			"Dimensões compactas de 21 x 13,5 x 32cm",
+			"Mangueira de silicone e conexões inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Aplicações",
+				"value": "aspiração de secreções, sangue e fluidos em procedimentos clínicos, hospitalares e domiciliares; suporte respiratório e curativos"
+			},
+			{
+				"label": "Capacidade do frasco",
+				"value": "1L"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de silicone, conexões e tampa com sistema anti-transbordo"
+			},
+			{
+				"label": "Vácuo máximo",
+				"value": "75kPa (563mmHg)"
+			},
+			{
+				"label": "Fluxo de ar (sucção)",
+				"value": "15L/min"
+			},
+			{
+				"label": "Regulador de vácuo",
+				"value": "sim, com controle de pressão ajustável"
+			},
+			{
+				"label": "Bateria integrada",
+				"value": "não"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "65dB"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21 x 13,5 x 32cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "3kg"
+			},
+			{
+				"label": "Alimentação elétrica",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

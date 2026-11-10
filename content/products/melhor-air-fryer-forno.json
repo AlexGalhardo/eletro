@@ -1,0 +1,394 @@
+[
+	{
+		"id": "oster-ofor250-25-litros-1700w",
+		"name": "Oster OFOR250 (25 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-forno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 25 litros com potência de 1700W",
+			"Temperatura de 30°C a 200°C com receitas predefinidas",
+			"Programação de 90 minutos na air fryer e 150 no forno",
+			"Acessórios: fritadeira, assadeira, cesto e luva térmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "30°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos (air fryer) e 150 minutos (forno)"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital e botão"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas; timer; aviso sonoro; luz interna"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "fritadeira; assadeira; cesto; bandeja coletora; gancho para cesto; luva térmica"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎36 x 40 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-afon-12l-bi-12-litros-2000w",
+		"name": "Mondial AFON-12L-BI (12 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-forno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com potência de 2000W",
+			"Cesto de 5 litros, duas assadeiras e livro de receitas",
+			"Receitas predefinidas, timer e desligamento automático",
+			"Programação de até 90 minutos com luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "200º"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas; timer; aviso sonoro; desligamento automático; luz interna"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "fritadeira; 2 assadeiras; assadeira coletora; cesto de 5L; livro de receitas; luva de silicone"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎39 x 32 x 36,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,62kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pfr2200p-12-litros-1800w",
+		"name": "Philco PFR2200P (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-forno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com potência de 1800W",
+			"Nove funções predefinidas e timer",
+			"Temperatura de 80°C a 200°C e programação de 90 minutos",
+			"Duas assadeiras rasas e cesto de 3,5 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer; aviso sonoro; desligamento automático; 9 funções predefinidas"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "2 assadeiras rasas; cesto de 3,5L; bandeja coletora de gordura"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎37 x 31,5 x 33,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,05kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ofrt780-12-litros-1800w",
+		"name": "Oster OFRT780 (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-forno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cesto rotativo com rotação de 360º",
+			"Função pause/play e sinal sonoro",
+			"Espeto rotisserie, duas grades e gancho",
+			"Temperatura de 40°C a 200°C e programação de 120 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "40ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas; rotação 360º; timer; luz interna; função pause/play; sinal sonoro"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cesto rotativo; bandeja coletora; gancho; 2 grades; espeto rotisserie"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎37 x 31 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,90kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "elgin-oven-fry-42afo1001000-12-litros-1800w",
+		"name": "Elgin Oven Fry 42AFO1001000 (12 litros) 1800W",
+		"image": "/images/posts/melhor-air-fryer-forno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com potência de 1800W",
+			"Tecnologia Air Circuit e receitas predefinidas",
+			"Cesto antiaderente, bandeja coletora e 2 assadeiras",
+			"Temperatura de 80°C a 200°C com desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80ºC a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas; tecnologia Air Circuit; timer; desligamento automático; luz interna"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "cesto antiaderente; bandeja coletora; 2 assadeiras"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎37,2 x 29,0 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-eaf90-12-litros-1700w",
+		"name": "Electrolux EAF90 (12 litros) 1700W",
+		"image": "/images/posts/melhor-air-fryer-forno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com potência de 1700W",
+			"Dez funções pré-programadas e receitas predefinidas",
+			"Espeto giratório, duas grelhas e cesto interno de 3,5 litros",
+			"Temperatura de 60°C a 200°C com aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "60º a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "receitas predefinidas; timer; desligamento automático; luz interna; aviso sonoro; 10 funções pré-programadas"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "2 grelhas; espeto giratório; gancho; bandeja coletora de resíduos; cesto interno de 3,5 litros"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎40,9 x 32,2 x 37,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wap-fw009548-12-litros-2000w",
+		"name": "WAP FW009548 (12 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-forno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 12 litros com 1800W em 127V ou 2000W em 220V",
+			"Dez funções pré-programadas com timer",
+			"Cesto antiaderente GreyStone de 4,5 litros e duas grelhas",
+			"Temperatura de 30°C a 200°C e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "12 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W (127V) e 2000W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "30º a 200ºC"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "90 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer; desligamento automático; aviso sonoro; luz interna; 10 funções pré-programadas"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "2 grelhas antiaderentes GreyStone; bandeja de migalhas e gordura; cesto com antiaderente GreyStone de 4,5 litros"
+			},
+			{
+				"label": "Dimensões (A x L x P): ‎",
+				"value": "‎43 x 40,8 x 43,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

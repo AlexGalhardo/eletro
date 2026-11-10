@@ -1,0 +1,174 @@
+[
+	{
+		"id": "philips-s5898-17-s5880-20",
+		"name": "Philips S5898/17 - S5880/20",
+		"image": "/images/posts/melhor-barbeador-philips-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de até 60 minutos e recarga de 1 hora",
+			"Cabeças flexíveis 360° para acompanhar o contorno",
+			"Tecnologia SkinIQ com sensor PowerAdapt",
+			"Aparador retrátil integrado e estojo de transporte",
+			"Cabo USB-A e pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "até 60 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas autoafiadoras com cabeças flexíveis 360° e tecnologia SkinIQ com sensor PowerAdapt" },
+			{ "label": "Material das lâminas", "value": "aço" },
+			{ "label": "Acessórios inclusos", "value": "tampa de proteção; cabo USB-A; escova de limpeza; aparador retrátil integrado; estojo de transporte" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-x5012-05",
+		"name": "Philips X5012/05",
+		"image": "/images/posts/melhor-barbeador-philips-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas rotativas em aço inoxidável hipoalergênico",
+			"Autonomia de 50 minutos e recarga de 1 hora",
+			"Aparador de precisão incluso",
+			"Pode ser usado no banho",
+			"Peso aproximado de 400g"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "50 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas rotativas" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável hipoalergênico" },
+			{ "label": "Acessórios inclusos", "value": "tampa de proteção; aparador de precisão" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "400g" }
+		]
+	},
+	{
+		"id": "philips-x3021-00",
+		"name": "Philips X3021/00",
+		"image": "/images/posts/melhor-barbeador-philips-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas autoafiadoras com cabeças flutuantes 3D",
+			"Aço cirúrgico hipoalergênico nas lâminas",
+			"Aparador retrátil para bigode e costeletas",
+			"Autonomia de 40 minutos e recarga de 1 hora",
+			"Pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "40 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas autoafiadoras com cabeças flutuantes 3D" },
+			{ "label": "Material das lâminas", "value": "aço cirúrgico hipoalergênico" },
+			{ "label": "Acessórios inclusos", "value": "tampa de proteção; aparador retrátil para bigode e costeletas" },
+			{ "label": "Pode ser usado no banho", "value": "sim" }
+		]
+	},
+	{
+		"id": "philips-qp2724-10",
+		"name": "Philips QP2724/10",
+		"image": "/images/posts/melhor-barbeador-philips-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina dupla face em aço inoxidável",
+			"Pentes para barba de 1mm, 3mm e 5mm",
+			"Peso aproximado de 220g",
+			"Autonomia de 45 minutos e recarga de 8 horas",
+			"Pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "45 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâmina dupla face" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "pentes para barba (1mm, 3mm, 5mm); tampa de proteção" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "220g" }
+		]
+	},
+	{
+		"id": "philips-s1151-00",
+		"name": "Philips S1151/00",
+		"image": "/images/posts/melhor-barbeador-philips-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas rotativas com tampa de proteção",
+			"Peso aproximado de 367g",
+			"Pode ser usado no banho",
+			"Autonomia de 40 minutos e recarga de 8 horas",
+			"Bateria interna sem depender de tomada"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "40 minutos" },
+			{ "label": "Tempo de recarga", "value": "8 horas" },
+			{ "label": "Sistema de corte", "value": "lâminas rotativas" },
+			{ "label": "Acessórios inclusos", "value": "tampa de proteção" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "367g" }
+		]
+	},
+	{
+		"id": "philco-pba08",
+		"name": "Philco PBA08",
+		"image": "/images/posts/melhor-barbeador-philips-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 55 minutos, a segunda maior da lista",
+			"Recarga de 1 hora com cabo USB",
+			"Lâminas com cabeças flutuantes em aço inoxidável",
+			"Escova de limpeza e aparador retrátil",
+			"Peso aproximado de 172g"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "55 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas com cabeças flutuantes" },
+			{ "label": "Material das lâminas", "value": "aço inoxidável" },
+			{ "label": "Acessórios inclusos", "value": "cabo USB para carregamento; escova de limpeza; tampa de proteção; aparador retrátil" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "172g" }
+		]
+	},
+	{
+		"id": "philips-s595-05-s591-05",
+		"name": "Philips S595/05 - S591/05",
+		"image": "/images/posts/melhor-barbeador-philips-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso aproximado de 50g, o mais leve da lista",
+			"Lâminas giratórias com cabeças flutuantes",
+			"Aço hipoalergênico nas lâminas",
+			"Estojo de viagem e tampa magnética",
+			"Recarga de 1 hora e pode ser usado no banho"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo de alimentação", "value": "bateria interna" },
+			{ "label": "Autonomia de uso", "value": "40 minutos" },
+			{ "label": "Tempo de recarga", "value": "1 hora" },
+			{ "label": "Sistema de corte", "value": "lâminas giratórias com cabeças flutuantes" },
+			{ "label": "Material das lâminas", "value": "aço hipoalergênico" },
+			{ "label": "Acessórios inclusos", "value": "estojo de viagem; tampa magnética; trava para viagem (varia conforme versão)" },
+			{ "label": "Pode ser usado no banho", "value": "sim" },
+			{ "label": "Peso aproximado", "value": "50g" }
+		]
+	}
+]

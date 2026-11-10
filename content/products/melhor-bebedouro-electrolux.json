@@ -1,0 +1,365 @@
+[
+	{
+		"id": "electrolux-pa31",
+		"name": "Electrolux PA31",
+		"image": "/images/posts/melhor-bebedouro-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Purificação em 3 estágios com luz UV",
+			"Filtro Acqua Clean Classe A",
+			"Painel Blue Touch e dosagem programada",
+			"Refrigeração eletrônica e vazão de 120L/h",
+			"Indicador de troca do refil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "purificador"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,9 litro (natural); 0,8 litro (gelada)"
+			},
+			{
+				"label": "Vazão",
+				"value": "120L/h"
+			},
+			{
+				"label": "Extras",
+				"value": "filtro Acqua Clean Classe A; purificação em 3 estágios, incluindo luz UV; painel Blue Touch; dosagem programada; fluxo contínuo; indicador de troca do refil; bandeja removível; suportes para parede; pés antiderrapantes; refrigeração eletrônica"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,8 x 25 x 31,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pc01",
+		"name": "Electrolux PC01",
+		"image": "/images/posts/melhor-bebedouro-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Refrigeração por compressor",
+			"Função EcoPlus",
+			"Purificação em 2 estágios com filtro Acqua Pure",
+			"Reservatório interno de 1,7 litro",
+			"Acesso ao tanque para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "purificador"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "1,7 litro"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Extras",
+				"value": "refrigeração por compressor; purificação em 2 estágios com filtro Acqua Pure; painel mecânico; fluxo contínuo; indicador de troca do refil; função EcoPlus; bandeja removível; acesso ao tanque para limpeza; pés antiderrapantes; gás refrigerante R-600"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "38,1 x 22,9 x 43,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,65kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe12",
+		"name": "Electrolux PE12",
+		"image": "/images/posts/melhor-bebedouro-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressurizador Pure 4X",
+			"Painel touch com LED",
+			"Refrigeração eletrônica e alerta de troca do refil",
+			"Filtro Acqua Pure com purificação em 2 estágios",
+			"Peso de 4,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "purificador"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Extras",
+				"value": "pressurizador Pure 4X; filtro Acqua Pure com purificação em 2 estágios; painel touch com LED; fluxo contínuo; alerta de troca do refil; refrigeração eletrônica; bandeja removível; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 16 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-bc01",
+		"name": "Electrolux BC01",
+		"image": "/images/posts/melhor-bebedouro-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Refrigeração por compressor",
+			"Bica de 23,8cm",
+			"Perfurador integrado para galão",
+			"Acesso ao tanque para limpeza e bandeja removível",
+			"Reservatório interno de 1,8 litro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Extras",
+				"value": "refrigeração por compressor; fluxo contínuo; bandeja removível; acesso ao tanque para limpeza; bica de 23,8cm; pés antiderrapantes; perfurador integrado; gás refrigerante R-600a"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44,4 x 30,2 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe11",
+		"name": "Electrolux PE11",
+		"image": "/images/posts/melhor-bebedouro-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel Easy Touch",
+			"Refrigeração eletrônica e filtragem em 2 estágios",
+			"Vazão de 100L/h",
+			"Fluxo contínuo ou controlado",
+			"Suportes para parede"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "purificador"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Vazão",
+				"value": "100L/h"
+			},
+			{
+				"label": "Extras",
+				"value": "painel Easy Touch; refrigeração eletrônica; filtragem em 2 estágios; fluxo contínuo ou controlado; alerta de troca do refil; bandeja removível; suportes para parede; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 25 x 28,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-be11",
+		"name": "Electrolux BE11",
+		"image": "/images/posts/melhor-bebedouro-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de mesa com perfurador de galão removível",
+			"Bandeja removível e ajustável",
+			"Refrigeração eletrônica",
+			"Fluxo contínuo ou controlado",
+			"Peso de 4,1kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Extras",
+				"value": "refrigeração eletrônica; fluxo contínuo ou controlado; bandeja removível e ajustável; perfurador de galão removível"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 29 x 37,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ph41",
+		"name": "Electrolux PH41",
+		"image": "/images/posts/melhor-bebedouro-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Água quente com regulagem de temperatura",
+			"Painel touch e refrigeração por compressor",
+			"Reservatório de 3,3 litros no total",
+			"Cancelamento da água quente após 2 segundos sem acionamento",
+			"Vazão de 100L/h"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "purificador"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, gelada e quente"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "3,3 litros (total); 2,44 litros (água gelada)"
+			},
+			{
+				"label": "Vazão",
+				"value": "100L/h"
+			},
+			{
+				"label": "Extras",
+				"value": "refrigeração por compressor; função água quente; painel touch; regulagem de temperatura; fluxo contínuo ou controlado; cancelamento de seleção de água quente após 2 segundos sem acionamento; indicador de troca do refil; bandeja removível; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,3 x 29 x 37,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

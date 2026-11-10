@@ -1,0 +1,317 @@
+[
+	{
+		"id": "black-decker-bhfea18d1-vertical",
+		"name": "Black+Decker BHFEA18D1 (vertical)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro duplo, lavável e com sistema ciclônico",
+			"Bocal para cantos e frestas e bocal de pisos com escova giratória",
+			"Bateria de íons de lítio PowerConnect de 20V e 2Ah",
+			"Formato vertical e portátil em um só aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil (2 em 1)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500mL"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "duplo (filtro lavável e sistema ciclônico)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas; bocal de pisos com escova giratória; bateria; carregador"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria de íons de lítio PowerConnect de 20V e 2Ah"
+			}
+		]
+	},
+	{
+		"id": "black-decker-avt12-1250w-vertical",
+		"name": "Black+Decker AVT12 1250W (vertical)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1250W e reservatório de 600mL",
+			"Filtro HEPA multiníveis lavável com pré-filtro em inox",
+			"Escova de piso articulada e bocal longo para cantos",
+			"Suporte de parede e suporte para o cabo elétrico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil (2 em 1)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA multiníveis lavável (com pré-filtro em inox e sistema ciclônico)"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo extensor; escova de piso articulada; bocal longo para cantos; bocal com escova; suporte de parede; suporte removível para cabo elétrico"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-aps1200-1200w-portatil",
+		"name": "Black+Decker APS1200 1200W (portátil)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e reservatório de 800mL",
+			"Filtro permanente e lavável",
+			"Bocal Turbo Pet e bocal com escova para estofados"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "permanente e lavável"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal com escova para estofados; bocal para cantos e sopro; bocal Turbo Pet"
+			},
+			{
+				"label": "Peso",
+				"value": "1,64kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-apb12000-portatil",
+		"name": "Black+Decker APB12000 (portátil)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro permanente e lavável",
+			"Três bocais integrados: alongado, estreito e escova",
+			"Suporte de parede para recarga",
+			"Bateria de lítio de 12V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500mL"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "permanente e lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 bocais integrados (alongado, estreito e escova); suporte de parede para recarga; carregador"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria de lítio de 12V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-apb3600-portatil",
+		"name": "Black+Decker APB3600 (portátil)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Único modelo da lista que aspira sólidos e líquidos",
+			"Filtro de espuma lavável",
+			"Bocal flexível para líquidos e bocal estreito para cantos",
+			"Escova para pelos de estofados e cortinas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "370mL"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "espuma lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal flexível para líquidos; bocal estreito para cantos; escova para pelos de estofados e cortinas; carregador com suporte"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria de lítio de 3,6V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-av15-1200w-vertical",
+		"name": "Black+Decker AV15 1200W (vertical)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e reservatório de 800mL",
+			"Filtro HEPA lavável com copo ciclônico",
+			"Bocal 2 em 1 para frestas e escovação",
+			"Haste de alumínio e escova de piso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil (2 em 1)"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "800mL"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA lavável (com copo ciclônico)"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal 2 em 1 para frestas e escovação; escova de piso; haste de alumínio"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "black-decker-bdcv610-portatil",
+		"name": "Black+Decker BDCV610 (portátil)",
+		"image": "/images/posts/melhor-aspirador-de-po-black-decker-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo de 4,9 metros e alimentação de 12V automotiva",
+			"Pré-filtro e filtro interno laváveis e reutilizáveis",
+			"Bico longo para cantos e escova para tapetes",
+			"Bolsa para transporte incluída"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "portátil automotivo"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "610mL"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "pré-filtro e filtro interno laváveis e reutilizáveis (com sistema ciclônico)"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4,9 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico longo para cantos; escova para tapetes; tubo extensor flexível; coletor de pó; bolsa para transporte"
+			},
+			{
+				"label": "Peso",
+				"value": "1,27kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "12V automotivo"
+			}
+		]
+	}
+]

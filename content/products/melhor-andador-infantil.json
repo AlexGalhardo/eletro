@@ -1,0 +1,356 @@
+[
+	{
+		"id": "safety-1st-spacewalker",
+		"name": "Safety 1st Spacewalker",
+		"image": "/images/posts/melhor-andador-infantil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Multifuncional com modo balanço e brinquedos musicais",
+			"Ajuste de altura em 3 níveis",
+			"Trava de rodas e suporte até 12kg",
+			"Assento e bandeja removíveis, com assento lavável",
+			"Certificação INMETRO informada na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "multifuncional"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "modo balanço; bandeja removível; brinquedos interativos musicais; assento removível e lavável; painel de atividades"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "trava de rodas"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO Registro 0020632021 e 001297/2021"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65,5 x 50 x 71,5cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "4,7kg"
+			}
+		]
+	},
+	{
+		"id": "kababy-30400c",
+		"name": "KaBaby 30400C",
+		"image": "/images/posts/melhor-andador-infantil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo 2 em 1 com empurrador",
+			"Tela solar removível e apoiador de pés",
+			"Rodas multidirecionais e brinquedos musicais",
+			"Trava de rodas e suporte até 12kg",
+			"Peso de 3kg e dimensões de 80 x 65,5 x 74 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "2 em 1"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tela solar removível; brinquedos interativos musicais; empurrador; apoiador de pés; rodas multidirecionais"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "trava de rodas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "80 x 65,5 x 74cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "styll-baby-softway",
+		"name": "Styll Baby Softway",
+		"image": "/images/posts/melhor-andador-infantil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Andador tradicional com ajuste de altura",
+			"Assento acolchoado lavável e bandeja removível",
+			"Brinquedos interativos musicais",
+			"Trava de rodas para mais segurança",
+			"Peso de 3kg e dimensões de 40 x 55 x 61 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "andador tradicional"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "bandeja removível; brinquedos interativos musicais; assento acolchoado lavável"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "trava de rodas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 55 x 61cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "maxi-baby-la-bamba",
+		"name": "Maxi Baby La Bamba",
+		"image": "/images/posts/melhor-andador-infantil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de altura em 3 níveis",
+			"Bandeja removível e assento removível e lavável",
+			"Brinquedos musicais interativos",
+			"INMETRO com registros 001803/2023 e 002149/2023",
+			"Peso de 3,9kg e trava de rodas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "andador tradicional"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "bandeja removível; brinquedos musicais interativos; assento removível e lavável"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "trava de rodas"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO Registro 001803/2023 e 002149/2023"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68 x 55 x 58cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "3,9kg"
+			}
+		]
+	},
+	{
+		"id": "multmaxx-mtx001",
+		"name": "Multmaxx MTX001",
+		"image": "/images/posts/melhor-andador-infantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo de empurrar com brinquedos interativos",
+			"Indicado a partir de 6 meses",
+			"Dimensões de 45 x 34 x 42 cm",
+			"Certificação INMETRO informada na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "empurrar"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "—"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "brinquedos interativos"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO (registro não especificado)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45 x 34 x 42cm"
+			}
+		]
+	},
+	{
+		"id": "infanti-appia",
+		"name": "Infanti Appia",
+		"image": "/images/posts/melhor-andador-infantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de altura em 3 níveis",
+			"Brinquedo musical com 12 melodias",
+			"Travas na base e capa do assento lavável",
+			"Certificação INMETRO Registro 001185/2024",
+			"Peso de 4,26kg e dimensões de 57 x 61 x 68 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "andador tradicional"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "capa do assento removível e lavável; brinquedos interativos removíveis; bandeja removível; brinquedo musical com 12 melodias"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "travas na base"
+			},
+			{
+				"label": "Certificação",
+				"value": "INMETRO Registro 001185/2024"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "57 x 61 x 68cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "4,26kg"
+			}
+		]
+	},
+	{
+		"id": "tutti-baby-safari-ii",
+		"name": "Tutti Baby Safari II",
+		"image": "/images/posts/melhor-andador-infantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de altura em 3 níveis",
+			"Capa de assento removível e lavável",
+			"Travas na base e certificações IQB e SGS",
+			"Peso de 2,7kg, o mais leve desta lista",
+			"Dimensões de 51 x 61 x 70 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "andador tradicional"
+			},
+			{
+				"label": "Idade recomendada",
+				"value": "a partir de 6 meses"
+			},
+			{
+				"label": "Peso suportado",
+				"value": "até 12kg"
+			},
+			{
+				"label": "Ajuste de altura",
+				"value": "sim (3 níveis)"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "capa de assento removível e lavável"
+			},
+			{
+				"label": "Sistema de segurança",
+				"value": "travas na base"
+			},
+			{
+				"label": "Certificação",
+				"value": "IQB Registro 1472/2022; SGS Registro 006760/2018"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "51 x 61 x 70cm"
+			},
+			{
+				"label": "Peso do produto",
+				"value": "2,7kg"
+			}
+		]
+	}
+]

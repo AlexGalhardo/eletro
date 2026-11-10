@@ -1,0 +1,292 @@
+[
+	{
+		"id": "3m-peltor-x5a",
+		"name": "3M Peltor X5A",
+		"image": "/images/posts/melhor-abafador-de-ruidos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior atenuação da lista, com 29dB",
+			"Conchas em ABS e arco em aço mola inox",
+			"Haste regulável para ajustar o encaixe",
+			"Certificado CA 32.841 informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "29dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "ABS"
+			},
+			{
+				"label": "Material do arco",
+				"value": "aço mola inox"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "CA 32.841"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "234g"
+			}
+		]
+	},
+	{
+		"id": "3m-peltor-x4a",
+		"name": "3M Peltor X4A",
+		"image": "/images/posts/melhor-abafador-de-ruidos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Atenuação de 24dB com conchas em ABS",
+			"Arco em aço mola inox para sustentação",
+			"Haste regulável para ajuste ao tamanho da cabeça",
+			"Certificado CA 32.821 informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "24dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "ABS"
+			},
+			{
+				"label": "Material do arco",
+				"value": "aço mola inox"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "CA 32.821"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "234g"
+			}
+		]
+	},
+	{
+		"id": "3m-muffler",
+		"name": "3M Muffler",
+		"image": "/images/posts/melhor-abafador-de-ruidos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Arco metálico e almofadado para conforto",
+			"Atenuação de 20dB com conchas em ABS",
+			"Haste regulável para ajustar a altura",
+			"Certificado CA 32.821 informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "20dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "ABS"
+			},
+			{
+				"label": "Material do arco",
+				"value": "metálica e almofadada"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "CA 32.821"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "carbografite-cg-107",
+		"name": "CARBOGRAFITE CG-107",
+		"image": "/images/posts/melhor-abafador-de-ruidos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Atenuação de 20dB com conchas de plástico",
+			"Arco em aço inoxidável e plástico",
+			"Leve, com 180g e haste regulável",
+			"Certificado CA 9.704 informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "20dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "plástico"
+			},
+			{
+				"label": "Material do arco",
+				"value": "aço inoxidável; plástico"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "CA 9.704"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "180g"
+			}
+		]
+	},
+	{
+		"id": "vonder-vdo2251",
+		"name": "Vonder VDO2251",
+		"image": "/images/posts/melhor-abafador-de-ruidos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo mais leve da lista, com 94g",
+			"Conchas em polipropileno e arco em ABS",
+			"Haste regulável para ajustar o encaixe",
+			"Certificado CA 37.272 informado na ficha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "10dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Material do arco",
+				"value": "plástico ABS"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "CA 37.272"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "94g"
+			}
+		]
+	},
+	{
+		"id": "walker-s-razor",
+		"name": "Walker's Razor",
+		"image": "/images/posts/melhor-abafador-de-ruidos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Atenuação de 22dB em modelo eletrônico",
+			"Conchas de plástico com 100g",
+			"Haste regulável para ajustar o encaixe"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "22dB"
+			},
+			{
+				"label": "Material das conchas",
+				"value": "plástico"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			},
+			{
+				"label": "Peso",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "3m-peltor-x3a",
+		"name": "3M Peltor X3A",
+		"image": "/images/posts/melhor-abafador-de-ruidos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Atenuação entre 20dB e 23dB",
+			"Arco em aço inox com borracha revestida",
+			"Haste regulável e certificado C.A. 32.836 informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "concha"
+			},
+			{
+				"label": "Atenuação de ruído",
+				"value": "20dB a 23dB"
+			},
+			{
+				"label": "Material do arco",
+				"value": "aço inox e borracha revestida"
+			},
+			{
+				"label": "Normas atendidas",
+				"value": "C.A. 32.836"
+			},
+			{
+				"label": "Haste regulável",
+				"value": "sim"
+			}
+		]
+	}
+]

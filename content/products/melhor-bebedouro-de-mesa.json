@@ -1,0 +1,381 @@
+[
+	{
+		"id": "electrolux-pe12g-purificador",
+		"name": "Electrolux PE12G (purificador)",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída de água natural, fria e gelada",
+			"Reservatório interno de 0,8 litro",
+			"Painel touch para controle de temperatura",
+			"Abastecimento pela rede hidráulica",
+			"Alimentação bivolt e peso de 4,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "painel touch"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35 x 16 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "consul-cpb34as-purificador",
+		"name": "Consul CPB34AS (purificador)",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Água natural e gelada com abastecimento pela rede",
+			"Reservatório interno de 0,8 litro",
+			"Controle de temperatura por botões",
+			"Material externo em plástico",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37,6 x 26,1 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "cadence-aguo-beb110",
+		"name": "Cadence Aguô BEB110",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Refrigeração eletrônica com água natural e gelada",
+			"Abastecimento por galão",
+			"Controle de temperatura por botões",
+			"Uma torneira",
+			"Peso aproximado de 2,35kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 29 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-be11x",
+		"name": "Electrolux BE11X",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Água natural, fria e gelada com refrigeração eletrônica",
+			"Reservatório interno de 0,8 litro",
+			"Abastecimento por galão",
+			"Controle de temperatura por botões",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 29 x 37,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pbe15b",
+		"name": "Philco PBE15B",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas torneiras para servir com mais praticidade",
+			"Água natural e gelada por refrigeração eletrônica",
+			"Abastecimento por galão",
+			"Controle de temperatura por botões",
+			"Peso aproximado de 2,46kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "41 x 28,5 x 33,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,46kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "britania-bbe12p",
+		"name": "Britânia BBE12P",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Duas torneiras e reservatório interno de 0,8 litro",
+			"Água natural e gelada por refrigeração eletrônica",
+			"Abastecimento por galão",
+			"Controle de temperatura por botões",
+			"Alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "galão"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "2"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,8 x 28,5 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,469kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "midea-slimpure-purificador",
+		"name": "Midea SlimPure (purificador)",
+		"image": "/images/posts/melhor-bebedouro-de-mesa-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída de água natural, fria e gelada",
+			"Abastecimento pela rede hidráulica",
+			"Reservatório interno de 0,8 litro",
+			"Carcaça em polipropileno",
+			"Peso de 3kg e alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Sistema de refrigeração",
+				"value": "eletrônico"
+			},
+			{
+				"label": "Abastecimento",
+				"value": "rede hidráulica"
+			},
+			{
+				"label": "Saída de água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Reservatório interno",
+				"value": "0,8 litro"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "botões"
+			},
+			{
+				"label": "Torneiras",
+				"value": "1"
+			},
+			{
+				"label": "Material externo",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36 x 16,4 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,0kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

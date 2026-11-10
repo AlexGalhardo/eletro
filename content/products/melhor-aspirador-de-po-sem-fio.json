@@ -1,0 +1,350 @@
+[
+	{
+		"id": "liectroux-i7-pro-200w",
+		"name": "Liectroux i7 Pro 200W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Limpeza a seco, úmida e de líquidos em um só aparelho",
+			"Reservatório de 600mL para água limpa e 800mL para água suja",
+			"Filtro HEPA reutilizável e 10 pastilhas de limpeza",
+			"Duas escovas centrais e ferramenta de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "600mL (água limpa); 800mL (água suja)"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA reutilizável"
+			},
+			{
+				"label": "Tipo de limpeza",
+				"value": "seco, úmido e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "base de carregamento; reservatório de água limpa; reservatório de água suja; ferramenta de limpeza; 2 escovas centrais; 2 filtros HEPA; 10 pastilhas de limpeza"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "75dB"
+			},
+			{
+				"label": "Peso",
+				"value": "3,8kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erg25n-18v",
+		"name": "Electrolux ERG25N 18V",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona na vertical ou no modo portátil, com bateria",
+			"Bocal para cantos e frestas incluso",
+			"Filtro HEPA e base de carregamento inclusos",
+			"Reservatório de 420mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "420mL"
+			},
+			{
+				"label": "Potência",
+				"value": "18V"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Tipo de limpeza",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas; escova; filtro HEPA; base de carregamento"
+			},
+			{
+				"label": "Peso",
+				"value": "3,05kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "wap-eco-rapido-85w",
+		"name": "WAP Eco Rápido 85W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bocal múltiplo com rotação de 360°",
+			"Filtro HEPA lavável",
+			"Bico de canto e bico com escova inclusos",
+			"Reservatório de 700mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "700mL"
+			},
+			{
+				"label": "Potência",
+				"value": "85W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA (lavável)"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal múltiplo com rotação 360°; bico de canto; bico com escova; filtro HEPA"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "83dB"
+			},
+			{
+				"label": "Peso",
+				"value": "2,4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "oster-oasp630-90w",
+		"name": "Oster OASP630 90W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato vertical ou portátil, com bateria",
+			"Bocal para cantos e frestas e escova para limpeza",
+			"Filtro HEPA para partículas finas",
+			"Potência de 90W com reservatório de 500mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500mL"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Tipo de limpeza",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas; escova para limpeza"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "80dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,55kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "arno-x-force-flex-rh20-250w",
+		"name": "Arno X-FORCE FLEX RH20 250W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Escova para sofás e estofados inclusa",
+			"Escova Turbo Animal para uso com pelos de animais",
+			"Potência de 250W, a maior da lista",
+			"Bocal para frestas e rodapés e filtro extra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "450mL"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "escova para sofás e estofados; escova Turbo Animal; acessório para frestas e rodapés; 2 escovas grossas; filtro extra; base de carregamento"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg (portátil) e 2,2kg (vertical)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erg019-90w",
+		"name": "Electrolux ERG019 90W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 950mL, o maior da lista",
+			"Pode ser usado na vertical ou no modo portátil",
+			"Bocal para cantos e frestas incluso",
+			"Filtro HEPA e limpeza a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "950mL"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Tipo de limpeza",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	},
+	{
+		"id": "oster-white-duo-clean-oasp645-100w",
+		"name": "Oster White Duo Clean OASP645 100W",
+		"image": "/images/posts/melhor-aspirador-de-po-sem-fio-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vertical ou portátil, com bateria",
+			"Potência de 100W, a maior entre as Oster da lista",
+			"Bocal para cantos e frestas e escova para limpeza",
+			"Filtro HEPA para limpeza a seco"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "500mL"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Tipo de limpeza",
+				"value": "seco"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas; escova para limpeza"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "79dB"
+			},
+			{
+				"label": "Peso",
+				"value": "2,57kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria"
+			}
+		]
+	}
+]

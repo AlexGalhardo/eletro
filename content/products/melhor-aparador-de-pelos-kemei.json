@@ -1,0 +1,288 @@
+[
+	{
+		"id": "kemei-km-max5090",
+		"name": "Kemei KM-MAX5090",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria interna com autonomia de 1 hora",
+			"Seis pentes guia de 1 a 12mm",
+			"Lâmina em formato T com dentes curtos",
+			"Cabo USB Type-C para recarga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina em formato T com dentes curtos"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço carbono"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "6x pentes guia (1/2/3/6/9/12mm); cabo USB Type-C; escova de limpeza; pente para cabelo; bolsa de armazenamento"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "não"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "270g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2299",
+		"name": "Kemei KM-2299",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâminas DLC e cerâmica para o corte",
+			"Autonomia de 2 horas e recarga em 3 horas",
+			"Três pentes guia de 1 a 3mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas DLC (externas) e cerâmica (internas)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "DLC (carbono tipo diamante) e cerâmica"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3x pentes (1/2/3mm); protetor de lâmina; cabo carregador USB; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "kemei-shaver-km-6558",
+		"name": "Kemei Shaver KM-6558",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três plugues para aparador, shaver e nasal ou auricular",
+			"Autonomia de 1 hora com baterias recarregáveis",
+			"Lâminas de aço inoxidável e pente incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "baterias recarregáveis"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente; 3x plugues: aparador, shaver e nasal/auricular; cabo carregador USB; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2296",
+		"name": "Kemei KM-2296",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 4 horas",
+			"Oito pentes guia de 3 a 25mm",
+			"Base carregadora e lâminas DLC"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+4 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2,5 horas"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "DLC"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8x pentes (3/6/10/13/16/19/22/25mm); protetor de lâmina; cabo carregador USB; base carregadora; pincel de limpeza"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1910",
+		"name": "Kemei KM-1910",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina anticorte com revestimento deslizante",
+			"Pode ser usado no banho",
+			"Quatro pentes guia de 1 a 4mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1,5 hora"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâmina com tecnologia anticorte + revestimento deslizante"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes (1/2/3/4mm); cabo carregador; pincel de limpeza"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-6511",
+		"name": "Kemei KM-6511",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pode ser usado no banho",
+			"Lâminas com fina camada metálica para o corte",
+			"Peso aproximado de 350g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas com fina camada metálica (folhas)"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pente; escova de limpeza"
+			},
+			{
+				"label": "Pode ser usado no banho",
+				"value": "sim"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "350g"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2293",
+		"name": "Kemei KM-2293",
+		"image": "/images/posts/melhor-aparador-de-pelos-kemei-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sistema OGap super rente com lâminas DLC",
+			"Autonomia de 3 horas e recarga em 3 horas",
+			"Três pentes guia de 1 a 3mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria interna"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "3 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3 horas"
+			},
+			{
+				"label": "Sistema de corte",
+				"value": "lâminas DLC + cerâmica com revestimento em carbono + sistema OGap super rente"
+			},
+			{
+				"label": "Material das lâminas",
+				"value": "DLC (externas) e cerâmica (internas)"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3x pentes (1/2/3mm); protetor de lâmina; cabo carregador USB; pincel de limpeza"
+			}
+		]
+	}
+]

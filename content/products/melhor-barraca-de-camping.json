@@ -1,0 +1,440 @@
+[
+	{
+		"id": "nautika-indy-gt",
+		"name": "Nautika Indy GT",
+		"image": "/images/posts/melhor-barraca-de-camping-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coluna d'água de 2500mm, a maior da lista",
+			"Avanço e tela mosquiteiro",
+			"Capacidade para 4 pessoas com 1 janela",
+			"Bolsa de transporte e gancho para lanterna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "iglu"
+			},
+			{
+				"label": "Capacidade",
+				"value": "4 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "poliéster com poliuretano"
+			},
+			{
+				"label": "Material do piso",
+				"value": "polietileno"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "2500mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "sim"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "1"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "estacas; cordas; conjunto de varetas; bolsa de transporte; gancho para lanterna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "205 x 205 x 130cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "joyfox-ba-401",
+		"name": "Joyfox BA-401",
+		"image": "/images/posts/melhor-barraca-de-camping-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três janelas e tela mosquiteiro",
+			"Tecido Oxford 210D à prova d'água",
+			"Opção de 4 ou 8 pessoas",
+			"Peso de 3kg com saco para armazenamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "iglu"
+			},
+			{
+				"label": "Capacidade",
+				"value": "4 ou 8 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "tecido Oxford 210D à prova d’água"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "1500mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "sim"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "3"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "corda de vento; prego de solo; saco para armazenamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "155 x 240 x 240cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "mor-iglu-9035",
+		"name": "Mor IGLU 9035",
+		"image": "/images/posts/melhor-barraca-de-camping-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 1,86kg com sacola de nylon",
+			"Tela mosquiteiro e impermeabilização",
+			"Piso em polietileno tipo ráfia",
+			"Gancho para lanterna incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "iglu"
+			},
+			{
+				"label": "Capacidade",
+				"value": "4 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "poliéster"
+			},
+			{
+				"label": "Material do piso",
+				"value": "polietileno tipo ráfia"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "300mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "não"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "0"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "sacola de nylon; gancho para lanterna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 210 x 210cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,86kg"
+			}
+		]
+	},
+	{
+		"id": "joyfox-m427",
+		"name": "Joyfox M427",
+		"image": "/images/posts/melhor-barraca-de-camping-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Montagem instantânea para 4 ou 5 pessoas",
+			"Capa de chuva inclusa",
+			"Duas janelas e tela mosquiteiro",
+			"Coluna d'água de 1000mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "instantânea"
+			},
+			{
+				"label": "Capacidade",
+				"value": "4 ou 5 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "tecido 190T e plástico prateado"
+			},
+			{
+				"label": "Material do piso",
+				"value": "tecido Oxford e moldagem por compressão de PU"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "1000mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "não"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "2"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "cordas e endereços; capa de chuva; ganho no teto"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "135 x 210 x 240cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "nautika-panda",
+		"name": "Nautika Panda",
+		"image": "/images/posts/melhor-barraca-de-camping-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 1,7kg, o mais leve da lista",
+			"Impermeabilização e tela mosquiteiro",
+			"Sacola de transporte incluída"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "iglu"
+			},
+			{
+				"label": "Capacidade",
+				"value": "3 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "poliéster impermeabilizado com poliuretano e plástico"
+			},
+			{
+				"label": "Material do piso",
+				"value": "polietileno"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "600mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "não"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "0"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "estacas; cordas; varetas; sacola de transporte"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "115 x 160 x 205cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	},
+	{
+		"id": "coleman-amazonia",
+		"name": "Coleman Amazonia",
+		"image": "/images/posts/melhor-barraca-de-camping-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coluna d'água de 1500mm",
+			"Estacas rígidas e bolsa de transporte",
+			"Peso de 2,5kg para 2 pessoas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "iglu"
+			},
+			{
+				"label": "Capacidade",
+				"value": "2 pessoas"
+			},
+			{
+				"label": "Material do sobreteto",
+				"value": "poliéster"
+			},
+			{
+				"label": "Material do piso",
+				"value": "polietileno"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "1500mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "não"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "0"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bolsa de transporte; cordas; estacas rígidas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "173 x 305 x 244cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "joyfox-j-923",
+		"name": "Joyfox J-923",
+		"image": "/images/posts/melhor-barraca-de-camping-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro janelas e área de avanço",
+			"Coluna d'água de 2000mm",
+			"Lona de chuva e suportes inclusos",
+			"Capacidade para 5 a 6 pessoas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "instantânea"
+			},
+			{
+				"label": "Capacidade",
+				"value": "5 a 6 pessoas"
+			},
+			{
+				"label": "Material do piso",
+				"value": "tecido Oxford 210D"
+			},
+			{
+				"label": "Coluna d’água",
+				"value": "2000mm"
+			},
+			{
+				"label": "Impermeabilização",
+				"value": "sim"
+			},
+			{
+				"label": "Tela mosquiteiro",
+				"value": "sim"
+			},
+			{
+				"label": "Avanço",
+				"value": "sim"
+			},
+			{
+				"label": "Número de janelas",
+				"value": "4"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bolsa de transporte; espegues; cordas; suportes; lona de chuva"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "158 x 250 x 290cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	}
+]

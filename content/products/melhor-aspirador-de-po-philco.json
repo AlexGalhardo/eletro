@@ -1,0 +1,374 @@
+[
+	{
+		"id": "philco-pas26p-robo-aspirador",
+		"name": "Philco PAS26P (robô aspirador)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos para sólidos, líquidos e úmido",
+			"Filtro HEPA e controle remoto incluso",
+			"Mop incluso para limpeza úmida"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "robô"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "610L (sólidos) / 200L (líquidos)"
+			},
+			{
+				"label": "Potência",
+				"value": "35W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos; líquidos; úmido"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mop; controle remoto"
+			},
+			{
+				"label": "Peso",
+				"value": "2,754kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pas56-200w-vertical-sem-fio",
+		"name": "Philco PAS56 200W (vertical sem fio)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato vertical e portátil para uso sem fio",
+			"Bocal com escova e bocal para cantos e frestas",
+			"Filtro HEPA e reservatório de 1 litro",
+			"Nível de ruído de 79dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1L"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "—"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para cantos e frestas; bocal com escova"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "79dB"
+			},
+			{
+				"label": "Peso",
+				"value": "2,44kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philco-pas4000v-2000w-vertical-com-fio",
+		"name": "Philco PAS4000V 2000W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W, a maior da lista",
+			"Cabo de 5 metros e bocal para pisos e carpetes",
+			"Filtro HEPA e reservatório de 2 litros",
+			"Nível de ruído de 87dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "2L"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para pisos e carpetes"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "87dB"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pas70-1800w-convencional",
+		"name": "Philco PAS70 1800W (convencional)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 2,2 litros e filtro HEPA",
+			"Cabo de 3 metros e dois tubos prolongadores",
+			"Acessórios para cantos e para pisos e carpetes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "2,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "1800W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para cantos com escova; acessório para pisos e carpetes; 2 tubos prolongadores"
+			},
+			{
+				"label": "Peso",
+				"value": "4,74kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pas1600p-1450w-vertical-com-fio",
+		"name": "Philco PAS1600P 1450W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro ciclone e reservatório de 1,5 litro",
+			"Cabo de 5 metros e suporte para acessórios",
+			"Bocal para pisos, tapetes, carpetes e estofados",
+			"Nível de ruído de 87dB"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,5L"
+			},
+			{
+				"label": "Potência",
+				"value": "1450W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "Ciclone"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal para pisos, tapetes, carpetes e estofados; bocal para cantos, frestas e estofados; suporte para acessórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "87dB"
+			},
+			{
+				"label": "Peso",
+				"value": "1,75kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pas1450c-1300w-vertical-com-fio",
+		"name": "Philco PAS1450C 1300W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 1 litro e filtro HEPA",
+			"Cabo de 5 metros com acessórios para cantos e pisos",
+			"Potência de 1300W em formato vertical"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1L"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para cantos e frestas; acessório para pisos e carpetes"
+			},
+			{
+				"label": "Peso",
+				"value": "1,57kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pas06-1250w-vertical-com-fio",
+		"name": "Philco PAS06 1250W (vertical com fio)",
+		"image": "/images/posts/melhor-aspirador-de-po-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro ciclone e reservatório de 1,2 litro",
+			"Cabo de 4,6 metros e bocal com escova embutida",
+			"Acessório para estofados, tapetes e carpetes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "vertical e portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,2L"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "ciclone"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4,6 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "acessório para pisos, tapetes, carpetes e estofados; acessório para cantos com escova embutida"
+			},
+			{
+				"label": "Peso",
+				"value": "1,86kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

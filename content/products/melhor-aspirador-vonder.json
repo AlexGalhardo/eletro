@@ -1,0 +1,390 @@
+[
+	{
+		"id": "vonder-apv2460-2400w-convencional",
+		"name": "Vonder APV2460 2400W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2400W com reservatório de 60 litros",
+			"Aspira sólidos e líquidos com três tipos de filtro",
+			"Cabo de 4 metros com bocais para cantos e escova",
+			"Rodas e rodízios facilitam o deslocamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "60 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; pano lavável/reutilizável; esponja"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira flexível de sucção; 2 tubos extensores; bocal multiuso; bocal para cantos; bocal escova; 2 rodas; 2 rodízios; filtro de pano lavável/reutilizável; filtro esponja; filtro HEPA; clipe de apoio para acessórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "96dB"
+			},
+			{
+				"label": "Peso",
+				"value": "13,5kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-apv1460-1400w-convencional",
+		"name": "Vonder APV1460 1400W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 60 litros para esvaziar com menos frequência",
+			"Cabo de 5 metros para maior alcance",
+			"Ruído de 77 dB, o menor entre os modelos de 60 litros",
+			"Alça e rodas para movimentar o aparelho"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "60 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira flexível de sucção; 2 tubos extensores metálicos; 2 bocais multiuso; bocal escova redondo; porta-acessório; alça para movimentação; suporte para roda traseira; conjunto de rodas traseiras; 2 calotas; 2 rodízios giratórios; 2 suportes para rodízios; filtro HEPA; clipe de apoio para acessórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "77dB"
+			},
+			{
+				"label": "Peso",
+				"value": "16,5kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-elv400-400w-extratora-portatil",
+		"name": "Vonder ELV400 400W (extratora portátil)",
+		"image": "/images/posts/melhor-aspirador-vonder-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bocal 3 em 1 pulveriza, esfrega e extrai a sujeira",
+			"Extração de líquidos para estofados e tapetes",
+			"Nível de ruído de 84 dB",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "extratora portátil"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,3 litro"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "espuma"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3,3 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal simples; bocal 3 em 1 (pulveriza, esfrega e extrai); mangueira 1,5 metro"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "84dB"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-apv1230-1200w-convencional",
+		"name": "Vonder APV1230 1200W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 30 litros e cabo de 5,2 metros",
+			"Saco coletor de pano lavável reduz o uso de descartáveis",
+			"Bocais para cantos e escova para diferentes superfícies",
+			"Quatro rodízios para deslocar com facilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "30 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; filtro esponja; saco coletor de pó de pano lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5,2 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira flexível de sucção 1,5 metro; 2 tubos extensores; bocal para cantos/escova; bocal multiuso; saco coletor de pó de pano lavável; 4 rodízios; filtro esponja; filtro HEPA; clipe de apoio para acessórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "96dB (127V); 97dB (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-apv1010-1000w-convencional",
+		"name": "Vonder APV1010 1000W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de 10 litros para espaços menores",
+			"Aspira sólidos e líquidos com filtro HEPA",
+			"Três tubos extensores para alcançar pontos altos",
+			"Peso de 2,7 kg facilita o transporte entre cômodos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "10 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; esponja; saco coletor de pó de pano lavável"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4,3 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos e líquidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira flexível de sucção 1,2 metro; 3 tubos extensores; bocal cantos/escova; bocal multiuso; saco coletor de pó de pano lavável; 4 rodízios; filtro esponja; filtro HEPA; clipe de apoio para acessórios"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "95dB (127V); 94dB (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "2,7kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-apv1200-1200w-convencional",
+		"name": "Vonder APV1200 1200W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bocal para estofados e tubo telescópico para alcance",
+			"Mangueira de 2,5 metros para chegar aos cantos",
+			"Filtros HEPA, feltro e espuma para retenção de pó",
+			"Potência de 1200W com cabo de 5 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "HEPA; feltro; espuma"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mangueira de 2,5 metros; bocal para pisos; bocal para estofados; bocal para cantos; tubo prolongador telescópico"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "vonder-plus-apv1600-1600w-convencional",
+		"name": "Vonder Plus APV1600 1600W (convencional)",
+		"image": "/images/posts/melhor-aspirador-vonder-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aspira partículas finas além de sólidos e líquidos",
+			"Adaptadores para lixadeira e ferramentas elétricas",
+			"Sistema com água para retenção do pó",
+			"Potência de 1600W com reservatório de 30 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Formato",
+				"value": "convencional"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "30 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tipo de filtro",
+				"value": "saco coletor de pó; sistema com água; HEPA; espuma"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4 metros"
+			},
+			{
+				"label": "Modos de sucção",
+				"value": "sólidos, líquidos e partículas finas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo extensor; mangueira de sucção convencional; mangueira de sucção com mangueira pneumática; filtro HEPA; filtro de espuma; saco coletor de pó; adaptador para lixadeira; adaptador para ferramentas elétricas; bocal escova; bocal para cantos; bocal rodo para sólidos; bocal rodo para líquidos"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "89dB(A) (127V); 90dB(A) (220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

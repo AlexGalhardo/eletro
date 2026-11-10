@@ -1,0 +1,329 @@
+[
+	{
+		"id": "cardal-cromado-5t",
+		"name": "Cardal Cromado 5T",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 6500W com 220V ou 127V",
+			"Temperatura em 5 níveis, do frio ao super quente",
+			"Compatível com DR e proteção IP24",
+			"Pressão de funcionamento de 10 a 400kPa",
+			"Dimensões de 19 x 11,6 x 8,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "6500W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável em 5 níveis (frio, morno, quente, + quente e super quente)"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Extras",
+				"value": "compatível com DR (dispositivo diferencial residual); proteção IP24"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "10 a 400kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "19 x 11,6 x 8,5cm"
+			}
+		]
+	},
+	{
+		"id": "cardal-individual-4t",
+		"name": "Cardal Individual 4T",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"6400W em 220V e 5000W em 127V",
+			"Temperatura em 4 níveis, de frio a +quente",
+			"Compatível com DR e sistemas de energia solar",
+			"Pressão de funcionamento de 20 a 1000kPa",
+			"Peso aproximado de 1,22kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "6400W (220V); 5000W (127V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável em 4 níveis (frio, morno, quente e +quente)"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "compatível com DR (dispositivo diferencial residual); compatível com sistemas de energia solar; proteção IP24"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 1000kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 15,4 x 11,2cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1,22kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-versatil",
+		"name": "Lorenzetti Versátil",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 5500W e temperatura em 3 níveis",
+			"Resistência tipo refil e sistema de aterramento",
+			"Compatível com DR e proteção IP24",
+			"Dimensões de 18 x 12,2 x 12 cm",
+			"Pressão de funcionamento de 20k a 200kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável em 3 níveis"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "resistência tipo refil; proteção IP24; compatível com dispositivo diferencial residual (DR); sistema de aterramento"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20k a 200kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 12,2 x 12cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "718kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-maxi-ultra",
+		"name": "Lorenzetti Maxi Ultra",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"5500W em 220V e 4600W em 127V",
+			"Resistência Loren Ultra",
+			"Compatível com DR e proteção IP24",
+			"Temperatura em 2 níveis, liga e desliga",
+			"Pressão de funcionamento de 20 a 400kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W (220V); 4600W (127V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis (liga/desliga)"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "resistência Loren Ultra; compatível com DR (dispositivo diferencial residual); proteção IP24"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 400kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,9 x 10,2 x 15,3cm"
+			}
+		]
+	},
+	{
+		"id": "fame-0312",
+		"name": "Fame 0312",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"4800W ou 5400W em 220V e 4800W em 127V",
+			"Compatível com aquecimento solar e DR",
+			"Proteção IP24 e peso aproximado de 425g",
+			"Temperatura em 2 níveis, liga e desliga",
+			"Pressão de funcionamento de 20 a 200kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "4800W ou 5400W (220V); 4800W (127V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "2 níveis (liga/desliga)"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "compatível com sistema de aquecimento solar; compatível com dispositivo DR (dispositivo diferencial residual); proteção IP24"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 200kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "16,7 x 7,5 x 9cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "425g"
+			}
+		]
+	},
+	{
+		"id": "cardal-individual-plus",
+		"name": "Cardal Individual Plus",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"5200W em 220V e 5000W em 127V",
+			"Compatível com DR e aquecimento solar",
+			"Proteção IP24 e botão seletor",
+			"Pressão de funcionamento de 20 a 1000kPa",
+			"Peso aproximado de 1,07kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "220V ou 127V"
+			},
+			{
+				"label": "Potência",
+				"value": "5200W (220V); 5000W (127V)"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "compatível com dispositivo DR (dispositivo diferencial residual); proteção IP24; compatível com sistema de aquecimento solar"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 1000kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20,5 x 15,4 x 9,8cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "1,07kg"
+			}
+		]
+	},
+	{
+		"id": "ecotouch-eco140b",
+		"name": "Ecotouch ECO140B",
+		"image": "/images/posts/melhor-aquecedor-de-agua-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 14000W em 240V",
+			"Temperatura de até 43,3°C",
+			"Visor LED com controle digital touch",
+			"Proteção contra sobreaquecimento e IPX4",
+			"Sistema de automodulação e compatível com DR"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tensão",
+				"value": "240V"
+			},
+			{
+				"label": "Potência",
+				"value": "14000W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "até 43,3°C"
+			},
+			{
+				"label": "Controle",
+				"value": "digital touch com visor LED"
+			},
+			{
+				"label": "Extras",
+				"value": "proteção contra sobreaquecimento; proteção IPX4; sistema de automodulação; compatível com DR (dispositivo diferencial residual)"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40,3 x 28,2 x 8,8cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "6,4kg"
+			}
+		]
+	}
+]

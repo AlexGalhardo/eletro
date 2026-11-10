@@ -1,0 +1,355 @@
+[
+	{
+		"id": "lorenzetti-lz-3700-de-gn-ou-glp",
+		"name": "Lorenzetti LZ 3700 DE (GN ou GLP)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 860 kcal/min e bivolt automático",
+			"Display digital touch com temperatura ajustável",
+			"Programação para enchimento de banheira",
+			"Compatível com aquecimento solar e boiler",
+			"Modulação automática da chama e acendimento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aquecedor de água a gás (GN ou GLP)"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt automático"
+			},
+			{
+				"label": "Potência",
+				"value": "860kcal/min"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Controle",
+				"value": "display digital touch"
+			},
+			{
+				"label": "Extras",
+				"value": "acendimento automático; modulação automática da chama; controle eletrônico digital; sistema de exaustão inteligente; programação para enchimento de banheira; compatível com aquecimento solar e boiler; sensor de chama; termostato de segurança; funcionamento sem chama piloto"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "19,6 a 784,5kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,5 x 38,5 x 16cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "18,3kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-lz-1600-de-gn-ou-glp",
+		"name": "Lorenzetti LZ 1600 DE (GN ou GLP)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 348 kcal/min e bivolt automático",
+			"Display digital touch e exaustão forçada",
+			"Programação para enchimento de banheira",
+			"Compatível com aquecimento solar e boiler"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aquecedor de água a gás (GN ou GLP)"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt automático"
+			},
+			{
+				"label": "Potência",
+				"value": "348kcal/min"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Controle",
+				"value": "display digital touch"
+			},
+			{
+				"label": "Extras",
+				"value": "exaustão forçada; controle eletrônico digital; modulação automática da chama; sistema de exaustão inteligente; acendimento automático; programação para enchimento de banheira; compatível com aquecimento solar e boiler; sensor de chama; termostato de segurança; funcionamento sem chama piloto"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "14,7 a 784,5kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,5 x 34 x 17cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "9,14kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-lz-1600-n-gn-ou-glp",
+		"name": "Lorenzetti LZ 1600 N (GN ou GLP)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 358 kcal/min com botões giratórios",
+			"Visor digital de temperatura e dupla regulagem",
+			"Exaustão natural e acendimento automático",
+			"Compatível com aquecimento solar e boiler"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aquecedor de água a gás (GN ou GLP)"
+			},
+			{
+				"label": "Tensão",
+				"value": "2 pilhas de 1,5V tipo D"
+			},
+			{
+				"label": "Potência",
+				"value": "358kcal/min"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Controle",
+				"value": "botões giratórios"
+			},
+			{
+				"label": "Extras",
+				"value": "exaustão natural; visor digital de temperatura; dupla regulagem de temperatura; acendimento automático; sensor de chama; termostato de segurança; funcionamento sem chama piloto; compatível com aquecimento solar e boiler"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "9,8 a 784,5kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 35 x 20cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "11kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-versatil-torneira",
+		"name": "Lorenzetti Versátil (torneira)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento instantâneo com potência de 5500W",
+			"Temperatura ajustável em 3 níveis",
+			"Acionamento automático e compatível com DR",
+			"Proteção IP24 e instalação vertical ou horizontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torneira"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Potência",
+				"value": "5500W"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável em 3 níveis"
+			},
+			{
+				"label": "Controle",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Extras",
+				"value": "aquecimento instantâneo; acionamento automático; resistência tipo refil; compatível com DR (dispositivo diferencial residual); sistema de aterramento; proteção IP24; instalação vertical ou horizontal"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 200kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 x 12,2 x 12cm"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-lz-750-bp-gn-ou-glp",
+		"name": "Lorenzetti LZ 750 BP (GN ou GLP)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 176 kcal/min com funcionamento em baixa pressão",
+			"Chave verão/inverno e botão liga/desliga",
+			"Visor digital de temperatura e exaustão natural",
+			"Compatível com aquecimento solar e boiler"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aquecedor de água a gás (GN ou GLP)"
+			},
+			{
+				"label": "Tensão",
+				"value": "2 pilhas de 1,5V tipo D"
+			},
+			{
+				"label": "Potência",
+				"value": "176kcal/min"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Controle",
+				"value": "botões giratórios"
+			},
+			{
+				"label": "Extras",
+				"value": "exaustão natural; visor digital de temperatura; funcionamento em baixa pressão; chave verão/inverno; botão liga/desliga; acendimento automático; sensor de chama; termostato de segurança; funcionamento sem chama piloto; compatível com aquecimento solar e boiler"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "9,8 a 784,5kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "44 x 30 x 17cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "5,4kg"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-maxi-ultra-torneira",
+		"name": "Lorenzetti Maxi Ultra (torneira)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 4600W em 127V ou 220V e 5500W em 220V",
+			"Resistência Loren Ultra e redutor automático de pressão",
+			"Compatível com DR e proteção IP24",
+			"Temperatura ajustável em 2 níveis"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torneira"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Potência",
+				"value": "4600W (127V ou 220V); 5500W (220V)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável em 2 níveis"
+			},
+			{
+				"label": "Controle",
+				"value": "botão seletor"
+			},
+			{
+				"label": "Extras",
+				"value": "aquecimento instantâneo; resistência Loren Ultra; redutor automático de pressão; compatível com DR (dispositivo diferencial residual); sistema de aterramento; proteção IP24"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "20 a 400kPa"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-lz-2000-de-gn-ou-glp",
+		"name": "Lorenzetti LZ 2000 DE (GN ou GLP)",
+		"image": "/images/posts/melhor-aquecedor-de-agua-lorenzetti-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 473 kcal/min e bivolt automático",
+			"Display digital touch e modulação automática da chama",
+			"Programação para enchimento de banheira",
+			"Exaustão forçada e sistema de exaustão inteligente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "aquecedor de água a gás (GN ou GLP)"
+			},
+			{
+				"label": "Tensão",
+				"value": "bivolt automático"
+			},
+			{
+				"label": "Potência",
+				"value": "473kcal/min"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajustável"
+			},
+			{
+				"label": "Controle",
+				"value": "display digital touch"
+			},
+			{
+				"label": "Extras",
+				"value": "exaustão forçada; controle eletrônico digital; modulação automática da chama; sistema de exaustão inteligente; acendimento automático; programação para enchimento de banheira; compatível com aquecimento solar e boiler; sensor de chama; termostato de segurança; funcionamento sem chama piloto"
+			},
+			{
+				"label": "Pressão de funcionamento",
+				"value": "14,7 a 784,5kPa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "52,5 x 34 x 17cm"
+			},
+			{
+				"label": "Peso aproximado",
+				"value": "9,78kg"
+			}
+		]
+	}
+]

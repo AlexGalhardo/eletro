@@ -6,6 +6,10 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.4.3] - 2026-11-10
+
+- content: add imported review drafts (1/6)
+
 ## [2.4.2] - 2026-11-10
 
 - test: wait for the mobile menu to close before reopening it
@@ -465,7 +469,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.4.2...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.4.3...HEAD
+[2.4.3]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.4.2...v2.4.3
 [2.4.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.4.1...v2.4.2
 [2.4.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.4.0...v2.4.1
 [2.4.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.3.0...v2.4.0

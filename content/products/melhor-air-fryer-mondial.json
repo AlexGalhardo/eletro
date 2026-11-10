@@ -1,0 +1,184 @@
+[
+	{
+		"id": "mondial-afdo-25l-fd-25-litros-2200w",
+		"name": "Mondial AFDO-25L-FD (25 litros) 2200W",
+		"image": "/images/posts/melhor-air-fryer-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 25 litros e porta French Door",
+			"Tecnologia Dualzone e função sincronizar",
+			"Painel digital touch colorido",
+			"Vidro duplo e iluminação interna",
+			"Dez funções predefinidas e aviso sonoro"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "25 litros" },
+			{ "label": "Potência", "value": "2000W (127V) / 2200W (220V)" },
+			{ "label": "Controle de temperatura", "value": "até 220°C" },
+			{ "label": "Tempo máximo de programação", "value": "90 minutos" },
+			{ "label": "Tipo de painel", "value": "digital touch colorido" },
+			{ "label": "Funções especiais", "value": "timer; aviso sonoro; 10 funções predefinidas; tecnologia Dualzone; função sincronizar; iluminação interna; porta French Door; vidro duplo; desligamento automático; revestimento antiaderente" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "39,5 x 40 x 40cm" },
+			{ "label": "Peso", "value": "11,6kg" }
+		]
+	},
+	{
+		"id": "mondial-afo-25l-bi-25-litros-2000w",
+		"name": "Mondial AFO-25L-BI (25 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função air fryer e forno em um",
+			"Doze funções programadas e termostato inteligente",
+			"Função turbo e iluminação interna",
+			"Programação de até 90 minutos",
+			"Peso de 8,4kg e dimensões de 36,5 x 41 x 45cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "25 litros" },
+			{ "label": "Potência", "value": "2000W" },
+			{ "label": "Controle de temperatura", "value": "até 220°C" },
+			{ "label": "Tempo máximo de programação", "value": "90 minutos" },
+			{ "label": "Tipo de painel", "value": "digital" },
+			{ "label": "Funções especiais", "value": "função air fryer + forno; 12 funções programadas; termostato inteligente; desligamento automático; aviso sonoro; iluminação interna; função turbo" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "36,5 x 41 x 45cm" },
+			{ "label": "Peso", "value": "8,4kg" }
+		]
+	},
+	{
+		"id": "mondial-afon-12l-bi-12-litros-2000w",
+		"name": "Mondial AFON-12L-BI (12 litros) 2000W",
+		"image": "/images/posts/melhor-air-fryer-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função air fryer e forno com porta de amplo visor",
+			"Função reaquecer e 10 funções programadas",
+			"Revestimento antiaderente Duraflon e desligamento automático",
+			"Iluminação interna e aviso sonoro",
+			"Peso de 7,62kg e dimensões de 39 x 32 x 36cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "12 litros" },
+			{ "label": "Potência", "value": "2000W (127V) / 2200W (220V)" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "90 minutos" },
+			{ "label": "Tipo de painel", "value": "digital" },
+			{ "label": "Funções especiais", "value": "função air fryer + forno; 10 funções programadas; iluminação interna; porta com amplo visor; cesto de 5 litros; tecnologia antiaderente Duraflon; desligamento automático; aviso sonoro; função reaquecer" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "39 x 32 x 36cm" },
+			{ "label": "Peso", "value": "7,62kg" }
+		]
+	},
+	{
+		"id": "mondial-afn-80-bi-8-litros-1900w",
+		"name": "Mondial AFN-80-BI (8 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cesto removível e tecnologia Duraflon",
+			"Painel analógico com timer",
+			"Potência de 1900W e temperatura até 200°C",
+			"Desligamento automático e aviso sonoro",
+			"Peso de 7,1kg e dimensões de 32,5 x 35 x 45cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8 litros" },
+			{ "label": "Potência", "value": "1900W" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "cesto removível; tecnologia antiaderente Duraflon; timer; desligamento automático; aviso sonoro" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "32,5 x 35 x 45cm" },
+			{ "label": "Peso", "value": "7,1kg" }
+		]
+	},
+	{
+		"id": "mondial-afn-50-bi-5-litros-1900w",
+		"name": "Mondial AFN-50-BI (5 litros) 1900W",
+		"image": "/images/posts/melhor-air-fryer-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia antiaderente Duraflon com timer",
+			"Potência de 1900W e capacidade de 5 litros",
+			"Desligamento automático e aviso sonoro",
+			"Painel analógico com programação de 60 minutos",
+			"Peso de 4,68kg e dimensões de 33 x 28,5 x 36cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "5 litros" },
+			{ "label": "Potência", "value": "1900W" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "tecnologia antiaderente Duraflon; timer; desligamento automático; aviso sonoro" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "33 x 28,5 x 36cm" },
+			{ "label": "Peso", "value": "4,68kg" }
+		]
+	},
+	{
+		"id": "mondial-af-30-i-3-5-litros-1500w",
+		"name": "Mondial AF-30-I (3,5 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3,5 litros e potência de 1500W",
+			"Tecnologia antiaderente Duraflon",
+			"Timer e desligamento automático",
+			"Aviso sonoro e painel analógico",
+			"Peso de 3,90kg e dimensões de 31 x 27,5 x 32,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "3,5 litros" },
+			{ "label": "Potência", "value": "1500W" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "analógico" },
+			{ "label": "Funções especiais", "value": "tecnologia antiaderente Duraflon; timer; desligamento automático; aviso sonoro" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "31 x 27,5 x 32,5cm" },
+			{ "label": "Peso", "value": "3,90kg" }
+		]
+	},
+	{
+		"id": "mondial-afd-01-bi-8-litros-2200w",
+		"name": "Mondial AFD-01-BI (8 litros) 2200W",
+		"image": "/images/posts/melhor-air-fryer-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Dualzone e 11 funções pré-programadas",
+			"Potência de 2200W em 220V",
+			"Painel digital com timer",
+			"Tecnologia antiaderente Duraflon",
+			"Dimensões de 30,7 x 38,2 x 37,8cm e peso de 7kg"
+		],
+		"technicalDetails": [
+			{ "label": "Capacidade", "value": "8 litros" },
+			{ "label": "Potência", "value": "2000W (127V) / 2200W (220V)" },
+			{ "label": "Controle de temperatura", "value": "até 200°C" },
+			{ "label": "Tempo máximo de programação", "value": "60 minutos" },
+			{ "label": "Tipo de painel", "value": "digital" },
+			{ "label": "Funções especiais", "value": "tecnologia Dualzone; 11 funções pré-programadas; tecnologia antiaderente Duraflon; timer; desligamento automático; aviso sonoro" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "30,7 x 38,2 x 37,8cm" },
+			{ "label": "Peso", "value": "7kg" }
+		]
+	}
+]

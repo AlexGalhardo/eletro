@@ -1,0 +1,357 @@
+[
+	{
+		"id": "cadence-classicook-fryer-frt700-9-litros-1500w",
+		"name": "Cadence Classicook Fryer FRT700 (9 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-cadence-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 9 litros, a maior desta lista",
+			"Funciona como forno e fritadeira",
+			"Prateleira e grelha com alturas ajustáveis",
+			"Bandeja coletora de migalhas e pés antiderrapantes",
+			"Timer ajustável com aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "9 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "90°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; aviso sonoro; seletor de temperatura; visor transparente; indicador luminoso; revestimento antiaderente; prateleira e grelha com alturas ajustáveis; bandeja coletora de migalhas; pés antiderrapantes; funciona como forno e fritadeira"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,6 x 27,8 x 28,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-super-cook-fryer-frt410-3-8-litros-1300w",
+		"name": "Cadence Super Cook Fryer FRT410 (3,8 litros) 1300W",
+		"image": "/images/posts/melhor-air-fryer-cadence-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3,8 litros e potência de 1300W",
+			"Timer ajustável de até 60 minutos",
+			"Seletor de temperatura de 80°C a 200°C",
+			"Revestimento antiaderente e painel analógico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; seletor de temperatura; revestimento antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,5 x 28 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,25kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-delicook-fryer-show-frt430-4-1-litros-1350w",
+		"name": "Cadence Delicook Fryer Show FRT430 (4,1 litros) 1350W",
+		"image": "/images/posts/melhor-air-fryer-cadence-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Visor transparente e iluminação interna para acompanhar o preparo",
+			"Grelha Easy Clean removível para a limpeza",
+			"Desligamento automático e LED indicador de funcionamento",
+			"Timer de até 60 minutos com aviso sonoro",
+			"Pés antiderrapantes na base"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; aviso sonoro; seletor de temperatura; visor transparente; iluminação interna; LED indicador de funcionamento; desligamento automático; grelha Easy Clean removível; revestimento antiaderente; pés antiderrapantes"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 24 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,42kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-delicook-fryer-frt420-4-2-litros-1350w",
+		"name": "Cadence Delicook Fryer FRT420 (4,2 litros) 1350W",
+		"image": "/images/posts/melhor-air-fryer-cadence-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,2 litros e potência de 1350W",
+			"Funções para descongelar e reaquecer",
+			"Grelha Easy Clean removível para a limpeza",
+			"Desligamento automático e LED indicador de funcionamento",
+			"Timer ajustável com aviso sonoro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "4,2 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1350W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; aviso sonoro; seletor de temperatura; desligamento automático; LED indicador de funcionamento; grelha Easy Clean removível; revestimento antiaderente; funções para descongelar e reaquecer; pés antiderrapantes"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 25 x 29,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,34kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-super-light-fryer-frt555-3-8-litros-1500w",
+		"name": "Cadence Super Light Fryer FRT555 (3,8 litros) 1500W",
+		"image": "/images/posts/melhor-air-fryer-cadence-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W em capacidade de 3,8 litros",
+			"Timer ajustável de até 30 minutos",
+			"Luz indicadora e seletor de temperatura",
+			"Revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3,8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "30 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; luz indicadora; seletor de temperatura; revestimento antiaderente"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,5 x 28 x 32cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,53kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-contrast-cook-fryer-frt526-3-litros-1250w",
+		"name": "Cadence Contrast Cook Fryer FRT526 (3 litros) 1250W",
+		"image": "/images/posts/melhor-air-fryer-cadence-6.webp",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Painel digital com 7 funções pré-programadas",
+			"Cesto antiaderente e removível para lavar",
+			"Capacidade de 3 litros e potência de 1250W",
+			"Faixa de 80°C a 200°C para diferentes receitas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "3 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "7 funções pré-programadas; cesto antiaderente e removível"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 31 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-cook-fryer-frt525-2-6-litros-1250w",
+		"name": "Cadence Cook Fryer FRT525 (2,6 litros) 1250W",
+		"image": "/images/posts/melhor-air-fryer-cadence-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 2,6 litros, a menor desta lista",
+			"7 níveis de temperatura para ajustar o preparo",
+			"Timer ajustável de até 30 minutos com aviso sonoro",
+			"Potência de 1250W e faixa de 90°C a 200°C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "2,6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "90°C a 200°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "30 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "timer ajustável; aviso sonoro; 7 níveis de temperatura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,401 @@
+[
+	{
+		"id": "cadence-aqc260-1500w",
+		"name": "Cadence AQC260 1500W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Área de cobertura de 15m² com ajuste progressivo",
+			"Três níveis de potência em 1500W",
+			"Funcionamento silencioso",
+			"Desligamento automático para mais segurança",
+			"Rodinhas e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "15m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema de desligamento automático"
+			},
+			{
+				"label": "Extras",
+				"value": "funcionamento silencioso; 3 níveis de potência; alça de transporte; rodinhas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "63,0 x 23,7 x 35,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,2kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-06-1500w",
+		"name": "Mondial A-06 1500W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Área de cobertura de 16m² com ajuste progressivo",
+			"Termostato com regulagem manual",
+			"Sistema antiqueda com desligamento automático",
+			"Funcionamento silencioso e três níveis de potência",
+			"Rodízios e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil a óleo"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "16m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda com desligamento automático"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Material externo",
+				"value": "PP (polipropileno)"
+			},
+			{
+				"label": "Extras",
+				"value": "regulagem por termostato; funcionamento silencioso; desligamento automático em caso de quedas; rodízios; alça para transporte; três níveis de potência"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,5 x 24,5 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-08-2000w",
+		"name": "Mondial A-08 2000W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W em 220V",
+			"Área de cobertura de 12m² com ajuste em 2 níveis",
+			"Protetor térmico e grade protetora",
+			"Circulação de ar e função desumidificador",
+			"Peso de 860g e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil com ventoinha"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 2000W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "12m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda; protetor térmico; grade protetora"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "circulação de ar; desumidificador; sistema de segurança; alça para transporte; lâmpada piloto"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,5 x 22 x 13,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "860g"
+			}
+		]
+	},
+	{
+		"id": "mondial-a-05-1500w",
+		"name": "Mondial A-05 1500W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Área de cobertura de 12m² ou 25m²",
+			"Circulação de ar e função desumidificador",
+			"Sistema antiqueda e desligamento automático",
+			"Termostato com regulagem manual",
+			"Grade protetora e lâmpada piloto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil com ventoinha"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "12m² ou 25m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema antiqueda; desligamento automático; grade protetora"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Extras",
+				"value": "circulação de ar; desumidificador; lâmpada piloto; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 17 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,50kg"
+			}
+		]
+	},
+	{
+		"id": "cadence-new-auros-1800w",
+		"name": "Cadence New Auros 1800W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1800W em 220V",
+			"Proteção contra picos de energia e superaquecimento",
+			"Termostato e ajuste em 2 níveis",
+			"Circulação de ar e função desumidificador",
+			"Lâmpada de funcionamento e grade protetora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil com ventoinha"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W (127V) ou 1800W (220V)"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "grade protetora; proteção contra picos de energia e superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "circulação de ar; desumidificador; lâmpada de funcionamento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 23,5 x 11cm"
+			},
+			{
+				"label": "Peso",
+				"value": "850g"
+			}
+		]
+	},
+	{
+		"id": "wap-air-heat-ceramic-1500w",
+		"name": "WAP Air Heat Ceramic 1500W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Área de cobertura de 20m² com 2 níveis de calor",
+			"Oscilação horizontal e circulação de ar",
+			"Protetor térmico e desligamento automático por queda",
+			"Indicador luminoso e alça para transporte",
+			"Grade protetora e desumidificador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil com ventoinha"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "2 níveis de calor"
+			},
+			{
+				"label": "Área de cobertura",
+				"value": "20m²"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "protetor térmico; desligamento automático por queda; grade protetora; polímero aditivado; termostato"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim, com regulagem manual"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico"
+			},
+			{
+				"label": "Extras",
+				"value": "oscilação horizontal; alça para transporte; indicador luminoso; circulação de ar; desumidificador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 14 x 16,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,38kg"
+			}
+		]
+	},
+	{
+		"id": "britania-ab1200n-1500w",
+		"name": "Britânia AB1200N 1500W",
+		"image": "/images/posts/melhor-aquecedor-eletrico-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de temperatura progressivo",
+			"Sistema contra superaquecimento",
+			"Função ventilador além do aquecimento",
+			"Termostato para controlar a temperatura",
+			"Luz indicadora e alça para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil com ventoinha"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Ajuste de temperatura",
+				"value": "sim (progressivo)"
+			},
+			{
+				"label": "Dispositivo de segurança",
+				"value": "sistema contra superaquecimento"
+			},
+			{
+				"label": "Termostato",
+				"value": "sim"
+			},
+			{
+				"label": "Material externo",
+				"value": "plástico e metal"
+			},
+			{
+				"label": "Extras",
+				"value": "função ventilador; luz indicadora de funcionamento; alça para transporte"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 22 x 13,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "988g"
+			}
+		]
+	}
+]

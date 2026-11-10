@@ -1,0 +1,284 @@
+[
+	{
+		"id": "polishop-ichef-ovenfryer-max-1300w-26-litros",
+		"name": "Polishop Ichef Ovenfryer Max 1300W (26 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 26 litros para preparos em maior quantidade",
+			"Espeto rotisserie para assados",
+			"Quatro resistências superiores e duas inferiores",
+			"Controle de temperatura até 230°C e timer de 60 minutos",
+			"Bandeja coletora de gordura e interior antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "26 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 230°C"
+			},
+			{
+				"label": "Tempo máximo de programação",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "analógico (botões giratórios)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema Max AirFlow; espeto rotisserie; 4 resistências superiores + 2 inferiores; iluminação interna; interior antiaderente; bandeja coletora de gordura; funções de assar, grelhar, tostar e dourar; timer com desligamento automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "37 x 40 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,54kg"
+			}
+		]
+	},
+	{
+		"id": "polishop-ichef-max-space-1700w-8-litros",
+		"name": "Polishop Ichef Max Space 1700W (8 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Circulação de ar quente 360° para preparo mais uniforme",
+			"A.Ichef sugere receitas por QR code",
+			"Gaveta Long Slim e grade antiaderente livre de PFOA",
+			"Painel touch com 7 funções e aviso na metade do preparo",
+			"Trava de segurança e visor inteligente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "80°C a 200°C"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital (touch)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema A.Ichef (inteligência artificial com sugestões de receitas via QR code); tecnologia Even Crisp; circulação de ar quente 360°; gaveta Long Slim; grade removível antiaderente livre de PFOA; painel touch com 7 funções pré-programadas; visor inteligente; iluminação interna; aviso sonoro na metade do preparo; trava de segurança"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 46 x 27cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			}
+		]
+	},
+	{
+		"id": "polishop-ichef-smart-vision-1500w-6-litros",
+		"name": "Polishop Ichef Smart Vision 1500W (6 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito funções de preparo e função manter aquecido",
+			"Função desidratar para preparar alimentos secos",
+			"Gaveta compatível com lava-louças para limpeza mais prática",
+			"Visor inteligente e display touch",
+			"Tamanho compacto: 31 x 26 x 31 cm e 3,5 kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "6 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital (touch)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema A.Ichef; tecnologia Even Crisp; visor inteligente; 8 funções de preparo; função manter aquecido; função desidratar; display touch; revestimento antiaderente Polishop; gaveta compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31 x 26 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			}
+		]
+	},
+	{
+		"id": "polishop-ichef-master-kitchen-1750w-13-litros",
+		"name": "Polishop Ichef Master Kitchen 1750W (13 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três em um: airfryer, forno e forno de pizza",
+			"Forno de pizza com temperatura de até 380°C",
+			"Pedra refratária e seis modos de pizza pré-programados",
+			"Dupla resistência com ajuste independente",
+			"Superisolamento térmico e proteção contra superaquecimento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "13 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1750W (127V) / 2100W (220V)"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "até 380°C (modo pizza)"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital (touch)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "3 em 1 (airfryer, forno e forno de pizza); modo pizza com pedra refratária; 6 modos de pizza pré-programados; dupla resistência com ajuste independente; funções de assar, gratinar, tostar e desidratar; iluminação interna; visor frontal e superior; superisolamento térmico; proteção contra superaquecimento; base antiderrapante; modo stand-by automático"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 41 x 52cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12kg"
+			}
+		]
+	},
+	{
+		"id": "polishop-ichef-dualzone-2200w-10-5-litros",
+		"name": "Polishop Ichef Dualzone 2200W (10,5 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo duplo com divisória removível e sincronização de tempo",
+			"Potência de 2200W, a maior da lista",
+			"Nove funções pré-programadas e função reaquecer",
+			"A.Ichef com sugestões de receitas via QR code",
+			"Função manter aquecido e desidratar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10,5 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital (touch)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema Dualzone com preparo duplo; divisória removível; sincronização de tempo; A.Ichef (inteligência artificial via QR code); tecnologia Even Crisp; função manter aquecido; 9 funções pré-programadas; função desidratar; função reaquecer; revestimento antiaderente; controle de tempo e temperatura"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "polishop-ichef-space-vision-max-1700w-5-7-litros",
+		"name": "Polishop Ichef Space Vision Max 1700W (5,7 litros)",
+		"image": "/images/posts/melhor-air-fryer-polishop-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Visor inteligente transparente para acompanhar o preparo",
+			"Sete funções pré-programadas em painel digital touch",
+			"Gaveta compatível com lava-louças",
+			"Compacta: 5,7 litros em 30 x 28 x 35 cm",
+			"Revestimento antiaderente Polishop"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "5,7 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Tipo de painel",
+				"value": "digital (touch screen)"
+			},
+			{
+				"label": "Funções especiais",
+				"value": "sistema A.Ichef; tecnologia Even Crisp; visor inteligente transparente; função manter aquecido; função desidratar; 7 funções pré-programadas; painel digital touch; revestimento antiaderente Polishop; gaveta compatível com lava-louças"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 28 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,7kg"
+			}
+		]
+	}
+]
