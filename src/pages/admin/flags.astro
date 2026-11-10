@@ -1,7 +1,7 @@
 ---
 import { ui } from "#lib/admin/api.ts";
 import { BROWSER_FLAGS, flagDefaults } from "#lib/flags.ts";
-import { getPostStatusRows } from "#lib/server/content.ts";
+import { getPostStatusRows, showDrafts } from "#lib/server/content.ts";
 import { site } from "#lib/site.config.ts";
 import Root from "../../layouts/Root.astro";
 
@@ -9,7 +9,7 @@ import Root from "../../layouts/Root.astro";
 // what this browser shows (localStorage); the committed defaults live in content/flags.json.
 const rows = getPostStatusRows().sort((a, b) => Number(b.draft) - Number(a.draft) || a.slug.localeCompare(b.slug));
 const hrefOf = (slug: string, draft: boolean): string | null =>
-	!draft ? `/${slug}` : flagDefaults.previewDrafts ? `/preview/${slug}` : null;
+	!draft || showDrafts ? `/${slug}` : flagDefaults.previewDrafts ? `/preview/${slug}` : null;
 const drafts = rows.filter((row) => row.draft).length;
 ---
 
@@ -35,6 +35,10 @@ const drafts = rows.filter((row) => row.draft).length;
 			<p class="mt-2 text-sm">
 				Prévia dos rascunhos em <code>/preview/&lt;slug&gt;</code>:
 				<strong>{flagDefaults.previewDrafts ? "ligada" : "desligada"}</strong>
+			</p>
+			<p class="mt-1 text-sm">
+				Rascunhos no site como se publicados (<code>showDrafts</code> ou <code>SHOW_DRAFTS=1</code>):
+				<strong>{showDrafts ? "ligada" : "desligada"}</strong>
 			</p>
 		</section>
 

@@ -16,12 +16,14 @@ O código fica em `src/lib/flags.ts`: `flagDefaults` guarda os valores padrão, 
 | Flag | Tipo | Valor no repositório | Efeito |
 |---|---|---|---|
 | `previewDrafts` | Do projeto | `true` | O build gera `/preview/<slug>` para rascunhos e posts agendados |
+| `showDrafts` | Do projeto | `false` | Rascunhos e posts agendados aparecem no site como se publicados: home, categorias da barra lateral, busca e `/<slug>`, com `noindex`. Sitemap, `llms.txt`, API e dashboard de links continuam só com os publicados. Também liga com `SHOW_DRAFTS=1` no build |
 | `allStoreButtons` | De navegador | `false` | Os cartões mostram os três botões (Mercado Livre, Shopee e Amazon) mesmo com link `"#"`. O botão sem link real aponta para a oferta padrão |
 
 ## Como ligar
 
 - **No navegador:** abra `/admin/flags` e marque a flag. Vale só naquele navegador.
 - **No projeto:** edite `content/flags.json`, commite e espere o deploy. Para tirar a prévia do ar, use `previewDrafts: false`.
+- **Só na sua máquina:** `SHOW_DRAFTS=1 bunx astro build && bunx astro preview` mostra os mais de 500 rascunhos como se publicados, sem mudar o arquivo. Ligar `showDrafts` no repositório publica os rascunhos no GitHub Pages para todo mundo (com `noindex`).
 
 `/admin/flags` também lista todos os posts, com rascunhos primeiro. Cada item leva a `/<slug>` ou a `/preview/<slug>`, com draft, produtos, links e pendentes. Tem busca e filtro.
 

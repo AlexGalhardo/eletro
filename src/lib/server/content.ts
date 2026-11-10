@@ -1,7 +1,7 @@
 import type { CatalogueProduct } from "../affiliate-links.ts";
 import { buildCatalogue } from "../content/affiliate.ts";
 import { coverWidths as widthsOf } from "../content/cover.ts";
-import { isPublished, parsePost, referencedLists } from "../content/parse.ts";
+import { isPublished, parsePost, referencedLists, visiblePosts } from "../content/parse.ts";
 import { type PostStatusRow, postStatusRow } from "../content/post-status.ts";
 import { renderPostBody } from "../content/render-body.ts";
 import { type Post, type Product, productListSchema } from "../content/schema.ts";
@@ -46,6 +46,18 @@ export function getPosts(): Post[] {
 export function getPost(slug: string): { post: Post; body: string } | undefined {
 	const entry = parsed.find((candidate) => candidate.post.slug === slug);
 	return entry && isPublished(entry.post) ? entry : undefined;
+}
+
+/** `showDrafts` from content/flags.json, or SHOW_DRAFTS=1 for a local build without touching the file. */
+export const showDrafts: boolean = flagDefaults.showDrafts || process.env.SHOW_DRAFTS === "1";
+
+/** What visitors browse (home, categories, search, /<slug>): the published posts, plus drafts under `showDrafts`. */
+export function getSitePosts(): Post[] {
+	return visiblePosts(parsed, showDrafts).map((entry) => entry.post);
+}
+
+export function getSitePost(slug: string): { post: Post; body: string } | undefined {
+	return visiblePosts(parsed, showDrafts).find((entry) => entry.post.slug === slug);
 }
 
 /** What the post page component needs, for the public page and for the draft preview alike. */

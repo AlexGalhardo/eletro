@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { isPublished, parsePost, referencedLists, serializePost } from "./parse.ts";
+import { isPublished, parsePost, referencedLists, serializePost, visiblePosts } from "./parse.ts";
 
 const raw = `---
 title: "Melhor Air Fryer"
@@ -88,5 +88,24 @@ describe("referencedLists", () => {
 			"dois",
 		]);
 		expect(referencedLists("sem componentes")).toEqual([]);
+	});
+});
+
+describe("visiblePosts", () => {
+	const now = new Date("2026-11-10T12:00:00Z");
+	const entries = [
+		{ post: { slug: "live", draft: false, date: "2026-11-01" } },
+		{ post: { slug: "draft", draft: true, date: "2026-11-01" } },
+		{ post: { slug: "scheduled", draft: false, date: "2026-12-01" } },
+	];
+	const slugs = (showDrafts: boolean) =>
+		visiblePosts(entries, showDrafts, now).map((entry) => entry.post.slug);
+
+	it("shows only published posts by default", () => {
+		expect(slugs(false)).toEqual(["live"]);
+	});
+
+	it("shows drafts and scheduled posts when showDrafts is on", () => {
+		expect(slugs(true)).toEqual(["live", "draft", "scheduled"]);
 	});
 });
