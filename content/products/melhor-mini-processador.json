@@ -1,0 +1,191 @@
+[
+	{
+		"id": "kitchenaid-empire-red-kja03bv-800ml-240w",
+		"name": "KitchenAid Empire Red KJA03BV 800mL 240W",
+		"image": "/images/posts/melhor-mini-processador-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 800mL com potência de 240W",
+			"Função pulsar e alavanca de seleção de velocidade",
+			"Lâmina multiuso de aço inoxidável",
+			"Processar, picar, triturar, fatiar e misturar",
+			"Trava de segurança e dimensões de 22,2 x 17,8 x 14,3cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "240W" },
+			{ "label": "Capacidade", "value": "800mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "processar, picar, triturar, fatiar e misturar" },
+			{ "label": "Acessórios", "value": "lâmina multiuso de aço inoxidável" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão PULSE/ON + alavanca de seleção de velocidade" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "22,2 x 17,8 x 14,3cm" }
+		]
+	},
+	{
+		"id": "oster-ompr670-700ml-300w",
+		"name": "Oster OMPR670 700mL 300W",
+		"image": "/images/posts/melhor-mini-processador-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 300W com disco em inox",
+			"Funções de cortar, ralar e moer",
+			"Trava de segurança no botão giratório",
+			"Capacidade de 700mL com dois níveis de velocidade",
+			"Dimensões de 16,2 x 16,8 x 33,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "300W" },
+			{ "label": "Capacidade", "value": "700mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "cortar, ralar, triturar, picar e moer" },
+			{ "label": "Acessórios", "value": "disco em inox (ralar/fatiar)" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "16,2 x 16,8 x 33,5cm" }
+		]
+	},
+	{
+		"id": "mondial-mp-16-b-500ml-300w",
+		"name": "Mondial MP-16-B 500mL 300W",
+		"image": "/images/posts/melhor-mini-processador-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 300W e capacidade de 500mL",
+			"Funções de picar, moer, fatiar e ralar",
+			"Lâmina em aço inox e trava de segurança",
+			"Jarra de polipropileno com botão giratório",
+			"Dimensões de 23,5 x 18 x 15,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "300W" },
+			{ "label": "Capacidade", "value": "500mL" },
+			{ "label": "Velocidade", "value": "1 nível + função pulsar" },
+			{ "label": "Funções", "value": "picar, moer, fatiar, triturar e ralar" },
+			{ "label": "Acessórios", "value": "lâmina em aço inox" },
+			{ "label": "Tipo de jarra", "value": "polipropileno" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "23,5 x 18 x 15,5cm" }
+		]
+	},
+	{
+		"id": "britania-2p-360ml-160w",
+		"name": "Britânia 2P 360mL 160W",
+		"image": "/images/posts/melhor-mini-processador-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 360mL para porções pequenas",
+			"Função triturar com botão simples",
+			"Trava de segurança e lâmina de aço inoxidável",
+			"Dimensões de 14,6 x 20 x 10,5cm",
+			"Função pulsar com acionamento por botão"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "160W" },
+			{ "label": "Capacidade", "value": "360mL" },
+			{ "label": "Velocidade", "value": "função pulsar" },
+			{ "label": "Funções", "value": "triturar" },
+			{ "label": "Acessórios", "value": "lâmina em aço inoxidável" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "14,6 x 20 x 10,5cm" }
+		]
+	},
+	{
+		"id": "cadence-easy-cut-mpr520-350ml-100w",
+		"name": "Cadence Easy Cut MPR520 350mL 100W",
+		"image": "/images/posts/melhor-mini-processador-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento pela tampa e função pulsar",
+			"Lâminas em aço inoxidável para cortar e picar",
+			"Trava de segurança e jarra de plástico",
+			"Dimensões de 14 x 18 x 12cm",
+			"Potência de 100W, a menor da lista"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "100W" },
+			{ "label": "Capacidade", "value": "350mL" },
+			{ "label": "Velocidade", "value": "função Pulsar" },
+			{ "label": "Funções", "value": "triturar, processar, cortar e picar" },
+			{ "label": "Acessórios", "value": "lâminas em aço inoxidável" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "acionamento pela tampa" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "14 x 18 x 12cm" }
+		]
+	},
+	{
+		"id": "mallory-new-oggi-350ml-150w",
+		"name": "Mallory New Oggi 350mL 150W",
+		"image": "/images/posts/melhor-mini-processador-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra em SAN com 350mL de capacidade",
+			"Acionamento por clique com trava de segurança",
+			"Funções de cortar, triturar, moer e processar",
+			"Potência de 150W e função pulsar",
+			"Dimensões de 12,5 x 11 x 17,6cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Capacidade", "value": "350mL" },
+			{ "label": "Velocidade", "value": "1 nível + função Pulsar" },
+			{ "label": "Funções", "value": "cortar, triturar, moer e processar" },
+			{ "label": "Acessórios", "value": "lâmina em aço inoxidável" },
+			{ "label": "Tipo de jarra", "value": "SAN" },
+			{ "label": "Painel", "value": "acionamento por clique" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "12,5 x 11 x 17,6cm" }
+		]
+	},
+	{
+		"id": "philco-inox-glass-1-2-litro-350w",
+		"name": "Philco Inox Glass 1,2 litro 350W",
+		"image": "/images/posts/melhor-mini-processador-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de vidro com capacidade de 1,2 litro",
+			"Potência de 350W, a maior da lista",
+			"Funções de processar, cortar, moer e picar",
+			"Trava de segurança e botão de acionamento",
+			"Dimensões de 22 x 18,2 x 15,5cm"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "350W" },
+			{ "label": "Capacidade", "value": "1,2 litro" },
+			{ "label": "Velocidade", "value": "1 nível + função pulsar" },
+			{ "label": "Funções", "value": "processar, cortar, triturar, moer e picar" },
+			{ "label": "Acessórios", "value": "lâmina em aço inoxidável" },
+			{ "label": "Tipo de jarra", "value": "vidro" },
+			{ "label": "Painel", "value": "botão" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "22 x 18,2 x 15,5cm" }
+		]
+	}
+]

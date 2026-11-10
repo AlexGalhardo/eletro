@@ -1,0 +1,351 @@
+[
+	{
+		"id": "mitutoyo-500-171-30-150mm-6",
+		"name": "Mitutoyo 500-171-30 (150mm/6\")",
+		"image": "/images/posts/melhor-paquimetro-digital-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Exatidão de ±0,02mm e ±0,03mm",
+			"Resolução de 0,01mm",
+			"Medição em mm e polegadas",
+			"Altura do bico de 40mm",
+			"Comprimento total de 233mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 150mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,02mm, ±0,03mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria SR44"
+			},
+			{
+				"label": "Altura do bico",
+				"value": "40mm"
+			},
+			{
+				"label": "Altura útil da orelha",
+				"value": "16,5mm"
+			},
+			{
+				"label": "Comprimento total",
+				"value": "233mm"
+			}
+		]
+	},
+	{
+		"id": "digimess-100-178bl-300mm-12",
+		"name": "DIGIMESS 100-178BL (300mm/12\")",
+		"image": "/images/posts/melhor-paquimetro-digital-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 0 a 300mm",
+			"Aço inoxidável temperado",
+			"Exatidão de ±0,04mm",
+			"Peso de 750g e comprimento de 404mm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável temperado"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 300mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm/.0005″"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,04mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 1,5V (LR44 ou SR44)"
+			},
+			{
+				"label": "Altura do bico",
+				"value": "64mm"
+			},
+			{
+				"label": "Altura útil da orelha",
+				"value": "22mm"
+			},
+			{
+				"label": "Comprimento total",
+				"value": "404mm"
+			},
+			{
+				"label": "Peso",
+				"value": "750g"
+			}
+		]
+	},
+	{
+		"id": "mtx-316119-150mm-6",
+		"name": "MTX 316119 (150mm/6\")",
+		"image": "/images/posts/melhor-paquimetro-digital-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 0 a 150mm em aço inoxidável",
+			"Resolução de 0,01mm e exatidão de ±0,03mm",
+			"Medição em mm e polegadas",
+			"Alimentação por bateria SR44"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 150mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria 1,5 V, tipo SR44"
+			}
+		]
+	},
+	{
+		"id": "vonder-pd-abs-150mm-6",
+		"name": "Vonder PD-ABS (150mm/6\")",
+		"image": "/images/posts/melhor-paquimetro-digital-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Índice de proteção IP54",
+			"Faixa de 0 a 150mm com resolução de 0,01mm",
+			"Peso de 385g e comprimento de 235mm",
+			"Medição em mm e polegadas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 150mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria CR-2032"
+			},
+			{
+				"label": "Altura do bico",
+				"value": "40mm"
+			},
+			{
+				"label": "Altura útil da orelha",
+				"value": "16mm"
+			},
+			{
+				"label": "Índice de proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Comprimento total",
+				"value": "235mm"
+			},
+			{
+				"label": "Peso",
+				"value": "385g"
+			}
+		]
+	},
+	{
+		"id": "eda-7vt-200mm-8",
+		"name": "EDA 7VT (200mm/8\")",
+		"image": "/images/posts/melhor-paquimetro-digital-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 0 a 200mm com resolução de 0,01mm",
+			"Exatidão de ±0,03mm",
+			"Material em aço",
+			"Bateria LR44 e peso de 418g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 200mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria LR44"
+			},
+			{
+				"label": "Peso",
+				"value": "418g"
+			}
+		]
+	},
+	{
+		"id": "nybc-tnwg08572-150mm-6",
+		"name": "NYBC TNWG08572 (150mm/6\")",
+		"image": "/images/posts/melhor-paquimetro-digital-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 0 a 150mm em aço inoxidável",
+			"Exatidão de ±0,03mm e resolução de 0,01mm",
+			"Alimentação por bateria SR44",
+			"Peso de 300g, o mais leve entre os informados"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 150mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,03mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria SR44"
+			},
+			{
+				"label": "Peso",
+				"value": "300g"
+			}
+		]
+	},
+	{
+		"id": "vonder-pd300-300mm-12",
+		"name": "Vonder PD300 (300mm/12\")",
+		"image": "/images/posts/melhor-paquimetro-digital-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Faixa de 0 a 300mm em aço inoxidável",
+			"Exatidão de ±0,04mm",
+			"Altura do bico de 60mm",
+			"Comprimento total de 400mm e peso de 660g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Faixa de medição",
+				"value": "0 a 300mm"
+			},
+			{
+				"label": "Resolução",
+				"value": "0,01mm"
+			},
+			{
+				"label": "Exatidão",
+				"value": "±0,04mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "mm e polegadas"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bateria CR-2032"
+			},
+			{
+				"label": "Altura do bico",
+				"value": "60mm"
+			},
+			{
+				"label": "Altura útil da orelha",
+				"value": "21,5mm"
+			},
+			{
+				"label": "Comprimento total",
+				"value": "400mm"
+			},
+			{
+				"label": "Peso",
+				"value": "660g"
+			}
+		]
+	}
+]

@@ -1,0 +1,395 @@
+[
+	{
+		"id": "brastemp-bmo40ar-1500w-40-litros-embutir",
+		"name": "Brastemp BMO40AR 1500W 40 litros (embutir)",
+		"image": "/images/posts/melhor-microondas-brastemp-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 40 litros com 58 programas",
+			"Função crisp e função vapor",
+			"Função grill e tecla de descongelar",
+			"Bloqueio das teclas e timer",
+			"Prato de 36cm de diâmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "58"
+			},
+			{
+				"label": "Funções",
+				"value": "função crisp; função vapor; bloqueio das teclas; seletor de potência; relógio; função grill; descongelar; timer; aquecimento especial"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "36cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 59,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bmg45ar-900w-32-litros",
+		"name": "Brastemp BMG45AR 900W 32 litros",
+		"image": "/images/posts/melhor-microondas-brastemp-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grill combinado com micro-ondas",
+			"Seletor com 10 níveis de potência",
+			"Menu descongelar e função manter aquecido",
+			"Trava do painel e volume ajustável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "32 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "16"
+			},
+			{
+				"label": "Funções",
+				"value": "função grill; grill + micro-ondas; manter aquecido; menu descongelar; teclas rápidas; mais receitas com 12 opções a mais; volume; travar painel; seletor com 10 níveis de potência; relógio"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,7 x 53,9 x 43cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bms46ar-900w-32-litros",
+		"name": "Brastemp BMS46AR 900W 32 litros",
+		"image": "/images/posts/melhor-microondas-brastemp-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menus gourmet, doces e derreter",
+			"Função tira odor e 10 níveis de potência",
+			"Trava de segurança e timer",
+			"Prato de 31,5cm de diâmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "32 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "16"
+			},
+			{
+				"label": "Funções",
+				"value": "menu gourmet; menu doces; menu derreter; menu descongelar; função tira odor; timer; teclas rápidas; 10 níveis de potência; relógio; trava de segurança"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,1 x 53,8 x 39,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bms20ar-1100w-20-litros",
+		"name": "Brastemp BMS20AR 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-brastemp-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 20 litros com 10 níveis de potência",
+			"Função auto clean e modo silencioso",
+			"Menu especial e menu dia a dia",
+			"Trava de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado com acabamento inox"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "10"
+			},
+			{
+				"label": "Funções",
+				"value": "menu especial; menu dia a dia; funções pré-preparo; função auto clean; 10 níveis de potência; relógio; modo silencioso; trava de segurança"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "24,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 45,5 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bmj38ar-1000w-38-litros",
+		"name": "Brastemp BMJ38AR 1000W 38 litros",
+		"image": "/images/posts/melhor-microondas-brastemp-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Smart food e menu meu jeito",
+			"Teclas rápidas para pipoca, brigadeiro e caneca",
+			"Gratinar com grill e adicionar 30 segundos, 1 minuto ou 5 minutos",
+			"Trava de segurança automática e luz interna"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "38 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado com acabamento inox"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "10"
+			},
+			{
+				"label": "Funções",
+				"value": "smart food; menu meu jeito; gratinar com grill; teclas rápidas (Pipoca, Brigadeiro e Caneca); tecla adiar preparo; menu descongelar; 10 níveis de potência; relógio; trava de segurança automática; luz interna; timer; adicionar +30 segundos, 1 minuto ou 5 minutos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "31,1 x 55,3 x 46,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-gmt40ab-900w-40-litros-embutir",
+		"name": "Brastemp GMT40AB 900W 40 litros (embutir)",
+		"image": "/images/posts/melhor-microondas-brastemp-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 40 litros com 58 programas",
+			"Função Jet Defrost para descongelar",
+			"Favoritos e funções crisp, vapor e grill",
+			"Porta de vidro espelhado com acabamento Vitreous"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado com acabamento Vitreous"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "58"
+			},
+			{
+				"label": "Funções",
+				"value": "crisp; vapor; grill; favoritos; Jet Defrost; timer; bloqueio das teclas"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "36cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 59,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "brastemp-bm146ap-1400w-32-litros-embutir",
+		"name": "Brastemp BM146AP 1400W 32 litros (embutir)",
+		"image": "/images/posts/melhor-microondas-brastemp-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 32 litros com 18 programas",
+			"Menu descongelar e função tira odor",
+			"10 níveis de potência e luz interna",
+			"Porta de vidro espelhado na cor Black Inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "32 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado na cor Black Inox"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "18"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; função tira odor; ajuste de volume; 10 níveis de potência; luz interna; tecla Iniciar/+30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "32,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39 x 59,5 x 37,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

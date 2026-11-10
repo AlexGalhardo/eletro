@@ -1,0 +1,260 @@
+[
+	{
+		"id": "dewalt-dwst17804",
+		"name": "DEWALT DWST17804",
+		"image": "/images/posts/melhor-organizador-de-parafusos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Caixa com divisórias removíveis",
+			"Dupla trava no fechamento",
+			"Dimensões de 17,5 x 42,9 x 31,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "caixa"
+			},
+			{
+				"label": "Divisórias",
+				"value": "removíveis"
+			},
+			{
+				"label": "Sistema de fechamento",
+				"value": "dupla trava"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,5 x 42,9 x 31,5cm"
+			}
+		]
+	},
+	{
+		"id": "vonder-opv310",
+		"name": "Vonder OPV310",
+		"image": "/images/posts/melhor-organizador-de-parafusos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"64 divisórias fixas para organizar parafusos e peças pequenas",
+			"Painel em polipropileno",
+			"Dimensões de 40 x 16 x 50,5cm",
+			"Peso de 3,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "painel"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "64 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "fixas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "40 x 16 x 50,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,3kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-vd8020",
+		"name": "Vonder VD8020",
+		"image": "/images/posts/melhor-organizador-de-parafusos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"8 divisórias fixas em maleta compacta",
+			"Polipropileno e peso de 400g",
+			"Dimensões de 5 x 22 x 32,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "maleta"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "8 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "fixas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "5 x 22 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "400g"
+			}
+		]
+	},
+	{
+		"id": "vonder-opv500",
+		"name": "Vonder OPV500",
+		"image": "/images/posts/melhor-organizador-de-parafusos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"9 divisórias removíveis para ajustar o espaço",
+			"Maleta em polipropileno de 1,67kg",
+			"Dimensões de 11 x 34 x 38cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "maleta"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "9 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "removíveis"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11 x 34 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,67kg"
+			}
+		]
+	},
+	{
+		"id": "stanley-stst14026",
+		"name": "STANLEY STST14026",
+		"image": "/images/posts/melhor-organizador-de-parafusos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"17 divisórias, fixas e removíveis",
+			"Tripla trava no fechamento",
+			"Polipropileno e dimensões de 8,8 x 33,3 x 43,1cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "maleta"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "17 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "fixas e removíveis"
+			},
+			{
+				"label": "Sistema de fechamento",
+				"value": "tripla trava"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,8 x 33,3 x 43,1cm"
+			}
+		]
+	},
+	{
+		"id": "fasterr-fst019",
+		"name": "Fasterr FST019",
+		"image": "/images/posts/melhor-organizador-de-parafusos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"16 divisórias, fixas e removíveis",
+			"Dupla trava no fechamento",
+			"Plástico com dimensões de 6 x 25,5 x 31,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "maleta"
+			},
+			{
+				"label": "Material",
+				"value": "plástico"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "16 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "fixas e removíveis"
+			},
+			{
+				"label": "Sistema de fechamento",
+				"value": "dupla trava"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "6 x 25,5 x 31,5cm"
+			}
+		]
+	},
+	{
+		"id": "stanley-stst14021",
+		"name": "STANLEY STST14021",
+		"image": "/images/posts/melhor-organizador-de-parafusos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 divisórias removíveis para ajustar o espaço",
+			"Material em polipropileno",
+			"Maleta com divisórias para organizar peças pequenas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "maleta"
+			},
+			{
+				"label": "Material",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Quantidade de compartimentos",
+				"value": "10 divisórias"
+			},
+			{
+				"label": "Divisórias",
+				"value": "removíveis"
+			}
+		]
+	}
+]

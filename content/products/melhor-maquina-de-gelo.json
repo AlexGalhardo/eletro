@@ -1,0 +1,349 @@
+[
+	{
+		"id": "eos-emg50-50kg",
+		"name": "EOS EMG50 50kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produção de 50kg de gelo por dia",
+			"Tempo médio de 20 minutos por ciclo",
+			"Gelo em formato de cubo",
+			"Peso de 26,7kg e medidas de 79,8 x 44,8 x 40cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "industrial"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "50kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "20 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "79,8 x 44,8 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "26,7kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-emg35-35kg",
+		"name": "EOS EMG35 35kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produção de 35kg de gelo por dia",
+			"Reservatório de água de 3,8 litros",
+			"Potência de 200W e ciclo de 15 minutos",
+			"Gelo em cubo com 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "industrial"
+			},
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "3,8 litros"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "35kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "15 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,3 x 36 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "17kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-mg-12-gi-12kg",
+		"name": "Mondial MG-12-GI 12kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produção de 12kg de gelo por dia",
+			"Potência de 90W, a mais baixa entre os modelos informados",
+			"Ciclo de 8 minutos por produção",
+			"Reservatório de 1,3 litro e peso de 6,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "1,3 litros"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "12kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "8 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 22 x 29,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,2kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmg01pi-12kg",
+		"name": "Philco PMG01PI 12kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Reservatório de água de 1,85 litro",
+			"Tempo médio de 15 minutos por ciclo",
+			"Medidas de 32,5 x 23 x 31,5cm",
+			"Peso de 7,65kg para o modelo portátil"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "1,85 litros"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "12kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "15 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 23 x 31,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,65kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-emg02-15kg",
+		"name": "EOS EMG02 15kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produção de 15kg de gelo por dia",
+			"Reservatório de 2,2 litros de água",
+			"Potência de 100W com ciclo de 10 minutos",
+			"Dimensões de 32 x 24 x 36cm e peso de 8,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "100W"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "2,2 litros"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "15kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "10 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 24 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-mg1501pr-15kg",
+		"name": "Suggar MG1501PR 15kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 120W para o ciclo de gelo",
+			"Ciclo médio de 10 minutos por produção",
+			"Peso de 11kg e medidas de 32,7 x 24,9 x 36,5cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "portátil"
+			},
+			{
+				"label": "Potência",
+				"value": "120W"
+			},
+			{
+				"label": "Capacidade do reservatório de água",
+				"value": "2,2 litros"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "15kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "10 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,7 x 24,9 x 36,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "eos-emg45-45kg",
+		"name": "EOS EMG45 45kg",
+		"image": "/images/posts/melhor-maquina-de-gelo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Produção de 45kg de gelo por dia",
+			"Potência de 250W, a maior da lista",
+			"Gelo em cubo com alimentação em 220V",
+			"Peso de 19,5kg e medidas de 64,6 x 40 x 35,8cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "industrial"
+			},
+			{
+				"label": "Potência",
+				"value": "250W"
+			},
+			{
+				"label": "Produção de gelo",
+				"value": "45kg por dia"
+			},
+			{
+				"label": "Tempo médio de produção",
+				"value": "15 minutos por ciclo"
+			},
+			{
+				"label": "Formato do gelo",
+				"value": "cubo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64,6 x 40 x 35,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "19,5kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "220V"
+			}
+		]
+	}
+]

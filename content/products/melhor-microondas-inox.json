@@ -1,0 +1,383 @@
+[
+	{
+		"id": "brastemp-bmo40ar-900w-40-litros-embutir",
+		"name": "Brastemp BMO40AR 900W 40 litros (embutir)",
+		"image": "/images/posts/melhor-microondas-inox-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 40 litros em modelo de embutir",
+			"Função grill, crisp e vapor",
+			"Botões sensíveis ao toque e bloqueio das teclas",
+			"Prato de 36 cm e porta de vidro espelhado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "40 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "58"
+			},
+			{
+				"label": "Funções",
+				"value": "função crisp; função vapor; bloqueio das teclas; seletor de potência; relógio; função grill; descongelar; timer; aquecimento especial; 8 níveis de potência"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "36cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "45,5 x 59,5 x 54,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "35kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ms37r-1500w-27-litros",
+		"name": "Electrolux MS37R 1500W 27 litros",
+		"image": "/images/posts/melhor-microondas-inox-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W e 27 litros",
+			"Menu online com 55 receitas via QR Code",
+			"Função tira odor e menu descongelar",
+			"Botões de membrana e porta espelhada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "27 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões de membrana"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "55"
+			},
+			{
+				"label": "Funções",
+				"value": "menu descongelar; menu faça fácil; menu online com 55 receitas via QR Code; manter aquecido; tira odor; limpa fácil; início/+30 s; cancela/pausa; trava painel; trava de segurança; ajuste de brilho do display; mudo (bip); ajuste de potência (tabela de níveis); relógio; timer"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "28,4cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,1 x 48,3 x 40,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-mi41s-1600w-31-litros",
+		"name": "Electrolux MI41S 1600W 31 litros",
+		"image": "/images/posts/melhor-microondas-inox-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W, a maior da lista",
+			"Receitas via QR code e trava de segurança",
+			"Função mudo e prato de 31,5 cm",
+			"Botões sensíveis ao toque e porta espelhada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "31 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; desliga display; receitas via QR code; trava de segurança; meu prato; função mudo; receitas pré-programadas; função descongelar; limpa fácil; menu dia a dia; menu kids; relógio; porção; potência; tecla início/+30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 52 x 42,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "panasonic-nn-st67lsru-900w-34-litros",
+		"name": "Panasonic NN-ST67LSRU 900W 34 litros",
+		"image": "/images/posts/melhor-microondas-inox-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla refeição para aquecer dois pratos juntos",
+			"Tecnologia antibacteria Ag e revestimento antiaderente",
+			"Prato de 31,5 cm e 34 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "34 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "dupla refeição (aquecimento de dois pratos ao mesmo tempo); tecnologia antibacteria Ag; revestimento interno antiaderente; tecnologia pega fácil (retorna à posição inicial); desodorizador; autodescongelamento (2 opções); função mudo; adicionar 30 segundos; memória para 3 programações; relógio; tempo de espera; trava de segurança eletrônica; 10 níveis de potência"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 52 x 43,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "14,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me23s-1100w-23-litros",
+		"name": "Electrolux ME23S 1100W 23 litros",
+		"image": "/images/posts/melhor-microondas-inox-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Descongelamento assistido que avisa para virar",
+			"Programas para derreter, desidratar e cozinhar delicado",
+			"Prato de 27 cm e 23 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "23 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "4"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelamento assistido (avisa para virar/mexer); derreter; desidratar; cozinhar rápido; cozinhar delicado; manter aquecido; tira odor; economia de energia (desliga display); mudo; trava painel; relógio; menu receitas; tecla descongelar"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27,0cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 46,1 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "consul-cm020bf-620w-20-litros",
+		"name": "Consul CM020BF 620W 20 litros",
+		"image": "/images/posts/melhor-microondas-inox-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Receitas pré-programadas de arroz, vegetais, massas e pipoca",
+			"Painel digital e porta de vidro espelhado",
+			"Função de uso fácil para aquecer e descongelar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "620W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "digital"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "receitas pré-programadas (arroz, vegetais, massas, peixe, pipoca e caneca); função uso fácil para aquecer/descongelar por peso (250g, 500g e 1kg); descongelamento; ligar +30 segundos (inicia, retoma e adiciona tempo); desligar visor (economia de energia); trava de segurança; relógio; timer; 11 níveis de potência; luz interna"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 45,5 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-me41x-1150w-31-litros",
+		"name": "Electrolux ME41X 1150W 31 litros",
+		"image": "/images/posts/melhor-microondas-inox-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menu kids e menus do dia a dia",
+			"Painel blue touch com botões sensíveis ao toque",
+			"Grill e função mudo",
+			"Prato de 31,5 cm e porta de vidro espelhado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "31 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1150W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "painel blue touch com botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "grill; descongelamento; menus dia a dia; menu kids; relógio; brilho; mudo; tira odor; ajuste de tempo; potência; cancela/pausa; adicionar 30 segundos; trava painel"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,6 x 52,0 x 45,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "15,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

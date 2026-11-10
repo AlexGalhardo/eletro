@@ -1,0 +1,346 @@
+[
+	{
+		"id": "makita-df001dw-220rpm",
+		"name": "Makita DF001DW 220RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque de 6Nm, o maior da lista",
+			"Uso reto ou em formato pistola",
+			"Iluminação de trabalho e rotação reversível",
+			"Maleta com 81 acessórios e adaptador bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "220RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "6Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "3,6V"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "uso no formato reto ou pistola; rotação reversível; iluminação de trabalho; pode ser utilizada como chave de fenda manual"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "adaptador AC bivolt; cabo USB; maleta com 81 acessórios"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "5,1 x 4,7 x 28,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "360g"
+			}
+		]
+	},
+	{
+		"id": "black-decker-kc4815b-200rpm",
+		"name": "Black+Decker KC4815B 200RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cabo articulável com duas posições",
+			"Gatilho com reversão para parafusar e desparafusar",
+			"Controle de torque com oito posições",
+			"Extensão magnética e 15 pontas inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "200RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "3Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4,8V"
+			},
+			{
+				"label": "Mandril",
+				"value": "6,35mm com encaixe hexagonal 1/4"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "cabo articulável com 2 posições (reta e formato L); gatilho com reversão para parafusar e desparafusar; controle de torque com 8 posições; indicador de nível de bateria; empunhadura emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "extensão magnética; 15 pontas de 25mm; adaptador; carregador de bateria"
+			},
+			{
+				"label": "Peso",
+				"value": "424g"
+			}
+		]
+	},
+	{
+		"id": "mondial-fpf-05-200rpm",
+		"name": "Mondial FPF-05 200RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lanterna LED e punho ergonômico",
+			"Controle de torque ajustável com rotação reversível",
+			"11 bits e prolongador incluídos",
+			"Carregador bivolt para usar em qualquer tomada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "200RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "3Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4,8V"
+			},
+			{
+				"label": "Mandril",
+				"value": "1/4″"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "rotação reversível; controle de torque ajustável; lanterna LED; punho ergonômico; indicador de nível de bateria"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "prolongador; 11 bits; carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "14 x 4,5 x 15cm"
+			},
+			{
+				"label": "Peso",
+				"value": "320g"
+			}
+		]
+	},
+	{
+		"id": "vonder-pbv120-180rpm",
+		"name": "Vonder PBV120 180RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sete posições de torque e perfuração de até 3mm",
+			"Cabo articulável com duas posições",
+			"11 bits e soquete magnético inclusos",
+			"Fonte bivolt automática e LED auxiliar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de lítio"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "180RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "3,6V"
+			},
+			{
+				"label": "Mandril",
+				"value": "encaixe sextavado 1/4″ (6,35mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "regulagem com 7 posições de torque e 1 posição para perfuração; perfuração de até 3mm em madeira e metal (com broca apropriada, não inclusa); sistema de reversão; velocidade variável; cabo articulável com 2 posições; revestimento emborrachado; LED auxiliar"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "fonte bivolt automático; 11 bits, sendo 3 fendas (4mm/5mm/6mm), 3 phillips (PH1/PH2/PH3), 3 pozidrive (PZ1/PZ2/PZ3), 2 allen (2mm/3mm); soquete magnético"
+			},
+			{
+				"label": "Peso",
+				"value": "420g"
+			}
+		]
+	},
+	{
+		"id": "black-decker-9036-br-180rpm",
+		"name": "Black+Decker 9036-BR 180RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função reversa e controle de torque",
+			"Velocidade variável e luz LED",
+			"Função de chave de fenda",
+			"Carregador de parede e pontas inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "200RPM"
+			},
+			{
+				"label": "Voltagem",
+				"value": "3,6V"
+			},
+			{
+				"label": "Mandril",
+				"value": "6,35mm"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função reversa; controle de torque; velocidade variável; luz LED; função de chave de fenda"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "carregador de parede; pontas"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "16 x 6 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "b-tek-bt-dz38-220rpm",
+		"name": "B-TEK BT-DZ38 220RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"54 bits para diferentes parafusos",
+			"Maleta e prolongador inclusos",
+			"Luz LED para trabalhar em locais escuros",
+			"Carregador incluso para recarga"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "220RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "3Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4,8V"
+			},
+			{
+				"label": "Mandril",
+				"value": "6mm com encaixe 1/4"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "luz LED"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "carregador; maleta; prolongador; 54 bits"
+			}
+		]
+	},
+	{
+		"id": "stanley-fmht66719-300rpm",
+		"name": "Stanley FMHT66719 300RPM",
+		"image": "/images/posts/melhor-mini-parafusadeira-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Velocidade de 300RPM, a maior da lista",
+			"Bloqueio de eixo para uso manual",
+			"Duas luzes LED e indicador de carga colorido",
+			"Formato compacto tipo chave de fenda"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria recarregável"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "300RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "0,9Nm (até 10Nm em uso manual com bloqueio de eixo)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "4V"
+			},
+			{
+				"label": "Mandril",
+				"value": "encaixe rápido 1/4″"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "bloqueio de eixo para uso manual; indicador de carga LED colorido; duas luzes LED; cabo ergonômico bimaterial; formato compacto tipo chave de fenda"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "6 pontas (PH1, PH2, PZ1, PZ2, 4mm, 5,5mm); suporte magnético para pontas"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "10 x 15,5 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "450g"
+			}
+		]
+	}
+]

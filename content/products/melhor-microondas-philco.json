@@ -1,0 +1,378 @@
+[
+	{
+		"id": "philco-pmo42eb-1560w-42-litros",
+		"name": "Philco PMO42EB 1560W 42 litros",
+		"image": "/images/posts/melhor-microondas-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 42 litros e potência de 1560W",
+			"Descongelamento por tempo e por peso",
+			"Menu FIT e função manter aquecido",
+			"Porta de vidro espelhado e prato de 34,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "42 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1560W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; menu FIT; manter aquecido; função tira odor; função potência; função relógio; função display/sound; travar teclado; pintura limpa fácil"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "34,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32,5 x 54 x 44,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo38b-1400w-33-litros",
+		"name": "Philco PMO38B 1400W 33 litros",
+		"image": "/images/posts/melhor-microondas-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 33 litros e potência de 1400W",
+			"Timer com desligamento automático",
+			"Descongelamento por tempo e por peso",
+			"Porta de vidro branco e prato de 31,5 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "33 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro branco"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; manter aquecido; timer com desligamento automático; função tira odor; função potência; função relógio; função display/sound; pintura limpa fácil; botão +30 segundos; menu FIT"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,4 x 51,5 x 38,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo23b-1100w-20-litros",
+		"name": "Philco PMO23B 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menu FIT e função potência",
+			"Botões sensíveis ao toque e prato de 25 cm",
+			"Função tira odor e manter aquecido",
+			"20 litros de capacidade e potência de 1100W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro branco"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; menu FIT; manter aquecido; função tira odor; função potência; função relógio; função display/sound; travar teclado; pintura limpa fácil"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,6 x 46 x 35,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo28e-1100w-25-litros",
+		"name": "Philco PMO28E 1100W 25 litros",
+		"image": "/images/posts/melhor-microondas-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Descongela fácil e descongelamento por peso",
+			"Timer com desligamento automático",
+			"Porta de vidro espelhado e prato de 28,5 cm",
+			"Capacidade de 25 litros e potência de 1100W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "25 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; descongela fácil; manter aquecido; timer com desligamento automático; função tira odor; função potência; função relógio; função display/sound; pintura limpa fácil; botão +30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "28,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,8 x 47,6 x 38,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,43kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pme25-1100w-20-litros",
+		"name": "Philco PME25 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Descongelamento automático por peso e rápido",
+			"Temporizador e manter aquecido",
+			"Porta de vidro espelhado",
+			"Capacidade de 20 litros e potência de 1100W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (toushscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelamento automático por peso; descongelamento por tempo; descongelamento rápido; manter aquecido; temporizador; trava de segurança para crianças; função potência; pintura limpa fácil"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo38t-1400w-33-litros",
+		"name": "Philco PMO38T 1400W 33 litros",
+		"image": "/images/posts/melhor-microondas-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pintura de limpeza fácil",
+			"Função tira odor e função mudo",
+			"Temporizador e descongelamento por peso",
+			"Capacidade de 33 litros e potência de 1400W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "33 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "descongelar por tempo; descongelar por peso; função tira odor; pintura limpa fácil; temporizador; função mudo; função potência (10 níveis); receitas pré-programadas; botão +30 segundos; trava de segurança para crianças; luz interna"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "31,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,4 x 51,5 x 38,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "13,06kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmb37eb-1400w-37-litros-embutir",
+		"name": "Philco PMB37EB 1400W 37 litros (embutir)",
+		"image": "/images/posts/melhor-microondas-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Receitas pré-programadas e tecla menu FIT",
+			"Pintura de limpeza fácil",
+			"Instalação de embutir com 37 litros",
+			"Potência de 1400W e porta de vidro espelhado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "37 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "vidro espelhado"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "6"
+			},
+			{
+				"label": "Funções",
+				"value": "receitas pré-programadas; tecla menu FIT; função relógio; pintura limpa fácil"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 52 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "16,52kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

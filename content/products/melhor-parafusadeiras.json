@@ -1,0 +1,402 @@
+[
+	{
+		"id": "bosch-gsb185li-1b-1900rpm",
+		"name": "Bosch GSB185LI-1B 1900RPM",
+		"image": "/images/posts/melhor-parafusadeiras-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor brushless, sem escovas de carvão",
+			"Função de impacto de até 27.000BPM",
+			"Torque máximo de 50Nm, o maior desta lista",
+			"Luz LED para áreas de trabalho com pouca luz"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de litio de 18V"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "65 minutos"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "500RPM a 1900RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "50Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "18V"
+			},
+			{
+				"label": "Mandril",
+				"value": "metálico super robusto, com diâmetro máximo de perfuração de 35mm em madeira, 10mm em metal e 10mm em alvenaria"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função parafusadeira; função de impacto com até 27.000BPM; motor brushless (sem escovas de carvão); luz LED integrada para iluminação de áreas de trabalho com pouca luz"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "bateria de 18V 2,0Ah; carregador GAL 18V-20; maleta de transporte; conjunto de 23 pontas de perfuração e parafusamento com suporte"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "7 x 19,3 x 28,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg (com bateria)"
+			}
+		]
+	},
+	{
+		"id": "bosch-gsr-1000-smart-700rpm",
+		"name": "Bosch GSR 1000 SMART 700RPM",
+		"image": "/images/posts/melhor-parafusadeiras-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bateria de íons de lítio de 12V integrada",
+			"Indicador de nível de bateria com 3 LEDs",
+			"Controle de velocidade variável para maior precisão",
+			"Luz LED para iluminar áreas escuras"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio de 12V integrada"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "1 hora"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "700RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "15Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "luz LED integrada para iluminar áreas de trabalho escuras; indicador de nível de bateria com 3 LEDs; controle de velocidade variável para maior precisão"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 carregador bivolt; 1 bolsa de nylon"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "18,5 x 7,3 x 15,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "0,9kg"
+			}
+		]
+	},
+	{
+		"id": "wap-k21-id01-02-1400rpm",
+		"name": "WAP K21-ID01/02 1400RPM",
+		"image": "/images/posts/melhor-parafusadeiras-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"21 níveis de torque e três modos de uso",
+			"Torque máximo de 45Nm e velocidade de até 1400RPM",
+			"Maleta de transporte e clip para cinto",
+			"Empunhadura ergonômica emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "350RPM a 1400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "45Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "21V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "IPX0"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "21 níveis de torque; seletor de função para parafusar, perfurar e perfurar com impacto; luz LED integrada; controle de velocidade eletrônico; empunhadura ergonômica emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 bateria de 2,0 Ah; 1 carregador de 0,4A; maleta de transporte; clip para cinto"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "23,3 x 7,5 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "wap-bpf-12k3-740rpm",
+		"name": "WAP BPF-12K3 740RPM",
+		"image": "/images/posts/melhor-parafusadeiras-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Seletor de torque com 18 níveis para parafusar",
+			"Kit com brocas de aço rápido e bits variados",
+			"Velocidade variável pela pressão no gatilho",
+			"Indicador de nível de bateria com LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio de 1500mAh removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "740RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "17Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "IPX0"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "seletor de torque com 18 níveis para parafusar e 1 nível para perfurar; luz LED integrada; indicador de nível de bateria com LED; controle de velocidade variável através da pressão no gatilho; empunhadura ergonômica emborrachada"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta de transporte; conjunto de brocas de aço rápido (1,5mm, 2,5mm, 3,0mm, 4mm, 5mm, 6mm); suporte magnético de bit 1/4″; bits Pozidrive (PZ1, PZ2); bits Phillips (PH1, PH2); bits de fenda (5mm, 6mm); carregador bivolt"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "9 x 6,9 x 21,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-pfv-012-650rpm",
+		"name": "Vonder PFV-012 650RPM",
+		"image": "/images/posts/melhor-parafusadeiras-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"18 posições de torque e 1 para perfuração",
+			"Cabo com revestimento emborrachado para maior conforto",
+			"Indicador de carga da bateria e luz LED",
+			"Kit com 6 brocas, 6 bits, soquete magnético e trena"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "650RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "15,5Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "possui regulagem para 18 posições de torque e 1 posição para perfuração; luz LED para melhor visibilidade do local de trabalho; cabo com revestimento emborrachado para maior conforto; indicador de carga da bateria; velocidade variável e reversível"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 maleta; 1 bateria de 12V; 1 fonte de carregamento bivolt automática; 6 brocas de aço rápido (1,5mm, 2,5mm, 3,0mm, 4,0mm, 5,0mm e 6,0mm); 6 bits: fenda (5mm, 6mm), Phillips (PH1, PH2), Pozidriv (PZ1, PZ2); 1 soquete magnético de 1/4″; 1 trena de 5 metros"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "wap-bpfi-12k4-1500rpm",
+		"name": "WAP BPFI-12K4 1500RPM",
+		"image": "/images/posts/melhor-parafusadeiras-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Torque máximo de 30Nm, o maior entre os modelos de 12V",
+			"Seletor com 18 níveis, perfuração e função de impacto",
+			"Controle de velocidade variável e reversível",
+			"Empunhadura emborrachada e luz LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "400RPM a 1500RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "30Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "12V"
+			},
+			{
+				"label": "Classe de proteção",
+				"value": "classe de isolação II"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "seletor de torque com 18 níveis para parafusar, 1 função para perfurar e 1 função de impacto; luz LED integrada para melhor visibilidade; indicador de carga da bateria; empunhadura emborrachada para maior conforto; controle de velocidade variável e reversível"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "maleta de transporte; 1 suporte magnético de bit 1/4″; 6 brocas de aço (1,5mm, 2,5mm, 3,0mm, 4mm, 5mm, 6mm); 6 bits: fenda (5mm, 6mm), Phillips (PH1, PH2), Pozidriv (PZ1, PZ2); 1 carregador bivolt; 1 bateria de 12V 1.500mAh"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "22 x 6,9 x 21cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			}
+		]
+	},
+	{
+		"id": "black-decker-bcd704c1-1400rpm",
+		"name": "Black Decker BCD704C1 1400RPM",
+		"image": "/images/posts/melhor-parafusadeiras-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função de impacto de até 21.000IPM",
+			"Controle de 11 posições de torque",
+			"Carga completa em 65 minutos",
+			"Empunhadura emborrachada e luz LED"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria de íons de lítio removível"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "65 minutos"
+			},
+			{
+				"label": "Velocidade (RPM)",
+				"value": "400RPM a 1400RPM"
+			},
+			{
+				"label": "Torque máximo",
+				"value": "45Nm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "20V"
+			},
+			{
+				"label": "Mandril",
+				"value": "3/8″ (10mm)"
+			},
+			{
+				"label": "Funções adicionais",
+				"value": "função de impacto com até 21.000IPM; luz LED integrada para melhor visibilidade; empunhadura emborrachada para maior conforto; controle de 11 posições de torque; velocidade variável e reversível"
+			},
+			{
+				"label": "Acessórios incluídos",
+				"value": "1 bateria de 20V Íon Lítio (1,5Ah), 1 carregador bivolt, 1 bit fenda cruzada/fenda reta"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "22 x 8 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,71kg"
+			}
+		]
+	}
+]

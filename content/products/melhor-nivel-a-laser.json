@@ -1,0 +1,337 @@
+[
+	{
+		"id": "dewalt-dw088cg-luz-verde-30-metros",
+		"name": "Dewalt DW088CG (luz verde) 30 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonivelamento com linhas horizontais e verticais",
+			"Proteção IP54 contra poeira e respingos",
+			"Precisão de ±0,3mm/m em alcance de 30 metros",
+			"Indicador de bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz verde"
+			},
+			{
+				"label": "Alcance",
+				"value": "30 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,3mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "750 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontais e verticais"
+			},
+			{
+				"label": "Indicador de Bateria",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "bosch-nivelox-gll-3-x-professional-luz-vermelha-15-metros",
+		"name": "Bosch Nivelox - GLL 3 X Professional (luz vermelha) 15 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Precisão de ±0,5mm/m com autonivelamento",
+			"Proteção IP54 contra poeira e respingos",
+			"Linhas horizontais e verticais",
+			"Indicador de bateria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz vermelho"
+			},
+			{
+				"label": "Alcance",
+				"value": "15 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,5mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "4 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "500 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontais e verticais"
+			},
+			{
+				"label": "Indicador de Bateria",
+				"value": "sim"
+			}
+		]
+	},
+	{
+		"id": "bosch-gll-2-12g-luz-verde-12-metros",
+		"name": "Bosch ‎GLL 2-12G (luz verde) 12 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonivelamento com linhas horizontais e verticais",
+			"Peso de 250 gramas, o mais leve desta lista",
+			"Proteção IP54 contra poeira e respingos",
+			"Alimentação com 2 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz verde"
+			},
+			{
+				"label": "Alcance",
+				"value": "12 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,8mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "250 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontais e verticais"
+			}
+		]
+	},
+	{
+		"id": "vonder-nlv020-luz-verde-20-metros",
+		"name": "Vonder Nlv020 (luz verde) 20 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Precisão de ±0,3mm/m em alcance de 20 metros",
+			"Autonivelamento com linhas horizontais e verticais",
+			"Proteção IP54 contra poeira e respingos",
+			"Peso de 260 gramas e alimentação com 2 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz verde"
+			},
+			{
+				"label": "Alcance",
+				"value": "20 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,3mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "260 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontais e verticais"
+			}
+		]
+	},
+	{
+		"id": "exbom-fepro-nl1230-luz-verde-30-metros",
+		"name": "Exbom FEPRO - NL1230 (luz verde) 30 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de 30 metros com 12 linhas em cobertura de 360º",
+			"Baterias recarregáveis de 3000mAh",
+			"Função de autonivelamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz verde"
+			},
+			{
+				"label": "Alcance",
+				"value": "30 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±1,5mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 baterias recarregáveis de 3000mAh"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "12 linhas cobertura 360º"
+			}
+		]
+	},
+	{
+		"id": "vonder-nlv010-luz-vermelha-10-metros",
+		"name": "Vonder Nlv010 (luz vermelha) 10 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Precisão de ±0,3mm/m para trabalhos de até 10 metros",
+			"Peso de 260 gramas e proteção IP54",
+			"Linhas horizontais e verticais",
+			"Alimentação com 2 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz vermelho"
+			},
+			{
+				"label": "Alcance",
+				"value": "10 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,3mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "260 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontais e verticais"
+			}
+		]
+	},
+	{
+		"id": "bosch-gcl-2-15-luz-vermelha-15-metros",
+		"name": "Bosch GCL 2-15 (luz vermelha) 15 metros",
+		"image": "/images/posts/melhor-nivel-a-laser-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Precisão de ±0,3mm/m em alcance de 15 metros",
+			"Autonivelamento com linhas horizontal e vertical",
+			"Proteção IP54 contra poeira e respingos",
+			"Alimentação com 3 pilhas AA"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de Laser",
+				"value": "feixe de luz vermelho"
+			},
+			{
+				"label": "Alcance",
+				"value": "15 metros"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,3mm/m"
+			},
+			{
+				"label": "Função de Autonivelamento",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Alimentação",
+				"value": "3 pilhas AA"
+			},
+			{
+				"label": "Peso",
+				"value": "490 gramas"
+			},
+			{
+				"label": "Modos de Laser",
+				"value": "linhas horizontal e vertical"
+			}
+		]
+	}
+]

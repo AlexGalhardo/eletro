@@ -1,0 +1,375 @@
+[
+	{
+		"id": "electrolux-pce20-5-litros-panela-de-pressao",
+		"name": "Electrolux PCE20 (5 litros) (panela de pressão)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 900W e 5 litros, para 21 xícaras",
+			"Tem display giratório e desligamento automático",
+			"Timer de até 60 minutos e 9 dispositivos de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "5 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "21 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Segurança",
+				"value": "9 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concha plástica e copo medidor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 31,5 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pcc20-6-litros-panela-de-pressao",
+		"name": "Electrolux PCC20 (6 litros) (panela de pressão)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 1000W e 6 litros, para 25 xícaras",
+			"Tem display digital e desligamento automático",
+			"Timer de até 60 minutos e 10 dispositivos de segurança"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "6 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "25 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "digital"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Segurança",
+				"value": "10 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador, concha plástica e colher"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 30,5 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ecc20-1-8-litro-panela-de-arroz",
+		"name": "Electrolux ECC20 (1,8 litro) (panela de arroz)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 630W e 1,8 litro, para 8 xícaras",
+			"Tem display digital e timer de até 12 horas",
+			"Acompanha suporte para cozimento a vapor e espátula plástica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "630W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "1,8 litro"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "8 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "digital"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 12 horas"
+			},
+			{
+				"label": "Segurança",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador, espátula plástica e suporte para cozimento a vapor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "24,3 x 33,2 x 24,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erc10-2-litros-panela-de-arroz",
+		"name": "Electrolux ERC10 (2 litros) (panela de arroz)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 350W e 2 litros, para 8 xícaras",
+			"Tem display mecânico e desligamento automático",
+			"Acompanha bandeja de cozimento a vapor e copo medidor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "350W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "2 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "8 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "mecânico"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Segurança",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja de cozimento a vapor, copo medidor e colher"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,2 x 26,5 x 26,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,1kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-rcb50-1-3-litro-panela-de-arroz",
+		"name": "Electrolux RCB50 (1,3 litro) (panela de arroz)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 1,3 litro, para 7 xícaras",
+			"Potência de 500W em 127V e 450W em 220V",
+			"Display mecânico com bandeja de vapor inclusa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "500W (127V); 450W (220V)"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "1,3 litro"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "7 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "mecânico"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Segurança",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja de vapor, copo dosador e espátula"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22,6 x 23,9 x 28,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pcc15-5-litros-panela-de-pressao",
+		"name": "Electrolux PCC15 (5 litros) (panela de pressão)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 1000W e 5 litros, para 21 xícaras",
+			"Timer de até 24 horas e 10 dispositivos de segurança",
+			"Tem display digital e copo medidor incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "5 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "21 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "digital"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Segurança",
+				"value": "10 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo medidor e espátula"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,6 x 32,6 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,80kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erc30-3-5-litros-panela-de-arroz",
+		"name": "Electrolux ERC30 (3,5 litros) (panela de arroz)",
+		"image": "/images/posts/melhor-panela-eletrica-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oferece 700W e 3,5 litros, para 15 xícaras",
+			"Tem display mecânico e desligamento automático",
+			"Acompanha bandeja de cozimento a vapor, copo medidor e colher"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "3,5 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "15 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "mecânico"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Segurança",
+				"value": "—"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bandeja de cozimento a vapor, copo medidor e colher"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "28,8 x 28,9 x 28,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			}
+		]
+	}
+]

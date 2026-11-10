@@ -1,0 +1,302 @@
+[
+	{
+		"id": "electrolux-pcc20-eletrica-6-litros",
+		"name": "Electrolux PCC20 (elétrica) 6 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros com fechamento automático",
+			"10 dispositivos de segurança, incluindo aviso sonoro",
+			"Travamento automático da tampa",
+			"Aço inoxidável com revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável com revestimento antiaderente"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "6 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "possui 10 dispositivos de segurança, incluindo aviso sonoro e travamento automático da tampa"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "automático"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "não é compatível com fogões"
+			},
+			{
+				"label": "Dimensões aproximadas",
+				"value": "32 x 31 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "midea-mastersteam-eletrica-6-litros",
+		"name": "Midea MasterSteam (elétrica) 6 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros com fechamento automático",
+			"9 dispositivos de segurança, incluindo sensores de fechamento e temperatura",
+			"Aço inoxidável com revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inoxidável com revestimento antiaderente"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "6 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "possui 9 dispositivos de segurança, incluindo sensores de fechamento e temperatura"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "automático"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "não é compatível com fogões"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "33,7 x 33 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,8kg"
+			}
+		]
+	},
+	{
+		"id": "brinox-4952-101-4-2-litros",
+		"name": "Brinox 4952/101 4,2 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compatível com fogões de indução, elétricos e a gás",
+			"Trava de segurança, duas válvulas de trabalho e escape de segurança",
+			"Revestimento cerâmico antiaderente",
+			"Capacidade de 4,2 litros e peso de 1,5kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio com revestimento cerâmico antiaderente"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "4,2 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "uma trava de segurança, duas válvulas de trabalho e um escape de segurança"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "manual"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "indução, elétrico e a gás"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "20cm de diâmetro"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-vancouver-effect-4-5-litros",
+		"name": "Tramontina Vancouver Effect 4,5 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento antiaderente Starflon Max",
+			"Três sistemas de segurança",
+			"Compatível com fogões a gás, elétricos e vitrocerâmicos",
+			"Capacidade de 4,5 litros e peso de 1,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio com revestimento antiaderente Starflon Max"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "3 sistemas de segurança"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "manual"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "a gás, elétrico e vitrocerâmico"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "20cm de diâmetro"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	},
+	{
+		"id": "panelux-classic-4-5-litros",
+		"name": "Panelux Classic 4,5 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 4,5 litros em alumínio",
+			"Peso de 1kg, o mais leve desta lista",
+			"Compatível com fogões a gás"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "alumínio"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "manual"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "a gás"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "20,2 x 20,1 x 20,1cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pce15-eletrica-3-litros",
+		"name": "Electrolux PCE15 (elétrica) 3 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3 litros com fechamento automático",
+			"9 dispositivos de segurança, incluindo termostato e fusível térmico",
+			"Aço inox escovado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inox escovado"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "3 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "9 dispositivos de segurança, sendo eles: 1 dispositivo de travamento automático da tampa; dispositivo de travamento mecânico da tampa; pino de verificação da tampa; dispositivo de controle de pressão; dispositivo de alívio de pressão; válvula de alívio de pressão; cobertura antibloqueio da válvula limitadora de pressão; termostato; fusível térmico"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "automático"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "não é compatível com fogões"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "26,5 x 32,3 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,52kg"
+			}
+		]
+	},
+	{
+		"id": "tramontina-solar-6-litros",
+		"name": "Tramontina Solar 6 litros",
+		"image": "/images/posts/melhor-panelas-de-pressao-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros em aço inox",
+			"5 dispositivos de segurança",
+			"Compatível com fogões a gás, elétricos, vitrocerâmicos e de indução"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material",
+				"value": "aço inox"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "6 litros"
+			},
+			{
+				"label": "Segurança",
+				"value": "5 dispositivos de segurança"
+			},
+			{
+				"label": "Tipo de fechamento",
+				"value": "manual"
+			},
+			{
+				"label": "Tipos de fogão compatíveis",
+				"value": "a gás, elétrico, vitrocerâmico e indução"
+			},
+			{
+				"label": "Dimensões aproximadas (A x L x P)",
+				"value": "23,1 x 24,7 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,06kg"
+			}
+		]
+	}
+]

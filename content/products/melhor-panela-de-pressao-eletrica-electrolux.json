@@ -1,0 +1,226 @@
+[
+	{
+		"id": "electrolux-pcc20-6-litros",
+		"name": "Electrolux PCC20 (6 litros)",
+		"image": "/images/posts/melhor-panela-de-pressao-eletrica-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 6 litros para até 25 xícaras",
+			"Display digital com timer de até 60 minutos",
+			"10 dispositivos de segurança",
+			"Potência de 1000W e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "6 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "25 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "digital"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Segurança",
+				"value": "10 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo dosador, concha plástica e colher"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 30,5 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pce20-5-litros",
+		"name": "Electrolux PCE20 (5 litros)",
+		"image": "/images/posts/melhor-panela-de-pressao-eletrica-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botão giratório para ajustar o preparo",
+			"Capacidade de 5 litros para cerca de 21 xícaras",
+			"Nove dispositivos de segurança",
+			"Desligamento automático e timer de 60 minutos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "5 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "aproximadamente 21 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Segurança",
+				"value": "9 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concha plástica e copo medidor"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 31,5 x 30,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pcc15-5-litros",
+		"name": "Electrolux PCC15 (5 litros)",
+		"image": "/images/posts/melhor-panela-de-pressao-eletrica-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de até 24 horas com display digital",
+			"Potência de 1000W em 5 litros",
+			"Dez dispositivos de segurança",
+			"Copo medidor e espátula inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "5 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "21 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "digital"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 24 horas"
+			},
+			{
+				"label": "Segurança",
+				"value": "10 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo medidor e espátula"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30,6 x 32,6 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pce15-3-litros",
+		"name": "Electrolux PCE15 (3 litros)",
+		"image": "/images/posts/melhor-panela-de-pressao-eletrica-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 3 litros para 13 xícaras",
+			"Peso de 3,52kg, o menor da lista",
+			"Potência de 700W e nove dispositivos de segurança",
+			"Copo medidor e concha inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Capacidade em litros",
+				"value": "3 litros"
+			},
+			{
+				"label": "Capacidade de xícaras",
+				"value": "13 xícaras"
+			},
+			{
+				"label": "Display",
+				"value": "botão giratório"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Timer",
+				"value": "até 60 minutos"
+			},
+			{
+				"label": "Segurança",
+				"value": "9 dispositivos de segurança"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "copo medidor e concha"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,5 x 32,3 x 31cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,52kg"
+			}
+		]
+	}
+]

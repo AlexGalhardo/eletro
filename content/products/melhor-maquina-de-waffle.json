@@ -1,0 +1,373 @@
+[
+	{
+		"id": "philco-waffle-maker-pwm04a-1200w",
+		"name": "Philco Waffle Maker PWM04A 1200W",
+		"image": "/images/posts/melhor-maquina-de-waffle-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e formato quadrado",
+			"Temperatura regulável em 5 níveis",
+			"Chapa antiaderente e corpo de plástico e aço inox",
+			"Capacidade de 4 waffles por preparo",
+			"Peso de 2,6kg e alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "quadrado"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável em 5 níveis"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12 x 25 x 32cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,6kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-waffle-perform-180-1000w",
+		"name": "Oster Waffle Perform 180 1000W",
+		"image": "/images/posts/melhor-maquina-de-waffle-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W e formato triangular",
+			"Chapa antiaderente para 4 waffles por vez",
+			"Corpo de plástico e aço inox",
+			"Peso de 1,7kg e dimensões de 10 x 23 x 33 cm",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "—"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 23 x 33cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-waffle-maker-gw-01-1200w",
+		"name": "Mondial Waffle Maker GW-01 1200W",
+		"image": "/images/posts/melhor-maquina-de-waffle-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W e 4 waffles por preparo",
+			"Temperatura regulável e chapa antiaderente",
+			"Corpo de plástico e aço inox",
+			"Peso de 1,3kg e dimensões de 10,5 x 20,5 x 25 cm",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 20,5 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-golden-waffle-2-850w",
+		"name": "Britânia Golden Waffle 2 850W",
+		"image": "/images/posts/melhor-maquina-de-waffle-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 850W e formato triangular",
+			"Controle de temperatura em 11 níveis",
+			"Corpo de aço inox e chapa antiaderente",
+			"Peso de 1,27kg e capacidade de 4 waffles",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável em 11 níveis"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13,2 x 20,8 x 26,9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,27kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "multilaser-multi-ce188-1200w",
+		"name": "Multilaser Multi - CE188 1200W",
+		"image": "/images/posts/melhor-maquina-de-waffle-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 850W ou 1200W",
+			"Temperatura regulável e chapa antiaderente",
+			"Formato triangular e 4 waffles por preparo",
+			"Peso de 1,23kg e dimensões de 10,5 x 20,7 x 25 cm",
+			"Alimentação em 127V, com corpo de plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W ou 1200W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 20,7 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,23kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V"
+			}
+		]
+	},
+	{
+		"id": "britania-golden-waffle-850w",
+		"name": "Britânia Golden Waffle 850W",
+		"image": "/images/posts/melhor-maquina-de-waffle-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 850W e formato triangular",
+			"Controle de temperatura em 11 níveis",
+			"Peso de 1,22kg, o mais leve desta lista",
+			"Dimensões de 10,8 x 20 x 24,5 cm",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável em 11 níveis"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,8 x 20 x 24,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,22kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-maxx-gold-pwm02pg-850w",
+		"name": "Philco Maxx Gold PWM02PG 850W",
+		"image": "/images/posts/melhor-maquina-de-waffle-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 850W e formato triangular",
+			"Controle de temperatura em 11 níveis",
+			"Chapa antiaderente e corpo de plástico e aço inox",
+			"Dimensões de 11,5 x 20 x 25,5 cm",
+			"Peso de 1,25kg e alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Formato do Waffle",
+				"value": "triângulo"
+			},
+			{
+				"label": "Capacidade por preparo",
+				"value": "4"
+			},
+			{
+				"label": "Controle de temperatura",
+				"value": "regulável em 11 níveis"
+			},
+			{
+				"label": "Revestimento da chapa",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "plástico e aço inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,5 x 20 x 25,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,25kg"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

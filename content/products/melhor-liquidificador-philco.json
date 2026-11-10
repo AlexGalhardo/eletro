@@ -1,0 +1,338 @@
+[
+	{
+		"id": "philco-plq15a-1500w-3-1-litros",
+		"name": "Philco PLQ15A 1500W 3,1 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor de 1500W com 12 velocidades e pulsar",
+			"Jarra de 3,1 litros com tampa dosadora",
+			"Função Ice e autolimpeza para o dia a dia",
+			"Faca de 6 lâminas com tecnologia Pro Maxx 6"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "3,1 litros"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; jarra de plástico; sobretampa dosadora; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Ice; função autolimpeza; base antiderrapante; tampa com dosador; faca de 6 lâminas com tecnologia Pro Maxx 6"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,2kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plq1350-1200w-2-65-litros",
+		"name": "Philco PLQ1350 1200W 2,65 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Copo de vidro com 1,75 litro útil",
+			"Função Ice que tritura gelo",
+			"Lâminas de aço inox com tecnologia Pro Maxx 6",
+			"Porta-fio para guardar o cabo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2,65 litros (total); 1,75 litro (útil)"
+			},
+			{
+				"label": "Material do copo",
+				"value": "vidro"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; tampa com dosador; copo de vidro; manual de instruções"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema autolimpeza; função Ice (tritura gelo); lâminas em aço inox com tecnologia Pro Maxx 6; base antiderrapante; porta-fio"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "3,69kg"
+			}
+		]
+	},
+	{
+		"id": "philco-ph900-1200w-3-litros",
+		"name": "Philco PH900 1200W 3 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro separador de sementes e bagaço",
+			"Jarra de SAN acrílico de 3 litros",
+			"Sistema de segurança para o funcionamento",
+			"Lâminas serrilhadas e função autolimpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "3 litros"
+			},
+			{
+				"label": "Material do copo",
+				"value": "SAN (Estireno Acrilonitrilo)"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; jarra de SAN acrílico; filtro separador de sementes e bagaço; tampa com copo dosador; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Ice; função autolimpeza; lâminas serrilhadas; sistema de segurança para funcionamento; base antiderrapante"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,01kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plq2100pi-1200w-3-litros",
+		"name": "Philco PLQ2100PI 1200W 3 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Encaixe rápido para montar a jarra",
+			"Lâminas serrilhadas e lisas em aço inox",
+			"Filtro separador de sementes e bagaço",
+			"Porta-fio para organizar o cabo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "3 litros"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; tampa com copo dosador; jarra de plástico; filtro separador de sementes e bagaço; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de encaixe rápido; função autolimpeza; lâminas serrilhadas e lisas em aço inox; função Ice; função pulsar; porta-fio; base antiderrapante"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,5kg"
+			}
+		]
+	},
+	{
+		"id": "philco-fit-retro-blender-300w-600ml",
+		"name": "Philco Fit Retrô Blender 300W 600ml",
+		"image": "/images/posts/melhor-liquidificador-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dois copos de 600ml com tampas de bico",
+			"Potência de 300W com uma velocidade",
+			"Quatro lâminas de inox e base antiderrapante",
+			"Copo de plástico Tritan"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "300W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "2x 600ml"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico"
+			},
+			{
+				"label": "Velocidades",
+				"value": "1 velocidade"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "2 copos (600ml cada); 2 tampas com bico de abertura"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Tritan; 4 lâminas de inox; base antiderrapante"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,01kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plq1430p-1400w-3-litros",
+		"name": "Philco PLQ1430P 1400W 3 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1400W para bater e triturar",
+			"Jarra de plástico de 3 litros com dosador",
+			"Lâminas serrilhadas para processar os ingredientes",
+			"Base antiderrapante e função Ice"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1400W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "3 litros"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; tampa com dosador; jarra de plástico; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função Ice; função autolimpeza; lâminas serrilhadas; base antiderrapante"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,29kg"
+			}
+		]
+	},
+	{
+		"id": "philco-plq1600p-1200w-3-litros",
+		"name": "Philco PLQ1600P 1200W 3 litros",
+		"image": "/images/posts/melhor-liquidificador-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Botão Turbo Express para preparos mais rápidos",
+			"Filtro interno para sucos sem sementes ou bagaço",
+			"Botão Ice Crush para triturar gelo",
+			"Lâminas Pro Maxx 6 com tampa dosadora"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Capacidade do copo",
+				"value": "3 litros"
+			},
+			{
+				"label": "Material do copo",
+				"value": "plástico"
+			},
+			{
+				"label": "Velocidades",
+				"value": "12 velocidades + função pulsar"
+			},
+			{
+				"label": "Itens inclusos",
+				"value": "unidade motora; jarra plástica; filtro; tampa com dosador; manual de instruções; certificado de garantia"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tampa com dosador; tecnologia de lâminas Pro Maxx 6; botão Ice Crush; botão pulse/autoclean; botão Turbo Express; filtro interno para sucos sem semente ou bagaço; base antiderrapante"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "2,33kg"
+			}
+		]
+	}
+]

@@ -1,0 +1,350 @@
+[
+	{
+		"id": "relaxshop-foot-massager",
+		"name": "Relaxshop Foot Massager",
+		"image": "/images/posts/melhor-massageador-de-pes-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vibração combinada com rotação para a musculatura dos pés",
+			"Três níveis de intensidade ajustáveis",
+			"Alimentação bivolt para as duas faixas de tensão",
+			"Controle por botões físicos ou painel digital"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória e rotação"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "botões físicos ou painel digital"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "pés, pernas e panturrilhas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "50 x 45 x 45cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,9kg"
+			}
+		]
+	},
+	{
+		"id": "relaxmedic-rm-fm5001a",
+		"name": "RelaxMedic RM-FM5001A",
+		"image": "/images/posts/melhor-massageador-de-pes-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compressão e aquecimento além da vibração",
+			"Desligamento automático após 15 minutos",
+			"Vibração e rotação em três níveis ajustáveis",
+			"Medidas fechadas de 30 x 49,8 x 38,9cm facilitam o armazenamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória, rotação, compressão e aquecimento"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "15min"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "botões físicos ou painel digital"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "pés, pernas e panturrilhas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "30 x 49,8 x 38,9cm (fechado); 46 x 48,3 x 42,3cm (aberto)"
+			},
+			{
+				"label": "Peso",
+				"value": "9,43kg"
+			}
+		]
+	},
+	{
+		"id": "multilaser-saude-hc007",
+		"name": "Multilaser Saúde - HC007",
+		"image": "/images/posts/melhor-massageador-de-pes-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vibração com aquecimento para a sola do pé",
+			"Botão rotativo com três níveis de intensidade",
+			"Área de massagem na sola, calcanhar e arco do pé",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "hidromassagem"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória e aquecimento"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Controle",
+				"value": "botão rotativo"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "sola, calcanhar, arco do pé"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,5 x 33,8 x 16,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,85kg"
+			}
+		]
+	},
+	{
+		"id": "relaxshop-foot-massager-4",
+		"name": "Relaxshop Foot Massager",
+		"image": "/images/posts/melhor-massageador-de-pes-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Massagem para sola, calcanhar, arco e tornozelos",
+			"Vibração e rotação em três intensidades",
+			"Botões físicos ou painel digital para controlar",
+			"Alimentação bivolt para 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória e rotação"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "botões físicos ou painel digital"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "sola, calcanhar, arco do pé, tornozelos"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 58 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "7,8kg"
+			}
+		]
+	},
+	{
+		"id": "dellamed-beauty-care",
+		"name": "Dellamed Beauty Care",
+		"image": "/images/posts/melhor-massageador-de-pes-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento somado à vibração e à rotação",
+			"Desligamento automático após 30 minutos",
+			"Dois níveis de intensidade ajustáveis",
+			"Botões físicos e alimentação bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória, rotação e aquecimento"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "30min"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "2 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "sola, calcanhar, arco do pé"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "23 x 36 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,5kg"
+			}
+		]
+	},
+	{
+		"id": "supermedy-anti-stress-premium",
+		"name": "Supermedy Anti Stress Premium",
+		"image": "/images/posts/melhor-massageador-de-pes-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro níveis de intensidade para ajustar a massagem",
+			"Peso de 800g segundo a ficha técnica",
+			"Massagem para braços, panturrilha, pernas e pés",
+			"Vibração e rotação com botões físicos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória e rotação"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "15min"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "4 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "botões físicos"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "braços, panturrilha, pernas, pés"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 34 x 20cm"
+			},
+			{
+				"label": "Peso",
+				"value": "800g"
+			}
+		]
+	},
+	{
+		"id": "relaxshop-foot-intense-relax",
+		"name": "Relaxshop Foot Intense Relax",
+		"image": "/images/posts/melhor-massageador-de-pes-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Desligamento automático entre 5 e 30 minutos",
+			"Painel digital para controlar a massagem",
+			"Função de aquecimento somada à rotação",
+			"Massagem para pés, tornozelos e panturrilhas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrico"
+			},
+			{
+				"label": "Funções",
+				"value": "massagem vibratória, rotação e aquecimento"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "5 a 30min"
+			},
+			{
+				"label": "Níveis de intensidade",
+				"value": "3 níveis ajustáveis"
+			},
+			{
+				"label": "Alimentação",
+				"value": "bivolt"
+			},
+			{
+				"label": "Controle",
+				"value": "painel digital"
+			},
+			{
+				"label": "Área de aplicação",
+				"value": "pés, tornozelos, panturrilhas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "32 x 51 x 30cm"
+			}
+		]
+	}
+]

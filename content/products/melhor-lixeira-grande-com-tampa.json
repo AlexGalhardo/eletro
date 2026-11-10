@@ -1,0 +1,350 @@
+[
+	{
+		"id": "vonder-63-56-055-003-55-litros",
+		"name": "Vonder 63.56.055.003 (55 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abertura por sensor infravermelho",
+			"Volume interno de 55 litros",
+			"Sistema de amortecimento e aro removível",
+			"Base emborrachada e alça externa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Volume interno",
+				"value": "55 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "sensor infravermelho"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema de amortecimento; aro removível; base emborrachada; funcionamento com 4 pilhas AA"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 42,5 x 28,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-63-56-050-003-50-litros",
+		"name": "Vonder 63.56.050.003 (50 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pedal mecânico com amortecimento",
+			"Balde interno de plástico removível",
+			"Volume interno de 50 litros",
+			"Base emborrachada e alça externa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Volume interno",
+				"value": "50 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico com amortecimento"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível"
+			},
+			{
+				"label": "Alça externa",
+				"value": "sim"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema de amortecimento; base emborrachada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 47,5 x 39cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,95kg"
+			}
+		]
+	},
+	{
+		"id": "arqplast-25752-60-litros",
+		"name": "Arqplast 25752 (60 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Volume interno de 60 litros, o maior da lista",
+			"Pedal mecânico e rodinhas",
+			"Dispenser menor na tampa",
+			"Corpo em plástico polipropileno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico polipropileno"
+			},
+			{
+				"label": "Volume interno",
+				"value": "60 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "dispenser menor na tampa; rodinhas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "60,5 x 40,4 x 42,4cm"
+			}
+		]
+	},
+	{
+		"id": "vonder-63-56-030-003-30-litros",
+		"name": "Vonder 63.56.030.003 (30 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Volume interno de 30 litros, o menor da lista",
+			"Balde interno de plástico removível com alça",
+			"Pedal mecânico com sistema de amortecimento",
+			"Base emborrachada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "aço inox 410"
+			},
+			{
+				"label": "Volume interno",
+				"value": "30 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "plástico removível com alça"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "sistema de amortecimento; base emborrachada"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62 x 34,5 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,85kg"
+			}
+		]
+	},
+	{
+		"id": "arqplast-25744-45-litros",
+		"name": "Arqplast 25744 (45 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato cilíndrico com 45 litros",
+			"Aro interno para o saco de lixo",
+			"Pedal mecânico",
+			"Corpo em plástico polipropileno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico polipropileno"
+			},
+			{
+				"label": "Volume interno",
+				"value": "45 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "cilíndrico"
+			},
+			{
+				"label": "Extras",
+				"value": "aro interno para o saco de lixo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "62,5 x 33 x 41,5cm"
+			}
+		]
+	},
+	{
+		"id": "jaguar-eco-nature-41325-40-litros",
+		"name": "Jaguar Eco Nature 41325 (40 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pedal mecânico",
+			"Volume interno de 40 litros",
+			"Formato retangular",
+			"Corpo em plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico"
+			},
+			{
+				"label": "Volume interno",
+				"value": "40 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal mecânico"
+			},
+			{
+				"label": "Balde interno",
+				"value": "não"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "––"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 34 x 43,5cm"
+			}
+		]
+	},
+	{
+		"id": "ou-trium-46-4l-lx4450ptf-46-litros",
+		"name": "Ou Trium 46+4L LX4450PTF (46 litros)",
+		"image": "/images/posts/melhor-lixeira-grande-com-tampa-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Volume interno de 46 litros",
+			"Dois compartimentos internos",
+			"Anel interno de fixação",
+			"Acabamento fosco em polipropileno"
+		],
+		"technicalDetails": [
+			{
+				"label": "Material do corpo",
+				"value": "plástico polipropileno (PP)"
+			},
+			{
+				"label": "Acabamento",
+				"value": "fosco"
+			},
+			{
+				"label": "Volume interno",
+				"value": "46 litros"
+			},
+			{
+				"label": "Tipo de abertura",
+				"value": "pedal"
+			},
+			{
+				"label": "Alça externa",
+				"value": "não"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Extras",
+				"value": "pedal; dois compartimentos inteligentes; anel interno de fixação"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "56 x 40 x 30,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,06kg"
+			}
+		]
+	}
+]

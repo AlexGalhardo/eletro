@@ -1,0 +1,286 @@
+[
+	{
+		"id": "wahl-legend-cordless",
+		"name": "Wahl Legend Cordless",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com fio ou bateria, com autonomia de 1h40",
+			"Oito pentes premium de 1/16″ a 1″",
+			"Lâmina wedge em aço carbono cromada",
+			"Acompanha óleo, escova e protetor de lâmina"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 40 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "Wedge em aço carbono cromada"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes premium (1/16″ a 1″); óleo lubrificante; escova de limpeza; protetor de lâmina"
+			},
+			{
+				"label": "Peso",
+				"value": "305g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-legend",
+		"name": "Wahl Legend",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Lâmina wedge com oito pentes premium",
+			"Pente de topo plano incluso",
+			"Pincel de limpeza e óleo protetor de lâmina",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "Wedge"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes premium (#1/2 (1,5mm), #1 (3mm), #1½ (4,5mm), #2 (6mm), #3 (10mm), #4 (13mm), #6 (19mm) e #8 (25mm)); pente de topo plano; pincel de limpeza; óleo protetor de lâmina"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wahl-easy-cut",
+		"name": "Wahl Easy Cut",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco pentes graduadores de #1 a #8",
+			"Lâmina em aço com alto teor de carbono",
+			"Óleo de lubrificação e escova de limpeza",
+			"Protetor de lâmina incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço com alto teor de carbono"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 pentes graduadores (#1, #2, #3, #4 e #8); óleo de lubrificação de lâmina; escova de limpeza; protetor de lâmina"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wahl-color-pro-cordless",
+		"name": "Wahl Color Pro Cordless",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Doze pentes e tesoura inclusos",
+			"Funciona com fio e bateria, com autonomia de 60 minutos",
+			"Lâmina de aço inoxidável",
+			"Estojo e carregador inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "60 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "12 pentes; protetor de lâmina; tesoura; pente; escova de limpeza; óleo lubrificante; estojo; carregador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-style-pro",
+		"name": "Wahl Style Pro",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito pentes guia e tesoura inclusos",
+			"Escova de limpeza e óleo lubrificante",
+			"Lâmina de aço inoxidável",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inoxidável"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes guia; tesoura; escova de limpeza; óleo lubrificante; protetor de lâmina; pente"
+			},
+			{
+				"label": "Peso",
+				"value": "476g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wahl-home-cut",
+		"name": "Wahl Home Cut",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito pentes graduadores de #1 a #8",
+			"Pente plano e tesoura inclusos",
+			"Lâmina em aço ao carbono",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "—"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "—"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço ao carbono"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8 pentes graduadores (#1, #2, #3, #4, #5, #6, #7 e #8); pente plano; tesoura; óleo lubrificante; pincel de limpeza; protetor de lâmina"
+			},
+			{
+				"label": "Peso",
+				"value": "591g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "wahl-detailer-lithium-cordless",
+		"name": "Wahl Detailer Lithium Cordless",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-wahl-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona com bateria, com autonomia de 120 minutos",
+			"Três pentes de 1,5 mm, 3 mm e 4,5 mm",
+			"Pente de topo para pentear o cabelo",
+			"Bivolt e peso de 500g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "120 minutos"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "3 pentes (#1/2 (1,5mm), #1 (3mm) e #1½ (4,5mm)); pincel de limpeza; óleo; protetor de lâmina; pente de topo para pentear cabelo"
+			},
+			{
+				"label": "Peso",
+				"value": "500g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

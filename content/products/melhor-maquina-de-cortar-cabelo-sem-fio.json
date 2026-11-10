@@ -1,0 +1,286 @@
+[
+	{
+		"id": "wahl-vapor-5-stars-cordless",
+		"name": "Wahl Vapor 5 Stars Cordless",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso com fio e bateria, com autonomia de 2h30",
+			"Recarga em 1 hora",
+			"Lâmina F32 FADEOUT com revestimento em aço carbono DLC",
+			"Sete pentes graduadores premium e 280g de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "F32 FADEOUT com revestimento em aço carbono DLC"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "7x pentes graduadores de altura premium;óleo lubrificante; escova de limpeza; protetor de lâmina; carregador"
+			},
+			{
+				"label": "Peso",
+				"value": "280g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-launch-combo",
+		"name": "Wahl Launch Combo",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Kit com máquina de corte e trimmer de acabamento",
+			"Autonomia de 2 horas com bateria",
+			"Pentes graduadores especiais, incluindo os tamanhos 1/2 e 1 1/2",
+			"Bivolt, com 262g na máquina de corte e 147g no trimmer"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "2 horas"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "máquina de acabamento Wahl Launch Cordless bivolt; pente graduador especial tamanho 1/2 (meio) para disfarce; 1 pente graduador especial tamanho 1.1/2 (um e meio) para transições; 1 kit complementar de pentes guias de altura para a máquina de corte; 1 jogo de pentes guias de altura dedicados para o trimmer de acabamento; pincéis de limpeza; óleo lubrificante; protetores de lâmina; carregador"
+			},
+			{
+				"label": "Peso",
+				"value": "262g (máquina de corte) e 147g (trimmer)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-family-cut-pro",
+		"name": "Wahl Family Cut Pro",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso com fio e bateria, com autonomia de 1 hora",
+			"Oito pentes guia de 3mm a 25mm",
+			"Lâmina de aço de alto carbono autoafiável",
+			"Tesoura para arremates e estojo organizador"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço de alto carbono autoafiáveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8x pentes guia de altura (3mm, 6mm, 10mm, 13mm, 16mm, 19mm, 22mm e 25mm); tesoura para pequenos arremates e acabamentos; pente de cabeleireiro/barbeiro; bolsa/estojo organizadora; frasco de óleo lubrificante de lâminas; escova/pincel de limpeza; protetor acrílico de lâmina"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "philips-hc5610-15",
+		"name": "Philips HC5610/15",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso com fio e bateria, com autonomia de 1h15",
+			"Recarga completa em 8 horas",
+			"Lâmina em aço inox autoafiável",
+			"Pente de barba e dois pentes de cabelo, longo e curto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 15 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "8 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox autoafiáveis"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 pente de barba; 2x pentes de cabelo (longo e curto); 1 escova de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-1995",
+		"name": "Kemei KM-1995",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de 3 horas com bateria",
+			"Recarga em 3,5 horas",
+			"Quatro pentes de 3, 6, 10 e 12mm",
+			"Lâmina em aço inox e peso de 350g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "3 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "3,5 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "4x pentes (3/6/10/12mm); frasco com óleo lubrificante; escova de limpeza; cabo para carregamento"
+			},
+			{
+				"label": "Peso",
+				"value": "350g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "kemei-km-2600",
+		"name": "Kemei KM-2600",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autonomia de mais de 2 horas com bateria",
+			"Recarga em 1h30 com cabo USB",
+			"Seis pentes guia, incluindo três especiais de 1,5mm a 4,5mm",
+			"Protetor de lâmina e pincel de limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "+2 horas"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "1 hora e 30 minutos"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "aço inox"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "protetor de lâmina; 3x pentes especiais (1.5/3/4.5mm); 3x pentes comuns (6/10/13mm); cabo carregador USB; pincel de limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wahl-magic-clip-cordless",
+		"name": "Wahl Magic Clip Cordless",
+		"image": "/images/posts/melhor-maquina-de-cortar-cabelo-sem-fio-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso com fio e bateria, com autonomia de 1h30",
+			"Recarga em 2 horas",
+			"Oito pentes com clip de metal, de #½ a #8",
+			"Lâmina cromada e 335g de peso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo de alimentação",
+				"value": "com fio e bateria"
+			},
+			{
+				"label": "Autonomia de uso",
+				"value": "1 hora e 30 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "2 horas"
+			},
+			{
+				"label": "Material da lâmina",
+				"value": "cromada"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "8x pentes graduadores de altura Premium, com clip de metal nos tamanhos (#½, #1, #1½, #2, #3, #4, #6 e #8); óleo lubrificante; escova de limpeza; pente; protetor de lâmina"
+			},
+			{
+				"label": "Peso",
+				"value": "335g"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

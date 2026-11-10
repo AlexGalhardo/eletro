@@ -1,0 +1,379 @@
+[
+	{
+		"id": "electrolux-me23s-1100w-23-litros",
+		"name": "Electrolux ME23S 1100W 23 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Maior capacidade desta seleção, com 23 litros",
+			"Desidratar, derreter e cozinhar delicado entre as funções",
+			"Prato de 27cm e porta espelhada",
+			"Descongelamento assistido que avisa para virar ou mexer",
+			"QR code para acessar receitas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "23 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "4"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; QR code para receitas; trava de segurança; receitas pré-programadas; função descongelar; relógio; desidratar; cozinhar rápido; cozinhar delicado; derreter; economia de energia (desliga display); mudo; descongelamento assistido (avisa para virar/mexer); cancela/pausa; início/+30 segundos"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "29 x 46,1 x 35,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-mto30-1300w-20-litros",
+		"name": "Electrolux MTO30 1300W 20 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1300W, a maior da lista",
+			"Menus Dia a Dia, Kids e Light",
+			"Botões de membrana com nove programas",
+			"Aquecer prato pronto e função porção"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1300W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões de membrana"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; manter aquecido; QR code para receitas; trava de segurança; receitas pré-programadas; função descongelar; relógio; menu Dia a Dia; menu Kids; menu Light; início/+30 segundos; aquecer prato pronto; mudo; porção; potência; cancela/pausa"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "24,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,25 x 45,5 x 34,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,1kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pmo23-1100w-20-litros",
+		"name": "Philco PMO23 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função tira odor e desodorizador",
+			"Descongelar por peso e descongelar rápido",
+			"Teclas fáceis FIT e manter aquecido",
+			"Pintura Limpa Fácil e porta espelhada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "5"
+			},
+			{
+				"label": "Funções",
+				"value": "teclas fáceis (FIT e manter aquecido); descongelar rápido; descongelar por peso; função potência; função relógio; função display/sound; função tira odor; desodorizador; adicionar +30 segundos; cancela/pausa; pintura Limpa Fácil"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 45,5 x 35,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "panasonic-nn-st27lwru-700w-21-litros",
+		"name": "Panasonic NN-ST27LWRU 700W 21 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Autorreaquecimento e três receitas pré-programadas",
+			"Tecnologia Antibacteria Ag na cavidade",
+			"Revestimento antiaderente e pega fácil",
+			"Trava de segurança eletrônica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "21 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "700W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Funções",
+				"value": "autorreaquecimento; desodorizador; trava de segurança eletrônica; Antibacteria Ag; +30 segundos; pega fácil; revestimento antiaderente; relógio; potência; 3 receitas pré-programadas; descongelamento em 3 opções"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "27cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 44,2 x 36,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "midea-mhp20b1-1050w-20-litros",
+		"name": "Midea MHP20B1 1050W 20 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dez níveis de potência e função ECO",
+			"Modo MasterCook com seis formas de preparo",
+			"Modo silêncio e desodorizador",
+			"Prato giratório inteligente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1050W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "3"
+			},
+			{
+				"label": "Funções",
+				"value": "MasterCook (desidratar, derreter, cozinhar a vapor, cozinhar, assar e fermentar); Baby Care; manter aquecido; silêncio; limpa fácil; relógio; potência; ECO; desodorizador; tecla Iniciar/+30 segundos; 10 níveis de potência; 3 receitas pré-programadas (arroz, brigadeiro e pipoca); descongelamento por tempo e peso; prato giratório inteligente; pausar"
+			},
+			{
+				"label": "Diâmetro do prato",
+				"value": "25,5cm"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "25,8 x 43,9 x 33,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,4kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-mo-01-21-1200w-21-litros",
+		"name": "Mondial MO-01-21 1200W 21 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com dez níveis",
+			"Menu dia a dia e menu kids",
+			"Iniciar fácil e função mudo",
+			"Porta branca e 21 litros de capacidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "21 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "branca"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "9"
+			},
+			{
+				"label": "Funções",
+				"value": "tira odor; descongelar; manter aquecido; menu dia a dia/menu kids; função relógio; 10 níveis de potência; QR Code para receitas; trava de segurança; adicionar +30 segundos; cancela/pausa; iniciar fácil; função mudo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26,2 x 45,5 x 34,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,55kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bmo23-1100w-20-litros",
+		"name": "Britânia BMO23 1100W 20 litros",
+		"image": "/images/posts/melhor-microondas-barato-e-pequeno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cozinhar e descongelar por peso ou tempo",
+			"Quatro receitas pré-programadas",
+			"Timer e toque rápido",
+			"Função reaquecer e tira odor"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20 litros"
+			},
+			{
+				"label": "Potência",
+				"value": "1100W"
+			},
+			{
+				"label": "Painel de controle",
+				"value": "botões sensíveis ao toque (touchscreen)"
+			},
+			{
+				"label": "Porta",
+				"value": "espelhada"
+			},
+			{
+				"label": "Quantidade de programas",
+				"value": "4"
+			},
+			{
+				"label": "Funções",
+				"value": "cozinhar por peso ou tempo; descongelar por peso ou tempo; tira odor; reaquecer; trava de segurança; timer; relógio; potência; toque rápido; +30 segundos; 4 receitas pré-programadas"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 46 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,69kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

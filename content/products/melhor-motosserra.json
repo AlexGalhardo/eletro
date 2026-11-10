@@ -1,0 +1,326 @@
+[
+	{
+		"id": "husqvarna-forestal-120-14-gasolina",
+		"name": "Husqvarna Forestal 120 14\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 4,4kg, o mais leve da lista",
+			"Potência de 1,44kW (1,96cv) com cilindrada de 35cm³",
+			"Sabre de 40cm com passo de corrente de 3/4″",
+			"Nível de ruído de 111dB informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "1,44kW (1,96cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "35cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "40cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "3/4″"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "111dB"
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			}
+		]
+	},
+	{
+		"id": "stihl-2-stroke-ms-162-16-gasolina",
+		"name": "Stihl 2-Stroke Ms 162 16\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1,3kW (1,77cv) com cilindrada de 30,1cm³",
+			"Sabre de 30cm com passo de corrente de 3/8″",
+			"Tanque de 396ml e reservatório de óleo de 280ml",
+			"Peso de 4,5kg sem o conjunto de corte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "1,3kW (1,77cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "30,1cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "30cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "3/8″"
+			},
+			{
+				"label": "Capacidade do tanque",
+				"value": "396ml"
+			},
+			{
+				"label": "Capacidade do reservatório de óleo",
+				"value": "280ml"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "110dB"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg (sem conjunto de corte)"
+			}
+		]
+	},
+	{
+		"id": "tekna-cs58p18-18-gasolina",
+		"name": "Tekna CS58P18 18\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2,39kW (3,25cv) com cilindrada de 54,5cm³",
+			"Sabre de 45,7cm com passo de corrente de 3/8″",
+			"Motor a gasolina de 2 tempos",
+			"Peso de 5,9kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "2,39kW (3,25cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,5cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "45,7cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "3/8″"
+			},
+			{
+				"label": "Peso",
+				"value": "5,9kg"
+			}
+		]
+	},
+	{
+		"id": "nakasaki-nk-780at-s-22-gasolina",
+		"name": "Nakasaki NK-780AT-S 22\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cilindrada de 78cm³, a maior da lista",
+			"Sabre de 55cm, o maior da lista",
+			"Potência de 1,64kW (2,23cv)",
+			"Peso de 8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "1,64Kw (2,23cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "78cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "55cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-ev-2000-16-eletrica",
+		"name": "Vonder EV 2000 16\" (elétrica)",
+		"image": "/images/posts/melhor-motosserra-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor elétrico de 2000W",
+			"Sabre de 40,6cm com passo de corrente de 3/8″",
+			"Reservatório de óleo de 110ml",
+			"Nível de ruído de 112dB informado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "elétrica"
+			},
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "40,6cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "3/8″"
+			},
+			{
+				"label": "Capacidade do tanque",
+				"value": "—"
+			},
+			{
+				"label": "Capacidade do reservatório de óleo",
+				"value": "110ml"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "112dB"
+			},
+			{
+				"label": "Peso",
+				"value": "5kg"
+			}
+		]
+	},
+	{
+		"id": "toyama-tcs58h-18snb-18-gasolina",
+		"name": "Toyama TCS58H-18SNB 18\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2,39kW (3,25cv) com cilindrada de 54,4cm³",
+			"Tanque de 550ml e reservatório de óleo de 260ml",
+			"Sabre de 45,7cm com passo de corrente de 3/8″",
+			"Peso de 5,32kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "2,39kW (3,25cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,4cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "45,7cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "3/8″"
+			},
+			{
+				"label": "Capacidade do tanque",
+				"value": "550ml"
+			},
+			{
+				"label": "Capacidade do reservatório de óleo",
+				"value": "260ml"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "113,2dB"
+			},
+			{
+				"label": "Peso",
+				"value": "5,32kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-mgp-546-18-gasolina",
+		"name": "Vonder MGP 546 18\" (gasolina)",
+		"image": "/images/posts/melhor-motosserra-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2,5kW (3,3cv), a maior da lista",
+			"Tanque de 560ml, o maior da lista",
+			"Sabre de 45,7cm com passo de corrente de 0,325″",
+			"Peso de 8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "combustão – 2 tempos (gasolina)"
+			},
+			{
+				"label": "Potência",
+				"value": "2,5kW (3,3cv)"
+			},
+			{
+				"label": "Cilindrada",
+				"value": "54,6cm³"
+			},
+			{
+				"label": "Comprimento do sabre",
+				"value": "45,7cm"
+			},
+			{
+				"label": "Passo da corrente",
+				"value": "0,325″"
+			},
+			{
+				"label": "Capacidade do tanque",
+				"value": "560ml"
+			},
+			{
+				"label": "Capacidade do reservatório de óleo",
+				"value": "260ml"
+			},
+			{
+				"label": "Nível de ruído",
+				"value": "114dB"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			}
+		]
+	}
+]
