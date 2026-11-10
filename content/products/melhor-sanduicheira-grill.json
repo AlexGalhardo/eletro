@@ -1,0 +1,338 @@
+[
+	{
+		"id": "oster-bioceramic-ckstpa4881-1500w",
+		"name": "Oster Bioceramic CKSTPA4881 1500W",
+		"image": "/images/posts/melhor-sanduicheira-grill-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dupla camada de cerâmica com tecnologia Bioceramic",
+			"Abertura de 180º e coletor de gordura",
+			"Alça em inox que isola o calor",
+			"Botão seletor de temperatura e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente com revestimento cerâmico"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "dupla camada de cerâmica; tecnologia exclusiva Bioceramic; abertura 180º; coletor de gordura; lindo acabamento em aço inox; botão seletor de temperatura; alça em inox que isola o calor; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 x 35 x 28cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,74kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-mini-ogrl230-1000w",
+		"name": "Oster Mini OGRL230 1000W",
+		"image": "/images/posts/melhor-sanduicheira-grill-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Design compacto de 1,4kg",
+			"Alça isotérmica e base antiderrapante",
+			"Trava de fechamento e abertura de 180º",
+			"Placas lisa e ondulada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "chapas antiaderentes"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "lisa e ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design compacto; alça isotérmica; base antiderrapante; trava de fechamento; abertura de 180º"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 28 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-press-bgr27i-850w",
+		"name": "Britânia Press BGR27I 850W",
+		"image": "/images/posts/melhor-sanduicheira-grill-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Antiaderente Dura Mais",
+			"Chapa superior ondulada e inferior lisa",
+			"Pesa 242g, o mais leve da lista",
+			"Pés antiderrapantes e alça fria"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente Dura Mais"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "lisa e ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapa superior ondulada e inferior lisa; placas ajustáveis; alça fria; trava de fechamento; acabamento em aço inox; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 26 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "242g"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pgr21pi-1000w",
+		"name": "Philco PGR21PI 1000W",
+		"image": "/images/posts/melhor-sanduicheira-grill-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Antiaderente Maxx Clean, 4 vezes mais resistente",
+			"Coletor de gordura tipo gaveta",
+			"Placas com ajuste de altura",
+			"Abertura de 180º e base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente Maxx Clean (4x mais resistente)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapa com abertura de 180º; coletor de gordura tipo gaveta; placas com ajuste de altura; base antiderrapante; acabamento em inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 26,6 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,26kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mallory-asteria-compact-900w",
+		"name": "Mallory ‎Asteria Compact 900W",
+		"image": "/images/posts/melhor-sanduicheira-grill-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chapas duplas ajustáveis",
+			"Coletor de gordura e trava de segurança",
+			"Acabamento em inox",
+			"Pés antiderrapantes"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "900W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapas duplas ajustáveis; coletor de gordura; acabamento em inox; trava de segurança; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "85 x 25 x 26,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,54kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pgr19pi-1500w",
+		"name": "Philco PGR19PI 1500W",
+		"image": "/images/posts/melhor-sanduicheira-grill-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento em cerâmica Redstone",
+			"Sete níveis de temperatura",
+			"Dois coletores de gordura",
+			"Luzes indicadoras de aquecimento e funcionamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "cerâmica Redstone"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "alça de inox com toque frio; chapa ajustável com abertura 180º; controle que permite selecionar 7 níveis de temperatura; 2 coletores de gordura; base antiderrapante; acabamento externo em inox; pés de apoio com regulagem de altura; luzes indicadoras de aquecimento e funcionamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27,1 x 33,5 x 12,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,17kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ogrl210-1200w",
+		"name": "Oster OGRL210 1200W",
+		"image": "/images/posts/melhor-sanduicheira-grill-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Dez níveis de temperatura",
+			"Sistema de altura ajustável",
+			"Coletor de gordura e abertura de 180º",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W (127) ou 1500W (220V)"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "onduladas"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "coletor de gordura; abertura 180º; 10 níveis de temperatura; sistema de altura ajustável; garantia de 1 ano; 2 luzes indicadoras de funcionamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13 x 30 x 34cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

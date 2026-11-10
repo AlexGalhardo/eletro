@@ -1,0 +1,391 @@
+[
+	{
+		"id": "deuter-astro-pro-400-6-c-a-24-c",
+		"name": "Deuter Astro Pro 400 (-6°C a -24°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura extrema de -24°C, a menor da lista",
+			"Enchimento de plumas de ganso",
+			"Revestimento com DWR, repelente à água",
+			"Capuz ajustável e bolsa de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "sarcófago"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "0°C a -6°C"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "-24°C"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "nylon ripstop + DWR (repelente à água)"
+			},
+			{
+				"label": "Forro interno",
+				"value": "nylon ripstop"
+			},
+			{
+				"label": "Enchimento",
+				"value": "plumas de ganso"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "205 x 68cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral"
+			},
+			{
+				"label": "Capuz",
+				"value": "com capuz ajustável"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "nautika-freedom-5-c-a-15-c",
+		"name": "Nautika Freedom (5°C a 15°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Enchimento hollow-fiber",
+			"Forro interno de algodão",
+			"Zíper lateral e bolsa de transporte",
+			"Formato envelope de 210 x 75cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "envelope"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "-1,5ºC"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "-3,5ºC"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliéster resinado com poliuretano"
+			},
+			{
+				"label": "Forro interno",
+				"value": "algodão"
+			},
+			{
+				"label": "Enchimento",
+				"value": "hollow-fiber"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "210 x 75cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral"
+			},
+			{
+				"label": "Capuz",
+				"value": "sem capuz ajustável"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "nautika-viper-5-c-a-12-c",
+		"name": "Nautika Viper (5°C a 12°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Enchimento hollow-fiber de 200g/m²",
+			"Zíper lateral completo e capuz ajustável",
+			"Forro de algodão e bolsa de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "envelope"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "5ºC a 12ºC"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "5ºC"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliéster 190T"
+			},
+			{
+				"label": "Forro interno",
+				"value": "algodão"
+			},
+			{
+				"label": "Enchimento",
+				"value": "hollow-fiber 200g/m²"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "210 x 75cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral completo"
+			},
+			{
+				"label": "Capuz",
+				"value": "com capuz ajustável"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "nautika-bugy-8-c-a-15-c",
+		"name": "Nautika Bugy (8°C a 15°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo mais curto da lista, com 180cm",
+			"Zíper lateral completo e forro de algodão",
+			"Enchimento hollow-fiber e bolsa de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "envelope"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "8ºC a 15ºC"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "8ºC"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliamida"
+			},
+			{
+				"label": "Forro interno",
+				"value": "algodão"
+			},
+			{
+				"label": "Enchimento",
+				"value": "hollow-fiber"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "180 x 75cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral completo"
+			},
+			{
+				"label": "Capuz",
+				"value": "sem capuz"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "guepardo-ultralight-5-c-a-15-c",
+		"name": "Guepardo Ultralight (5°C a 15°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Zíper lateral total e capuz",
+			"Enchimento hollow-fiber de 150g/m²",
+			"Revestimento em poliéster 190T",
+			"Formato sarcófago com bolsa de transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "sarcófago"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "5ºC a 15ºC"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "5ºC"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliéster 190T W/R W/P"
+			},
+			{
+				"label": "Forro interno",
+				"value": "poliéster 190T"
+			},
+			{
+				"label": "Enchimento",
+				"value": "hollow-fiber 150g/m²"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "200 x 80cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral total"
+			},
+			{
+				"label": "Capuz",
+				"value": "com capuz"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "azteq-zion-4-c-a-10-c",
+		"name": "Azteq Zion (-4°C a -10°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Temperatura extrema de -10°C",
+			"Enchimento de pluma de ganso e hollow-fiber",
+			"Comprimento de 230cm, o maior da lista",
+			"Capuz ajustável e zíper lateral parcial"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "sarcófago"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "0°C a -4°C"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "-10°C"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliamida 300T40D"
+			},
+			{
+				"label": "Forro interno",
+				"value": "pluma de ganso + hollow-fiber"
+			},
+			{
+				"label": "Enchimento",
+				"value": "pluma de ganso + hollow-fiber"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "230 x 80cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "lateral parcial"
+			},
+			{
+				"label": "Capuz",
+				"value": "com capuz ajustável"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	},
+	{
+		"id": "nautika-kuple-casal-5-c-a-5-c",
+		"name": "Nautika Kuple Casal (-5°C a 5°C)",
+		"image": "/images/posts/melhor-saco-de-dormir-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo para casal com 150cm de largura",
+			"Zíper duplo lateral e bolsa de transporte",
+			"Enchimento hollow-fiber e forro de algodão com poliéster"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "destacável casal"
+			},
+			{
+				"label": "Temperatura de conforto",
+				"value": "-5ºC a 5ºC"
+			},
+			{
+				"label": "Temperatura extrema",
+				"value": "-5ºC"
+			},
+			{
+				"label": "Revestimento externo",
+				"value": "poliéster 210T"
+			},
+			{
+				"label": "Forro interno",
+				"value": "algodão com poliéster"
+			},
+			{
+				"label": "Enchimento",
+				"value": "hollow-fiber"
+			},
+			{
+				"label": "Dimensões (C x L)",
+				"value": "210 x 150cm"
+			},
+			{
+				"label": "Zíper",
+				"value": "duplo lateral"
+			},
+			{
+				"label": "Capuz",
+				"value": "sem capuz"
+			},
+			{
+				"label": "Bolsa de transporte",
+				"value": "inclusa"
+			}
+		]
+	}
+]

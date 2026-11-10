@@ -1,0 +1,330 @@
+[
+	{
+		"id": "electrolux-pa31g",
+		"name": "Electrolux PA31G",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Câmara ultravioleta entre as três etapas",
+			"Vazão de 120L/h, a maior da lista",
+			"Retenção de partículas classe A",
+			"Refil com vida útil de 12 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "3 (carvão ativado com íons de prata, ultrafiltragem e câmara ultravioleta)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "120L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe A"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 12 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,8 x 25 x 31,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pa21g",
+		"name": "Electrolux PA21G",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Retenção de partículas classe A",
+			"Carvão ativado com íons de prata e ultrafiltragem",
+			"Água natural, fria e gelada",
+			"Refil com 3000 litros ou 12 meses de uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "2 (carvão ativado com íons de prata e ultrafiltragem)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe A"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 12 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "35,8 x 25 x 31,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe12g",
+		"name": "Electrolux PE12G",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtragem com polipropileno e carvão ativado",
+			"Água natural, fria e gelada",
+			"Dimensões compactas de 16cm de largura",
+			"Refil com vida útil de 3000 litros ou 6 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "2 (polipropileno e carvão ativado com íons de prata)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 6 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "34 x 16 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe11b",
+		"name": "Electrolux PE11B",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 100L/h",
+			"Polipropileno meltblown e carvão ativado",
+			"Peso de 4,7kg e dimensões de 33 x 25 x 28,4cm",
+			"Refil de 3000 litros ou 6 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "2 (polipropileno Meltblown e carvão ativado com íons de prata)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "100L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 6 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 25 x 28,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,7kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe15p",
+		"name": "Electrolux PE15P",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 2,8kg, um dos mais leves",
+			"Filtro de carvão com íons de prata e filtro PP",
+			"Água natural, fria e gelada",
+			"Refil de 3000 litros ou 6 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "2 (filtro de carvão ativado com íons de prata, filtro PP)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 6 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "36 x 17,8 x 42,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pn10x",
+		"name": "Electrolux PN10X",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 1,5kg, o mais leve da lista",
+			"Dimensões compactas de 14,4cm de largura",
+			"Retenção de partículas classe C",
+			"Refil de 3000 litros ou 6 meses"
+		],
+		"technicalDetails": [
+			{
+				"label": "Temperaturas da água",
+				"value": "natural"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 6 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "33 x 14,4 x 24,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "—"
+			}
+		]
+	},
+	{
+		"id": "electrolux-ph41b",
+		"name": "Electrolux PH41B",
+		"image": "/images/posts/melhor-purificador-de-agua-electrolux-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Água natural, quente e gelada",
+			"Vazão de 100L/h",
+			"Tensão de 127V ou 220V",
+			"Peso de 10,2kg, o mais pesado da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Etapas de filtragem",
+				"value": "2 (filtro de carvão ativado com íons de prata e polipropileno Meltblown)"
+			},
+			{
+				"label": "Temperaturas da água",
+				"value": "natural, quente e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "100L/h"
+			},
+			{
+				"label": "Retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000 litros ou 6 meses"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "42,3 x 29 x 37,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

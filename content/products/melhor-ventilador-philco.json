@@ -1,0 +1,425 @@
+[
+	{
+		"id": "philco-pvt07b-145w-teto",
+		"name": "Philco PVT07B 145W (teto)",
+		"image": "/images/posts/melhor-ventilador-philco-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função 3 em 1: ventilador, exaustor e luminária",
+			"Controle remoto e 3 velocidades",
+			"Luminária para duas lâmpadas",
+			"Funcionamento silencioso com função reverso",
+			"Peças desmontáveis para limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "teto"
+			},
+			{
+				"label": "Potência",
+				"value": "145W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "––"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "luminária para duas lâmpadas; função 3 em 1: ventilador, exaustor e luminária; função reverso; funcionamento silencioso; controle de velocidade em 3 níveis; baixa, média e alta no modo ventilação e exaustor; controle remoto; peças desmontáveis"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "39,3 x 108,3 x 108,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,4kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvt466-174w-coluna-e-mesa",
+		"name": "Philco PVT466 174W (coluna e mesa)",
+		"image": "/images/posts/melhor-ventilador-philco-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pode ser usado como coluna ou mesa",
+			"Tecnologia Maxx Force 10 com 10 pás",
+			"Funcionamento super silencioso",
+			"Grade removível para limpeza",
+			"Oscilação horizontal automática"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna e mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "174W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "10"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de velocidade em 3 níveis; tecnologia Maxx Force 10; super silencioso; pode ser usado como coluna ou mesa; oscilação horizontal automática; sistema de articulação; novo sistema de travamento entre grade frontal e traseira; alça na grade traseira; grade removível para limpeza"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "144 x 48 x 40,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,59kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvt491-174w-parede-e-mesa",
+		"name": "Philco PVT491 174W (parede e mesa)",
+		"image": "/images/posts/melhor-ventilador-philco-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona na parede ou na mesa",
+			"Grade de segurança e tecnologia Maxx Force",
+			"Inclinação vertical ajustável na articulação",
+			"Porta-fio para organizar o cabo",
+			"Trava entre grade frontal e traseira"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede e mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "174W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "funciona na parede ou mesa; controle de velocidade em 3 níveis; tecnologia Maxx Force; grade de segurança; oscilação horizontal automática; sistema de articulação com inclinação vertical ajustável; porta-fio; trava entre grade frontal e traseira; alça na grade traseira"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "66,8 x 48 x 37cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,3kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvt490-parede-e-mesa",
+		"name": "Philco PVT490 (parede e mesa)",
+		"image": "/images/posts/melhor-ventilador-philco-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso na mesa ou na parede com porta-fio",
+			"Oscilação horizontal, vertical e automática",
+			"Novo sistema de encaixe entre grade frontal e traseira",
+			"Tecnologia Maxx Force e controle em 3 níveis",
+			"Alça na grade traseira para transporte"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede e mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "165W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "pode ser usado na mesa ou parede; tecnologia Maxx Force; porta-fio; alça na grade traseira; grade de segurança; controle de velocidade em 3 níveis; novo sistema de encaixe entre grade frontal e traseira; oscilação horizontal, vertical e automática"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "61 x 47,5 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,24kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvc41a-175w-coluna",
+		"name": "Philco PVC41A 175W (coluna)",
+		"image": "/images/posts/melhor-ventilador-philco-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oscilação horizontal automática com 6 pás",
+			"Baixo consumo de energia elétrica",
+			"Baixo nível de ruído na operação",
+			"Grade de segurança com trava entre as partes",
+			"Sistema oscilante e articulação de inclinação vertical"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "175W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de velocidade em 3 níveis; grade de segurança; oscilação horizontal automática; sistema de articulação da inclinação vertical; porta-fio; trava entre grade frontal e traseira; sistema oscilante; baixo consumo de energia elétrica; baixo nível de ruído"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "162 x 48 x 45,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,5kg"
+			}
+		]
+	},
+	{
+		"id": "philco-40ph-160w-coluna",
+		"name": "Philco 40PH 160W (coluna)",
+		"image": "/images/posts/melhor-ventilador-philco-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"10 pás e 40cm de diâmetro para circulação do ar",
+			"Baixo consumo de energia e baixo ruído",
+			"Grade de segurança com sistema de travamento",
+			"Porta-fio e inclinação vertical ajustável",
+			"Sistema oscilante com oscilação horizontal automática"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "160W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "10"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de velocidade em 3 níveis; grade de segurança com sistema de travamento em a grade frontal e traseira; oscilação horizontal automática; sistema de inclinação vertical; porta-fio; sistema oscilante; baixo consumo de energia elétrica; baixo nível de ruído"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "59 x 48 x 26cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,8kg"
+			}
+		]
+	},
+	{
+		"id": "philco-pvt402-160w-mesa",
+		"name": "Philco PVT402 160W (mesa)",
+		"image": "/images/posts/melhor-ventilador-philco-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função repelente ou aromatizador",
+			"Grade removível facilita a limpeza",
+			"Alça na grade traseira para transporte",
+			"Oscilação horizontal automática e inclinação ajustável",
+			"Porta-fio e travamento entre grades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "160W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle de velocidade em 3 níveis; grade removível; oscilação horizontal automática; sistema de articulação para ajuste da inclinação vertical; porta-fio; sistema de travamento entre grade frontal e traseira; alça na grade traseira; função repelente ou aromatizador"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "64 x 45,5 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,15kg"
+			}
+		]
+	}
+]

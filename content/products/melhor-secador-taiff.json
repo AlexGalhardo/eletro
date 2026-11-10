@@ -1,0 +1,298 @@
+[
+	{
+		"id": "taiff-turbo-digital-2400w",
+		"name": "Taiff Turbo Digital 2400W",
+		"image": "/images/posts/melhor-secador-taiff-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2400W com jato de ar frio",
+			"Três velocidades e duas temperaturas",
+			"Dois bicos direcionadores de ar",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2400W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "2 bicos direcionadores de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "110V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "taiff-vulcan-2500w",
+		"name": "Taiff Vulcan 2500W",
+		"image": "/images/posts/melhor-secador-taiff-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2500W, a maior em 127V",
+			"Cinco temperaturas e duas velocidades",
+			"Bico direcionador de ar com trava",
+			"Grade interna de cerâmica"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2500W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar com trava"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "taiff-tarmouline-2100w",
+		"name": "Taiff Tarmouline 2100W",
+		"image": "/images/posts/melhor-secador-taiff-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Grade interna de cerâmica com Tourmaline",
+			"Quatro temperaturas e duas velocidades",
+			"Jato de ar frio e bico direcionador",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "cerâmica com Tourmaline"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "taiff-style-333-2000w",
+		"name": "Taiff Style 333 2000W",
+		"image": "/images/posts/melhor-secador-taiff-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Cinco temperaturas e duas velocidades",
+			"Jato de ar frio e bico direcionador",
+			"Cabo de 1,80 metro",
+			"Potência de 2000W"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "taiff-easy-1700w",
+		"name": "Taiff Easy 1700W",
+		"image": "/images/posts/melhor-secador-taiff-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1700W, a menor da lista",
+			"Quatro temperaturas e duas velocidades",
+			"Bico direcionador de ar incluso",
+			"Cabo de 1,80 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1700W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "taiff-unique-duo-2100w",
+		"name": "Taiff Unique Duo 2100W",
+		"image": "/images/posts/melhor-secador-taiff-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bivolt, com 2700W em 220V",
+			"Grade interna de cerâmica",
+			"Cinco temperaturas e jato de ar frio",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2700W (220V); 2100W (127V)"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "cerâmica"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "taiff-black-ion-2000w",
+		"name": "Taiff Black Ion 2000W",
+		"image": "/images/posts/melhor-secador-taiff-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio e 2000W",
+			"Quatro temperaturas e duas velocidades",
+			"Um bico direcionador de ar",
+			"Cabo de 1,80 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

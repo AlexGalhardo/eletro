@@ -1,0 +1,366 @@
+[
+	{
+		"id": "ventisol-legacy-inverter",
+		"name": "Ventisol Legacy Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor Inverter DC com maior eficiência energética",
+			"Luminária LED de 18W e controle remoto",
+			"Seis velocidades, modo reverso e timer de até 4 horas",
+			"Pás em MDF dupla face com 90cm de diâmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "90cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "motor Inverter DC de corrente contínua para maior eficiência energética; luminária LED de 18W; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy Plug; pás em MDF dupla face com duas opções de cor na instalação; tecnologia Ecoblend"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ventisol-wind-inverter",
+		"name": "Ventisol Wind Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor Inverter DC com maior eficiência energética",
+			"Seis velocidades e modo reverso",
+			"Função Wave e timer de até 4 horas",
+			"Iluminação com bocal E27 e globo em plástico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "90cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "motor Inverter DC de corrente contínua para maior eficiência energética; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy-Plug; globo tipo pêra em plástico; iluminação com bocal E27"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ventisol-fenix-370",
+		"name": "Ventisol Fenix 370",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 130W e 430RPM com 96cm de diâmetro",
+			"Lustre para 2 lâmpadas e modo reverso",
+			"Chave CV3 para velocidade, reversão e iluminação",
+			"Motor e haste em aço com pintura anticorrosiva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "130W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "430RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "96cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "variável (modo exaustão e ventilação)"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Extras",
+				"value": "lustre para 2 lâmpadas; chave CV3 para controle de velocidade, controle de reversão e iluminação; motor e haste em aço tratado com pintura anticorrosiva"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "ventisol-fenix-inverter",
+		"name": "Ventisol Fenix Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor DC Inverter com 30W de potência",
+			"Seis velocidades e controle remoto",
+			"Função Wave e timer de até 4 horas",
+			"Controle de ventilação e exaustão com 90cm de diâmetro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "90cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "motor DC Inverter; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy Plug; controle de ventilação e exaustão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ventisol-aires-inverter",
+		"name": "Ventisol Aires Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 105cm com seis velocidades",
+			"Lustre para 2 lâmpadas E27 de até 20W",
+			"Função Wave e timer de até 4 horas",
+			"Controle remoto e modo reverso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "105cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "lustre para 2 lâmpadas E27 de até 20W; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy Plug"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ventisol-mistral-inverter",
+		"name": "Ventisol Mistral Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor DC Inverter com 30W e 96cm de diâmetro",
+			"Luminária LED de 18W e controle remoto",
+			"Tecnologia Ecoblend e sistema Easy Plug",
+			"Motor e haste em aço com pintura anticorrosiva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "96cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "motor DC Inverter; luminária LED de 18W; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy Plug; tecnologia Ecoblend; motor e haste em aço tratado com pintura anticorrosiva"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "ventisol-sunny-inverter",
+		"name": "Ventisol Sunny Inverter",
+		"image": "/images/posts/melhor-ventilador-de-teto-ventisol-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor DC Inverter com 30W e 96cm de diâmetro",
+			"Lustre para 2 lâmpadas E27 de até 20W",
+			"Tecnologia Ecoblend e sistema Easy Plug",
+			"Motor e haste em aço com pintura anticorrosiva"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "30W"
+			},
+			{
+				"label": "Velocidade de rotação (RPM)",
+				"value": "420RPM"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "96cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "6 níveis"
+			},
+			{
+				"label": "Modo reverso",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Extras",
+				"value": "motor DC Inverter; lustre para 2 lâmpadas E27 de até 20W; timer de até 4 horas; função Wave (variação de velocidade); sistema Easy Plug; tecnologia Ecoblend; motor e haste em aço tratado com pintura anticorrosiva"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

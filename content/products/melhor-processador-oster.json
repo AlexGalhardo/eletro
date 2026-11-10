@@ -1,0 +1,161 @@
+[
+	{
+		"id": "oster-black-7-em-1-ompr850-1-litro-1000w",
+		"name": "Oster Black 7 em 1 OMPR850 1 litro 1000W",
+		"image": "/images/posts/melhor-processador-oster-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W para preparos mais exigentes",
+			"Funções de fatiar, ralar, espremer e emulsificar",
+			"Jarra de liquidificador de 1,5L incluída",
+			"Trava de segurança no painel giratório",
+			"Lâminas em aço inox e lâmina de massas"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Capacidade", "value": "1000mL" },
+			{ "label": "Velocidade", "value": "2 níveis + pulsar" },
+			{ "label": "Funções", "value": "fatiar/ralar, cortar, picar/processar/triturar, espremer, misturar e emulsificar" },
+			{ "label": "Acessórios", "value": "jarra de liquidificador 1,5L; lâminas em aço inox; disco fatiador (lado 1); disco ralador (lado 2); espremedor de frutas; disco emulsificador; lâmina de massas" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "44,8 x 25,6 x 19,6cm" }
+		]
+	},
+	{
+		"id": "oster-ompr670-700ml-300w",
+		"name": "Oster OMPR670 700mL 300W",
+		"image": "/images/posts/melhor-processador-oster-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 300W para triturar e picar",
+			"Disco em inox para ralar e fatiar",
+			"Pilão incluso para moer ingredientes",
+			"Jarra de 700mL com trava de segurança",
+			"Dois níveis de velocidade com função pulsar"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "300W" },
+			{ "label": "Capacidade", "value": "700mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "cortar, ralar, triturar, picar e moer" },
+			{ "label": "Acessórios", "value": "disco em inox (ralar/fatiar); pilão" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "16,2 x 16,8 x 33,5cm" }
+		]
+	},
+	{
+		"id": "oster-mixer-power-black-inox-3-em-1-omix570-750ml-750w",
+		"name": "Oster Mixer Power Black Inox 3 em 1 OMIX570 750mL 750W",
+		"image": "/images/posts/melhor-processador-oster-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 750W com função turbo",
+			"Mixer, mini processador e batedor de claras",
+			"Copo de 750ml com tampa e mini processador de 500ml",
+			"Velocidade ajustável para controlar o preparo",
+			"Botões ergonômicos no painel"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "750W" },
+			{ "label": "Capacidade", "value": "750mL" },
+			{ "label": "Velocidade", "value": "ajustável + função turbo" },
+			{ "label": "Funções", "value": "mixer, mini processador e batedor de claras" },
+			{ "label": "Acessórios", "value": "copo 750ml com tampa; mini processador 500ml; batedor de claras" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "botões ergonômicos" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "42 x 6,5 x 5cm" }
+		]
+	},
+	{
+		"id": "oster-chrome-3320-710ml-125w",
+		"name": "Oster Chrome 3320 710mL 125W",
+		"image": "/images/posts/melhor-processador-oster-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 125W para picar e moer",
+			"Lâminas em inox para picar e triturar",
+			"Botões de pulsar HI e LO no painel",
+			"Trava de segurança e alimentação em 127V ou 220V",
+			"Capacidade de 700mL para preparos do dia a dia"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "125W" },
+			{ "label": "Capacidade", "value": "700mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "picar, moer e triturar" },
+			{ "label": "Acessórios", "value": "lâminas em inox" },
+			{ "label": "Painel", "value": "botões de pulsar (HI e LO)" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "17,5 x 21,5 x 13cm" }
+		]
+	},
+	{
+		"id": "oster-up-down-ompr550-900ml-300w",
+		"name": "Oster Up & Down OMPR550 900mL 300W",
+		"image": "/images/posts/melhor-processador-oster-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jarra de 900mL, a terceira maior da lista",
+			"Painel touch com trava de segurança",
+			"Potência de 300W e dois níveis de velocidade",
+			"Lâmina de corte para processar e moer",
+			"Alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "300W" },
+			{ "label": "Capacidade", "value": "900mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "processar, cortar, picar, triturar e moer" },
+			{ "label": "Acessórios", "value": "lâmina de corte" },
+			{ "label": "Tipo de jarra", "value": "plástico" },
+			{ "label": "Painel", "value": "touch" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "24,5 x 16 x 23,5cm" }
+		]
+	},
+	{
+		"id": "oster-black-4-em-1-ompr851-1-litro-1000w",
+		"name": "Oster Black 4 em 1 OMPR851 1 litro 1000W",
+		"image": "/images/posts/melhor-processador-oster-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 1500mL, a maior desta lista",
+			"Potência de 1000W com discos fatiador e ralador",
+			"Jarra de liquidificador de 1,5L incluída",
+			"Botão giratório e trava de segurança",
+			"Funções de fatiar, ralar, processar e picar"
+		],
+		"technicalDetails": [
+			{ "label": "Potência", "value": "1000W" },
+			{ "label": "Capacidade", "value": "1500mL" },
+			{ "label": "Velocidade", "value": "2 níveis + função pulsar" },
+			{ "label": "Funções", "value": "fatiar/cortar, ralar, processar e picar" },
+			{ "label": "Acessórios", "value": "jarra de liquidificador 1,5L; lâminas em aço inox; disco fatiador (lado 1); disco ralador (lado 2)" },
+			{ "label": "Painel", "value": "botão giratório" },
+			{ "label": "Trava de segurança", "value": "sim" },
+			{ "label": "Alimentação", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "44,8 x 25,6 x 19,6cm" }
+		]
+	}
+]

@@ -1,0 +1,310 @@
+[
+	{
+		"id": "taiff-vulcan-2500w",
+		"name": "Taiff Vulcan 2500W",
+		"image": "/images/posts/melhor-secador-de-cabelo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2500W, a maior desta lista",
+			"Bico direcionador de ar com trava",
+			"Jato de ar frio e 5 combinações de temperatura",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2500W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 combinações de temperatura"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar com trava"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "1,028kg (127V) e 0,897kg (220V)"
+			}
+		]
+	},
+	{
+		"id": "taiff-tourmaline-2100w",
+		"name": "Taiff Tourmaline 2100W",
+		"image": "/images/posts/melhor-secador-de-cabelo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio acionado pelo botão Click Air",
+			"2 velocidades e 4 combinações de temperatura",
+			"Bico direcionador de ar incluso",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 combinações de temperatura"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim, acionado pelo botão Click Air"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "871g"
+			}
+		]
+	},
+	{
+		"id": "taiff-style-333-2000w",
+		"name": "Taiff Style 333 2000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio e 5 combinações de temperatura",
+			"Duas velocidades e bico direcionador de ar incluso",
+			"Cabo de 1,80 metro",
+			"Potência de 2000W e alimentação em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 5 combinações de temperatura"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "790g"
+			}
+		]
+	},
+	{
+		"id": "philco-titanium-travel-750w",
+		"name": "Philco Titanium Travel 750W",
+		"image": "/images/posts/melhor-secador-de-cabelo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bivolt com chave seletora entre 127V e 220V",
+			"Peso de 410g, o mais leve da lista",
+			"Bocal concentrador incluso",
+			"Cabo de 1,90 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W no modo 220v ou 1000W no modo 127V"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 combinações de temperatura"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,90 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt com chave seletora (127V ou 220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "410g"
+			}
+		]
+	},
+	{
+		"id": "taiff-black-ion-2000w",
+		"name": "Taiff Black Ion 2000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Jato de ar frio e 4 combinações de temperatura",
+			"Potência de 2000W com duas velocidades",
+			"Bico direcionador de ar incluso",
+			"Cabo de 1,80 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 4 combinações de temperatura"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "1 bico direcionador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,80 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "725g"
+			}
+		]
+	},
+	{
+		"id": "philco-ph3700-pink-tourmaline-2200w",
+		"name": "Philco PH3700 Pink Tourmaline 2200W",
+		"image": "/images/posts/melhor-secador-de-cabelo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2200W, a segunda maior desta lista",
+			"Jato de ar frio e 6 combinações de velocidade e temperatura",
+			"Bocal concentrador e difusor inclusos",
+			"Cabo de 1,9 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas, totalizando 6 combinações"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador e difusor"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "600g"
+			}
+		]
+	},
+	{
+		"id": "philco-cherry-2100w",
+		"name": "Philco Cherry 2100W",
+		"image": "/images/posts/melhor-secador-de-cabelo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W com jato de ar frio",
+			"2 velocidades e 3 temperaturas",
+			"Bocal concentrador incluso",
+			"Peso de 570g e cabo de 1,9 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal concentrador"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "570g"
+			}
+		]
+	}
+]

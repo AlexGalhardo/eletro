@@ -1,0 +1,303 @@
+[
+	{
+		"id": "eudora-la-victorie-intense-eau-de-parfum",
+		"name": "Eudora La Victorie Intense Eau de Parfum",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com pimenta rosa, mandarina e bergamota",
+			"Base de baunilha, patchouli e cashmere",
+			"Família oriental amadeirada em 75ml"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pimenta rosa, mandarina e bergamota"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "flor de laranjeira, tuberosa, sândalo australiano e neroli"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "baunilha, patchouli e cashmere"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "durante a noite; ocasiões especiais; encontro a dois"
+			}
+		]
+	},
+	{
+		"id": "eudora-eau-de-parfum",
+		"name": "Eudora Eau De Parfum",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família chipre amadeirada em 75ml",
+			"Abre com bergamota, mandarina e damasco",
+			"Coração de gardênia, frésia e rosa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "chipre amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, mandarina e damasco"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "gardênia, frésia e rosa"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "patchouli, baunilha e âmbar"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "eudora-diva-esplendida-desodorante-colonia",
+		"name": "Eudora Diva Esplêndida Desodorante Colônia",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Frasco de 100ml com família oriental floral",
+			"Abre com mandarina e calda de framboesa",
+			"Base de patchouli, sândalo cremoso e jacarandá"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "desodorante colônia"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "mandarina e calda de framboesa"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "íris, gardênia, jasmim e lírio do vale"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "patchouli, sândalo cremoso e jacarandá"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "eudora-lyra-desodorante-colonia",
+		"name": "Eudora Lyra Desodorante Colônia",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com blueberry, kiwi, morango e osmanthus",
+			"Base de âmbar, maltol, fava tonka e almíscar",
+			"Indicado para o dia a dia ou encontros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "desodorante colônia"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "blueberry, kiwi, morango e osmanthus"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "íris, osmanthus, jasmim, violeta, lírio do vale e salicilatos"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "âmbar, maltol, fava tonka, almíscar, musgo, cedro e sândalo"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para usar no dia a dia ou encontros"
+			}
+		]
+	},
+	{
+		"id": "eudora-velvet-sensual-desodorante-colonia",
+		"name": "Eudora Velvet Sensual Desodorante Colônia",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Frasco de 100ml com família oriental ambarado",
+			"Abre com bergamota, limão e amora",
+			"Base de baunilha, sândalo, almíscar e âmbar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "desodorante colônia"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental ambarado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, limão e amora"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "íris, jasmim e lírio do vale"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "baunilha, sândalo, almíscar, maltol, âmbar e trigger"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "eudora-rose-eau-de-parfum",
+		"name": "Eudora Rosé Eau de Parfum",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família chipre frutal com pera, maçã e espumante rosé",
+			"Coração de frutas vermelhas, frésia e rosa centifolia",
+			"Indicado para sair ou ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "chipre frutal"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pera, maçã e espumante rosé"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "frutas vermelhas, frésia, lírio do vale, flor de laranjeira e rosa centifolia"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "patchouli, musgo de carvalho, baunilha, gourmands, cashmere, âmbar e segredo de Eudora"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "eudora-rouge-eau-de-parfum",
+		"name": "Eudora Rouge Eau de Parfum",
+		"image": "/images/posts/melhor-perfume-eudora-feminino-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Indicado para baladas e ocasiões especiais",
+			"Abre com davana, mandarina verde e ameixa roxa",
+			"Coração de jasmim sambac, pêssego e peônia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "chipre floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "davana, mandarina verde, ameixa roxa, bergamota e pera"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "madeiras preciosas, jasmim sambac, labdanum resinoid, pêssego, peônia e Acorde Forbidden Rouge (maçã vermelha e gengibre laos)"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "notas cremosas, âmbar, almíscar e Segredo de Eudora"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para baladas e ocasiões especiais"
+			}
+		]
+	}
+]

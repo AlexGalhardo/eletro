@@ -1,0 +1,331 @@
+[
+	{
+		"id": "consul-cpb33af",
+		"name": "Consul CPB33AF",
+		"image": "/images/posts/melhor-purificador-de-agua-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de 90L/h para encher jarras e garrafas mais rápido",
+			"Retenção de partículas classe A",
+			"Água natural, fria ou gelada",
+			"Filtragem em 2 níveis com PP e carvão ativado",
+			"Bivolt, compatível com 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "2 (filtro PP e carvão ativado)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "90L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe A"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "1500L ou 6 meses de uso"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "32,8 x 24 x 29,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,9kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-pe12g",
+		"name": "Electrolux PE12G",
+		"image": "/images/posts/melhor-purificador-de-agua-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtragem em 2 níveis com PP e GAC",
+			"Refil de 3000 litros ou 6 meses de uso",
+			"Três opções de temperatura: natural, fria e gelada",
+			"Bivolt, compatível com 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "2 (PP e GAC)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural, fria e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "5L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000L ou 6 meses de uso"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "35 x 16 x 42cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,3kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "consul-cpb34as",
+		"name": "Consul CPB34AS",
+		"image": "/images/posts/melhor-purificador-de-agua-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Vazão de até 90L/h",
+			"Água natural ou gelada",
+			"Retenção de partículas classe A",
+			"Refil de 1500 litros ou 6 meses de uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Temperatura",
+				"value": "natural e gelada"
+			},
+			{
+				"label": "Vazão",
+				"value": "até 90L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe A"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "1500L ou 6 meses de uso"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "37,6 x 26,1 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,5kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "hidrofiltros-c3",
+		"name": "Hidrofiltros C3",
+		"image": "/images/posts/melhor-purificador-de-agua-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Refil de 10.000 litros ou 12 meses, o maior da lista",
+			"Filtro PP e carvão ativado para água natural",
+			"Corpo compacto, com 1,02kg",
+			"Vazão de 40L/h e retenção classe C"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "2 (filtro PP e carvão ativado)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural"
+			},
+			{
+				"label": "Vazão",
+				"value": "40L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "10.000L ou 12 meses de uso"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "31,5 x 11,5 x 16cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,02kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "––"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-vitale",
+		"name": "Lorenzetti Vitale",
+		"image": "/images/posts/melhor-purificador-de-agua-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla filtragem, com nível 3 de purificação",
+			"Corpo compacto de 25,6 x 12,5 x 14,7cm",
+			"Água natural, sem opção de gelada",
+			"Refil de 1000 litros ou 6 meses de uso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "3 (tripla filtragem)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural"
+			},
+			{
+				"label": "Vazão",
+				"value": "30L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe D"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "1000L ou 6 meses de uso"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "25,6 x 12,5 x 14,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,02kg"
+			}
+		]
+	},
+	{
+		"id": "ibbl-due-imaginare",
+		"name": "IBBL Due Imaginare",
+		"image": "/images/posts/melhor-purificador-de-agua-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Filtro mecânico e carvão ativado em 2 níveis",
+			"Opção de água mista, além de natural e gelada",
+			"Vazão de 60L/h com refil de 3000 litros",
+			"Tensão de 127 ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "2 (filtro mecânico e carvão ativado)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural, gelada e mista"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000L ou 6 meses"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "36,1 x 27 x 35,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127 ou 220V"
+			}
+		]
+	},
+	{
+		"id": "ibbl-e-due-equilibrium",
+		"name": "IBBL E-Due Equilibrium",
+		"image": "/images/posts/melhor-purificador-de-agua-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Nível 7 de purificação, identificado como multi+",
+			"Água natural, gelada ou mista",
+			"Refil de 3000 litros ou 6 meses de uso",
+			"Bivolt com peso de 4,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Nível de purificação",
+				"value": "7 (multi+)"
+			},
+			{
+				"label": "Temperatura",
+				"value": "natural, gelada e mista"
+			},
+			{
+				"label": "Vazão",
+				"value": "60L/h"
+			},
+			{
+				"label": "Nível de retenção de partículas",
+				"value": "classe C"
+			},
+			{
+				"label": "Vida útil do refil",
+				"value": "3000L ou 6 meses"
+			},
+			{
+				"label": "Dimensão (A x L x P)",
+				"value": "37,4 x 16 x 46,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

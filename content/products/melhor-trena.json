@@ -1,0 +1,439 @@
+[
+	{
+		"id": "bosch-glm-50-12-digital",
+		"name": "Bosch GLM 50-12 (digital)",
+		"image": "/images/posts/melhor-trena-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de 0,05 a 50 metros com precisão de ±1,5mm",
+			"Display colorido com interface HMI",
+			"Proteção IP54 e memória de 15 medições"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,05 a 50 metros"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "borracha, plástico e vidro"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "centímetro e metro"
+			},
+			{
+				"label": "Precisão",
+				"value": "±1,5mm"
+			},
+			{
+				"label": "Memória interna",
+				"value": "15 medições"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2 (635nm)"
+			},
+			{
+				"label": "Display",
+				"value": "display colorido com interface HMI"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "-10°C a 45°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "17,1 x 4,5 x 2,4 x 4,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "100g"
+			}
+		]
+	},
+	{
+		"id": "bosch-glm-40-digital",
+		"name": "Bosch GLM 40 (digital)",
+		"image": "/images/posts/melhor-trena-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Display iluminado e precisão de ±1,5mm",
+			"Unidades em centímetro, metro, pé e polegada",
+			"Proteção IP54 e 10 medições na memória"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,15 a 40 metros"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "centímetro, metro, pé e polegada"
+			},
+			{
+				"label": "Precisão",
+				"value": "±1,5mm"
+			},
+			{
+				"label": "Memória interna",
+				"value": "10 medições"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2 (635nm)"
+			},
+			{
+				"label": "Display",
+				"value": "display iluminado"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "-10°C a 45°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10,5 x 4,1 x 2,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90g"
+			}
+		]
+	},
+	{
+		"id": "philco-ptl01-digital",
+		"name": "Philco PTL01 (digital)",
+		"image": "/images/posts/melhor-trena-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Display LCD com iluminação de fundo",
+			"Memória de 20 medições",
+			"Peso de 120g e alcance de 40 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,05 a 40 metros"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "metro, pé e polegada"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Memória interna",
+				"value": "20 medições"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2 (635nm)"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com iluminação (backlight)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "-10°C a 50°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "12,5 x 6 x 3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "120g"
+			}
+		]
+	},
+	{
+		"id": "bosch-glm-25-23-digital",
+		"name": "Bosch GLM 25-23 (digital)",
+		"image": "/images/posts/melhor-trena-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de 0,15 a 25 metros",
+			"Corpo de borracha, vidro e silicone",
+			"Peso de 90g e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,15 a 25 metros"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "borracha, vidro e silicone"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "milímetro, centímetro, metro, pé e polegada"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2 (635nm)"
+			},
+			{
+				"label": "Display",
+				"value": "LCD"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "-10°C a 45°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 x 4,3 x 2,4cm"
+			},
+			{
+				"label": "Peso",
+				"value": "90g"
+			}
+		]
+	},
+	{
+		"id": "wap-tlp-40-digital",
+		"name": "WAP TLP 40 (digital)",
+		"image": "/images/posts/melhor-trena-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 72g, o mais leve da lista",
+			"Display LCD com iluminação de fundo",
+			"Memória de 20 medições e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,05 a 40 metros"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "metro, pé e polegada"
+			},
+			{
+				"label": "Precisão",
+				"value": "±2mm"
+			},
+			{
+				"label": "Memória interna",
+				"value": "20 medições"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2"
+			},
+			{
+				"label": "Display",
+				"value": "LCD com iluminação (backlight)"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "0°C a 40°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "4,6 x 11 x 2,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "72g"
+			}
+		]
+	},
+	{
+		"id": "vonder-38-68-505-505-manual",
+		"name": "Vonder 38.68.505.505 (manual)",
+		"image": "/images/posts/melhor-trena-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Fita de aço de 19mm de largura",
+			"Corpo em ABS e 5 metros de alcance",
+			"Medidas em milímetro e polegada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "manual"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "5 metros"
+			},
+			{
+				"label": "Material da fita",
+				"value": "aço"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ABS"
+			},
+			{
+				"label": "Largura da fita",
+				"value": "19mm"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "milímetro e polegada"
+			},
+			{
+				"label": "Peso",
+				"value": "212g"
+			}
+		]
+	},
+	{
+		"id": "vonder-vd050-digital",
+		"name": "Vonder VD050 (digital)",
+		"image": "/images/posts/melhor-trena-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Precisão de ±0,2mm, a maior da lista",
+			"Memória de 99 medições",
+			"Proteção IP54 e display com luz de fundo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "digital"
+			},
+			{
+				"label": "Distância de medição",
+				"value": "0,05 a 50 metros"
+			},
+			{
+				"label": "Unidades de medida",
+				"value": "metro, pé e polegada"
+			},
+			{
+				"label": "Precisão",
+				"value": "±0,2mm"
+			},
+			{
+				"label": "Memória interna",
+				"value": "99 medições"
+			},
+			{
+				"label": "Classe do laser",
+				"value": "classe 2 (635nm)"
+			},
+			{
+				"label": "Display",
+				"value": "display com luz de fundo"
+			},
+			{
+				"label": "Alimentação",
+				"value": "2x pilhas AAA"
+			},
+			{
+				"label": "Temperatura de operação",
+				"value": "0°C a 40°C"
+			},
+			{
+				"label": "Desligamento automático",
+				"value": "sim"
+			},
+			{
+				"label": "Proteção",
+				"value": "IP54"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "11,2 x 5 x 2,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "120g"
+			}
+		]
+	}
+]

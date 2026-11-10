@@ -1,0 +1,334 @@
+[
+	{
+		"id": "suggar-le2001-20kg",
+		"name": "SUGGAR LE2001 20kg",
+		"image": "/images/posts/melhor-tanquinhos-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 20kg e potência de 550W",
+			"Dispenser duplo e lavagem por turbilhonamento",
+			"Três níveis de água e três intervalos para molho",
+			"Função timer e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20kg"
+			},
+			{
+				"label": "Potência",
+				"value": "550W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomática"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "6 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "função Timer; dispenser duplo; filtragem de fiapos; desligamento automático; sistema de drenagem; lavagem por turbilhonamento; 3 níveis de água; 3 intervalos para molho"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95,7 x 55 x 59,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "11,3kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "colormaq-lcs15-15kg",
+		"name": "Colormaq ‎LCS15 15kg",
+		"image": "/images/posts/melhor-tanquinhos-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Oito programas de lavagem, o maior número da lista",
+			"Lavagem ECO e visualizador de etapas",
+			"Retentor de objetos e filtro de fiapos",
+			"Timer para acompanhar o ciclo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Potência",
+				"value": "450W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "8 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "timer; filtro de fiapos; retentor de objetos; visualizador de etapas de lavagem; lavagem ECO"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 48 x 56cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "colormaq-lcs20-20kg",
+		"name": "Colormaq LCS20 20kg",
+		"image": "/images/posts/melhor-tanquinhos-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 20kg para grandes volumes",
+			"Dois molhos e reaproveitamento de água",
+			"Dispenser duplo para amaciante e sabão",
+			"Retentor de objetos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "20kg"
+			},
+			{
+				"label": "Potência",
+				"value": "370W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "6 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "2 molhos; reaproveitamento de água; dispenser duplo para amaciante e sabão; filtro de fiapos; retentor de objetos; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "97 x 56 x 61cm"
+			},
+			{
+				"label": "Peso",
+				"value": "12,9kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-le1022-10kg",
+		"name": "SUGGAR LE1022 10kg",
+		"image": "/images/posts/melhor-tanquinhos-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer de até 28 minutos para controlar o ciclo",
+			"Três níveis de molho e três de água",
+			"Lavagem por turbilhonamento",
+			"Filtro cata-fiapos e dispenser para sabão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "6 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "3 níveis de molho; lavagem por turbilhonamento; desligamento automático; timer de até 28 minutos; filtro cata-fiapos; dispenser para sabão; 3 níveis de água"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95,5 x 51,3 x 56,7cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,34kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-le1522br-15kg",
+		"name": "SUGGAR LE1522BR 15kg",
+		"image": "/images/posts/melhor-tanquinhos-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 15kg e potência de 500W",
+			"Três molhos e timer de 28 minutos",
+			"Sistema de drenagem e lavagem por turbilhonamento",
+			"Dispenser para sabão e filtro cata-fiapos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "15kg"
+			},
+			{
+				"label": "Potência",
+				"value": "500W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "6 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "3 molhos; desligamento automático; timer de 28 minutos; lavagem por tubilhonamento; dispenser para sabão; filtro cata-fiapos; sistema de dreanegem"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96,1 x 49,8 x 54cm"
+			},
+			{
+				"label": "Peso",
+				"value": "10,19kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-blr03-10kg",
+		"name": "Britânia BLR03 10kg",
+		"image": "/images/posts/melhor-tanquinhos-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sete programas de lavagem, o maior número da lista",
+			"Dois compartimentos para sabão e amaciante",
+			"Função timer e filtragem de fiapos",
+			"Garantia de 1 ano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "10kg"
+			},
+			{
+				"label": "Potência",
+				"value": "510W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "7 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "2 compartimentos para sabão e amaciante; função timer; filtragem de fiapos; desligamento automático; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "95 x 58 x 51cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,78kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "suggar-le8001-8kg",
+		"name": "SUGGAR LE8001 8kg",
+		"image": "/images/posts/melhor-tanquinhos-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Capacidade de 8kg e potência de 400W",
+			"Gaveta grande para o dispenser de sabão",
+			"Timer programável de 0 a 28 minutos",
+			"Três molhos e desligamento automático"
+		],
+		"technicalDetails": [
+			{
+				"label": "Capacidade",
+				"value": "8kg"
+			},
+			{
+				"label": "Potência",
+				"value": "400W"
+			},
+			{
+				"label": "Tipo de funcionamento",
+				"value": "semiautomático"
+			},
+			{
+				"label": "Opções de lavagem",
+				"value": "6 programas"
+			},
+			{
+				"label": "Funções e recursos",
+				"value": "filtro cata-fiapos; timer programável de 0 a 28 minutos; grande gaveta dispenser de sabão; 3 molhos; desligamento automático"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "96 x 51,3 x 54,8cm"
+			},
+			{
+				"label": "Peso",
+				"value": "9,38kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

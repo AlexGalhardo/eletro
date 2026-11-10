@@ -1,0 +1,346 @@
+[
+	{
+		"id": "i-wanna-sleep-snow",
+		"name": "I Wanna Sleep - Snow",
+		"image": "/images/posts/melhor-travesseiro-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Gel refrescante na espuma viscoelástica",
+			"Tecido com fio de bambu na capa",
+			"Antiácaro, antibacteriano e antialérgico",
+			"Capa removível e lavável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "ortopédico"
+			},
+			{
+				"label": "Material interno",
+				"value": "espuma viscoelástica + gel"
+			},
+			{
+				"label": "Revestimento",
+				"value": "tecido com fio de bambu"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "gel refrescante; antiácaro; antibacteriano; antialérgico"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "sim"
+			},
+			{
+				"label": "Lavável",
+				"value": "somente a capa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "18 × 70 × 50cm"
+			}
+		]
+	},
+	{
+		"id": "emma-epwcp050070aaa",
+		"name": "Emma EPWCP050070AAA",
+		"image": "/images/posts/melhor-travesseiro-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste de altura com fibra siliconada",
+			"Espuma viscoelástica com efeito antiestresse",
+			"Medidas de 60 x 40 cm e 15 cm de altura",
+			"Capa removível e peso de 1,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "ortopédico"
+			},
+			{
+				"label": "Material interno",
+				"value": "espuma viscoelástica + fibra siliconada"
+			},
+			{
+				"label": "Revestimento",
+				"value": "poliéster"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "ajuste de altura; antiestresse"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "sim"
+			},
+			{
+				"label": "Lavável",
+				"value": "não lavável"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 × 60 × 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,3kg"
+			}
+		]
+	},
+	{
+		"id": "nasa-coluna-relax",
+		"name": "NASA Coluna Relax",
+		"image": "/images/posts/melhor-travesseiro-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato cervical com contorno",
+			"Espuma viscoelástica com tratamento antifúngico",
+			"Hipoalergênico, antiácaro e antibacteriano",
+			"Capa removível e revestimento de malha"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "ortopédico"
+			},
+			{
+				"label": "Material interno",
+				"value": "espuma viscoelástica"
+			},
+			{
+				"label": "Revestimento",
+				"value": "malha"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "antiácaro; antibacteriano; antifúngica; hipoalergênico"
+			},
+			{
+				"label": "Formato",
+				"value": "cervical (contorno)"
+			},
+			{
+				"label": "Capa removível",
+				"value": "sim"
+			},
+			{
+				"label": "Lavável",
+				"value": "somente a capa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "09/11 × 60 × 35cm"
+			}
+		]
+	},
+	{
+		"id": "trp-imports-select-luxo",
+		"name": "TRP Imports Select Luxo",
+		"image": "/images/posts/melhor-travesseiro-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Microfibra matelada na superfície",
+			"Lavável por completo",
+			"Fibra siliconada com 700g de peso",
+			"Antibacteriano e hipoalergênico"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "convencional"
+			},
+			{
+				"label": "Material interno",
+				"value": "fibra siliconada"
+			},
+			{
+				"label": "Revestimento",
+				"value": "microfibra matelada"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "antibacteriano; hipoalergênico"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "sim"
+			},
+			{
+				"label": "Lavável",
+				"value": "lavável por completo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "20 × 70 × 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "700g"
+			}
+		]
+	},
+	{
+		"id": "buddemeyer-toque-de-pluma",
+		"name": "Buddemeyer Toque de Pluma",
+		"image": "/images/posts/melhor-travesseiro-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Algodão de 233 fios na capa",
+			"Lavável por completo",
+			"Tratamento antiácaro e antifúngico",
+			"Enchimento de poliéster"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "convencional"
+			},
+			{
+				"label": "Material interno",
+				"value": "poliéster"
+			},
+			{
+				"label": "Revestimento",
+				"value": "algodão 233 fios"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "antialérgico; antibacteriano; antifúngica; antiácaro"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "não"
+			},
+			{
+				"label": "Lavável",
+				"value": "lavável por completo"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "15 × 70 × 50cm"
+			}
+		]
+	},
+	{
+		"id": "nasa-x-duoflex",
+		"name": "Nasa-X Duoflex",
+		"image": "/images/posts/melhor-travesseiro-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma viscoelástica com 13 cm de altura",
+			"Revestimento em malha e capa removível",
+			"Antiácaro, antifúngico e antialérgico",
+			"Medidas de 70 x 50 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "ortopédico"
+			},
+			{
+				"label": "Material interno",
+				"value": "espuma viscoelástico"
+			},
+			{
+				"label": "Revestimento",
+				"value": "malha"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "antiácaro; antifúngico; antibacteriano; antialérgico"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "sim"
+			},
+			{
+				"label": "Lavável",
+				"value": "somente a capa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "13 × 70 × 50cm"
+			}
+		]
+	},
+	{
+		"id": "nap-trb10-nasa-sky",
+		"name": "NAP TRB10 Nasa Sky",
+		"image": "/images/posts/melhor-travesseiro-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Espuma termo sensível na composição",
+			"Antialérgico, antiácaro e antibacteriano",
+			"Revestimento em malha",
+			"Medidas de 63 x 42 cm e 10 cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "convencional"
+			},
+			{
+				"label": "Material interno",
+				"value": "espuma viscoelástica"
+			},
+			{
+				"label": "Revestimento",
+				"value": "malha"
+			},
+			{
+				"label": "Tecnologia extra",
+				"value": "antialérgico; antiácaro; antibacteriano; espuma termo sensível"
+			},
+			{
+				"label": "Formato",
+				"value": "tradicional"
+			},
+			{
+				"label": "Capa removível",
+				"value": "não"
+			},
+			{
+				"label": "Lavável",
+				"value": "somente a capa"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "10 × 63 × 42cm"
+			}
+		]
+	}
+]

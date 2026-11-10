@@ -1,0 +1,340 @@
+[
+	{
+		"id": "oster-ogrl230-1000w",
+		"name": "Oster OGRL230 1000W",
+		"image": "/images/posts/melhor-sanduicheira-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abertura de 180º para facilitar o acesso à chapa",
+			"Potência de 1000W com chapas antiaderentes",
+			"Função sanduicheira e grill em um único aparelho",
+			"Alça isotérmica e trava de fechamento",
+			"Design compacto com base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "chapas antiaderentes"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "sanduicheira e grill"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design compacto; alça isotérmica; base antiderrapante; trava de fechamento; abertura de 180º"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 28 x 24cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "electrolux-esg20-750w",
+		"name": "Electrolux ESG20 750W",
+		"image": "/images/posts/melhor-sanduicheira-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acabamento em inox com design compacto",
+			"Trava de fechamento e base antiderrapante",
+			"Revestimento antiaderente com luz indicadora",
+			"Potência de 750W para lanches rápidos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "sanduicheira elétrica"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design compacto; acabamento em inox; base antiderrapante; trava de fechamento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 23 x 9cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,42kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "philco-pgr21pi-1000w",
+		"name": "Philco PGR21PI 1000W",
+		"image": "/images/posts/melhor-sanduicheira-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Revestimento Maxx Clean, 4x mais resistente segundo a ficha",
+			"Coletor de gordura tipo gaveta para recolher o excesso",
+			"Placas com ajuste de altura para diferentes alimentos",
+			"Grelha carnes, peixes, vegetais e pães",
+			"Chapa com abertura de 180º"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente Maxx Clean (4x mais resistente)"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "grill e sanduicheira 2 em 1, grelha carnes, peixes, vegetais e pães"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapa com abertura de 180º; coletor de gordura tipo gaveta; placas com ajuste de altura; base antiderrapante; acabamento em inox"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "9,9 x 26,6 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,26kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "cadence-click-san400-750w",
+		"name": "Cadence Click ‎SAN400 750W",
+		"image": "/images/posts/melhor-sanduicheira-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alça com proteção contra aquecimento",
+			"Design compacto com base antiderrapante",
+			"Trava de fechamento para manter a chapa fechada",
+			"Potência de 750W com revestimento antiaderente"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "sanduicheira elétrica"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design compacto; trava de fechamento; base antiderrapante; alça com proteção contra aquecimento"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7 x 21 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,31kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "britania-bgr27i-850w",
+		"name": "Britânia BGR27I 850W",
+		"image": "/images/posts/melhor-sanduicheira-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chapa superior ondulada e inferior lisa",
+			"Preparo de sanduíches, omeletes e grelhados",
+			"Alça fria, trava de fechamento e pés antiderrapantes",
+			"Apenas 242g, o modelo mais leve da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "850W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente Dura Mais"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "grill e sanduicheira 2 em 1, ideal para sanduíches, omeletes e grelhados"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapa superior ondulada e inferior lisa; placas ajustáveis; alça fria; trava de fechamento; acabamento em aço inox; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8 x 26 x 22cm"
+			},
+			{
+				"label": "Peso",
+				"value": "242g"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "mondial-s-12-750w",
+		"name": "Mondial S-12 750W",
+		"image": "/images/posts/melhor-sanduicheira-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Chapa dupla antiaderente",
+			"Sanduicheira e grill em um só aparelho",
+			"Alça isotérmica e trava de fechamento",
+			"Design compacto com base antiderrapante"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "sanduicheira e grill"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "design compacto; base antiderrapante; trava de fechamento; chapa dupla antiaderente; alça isotérmica"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 23,5 x 23,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,1kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "multilaser-ce043-750w",
+		"name": "Multilaser CE043 750W",
+		"image": "/images/posts/melhor-sanduicheira-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona como sanduicheira e minigrill",
+			"Chapa dupla com revestimento antiaderente",
+			"Alça fria e pés antiderrapantes",
+			"Luz indicadora de funcionamento e trava de fechamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "750W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Funções",
+				"value": "sanduicheira e minigrill"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "chapa dupla; alça fria; trava de fechamento; pés antiderrapantes"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "7,5 x 23,5 x 23cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,08kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

@@ -1,0 +1,366 @@
+[
+	{
+		"id": "docol-coldstart-lift",
+		"name": "Docol ColdStart Lift",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica alta e fixa para a bancada",
+			"Acionamento por alavanca",
+			"Arejador incluso",
+			"Pressão máxima de 40m.c.a"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "fixa"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "alavanca"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ligas de cobre, elastômeros e plástico de engenharia"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "docol-onix-lift",
+		"name": "Docol Ônix Lift",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Corpo com cerâmica e ligas de cobre",
+			"Acionamento por alavanca de 1/4 de volta",
+			"Bica alta e fixa",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "fixa"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "alavanca 1/4 de volta"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "cerâmica, ligas de cobre, elastômeros, plástico de engenharia e zamac"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "docol-pressmatic",
+		"name": "Docol PressMatic",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Acionamento por botão",
+			"Bica baixa e fixa",
+			"Corpo com aço inox e ligas de cobre",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "baixa"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "fixa"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "botão"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ligas de cobre, elastômeros, plástico de engenharia e aço inox"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "docol-lift",
+		"name": "Docol Lift",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica alta e fixa",
+			"Corpo com cerâmica e ligas de cobre",
+			"Alavanca de 1/4 de volta",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "fixa"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "alavanca 1/4 de volta"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "cerâmica, ligas de cobre, elastômeros, plástico de engenharia e zamac"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "migan-high-end",
+		"name": "Migan HIGH-END",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica baixa e fixa",
+			"Acabamento cromado em aço inoxidável",
+			"Acionamento por alavanca",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "baixa"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "fixa"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "alavanca"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "aço inoxidável com acabamento cromado"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "docol-gali",
+		"name": "Docol Gali",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica alta com giro de 360°",
+			"Acionamento por alavanca de 1/4 de volta",
+			"Corpo com ligas de cobre e zamac",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "giratória 360°"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "alavanca 1/4 de volta"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ligas de cobre, elastômeros, plástico de engenharia e zamac"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	},
+	{
+		"id": "docol-nova-pertutti",
+		"name": "Docol Nova Pertutti",
+		"image": "/images/posts/melhor-torneira-para-banheiro-luxo-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Bica alta e giratória",
+			"Acionamento por volante de 1/4 de volta",
+			"Corpo com ligas de cobre e zamac",
+			"Arejador incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Tipo de bica",
+				"value": "giratória"
+			},
+			{
+				"label": "Fixação",
+				"value": "bancada"
+			},
+			{
+				"label": "Acionamento",
+				"value": "volante 1/4 de volta"
+			},
+			{
+				"label": "Material do corpo",
+				"value": "ligas de cobre, elastômeros, plástico de engenharia e zamac"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "2m.c.a"
+			},
+			{
+				"label": "Pressão máxima",
+				"value": "40m.c.a"
+			},
+			{
+				"label": "Arejador",
+				"value": "sim"
+			},
+			{
+				"label": "Tipo de rosca",
+				"value": "1/2″"
+			}
+		]
+	}
+]

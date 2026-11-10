@@ -1,0 +1,302 @@
+[
+	{
+		"id": "mor-infantil-001003-1-500-litros",
+		"name": "Mor - Infantil (001003) 1.500 litros",
+		"image": "/images/posts/melhor-piscina-infantil-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato quadrado de 1,89m com 42cm de altura",
+			"Estrutura de aço com lona de PVC",
+			"Válvula de deságue e acabamento em epóxi",
+			"Capacidade de 1500 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1500 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrada"
+			},
+			{
+				"label": "Material",
+				"value": "estrutura em aço, lona em PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,89m x 1,89m x 42cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; acabamento em epóxi"
+			},
+			{
+				"label": "Peso",
+				"value": "7kg"
+			}
+		]
+	},
+	{
+		"id": "mor-infantil-001002-1-000-litros",
+		"name": "Mor - Infantil (001002) 1.000 litros",
+		"image": "/images/posts/melhor-piscina-infantil-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Formato retangular de 1,89m por 1,26m",
+			"Estrutura de aço com lona de PVC",
+			"Válvula de deságue para esvaziar",
+			"Capacidade de 1000 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1000 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "retangular"
+			},
+			{
+				"label": "Material",
+				"value": "estrutura em aço, lona em PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,89m x 1,26m x 42cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue"
+			},
+			{
+				"label": "Peso",
+				"value": "5,45kg"
+			}
+		]
+	},
+	{
+		"id": "mor-inflavel-001048-1-000-litros",
+		"name": "Mor - Inflável (001048) 1.000 litros",
+		"image": "/images/posts/melhor-piscina-infantil-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modelo inflável circular de 1,65m",
+			"Borda inflável e entrada para filtro",
+			"Válvula de deságue e kit de reparo",
+			"Capacidade de 1000 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "1000 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,65m x 1,65m x 55cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; entrada para filtro; borda inflável; kit de reparo"
+			},
+			{
+				"label": "Peso",
+				"value": "2,79kg"
+			}
+		]
+	},
+	{
+		"id": "intex-playground-inflavel-jacare-gator-160-litros",
+		"name": "Intex Playground Inflável Jacaré Gator 160 litros",
+		"image": "/images/posts/melhor-piscina-infantil-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Playground com escorregador inflável",
+			"Esguicho de água e boia de pato",
+			"Bomba manual e tapete acolchoado",
+			"Cobertura em formato de flor e kit de reparo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "160 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "playground"
+			},
+			{
+				"label": "Material",
+				"value": "vinil (PVC)"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "2,01m x 1,70m x 84cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; kit de reparo; escorregador inflável; esguicho de água; boia de pato; balde de pesca; bomba manual; tapete acolchoado; cobertura em formato de flor"
+			}
+		]
+	},
+	{
+		"id": "intex-tropical-island-45-litros",
+		"name": "Intex Tropical Island 45 litros",
+		"image": "/images/posts/melhor-piscina-infantil-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Piso acolchoado e guarda-sol em formato de palmeira",
+			"Macaco, iguana e papagaio infláveis",
+			"Anel inferior inflável e adesivo de reparo",
+			"Formato circular de 1,02m com 86cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "45 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,02m x 1,02m x 86cm"
+			},
+			{
+				"label": "Extras",
+				"value": "piso acolchoado; guarda-sol integrado em formato de palmeira; anel inferior inflável; macaco, iguana e papagaio infláveis; adesivo de reparo"
+			}
+		]
+	},
+	{
+		"id": "mor-banheira-inflavel-001784-450-litros",
+		"name": "Mor - Banheira Inflável (001784) 450 litros",
+		"image": "/images/posts/melhor-piscina-infantil-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três câmaras de ar independentes",
+			"Válvula de deságue e adesivo de reparo",
+			"Formato circular de 1,52m com 30cm de altura",
+			"Peso de apenas 1,08kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "inflável"
+			},
+			{
+				"label": "Capacidade",
+				"value": "450 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "circular"
+			},
+			{
+				"label": "Material",
+				"value": "PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,52m x 1,52m x 30cm"
+			},
+			{
+				"label": "Extras",
+				"value": "válvula de deságue; três câmaras de ar independentes; adesivo de reparo"
+			},
+			{
+				"label": "Peso",
+				"value": "1,08kg"
+			}
+		]
+	},
+	{
+		"id": "mor-infantil-001000-400-litros",
+		"name": "Mor - Infantil (001000) 400 litros",
+		"image": "/images/posts/melhor-piscina-infantil-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura de aço com pintura epóxi a pó",
+			"Sistema de encaixe com peças de polipropileno",
+			"Formato quadrado de 1,1m com 33cm de altura",
+			"Peso de 2,76kg e capacidade de 400 litros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "com armação metálica"
+			},
+			{
+				"label": "Capacidade",
+				"value": "400 litros"
+			},
+			{
+				"label": "Formato",
+				"value": "quadrada"
+			},
+			{
+				"label": "Material",
+				"value": "estrutura em aço, lona em PVC"
+			},
+			{
+				"label": "Dimensões (C x L x A)",
+				"value": "1,1m x 1,1m x 33cm"
+			},
+			{
+				"label": "Extras",
+				"value": "pintura epóxi a pó; sistema de encaixe com peças de polipropileno"
+			},
+			{
+				"label": "Peso",
+				"value": "2,76kg"
+			}
+		]
+	}
+]

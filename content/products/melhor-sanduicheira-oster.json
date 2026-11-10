@@ -1,0 +1,198 @@
+[
+	{
+		"id": "oster-ogrl500-1200w",
+		"name": "Oster OGRL500 1200W",
+		"image": "/images/posts/melhor-sanduicheira-oster-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Preparo 2 em 1 com chapa e grelha",
+			"Estufa para aquecer pães e queijos",
+			"Bandeja coletora de gordura",
+			"Capacidade para até 4 hambúrgueres",
+			"Porta-fio e 1 ano de garantia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W (127V) / 1000W (220V)"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "grelha e chapa onduladas; estufa lisa"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "estufa para aquecer pães e queijos; preparo 2 em 1 (chapa e grelha); design inclinado que evita acúmulo de gordura; bandeja coletora de gordura; capacidade para até 4 hambúrgueres; porta-fio para armazenamento; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 23,5 x 27,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,9kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-osan500-1000w",
+		"name": "Oster OSAN500 1000W",
+		"image": "/images/posts/melhor-sanduicheira-oster-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tripla camada antiaderente",
+			"Botão On/Off soft touch com indicadores luminosos",
+			"Alça com toque frio e fecho grande",
+			"Recuo interno de segurança na chapa quente",
+			"Acabamento em aço inox escovado"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente com tripla camada"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "chapa inferior lisa; chapa superior ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "botão On/Off soft touch; indicadores luminosos; tripla camada antiaderente; alça com toque frio; fecho grande e robusto; recuo interno de segurança na chapa quente; acabamento em aço inox escovado; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22,3 x 25 x 8,6cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ogrl230-1000w",
+		"name": "Oster OGRL230 1000W",
+		"image": "/images/posts/melhor-sanduicheira-oster-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso 2 em 1 como grill ou sanduicheira",
+			"Abertura de 180º e preparo simultâneo nas duas chapas",
+			"Alça fria para manuseio",
+			"Trava para armazenamento",
+			"Pés antiderrapantes para estabilidade"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "lisa e ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "uso 2 em 1 como grill ou sanduicheira; abertura 180º; preparo simultâneo nas duas chapas; alça fria para manuseio; trava para armazenamento; pés antiderrapantes; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "8,5 x 28 x 24,2cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,4kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "oster-ogrl610-1200w",
+		"name": "Oster OGRL610 1200W",
+		"image": "/images/posts/melhor-sanduicheira-oster-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W em 127V e 1600W em 220V",
+			"Controle de temperatura e abertura de 180º",
+			"Grip dots para manter os alimentos no lugar",
+			"Alavanca de ajuste de altura",
+			"Alça com isolamento térmico e acabamento em inox"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W (127V) / 1600W (220V)"
+			},
+			{
+				"label": "Revestimento interno",
+				"value": "antiaderente"
+			},
+			{
+				"label": "Luz indicadora",
+				"value": "sim"
+			},
+			{
+				"label": "Tipos de placa",
+				"value": "ondulada"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "abertura 180º; controle de temperatura; chapas inclinadas para drenagem de gordura; grip dots para manter os alimentos no lugar; alavanca de ajuste de altura; alça com isolamento térmico; laterais recuadas de proteção; pés antiderrapantes; acabamento em inox; 1 ano de garantia"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14 x 29,4 x 32,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,82kg"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

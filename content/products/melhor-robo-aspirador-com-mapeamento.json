@@ -1,0 +1,446 @@
+[
+	{
+		"id": "eufy-x10-pro-omni",
+		"name": "Eufy X10 Pro Omni",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 173 minutos de funcionamento com base de carregamento",
+			"Desvio de carpetes e modo somente aspiração em carpetes",
+			"Reservatório de 2,5 litros em saco de coleta",
+			"Potência de 60W com limpeza de cantos e bordas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "11,35cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "173 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "2,5 litros (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; cantos e bordas"
+			},
+			{
+				"label": "Potência",
+				"value": "60W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32,7 x 35,3 x 11,35cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-robot-vcauum-s40-pro",
+		"name": "Xiaomi Robot Vcauum S40 Pro",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 180 minutos de funcionamento e potência de 70W",
+			"Reservatório de pó de 520 mL em saco de coleta",
+			"Desvio de carpetes e limpeza de cantos e bordas",
+			"Aspiração e passagem de pano com base de carregamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,8cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "180 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "520mL (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; cantos e bordas"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "34 x 34 x 9,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-s40",
+		"name": "Xiaomi S40",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos silencioso, padrão, forte e turbo",
+			"Até 180 minutos de funcionamento com base de carregamento",
+			"Opções para ignorar, cruzar ou evitar carpetes",
+			"Reservatório de pó de 520 mL em saco de coleta"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,8cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "180 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "6 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "520mL (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "silencioso; padrão; forte; turbo; aspiração; aspiração e lavagem; ignorar carpete; aspirar apenas em carpetes; cruzar carpete; evitar carpete"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "34 x 34 x 9,8cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "dreame-d15-plus",
+		"name": "DREAME D15 Plus",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Até 300 minutos de funcionamento, o maior da lista",
+			"Reservatório de 4 litros em saco de coleta",
+			"Desvio de carpetes e limpeza de cantos e bordas",
+			"Potência de 69W com aspiração e passagem de pano"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tempo de funcionamento",
+				"value": "300 minutos"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "4 litros (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; cantos e bordas"
+			},
+			{
+				"label": "Potência",
+				"value": "69W"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "xiaomi-s40c",
+		"name": "Xiaomi S40C",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos silencioso, padrão, forte e turbo",
+			"Até 100 minutos de funcionamento com base de carregamento",
+			"Desvio de carpetes e limpeza de cantos",
+			"Potência de 55W e dimensões de 34 x 34 x 9,7 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,7cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "100 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "6 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "520mL (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "silencioso; padrão; forte; turbo; aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; cantos"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "34 x 34 x 9,7cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	},
+	{
+		"id": "panda-plus-amg-r3-pro",
+		"name": "Panda Plus AMG-R3 PRO",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 9,5 cm e dimensões de 32 x 32 cm",
+			"Modos cantos, automático e espiral",
+			"Reservatório de 400 mL em saco de coleta",
+			"Potência de 40W com bivolt 127V e 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "9,5cm"
+			},
+			{
+				"label": "Tempo de funcionamento",
+				"value": "100 minutos"
+			},
+			{
+				"label": "Tempo de recarga",
+				"value": "5 horas"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "400mL (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; cantos; automático; espiral"
+			},
+			{
+				"label": "Potência",
+				"value": "40W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "32 x 32 x 9,5cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V/220V (bivolt)"
+			}
+		]
+	},
+	{
+		"id": "eufy-c20",
+		"name": "Eufy C20",
+		"image": "/images/posts/melhor-robo-aspirador-com-mapeamento-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfil de 8,5 cm de altura para o robô",
+			"Reservatório de 3,1 litros em saco de coleta",
+			"Desvio de carpetes e limpeza de cantos e bordas",
+			"Aspiração e passagem de pano com mapeamento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8,5cm"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "3,1 litros (saco de coleta)"
+			},
+			{
+				"label": "Escova giratória",
+				"value": "sim"
+			},
+			{
+				"label": "Passa pano",
+				"value": "sim"
+			},
+			{
+				"label": "Sensores de obstáculos",
+				"value": "sim"
+			},
+			{
+				"label": "Mapeamento inteligente",
+				"value": "sim"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspiração e passagem de pano; somente aspiração em carpetes; desvio de carpetes; cantos e bordas"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			}
+		]
+	}
+]

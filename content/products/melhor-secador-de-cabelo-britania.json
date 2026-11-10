@@ -1,0 +1,303 @@
+[
+	{
+		"id": "britania-bsc2250-2100w",
+		"name": "Britânia BSC2250 2100W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W com jato de ar frio",
+			"Concentrador de ar incluso",
+			"Cabo de 1,9 metro com voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,57kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc21a-2100w",
+		"name": "Britânia BSC21A 2100W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W com jato de ar frio",
+			"Difusor e concentrador de ar inclusos",
+			"Cabo de 1,8 metro e peso de 0,64kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "difusor; concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,64kg"
+			}
+		]
+	},
+	{
+		"id": "britania-sp3100n-2000w",
+		"name": "Britânia SP3100N 2000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W e três temperaturas",
+			"Concentrador de ar incluso",
+			"Peso de 0,63kg e cabo de 1,9 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,63kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc2000-2000w",
+		"name": "Britânia BSC2000 2000W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com jato de ar frio",
+			"Concentrador de ar incluso",
+			"Cabo de 1,8 metro e peso de 0,67kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,67kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc1200-1200w",
+		"name": "Britânia BSC1200 1200W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Peso de 0,3kg, o mais leve da lista",
+			"Potência de 1200W e 2 velocidades",
+			"Concentrador de ar incluso"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,3kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc3400-1600w",
+		"name": "Britânia BSC3400 1600W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três velocidades e três temperaturas",
+			"Potência de 1600W com jato de ar frio",
+			"Cabo de 2 metros, o maior da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "3 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,48kg"
+			}
+		]
+	},
+	{
+		"id": "britania-bsc2200-2100w",
+		"name": "Britânia BSC2200 2100W",
+		"image": "/images/posts/melhor-secador-de-cabelo-britania-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2100W com jato de ar frio",
+			"Concentrador de ar incluso",
+			"Peso de 0,54kg e voltagem bivolt"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2100W"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "concentrador de ar"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,9 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Peso",
+				"value": "0,54kg"
+			}
+		]
+	}
+]

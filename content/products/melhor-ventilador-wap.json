@@ -1,0 +1,368 @@
+[
+	{
+		"id": "wap-air-fresh-90w-torre",
+		"name": "WAP Air Fresh 90W (torre)",
+		"image": "/images/posts/melhor-ventilador-wap-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 90W com 3 velocidades",
+			"Reservatório de 3L com indicador de nível de água",
+			"Filtro em colmeia para reter poeira",
+			"Base desmontável e empunhadura para transporte",
+			"Compatível com óleos essenciais e 2 blocos de gel (ICE BOX)"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torre"
+			},
+			{
+				"label": "Potência",
+				"value": "90W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "—"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "—"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "—"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "sistema de oscilação silencioso; filtro em colmeia para retenção de poeira; painel analógico; reservatório de 3L com indicador de nível de água; base desmontável; empunhadura para transporte; compatível com óleos essenciais; 2 blocos de gel (ICE BOX)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "98 x 29 x 29cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,01kg"
+			}
+		]
+	},
+	{
+		"id": "wap-air-silence-70w-torre",
+		"name": "WAP Air Silence 70W (torre)",
+		"image": "/images/posts/melhor-ventilador-wap-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto e timer programável de até 15h",
+			"4 velocidades e 3 modos de vento: normal, brisa e noturno",
+			"Função ECO e oscilação horizontal de 90°",
+			"Desligamento automático em 1h, 2h, 4h, 8h ou 15h",
+			"Portátil, com pega para transporte e 3,7kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "torre"
+			},
+			{
+				"label": "Potência",
+				"value": "70W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "—"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "—"
+			},
+			{
+				"label": "Velocidades",
+				"value": "4"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "––"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função ECO; 3 modos de vento (normal; brisa; noturno); oscilação horizontal de 90°; timer programável até 15h; desligamento automático em 1h, 2h, 4h, 8h ou 15h; painel com indicador de LED; portátil com pega/alça para transporte; grade fixa; suporte para cabo elétrico"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "103 x 30 x 30cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,7kg"
+			}
+		]
+	},
+	{
+		"id": "wap-flow-turbo-180w-8-pas-mesa",
+		"name": "WAP Flow Turbo 180W 8 pás (mesa)",
+		"image": "/images/posts/melhor-ventilador-wap-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso 2 em 1, na mesa ou na parede",
+			"Tecnologia Silent Flow e oscilação horizontal de 90°",
+			"Classificação Triplo A em eficiência energética, com selo Procel",
+			"Inclinação ajustável até 45° e design aerodinâmico",
+			"8 pás de 50cm e 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa e parede"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow; selo Procel; Triplo A em eficiência energética; oscilação horizontal de 90°; inclinação ajustável até 45°; design aerodinâmico; uso 2 em 1 (mesa ou parede)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "65 x 34,5 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	},
+	{
+		"id": "wap-flow-turbo-180w-8-pas-coluna",
+		"name": "WAP Flow Turbo 180W 8 pás (coluna)",
+		"image": "/images/posts/melhor-ventilador-wap-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura ajustável até 1,5m",
+			"Tecnologia Silent Flow e eficiência energética A",
+			"Oscilação horizontal até 90° e inclinação até 45°",
+			"8 pás de 50cm com 3 velocidades",
+			"Funciona em 127V ou 220V"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "180W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "8"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "tecnologia Silent Flow; eficiência energética A; oscilação horizontal até 90°; ajuste de inclinação até 45°; ajuste de altura até 1,5m"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "150 x 50 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,6kg"
+			}
+		]
+	},
+	{
+		"id": "wap-rajada-pro-60-135w-5-pas-parede",
+		"name": "WAP Rajada Pro 60 135W 5 pás (parede)",
+		"image": "/images/posts/melhor-ventilador-wap-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona em bivolt e tem suporte para fixação na parede",
+			"Oscilação até 60° e inclinação até 30°",
+			"Grades metálicas removíveis para limpeza",
+			"Trava de regulagem de inclinação",
+			"5 pás de 55cm com 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "5"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "55cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "funcionamento bivolt; oscilação até 60°; inclinação até 30°; grades metálicas removíveis para limpeza; trava de regulagem de inclinação; suporte para fixação na parede"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "56 x 40 x 56cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,4kg"
+			}
+		]
+	},
+	{
+		"id": "wap-rajada-pro-60-135w-5-pas-coluna",
+		"name": "WAP Rajada Pro 60 135W 5 pás (coluna)",
+		"image": "/images/posts/melhor-ventilador-wap-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura ajustável até 1,70m no formato de coluna",
+			"Grades metálicas e removíveis para limpeza",
+			"Oscilação até 60° com inclinação até 30°",
+			"Trava de regulagem de inclinação e funcionamento bivolt",
+			"5 pás de 55cm e 3 velocidades"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "5"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "55cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "funcionamento bivolt; oscilação até 60°; inclinação até 30°; ajuste de altura até 1,70m; grades metálicas e removíveis; trava de regulagem de inclinação"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "170 x 42 x 56cm"
+			},
+			{
+				"label": "Peso",
+				"value": "8,1kg"
+			}
+		]
+	}
+]

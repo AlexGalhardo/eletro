@@ -1,0 +1,420 @@
+[
+	{
+		"id": "mallory-max-control-140w-coluna",
+		"name": "Mallory Max Control 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mallory-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto para ajustar as 3 velocidades à distância",
+			"Timer com desligamento automático para programar o uso",
+			"15 pás de 40cm para uma ventilação mais ampla",
+			"Oscilação horizontal e inclinação vertical para direcionar o ar",
+			"Grade removível e alça para transporte práticos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "15"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; grade com sistema especial TS; oscilação horizontal; inclinação vertical; coluna ajustável; alça para transporte; timer com desligamento automático; grade removível; baixo nível de ruído"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-chronos-140w-coluna",
+		"name": "Mallory Chronos 140W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mallory-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Função turbo para um fluxo de ar mais forte",
+			"Controle remoto e timer para ajustar o uso sem se levantar",
+			"Eficiência energética A com 140W de potência",
+			"Coluna ajustável com oscilação horizontal",
+			"Baixo nível de ruído e grade removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; grade com sistema especial TS; oscilação horizontal; inclinação vertical; coluna ajustável; timer; grade removível; função turbo; baixo nível de ruído; eficiência energética A"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,7kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-eolo-126w-coluna",
+		"name": "Mallory Éolo 126W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mallory-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Coluna ajustável de 1,12 a 1,30 metro",
+			"Função turbo com eficiência energética A",
+			"Oscilação horizontal e inclinação vertical para cobrir o ambiente",
+			"Baixo nível de ruído com grade removível"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "função turbo; oscilação horizontal; grade removível; grade com sistema especial TS; coluna ajustável entre 1,12 e 1,30 metro; inclinação vertical; baixo nível de ruído; eficiência energética A"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 33 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "5,9kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-air-timer-ts-126w-coluna",
+		"name": "Mallory Air Timer TS+ 126W (coluna)",
+		"image": "/images/posts/melhor-ventilador-mallory-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Timer para programar o tempo de funcionamento",
+			"Controle remoto para ajustar as 3 velocidades",
+			"Alça para transportar o aparelho entre os cômodos",
+			"Baixo nível de ruído com oscilação horizontal"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "coluna"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; grade com sistema especial TS; oscilação horizontal; inclinação vertical; coluna ajustável; timer; grade removível; alça para transporte; baixo nível de ruído"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "130 x 39 x 48cm"
+			},
+			{
+				"label": "Peso",
+				"value": "6,1kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-turbo-fresh-126w-mesa",
+		"name": "Mallory Turbo Fresh 126W (mesa)",
+		"image": "/images/posts/melhor-ventilador-mallory-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Funciona como ventilador de mesa ou de parede",
+			"Três velocidades e 126W para regular o fluxo de ar",
+			"Inclinação vertical ajustável com oscilação horizontal",
+			"Grade removível e baixo nível de ruído"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa e parede"
+			},
+			{
+				"label": "Potência",
+				"value": "126W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade com sistema especial TS; oscilação horizontal; inclinação vertical; grade removível; baixo nível de ruído"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68 x 33 x 50cm"
+			}
+		]
+	},
+	{
+		"id": "mallory-turbo-compact-42w-mesa",
+		"name": "Mallory Turbo Compact 42W (mesa)",
+		"image": "/images/posts/melhor-ventilador-mallory-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Menor potência da lista, com 42W e 1,8kg",
+			"Oscilação horizontal contínua e inclinação vertical ajustável",
+			"Funcionamento silencioso com eficiência energética A",
+			"Grade removível para facilitar a limpeza"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Potência",
+				"value": "42W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade com sistema especial TS; eficiência energética A; oscilação horizontal contínua; inclinação vertical ajustável; grade removível; funcionamento silencioso; eficiência energética A"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "53 x 26 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,8kg"
+			}
+		]
+	},
+	{
+		"id": "mallory-smart-control-140w-parede",
+		"name": "Mallory Smart Control 140W (parede)",
+		"image": "/images/posts/melhor-ventilador-mallory-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto e timer para uso programado",
+			"Fixação na parede para liberar espaço no chão",
+			"Eficiência energética A com 140W de potência",
+			"Baixo nível de ruído com 15 pás de 40cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Potência",
+				"value": "140W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "15"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "não"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade com sistema especial TS; timer; controle remoto; baixo nível de ruído; eficiência energética A"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "68 x 33 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,6kg"
+			}
+		]
+	}
+]

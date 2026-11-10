@@ -1,0 +1,398 @@
+[
+	{
+		"id": "lorenzetti-essence-de-parede-5500w",
+		"name": "Lorenzetti Essence de Parede 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste gradual de temperatura por seletor eletrônico",
+			"Bica alta com grau de proteção IP24",
+			"Sistema de aterramento e compatibilidade com DR",
+			"Redutor automático de pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "4600W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajuste gradual"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″ (DN15)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor eletrônico gradual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor automático de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-versatil-5500w",
+		"name": "Lorenzetti Versátil 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura: fria, morna e quente",
+			"Seletor manual de temperatura",
+			"Bica alta com grau de proteção IP24",
+			"Redutor automático de pressão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "4500W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis (fria, morna e quente)"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″ (DN15)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor automático de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-easy-de-parede-5500w",
+		"name": "Lorenzetti Loren Easy de Parede 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro níveis de temperatura",
+			"Bica alta com instalação em rosca 1/2″ BSP",
+			"Compatibilidade com DR e sistema de aterramento",
+			"Pressão mínima de 20kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "4800W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "4 níveis"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca 1/2″ BSP"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-loren-easy-de-mesa-5500w",
+		"name": "Lorenzetti Loren Easy de Mesa 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Quatro níveis de temperatura",
+			"Instalação de mesa com entrada de água DN15",
+			"Redutor de pressão e sistema de aterramento",
+			"Pressão mínima de 23kPa"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "4800W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "4 níveis"
+			},
+			{
+				"label": "Instalação",
+				"value": "entrada de água DN15 (1/2″)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "23kPa (2,3m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-maxi-ultra-5500w",
+		"name": "Lorenzetti Maxi Ultra 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura",
+			"Bica baixa e sem rotação",
+			"Redutor automático de pressão",
+			"Sistema de aterramento e compatibilidade com DR"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "baixa"
+			},
+			{
+				"label": "Potência",
+				"value": "4600W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Rotação da bica",
+				"value": "não"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″ (DN15)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor automático de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-clean-3t-5500w",
+		"name": "Lorenzetti Clean 3T 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Três níveis de temperatura",
+			"Bica baixa com grau de proteção IP24",
+			"Redutor automático de pressão",
+			"Sistema de aterramento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "baixa"
+			},
+			{
+				"label": "Potência",
+				"value": "4500W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "parede"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Instalação",
+				"value": "rosca padrão 1/2″ (DN15)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "20kPa (2m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor manual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor automático de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	},
+	{
+		"id": "lorenzetti-essence-de-mesa-5500w",
+		"name": "Lorenzetti Essence de Mesa 5500W",
+		"image": "/images/posts/melhor-torneira-eletrica-lorenzetti-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Ajuste eletrônico gradual de temperatura",
+			"Entrada de água DN15 e pressão mínima de 23kPa",
+			"Bica alta para instalação em mesa",
+			"Redutor automático de pressão e aterramento"
+		],
+		"technicalDetails": [
+			{
+				"label": "Bica",
+				"value": "alta"
+			},
+			{
+				"label": "Potência",
+				"value": "4600W (127V); 5500W (220V)"
+			},
+			{
+				"label": "Tipo",
+				"value": "mesa"
+			},
+			{
+				"label": "Grau de proteção",
+				"value": "IP24"
+			},
+			{
+				"label": "Temperatura",
+				"value": "ajuste eletrônico gradual"
+			},
+			{
+				"label": "Instalação",
+				"value": "entrada de água DN15 (1/2″)"
+			},
+			{
+				"label": "Pressão mínima",
+				"value": "23kPa (2,3m.c.a.)"
+			},
+			{
+				"label": "Comando de temperatura",
+				"value": "seletor eletrônico gradual"
+			},
+			{
+				"label": "Segurança",
+				"value": "sistema de aterramento; compatibilidade com DR; redutor automático de pressão"
+			},
+			{
+				"label": "Tensão",
+				"value": "127V ou 220V (não é bivolt)"
+			}
+		]
+	}
+]

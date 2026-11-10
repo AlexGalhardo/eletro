@@ -1,0 +1,303 @@
+[
+	{
+		"id": "natura-una-infinito-feminino",
+		"name": "Natura Una Infinito (feminino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfuma com mandarina, lírio-do-vale, frésia, toranja e bergamota no topo",
+			"Traz coração de ameixa, jasmim, gardênia e rosa",
+			"Oferece 90ml para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "90ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "mandarina, lírio-do-vale, frésia, toranja e bergamota"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "ameixa, jasmim, gardênia e rosa"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "notas doces, cumarina e sândalo"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-unico-masculino",
+		"name": "Natura Essencial Único (masculino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com pimenta rosa, noz moscada e pomelo",
+			"Assenta em mirra, benzoin, baunilha e âmbar",
+			"Oferece 90ml com família amadeirada"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "90ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pimenta rosa, ishipink, noz moscada, açafrão e pomelo"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "freesia, cedro, vetiver e copaiba"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "mirra, opoponax, benzoin, cumaru, vanilla, musk, amber e labdanum"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-una-artisan-feminino",
+		"name": "Natura Una Artisan (feminino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com cassis, bergamota, mandarina, pera e folhas verdes",
+			"Desenvolve coração de peônia, jasmim, rosa e lírio-do-vale",
+			"Oferece 75ml, o menor frasco da lista"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "chipre floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "cassis, bergamota, mandarina, pera e folhas verdes"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "peônia, jasmim, rosa, jacinto, centifólia e lírio-do-vale"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "almíscar, patchouli, sândalo, baunilha e cashmere"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-homem-essence-masculino",
+		"name": "Natura Homem Essence (masculino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com bergamota, gengibre, grapefruit e limão",
+			"Traz coração de pimenta preta, cardamomo e canela",
+			"Oferece 100ml para o dia a dia e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, gengibre, grapefruit e limão"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "pimenta preta, violeta, cardamomo, canela e coriandro"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "patchouli, âmbar, iso e super, guaiacwood, cashmeran e cedro"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "dia a dia ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-oud-feminino",
+		"name": "Natura Essencial Oud (feminino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com pimenta rosa, damasco e frutas secas escuras",
+			"Assenta em óleo de oud, âmbar gris, cedro e sândalo",
+			"Oferece 100ml para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pimenta rosa, damasco, frutas secas escuras e pimenta preta"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "rosa, jasmim absoluto, cypriol, praliné, bálsamo gurjum e priprioca"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "âmbar gris, cedro, sândalo, almíscar, óleo de oud, patchouli, cashmeran, ambrostar, baunilha e copaíba"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-home-evolut-io-masculino",
+		"name": "Natura Home Evolut.io (masculino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com bergamota, alecrim, lavandim e grapefruit",
+			"Traz coração de cardamomo, noz-moscada e canela",
+			"Assenta em cumaru, benjoim, âmbar e sândalo"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, alecrim, lavandim e grapefruit"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "cardamomo, noz-moscada e canela"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "cumaru, benjoim, âmbar e sândalo"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-atrai-feminino",
+		"name": "Natura Essencial Atrai (feminino)",
+		"image": "/images/posts/melhor-perfumes-da-natura-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Abre com bergamota, pera, maçã, cassis e framboesa",
+			"Traz coração de violeta, lírio-do-vale, rosa e jasmim",
+			"Oferece 100ml de família floral para sair"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, pera, maçã, cassis, pimenta-rosa, framboesa, abacaxi, mandarina e toranja"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "violeta, lírio-do-vale, rosa e jasmim"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "pralinê, benjoim, âmbar, sândalo, almíscar, cedro, acorde de chocolate rubi, baunilha, musgo, patchouli, doce de leite e cistus"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	}
+]

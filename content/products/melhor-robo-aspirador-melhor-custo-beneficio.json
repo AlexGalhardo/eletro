@@ -1,0 +1,406 @@
+[
+	{
+		"id": "xiaomi-s20-xm806bra",
+		"name": "Xiaomi S20 XM806BRA",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 5000Pa com navegação a laser LDS",
+			"Mapeamento e base de carregamento incluídos",
+			"Controle pelo app e compatível com Alexa e Google Assistente",
+			"Autonomia de 2 horas com reservatório de pó de 400mL"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "10,3cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "400mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 horas e 40 minutos"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "sim"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto pelo app; sensores de queda e obstáculos; sucção de 5000pa; compatível com alexa e google assistente; escova lateral; tanque de água de 270mL; sistema de navegação a laser LDS"
+			},
+			{
+				"label": "Potência",
+				"value": "45W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "10,3 x 32 x 32cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "liectroux-l200",
+		"name": "Liectroux L200",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Comando por voz e controle pelo app em português",
+			"Mapeamento 2D pelo app e agendamento de limpeza",
+			"Reservatório 2 em 1 de 250mL e altura de 7,5cm",
+			"Sensores antiqueda e anticolisão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7,5cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "250mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "1 hora e 40 minutos a 2 horas"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "4 horas e 40 minutos"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "sim"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "comando por voz; controle por app; agendamento de limpeza; sensores antiqueda e anticolisão; acompanhamento em tempo real; design slim; reservatório 2 em 1; manual e voz em português; mapeamento 2D através do app"
+			},
+			{
+				"label": "Potência",
+				"value": "28W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7,5 x 30 x 30cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "wap-robot-w1000",
+		"name": "WAP Robot W1000",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Comando por voz e controle por app com agendamento",
+			"Mapeamento e base de carregamento incluídos",
+			"Tanque inteligente com três níveis de umidade",
+			"Autonomia de 2 horas e 40 minutos com 260mL de pó"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "260mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 40 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "sim"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "comando por voz; controle por app; agendamento de limpeza; atualização via OTA; três níveis de sucção; rodas emborrachadas; sensores antiqueda e redirecionamento; tanque inteligente com 3 níveis de umidade; controle remoto"
+			},
+			{
+				"label": "Potência",
+				"value": "36W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8 x 32 x 32cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb10",
+		"name": "Electrolux ERB10",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura de 7cm e design ultra slim",
+			"Autonomia de 2 horas e 20 minutos",
+			"Filtro HEPA allergy protect e dupla escova",
+			"Sensor antiqueda e pano de microfibra"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "7cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "200mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "3 a 5 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "filtro HEPA allergy protect; sensor antiqueda; dupla escova; design ultra slim; pano de microfibra; pincel"
+			},
+			{
+				"label": "Dimensões",
+				"value": "7 x 29 x 29cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "karcher-rcv2",
+		"name": "Kärcher RCV2",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Sucção de 4000Pa com navegação gyro",
+			"Comando por voz, app e controle remoto",
+			"Ajuste de potência de sucção e de volume de água",
+			"Autonomia de 2 horas e 10 minutos com 420mL de pó"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "420mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 10 minutos"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "comando por voz; controle por app; controle remoto; sensor antiqueda; sensor anticolisão; navegação gyro; ajuste de potência de sucção; ajuste do volume de água; compartimentos desmontáveis; saída de voz integrada; borracha lateral"
+			},
+			{
+				"label": "Potência",
+				"value": "4000pa"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "electrolux-erb40",
+		"name": "Electrolux ERB40",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Varre, aspira e passa pano em modo úmido e seco",
+			"Base de carregamento e dupla escova",
+			"Sensores antiqueda e anticolisão com 8cm de altura",
+			"Filtro Hepa allergy protect e controle remoto"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "320mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 20 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "4 a 6 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "varre, aspira e passa pano (úmido e seco)"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "controle remoto; sensor antiqueda; sensor anticolisão; dupla escova; design slim; pano de microfibra; pincel; filtro hepa allergy protect"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8 x 32 x 32cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	},
+	{
+		"id": "samsung-powerbot-e-vr5000rm",
+		"name": "Samsung Powerbot-e VR5000RM",
+		"image": "/images/posts/melhor-robo-aspirador-melhor-custo-beneficio-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Motor digital inverter com potência de 55W",
+			"Dispenser de água automático e filtro lavável",
+			"Controle por app Smart Things e 8 modos de limpeza",
+			"Autonomia de 2 horas e 30 minutos com 8,5cm de altura"
+		],
+		"technicalDetails": [
+			{
+				"label": "Altura",
+				"value": "8,5cm"
+			},
+			{
+				"label": "Capacidade do reservatório de pó",
+				"value": "200mL"
+			},
+			{
+				"label": "Autonomia da bateria",
+				"value": "2 horas e 30 minutos"
+			},
+			{
+				"label": "Tempo de carregamento",
+				"value": "4 horas"
+			},
+			{
+				"label": "Modos de limpeza",
+				"value": "aspira e passa pano"
+			},
+			{
+				"label": "Mapeamento",
+				"value": "não"
+			},
+			{
+				"label": "Base de carregamento",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "motor digital inverter; dispenser de água automático; filtro lavável; sensor antiqueda; sensor anticolisão; sistema Easy Pass; controle remoto; controle por app Smart Things; escovas laterais; programação de limpeza; 8 modos de limpeza; Tri Axis Gyro Sensor"
+			},
+			{
+				"label": "Potência",
+				"value": "55W"
+			},
+			{
+				"label": "Dimensões",
+				"value": "8,5 x 34 x 34cm"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			}
+		]
+	}
+]

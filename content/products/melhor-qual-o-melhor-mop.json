@@ -1,0 +1,362 @@
+[
+	{
+		"id": "perfect-pro-move-360",
+		"name": "Perfect Pro MOVE 360",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base que gira até 360° e alça de transporte",
+			"Balde de 16 litros com dreno e centrífuga removível",
+			"Três refis inclusos, incluindo escovão",
+			"Cabo de aço inox com 1,60 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop giratório"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra uso geral; microfibra pó; escovão"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "até 360°"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "16 litros"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "1,60 metro"
+			},
+			{
+				"label": "Extras",
+				"value": "alça de transporte; dreno de água; centrífuga removível; roda auxiliar; 3 refis inclusos"
+			},
+			{
+				"label": "Peso",
+				"value": "2,98kg (balde)"
+			}
+		]
+	},
+	{
+		"id": "flash-limp-mop7800",
+		"name": "Flash Limp MOP7800",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Spray integrado para umedecer o chão",
+			"Cabo inclinável em 180°",
+			"Refil de microfibra lavável e reutilizável",
+			"Peso de 875g com cabo de 129 cm"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop spray"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox, ABS, aço carbono e PP"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "até 360°"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "—"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "129cm"
+			},
+			{
+				"label": "Extras",
+				"value": "spray integrado; cabo inclinável em 180°"
+			},
+			{
+				"label": "Peso",
+				"value": "875g"
+			}
+		]
+	},
+	{
+		"id": "electrolux-menalux-flat",
+		"name": "Electrolux Menalux Flat",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Compartimentos separados para água suja e limpa",
+			"Dreno para escoamento de água",
+			"Um refil extra incluído",
+			"Cabo de aço inox e refil lavável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop plano"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "—"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "4,5 litros"
+			},
+			{
+				"label": "Extras",
+				"value": "dreno para escoamento de água; 1 refil extra; compartimentos separados para água suja e limpa"
+			},
+			{
+				"label": "Peso",
+				"value": "1,95kg"
+			}
+		]
+	},
+	{
+		"id": "flash-limp-mop5010",
+		"name": "Flash Limp MOP5010",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base flexível e rotação de 360°",
+			"Cabo ajustável entre 104 cm e 128 cm",
+			"Balde de 8 litros, com 4 litros em uso",
+			"Alça de transporte e refil lavável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop giratório"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "360°"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "8 litros (capacidade total); 4 litros (em uso)"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "ajustável entre 104cm e 128cm"
+			},
+			{
+				"label": "Extras",
+				"value": "alça de transporte; base flexível"
+			},
+			{
+				"label": "Peso",
+				"value": "605g (balde)"
+			}
+		]
+	},
+	{
+		"id": "flash-limp-mop7671",
+		"name": "Flash Limp MOP7671",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Mecanismo de torção integrado",
+			"Esponja em PVA lavável e reutilizável",
+			"Altura do cabo ajustável de 89 cm a 125 cm",
+			"Peso de 617g e cabo de aço"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop vertical"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "esponja em PVA lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "—"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "—"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "ajustável entre 89cm e 125cm"
+			},
+			{
+				"label": "Extras",
+				"value": "mecanismo de torção integrado"
+			},
+			{
+				"label": "Peso",
+				"value": "617g"
+			}
+		]
+	},
+	{
+		"id": "simplo-mop-spray",
+		"name": "Simplo Mop Spray",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Base articulável com rotação de 360º",
+			"Refil de microfibra lavável e reutilizável",
+			"Cabo de aço inox com 124 cm",
+			"Spray integrado e peso de 785g"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop spray"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "360º"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "—"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "124cm"
+			},
+			{
+				"label": "Extras",
+				"value": "spray integrado; base articulável"
+			},
+			{
+				"label": "Peso",
+				"value": "785g"
+			}
+		]
+	},
+	{
+		"id": "flash-limp-mop8258",
+		"name": "Flash Limp MOP8258",
+		"image": "/images/posts/melhor-qual-o-melhor-mop-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Balde de 12 litros e rotação de 360°",
+			"Três refis inclusos",
+			"Cabo com altura ajustável de 104 cm a 128 cm",
+			"Refil de microfibra lavável e reutilizável"
+		],
+		"technicalDetails": [
+			{
+				"label": "Tipo",
+				"value": "mop giratório"
+			},
+			{
+				"label": "Material do cabo",
+				"value": "aço inox"
+			},
+			{
+				"label": "Material da base",
+				"value": "polipropileno"
+			},
+			{
+				"label": "Refil",
+				"value": "microfibra lavável e reutilizável"
+			},
+			{
+				"label": "Rotação da base",
+				"value": "360°"
+			},
+			{
+				"label": "Capacidade do balde",
+				"value": "12 litros"
+			},
+			{
+				"label": "Altura do cabo",
+				"value": "ajustável entre 104cm a 128cm"
+			},
+			{
+				"label": "Extras",
+				"value": "3 refis incluso; cabo com altura ajustável"
+			},
+			{
+				"label": "Peso",
+				"value": "765g (balde)"
+			}
+		]
+	}
+]

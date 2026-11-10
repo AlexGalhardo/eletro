@@ -1,0 +1,450 @@
+[
+	{
+		"id": "karcher-sc-4-premium-1500w",
+		"name": "Kärcher SC 4 Premium 1500W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W e aquecimento em 3 minutos",
+			"Reservatório de 1,2 litro com dois níveis de vapor",
+			"Cabo de 5 metros e mangueira de 2 metros",
+			"Escova turbo a vapor e escova rotativa inclusas"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão do vapor",
+				"value": "3,2bar"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "3 minutos"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1,2 litro"
+			},
+			{
+				"label": "Controle de vapor",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "5 metros"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "2 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pano em turco para pavimentos; bastões anticalcário; bico fino; bocal manual; escova turbo a vapor; escova rotativa preta; bocal para pisos básico; 2 tubos de vapor"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "27 x 28 x 35cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,1kg"
+			}
+		]
+	},
+	{
+		"id": "karcher-sc-2-premium-1500w",
+		"name": "Kärcher SC 2 Premium 1500W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1500W com pressão de vapor de 3,2 bar",
+			"Reservatório de 1 litro com dois níveis de vapor",
+			"Temperatura máxima de 140ºC",
+			"Bocal de piso e pano de microfibra inclusos"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W"
+			},
+			{
+				"label": "Pressão do vapor",
+				"value": "3,2bar"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "8 minutos"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "1 litro"
+			},
+			{
+				"label": "Vazão",
+				"value": "100g/min"
+			},
+			{
+				"label": "Controle de vapor",
+				"value": "2 níveis"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "140ºC"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "4 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal de piso; pano de microfibra para bocal de piso; bocal de jato pontual; escova circular; tubos prolongadores"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "26 x 25,4 x 38cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3kg"
+			}
+		]
+	},
+	{
+		"id": "vonder-lmv1400-1500w",
+		"name": "Vonder LMV1400 1500W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquece em 15 segundos com potência de 1500W em 127V",
+			"Cabo de 6 metros e mangueira de 0,85 metro",
+			"Três níveis de vapor com autonomia de até 18 minutos",
+			"Vários bicos, incluindo espátula e rodo limpa vidros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1500W (127V); 1400W (220V)"
+			},
+			{
+				"label": "Pressão do vapor",
+				"value": "2,5bar"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "15s"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "440mL"
+			},
+			{
+				"label": "Autonomia de vapor",
+				"value": "nível 1 (20g/min): 18 minutos, nível 2 (26g/min): 15 minutos, nível 3 (32g/min): 12 minutos"
+			},
+			{
+				"label": "Vazão",
+				"value": "até 32g/min"
+			},
+			{
+				"label": "Controle de vapor",
+				"value": "3 níveis"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "100ºC"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "6 metros"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "0,85 metro"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "pano em microfibra; bico prolongador; bico espátula; bico reto com escova; bico reto com escova com cerdas duplas; bico jato direcional; bico multiuso; bico angular com escova de cerdas de nylon; bico angular com escova de cerdas de latão; bico rodo limpa vidros; pano do bico rodo limpa vidros"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "117 x 29 x 25cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,44kg"
+			}
+		]
+	},
+	{
+		"id": "intech-machine-top-clean-1200w",
+		"name": "Intech Machine Top Clean 1200W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão do vapor de 3,5 bar",
+			"Aquecimento em até 5 minutos e autonomia de 10 minutos",
+			"Escovas de inox e de nylon inclusas",
+			"Peso de 1,7kg e cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Pressão do vapor",
+				"value": "3,5bar"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "até 5 minutos"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "400mL"
+			},
+			{
+				"label": "Autonomia de vapor",
+				"value": "10 minutos"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "102ºC"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico multiuso; bico rodo; tubo flexível; bico prolongador; escova de inox; escova de nylon; pano para bico multiuso; copo dosador; funil"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "14,8 x 31,5 x 22,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,7kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-hg-01-1000w",
+		"name": "Mondial HG-01 1000W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1000W com reservatório de 350 mL",
+			"Mini rodo, bico curvo e escova redonda inclusos",
+			"Cabo de 2 metros",
+			"Peso de 1,11kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "350mL"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "mini rodo; tubo reto; tubo flexível; bico curvo; bocal difusor; copo medidor; luva de tecido; escova redonda; funil de abastecimento"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "21,5 x 28 x 14cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,11kg"
+			}
+		]
+	},
+	{
+		"id": "britania-steam-express-n-1000w",
+		"name": "Britânia Steam Express N 1000W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Aquecimento em 4 minutos e temperatura máxima de 110ºC",
+			"Reservatório de 250 mL e potência de 1000W",
+			"Kit de escovas e mini rodo inclusos",
+			"Cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1000W"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "4 minutos"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "250mL"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "110ºC"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "tubo prolongador; copo medidor; pano; bico reto; bico difusor; bico canto; mini rodo; kit escovas"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 24,5 x 11,5cm"
+			},
+			{
+				"label": "Peso",
+				"value": "1,2kg"
+			}
+		]
+	},
+	{
+		"id": "wap-wapore-clean-easy-1250w",
+		"name": "WAP Wapore Clean Easy 1250W",
+		"image": "/images/posts/melhor-vaporizador-e-higienizador-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Pressão de 3 bar com autonomia de 20 minutos",
+			"Reservatório de 750 mL e potência de 1250W",
+			"Cinco bicos e duas extensões retas inclusos",
+			"Mangueira de 2 metros e cabo de 3 metros"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1250W"
+			},
+			{
+				"label": "Pressão do vapor",
+				"value": "3bar"
+			},
+			{
+				"label": "Tempo de aquecimento",
+				"value": "7 minutos"
+			},
+			{
+				"label": "Capacidade do reservatório",
+				"value": "750mL"
+			},
+			{
+				"label": "Autonomia de vapor",
+				"value": "20 minutos"
+			},
+			{
+				"label": "Vazão",
+				"value": "37mL/min"
+			},
+			{
+				"label": "Controle de vapor",
+				"value": "não"
+			},
+			{
+				"label": "Temperatura máxima",
+				"value": "100ºC"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "3 metros"
+			},
+			{
+				"label": "Comprimento da mangueira",
+				"value": "2 metros"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "5 bicos; adaptador para extensores; 2x extensões retas; pano para bico multiuso; pano para bico de piso; copo dosador; funil"
+			},
+			{
+				"label": "Uso de produtos químicos",
+				"value": "não (utiliza apenas água)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "22 x 19 x 36cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,9kg"
+			}
+		]
+	}
+]

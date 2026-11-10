@@ -1,0 +1,338 @@
+[
+	{
+		"id": "mondial-scp-ju-04-us-1600w",
+		"name": "Mondial SCP-JU-04-US 1600W",
+		"image": "/images/posts/melhor-secador-mondial-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1600W com cinco modos de funcionamento",
+			"Grade interna com tecnologia NTC e gerador de íons",
+			"Jato de ar frio e bolsa de transporte",
+			"Cabo de 2,5 metros e peso de 0,285kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1600W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "tecnologia NTC e gerador de íons"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "5 modos de funcionamento"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bocal direcionador; difusor de cachos; bolsa de transporte; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "2,5 metros"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,285kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-scn-01-2000w",
+		"name": "Mondial SCN-01 2000W",
+		"image": "/images/posts/melhor-secador-mondial-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com três temperaturas",
+			"Revestimento cerâmico com Tourmaline Íon",
+			"Jato de ar frio disponível",
+			"Cabo de 1,7 metro e peso de 0,525kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "revestimento cerâmico com Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,7 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,525kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-sct-ju-03-1200w",
+		"name": "Mondial SCT-JU-03 1200W",
+		"image": "/images/posts/melhor-secador-mondial-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com ajustes de temperatura e velocidade",
+			"Grade com cerâmica, titânio, tourmaline e nano silver",
+			"Bivolt chaveado de 127V e 220V",
+			"Cabo de 1,8 metro e peso de 0,450kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "revestimento em cerâmica, titânio, tourmaline e nano silver"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 ajustes de temperatura e velocidade"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt chaveado (127V / 220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "0,450kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-sc-10-1200w",
+		"name": "Mondial SC-10 1200W",
+		"image": "/images/posts/melhor-secador-mondial-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com jato de ar frio",
+			"Duas velocidades e duas temperaturas",
+			"Bivolt automático",
+			"Cabo de 1,5 metro e peso de 0,340kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia da grade interna:",
+				"value": ": não especificado"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt automático"
+			},
+			{
+				"label": "Peso",
+				"value": "0,340kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-sc-47-gr-1200w",
+		"name": "Mondial SC-47-GR 1200W",
+		"image": "/images/posts/melhor-secador-mondial-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 1200W com Tourmaline Íon na grade",
+			"Duas velocidades e duas temperaturas",
+			"Bivolt chaveado de 127V e 220V",
+			"Peso de 0,300kg e cabo de 1,5 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "1200W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "revestimento com tecnologia Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 2 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "não"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,5 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt chaveado (127V / 220V)"
+			},
+			{
+				"label": "Peso",
+				"value": "0,300kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-sc-32-2000w",
+		"name": "Mondial SC-32 2000W",
+		"image": "/images/posts/melhor-secador-mondial-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com três temperaturas",
+			"Revestimento cerâmico na grade interna",
+			"Jato de ar frio incluso",
+			"Cabo de 1,55 metro e peso de 0,544kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "revestimento cerâmico"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,55 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,544kg"
+			}
+		]
+	},
+	{
+		"id": "mondial-scn-11-2000w",
+		"name": "Mondial SCN-11 2000W",
+		"image": "/images/posts/melhor-secador-mondial-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 2000W com três temperaturas",
+			"Revestimento cerâmico com Keratin e Tourmaline Íon",
+			"Jato de ar frio incluso",
+			"Cabo de 1,8 metro e peso de 0,550kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "2000W"
+			},
+			{
+				"label": "Tecnologia da grade interna",
+				"value": "revestimento cerâmico com Keratin e Tourmaline Íon"
+			},
+			{
+				"label": "Níveis de velocidade e temperatura",
+				"value": "2 velocidades e 3 temperaturas"
+			},
+			{
+				"label": "Jato de ar frio",
+				"value": "sim"
+			},
+			{
+				"label": "Acessórios inclusos",
+				"value": "bico direcionador de ar; manual de instruções"
+			},
+			{
+				"label": "Comprimento do cabo",
+				"value": "1,8 metro"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Peso",
+				"value": "0,550kg"
+			}
+		]
+	}
+]

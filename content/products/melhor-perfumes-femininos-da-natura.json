@@ -1,0 +1,310 @@
+[
+	{
+		"id": "natura-una-infinito",
+		"name": "Natura Una Infinito",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família oriental floral com notas de jasmim, gardênia e rosa",
+			"Notas de fundo doces, com cumarina e sândalo",
+			"Frasco de 90ml em concentração Deo Parfum",
+			"Indicado para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "90ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "oriental floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "mandarina, lírio-do-vale, frésia, toranja e bergamota"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "ameixa, jasmim, gardênia e rosa"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "notas doces, cumarina e sândalo"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-una-artisan",
+		"name": "Natura Una Artisan",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Estrutura chipre floral com notas verdes na saída",
+			"Fundo com almíscar, patchouli e baunilha",
+			"Frasco de 75ml em Deo Parfum",
+			"Coração floral com peônia, rosa e lírio-do-vale"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "chipre floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "cassis, bergamota, mandarina, pera e folhas verdes"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "peônia, jasmim, rosa, jacinto, centifólia e lírio-do-vale"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "almíscar, patchouli, sândalo, baunilha e cashmere"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-una-blush",
+		"name": "Natura Una Blush",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfil floral adocicado com baunilha e âmbar no fundo",
+			"Saída cítrica com bergamota e gengibre",
+			"Coração de flor de laranjeira e lírio-do-vale",
+			"Frasco de 75ml para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "75ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "floral adocicado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, gengibre e notas cítricas"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "flor de laranjeira, lírio-do-vale e breu branco"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "baunilha, âmbar e sândalo"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-oud",
+		"name": "Natura Essencial Oud",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família amadeirada com óleo de oud na base",
+			"Frasco de 100ml em Deo Parfum",
+			"Saída com pimenta rosa, damasco e frutas secas",
+			"Notas de fundo com cedro, sândalo e âmbar gris"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "amadeirado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "pimenta rosa, damasco, frutas secas escuras e pimenta preta"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "rosa, jasmim absoluto, cypriol, praliné, bálsamo gurjum e priprioca"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "âmbar gris, cedro, sândalo, almíscar, óleo de oud, patchouli, cashmeran, ambrostar, baunilha e copaíba"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-ilia",
+		"name": "Natura Ilía",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Perfil floral frutado com frutas vermelhas na saída",
+			"Fundo de baunilha, fava tonka e âmbar",
+			"Frasco de 50ml em Deo Parfum",
+			"Coração de flores brancas, gardênia e frésia"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "50ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "floral frutado"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "frutas vermelhas, pomelo rosa, flor de laranjeira e bergamota"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "flores brancas, lírio-do-vale, jasmim transparente, gardênia, frésia e rosa"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "baunilha, fava tonka, almíscar e âmbar"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-ilia-completa",
+		"name": "Natura Ilía Completa",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Família floral com peônia, rosa e jasmim",
+			"Base de cedro, âmbar e patchouli",
+			"Saída cítrica com bergamota e mandarina",
+			"Frasco de 50ml, indicado para sair e ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "50ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, mandarina, pimenta rosa e pataqueira"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "jasmim, paramela, rosa, peônia e flor de laranjeira"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "cedro, âmbar, patchouli, sândalo, almíscar e baunilha"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	},
+	{
+		"id": "natura-essencial-atrai",
+		"name": "Natura Essencial Atrai",
+		"image": "/images/posts/melhor-perfumes-femininos-da-natura-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Saída frutada com maçã, framboesa e abacaxi",
+			"Coração floral de violeta, lírio-do-vale e rosa",
+			"Fundo com baunilha, benjoim e doce de leite",
+			"Frasco de 100ml para ocasiões especiais"
+		],
+		"technicalDetails": [
+			{
+				"label": "Volume",
+				"value": "100ml"
+			},
+			{
+				"label": "Concentração",
+				"value": "Deo Parfum"
+			},
+			{
+				"label": "Família olfativa",
+				"value": "floral"
+			},
+			{
+				"label": "Notas de saída (topo)",
+				"value": "bergamota, pera, maçã, cassis, pimenta-rosa, framboesa, abacaxi, mandarina e toranja"
+			},
+			{
+				"label": "Notas de corpo (coração)",
+				"value": "violeta, lírio-do-vale, rosa e jasmim"
+			},
+			{
+				"label": "Notas de fundo (base)",
+				"value": "pralinê, benjoim, âmbar, sândalo, almíscar, cedro, acorde de chocolate rubi, baunilha, musgo, patchouli, doce de leite e cistus"
+			},
+			{
+				"label": "Indicação de uso",
+				"value": "para sair ou ocasiões especiais"
+			}
+		]
+	}
+]

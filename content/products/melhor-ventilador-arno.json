@@ -1,0 +1,196 @@
+[
+	{
+		"id": "arno-eole-ultra-neo2-torre",
+		"name": "Arno Eole Ultra NEO2 (torre)",
+		"image": "/images/posts/melhor-ventilador-arno-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto e painel touch",
+			"Silencioso, com 48dB na velocidade mínima",
+			"Timer de até 7 horas e desligamento em 12 horas",
+			"Modos automáticos brisa e noturno",
+			"Oscilação de 60º e alcance de até 6m"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "torre" },
+			{ "label": "Potência", "value": "38W" },
+			{ "label": "Número de pás", "value": "—" },
+			{ "label": "Diâmetro", "value": "—" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "—" },
+			{ "label": "Controle remoto", "value": "sim" },
+			{ "label": "Recursos extras", "value": "alcance de vento de até 6m; painel touch; oscilação de 60º; silencioso com ruído de 48dB na velocidade mínima; modos automáticos brisa e noturno; timer de até 7 horas; desligamento automático em 12 horas" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "102,8 x 30 x 30cm" },
+			{ "label": "Peso", "value": "3,5kg" }
+		]
+	},
+	{
+		"id": "arno-xtreme-force-breeze-vb52-126w-coluna",
+		"name": "Arno Xtreme Force Breeze VB52 126W (coluna)",
+		"image": "/images/posts/melhor-ventilador-arno-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Altura ajustável até 1,5m e 6 pás de 50cm",
+			"Grade Chevron Zone para reduzir ruído",
+			"Modo noturno ultra silencioso",
+			"Oscilação horizontal de 80° e base desmontável",
+			"Quatro inclinações verticais e grade removível"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "coluna" },
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "50cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Recursos extras", "value": "grade Chevron Zone para redução de ruído; modo noturno ultra silencioso; grade frontal removível; base desmontável; oscilação horizontal de 80°; altura ajustável até 1,5m; quatro inclinações verticais" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "1,50 x 66 x 37cm" },
+			{ "label": "Peso", "value": "9,1kg" }
+		]
+	},
+	{
+		"id": "arno-xtreme-force-breeze-vb50-126w-mesa",
+		"name": "Arno Xtreme Force Breeze VB50 126W (mesa)",
+		"image": "/images/posts/melhor-ventilador-arno-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Modos Potência Extrema, Eco Fresh e Sono Tranquilo",
+			"Grade Chevron Zone para reduzir ruído",
+			"Oscilação de 80° e quatro inclinações verticais",
+			"Grade frontal removível e base desmontável",
+			"Diâmetro de 50cm com 6 pás"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "50cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Recursos extras", "value": "design com grade Chevron Zone para redução de ruído; modos Potência Extrema, Eco Fresh e Sono Tranquilo; grade frontal removível; base desmontável; oscilação de 80°; quatro inclinações verticais" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "66 x 56 x 37cm" },
+			{ "label": "Peso", "value": "4,6kg" }
+		]
+	},
+	{
+		"id": "arno-arno-x-treme-7-ve70-150w-mesa",
+		"name": "Arno Arno X-TREME 7 VE70 150W (mesa)",
+		"image": "/images/posts/melhor-ventilador-arno-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de ar de até 11m",
+			"Sete pás de 40cm e potência de 150W",
+			"Tecnologia Power Zone e grade Chevron Zone",
+			"Oscilação horizontal de 80° e base desmontável",
+			"Alça para transporte"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Número de pás", "value": "7" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Recursos extras", "value": "alcance de ar de até 11m; tecnologia X-Treme para potência extrema e conforto sonoro; tecnologia Power Zone; grade Chevron Zone; modos Potência Extrema, Eco Fresh e Sono Tranquilo; grade frontal removível; base desmontável; oscilação horizontal de 80°; alça para transporte" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "49 x 50,1 x 49,5cm" },
+			{ "label": "Peso", "value": "3kg" }
+		]
+	},
+	{
+		"id": "arno-turbo-force-vf42-126w-mesa",
+		"name": "Arno Turbo Force VF42 126W (mesa)",
+		"image": "/images/posts/melhor-ventilador-arno-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Uso de mesa ou parede",
+			"Vazão de 1,41m³/s com 6 pás de 40cm",
+			"Grades aerodinâmicas e seguras para crianças",
+			"Inclinação por botão lateral e oscilação de 80°",
+			"Peso de 2,95kg e dimensões de 55,5 x 34,1 x 49,3cm"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "mesa" },
+			{ "label": "Potência", "value": "126W" },
+			{ "label": "Número de pás", "value": "6" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Recursos extras", "value": "uso de mesa ou parede; oscilação horizontal de 80°; tecnologia Power Zone; grades aerodinâmicas e seguras para crianças; inclinação por botão lateral; vazão de 1,41m³/s" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "55,5 x 34,1 x 49,3cm" },
+			{ "label": "Peso", "value": "2,95kg" }
+		]
+	},
+	{
+		"id": "arno-x-treme-7-ve7c-150w-coluna",
+		"name": "Arno X-Treme 7 VE7C 150W (coluna)",
+		"image": "/images/posts/melhor-ventilador-arno-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Tecnologia Power Zone e concentração de fluxo de ar",
+			"Grade Chevron Zone que reduz ruído",
+			"Modos Eco Fresh e Sono Tranquilo",
+			"Design desmontável e oscilação de 80°",
+			"Quatro níveis de ajuste para inclinação vertical"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "coluna" },
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Número de pás", "value": "7" },
+			{ "label": "Diâmetro", "value": "40cm" },
+			{ "label": "Velocidades", "value": "3" },
+			{ "label": "Inclinação ajustável", "value": "sim" },
+			{ "label": "Controle remoto", "value": "não" },
+			{ "label": "Recursos extras", "value": "tecnologia X-Treme para concentração de fluxo de ar e conforto sonoro; tecnologia Power Zone; grade Chevron Zone que reduz ruído; modos potência extrema, Eco Fresh e Sono Tranquilo; design desmontável; oscilação horizontal de 80°. quatro níveis de ajuste para inclinação vertical" },
+			{ "label": "Voltagem", "value": "127V ou 220V" },
+			{ "label": "Dimensões (A x L x P)", "value": "43 x 49 x 43cm" },
+			{ "label": "Peso", "value": "6,4kg" }
+		]
+	},
+	{
+		"id": "arno-ultimate-vx15-150w-teto",
+		"name": "Arno Ultimate VX15 150W (teto)",
+		"image": "/images/posts/melhor-ventilador-arno-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Alcance de vento de 25m²",
+			"Controle remoto que também comanda a luz",
+			"Seis velocidades e timer de 1h a 8h",
+			"Funções dormir, brisa e exaustor",
+			"Bivolt com 3,1kg de peso"
+		],
+		"technicalDetails": [
+			{ "label": "Tipo", "value": "teto" },
+			{ "label": "Potência", "value": "150W" },
+			{ "label": "Número de pás", "value": "3" },
+			{ "label": "Velocidades", "value": "6" },
+			{ "label": "Inclinação ajustável", "value": "—" },
+			{ "label": "Controle remoto", "value": "sim" },
+			{ "label": "Recursos extras", "value": "alcance de vento de 25m²; funções: dormir, brisa, exaustor (com rotação anti-horária) e timer de 1h a 8h; controle da luz pelo controle remoto" },
+			{ "label": "Voltagem", "value": "bivolt" },
+			{ "label": "Peso", "value": "3,1kg" }
+		]
+	}
+]

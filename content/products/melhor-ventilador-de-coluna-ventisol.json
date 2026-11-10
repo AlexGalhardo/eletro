@@ -1,0 +1,394 @@
+[
+	{
+		"id": "ventisol-turbo-10p-control-50cm",
+		"name": "Ventisol Turbo 10P Control 50cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-1.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Controle remoto e timer programável de até 7h30",
+			"Potência de 150W com 10 pás de 50cm",
+			"Oscilação horizontal automática e inclinação vertical regulável",
+			"Coluna ajustável de 1,17 a 1,36 metro",
+			"Desmontável e fácil de limpar"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "10"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "oscilação horizontal automática; timer programável de até 7h30 em intervalos de 30min; painel de controle; coluna ajustável (1,17 a 1,36 metro); inclinação vertical regulável; desmontável e fácil de limpar; design aerodinâmico"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "136 x 52,5 x 49cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,2kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-premium-60cm",
+		"name": "Ventisol Premium 60cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-2.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 60cm com 3 pás e potência de 200W",
+			"Coluna ajustável de 1,20 a 1,75 metro",
+			"Grades em aço com pintura eletrostática",
+			"Fusível térmico no motor",
+			"Chave seletora de tensão"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "60cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "oscilação horizontal automática; coluna ajustável (1,20 a 1,75 metro); grades em aço; pintura eletrostática na grade e haste; fusível térmico no motor; chave seletora de tensão"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "175 x 80 x 80cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6p-50cm",
+		"name": "Ventisol Turbo 6P 50cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-3.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 135W com 6 pás de 50cm",
+			"Grade Wind Line e motor Turbo",
+			"Fusível térmico e oscilação horizontal automática",
+			"Coluna ajustável de 1,15 a 1,36 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "135W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "50cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade Wind Line; motor Turbo; fusível térmico; oscilação horizontal automática; coluna ajustável (1,15 a 1,36 metro); inclinação regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "136 x 50 x 50cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,015kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6p-30cm",
+		"name": "Ventisol Turbo 6P 30cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-4.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 30cm, o menor da lista",
+			"Potência de 52W com motor Turbo",
+			"Grade Wind Line e fusível térmico",
+			"Coluna ajustável de 0,84 a 1,16 metro",
+			"Peso de 2,3kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "52W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "30cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade Wind Line; motor Turbo; fusível térmico; oscilação horizontal automática; coluna ajustável (0,84 a 1,16 metro); inclinação regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "116 x 40 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,3kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-6-premium-40cm",
+		"name": "Ventisol Turbo 6 Premium 40cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-5.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 80W com 6 pás de 40cm",
+			"Controle de velocidade na capa do motor",
+			"Grade Wind Line e fusível térmico",
+			"Coluna ajustável de 0,90 a 1,21 metro"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "80W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "6"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "grade Wind Line; fusível térmico; motor Turbo; oscilação horizontal automática; coluna ajustável (0,90 a 1,21 metro); controle de velocidade na capa do motor; inclinação regulável"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "121 x 40 x 40cm"
+			},
+			{
+				"label": "Peso",
+				"value": "2,75kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-new-premium-60cm",
+		"name": "Ventisol New Premium 60cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-6.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Diâmetro de 60cm com 3 pás e potência de 200W",
+			"Coluna ajustável de 1,20 a 1,75 metro",
+			"Grades em aço com pintura eletrostática",
+			"Fusível térmico e oscilação horizontal automática",
+			"Peso de 4,8kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "200W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "3"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "60cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Controle remoto",
+				"value": "não"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "oscilação horizontal automática; grades em aço; pintura eletrostática na grade e haste; fusível térmico; coluna ajustável (1,20 a 1,75 metro)"
+			},
+			{
+				"label": "Voltagem",
+				"value": "bivolt"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "175 x 80 x 80cm"
+			},
+			{
+				"label": "Peso",
+				"value": "4,8kg"
+			}
+		]
+	},
+	{
+		"id": "ventisol-turbo-10-40cm",
+		"name": "Ventisol Turbo 10 40cm",
+		"image": "/images/posts/melhor-ventilador-de-coluna-ventisol-7.jpg",
+		"mercadolivreUrl": "#",
+		"shopeeUrl": "#",
+		"amazonUrl": "#",
+		"advantages": [
+			"Potência de 150W com 10 pás de 40cm",
+			"Grade Turbo Line removível",
+			"Oscilação horizontal e altura ajustável",
+			"Peso de 3,2kg"
+		],
+		"technicalDetails": [
+			{
+				"label": "Potência",
+				"value": "150W"
+			},
+			{
+				"label": "Número de pás",
+				"value": "10"
+			},
+			{
+				"label": "Diâmetro",
+				"value": "40cm"
+			},
+			{
+				"label": "Velocidades",
+				"value": "3"
+			},
+			{
+				"label": "Inclinação ajustável",
+				"value": "sim"
+			},
+			{
+				"label": "Recursos extras",
+				"value": "Grade Turbo Line; oscilação horizontal; altura ajustável; grade removível"
+			},
+			{
+				"label": "Voltagem",
+				"value": "127V ou 220V"
+			},
+			{
+				"label": "Dimensões (A x L x P)",
+				"value": "121 x 60,4 x 43,3cm"
+			},
+			{
+				"label": "Peso",
+				"value": "3,2kg"
+			}
+		]
+	}
+]
