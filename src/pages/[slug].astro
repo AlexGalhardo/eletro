@@ -1,9 +1,6 @@
 ---
-import { referencedLists } from "#lib/content/parse.ts";
-import { renderPostBody } from "#lib/content/render-body.ts";
-import type { Product } from "#lib/content/schema.ts";
 import { postJsonLd } from "#lib/seo/jsonld.ts";
-import { coverWidths, getPost, getPosts, getProductList } from "#lib/server/content.ts";
+import { getPost, getPosts, postPageData } from "#lib/server/content.ts";
 import Site from "../layouts/Site.astro";
 import PostPage from "../routes/(site)/[slug]/page.svelte";
 
@@ -14,19 +11,7 @@ export function getStaticPaths() {
 const slug = Astro.params.slug ?? "";
 const entry = getPost(slug);
 if (!entry) throw new Error(`Post ausente no build: ${slug}`);
-
-const productLists: Record<string, Product[]> = {};
-for (const list of referencedLists(entry.body)) {
-	const products = getProductList(list);
-	if (products) productLists[list] = products;
-}
-
-const data = {
-	post: entry.post,
-	coverWidths: coverWidths(entry.post.cover),
-	productLists,
-	segments: renderPostBody(entry.body),
-};
+const data = postPageData(entry);
 ---
 
 <Site

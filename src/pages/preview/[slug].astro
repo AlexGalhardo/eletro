@@ -1,0 +1,30 @@
+---
+import { getPreviewPosts, postPageData } from "#lib/server/content.ts";
+import Site from "../../layouts/Site.astro";
+import PostPage from "../../routes/(site)/[slug]/page.svelte";
+
+// Drafts are already public in the repository; this page only lets the editor see them laid out. It is
+// noindex, blocked in robots.txt and left out of the sitemap, llms.txt, the API and the links dashboard.
+export function getStaticPaths() {
+	return getPreviewPosts().map((entry) => ({ params: { slug: entry.post.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const data = postPageData(entry);
+---
+
+<Site
+	title={`Prévia: ${entry.post.title}`}
+	description={entry.post.description}
+	path={`/preview/${entry.post.slug}`}
+	image={entry.post.cover}
+	noindex
+>
+	<p
+		class="bg-amber-100 px-4 py-2 text-center text-sm font-semibold text-amber-900 dark:bg-amber-950 dark:text-amber-100"
+		role="status"
+	>
+		Prévia de rascunho: esta página não está publicada. <a href="/admin/flags" class="underline">Feature flags</a>
+	</p>
+	<PostPage data={data} client:load />
+</Site>

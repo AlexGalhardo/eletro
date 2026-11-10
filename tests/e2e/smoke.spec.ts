@@ -13,6 +13,10 @@ const posts = readdirSync("content/posts").map((file) => {
 const slugs = posts.filter((post) => post.published).map((post) => post.slug);
 // Drafts and scheduled posts live in the repository but must not exist on the site.
 const hidden = posts.filter((post) => !post.published).map((post) => post.slug);
+// Read as a file: Playwright runs this spec in plain Node, which needs an import attribute for JSON.
+const { previewDrafts } = JSON.parse(readFileSync("content/flags.json", "utf8")) as {
+	previewDrafts: boolean;
+};
 const pages = ["/", "/sobre", "/contato", "/politica-de-privacidade", "/termos-de-uso"];
 
 test.describe("smoke", () => {
@@ -59,6 +63,24 @@ test.describe("smoke", () => {
 			expect(sitemap, slug).not.toContain(`/${slug}</loc>`);
 			expect(llms, slug).not.toContain(`/${slug}/)`);
 			expect(llms, slug).not.toContain(`/${slug})`);
+		}
+	});
+
+	test("drafts have a noindex preview that no index lists, and /admin/flags lists them", async ({
+		request,
+	}) => {
+		test.skip(!previewDrafts, "previewDrafts is off in content/flags.json");
+		const sitemap = await (await request.get("/sitemap.xml")).text();
+		const llms = await (await request.get("/llms.txt")).text();
+		expect(sitemap).not.toContain("/preview/");
+		expect(llms).not.toContain("/preview/");
+
+		const flags = await (await request.get("/admin/flags")).text();
+		for (const slug of hidden) {
+			const page = await request.get(`/preview/${slug}`);
+			expect(page.status(), slug).toBe(200);
+			expect(await page.text(), slug).toMatch(/<meta name="robots" content="noindex/);
+			expect(flags, slug).toContain(`/preview/${slug}`);
 		}
 	});
 

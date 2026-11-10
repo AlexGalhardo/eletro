@@ -1,0 +1,133 @@
+---
+import { ui } from "#lib/admin/api.ts";
+import { BROWSER_FLAGS, flagDefaults } from "#lib/flags.ts";
+import { getPostStatusRows } from "#lib/server/content.ts";
+import { site } from "#lib/site.config.ts";
+import Root from "../../layouts/Root.astro";
+
+// Static on purpose: it works on GitHub Pages, where the rest of /admin cannot run. The toggles only change
+// what this browser shows (localStorage); the committed defaults live in content/flags.json.
+const rows = getPostStatusRows().sort((a, b) => Number(b.draft) - Number(a.draft) || a.slug.localeCompare(b.slug));
+const hrefOf = (slug: string, draft: boolean): string | null =>
+	!draft ? `/${slug}` : flagDefaults.previewDrafts ? `/preview/${slug}` : null;
+const drafts = rows.filter((row) => row.draft).length;
+---
+
+<Root title={`Feature flags - ${site.name}`} description="Feature flags do editor." path="/admin/flags" noindex>
+	<main class="mx-auto max-w-6xl px-4 py-8">
+		<h1 class="text-2xl font-bold">Feature flags</h1>
+		<p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+			As opções abaixo valem só neste navegador. Os valores padrão ficam em <code>content/flags.json</code>.
+			O site estático não tem login: nada aqui é secreto.
+		</p>
+
+		<section class={`${ui.card} mt-6`}>
+			<h2 class="font-semibold">Neste navegador</h2>
+			{
+				Object.entries(BROWSER_FLAGS).map(([name, label]) => (
+					<label class="mt-3 flex items-center gap-2 text-sm">
+						<input type="checkbox" data-flag={name} class="size-4" />
+						{label}
+					</label>
+				))
+			}
+			<h2 class="mt-6 font-semibold">No build (content/flags.json)</h2>
+			<p class="mt-2 text-sm">
+				Prévia dos rascunhos em <code>/preview/&lt;slug&gt;</code>:
+				<strong>{flagDefaults.previewDrafts ? "ligada" : "desligada"}</strong>
+			</p>
+		</section>
+
+		<div class="mt-6 grid gap-3 md:grid-cols-[2fr_1fr]">
+			<div>
+				<label for="search" class={ui.label}>Buscar</label>
+				<input id="search" type="search" placeholder="Título ou slug" class={ui.input} />
+			</div>
+			<div>
+				<label for="kind" class={ui.label}>Mostrar</label>
+				<select id="kind" class={ui.input}>
+					<option value="">Todos ({rows.length})</option>
+					<option value="true">Rascunhos ({drafts})</option>
+					<option value="false">Publicados ({rows.length - drafts})</option>
+				</select>
+			</div>
+		</div>
+
+		<p id="count" class="mt-4 text-sm text-gray-600 dark:text-gray-400" aria-live="polite">{rows.length} post(s)</p>
+
+		<div class={`${ui.card} mt-2 overflow-x-auto p-0`}>
+			<table class="w-full text-left text-sm">
+				<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+					<tr>
+						<th scope="col" class="px-4 py-2 font-medium">Post</th>
+						<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
+						<th scope="col" class="px-4 py-2 font-medium">Draft</th>
+						<th scope="col" class="px-4 py-2 font-medium">Produtos</th>
+						<th scope="col" class="px-4 py-2 font-medium">Links</th>
+						<th scope="col" class="px-4 py-2 font-medium">Pendentes (#)</th>
+					</tr>
+				</thead>
+				<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+					{
+						rows.map((row) => {
+							const href = hrefOf(row.slug, row.draft);
+							return (
+								<tr data-row data-draft={String(row.draft)} data-text={`${row.title} ${row.slug}`.toLowerCase()}>
+									<td class="px-4 py-2">
+										{href ? (
+											<a href={href} class="font-medium hover:underline">
+												{row.title}
+											</a>
+										) : (
+											<span class="font-medium">{row.title}</span>
+										)}
+										<span class="block text-xs text-gray-500">{row.slug}</span>
+									</td>
+									<td class="px-4 py-2">{row.category}</td>
+									<td class="px-4 py-2">{String(row.draft)}</td>
+									<td class="px-4 py-2">{row.products}</td>
+									<td class="px-4 py-2">{row.links}</td>
+									<td class="px-4 py-2">{row.pending}</td>
+								</tr>
+							);
+						})
+					}
+				</tbody>
+			</table>
+		</div>
+	</main>
+</Root>
+
+<script>
+	import { type BrowserFlag, browserFlag, setBrowserFlag } from "#lib/flags.ts";
+
+	for (const input of document.querySelectorAll<HTMLInputElement>("input[data-flag]")) {
+		const name = input.dataset.flag as BrowserFlag;
+		input.checked = browserFlag(name);
+		input.addEventListener("change", () => setBrowserFlag(name, input.checked));
+	}
+
+	const search = document.querySelector<HTMLInputElement>("#search");
+	const kind = document.querySelector<HTMLSelectElement>("#kind");
+	const count = document.querySelector<HTMLElement>("#count");
+	const rows = [...document.querySelectorAll<HTMLElement>("tr[data-row]")];
+	const fold = (text: string): string =>
+		text
+			.normalize("NFD")
+			.replace(/[̀-ͯ]/g, "")
+			.toLowerCase();
+
+	function filter(): void {
+		const term = fold(search?.value ?? "");
+		let shown = 0;
+		for (const row of rows) {
+			const visible =
+				(!term || fold(row.dataset.text ?? "").includes(term)) && (!kind?.value || row.dataset.draft === kind.value);
+			row.hidden = !visible;
+			if (visible) shown++;
+		}
+		if (count) count.textContent = `${shown} post(s)`;
+	}
+	search?.addEventListener("input", filter);
+	kind?.addEventListener("change", filter);
+</script>

@@ -3,6 +3,7 @@
 	import { isAffiliateUrl, isDashboardUp, type Store, storeLinks } from "#lib/affiliate-links.ts";
 	import { fallbackHref, productHref } from "#lib/content/affiliate.ts";
 	import type { Product } from "#lib/content/schema.ts";
+	import { browserFlag } from "#lib/flags.ts";
 	import { site } from "#lib/site.config.ts";
 	import Icon from "./Icon.svelte";
 
@@ -37,6 +38,12 @@
 
 	// Links go through the links dashboard while it answers. If its health check fails in the browser they
 	// go straight to the store: an outage costs the click count, never the sale.
+	// Feature flag from /admin/flags: lets the editor review all three buttons before the links exist.
+	let allStores = $state(false);
+	onMount(() => {
+		allStores = browserFlag("allStoreButtons");
+	});
+
 	let dashboardDown = $state(false);
 	onMount(async () => {
 		dashboardDown = !(await isDashboardUp(site.linksDashboardUrl));
@@ -102,7 +109,7 @@
 					</a>
 
 					<div class="flex w-full max-w-70 flex-col gap-2.5">
-						{#if product.mercadolivreUrl}
+						{#if product.mercadolivreUrl || allStores}
 							<a
 								href={href(product, "mercadolivre")}
 								target="_blank"
@@ -117,7 +124,7 @@
 							</a>
 						{/if}
 
-						{#if isAffiliateUrl(product.shopeeUrl)}
+						{#if isAffiliateUrl(product.shopeeUrl) || allStores}
 							<a
 								href={href(product, "shopee")}
 								target="_blank"
@@ -132,7 +139,7 @@
 							</a>
 						{/if}
 
-						{#if isAffiliateUrl(product.amazonUrl)}
+						{#if isAffiliateUrl(product.amazonUrl) || allStores}
 							<a
 								href={href(product, "amazon")}
 								target="_blank"
