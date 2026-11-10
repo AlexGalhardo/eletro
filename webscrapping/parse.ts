@@ -56,8 +56,11 @@ export function parsePostHtml(html: string, url: string): ScrapedPost {
 			const rest = $(card).nextUntil(".titulo-numerado, .box-products");
 			const src = $(card).find(".bp-image img").attr("src");
 
+			// One sheet per card: when the next card sits inside another wrapper, `nextUntil` runs past it and
+			// would also collect the neighbour's sheet.
 			const specs = rest
 				.filter(".box-ficha-tecnica")
+				.first()
 				.find("li")
 				.map((_, item): ScrapedSpec => {
 					const label = clean($(item).find("strong").first().text()).replace(/:$/, "");

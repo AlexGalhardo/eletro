@@ -6,6 +6,17 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-11-10
+
+### Added
+
+- Importação em lote dos posts que faltam (`bun webscrapping/batch.ts [--write] [--limit N]`): compara os sitemaps da origem com o `ref` dos posts e importa como rascunho, em sequência e com pausa, sem copiar texto.
+- Categorias Banheiro, Cama, Mesa e Banho, Iluminação, Infantil e Jardim.
+
+### Fixed
+
+- O importador lia, em algumas páginas, a ficha técnica do produto seguinte junto com a do próprio produto.
+
 ## [2.0.2] - 2026-11-09
 
 ### Added
@@ -423,7 +434,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.2...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.2...v2.1.0
 [2.0.2]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/AlexGalhardo/eletroradar.com.br-cms/compare/v1.6.1...v2.0.0

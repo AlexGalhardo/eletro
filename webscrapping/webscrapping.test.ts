@@ -56,6 +56,16 @@ describe("parsePostHtml", () => {
 			parsePostHtml("<html><body><h1>Outra página</h1></body></html>", FIXTURE_URL).products,
 		).toEqual([]);
 	});
+
+	it("keeps only the card's own spec sheet when the next card sits in another wrapper", () => {
+		// Seen on real pages: the second card is wrapped, so the first card's siblings run into its sheet.
+		const ficha = (power: string) =>
+			`<div class="box-ficha-tecnica"><ul><li><strong>Potência:</strong> ${power}</li></ul></div>`;
+		const card = (name: string) => `<div class="box-products"><div class="bp-title">${name}</div></div>`;
+		const html = `<article><h1>Teste</h1>${card("A")}${ficha("100W")}<div>${card("B")}</div>${ficha("200W")}</article>`;
+		const [first] = parsePostHtml(html, FIXTURE_URL).products;
+		expect(first?.specs).toEqual([{ label: "Potência", value: "100W" }]);
+	});
 });
 
 describe("buildDraft", () => {

@@ -45,6 +45,11 @@ export const site = {
 		{ id: "lavanderia", label: "Lavanderia", icon: "washing-machine" },
 		{ id: "cozinha", label: "Cozinha", icon: "utensils-crossed" },
 		{ id: "cuidados-pessoais", label: "Cuidados Pessoais", icon: "sparkles" },
+		{ id: "banheiro", label: "Banheiro", icon: "bath" },
+		{ id: "cama-mesa-banho", label: "Cama, Mesa e Banho", icon: "bed-double" },
+		{ id: "iluminacao", label: "Iluminação", icon: "lightbulb" },
+		{ id: "infantil", label: "Infantil", icon: "baby" },
+		{ id: "jardim", label: "Jardim", icon: "sprout" },
 	],
 
 	authors: {
