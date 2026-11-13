@@ -2,7 +2,7 @@
 
 ## Plano atual — GitHub Pages e fluxo por PR (2026-11-13)
 
-Esta seção substitui as decisões históricas abaixo quando houver conflito. A produção continua no GitHub Pages. O `/admin` estático tem uma tela com campo único e botão Login. Quando os dois segredos do Actions estão configurados, a senha desbloqueia em memória um token fine-grained criptografado no build. O painel salva MDX, JSON e imagens numa branch `cms/*` e abre PR. A `main` é protegida por ruleset e recebe mudanças só por PR com CI verde. O dono pediu a release `v0.11.0`. As instruções dos agentes ficam em `.agents/`.
+Esta seção substitui as decisões históricas abaixo quando houver conflito. A produção continua no GitHub Pages. O `/admin` estático tem uma tela com campo único e botão Login. Quando os dois segredos do Actions estão configurados, a senha desbloqueia em memória um token fine-grained criptografado no build. O painel salva MDX, JSON e imagens numa branch `cms/*` e abre PR. A `main` é protegida por ruleset e recebe mudanças só por PR com CI verde. A release `v0.11.0` foi publicada a pedido do dono. As instruções dos agentes ficam em `.agents/`.
 
 - [x] Editor estático e PR para o conteúdo; teste unitário do cliente e e2e com API simulada.
 - [x] Tela mínima e fluxo opcional de senha com credencial criptografada; teste unitário e e2e com API simulada.
@@ -10,7 +10,7 @@ Esta seção substitui as decisões históricas abaixo quando houver conflito. A
 - [x] Ruleset de PR ativo no GitHub e workflow de CI em `.github/workflows/ci.yml`.
 - [x] Releases e tags 0.11.x a 0.13.0 removidas; notas acumuladas em `Unreleased`.
 - [x] `.claude/` migrada para `.agents/` e documentação consolidada.
-- [ ] Conferir CI do PR e o deploy depois do merge. Nenhuma release será criada sem pedido.
+- [x] CI dos PRs, deploy do Pages e release `v0.11.0` conferidos.
 
 Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquivo e termina atualizando os checklists.
 
