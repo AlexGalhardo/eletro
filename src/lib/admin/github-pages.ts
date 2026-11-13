@@ -32,7 +32,7 @@ export class PagesRepository {
 	}
 
 	private async request<T>(path: string, init?: RequestInit): Promise<T> {
-		const response = await fetch(`${api}/repos/${this.repository}/${path}`, {
+		const response = await fetch(`${api}/repos/${this.repository}${path ? `/${path}` : ""}`, {
 			...init,
 			headers: {
 				Accept: "application/vnd.github+json",
