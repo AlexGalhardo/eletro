@@ -14,6 +14,8 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Changed
 
+- Entrada do `/admin` reduzida a um campo e ao botão **Login**.
+- Senha longa opcional no `/admin`, com token criptografado no build do Pages a partir de segredos do GitHub Actions.
 - Home e tipografia têm hierarquia mais clara; cartões e rodapé foram refinados.
 - Ícone e favicon SVG próprios, marca em Space Grotesk e fundo de papel com navbar e rodapé no mesmo tom.
 - Contato usa e-mail e o rodapé deixou de oferecer inscrição que não funciona no Pages.

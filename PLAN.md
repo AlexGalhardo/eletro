@@ -2,9 +2,10 @@
 
 ## Plano atual — GitHub Pages e fluxo por PR (2026-11-13)
 
-Esta seção substitui as decisões históricas abaixo quando houver conflito. A produção continua no GitHub Pages. O `/admin` estático usa token fine-grained do GitHub em memória, salva MDX, JSON e imagens numa branch `cms/*` e abre PR. A `main` é protegida por ruleset e recebe mudanças só por PR com CI verde. Versões e releases são criadas somente quando o dono pedir; a próxima planejada é `v0.11.0`. As instruções dos agentes ficam em `.agents/`.
+Esta seção substitui as decisões históricas abaixo quando houver conflito. A produção continua no GitHub Pages. O `/admin` estático tem uma tela com campo único e botão Login. Quando os dois segredos do Actions estão configurados, a senha desbloqueia em memória um token fine-grained criptografado no build. O painel salva MDX, JSON e imagens numa branch `cms/*` e abre PR. A `main` é protegida por ruleset e recebe mudanças só por PR com CI verde. O dono pediu a release `v0.11.0`. As instruções dos agentes ficam em `.agents/`.
 
 - [x] Editor estático e PR para o conteúdo; teste unitário do cliente e e2e com API simulada.
+- [x] Tela mínima e fluxo opcional de senha com credencial criptografada; teste unitário e e2e com API simulada.
 - [x] Revisão visual das páginas principais, contato funcional no Pages, UI SDK, ícone SVG e fundo de papel integrados.
 - [x] Ruleset de PR ativo no GitHub e workflow de CI em `.github/workflows/ci.yml`.
 - [x] Releases e tags 0.11.x a 0.13.0 removidas; notas acumuladas em `Unreleased`.

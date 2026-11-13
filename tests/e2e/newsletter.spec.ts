@@ -28,6 +28,6 @@ test("newsletter pages stay out of search engines", async ({ request }) => {
 test("the newsletter screen renders the login gate", async ({ page }) => {
 	await page.goto("/admin/newsletter");
 
-	await expect(page.getByRole("heading", { level: 1 })).toContainText("Painel editorial");
+	await expect(page.getByRole("button", { name: "Login" })).toBeVisible();
 	await expect(page.getByRole("button", { name: "Enviar fila agora" })).toHaveCount(0);
 });
