@@ -50,7 +50,7 @@ test("password login and saving JSON create a branch and pull request", async ({
 											type: "file",
 											content: btoa("{}"),
 										}
-									: url.pathname.endsWith("/eletro/")
+									: url.pathname.endsWith("/eletro")
 										? { permissions: { push: true } }
 										: {};
 		await route.fulfill({ status: 200, contentType: "application/json", body: JSON.stringify(body) });
@@ -65,6 +65,7 @@ test("password login and saving JSON create a branch and pull request", async ({
 	await page.getByRole("button", { name: "Salvar no GitHub" }).click();
 	await expect(page.getByRole("link", { name: "Abrir pull request no GitHub" })).toBeVisible();
 	expect(calls).toContain("POST /repos/AlexGalhardo/eletro/git/refs");
+	expect(calls).toContain("GET /repos/AlexGalhardo/eletro");
 	expect(calls).toContain("PUT /repos/AlexGalhardo/eletro/contents/content/flags.json");
 	expect(calls).toContain("POST /repos/AlexGalhardo/eletro/pulls");
 });
