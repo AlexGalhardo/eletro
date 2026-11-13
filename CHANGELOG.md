@@ -6,20 +6,22 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-11-13
+
 ### Added
 
-- A página do post mostra sete outras postagens numa coluna à direita. No celular a lista fica abaixo do texto.
+- A página do post mostra sete outras postagens numa coluna à direita. No celular a lista fica abaixo do texto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
 
 ### Changed
 
-- O texto do post ocupa três quartos da largura e a coluna de outras postagens ocupa um quarto.
-- A newsletter e o aviso de afiliados ficam no centro do rodapé. As categorias do rodapé se dividem em duas colunas iguais.
-- A barra lateral da home mostra, à direita de cada categoria, quantos posts ela tem.
-- Os rótulos em negrito da ficha técnica dos produtos ficam menores.
-- As setas da busca acompanham o resultado destacado quando a lista passa da área visível.
-- A barra de rolagem padrão do navegador deixa de aparecer nas páginas.
-- O site e o painel passam a ser só Astro e TypeScript. O runtime Svelte saiu do projeto.
-- Cada mudança lógica fica no próprio commit. Uma linha nova do changelog só entra com o link do microcommit, e a release recusa linha sem esse link.
+- O texto do post ocupa três quartos da largura e a coluna de outras postagens ocupa um quarto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- A newsletter e o aviso de afiliados ficam no centro do rodapé. As categorias do rodapé se dividem em duas colunas iguais. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- A barra lateral da home mostra, à direita de cada categoria, quantos posts ela tem. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- Os rótulos em negrito da ficha técnica dos produtos ficam menores. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- As setas da busca acompanham o resultado destacado quando a lista passa da área visível. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- A barra de rolagem padrão do navegador deixa de aparecer nas páginas. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- O site e o painel passam a ser só Astro e TypeScript. O runtime Svelte saiu do projeto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- Cada mudança lógica fica no próprio commit. Uma linha nova do changelog só entra com o link do microcommit, e a release recusa linha sem esse link. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
 
 ## [0.10.0] - 2026-11-13
 
@@ -446,7 +448,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...HEAD
+[0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
 [0.9.0]: https://github.com/AlexGalhardo/eletro/compare/v0.8.0...v0.9.0
 [0.8.0]: https://github.com/AlexGalhardo/eletro/compare/v0.7.0...v0.8.0
