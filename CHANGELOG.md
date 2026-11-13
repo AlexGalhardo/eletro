@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-11-13
+
+### Added
+
+- A barra de progresso da leitura também aparece na página inicial. ([06820f2](https://github.com/AlexGalhardo/eletro/commit/06820f2ed314fce565971cb734aa5d89c6793e03))
+
 ## [0.11.1] - 2026-11-13
 
 ### Fixed
@@ -454,7 +460,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.1...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.12.0...HEAD
+[0.12.0]: https://github.com/AlexGalhardo/eletro/compare/v0.11.1...v0.12.0
 [0.11.1]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...v0.11.1
 [0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
