@@ -14,4 +14,4 @@ O painel `/admin` também abre PR: o primeiro salvamento cria uma branch `cms/*`
 
 Commits e merges comuns mantêm a versão. `CHANGELOG.md` acumula notas em `## [Unreleased]`. Quando o dono pedir uma release, siga a skill `.agents/skills/project-release/SKILL.md`: prepare a versão em branch `release/vX.Y.Z`, valide, abra PR, faça merge, crie a tag no commit integrado e publique o GitHub Release. Nunca mova uma tag publicada.
 
-As releases e tags `v0.11.0`, `v0.11.1`, `v0.12.0` e `v0.13.0` foram removidas em 2026-11-13 a pedido do dono. A última release publicada é `v0.10.0`; a próxima versão planejada é `v0.11.0`, somente quando o dono pedir.
+As releases e tags antigas `v0.11.0`, `v0.11.1`, `v0.12.0` e `v0.13.0` foram removidas em 2026-11-13 a pedido do dono. Uma nova `v0.11.0` foi publicada no mesmo dia após pedido explícito e validação dos PRs. Esta é a última release publicada.
