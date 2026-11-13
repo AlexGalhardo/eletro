@@ -36,7 +36,7 @@ export const site = {
 			"Ao comprar através dos links divulgados, ganhamos comissões de afiliado sem custo adicional para você.",
 	},
 
-	/** `icon` is a Lucide icon name resolved in CategoryIcon.svelte. */
+	/** `icon` is a Lucide icon name resolved in CategoryIcon.astro. */
 	categories: [
 		{ id: "ferramentas", label: "Ferramentas", icon: "wrench" },
 		{ id: "limpeza", label: "Limpeza", icon: "spray-can" },

@@ -1,5 +1,5 @@
 import type { PgDatabase, PgQueryResultHKT } from "drizzle-orm/pg-core";
-import { DATABASE_URL, PGLITE_DIR } from "$app/env/private";
+import { DATABASE_URL, PGLITE_DIR } from "#env";
 import * as schema from "./schema.ts";
 
 export type Database = PgDatabase<PgQueryResultHKT, typeof schema>;

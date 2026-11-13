@@ -10,5 +10,5 @@
 
 | Pacote | Versão | Última | Motivo |
 |---|---|---|---|
-| `typescript` | 6.0.3 | 7.x | `@sveltejs/kit` 3, `svelte-check` 4 exigem TypeScript 6 |
+| `typescript` | 6.0.3 | 7.x | O projeto fica no TypeScript 6 até uma checagem explícita com o Astro 7.4 |
 | `@types/node` | 24.x | 26.x | Acompanha a versão do Node usada no projeto (24 LTS) |

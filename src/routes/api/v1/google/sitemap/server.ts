@@ -1,12 +1,12 @@
-import { json } from "@sveltejs/kit";
-import { absoluteUrl } from "#lib/seo/jsonld.ts";
-import { ApiError, requireAdmin, respond } from "#lib/server/api.ts";
-import { GoogleError, googleCredentials, submitSitemap } from "#lib/server/google.ts";
 import {
 	GOOGLE_SEARCH_CONSOLE_SITE,
 	GOOGLE_SERVICE_ACCOUNT_EMAIL,
 	GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY,
-} from "$app/env/private";
+} from "#env";
+import { absoluteUrl } from "#lib/seo/jsonld.ts";
+import { ApiError, requireAdmin, respond } from "#lib/server/api.ts";
+import { GoogleError, googleCredentials, submitSitemap } from "#lib/server/google.ts";
+import { json } from "#lib/server/http.ts";
 
 /** Resubmits the sitemap to Search Console, which asks Google to read it again. */
 export function POST({ locals }) {

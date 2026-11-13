@@ -14,7 +14,7 @@ const { root, dir } = await vi.hoisted(async () => {
 	return { root, dir: path.join(root, "nested", "pglite") };
 });
 
-vi.mock("$app/env/private", async () => {
+vi.mock("#env", async () => {
 	const { testEnv } = await import("./env.ts");
 	return testEnv({ PGLITE_DIR: dir });
 });

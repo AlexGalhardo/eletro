@@ -1,0 +1,170 @@
+---
+import AuthorCard from "#lib/components/AuthorCard.astro";
+import CardsTable from "#lib/components/CardsTable.astro";
+import Lucide from "#lib/components/Lucide.astro";
+import ReadingProgress from "#lib/components/ReadingProgress.astro";
+import ShareButtons from "#lib/components/ShareButtons.astro";
+import { coverSrcset } from "#lib/content/cover.ts";
+import type { BodySegment } from "#lib/content/render-body.ts";
+import type { Post, Product } from "#lib/content/schema.ts";
+import { formatDate, readingTimeLabel } from "#lib/format.ts";
+import { absoluteUrl } from "#lib/seo/jsonld.ts";
+
+interface Props {
+	data: {
+		post: Post;
+		coverWidths: number[];
+		productLists: Record<string, Product[]>;
+		segments: BodySegment[];
+		recommendations: {
+			slug: string;
+			title: string;
+			description: string;
+			date: string;
+			cover: string;
+			coverWidths: number[];
+		}[];
+	};
+}
+
+const { data } = Astro.props;
+const post = data.post;
+const shareUrl = absoluteUrl(`/${post.slug}`);
+---
+
+<ReadingProgress />
+
+<div class="min-h-screen dark:bg-black">
+	<div
+		class="mx-auto max-w-6xl px-4 sm:px-6 lg:grid lg:grid-cols-[minmax(0,3fr)_minmax(0,1fr)] lg:items-start lg:gap-8 lg:px-8"
+	>
+		<main class="mt-6 min-w-0">
+			<article class="bg-white p-6 dark:bg-black">
+				<header class="mb-8">
+					<h1 class="mb-4 text-3xl leading-tight font-bold text-gray-900 sm:text-2xl md:text-3xl dark:text-white">
+						{post.title}
+					</h1>
+					{
+						post.description && (
+							<p class="mb-6 text-lg leading-relaxed text-gray-600 sm:text-xl dark:text-white">{post.description}</p>
+						)
+					}
+					<div
+						class="flex flex-wrap items-center justify-between gap-3 pb-6 text-sm text-gray-600 uppercase dark:text-white"
+					>
+						<time datetime={post.date} class="flex items-center gap-1.5">
+							<Lucide name="calendar" class="h-4 w-4" />
+							<span>POSTADO EM {formatDate(post.date)}</span>
+						</time>
+						<span class="flex items-center gap-1.5">
+							<Lucide name="clock" class="h-4 w-4" />
+							<span>{readingTimeLabel(post.readingMinutes)}</span>
+						</span>
+					</div>
+				</header>
+
+				<div class="mb-8">
+					<div class="mb-4 flex items-center gap-2">
+						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-gray-700 dark:text-white" />
+						<span class="text-sm font-medium text-gray-700 dark:text-white">COMPARTILHE COM MAIS PESSOAS:</span>
+					</div>
+					<ShareButtons url={shareUrl} title={post.title} />
+				</div>
+
+				{
+					post.cover && (
+						<div class="relative mb-8 aspect-video w-full overflow-hidden bg-gray-100 dark:bg-black">
+							<img
+								src={post.cover}
+								srcset={coverSrcset(post.cover, data.coverWidths)}
+								sizes="(min-width: 1024px) 864px, 100vw"
+								alt={post.title}
+								fetchpriority="high"
+								class="absolute inset-0 h-full w-full object-cover"
+							/>
+						</div>
+					)
+				}
+
+				<div id="blog-content-protected" class="mb-8 max-w-none select-none">
+					{
+						data.segments.map((segment) =>
+							segment.kind === "html" ? (
+								<Fragment set:html={segment.html} />
+							) : (
+								<CardsTable
+									list={segment.list}
+									products={data.productLists[segment.list] ?? []}
+									postSlug={post.slug}
+								/>
+							),
+						)
+					}
+				</div>
+
+				<AuthorCard id={post.author} />
+
+				<div class="mt-6 border-gray-200 pt-6 dark:border-zinc-800">
+					<div class="mb-4 flex items-center gap-2">
+						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-gray-700 dark:text-white" />
+						<span class="text-sm font-medium text-gray-700 dark:text-white">COMPARTILHE COM MAIS PESSOAS:</span>
+					</div>
+					<ShareButtons url={shareUrl} title={post.title} />
+				</div>
+			</article>
+		</main>
+
+		{
+			data.recommendations.length > 0 && (
+				<aside
+					aria-labelledby="outras-postagens"
+					class="mt-8 min-w-0 pb-10 lg:sticky lg:top-24 lg:mt-6 lg:max-h-[calc(100dvh-7rem)] lg:self-start lg:overflow-y-auto lg:overscroll-y-contain lg:pb-6"
+				>
+					<h2 id="outras-postagens" class="mb-3 text-xs font-bold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+						Outras Postagens
+					</h2>
+					<ul class="flex flex-col gap-3">
+						{data.recommendations.map((item) => (
+							<li>
+								<a
+									href={`/${item.slug}`}
+									class="group flex gap-3 rounded-xl border border-gray-200 bg-white p-2 transition-colors duration-200 hover:border-blue-500 dark:border-zinc-800 dark:bg-zinc-950 dark:hover:border-blue-400"
+								>
+									{item.cover && (
+										<img
+											src={item.cover}
+											srcset={coverSrcset(item.cover, item.coverWidths)}
+											sizes="96px"
+											alt=""
+											width="96"
+											height="64"
+											loading="lazy"
+											decoding="async"
+											class="aspect-[3/2] w-24 shrink-0 rounded-lg object-cover"
+										/>
+									)}
+									<span class="min-w-0">
+										<span class="line-clamp-2 text-sm leading-snug font-bold text-gray-900 group-hover:text-blue-600 dark:text-white dark:group-hover:text-blue-400">
+											{item.title}
+										</span>
+										<span class="mt-1 block text-[11px] text-gray-600 dark:text-gray-400">
+											POSTADO EM {formatDate(item.date).toUpperCase()}
+										</span>
+									</span>
+								</a>
+							</li>
+						))}
+					</ul>
+				</aside>
+			)
+		}
+	</div>
+</div>
+
+<script>
+	const node = document.getElementById("blog-content-protected");
+	if (node) {
+		const block = (event: Event): void => event.preventDefault();
+		for (const name of ["copy", "cut", "contextmenu", "dragstart"]) node.addEventListener(name, block);
+	}
+</script>

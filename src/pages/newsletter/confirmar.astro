@@ -1,9 +1,9 @@
 ---
 import { site } from "#lib/site.config.ts";
 import Site from "../../layouts/Site.astro";
-import Page from "../../routes/(site)/newsletter/confirmar/page.svelte";
+import Page from "../../routes/(site)/newsletter/confirmar/page.astro";
 ---
 
 <Site title={`Confirmar inscrição - ${site.name}`} description="Confirme sua inscrição na newsletter." path="/newsletter/confirmar" noindex>
-	<Page client:load />
+	<Page />
 </Site>

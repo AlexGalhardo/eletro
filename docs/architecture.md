@@ -4,7 +4,7 @@
 
 | Camada | Escolha |
 |---|---|
-| Framework | Astro 7.4 (`output: "static"`), ilhas Svelte 5 (runes) |
+| Framework | Astro 7.4 (`output: "static"`) e TypeScript |
 | Markdown | `marked` no build (`src/lib/content/render-body.ts`); arquivos `.mdx` |
 | Estilo | Tailwind CSS 4 |
 | Validação | zod |
@@ -14,7 +14,7 @@
 | Importação | `fetch` + cheerio (`webscrapping/`) |
 | Imagens | sharp, só no build, para as cópias das capas |
 | Hospedagem | GitHub Pages, pelo workflow `.github/workflows/pages.yml`. O Pages só serve os arquivos de `dist/` |
-| Qualidade | Biome, markdownlint, svelte-check, Vitest, Playwright |
+| Qualidade | Biome, markdownlint, TypeScript (`tsc --noEmit`), Vitest, Playwright |
 
 ## Duas metades
 
@@ -77,7 +77,7 @@ docs/                       esta documentação
 
 1. No build, `src/lib/server/content.ts` importa todos os `.mdx` como texto (`import.meta.glob` com `?raw`), valida o frontmatter com zod e monta a lista de posts publicados.
 2. `src/pages/[slug].astro` gera uma página por post publicado. `renderPostBody` quebra o Markdown em HTML e em ilhas `<CardsTable>`.
-3. `page.svelte` recebe esses trechos, publica as listas de produtos por contexto e o `<CardsTable>` lê esse contexto.
+3. `src/routes/(site)/[slug]/page.astro` recebe esses trechos e renderiza o `<CardsTable>` com a lista do trecho. No desktop o texto ocupa três quartos da largura e uma coluna à direita lista até sete outras postagens (a mesma categoria primeiro). No celular essa lista fica abaixo do texto.
 
 O resultado é HTML estático em `dist/`.
 
@@ -86,7 +86,7 @@ O resultado é HTML estático em `dist/`.
 | Decisão | Motivo |
 |---|---|
 | Conteúdo em arquivos, não em banco | Markdown como fonte da verdade, histórico pelo Git, site estático |
-| Metadados e corpo lidos do texto bruto | O build precisa do frontmatter, da contagem de palavras e do HTML sem compilar cada post como componente Svelte |
+| Metadados e corpo lidos do texto bruto | O build precisa do frontmatter, da contagem de palavras e do HTML sem compilar cada post como página |
 | Produtos por contexto, não importados no componente | Render no servidor (bom para SEO) sem enviar todas as listas ao navegador |
 | Ordem dos produtos embaralhada só no navegador | Mantém o rodízio do site original sem tornar o HTML do servidor instável |
 | JSON-LD no HTML do servidor | No site original era injetado por JavaScript; assim os buscadores leem sem executar script |

@@ -1,0 +1,28 @@
+---
+import PostEditor from "#lib/admin/PostEditor.astro";
+import type { PostInput } from "#lib/content/schema.ts";
+
+interface Props {
+	data: {
+		slug: string;
+		sha?: string;
+		post: PostInput;
+		lists: string[];
+		covers: string[];
+		deployed: boolean;
+		kind: "github" | "local";
+	};
+}
+
+const { data } = Astro.props;
+---
+
+<PostEditor
+	slug={data.slug}
+	sha={data.sha}
+	post={data.post}
+	lists={data.lists}
+	covers={data.covers}
+	deployed={data.deployed}
+	kind={data.kind}
+/>

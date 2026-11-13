@@ -1,9 +1,21 @@
-import { json, redirect } from "@sveltejs/kit";
-import type { Handle } from "@sveltejs/kit/hooks";
 import { fail, rateLimit } from "#lib/server/api.ts";
+import type { AdminUser } from "#lib/server/auth.ts";
 import { getAdmin, getAuth } from "#lib/server/auth.ts";
+import { json, redirect } from "#lib/server/http.ts";
 import { site } from "#lib/site.config.ts";
-import { building } from "$app/env";
+
+type Handle = (input: {
+	event: {
+		url: URL;
+		request: Request;
+		locals: { admin: AdminUser | null };
+		getClientAddress: () => string;
+	};
+	resolve: (
+		event: unknown,
+		opts?: { transformPageChunk?: (arg: { html: string }) => string },
+	) => Promise<Response>;
+}) => Promise<Response>;
 
 const PRIVATE_PREFIXES = ["/admin", "/api"];
 const LOGIN = "/admin/login";
@@ -22,7 +34,7 @@ export const handle: Handle = async ({ event, resolve }) => {
 
 	// Sessions are only looked up where they matter, so public pages never touch the database.
 	const needsSession = isUnder(pathname, "/admin") || isUnder(pathname, "/api");
-	if (needsSession && !building) {
+	if (needsSession) {
 		// Every write under /api, test login and auth included: guessing a token must not be free.
 		if (isUnder(pathname, "/api") && (event.request.method !== "GET" || pathname === DISPATCH_RUN)) {
 			// One bucket per endpoint: an admin uploading many images must not lock themselves out of saving a post.
@@ -62,7 +74,7 @@ export const handle: Handle = async ({ event, resolve }) => {
 	// The owner prefers sending a mistyped or retired address to the home page over showing an error page.
 	// Files and the API keep the 404: an image or a client must not receive the home page instead.
 	// ponytail: search engines treat this as a soft 404; restore the error page if indexing reports complain.
-	if (response.status === 404 && !building && isLostPage(event.request.method, pathname))
+	if (response.status === 404 && isLostPage(event.request.method, pathname))
 		return secure(new Response(null, { status: 302, headers: { Location: "/" } }), false);
 
 	// Reading the API from another origin is allowed; it only exposes what the site already publishes.

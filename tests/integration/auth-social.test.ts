@@ -14,7 +14,7 @@ const env = vi.hoisted(() => ({
 	GOOGLE_CLIENT_SECRET: "google-client-secret",
 }));
 
-vi.mock("$app/env/private", async () => {
+vi.mock("#env", async () => {
 	const { testEnv } = await import("./env.ts");
 	return testEnv(env);
 });

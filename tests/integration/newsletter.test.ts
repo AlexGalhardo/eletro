@@ -13,7 +13,7 @@ import {
 } from "../../src/lib/server/newsletter.ts";
 
 // No RESEND_API_KEY: the mailer records every e-mail in `outbox` instead of sending it.
-vi.mock("$app/env/private", async () => {
+vi.mock("#env", async () => {
 	const { testEnv } = await import("./env.ts");
 	return testEnv({ CRON_SECRET: "cron-secret-0123456789abcdef0123456789" });
 });

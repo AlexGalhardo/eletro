@@ -122,7 +122,7 @@ O que é e o que não é: [`development.md`](development.md#docker). A produçã
 ## 6. Testes
 
 ```bash
-bun run check              # svelte-check e TypeScript
+bun run check              # TypeScript (`tsc --noEmit`)
 bun run lint               # Biome e markdownlint
 bun run test               # Vitest: unitários e integração
 bun run test:e2e:install   # uma vez: baixa o Chromium do Playwright

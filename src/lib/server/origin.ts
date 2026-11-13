@@ -1,5 +1,6 @@
-import { dev } from "$app/env";
 import { site } from "../site.config.ts";
+
+const dev = import.meta.env.DEV;
 
 /**
  * Origin used in links sent by e-mail. In production it is always the configured site URL,

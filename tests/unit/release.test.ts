@@ -1,5 +1,13 @@
 import { describe, expect, it } from "vitest";
-import { bumpOf, cutChangelog, nextVersion, sectionOf } from "../../scripts/release.ts";
+import {
+	assertMicrocommitLinks,
+	bumpOf,
+	cutChangelog,
+	linkChangelogLines,
+	microcommitLine,
+	nextVersion,
+	sectionOf,
+} from "../../scripts/release.ts";
 
 describe("bumpOf", () => {
 	it("asks for a bump only for feat, fix, perf and breaking changes", () => {
@@ -93,6 +101,28 @@ describe("cutChangelog", () => {
 		expect(sectionOf(cut, "0.2.0")).toBe("### Added\n\n- New thing.");
 		expect(sectionOf(cut, "0.1.0")).toBe("- First version.");
 		expect(() => sectionOf(cut, "9.9.9")).toThrow("no section for 9.9.9");
+	});
+
+	it("links each new line to its microcommit and refuses a line without one", () => {
+		const commit = {
+			hash: "89d1d72d95020f71f96d84de25be8a3060552086",
+			short: "89d1d72",
+			subject: "docs: list what to review",
+		};
+		const linked = linkChangelogLines("- A busca mostra os 6 resultados.", [commit], repo);
+		expect(linked).toBe(
+			"- A busca mostra os 6 resultados. ([89d1d72](https://github.com/owner/repo/commit/89d1d72d95020f71f96d84de25be8a3060552086))",
+		);
+		expect(microcommitLine(commit, repo)).toBe(
+			"- **docs:** List what to review ([89d1d72](https://github.com/owner/repo/commit/89d1d72d95020f71f96d84de25be8a3060552086))",
+		);
+		expect(() => assertMicrocommitLinks("- Sem link.")).toThrow("must link its microcommit");
+		expect(() => assertMicrocommitLinks(linked)).not.toThrow();
+
+		const cut = cutChangelog(changelog, "0.2.0", "2026-10-07", undefined, [commit], repo);
+		expect(cut.notes).toContain(
+			"([89d1d72](https://github.com/owner/repo/commit/89d1d72d95020f71f96d84de25be8a3060552086))",
+		);
 	});
 
 	it("refuses to release with nothing written under Unreleased and no commit subject", () => {

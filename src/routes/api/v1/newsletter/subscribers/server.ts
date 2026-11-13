@@ -1,7 +1,7 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { parseBody, respond } from "#lib/server/api.ts";
 import { getDb } from "#lib/server/db/index.ts";
+import { json } from "#lib/server/http.ts";
 import { subscribe } from "#lib/server/newsletter.ts";
 import { linkOrigin } from "#lib/server/origin.ts";
 

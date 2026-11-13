@@ -36,7 +36,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - `missingAuthConfig()` lista as variáveis que faltam; sem elas `getAuth()` devolve `null` e o painel fica indisponível, sem derrubar o site.
 - `AUTH_TEST_LOGIN_TOKEN` liga o plugin de testes do better-auth para os testes automatizados criarem sessão. Só vale com o banco PGlite local: é ignorado quando existe `DATABASE_URL` e em produção (`VERCEL_ENV` ou `CONTEXT` igual a `production`).
 - `POST /api/test/login` com `{ "token", "githubLogin" }` devolve o cookie de sessão. Sem a variável a rota responde 404; token errado, 401; usuário fora da lista, 403.
-- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/layout.svelte`) tem a navegação e o botão "Sair". Em telas menores que `md` (768 px), a navegação, o tema e o "Sair" ficam atrás de um botão de menu (hambúrguer), que fecha ao escolher uma página.
+- `/admin/login` mostra os botões "Entrar com GitHub" e "Entrar com Google" (os que estiverem configurados) ou, se faltar configuração, a lista das variáveis ausentes. O layout do painel (`src/routes/admin/layout.astro`) tem a navegação e o botão "Sair". Em telas menores que `md` (768 px), a navegação, o tema e o "Sair" ficam atrás de um botão de menu (hambúrguer), que fecha ao escolher uma página.
 - Páginas do painel não carregam os scripts de analytics.
 
 ## Painel
@@ -56,7 +56,7 @@ Estado em 2026-10-06: a camada de servidor abaixo está escrita e testada, o pai
 - A pré-visualização do Markdown roda em um `iframe` com `sandbox`: nenhum script do texto executa. Ela não renderiza os cartões de produto, só indica onde a lista entra.
 - **Status do deploy:** o painel compara o hash do arquivo salvo com o do arquivo empacotado no build em execução (`deploy.ts`). Diferente significa "aguardando deploy"; no editor a página se recarrega a cada 20 s até o deploy novo responder. Com o store local o aviso é "aparece no próximo build".
 - Excluir uma lista em uso não é recusado: o serviço `deleteProductList` primeiro tira o `<CardsTable>` dela de cada post que a mostra e grava o post como rascunho (um commit por post, `content: unpublish post ...`), depois remove a lista. A confirmação na tela lista os posts afetados. Para republicar, escolha outra lista no editor do post e desmarque "Rascunho".
-- Os campos de imagem dos dois editores (`ImageField.svelte`) mostram a imagem renderizada. Logo depois de um envio a pré-visualização vem do arquivo escolhido no navegador, porque o arquivo só passa a ser servido pelo site depois do deploy.
+- Os campos de imagem dos dois editores (`ImageField.astro`) mostram a imagem renderizada. Logo depois de um envio a pré-visualização vem do arquivo escolhido no navegador, porque o arquivo só passa a ser servido pelo site depois do deploy.
 - Limites conhecidos: um post cujo frontmatter não é mais válido aparece na lista como "Com erro" mas não abre no editor (corrija o arquivo no repositório); post excluído que ainda está no ar não entra na contagem "aguardando deploy"; imagem recém-enviada só carrega na biblioteca depois do deploy; os últimos commits só aparecem com o store do GitHub.
 
 ## Importação por web scraping

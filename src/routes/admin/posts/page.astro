@@ -1,0 +1,162 @@
+---
+import { ui } from "#lib/admin/api.ts";
+import Lucide from "#lib/components/Lucide.astro";
+import { site } from "#lib/site.config.ts";
+
+const STATUS = {
+	published: "Publicado",
+	scheduled: "Agendado",
+	draft: "Rascunho",
+	invalid: "Com erro",
+} as const;
+
+interface Row {
+	slug: string;
+	title: string;
+	cover: string;
+	category: string;
+	lists: string[];
+	links: number;
+	pending: number;
+	date: string;
+	status: keyof typeof STATUS;
+	deployed: boolean;
+}
+
+interface Props {
+	data: { posts: Row[] };
+}
+
+const { data } = Astro.props;
+const day = (date: string): string => date.split("-").reverse().join("/");
+const fold = (text: string): string => text.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+---
+
+<div class="flex flex-wrap items-center justify-between gap-3">
+	<h1 class="text-2xl font-bold">Posts</h1>
+	<a href="/admin/posts/new" class={ui.primary}>Novo post</a>
+</div>
+
+<div class="mt-6 grid gap-3 md:grid-cols-[2fr_1fr_1fr_1fr]">
+	<div>
+		<label for="search" class={ui.label}>Buscar</label>
+		<input id="search" type="search" placeholder="Título ou slug" class={ui.input} />
+	</div>
+	<div>
+		<label for="status" class={ui.label}>Status</label>
+		<select id="status" class={ui.input}>
+			<option value="">Todos</option>
+			{Object.entries(STATUS).map(([value, label]) => <option value={value}>{label}</option>)}
+			<option value="pending">Aguardando deploy</option>
+		</select>
+	</div>
+	<div>
+		<label for="category" class={ui.label}>Categoria</label>
+		<select id="category" class={ui.input}>
+			<option value="">Todas</option>
+			{site.categories.map((item) => <option value={item.id}>{item.label}</option>)}
+		</select>
+	</div>
+	<div>
+		<label for="links" class={ui.label}>Links de afiliado</label>
+		<select id="links" class={ui.input}>
+			<option value="">Todos</option>
+			<option value="pending">Com links pendentes (#)</option>
+			<option value="done">Sem pendências</option>
+		</select>
+	</div>
+</div>
+
+<p id="post-count" class="mt-4 text-sm text-gray-600 dark:text-gray-400" aria-live="polite">{data.posts.length} post(s)</p>
+
+<div class:list={[ui.card, "mt-2 overflow-x-auto p-0"]}>
+	<table class="w-full text-left text-sm">
+		<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+			<tr>
+				<th scope="col" class="px-4 py-2 font-medium">Capa</th>
+				<th scope="col" class="px-4 py-2 font-medium">Título</th>
+				<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
+				<th scope="col" class="px-4 py-2 font-medium">Produtos</th>
+				<th scope="col" class="px-4 py-2 font-medium" title="Links reais / pendentes (#)">Links</th>
+				<th scope="col" class="px-4 py-2 font-medium">Data</th>
+				<th scope="col" class="px-4 py-2 font-medium">Status</th>
+			</tr>
+		</thead>
+		<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+			{
+				data.posts.map((post) => (
+					<tr
+						data-post-row
+						data-text={fold(`${post.title} ${post.slug}`)}
+						data-status={post.status}
+						data-deployed={post.deployed ? "true" : "false"}
+						data-category={post.category}
+						data-pending={post.pending > 0 ? "pending" : "done"}
+					>
+						<td class="px-4 py-2">
+							{post.cover ? (
+								<img src={post.cover} alt="" loading="lazy" class="aspect-video w-28 max-w-none rounded bg-gray-100 object-cover dark:bg-zinc-900" />
+							) : (
+								<span class="text-xs text-gray-500">Sem capa</span>
+							)}
+						</td>
+						<td class="px-4 py-2">
+							<a href={`/admin/posts/${post.slug}`} class="font-medium hover:underline">{post.title}</a>
+						</td>
+						<td class="px-4 py-2">{post.category}</td>
+						<td class="px-4 py-2">
+							{post.lists.map((list) => (
+								<a href={`/admin/products/${list}`} target="_blank" rel="noopener" class:list={[ui.button, "my-0.5 px-2 py-1 text-xs whitespace-nowrap"]}>
+									{list} <Lucide name="external-link" class="h-3 w-3" />
+								</a>
+							))}
+						</td>
+						<td class="px-4 py-2 whitespace-nowrap">
+							{post.links}
+							{post.pending > 0 && <span class="text-amber-600 dark:text-amber-400"> · {post.pending} pendentes</span>}
+						</td>
+						<td class="px-4 py-2 whitespace-nowrap">{day(post.date)}</td>
+						<td class="px-4 py-2 whitespace-nowrap">
+							{STATUS[post.status]}
+							{!post.deployed && <span class="text-amber-600 dark:text-amber-400"> · aguardando deploy</span>}
+						</td>
+					</tr>
+				))
+			}
+			<tr data-post-empty hidden><td colspan="7" class="px-4 py-6 text-center text-gray-500">Nenhum post encontrado.</td></tr>
+		</tbody>
+	</table>
+</div>
+
+<script>
+	const search = document.querySelector<HTMLInputElement>("#search");
+	const status = document.querySelector<HTMLSelectElement>("#status");
+	const category = document.querySelector<HTMLSelectElement>("#category");
+	const links = document.querySelector<HTMLSelectElement>("#links");
+	const count = document.querySelector<HTMLElement>("#post-count");
+	const rows = [...document.querySelectorAll<HTMLElement>("[data-post-row]")];
+	const empty = document.querySelector<HTMLElement>("[data-post-empty]");
+	const fromUrl = new URL(location.href).searchParams.get("status") ?? "";
+	if (status && fromUrl) status.value = fromUrl;
+
+	function filter(): void {
+		const term = (search?.value ?? "").normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+		let shown = 0;
+		for (const row of rows) {
+			const visible =
+				(!term || (row.dataset.text ?? "").includes(term)) &&
+				(!category?.value || row.dataset.category === category.value) &&
+				(!status?.value || (status.value === "pending" ? row.dataset.deployed !== "true" : row.dataset.status === status.value)) &&
+				(!links?.value || row.dataset.pending === links.value);
+			row.hidden = !visible;
+			if (visible) shown += 1;
+		}
+		if (empty) empty.hidden = shown > 0;
+		if (count) count.textContent = `${shown} post(s)`;
+	}
+	search?.addEventListener("input", filter);
+	status?.addEventListener("change", filter);
+	category?.addEventListener("change", filter);
+	links?.addEventListener("change", filter);
+	filter();
+</script>

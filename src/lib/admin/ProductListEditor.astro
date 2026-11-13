@@ -1,0 +1,245 @@
+---
+import { ui } from "#lib/admin/api.ts";
+import Lucide from "#lib/components/Lucide.astro";
+import type { Product } from "#lib/content/schema.ts";
+import { jsonForScript } from "#lib/json-script.ts";
+import DeployStatus from "./DeployStatus.astro";
+import ImageField from "./ImageField.astro";
+
+interface Props {
+	name?: string;
+	sha?: string;
+	products: Product[];
+	images: string[];
+	deployed?: boolean;
+	kind: "github" | "local";
+	usedBy?: string[];
+}
+
+const { name, sha, products, images, deployed = false, kind, usedBy = [] } = Astro.props;
+const isNew = !name;
+const items = products.length > 0 ? products : [blank()];
+const stores = [
+	["mercadolivreUrl", "Link Mercado Livre"],
+	["shopeeUrl", "Link Shopee"],
+	["amazonUrl", "Link Amazon"],
+] as const;
+
+function blank(): Product {
+	return {
+		id: "",
+		name: "",
+		image: "",
+		mercadolivreUrl: "",
+		shopeeUrl: "",
+		amazonUrl: "",
+		advantages: [],
+		technicalDetails: [],
+	};
+}
+---
+
+<form
+	data-product-editor
+	data-new={isNew ? "true" : "false"}
+	data-name={name}
+	data-sha={sha}
+	data-used={usedBy.join(", ")}
+	class="space-y-6"
+>
+	<div class="flex flex-wrap items-center justify-between gap-3">
+		<h1 class="text-2xl font-bold">{isNew ? "Nova lista de produtos" : `Lista: ${name}`}</h1>
+		<div class="flex flex-wrap gap-2">
+			{
+				!isNew && (
+					<button type="button" data-delete class={ui.danger}>
+						<Lucide name="trash-2" class="h-3.5 w-3.5" /> Excluir lista
+					</button>
+				)
+			}
+			<button type="submit" data-save class={ui.primary}>Salvar</button>
+		</div>
+	</div>
+
+	{
+		!isNew && (
+			<>
+				<DeployStatus deployed={deployed} kind={kind} />
+				<p class="text-sm text-gray-600 dark:text-gray-400">
+					{usedBy.length === 0 ? (
+						"Nenhum post usa esta lista."
+					) : (
+						<>
+							Usada em:{" "}
+							{usedBy.map((slug, index) => (
+								<>
+									{index > 0 ? ", " : ""}
+									<a href={`/admin/posts/${slug}`} class="underline">{slug}</a>
+								</>
+							))}
+						</>
+					)}
+				</p>
+			</>
+		)
+	}
+	<div data-messages></div>
+
+	{
+		isNew ? (
+			<div class={ui.card}>
+				<label for="list-name" class={ui.label}>Nome da lista</label>
+				<input id="list-name" required pattern="[a-z0-9]+(-[a-z0-9]+)*" minlength="3" placeholder="cafeteiras-expresso" class={ui.input} />
+				<p class="mt-1 text-xs text-gray-500">
+					É o nome usado no post, em &lt;CardsTable list="..." /&gt;. Minúsculas, números e hífens.
+				</p>
+			</div>
+		) : (
+			<p class="text-sm text-gray-600 dark:text-gray-400">
+				No post: <code class="font-mono">&lt;CardsTable list="{name}" /&gt;</code>
+			</p>
+		)
+	}
+
+	<div data-products class="space-y-6">
+		{
+			items.map((product, index) => (
+				<fieldset data-product class:list={[ui.card, "space-y-4"]}>
+					<script type="application/json" data-product-json set:html={jsonForScript(product)} />
+					<legend data-legend class="px-1 text-sm font-semibold">Produto {index + 1}{product.name ? `: ${product.name}` : ""}</legend>
+					<div class="flex flex-wrap justify-end gap-2">
+						<button type="button" data-up aria-label={`Subir produto ${index + 1}`} class={ui.button}><Lucide name="arrow-up" class="h-3.5 w-3.5" /></button>
+						<button type="button" data-down aria-label={`Descer produto ${index + 1}`} class={ui.button}><Lucide name="arrow-down" class="h-3.5 w-3.5" /></button>
+						<button type="button" data-remove-product aria-label={`Remover produto ${index + 1}`} class={ui.danger}><Lucide name="trash-2" class="h-3.5 w-3.5" /></button>
+					</div>
+					<div class="grid gap-4 md:grid-cols-2">
+						<div>
+							<label class={ui.label}>
+								Nome do produto {index + 1}
+								<input data-name value={product.name} required class={ui.input} />
+							</label>
+						</div>
+						<div>
+							<label class={ui.label}>
+								Id do produto {index + 1}
+								<input data-id value={product.id} placeholder="gerado a partir do nome" class={ui.input} />
+							</label>
+						</div>
+						<div class="md:col-span-2">
+							<ImageField id={`image-${index + 1}`} label={`Imagem do produto ${index + 1}`} folder="posts" options={images} value={product.image} />
+						</div>
+						{stores.map(([key, label]) => (
+							<div class="md:col-span-2">
+								<label class={ui.label}>
+									{label} do produto {index + 1}
+									<input data-store={key} type="url" value={product[key] ?? ""} placeholder="https://" class={ui.input} />
+								</label>
+							</div>
+						))}
+						<div class="md:col-span-2">
+							<label class={ui.label}>
+								Vantagens do produto {index + 1} (uma por linha)
+								<textarea data-advantages rows="4" class={ui.input}>{product.advantages.join("\n")}</textarea>
+							</label>
+						</div>
+					</div>
+					<div class="space-y-2">
+						<p class={ui.label}>Ficha técnica</p>
+						<div data-details class="space-y-2">
+							{product.technicalDetails.map((detail, row) => (
+								<div data-detail class="grid gap-2 md:grid-cols-[1fr_2fr_auto]">
+									<input data-label aria-label={`Característica ${row + 1} do produto ${index + 1}`} placeholder="Característica" value={detail.label} required class={ui.input} />
+									<input data-value aria-label={`Valor ${row + 1} do produto ${index + 1}`} placeholder="Valor" value={detail.value} class={ui.input} />
+									<button type="button" data-remove-detail aria-label={`Remover característica ${row + 1} do produto ${index + 1}`} class:list={[ui.button, "mt-1"]}><Lucide name="trash-2" class="h-3.5 w-3.5" /></button>
+								</div>
+							))}
+						</div>
+						<button type="button" data-add-detail class={ui.button}><Lucide name="plus" class="h-3.5 w-3.5" /> Adicionar característica</button>
+					</div>
+				</fieldset>
+			))
+		}
+	</div>
+
+	<div class="flex flex-wrap justify-between gap-3">
+		<button type="button" data-add-product class={ui.button}><Lucide name="plus" class="h-3.5 w-3.5" /> Adicionar produto</button>
+		<button type="submit" data-save class={ui.primary}>Salvar</button>
+	</div>
+
+	<datalist id="product-image-options">
+		{images.map((option) => <option value={option} />)}
+	</datalist>
+	<template id="detail-row">
+		<div data-detail class="grid gap-2 md:grid-cols-[1fr_2fr_auto]">
+			<input data-label placeholder="Característica" required class={ui.input} />
+			<input data-value placeholder="Valor" class={ui.input} />
+			<button type="button" data-remove-detail class:list={[ui.button, "mt-1"]}><Lucide name="trash-2" class="h-3.5 w-3.5" /></button>
+		</div>
+	</template>
+	<template id="product-row">
+		<fieldset data-product class:list={[ui.card, "space-y-4"]}>
+			<legend data-legend class="px-1 text-sm font-semibold">Produto</legend>
+			<div class="flex flex-wrap justify-end gap-2">
+				<button type="button" data-up class={ui.button}><Lucide name="arrow-up" class="h-3.5 w-3.5" /></button>
+				<button type="button" data-down class={ui.button}><Lucide name="arrow-down" class="h-3.5 w-3.5" /></button>
+				<button type="button" data-remove-product class={ui.danger}><Lucide name="trash-2" class="h-3.5 w-3.5" /></button>
+			</div>
+			<div class="grid gap-4 md:grid-cols-2">
+				<div>
+					<label class={ui.label}>
+						Nome do produto
+						<input data-name required class={ui.input} />
+					</label>
+				</div>
+				<div>
+					<label class={ui.label}>
+						Id do produto
+						<input data-id placeholder="gerado a partir do nome" class={ui.input} />
+					</label>
+				</div>
+				<div class="md:col-span-2" data-image-field data-folder="posts">
+					<div class="flex gap-2">
+						<label class:list={[ui.label, "min-w-0 flex-1"]}>
+							Imagem do produto
+							<input data-image-url list="product-image-options" placeholder="/images/posts/arquivo.webp" class={ui.input} />
+						</label>
+						<label class:list={[ui.button, "mt-1 shrink-0 cursor-pointer"]}>
+							<Lucide name="upload" class="h-3.5 w-3.5" />
+							<span data-image-button>Enviar</span>
+							<input data-image-file type="file" accept="image/webp,image/jpeg,image/png" class="sr-only" aria-label="Enviar imagem" />
+						</label>
+					</div>
+					<img data-image-preview alt="" hidden class="mt-2 h-32 w-32 rounded border border-gray-200 bg-white object-contain dark:border-zinc-800" />
+					<p data-image-broken hidden class="mt-1 text-xs text-gray-500">A imagem não carregou. Confira o endereço; um arquivo enviado há pouco só aparece depois do deploy.</p>
+					<p data-image-error hidden role="alert" class="mt-1 text-sm text-red-600 dark:text-red-400"></p>
+				</div>
+				{stores.map(([key, label]) => (
+					<div class="md:col-span-2">
+						<label class={ui.label}>
+							{label}
+							<input data-store={key} type="url" placeholder="https://" class={ui.input} />
+						</label>
+					</div>
+				))}
+				<div class="md:col-span-2">
+					<label class={ui.label}>
+						Vantagens (uma por linha)
+						<textarea data-advantages rows="4" class={ui.input}></textarea>
+					</label>
+				</div>
+			</div>
+			<div class="space-y-2">
+				<p class={ui.label}>Ficha técnica</p>
+				<div data-details class="space-y-2"></div>
+				<button type="button" data-add-detail class={ui.button}><Lucide name="plus" class="h-3.5 w-3.5" /> Adicionar característica</button>
+			</div>
+		</fieldset>
+	</template>
+</form>
+
+<script>
+	import { initProductEditor } from "#lib/client/product-editor.ts";
+
+	const form = document.querySelector<HTMLFormElement>("[data-product-editor]");
+	if (form) initProductEditor(form);
+</script>

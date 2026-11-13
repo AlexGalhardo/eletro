@@ -1,7 +1,7 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { parseQuery, requireAdmin, respond } from "#lib/server/api.ts";
 import { IMAGE_FOLDERS, listImages, MAX_IMAGE_BYTES, uploadImage, ValidationError } from "#lib/server/cms.ts";
+import { json } from "#lib/server/http.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 const querySchema = z.object({ folder: z.enum(IMAGE_FOLDERS) });

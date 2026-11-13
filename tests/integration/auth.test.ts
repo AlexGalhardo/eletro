@@ -15,7 +15,7 @@ const env = vi.hoisted(() => ({
 	AUTH_TEST_LOGIN_TOKEN: "test-login-token",
 }));
 
-vi.mock("$app/env/private", async () => {
+vi.mock("#env", async () => {
 	const { testEnv } = await import("./env.ts");
 	return testEnv(env);
 });

@@ -3,7 +3,7 @@ import { homeJsonLd } from "#lib/seo/jsonld.ts";
 import { coverWidths, getPosts, getSitePosts } from "#lib/server/content.ts";
 import { site } from "#lib/site.config.ts";
 import Site from "../layouts/Site.astro";
-import Home from "../routes/(site)/page.svelte";
+import Home from "../routes/(site)/page.astro";
 
 const posts = getSitePosts();
 const data = {
@@ -23,5 +23,5 @@ const data = {
 ---
 
 <Site title={site.title} description={site.description} path="/" jsonLd={homeJsonLd(data.jsonLdPosts)}>
-	<Home data={data} client:load />
+	<Home data={data} />
 </Site>

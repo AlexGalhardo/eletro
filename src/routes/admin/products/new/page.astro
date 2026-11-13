@@ -1,0 +1,11 @@
+---
+import ProductListEditor from "#lib/admin/ProductListEditor.astro";
+
+interface Props {
+	data: { images: string[]; kind: "github" | "local" };
+}
+
+const { data } = Astro.props;
+---
+
+<ProductListEditor products={[]} images={data.images} kind={data.kind} />

@@ -18,12 +18,7 @@
 		"types": ["node"],
 		"paths": {
 			"#lib/*": ["./src/lib/*"],
-			"$app/env/private": ["./src/env.ts"],
-			"$app/env": ["./src/shims/app-env.ts"],
-			"$app/state": ["./src/shims/app-state.ts"],
-			"$app/navigation": ["./src/shims/app-navigation.ts"],
-			"@sveltejs/kit/hooks": ["./src/shims/kit-hooks.ts"],
-			"@sveltejs/kit": ["./src/shims/kit.ts"]
+			"#env": ["./src/env.ts"]
 		}
 	},
 	"include": ["src", "tests", "scripts", "webscrapping", "playwright.config.ts"],

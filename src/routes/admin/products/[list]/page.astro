@@ -1,0 +1,28 @@
+---
+import ProductListEditor from "#lib/admin/ProductListEditor.astro";
+import type { Product } from "#lib/content/schema.ts";
+
+interface Props {
+	data: {
+		name: string;
+		sha?: string;
+		products: Product[];
+		images: string[];
+		deployed: boolean;
+		kind: "github" | "local";
+		usedBy: string[];
+	};
+}
+
+const { data } = Astro.props;
+---
+
+<ProductListEditor
+	name={data.name}
+	sha={data.sha}
+	products={data.products}
+	images={data.images}
+	deployed={data.deployed}
+	kind={data.kind}
+	usedBy={data.usedBy}
+/>

@@ -1,7 +1,7 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { ApiError, parseBody, respond } from "#lib/server/api.ts";
 import { getDb } from "#lib/server/db/index.ts";
+import { json } from "#lib/server/http.ts";
 import { unsubscribe } from "#lib/server/newsletter.ts";
 
 const bodySchema = z.object({ token: z.string().min(1).max(200) });

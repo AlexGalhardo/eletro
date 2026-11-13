@@ -1,0 +1,218 @@
+---
+import { ui } from "#lib/admin/api.ts";
+import { site } from "#lib/site.config.ts";
+
+interface Metric {
+	clicks: number;
+	impressions: number;
+	ctr: number;
+	position: number;
+}
+interface SearchRow extends Metric {
+	key: string;
+}
+interface SitemapRow {
+	path: string;
+	lastSubmitted: string | null;
+	lastDownloaded: string | null;
+	pending: boolean;
+	submitted: number;
+	errors: number;
+	warnings: number;
+}
+interface Props {
+	data: {
+		days: number;
+		missing: string[];
+		searchConsole?: {
+			error?: string;
+			data?: { totals: Metric; queries: SearchRow[]; pages: SearchRow[]; sitemaps: SitemapRow[] };
+		} | null;
+		analytics?: {
+			error?: string;
+			data?: { totals: { users: number; sessions: number; views: number }; pages: { path: string; views: number; users: number }[] };
+		} | null;
+	};
+}
+
+const { data } = Astro.props;
+const number = (value: number): string => value.toLocaleString(site.locale);
+const percent = (value: number): string => value.toLocaleString(site.locale, { style: "percent", maximumFractionDigits: 1 });
+const position = (value: number): string => value.toLocaleString(site.locale, { maximumFractionDigits: 1 });
+const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").reverse().join("/") : "");
+const pathOf = (url: string): string => (URL.canParse(url) ? new URL(url).pathname : url);
+const search = data.searchConsole?.data;
+const analytics = data.analytics?.data;
+const th = "px-4 py-2 font-medium";
+const thead = "border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400";
+const muted = "text-sm text-gray-600 dark:text-gray-400";
+const tables = search
+	? [
+			{ title: "Consultas", rows: search.queries },
+			{ title: "Páginas", rows: search.pages },
+		]
+	: [];
+---
+
+<h1 class="text-2xl font-bold">Google</h1>
+<p class:list={["mt-1", muted]}>Search Console e Analytics, últimos {data.days} dias.</p>
+
+{
+	data.missing.length > 0 && (
+		<p class:list={[ui.card, "mt-4 text-sm"]}>
+			Variáveis de ambiente que faltam neste servidor: {data.missing.join(", ")}. O passo a passo está em
+			<code>docs/google-console-analytics-setup.md</code>.
+		</p>
+	)
+}
+<div data-google-messages class="mt-4"></div>
+
+{
+	data.searchConsole && (
+		<section class="mt-8">
+			<h2 class="text-lg font-bold">Search Console</h2>
+			{data.searchConsole.error && <p class="mt-3 text-sm text-red-700">{data.searchConsole.error}</p>}
+			{search && (
+				<>
+					<dl class="mt-3 grid grid-cols-2 gap-4 md:grid-cols-4">
+						<div class={ui.card}><dt class={muted}>Cliques</dt><dd class="mt-1 text-3xl font-bold">{number(search.totals.clicks)}</dd></div>
+						<div class={ui.card}><dt class={muted}>Impressões</dt><dd class="mt-1 text-3xl font-bold">{number(search.totals.impressions)}</dd></div>
+						<div class={ui.card}><dt class={muted}>CTR</dt><dd class="mt-1 text-3xl font-bold">{percent(search.totals.ctr)}</dd></div>
+						<div class={ui.card}><dt class={muted}>Posição média</dt><dd class="mt-1 text-3xl font-bold">{position(search.totals.position)}</dd></div>
+					</dl>
+					{tables.map((table) => (
+						<>
+							<h3 class="mt-6 font-semibold">{table.title} com mais cliques</h3>
+							<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
+								<table class="w-full text-left text-sm">
+									<thead class={thead}>
+										<tr>
+											<th scope="col" class={th}>{table.title}</th>
+											<th scope="col" class={th}>Cliques</th>
+											<th scope="col" class={th}>Impressões</th>
+											<th scope="col" class={th}>CTR</th>
+											<th scope="col" class={th}>Posição</th>
+										</tr>
+									</thead>
+									<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+										{table.rows.map((row) => (
+											<tr>
+												<td class="px-4 py-2">{pathOf(row.key)}</td>
+												<td class="px-4 py-2">{number(row.clicks)}</td>
+												<td class="px-4 py-2">{number(row.impressions)}</td>
+												<td class="px-4 py-2">{percent(row.ctr)}</td>
+												<td class="px-4 py-2">{position(row.position)}</td>
+											</tr>
+										))}
+										{table.rows.length === 0 && (
+											<tr><td colspan="5" class="px-4 py-6 text-center text-gray-500">Sem dados no período.</td></tr>
+										)}
+									</tbody>
+								</table>
+							</div>
+						</>
+					))}
+					<div class="mt-6 flex flex-wrap items-center justify-between gap-3">
+						<h3 class="font-semibold">Sitemaps</h3>
+						<button type="button" data-resubmit class={ui.primary}>Reenviar sitemap ao Google</button>
+					</div>
+					<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
+						<table class="w-full text-left text-sm">
+							<thead class={thead}>
+								<tr>
+									<th scope="col" class={th}>Sitemap</th>
+									<th scope="col" class={th}>Enviado</th>
+									<th scope="col" class={th}>Lido pelo Google</th>
+									<th scope="col" class={th}>URLs</th>
+									<th scope="col" class={th}>Erros</th>
+									<th scope="col" class={th}>Avisos</th>
+								</tr>
+							</thead>
+							<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+								{search.sitemaps.map((sitemap) => (
+									<tr>
+										<td class="px-4 py-2">{sitemap.path}</td>
+										<td class="px-4 py-2 whitespace-nowrap">{day(sitemap.lastSubmitted)}</td>
+										<td class="px-4 py-2 whitespace-nowrap">{sitemap.pending ? "Na fila" : day(sitemap.lastDownloaded)}</td>
+										<td class="px-4 py-2">{number(sitemap.submitted)}</td>
+										<td class="px-4 py-2">{number(sitemap.errors)}</td>
+										<td class="px-4 py-2">{number(sitemap.warnings)}</td>
+									</tr>
+								))}
+								{search.sitemaps.length === 0 && (
+									<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum sitemap enviado ainda.</td></tr>
+								)}
+							</tbody>
+						</table>
+					</div>
+				</>
+			)}
+		</section>
+	)
+}
+
+{
+	data.analytics && (
+		<section class="mt-8">
+			<h2 class="text-lg font-bold">Analytics</h2>
+			{data.analytics.error && <p class="mt-3 text-sm text-red-700">{data.analytics.error}</p>}
+			{analytics && (
+				<>
+					<dl class="mt-3 grid grid-cols-3 gap-4">
+						<div class={ui.card}><dt class={muted}>Usuários</dt><dd class="mt-1 text-3xl font-bold">{number(analytics.totals.users)}</dd></div>
+						<div class={ui.card}><dt class={muted}>Sessões</dt><dd class="mt-1 text-3xl font-bold">{number(analytics.totals.sessions)}</dd></div>
+						<div class={ui.card}><dt class={muted}>Visualizações</dt><dd class="mt-1 text-3xl font-bold">{number(analytics.totals.views)}</dd></div>
+					</dl>
+					<h3 class="mt-6 font-semibold">Páginas mais vistas</h3>
+					<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
+						<table class="w-full text-left text-sm">
+							<thead class={thead}>
+								<tr>
+									<th scope="col" class={th}>Página</th>
+									<th scope="col" class={th}>Visualizações</th>
+									<th scope="col" class={th}>Usuários</th>
+								</tr>
+							</thead>
+							<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+								{analytics.pages.map((row) => (
+									<tr>
+										<td class="px-4 py-2">{row.path}</td>
+										<td class="px-4 py-2">{number(row.views)}</td>
+										<td class="px-4 py-2">{number(row.users)}</td>
+									</tr>
+								))}
+								{analytics.pages.length === 0 && (
+									<tr><td colspan="3" class="px-4 py-6 text-center text-gray-500">Sem dados no período.</td></tr>
+								)}
+							</tbody>
+						</table>
+					</div>
+				</>
+			)}
+		</section>
+	)
+}
+
+<script>
+	import { api, messagesOf, rememberNotice, takeNotice } from "#lib/admin/api.ts";
+
+	const button = document.querySelector<HTMLButtonElement>("[data-resubmit]");
+	const box = document.querySelector<HTMLElement>("[data-google-messages]");
+	const stored = takeNotice();
+	if (stored && box) box.textContent = stored;
+	button?.addEventListener("click", async () => {
+		if (!button) return;
+		button.disabled = true;
+		button.textContent = "Aguarde...";
+		if (box) box.textContent = "";
+		try {
+			const { sitemap } = await api<{ sitemap: string }>("POST", "/google/sitemap");
+			rememberNotice(`${sitemap} enviado. O Google lê o arquivo de novo nos próximos minutos.`);
+			location.reload();
+		} catch (cause) {
+			if (box) box.textContent = messagesOf(cause).join(" ");
+			button.disabled = false;
+			button.textContent = "Reenviar sitemap ao Google";
+		}
+	});
+</script>

@@ -4,7 +4,7 @@ Instruções para qualquer agente de código trabalhando neste repositório. O `
 
 ## O que é o projeto
 
-Template open source de CMS de blog em Astro 7.4 com ilhas Svelte 5. Os posts são Markdown (`content/posts/*.mdx`), os produtos são JSON (`content/products/*.json`) e o site público é estático no GitHub Pages. O dono publica pelo painel `/admin`, que grava o conteúdo com commits no próprio repositório. O EletroRadar (reviews de eletrodomésticos com links de afiliado) é o conteúdo de demonstração e o site em produção. O código do painel, da API, da autenticação e da newsletter continua no repositório e é coberto por testes; o GitHub Pages não executa essas rotas.
+Template open source de CMS de blog em Astro 7.4 e TypeScript. Os posts são Markdown (`content/posts/*.mdx`), os produtos são JSON (`content/products/*.json`) e o site público é estático no GitHub Pages. O dono publica pelo painel `/admin`, que grava o conteúdo com commits no próprio repositório. O EletroRadar (reviews de eletrodomésticos com links de afiliado) é o conteúdo de demonstração e o site em produção. O código do painel, da API, da autenticação e da newsletter continua no repositório e é coberto por testes; o GitHub Pages não executa essas rotas.
 
 ## Início de toda sessão (obrigatório)
 
@@ -36,7 +36,7 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 
 - Com `graphify-out/graph.json` presente, consulte o grafo antes de varrer o código e rode o `update` de novo depois de mudar código: nada o atualiza sozinho.
 - Sem o arquivo, use a busca normal.
-- O `update` lê só a estrutura do código; os componentes `.svelte` entram de forma parcial. A skill `graphify` (`/graphify`) faz a extração completa, com modelo de linguagem.
+- O `update` lê só a estrutura do código; arquivos `.astro` entram de forma parcial. A skill `graphify` (`/graphify`) faz a extração completa, com modelo de linguagem.
 
 ## Documentação (onboarding)
 
@@ -81,7 +81,7 @@ bun run dev          # servidor de desenvolvimento
 bun run build        # build de produção (confere as variáveis de ambiente, valida o conteúdo e sincroniza os links de afiliado)
 bun run check-env    # só a conferência das variáveis de ambiente (scripts/check-env.ts)
 bun run sync-links   # só a validação e o envio dos links ao dashboard
-bun run check        # svelte-check + TypeScript
+bun run check        # TypeScript (`tsc --noEmit`)
 bun run lint         # Biome + markdownlint
 bun run format       # Biome com correção automática
 bun run post-status  # regenera docs/post-status.md a partir de content/
@@ -92,7 +92,7 @@ bun run test:e2e     # Playwright: smoke e e2e
 
 ## Regras que não podem ser quebradas
 
-- **Astro 7.4 e Svelte 5 são mais novos que o conhecimento de treino da maioria dos modelos.** A configuração fica em `astro.config.ts`. O site público é `output: "static"` em `src/pages`. Componentes Svelte usam runes. Imports internos com `#lib/...` e extensão explícita. Código que ainda importa `$app/env`, `$app/state`, `$app/navigation` ou `@sveltejs/kit` resolve para os shims em `src/shims/` e `src/env.ts`. Consulte <https://docs.astro.build> e o MCP do Svelte antes de usar uma API que você não leu neste repositório.
+- **Astro 7.4 é mais novo que o conhecimento de treino da maioria dos modelos.** A configuração fica em `astro.config.ts`. O site público é `output: "static"` em `src/pages`. A interface é Astro e TypeScript, com `<script>` nos componentes interativos. Imports internos com `#lib/...` e extensão explícita. Variáveis de servidor vêm de `#env` (`src/env.ts`). Respostas JSON da API usam `#lib/server/http.ts`. Consulte <https://docs.astro.build> antes de usar uma API que você não leu neste repositório.
 - **Dependências:** sempre a última versão estável, com versão exata, sem `^` nem `~`. Confira no registry, não de memória. Ver `.claude/rules/dependencies.md`.
 - **Formatação:** tab com largura 4 (Biome e `.editorconfig`); YAML e Markdown usam 2 espaços. Demais regras de código em `.claude/rules/code-style.md`.
 - **Commits:** Conventional Commits, e todo commit é uma release (versão, `CHANGELOG.md`, tag e GitHub Release), sem exceção para `docs` ou `chore`. Regras em `.claude/rules/git-and-releases.md`; passo a passo na skill `project-release`.
@@ -102,4 +102,4 @@ bun run test:e2e     # Playwright: smoke e e2e
 - **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
 - **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.
 - **Status dos posts:** depois de mudar `content/`, rode `bun run post-status` e commite `docs/post-status.md`; o teste falha se ele ficar velho.
-- **Sem Svelte novo:** o projeto está migrando para Astro puro; código novo usa `.astro` e TypeScript, sem componentes Svelte.
+- **Sem Svelte:** o projeto é Astro e TypeScript. Código novo usa `.astro` e `.ts`. Não adicione `svelte`, `@astrojs/svelte` nem componentes `.svelte`.

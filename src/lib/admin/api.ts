@@ -42,6 +42,27 @@ export const messagesOf = (error: unknown): string[] =>
 		? error.messages
 		: ["Não foi possível falar com o servidor. Tente de novo."];
 
+const NOTICE_KEY = "admin-notice";
+
+/** Keeps a confirmation across the reload that replaces SvelteKit's invalidateAll. */
+export function rememberNotice(message: string): void {
+	try {
+		sessionStorage.setItem(NOTICE_KEY, message);
+	} catch {
+		// Private mode still reloads; the confirmation is skipped.
+	}
+}
+
+export function takeNotice(): string {
+	try {
+		const message = sessionStorage.getItem(NOTICE_KEY) ?? "";
+		if (message) sessionStorage.removeItem(NOTICE_KEY);
+		return message;
+	} catch {
+		return "";
+	}
+}
+
 /** Uploads an image and returns its public URL. */
 export async function uploadImage(file: File, folder: string): Promise<string> {
 	const form = new FormData();

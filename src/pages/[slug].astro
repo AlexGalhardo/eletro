@@ -3,7 +3,7 @@ import { isPublished } from "#lib/content/parse.ts";
 import { postJsonLd } from "#lib/seo/jsonld.ts";
 import { getSitePost, getSitePosts, postPageData } from "#lib/server/content.ts";
 import Site from "../layouts/Site.astro";
-import PostPage from "../routes/(site)/[slug]/page.svelte";
+import PostPage from "../routes/(site)/[slug]/page.astro";
 
 export function getStaticPaths() {
 	return getSitePosts().map((post) => ({ params: { slug: post.slug } }));
@@ -25,5 +25,5 @@ const data = postPageData(entry);
 	jsonLd={postJsonLd(entry.post)}
 	noindex={!isPublished(entry.post)}
 >
-	<PostPage data={data} client:load />
+	<PostPage data={data} />
 </Site>

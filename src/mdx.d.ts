@@ -1,8 +1,6 @@
-// Ambient declaration (no top-level imports) so every `.mdx` import is typed.
+// Ambient declaration (no top-level imports) so a `.mdx` import stays typed without a framework.
 declare module "*.mdx" {
-	import type { Component } from "svelte";
-
-	const component: Component;
+	const component: unknown;
 	export default component;
 	export const metadata: Record<string, unknown>;
 }

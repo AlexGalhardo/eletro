@@ -24,9 +24,9 @@ O e2e roda em dois projetos, `desktop` e `mobile` (Pixel 7), sempre contra o bui
 ## Princípios
 
 - Nenhum teste depende de rede externa ou de segredo. Sem `RESEND_API_KEY`, o envio de e-mail é registrado em memória e a rota responde sucesso.
-- `$app/env/private` é um shim (`src/shims/app-env.ts`): o build do Astro não preenche esse módulo. Teste de integração que depende de variável de ambiente simula o módulo com `vi.mock("$app/env/private", ...)` e o helper `tests/integration/env.ts`.
+- Variáveis de servidor vêm de `#env` (`src/env.ts`). Teste de integração que depende delas simula o módulo com `vi.mock("#env", ...)` e o helper `tests/integration/env.ts`.
 - O e2e sobe o `astro preview` do build estático. O painel no Pages é a tela de login; criar e editar posts fica nos testes de integração, que gravam em uma pasta temporária (`CONTENT_ROOT`), nunca no conteúdo real.
-- Nos specs que clicam em ilha Svelte, abra páginas com `open(page, url)` de `tests/e2e/env.ts`: ele espera a página hidratar. Um clique antes disso encontra o botão sem o handler e não faz nada.
+- Nos specs que clicam em botões com script, abra páginas com `open(page, url)` de `tests/e2e/env.ts`: ele espera a página ficar quieta. Um clique antes do script encontrar o botão sem o handler e não faz nada.
 - Os testes smoke leem `content/posts/` e separam publicados de rascunhos e agendados: os primeiros têm de responder, os outros têm de responder 404 em `/<slug>`, como qualquer página inexistente, e ficar fora do sitemap, do `llms.txt` e da API. Com `previewDrafts` ligado, `/preview/<slug>` responde 200 com `noindex`, e continua fora de tudo isso ([feature-flags.md](feature-flags.md)).
 - Os testes da API chamam os handlers de `server.ts` direto, com um evento mínimo, e gravam em uma pasta temporária (`CONTENT_ROOT`).
 - Os testes de conteúdo leem os arquivos reais: um post quebrado falha o teste antes de falhar o deploy.

@@ -1,8 +1,8 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { ApiError, parseBody, parseQuery, requireAdmin, respond } from "#lib/server/api.ts";
 import { deleteProductList, saveProductList } from "#lib/server/cms.ts";
 import { getBundledPostSources, getProductList } from "#lib/server/content.ts";
+import { json } from "#lib/server/http.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 const versionSchema = z.object({ sha: z.string().min(1) });

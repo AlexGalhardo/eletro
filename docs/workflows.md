@@ -23,7 +23,7 @@ Como uma tarefa anda neste projeto, do pedido à produção. Esta página diz a 
 | 9 | Release: versão, commit, tag, push, GitHub Release | [Release](#release) |
 | 10 | Conferir o deploy | [Deploy](#deploy) |
 
-Uma mudança lógica é um commit, e um commit é uma release. Duas mudanças são dois commits e duas versões.
+Uma mudança lógica é um microcommit, e um commit é uma release. Duas mudanças são dois commits e duas versões. Não junte assuntos diferentes no mesmo commit e não esmague um commit já publicado: a linha do changelog abre esse commit.
 
 ## Por tipo de tarefa
 
@@ -55,15 +55,32 @@ Os dois escrevem na `main`. Antes de editar conteúdo, puxe a `main`; em conflit
 
 Rascunho não sai no site, mas pode ser revisado antes de publicar: abra `/preview/<slug>` ou use `/admin/flags` (ver [`feature-flags.md`](feature-flags.md)). Os commits `content:` do painel não regeneram [`post-status.md`](post-status.md); a próxima sessão roda `bun run post-status`.
 
+## Microcommits
+
+O histórico fica em commits pequenos. Uma linha do changelog não descreve um pacote de mudanças soltas: ela descreve o microcommit que a introduziu e aponta para ele.
+
+Cada linha nova de uma release termina assim:
+
+```markdown
+- **escopo:** Frase da mudança ([abcdef1](https://github.com/AlexGalhardo/eletro/commit/abcdef1<hash completo>))
+```
+
+- O hash entre colchetes tem 7 caracteres. A URL usa o hash completo de `git rev-parse HEAD`.
+- O negrito é o escopo do Conventional Commit. Sem escopo, use o tipo (`feat`, `fix`, `docs`, `content`).
+- Várias linhas podem apontar para o mesmo commit quando ele tem mais de um efeito visível.
+- Vários microcommits na mesma release: uma linha por commit, cada uma com o próprio link.
+- O `scripts/release.ts` recusa cortar a versão se alguma linha de lista não tiver esse link. Commits desde a tag anterior recebem o link sozinhos; se a mudança ainda não foi commitada, não há hash para apontar.
+
 ## Release
 
 Obrigatória em todo commit. Comandos e verificação em [`agent-setup.md`](agent-setup.md#8-github-e-release); regra de versão em [`ci-cd.md`](ci-cd.md) e na skill `project-release`.
 
-1. Texto da mudança em `## [Unreleased]` (sem mudança visível, a nota é o assunto do commit).
-2. `bun scripts/release.ts --message "<mensagem>" --notes <arquivo>`: versão no `package.json` e seção no `CHANGELOG.md`.
-3. Commit com a mesma mensagem, tag `vX.Y.Z`, `git push origin main vX.Y.Z`, `gh release create`.
+1. Microcommit do código. Anote o hash: `git rev-parse HEAD` e `git rev-parse --short=7 HEAD`.
+2. Linha em `## [Unreleased]` já com o link desse microcommit (sem mudança visível, a nota é o assunto do commit, também linkada).
+3. `bun scripts/release.ts --message "<mensagem>" --notes <arquivo>`: versão no `package.json` e seção no `CHANGELOG.md`.
+4. Commit da release com a mesma mensagem, tag `vX.Y.Z`, `git push origin main vX.Y.Z`, `gh release create`.
 
-A tarefa só está entregue quando o último commit tem tag e GitHub Release.
+A tarefa só está entregue quando o último commit tem tag e GitHub Release. A linha publicada abre o microcommit.
 
 ## Deploy
 

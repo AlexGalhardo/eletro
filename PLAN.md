@@ -20,7 +20,7 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 
 | Assunto | Decisão |
 |---|---|
-| Framework | Astro 7.4 (`output: "static"`) + ilhas Svelte 5 (runes). Hospedagem: GitHub Pages. O snapshot SvelteKit está na branch `legacy-sveltekit` |
+| Framework | Astro 7.4 (`output: "static"`) e TypeScript. Hospedagem: GitHub Pages. O snapshot SvelteKit está na branch `legacy-sveltekit` |
 | Conteúdo | Arquivos no repositório: `content/posts/*.mdx` (mdsvex) e `content/products/*.json`. Site público pré-renderizado no build |
 | Escrita pelo admin | Commit via API do GitHub com `GITHUB_TOKEN` (token fine-grained restrito a um repositório), assinado com o nome de quem logou; o deploy publica em 1 a 2 min. Em dev e testes, grava no disco local |
 | Autenticação | better-auth com login GitHub, restrito à lista `ADMIN_GITHUB_USERS`; sessões no Postgres |
@@ -28,7 +28,7 @@ Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquiv
 | Newsletter | Double opt-in, descadastro em um clique, e-mails com react-email enviados pelo Resend. Disparo fica pendente até a URL do post responder 200 |
 | API REST | `/api/v1`: leitura pública de posts, categorias e produtos; escrita exige sessão de admin |
 | Estilo | Tailwind CSS 4, mesmas classes do site atual; identidade concentrada em `src/lib/site.config.ts` |
-| Qualidade | Vitest (unitário e integração), Playwright (smoke e e2e), svelte-check, Biome v2, markdownlint |
+| Qualidade | Vitest (unitário e integração), Playwright (smoke e e2e), TypeScript (`tsc --noEmit`), Biome v2, markdownlint |
 | Releases | Todo commit é uma release: versão, seção no `CHANGELOG.md` (Keep a Changelog), tag e GitHub Release. `scripts/release.ts` calcula a versão pela mensagem do commit. Commits `content:` do painel ficam de fora |
 | CI/CD | Workflows escritos em `.github/workflows-disabled/` (inativos até o billing do GitHub ser corrigido) |
 
@@ -238,7 +238,7 @@ Fica por conferir quando os workflows forem ativados: o `release.yml` de ponta a
 
 - [x] Revisão com a skill `security-and-hardening` e o OWASP Top Ten 2025: CSRF, cabeçalhos, sanitização do Markdown, validação de upload, limite de tentativas (relatório em `docs/security.md`)
 - [x] Varredura de segredos no repositório e no histórico (nada encontrado)
-- [ ] CSP: exige tirar os scripts embutidos de `app.html` e `layout.svelte` e testar o analytics em um deploy real
+- [ ] CSP: exige tirar os scripts embutidos de `app.html` e `src/layouts/Root.astro` e testar o analytics em um deploy real
 - [ ] Conferir em um deploy real os cabeçalhos de `static/_headers` (Netlify). Os de `vercel.json` foram conferidos em produção em 2026-10-06
 - [ ] Compilar o corpo do post ao salvar, para recusar HTML malformado que quebra o build (leva `mdsvex` para produção: decisão do dono)
 
@@ -393,16 +393,18 @@ Objetivo: remover o Svelte do projeto e ficar só com Astro e pacotes agnóstico
 
 ### M1. Migração
 
-- [ ] Componentes do site (42 arquivos `.svelte`) viram `.astro` ou TypeScript; ilhas interativas (`CardsTable`, busca, filtro, tema) sem runtime Svelte
-- [ ] Painel `/admin` (`src/routes/admin/`) em páginas Astro com `<script>` TypeScript
-- [ ] Rotas de API (`src/routes/api/v1/`) em endpoints Astro, com os mesmos handlers e testes
-- [ ] Shims `$app/*` e `src/env.ts` removidos; imports de servidor passam a apontar para módulos próprios
-- [ ] Dependências `svelte`, `@astrojs/svelte`, `svelte-check` e `@lucide/svelte` removidas do `package.json` e do `bun.lock`
-- [ ] `bun run check` passa a usar `astro check` no lugar do svelte-check
-- [ ] MCP do Svelte em `.mcp.json` removido, se não houver mais uso
-- [ ] `docs/architecture.md`, `docs/development.md`, `docs/tooling.md` e `.claude/rules/code-style.md` atualizados (Svelte, runes, shims)
+- [x] Componentes do site viram `.astro` ou TypeScript; busca, filtro, tema e `CardsTable` usam `<script>`, sem runtime Svelte
+- [x] Painel `/admin` (`src/routes/admin/`) em páginas Astro com `<script>` TypeScript. No GitHub Pages essas rotas continuam entregando só o login
+- [x] Rotas de API (`src/routes/api/v1/`) seguem nos handlers `server.ts`, embrulhados por `src/pages/api/`, com os mesmos testes
+- [x] Shims `$app/*` removidos. `src/env.ts` permanece e o servidor importa `#env`. Respostas HTTP ficam em `src/lib/server/http.ts`
+- [x] Dependências `svelte`, `@astrojs/svelte`, `svelte-check` e `@lucide/svelte` removidas do `package.json` e do `bun.lock`
+- [x] `bun run check` usa `tsc --noEmit`
+- [x] MCP do Svelte em `.mcp.json` removido
+- [x] `docs/architecture.md`, `docs/development.md`, `docs/tooling.md` e `.claude/rules/code-style.md` atualizados (Astro, TypeScript, `#env`)
 
 **Assert:** nenhum `.svelte` e nenhum import de `svelte`, `@sveltejs/*` ou `$app/*` em `src/` e `tests/`; `bun run check`, `bun run lint`, `bun run test` e `bun run test:e2e` verdes; o build gera as mesmas URLs de antes.
+
+Nesta sessão o `check` e o `test` passaram. O `lint` ainda falha em `scripts/release.ts` e `tests/unit/release.test.ts`, que já estavam alterados fora desta migração. O `test:e2e` e o `build` não rodaram.
 
 ## Onde a sessão de 2026-10-06 parou
 
@@ -442,6 +444,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-11-10 | Importação em lote copia só fatos (nomes, fichas, fotos de produto); texto sempre original, em sequência e com pausa | Mesmo critério do importador unitário; não sobrecarregar a origem |
 | 2026-11-10 | Flags de navegador em `localStorage`; prévia de rascunho em `/preview/<slug>` no GitHub Pages | Pages não tem login, mas os rascunhos já são públicos no repositório: a prévia não expõe nada novo |
 | 2026-11-13 | Releases públicas reagrupadas em 0.1.0 a 0.10.0, com os commits de cada uma linkados no changelog | O repositório ficou público. As tags antigas saem. O histórico de commits fica, para os links continuarem válidos |
+| 2026-11-13 | Página do post: texto em 3/4 e sete outras postagens em 1/4 | Pedido do dono. No celular a lista fica abaixo do texto |
 
 ## Pendências do dono
 

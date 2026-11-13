@@ -1,7 +1,7 @@
-import { error } from "@sveltejs/kit";
 import { referencedLists } from "#lib/content/parse.ts";
 import type { Product } from "#lib/content/schema.ts";
 import { coverWidths, getPost, getPosts, getProductList } from "#lib/server/content.ts";
+import { error } from "#lib/server/http.ts";
 
 // The home page only links the first few posts, so every slug is listed for the prerenderer.
 export const entries = (): { slug: string }[] => getPosts().map((post) => ({ slug: post.slug }));

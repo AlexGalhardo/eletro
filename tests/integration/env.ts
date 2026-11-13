@@ -1,6 +1,6 @@
 /**
- * Stand-in for `$app/env/private` in integration tests. SvelteKit only fills that module when its server
- * starts, so tests mock it: `vi.mock("$app/env/private", () => testEnv({ ... }))`.
+ * Stand-in values for `#env` in integration tests.
+ * Tests mock that module: `vi.mock("#env", () => testEnv({ ... }))`.
  * Every declared variable must be present, otherwise Vitest rejects the access to a missing export.
  */
 export function testEnv(overrides: Record<string, unknown> = {}): Record<string, unknown> {

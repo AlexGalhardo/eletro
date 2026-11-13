@@ -1,0 +1,118 @@
+---
+import { ui } from "#lib/admin/api.ts";
+import { site } from "#lib/site.config.ts";
+
+const host = site.postImport.sourceHosts[0] ?? "";
+---
+
+<h1 class="text-2xl font-bold">Importar post</h1>
+<p class="mt-2 max-w-3xl text-sm text-gray-600 dark:text-gray-400">
+	Cole o endereço de uma review de {host}. O painel lê a página, copia os {site.postImport.maxProducts} primeiros
+	produtos (nome, foto e ficha técnica) e cria um rascunho com capa montada a partir de 3 fotos dos produtos. Com a
+	chave da Mistral configurada, o resumo e o FAQ da origem são reescritos por IA; sem ela, o texto é genérico,
+	gerado a partir da ficha técnica.
+</p>
+
+<form data-import class:list={[ui.card, "mt-6 max-w-3xl space-y-4"]}>
+	<label class={ui.label}>
+		Endereço do post de origem
+		<input type="url" name="url" required placeholder={`https://${host}/categoria/post/`} class={ui.input} />
+	</label>
+	<button type="submit" data-import-button class={ui.primary}>Iniciar importação</button>
+</form>
+<div data-import-messages class="mt-4 max-w-3xl"></div>
+<div data-import-result hidden class:list={[ui.card, "mt-4 max-w-3xl space-y-3"]} role="status"></div>
+
+<script>
+	import { api, messagesOf } from "#lib/admin/api.ts";
+
+	const form = document.querySelector<HTMLFormElement>("[data-import]");
+	const button = form?.querySelector<HTMLButtonElement>("[data-import-button]");
+	const messages = document.querySelector<HTMLElement>("[data-import-messages]");
+	const result = document.querySelector<HTMLElement>("[data-import-result]");
+	const input = form?.querySelector<HTMLInputElement>("input");
+
+	form?.addEventListener("submit", async (event) => {
+		event.preventDefault();
+		if (!button || !messages || !result || !input) return;
+		button.disabled = true;
+		input.disabled = true;
+		button.textContent = "Importando... (pode levar um minuto)";
+		messages.replaceChildren();
+		result.hidden = true;
+		result.replaceChildren();
+		try {
+			const imported = await api<{
+				slug: string;
+				list: string;
+				products: number;
+				rewritten: boolean;
+				cover: string;
+				warnings: string[];
+			}>("POST", "/imports", { url: input.value });
+			input.value = "";
+			const title = document.createElement("p");
+			title.className = "font-semibold";
+			title.textContent = `Rascunho criado com ${imported.products} produtos.`;
+			result.append(title);
+			if (imported.rewritten) {
+				const note = document.createElement("p");
+				note.className = "text-sm";
+				note.textContent = "Descrição, introdução e FAQ foram reescritos pela Mistral. Revise antes de publicar.";
+				result.append(note);
+			}
+			for (const warning of imported.warnings) {
+				const line = document.createElement("p");
+				line.className = "text-sm";
+				line.textContent = warning;
+				result.append(line);
+			}
+			const list = document.createElement("ul");
+			list.className = "list-disc space-y-1 pl-5 text-sm";
+			const steps = [
+				"Troque os links de afiliado, que estão como #.",
+				imported.cover
+					? `Confira a capa gerada (${imported.cover}); troque no editor se não gostar.`
+					: "Envie a capa do post (o rascunho está sem capa).",
+				imported.rewritten
+					? "Revise o título e o texto reescrito pela IA (fatos, tom e ortografia)."
+					: "Reescreva o título, a descrição, o texto e as perguntas frequentes.",
+				"Confira se as fotos dos produtos podem ser usadas.",
+			];
+			for (const step of steps) {
+				const item = document.createElement("li");
+				item.textContent = step;
+				list.append(item);
+			}
+			result.append(list);
+			const actions = document.createElement("div");
+			actions.className = "flex flex-wrap gap-2";
+			const post = document.createElement("a");
+			post.href = `/admin/posts/${imported.slug}`;
+			post.className = button.className;
+			post.textContent = "Abrir o rascunho";
+			const products = document.createElement("a");
+			products.href = `/admin/products/${imported.list}`;
+			products.className = "inline-flex items-center justify-center gap-1 rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-800";
+			products.textContent = "Abrir a lista de produtos";
+			actions.append(post, products);
+			result.append(actions);
+			result.hidden = false;
+		} catch (cause) {
+			const alert = document.createElement("ul");
+			alert.role = "alert";
+			alert.className = "space-y-1 rounded-lg border border-red-300 bg-red-50 px-4 py-3 dark:border-red-900 dark:bg-red-950";
+			for (const message of messagesOf(cause)) {
+				const item = document.createElement("li");
+				item.className = "text-sm text-red-700 dark:text-red-300";
+				item.textContent = message;
+				alert.append(item);
+			}
+			messages.append(alert);
+		} finally {
+			button.disabled = false;
+			input.disabled = false;
+			button.textContent = "Iniciar importação";
+		}
+	});
+</script>

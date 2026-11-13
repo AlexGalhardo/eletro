@@ -1,0 +1,14 @@
+---
+import Lucide from "./Lucide.astro";
+
+interface Props {
+	name: string;
+	class?: string;
+}
+
+const { name, class: className = "" } = Astro.props;
+---
+
+<span data-cat-icon class:list={["inline-flex shrink-0", className]}>
+	<Lucide name={name} class="h-full w-full" />
+</span>

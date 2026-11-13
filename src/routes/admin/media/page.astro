@@ -1,0 +1,112 @@
+---
+import { ui } from "#lib/admin/api.ts";
+
+interface Props {
+	data: { folder: string; folders: string[]; images: string[] };
+}
+
+const { data } = Astro.props;
+const LABELS: Record<string, string> = { covers: "Capas", posts: "Produtos" };
+---
+
+<div class="flex flex-wrap items-center justify-between gap-3">
+	<h1 class="text-2xl font-bold">Mídia</h1>
+	<label class:list={[ui.primary, "cursor-pointer"]}>
+		<span data-upload-label>Enviar imagens</span>
+		<input data-upload data-folder={data.folder} type="file" multiple accept="image/webp,image/jpeg,image/png" class="sr-only" />
+	</label>
+</div>
+
+<nav aria-label="Pastas" class="mt-6 flex gap-2">
+	{
+		data.folders.map((folder) => (
+			<a
+				href={`/admin/media?folder=${folder}`}
+				aria-current={folder === data.folder ? "page" : undefined}
+				class:list={[ui.button, "aria-[current=page]:bg-gray-200 dark:aria-[current=page]:bg-zinc-800"]}
+			>
+				{LABELS[folder] ?? folder}
+			</a>
+		))
+	}
+</nav>
+
+<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">
+	WebP, JPEG ou PNG, até 4 MB. Capas em WebP 16:9. Uma imagem recém-enviada só carrega aqui depois do deploy.
+</p>
+<div data-media-messages class="mt-4"></div>
+
+<ul class="mt-4 grid grid-cols-2 gap-4 md:grid-cols-4">
+	{
+		data.images.map((url) => (
+			<li class:list={[ui.card, "p-2"]} data-media-card data-url={url}>
+				<img src={url} alt="" loading="lazy" class="aspect-video w-full rounded bg-gray-100 object-contain dark:bg-zinc-900" />
+				<p data-absolute class="mt-2 font-mono text-xs break-all"></p>
+				<button type="button" data-copy class:list={[ui.button, "mt-2 w-full"]}>Copiar link</button>
+			</li>
+		))
+	}
+	{
+		data.images.length === 0 && (
+			<li class="col-span-full py-6 text-center text-sm text-gray-500">Nenhuma imagem nesta pasta.</li>
+		)
+	}
+</ul>
+
+<dialog
+	data-copied
+	aria-labelledby="copied-title"
+	class="m-auto w-[min(28rem,calc(100%-2rem))] rounded-xl border border-gray-200 bg-white p-6 text-black backdrop:bg-black/50 dark:border-zinc-800 dark:bg-zinc-950 dark:text-white"
+>
+	<h2 id="copied-title" class="text-lg font-bold">Link copiado</h2>
+	<p data-copied-text class="mt-2 font-mono text-xs break-all"></p>
+	<form method="dialog" class="mt-4 text-right">
+		<button type="submit" class={ui.primary}>OK</button>
+	</form>
+</dialog>
+
+<script>
+	import { messagesOf, rememberNotice, takeNotice, uploadImage } from "#lib/admin/api.ts";
+
+	const input = document.querySelector<HTMLInputElement>("[data-upload]");
+	const messages = document.querySelector<HTMLElement>("[data-media-messages]");
+	const folder = input?.dataset.folder || "covers";
+	const stored = takeNotice();
+	if (stored && messages) messages.textContent = stored;
+	for (const card of document.querySelectorAll<HTMLElement>("[data-media-card]")) {
+		const absolute = new URL(card.dataset.url ?? "", location.origin).href;
+		const text = card.querySelector("[data-absolute]");
+		if (text) text.textContent = absolute;
+		card.querySelector("[data-copy]")?.addEventListener("click", async () => {
+			const dialog = document.querySelector<HTMLDialogElement>("[data-copied]");
+			const copied = document.querySelector<HTMLElement>("[data-copied-text]");
+			try {
+				await navigator.clipboard.writeText(absolute);
+				if (copied) copied.textContent = absolute;
+				dialog?.showModal();
+			} catch {
+				const box = document.querySelector<HTMLElement>("[data-media-messages]");
+				if (box) box.textContent = "O navegador não deixou copiar. Selecione o endereço e copie à mão.";
+			}
+		});
+	}
+
+	const label = document.querySelector<HTMLElement>("[data-upload-label]");
+	input?.addEventListener("change", async () => {
+		const files = [...(input.files ?? [])];
+		if (files.length === 0) return;
+		input.disabled = true;
+		if (label) label.textContent = "Enviando...";
+		try {
+			const urls: string[] = [];
+			for (const file of files) urls.push(await uploadImage(file, folder));
+			rememberNotice(`Enviado: ${urls.join(", ")}`);
+			location.reload();
+		} catch (cause) {
+			if (messages) messages.textContent = messagesOf(cause).join(" ");
+			input.disabled = false;
+			input.value = "";
+			if (label) label.textContent = "Enviar imagens";
+		}
+	});
+</script>

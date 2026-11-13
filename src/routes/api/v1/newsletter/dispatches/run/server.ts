@@ -1,10 +1,10 @@
-import { json } from "@sveltejs/kit";
+import { CRON_SECRET } from "#env";
 import { ApiError, respond, safeEqual } from "#lib/server/api.ts";
 import { getPost } from "#lib/server/content.ts";
 import { getDb } from "#lib/server/db/index.ts";
+import { json } from "#lib/server/http.ts";
 import { runDispatches } from "#lib/server/newsletter.ts";
 import { linkOrigin } from "#lib/server/origin.ts";
-import { CRON_SECRET } from "$app/env/private";
 
 const hasCronToken = (request: Request) => {
 	const token = request.headers.get("authorization")?.replace(/^Bearer\s+/i, "");

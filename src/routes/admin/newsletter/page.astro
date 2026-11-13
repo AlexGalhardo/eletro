@@ -1,0 +1,194 @@
+---
+import { ui } from "#lib/admin/api.ts";
+
+const SUBSCRIBER = { pending: "Aguardando confirmação", confirmed: "Confirmado", unsubscribed: "Saiu" } as const;
+const DISPATCH = { pending: "Na fila", sending: "Enviando", sent: "Enviado", failed: "Falhou" } as const;
+
+interface Dispatch {
+	slug: string;
+	status: keyof typeof DISPATCH;
+	recipients: number;
+	createdAt: string | null;
+	sentAt: string | null;
+	error?: string | null;
+}
+
+interface Subscriber {
+	email: string;
+	status: keyof typeof SUBSCRIBER;
+	createdAt: string | null;
+}
+
+interface Props {
+	data: {
+		totals: Partial<Record<keyof typeof SUBSCRIBER, number>>;
+		dispatches: Dispatch[];
+		subscribers: Subscriber[];
+	};
+}
+
+const { data } = Astro.props;
+const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").reverse().join("/") : "");
+---
+
+<div class="flex flex-wrap items-center justify-between gap-3">
+	<h1 class="text-2xl font-bold">Newsletter</h1>
+	<button type="button" data-send class={ui.primary}>Enviar fila agora</button>
+</div>
+<div data-news-messages class="mt-4"></div>
+
+<dl class="mt-6 grid grid-cols-3 gap-4">
+	{
+		Object.entries(SUBSCRIBER).map(([status, label]) => (
+			<div class={ui.card}>
+				<dt class="text-sm text-gray-600 dark:text-gray-400">{label}</dt>
+				<dd class="mt-1 text-3xl font-bold">{data.totals[status as keyof typeof SUBSCRIBER] ?? 0}</dd>
+			</div>
+		))
+	}
+</dl>
+
+<section class="mt-8">
+	<h2 class="text-lg font-bold">Envios</h2>
+	<p class="mt-1 text-sm text-gray-600 dark:text-gray-400">
+		Um envio sai da fila quando o post já está no ar. Cada assinante recebe um post uma única vez.
+	</p>
+	<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
+		<table class="w-full text-left text-sm">
+			<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+				<tr>
+					<th scope="col" class="px-4 py-2 font-medium">Post</th>
+					<th scope="col" class="px-4 py-2 font-medium">Status</th>
+					<th scope="col" class="px-4 py-2 font-medium">Destinatários</th>
+					<th scope="col" class="px-4 py-2 font-medium">Pedido</th>
+					<th scope="col" class="px-4 py-2 font-medium">Enviado</th>
+					<th scope="col" class="px-4 py-2 font-medium"><span class="sr-only">Ações</span></th>
+				</tr>
+			</thead>
+			<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+				{
+					data.dispatches.map((dispatch) => (
+						<tr>
+							<td class="px-4 py-2">
+								<a href={`/admin/posts/${dispatch.slug}`} class="font-medium hover:underline">{dispatch.slug}</a>
+								{dispatch.error && <span class="block text-xs text-red-600 dark:text-red-400">{dispatch.error}</span>}
+							</td>
+							<td class="px-4 py-2 whitespace-nowrap">{DISPATCH[dispatch.status]}</td>
+							<td class="px-4 py-2">{dispatch.recipients}</td>
+							<td class="px-4 py-2 whitespace-nowrap">{day(dispatch.createdAt)}</td>
+							<td class="px-4 py-2 whitespace-nowrap">{day(dispatch.sentAt)}</td>
+							<td class="px-4 py-2 text-right">
+								{(dispatch.status === "failed" || dispatch.status === "sending") && (
+									<button type="button" data-retry={dispatch.slug} aria-label={`Tentar de novo o envio de ${dispatch.slug}`} class={ui.button}>
+										Tentar de novo
+									</button>
+								)}
+							</td>
+						</tr>
+					))
+				}
+				{data.dispatches.length === 0 && (
+					<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum envio pedido.</td></tr>
+				)}
+			</tbody>
+		</table>
+	</div>
+</section>
+
+<section class="mt-8">
+	<h2 class="text-lg font-bold">Assinantes</h2>
+	<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
+		<table class="w-full text-left text-sm">
+			<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+				<tr>
+					<th scope="col" class="px-4 py-2 font-medium">E-mail</th>
+					<th scope="col" class="px-4 py-2 font-medium">Status</th>
+					<th scope="col" class="px-4 py-2 font-medium">Desde</th>
+				</tr>
+			</thead>
+			<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+				{
+					data.subscribers.map((item) => (
+						<tr>
+							<td class="px-4 py-2">{item.email}</td>
+							<td class="px-4 py-2 whitespace-nowrap">{SUBSCRIBER[item.status]}</td>
+							<td class="px-4 py-2 whitespace-nowrap">{day(item.createdAt)}</td>
+						</tr>
+					))
+				}
+				{data.subscribers.length === 0 && (
+					<tr><td colspan="3" class="px-4 py-6 text-center text-gray-500">Nenhum assinante ainda.</td></tr>
+				)}
+			</tbody>
+		</table>
+	</div>
+</section>
+
+<script>
+	import { api, messagesOf, rememberNotice, takeNotice } from "#lib/admin/api.ts";
+
+	const box = document.querySelector<HTMLElement>("[data-news-messages]");
+	const send = document.querySelector<HTMLButtonElement>("[data-send]");
+	const retries = [...document.querySelectorAll<HTMLButtonElement>("[data-retry]")];
+	let busy = false;
+	const stored = takeNotice();
+	if (stored) report([], stored);
+
+	function report(errors: string[], success = ""): void {
+		if (!box) return;
+		box.replaceChildren();
+		if (errors.length === 0 && !success) return;
+		const node = document.createElement(errors.length > 0 ? "ul" : "p");
+		node.className = errors.length > 0 ? "text-sm text-red-700" : "text-sm text-green-800";
+		node.textContent = errors.length > 0 ? errors.join(" ") : success;
+		box.append(node);
+	}
+
+	function setBusy(value: boolean): void {
+		busy = value;
+		if (send) {
+			send.disabled = value;
+			send.textContent = value ? "Aguarde..." : "Enviar fila agora";
+		}
+		for (const button of retries) button.disabled = value;
+	}
+
+	async function act(run: () => Promise<string>): Promise<void> {
+		if (busy) return;
+		setBusy(true);
+		report([]);
+		try {
+			rememberNotice(await run());
+			location.reload();
+		} catch (cause) {
+			report(messagesOf(cause));
+			setBusy(false);
+		}
+	}
+
+	send?.addEventListener("click", () =>
+		act(async () => {
+			const results = await api<{ slug: string; status: string; recipients: number }[]>("POST", "/newsletter/dispatches/run");
+			if (results.length === 0) return "Não há envio na fila.";
+			return results
+				.map(({ slug, status, recipients }) =>
+					status === "sent"
+						? `${slug}: enviado para ${recipients} assinante(s).`
+						: status === "waiting"
+							? `${slug}: o post ainda não está no ar.`
+							: `${slug}: falhou depois de ${recipients} envio(s).`,
+				)
+				.join(" ");
+		}),
+	);
+
+	for (const button of document.querySelectorAll<HTMLButtonElement>("[data-retry]")) {
+		button.addEventListener("click", () =>
+			act(async () => {
+				const slug = button.dataset.retry ?? "";
+				await api("POST", "/newsletter/dispatches", { slug });
+				return `${slug} voltou para a fila. Use "Enviar fila agora".`;
+			}),
+		);
+	}
+</script>

@@ -1,9 +1,9 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { slugSchema } from "#lib/content/schema.ts";
 import { parseBody, requireAdmin, respond } from "#lib/server/api.ts";
 import { getPost, NotFoundError, ValidationError } from "#lib/server/cms.ts";
 import { getDb } from "#lib/server/db/index.ts";
+import { json } from "#lib/server/http.ts";
 import { requestDispatch } from "#lib/server/newsletter.ts";
 import { getStore } from "#lib/server/store/index.ts";
 

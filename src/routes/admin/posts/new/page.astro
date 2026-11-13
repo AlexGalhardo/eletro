@@ -1,0 +1,23 @@
+---
+import PostEditor from "#lib/admin/PostEditor.astro";
+import { site } from "#lib/site.config.ts";
+
+interface Props {
+	data: { lists: string[]; covers: string[]; kind: "github" | "local" };
+}
+
+const { data } = Astro.props;
+const post = {
+	title: "",
+	description: "",
+	date: new Date().toISOString().slice(0, 10),
+	category: site.categories[0]?.id ?? "cozinha",
+	cover: "",
+	draft: false,
+	author: site.defaultAuthor,
+	faqData: [],
+	body: "",
+};
+---
+
+<PostEditor post={post} lists={data.lists} covers={data.covers} kind={data.kind} />
