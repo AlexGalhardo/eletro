@@ -441,6 +441,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 | 2026-11-10 | Remover o Svelte: site e painel em Astro puro, com TypeScript | Decisão do dono; o projeto fica só com Astro e pacotes agnósticos (fase "Astro puro") |
 | 2026-11-10 | Importação em lote copia só fatos (nomes, fichas, fotos de produto); texto sempre original, em sequência e com pausa | Mesmo critério do importador unitário; não sobrecarregar a origem |
 | 2026-11-10 | Flags de navegador em `localStorage`; prévia de rascunho em `/preview/<slug>` no GitHub Pages | Pages não tem login, mas os rascunhos já são públicos no repositório: a prévia não expõe nada novo |
+| 2026-11-13 | Releases públicas reagrupadas em 0.1.0 a 0.10.0, com os commits de cada uma linkados no changelog | O repositório ficou público. As tags antigas saem. O histórico de commits fica, para os links continuarem válidos |
 
 ## Pendências do dono
 
