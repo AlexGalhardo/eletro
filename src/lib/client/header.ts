@@ -195,6 +195,7 @@ export function initHeader(posts: SearchItem[]): void {
 		});
 		input.addEventListener("keydown", onKeydown);
 		input.addEventListener("focus", () => {
+			input.select();
 			if (term.length >= 3 && found().length > 0) {
 				open = true;
 				render();

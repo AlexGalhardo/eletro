@@ -4,6 +4,7 @@ export interface RepoFile {
 	sha: string;
 	type: "file" | "dir";
 	content?: string;
+	download_url?: string;
 }
 
 const api = "https://api.github.com";

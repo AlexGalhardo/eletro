@@ -1,10 +1,15 @@
 ---
+import { referencedLists } from "#lib/content/parse.ts";
+import { getBundledPostSources } from "#lib/server/content.ts";
 import { site } from "#lib/site.config.ts";
 
 const repo = site.githubRepo;
+const postLinks = Object.fromEntries(
+	[...getBundledPostSources()].map(([slug, raw]) => [slug, referencedLists(raw)]),
+);
 ---
 
-<div data-pages-cms data-repo={repo} class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:py-12">
+<div data-pages-cms data-repo={repo} data-post-links={JSON.stringify(postLinks)} class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:py-12">
 	<header data-workspace-header hidden class="mb-8 flex flex-wrap items-center justify-between gap-4 border-b border-gray-200 pb-6 dark:border-zinc-800">
 		<div>
 			<a href="/" class="text-sm font-semibold text-blue-700 hover:underline dark:text-blue-400">← Voltar ao site</a>
@@ -13,7 +18,10 @@ const repo = site.githubRepo;
 				Edite os arquivos do blog. O painel salva em uma branch e abre um PR para revisão antes da publicação.
 			</p>
 		</div>
-		<button type="button" data-logout hidden class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Sair</button>
+		<div class="flex items-center gap-2">
+			<button type="button" data-theme-toggle aria-label="Alternar tema" class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900"><span class="dark:hidden">Tema escuro</span><span class="hidden dark:inline">Tema claro</span></button>
+			<button type="button" data-logout hidden class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Sair</button>
+		</div>
 	</header>
 
 	<section data-login class="mx-auto mt-16 max-w-sm rounded-2xl border border-gray-200 bg-white p-6 shadow-sm dark:border-zinc-800 dark:bg-zinc-950 sm:p-8">
@@ -35,7 +43,7 @@ const repo = site.githubRepo;
 			<div class="mt-5 border-t border-gray-200 pt-4 dark:border-zinc-800">
 				<label for="file-search" class="text-xs font-semibold">Buscar arquivo</label>
 				<input id="file-search" type="search" placeholder="Nome do arquivo" class="mt-2 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm dark:border-zinc-700 dark:bg-zinc-900" />
-				<ul data-files class="mt-3 max-h-96 space-y-1 overflow-auto text-sm"></ul>
+				<ul data-files class="cms-scroll mt-3 h-96 space-y-1 overflow-y-scroll text-sm"></ul>
 			</div>
 		</aside>
 		<div class="min-w-0 space-y-6">
@@ -47,13 +55,32 @@ const repo = site.githubRepo;
 					</div>
 					<button type="button" data-new class="rounded-lg border border-gray-300 px-3 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Novo arquivo</button>
 				</div>
+					<div data-post-fields hidden class="mt-6 space-y-4 border-t border-gray-200 pt-5 dark:border-zinc-800">
+						<div class="grid gap-4 sm:grid-cols-2">
+							<label class="text-sm font-semibold">Slug<input data-post-field="slug" required pattern="[a-z0-9]+(-[a-z0-9]+)*" class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900" /></label>
+							<label class="text-sm font-semibold">Data de publicação<input data-post-field="date" type="date" required class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900" /></label>
+						</div>
+						<label class="block text-sm font-semibold">Título<input data-post-field="title" required class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900" /></label>
+						<label class="block text-sm font-semibold">Descrição<input data-post-field="description" class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900" /></label>
+						<div class="grid gap-4 sm:grid-cols-3">
+							<label class="text-sm font-semibold">Categoria<select data-post-field="category" class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900">{site.categories.map((category) => <option value={category.id}>{category.label}</option>)}</select></label>
+							<label class="text-sm font-semibold">Autor<select data-post-field="author" class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900">{Object.entries(site.authors).map(([id, author]) => <option value={id}>{author.name}</option>)}</select></label>
+							<label class="flex items-end gap-2 pb-2 text-sm font-semibold"><input data-post-field="draft" type="checkbox" class="h-4 w-4" /> Rascunho</label>
+						</div>
+						<label class="block text-sm font-semibold">Capa<input data-post-field="cover" placeholder="/images/covers/arquivo.webp" class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900" /></label>
+						<img data-cover-preview alt="Prévia da capa" hidden class="aspect-video max-h-56 w-full rounded-lg border border-gray-200 bg-gray-50 object-contain dark:border-zinc-700 dark:bg-zinc-900" />
+						<div class="flex flex-wrap items-end gap-2 border-t border-gray-200 pt-4 dark:border-zinc-800"><label class="min-w-52 flex-1 text-sm font-semibold">Lista de produtos<select data-product-choice class="mt-1 block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900"><option value="">Escolha um JSON</option></select></label><button type="button" data-link-product class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Vincular lista</button></div>
+					</div>
 				<label for="editor" class="mt-6 block text-sm font-semibold">Conteúdo MDX ou JSON</label>
-				<textarea id="editor" data-editor rows="22" spellcheck="false" class="mt-2 w-full rounded-lg border border-gray-300 bg-gray-50 p-4 font-mono text-sm leading-6 focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-600/30 dark:border-zinc-700 dark:bg-zinc-900"></textarea>
+					<textarea id="editor" data-editor rows="22" spellcheck="false" class="cms-scroll mt-2 w-full rounded-lg border border-gray-300 bg-gray-50 p-4 font-mono text-sm leading-6 focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-600/30 dark:border-zinc-700 dark:bg-zinc-900"></textarea>
+					<div data-content-images class="mt-4 flex flex-wrap gap-2"></div>
+					<div data-relations class="mt-4 text-sm"></div>
 				<div class="mt-4 flex flex-wrap items-center gap-3">
 					<button type="button" data-save class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-bold text-white hover:bg-blue-800 disabled:opacity-50">Salvar no GitHub</button>
 					<span class="text-xs text-gray-500">Revise o conteúdo antes de publicar. O build valida MDX e JSON.</span>
 				</div>
 			</section>
+				<section data-image-panel hidden class="rounded-2xl border border-gray-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950 sm:p-7"><h2 class="text-xl font-bold">Prévia da imagem</h2><p data-image-path class="mt-2 break-all text-sm text-gray-500"></p><img data-image-detail alt="Imagem selecionada" class="mt-4 max-h-[28rem] w-full rounded-lg border border-gray-200 bg-gray-50 object-contain dark:border-zinc-700 dark:bg-zinc-900" /><button type="button" data-use-cover hidden class="mt-4 rounded-lg bg-blue-700 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-800">Usar como capa</button></section>
 			<section class="rounded-2xl border border-gray-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950 sm:p-7">
 				<h2 class="text-xl font-bold">Enviar imagem</h2>
 				<p class="mt-2 text-sm text-gray-600 dark:text-gray-400">PNG, JPEG ou WebP até 4 MB. O arquivo é salvo em <code>static/images/</code>.</p>
@@ -66,12 +93,21 @@ const repo = site.githubRepo;
 					</label>
 					<button type="submit" class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Enviar</button>
 				</form>
+					<div data-upload-preview hidden class="mt-4"><p data-upload-name class="mb-2 break-all text-sm text-gray-600 dark:text-gray-300"></p><img data-upload-image alt="Prévia da imagem para upload" class="max-h-64 w-full rounded-lg border border-gray-200 bg-gray-50 object-contain dark:border-zinc-700 dark:bg-zinc-900" /></div>
 			</section>
 		</div>
 	</section>
 	<p data-message role="status" aria-live="polite" class="mx-auto mt-5 max-w-2xl text-center text-sm font-medium"></p>
 	<p class="mt-3 text-center"><a data-review href="https://github.com" hidden target="_blank" rel="noopener noreferrer" class="text-sm font-semibold text-blue-700 underline dark:text-blue-400">Abrir pull request no GitHub</a></p>
 </div>
+
+<style>
+	:global(html:has([data-pages-cms])) { overflow-y: scroll; scrollbar-gutter: stable; }
+	:global(html:has([data-pages-cms])) ::-webkit-scrollbar { width: 12px; height: 12px; }
+	:global(html:has([data-pages-cms])) ::-webkit-scrollbar-track { background: #e9e4d7; }
+	:global(html:has([data-pages-cms])) ::-webkit-scrollbar-thumb { background: #8392a6; border: 2px solid #e9e4d7; border-radius: 8px; }
+	.cms-scroll { scrollbar-width: auto; scrollbar-gutter: stable; scrollbar-color: #8392a6 #e9e4d7; }
+</style>
 
 <script>
 	import { initPagesCms } from "#lib/admin/pages-cms.ts";
