@@ -6,6 +6,8 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-11-13
+
 ### Added
 
 - Painel editorial estático no GitHub Pages, com token fine-grained, edição de MDX e JSON, upload de imagem e PR para revisão.
@@ -20,6 +22,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - Ícone e favicon SVG próprios, marca em Space Grotesk e fundo de papel com navbar e rodapé no mesmo tom.
 - Contato usa e-mail e o rodapé deixou de oferecer inscrição que não funciona no Pages.
 - Instruções de agentes ficam em `.agents/`; documentação foi consolidada e releases são feitas somente a pedido.
+
+### Commits
+
+- [9dcb638](https://github.com/AlexGalhardo/eletro/commit/9dcb638) — CMS estático, redesign, CI e fluxo por PR.
+- [87ba6b1](https://github.com/AlexGalhardo/eletro/commit/87ba6b1) — restauração dos prompts de conteúdo.
+- [bee9e9f](https://github.com/AlexGalhardo/eletro/commit/bee9e9f) — entrada com senha e credencial criptografada.
 
 ## [0.10.0] - 2026-11-13
 
@@ -446,7 +454,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...HEAD
+[0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
 [0.9.0]: https://github.com/AlexGalhardo/eletro/compare/v0.8.0...v0.9.0
 [0.8.0]: https://github.com/AlexGalhardo/eletro/compare/v0.7.0...v0.8.0
