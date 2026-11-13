@@ -16,5 +16,8 @@
 		bar.style.width = `${progress}%`;
 	};
 	window.addEventListener("scroll", update, { passive: true });
+	window.addEventListener("resize", update);
+	// Home reveals more cards without a scroll event. The bar has to follow the new page height.
+	new ResizeObserver(update).observe(document.documentElement);
 	update();
 </script>

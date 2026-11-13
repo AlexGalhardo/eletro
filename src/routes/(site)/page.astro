@@ -1,6 +1,7 @@
 ---
 import CategoryIcon from "#lib/components/CategoryIcon.astro";
 import CookieBanner from "#lib/components/CookieBanner.astro";
+import ReadingProgress from "#lib/components/ReadingProgress.astro";
 import { coverSrcset } from "#lib/content/cover.ts";
 import type { Post } from "#lib/content/schema.ts";
 import { formatDate } from "#lib/format.ts";
@@ -32,6 +33,7 @@ const button =
 	"flex w-full cursor-pointer items-center gap-1.5 rounded-lg border px-3 py-2 text-xs font-semibold tracking-wide uppercase transition-colors duration-200";
 ---
 
+<ReadingProgress />
 <CookieBanner />
 
 <main data-home class="min-h-screen bg-gray-50 text-black dark:bg-black dark:text-white">
