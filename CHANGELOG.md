@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.11.1] - 2026-11-13
+
+### Fixed
+
+- O rodapé separa a frase da marca do texto seguinte, e o aviso de afiliados do restante. ([754f201](https://github.com/AlexGalhardo/eletro/commit/754f2013247e7617d96b871d92379bd5cd4572e0))
+
 ## [0.11.0] - 2026-11-13
 
 ### Added
@@ -448,7 +454,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.1...HEAD
+[0.11.1]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...v0.11.1
 [0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
 [0.9.0]: https://github.com/AlexGalhardo/eletro/compare/v0.8.0...v0.9.0
