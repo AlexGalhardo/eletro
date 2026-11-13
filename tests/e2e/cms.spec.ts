@@ -1,15 +1,24 @@
+import { sealCredential } from "../../src/lib/admin/credential.ts";
 import { expect, test } from "./test.ts";
 
 test("post, product and media routes render the static editor sign-in", async ({ page }) => {
 	for (const path of ["/admin/posts", "/admin/products", "/admin/media"]) {
 		await page.goto(path);
-		await expect(page.getByRole("heading", { level: 1 })).toContainText("Painel editorial");
-		await expect(page.getByLabel("Token do GitHub")).toBeVisible();
+		await expect(page.getByLabel("Credencial de acesso")).toBeVisible();
+		await expect(page.getByRole("button", { name: "Login" })).toBeVisible();
 	}
 });
 
-test("saving JSON creates a branch and pull request", async ({ page }) => {
+test("password login and saving JSON create a branch and pull request", async ({ page }) => {
 	const calls: string[] = [];
+	const password = "a long private admin passphrase";
+	await page.route("**/admin-credential.json", async (route) => {
+		await route.fulfill({
+			status: 200,
+			contentType: "application/json",
+			body: JSON.stringify(await sealCredential("test-token", password)),
+		});
+	});
 	await page.route("https://api.github.com/**", async (route) => {
 		const request = route.request();
 		const url = new URL(request.url());
@@ -47,8 +56,9 @@ test("saving JSON creates a branch and pull request", async ({ page }) => {
 		await route.fulfill({ status: 200, contentType: "application/json", body: JSON.stringify(body) });
 	});
 	await page.goto("/admin");
-	await page.getByLabel("Token do GitHub").fill("test-token");
-	await page.getByRole("button", { name: "Abrir painel" }).click();
+	await page.getByLabel("Credencial de acesso").fill(password);
+	await page.getByRole("button", { name: "Login" }).click();
+	await expect(page.getByRole("heading", { name: "Painel editorial" })).toBeVisible();
 	await page.getByRole("button", { name: "Configuração JSON" }).click();
 	await page.getByRole("button", { name: "flags.json" }).click();
 	await page.getByLabel("Conteúdo MDX ou JSON").fill('{"previewDrafts":true}');

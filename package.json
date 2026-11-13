@@ -10,7 +10,7 @@
 	},
 	"scripts": {
 		"dev": "astro dev",
-		"build": "bun scripts/check-env.ts && bun scripts/sync-links.ts && bun scripts/cover-variants.ts && astro build",
+		"build": "bun scripts/check-env.ts && bun scripts/sync-links.ts && bun scripts/cover-variants.ts && astro build && bun scripts/seal-admin-credential.ts",
 		"check-env": "bun scripts/check-env.ts",
 		"sync-links": "bun scripts/sync-links.ts",
 		"post-status": "bun scripts/post-status.ts",

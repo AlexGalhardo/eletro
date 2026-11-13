@@ -2,10 +2,12 @@ import { expect, test } from "./test.ts";
 
 test.describe("admin access", () => {
 	for (const path of ["/admin", "/admin/posts", "/admin/login"]) {
-		test(`anonymous visitor on ${path} sees the GitHub token form`, async ({ page }) => {
+		test(`anonymous visitor on ${path} sees the minimal login form`, async ({ page }) => {
 			await page.goto(path);
-			await expect(page.getByRole("heading", { level: 1 })).toContainText("Painel editorial");
-			await expect(page.getByLabel("Token do GitHub")).toBeVisible();
+			await expect(page.getByLabel("Credencial de acesso")).toBeVisible();
+			await expect(page.getByRole("button", { name: "Login" })).toBeVisible();
+			await expect(page.getByRole("heading", { name: "Painel editorial" })).toBeHidden();
+			await expect(page.getByText("AlexGalhardo/eletro")).toHaveCount(0);
 			await expect(page.getByRole("button", { name: "Salvar no GitHub" })).toBeHidden();
 		});
 	}
