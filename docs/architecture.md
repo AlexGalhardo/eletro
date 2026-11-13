@@ -77,7 +77,7 @@ docs/                       esta documentação
 
 1. No build, `src/lib/server/content.ts` importa todos os `.mdx` como texto (`import.meta.glob` com `?raw`), valida o frontmatter com zod e monta a lista de posts publicados.
 2. `src/pages/[slug].astro` gera uma página por post publicado. `renderPostBody` quebra o Markdown em HTML e em ilhas `<CardsTable>`.
-3. `src/routes/(site)/[slug]/page.astro` recebe esses trechos e renderiza o `<CardsTable>` com a lista do trecho. No desktop o texto ocupa três quartos da largura e uma coluna à direita lista até sete outras postagens (a mesma categoria primeiro). No celular essa lista fica abaixo do texto.
+3. `src/routes/(site)/[slug]/page.astro` recebe esses trechos e renderiza o `<CardsTable>` com a lista do trecho. No desktop o texto ocupa três quartos da largura e uma coluna à direita lista até cinco outras postagens, com a capa em cima e o texto embaixo (a mesma categoria primeiro). No celular essa lista fica abaixo do texto.
 
 O resultado é HTML estático em `dist/`.
 

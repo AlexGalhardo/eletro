@@ -10,7 +10,7 @@ export type RecommendationSource = {
 export function recommendedPosts<T extends RecommendationSource>(
 	posts: readonly T[],
 	current: RecommendationSource,
-	limit = 7,
+	limit = 5,
 ): T[] {
 	const others = posts.filter((post) => post.slug !== current.slug);
 	const sameCategory = others.filter((post) => post.category === current.category);

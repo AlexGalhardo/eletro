@@ -16,6 +16,11 @@ describe("recommendedPosts", () => {
 		expect(recommendedPosts(posts, home, 3).map((post) => post.slug)).toEqual(["a", "b", "d"]);
 	});
 
+	it("keeps five posts when no limit is given", () => {
+		const many = Array.from({ length: 8 }, (_, index) => ({ slug: String(index), category: "cozinha" }));
+		expect(recommendedPosts(many, { slug: "x", category: "casa" })).toHaveLength(5);
+	});
+
 	it("returns nothing when the current post is the only one", () => {
 		expect(recommendedPosts([kitchen], kitchen)).toEqual([]);
 	});
