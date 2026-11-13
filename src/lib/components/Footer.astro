@@ -1,6 +1,5 @@
 ---
 import { site } from "#lib/site.config.ts";
-import NewsletterForm from "./NewsletterForm.astro";
 
 interface Props {
 	activeCategories?: string[];
@@ -22,14 +21,14 @@ const link =
 	"text-sm font-semibold text-gray-800 transition-colors hover:text-blue-600 dark:text-gray-200 dark:hover:text-blue-400";
 ---
 
-<footer class="mt-6 border-t border-gray-200 bg-gray-100 dark:border-zinc-800 dark:bg-black">
+<footer class="mt-6 border-t border-gray-200 bg-[#EEEADF] dark:border-zinc-800 dark:bg-black">
 	<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
 		<div class="grid grid-cols-2 gap-x-8 gap-y-10 py-12 md:grid-cols-12">
 			<div class="col-span-2 md:col-span-5">
 				<a href="/" class="inline-flex items-center gap-2 transition-opacity hover:opacity-80">
 					<img src={site.logo} alt="" width="36" height="36" loading="lazy" />
-					<span class="font-russo-one text-lg leading-none text-black uppercase dark:text-white">
-						{site.logoText[0]}<span class="text-green-800 dark:text-green-500">{` ${site.logoText[1]}`}</span>
+					<span class="font-brand text-xl leading-none font-bold tracking-tight text-[#102D56] dark:text-[#B9DDF6]">
+						{site.logoText[0]}<span class="text-[#148A68] dark:text-[#8CE0BD]">{site.logoText[1]}</span>
 					</span>
 				</a>
 				<p class="mt-4 max-w-md text-sm! leading-relaxed text-gray-700 dark:text-gray-300">
@@ -82,10 +81,6 @@ const link =
 					}
 				</ul>
 			</nav>
-		</div>
-
-		<div class="border-t border-gray-200 py-8 dark:border-zinc-800">
-			<NewsletterForm />
 		</div>
 
 		<div class="border-t border-gray-200 py-6 dark:border-zinc-800">

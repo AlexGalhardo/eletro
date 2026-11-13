@@ -1,14 +1,9 @@
 import { open } from "./env.ts";
 import { expect, test } from "./test.ts";
 
-test("the footer form reports that the static host cannot subscribe", async ({ page }) => {
+test("the static footer does not offer a nonfunctional signup", async ({ page }) => {
 	await open(page, "/");
-	await page.getByLabel("Receba as novas análises por e-mail").fill("leitor@example.com");
-	await page.getByRole("button", { name: "Inscrever" }).click();
-
-	await expect(
-		page.getByText("Não foi possível inscrever agora. Confira o e-mail e tente de novo."),
-	).toBeVisible();
+	await expect(page.getByLabel("Receba as novas análises por e-mail")).toHaveCount(0);
 });
 
 test("confirmation and unsubscribe pages render and refuse a token the host cannot check", async ({
@@ -33,6 +28,6 @@ test("newsletter pages stay out of search engines", async ({ request }) => {
 test("the newsletter screen renders the login gate", async ({ page }) => {
 	await page.goto("/admin/newsletter");
 
-	await expect(page.getByRole("heading", { level: 1 })).toContainText("Admin");
+	await expect(page.getByRole("heading", { level: 1 })).toContainText("Painel editorial");
 	await expect(page.getByRole("button", { name: "Enviar fila agora" })).toHaveCount(0);
 });

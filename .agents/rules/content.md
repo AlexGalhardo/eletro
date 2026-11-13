@@ -9,5 +9,5 @@ O formato dos arquivos (campos, exemplos, componentes, imagens) está em `docs/c
 - Não use chaves `{` `}` no texto do post: a validação do corpo recusa. O único componente no Markdown é `<CardsTable list="..." />`, separado do HTML pelo `renderPostBody`.
 - Imagem local referenciada precisa existir em `static/images/`: o site é pré-renderizado e um arquivo ausente derruba o build.
 - Depois de mudar `content/posts` ou `content/products`, rode `bun run post-status` e commite `docs/post-status.md`. O teste falha se ele ficar velho.
-- Rascunho pode ser revisto em `/preview/<slug>` (com `previewDrafts` ligado em `content/flags.json`) e na lista de `/admin/flags`. A prévia é `noindex` e não aparece em buscadores; ver `docs/feature-flags.md`.
+- Rascunho pode ser revisto em `/preview/<slug>` (com `previewDrafts` ligado em `content/flags.json`) e na lista de `/admin/flags`. A prévia é `noindex` e não aparece em buscadores; ver `docs/content.md`.
 - Mudou o formato do conteúdo? Atualize o schema (`src/lib/content/schema.ts`), os testes de integração e `docs/content.md` juntos.

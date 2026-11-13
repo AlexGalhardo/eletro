@@ -6,40 +6,18 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
-## [0.13.0] - 2026-11-13
+### Added
+
+- Painel editorial estático no GitHub Pages, com token fine-grained, edição de MDX e JSON, upload de imagem e PR para revisão.
+- Coluna de outras postagens no artigo, filtro e contagem de categorias na home, além da barra de leitura.
+- CI em PR, proteção da `main` e uso do UI SDK nas interações acessíveis.
 
 ### Changed
 
-- Os cards de outras postagens mostram a capa em cima e o texto embaixo. A data fica pequena, só com o dia, o mês e o ano, e a lista passa a ter cinco cards. ([2cd7b79](https://github.com/AlexGalhardo/eletro/commit/2cd7b79f45f957ad51eec78d891e6dd3cb026dbf))
-
-## [0.12.0] - 2026-11-13
-
-### Added
-
-- A barra de progresso da leitura também aparece na página inicial. ([06820f2](https://github.com/AlexGalhardo/eletro/commit/06820f2ed314fce565971cb734aa5d89c6793e03))
-
-## [0.11.1] - 2026-11-13
-
-### Fixed
-
-- O rodapé separa a frase da marca do texto seguinte, e o aviso de afiliados do restante. ([754f201](https://github.com/AlexGalhardo/eletro/commit/754f2013247e7617d96b871d92379bd5cd4572e0))
-
-## [0.11.0] - 2026-11-13
-
-### Added
-
-- A página do post mostra sete outras postagens numa coluna à direita. No celular a lista fica abaixo do texto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-
-### Changed
-
-- O texto do post ocupa três quartos da largura e a coluna de outras postagens ocupa um quarto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- A newsletter e o aviso de afiliados ficam no centro do rodapé. As categorias do rodapé se dividem em duas colunas iguais. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- A barra lateral da home mostra, à direita de cada categoria, quantos posts ela tem. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- Os rótulos em negrito da ficha técnica dos produtos ficam menores. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- As setas da busca acompanham o resultado destacado quando a lista passa da área visível. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- A barra de rolagem padrão do navegador deixa de aparecer nas páginas. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- O site e o painel passam a ser só Astro e TypeScript. O runtime Svelte saiu do projeto. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
-- Cada mudança lógica fica no próprio commit. Uma linha nova do changelog só entra com o link do microcommit, e a release recusa linha sem esse link. ([5260ae9](https://github.com/AlexGalhardo/eletro/commit/5260ae99a50829c5ce7d45aa1579aee8d3a0fbf8))
+- Home e tipografia têm hierarquia mais clara; cartões e rodapé foram refinados.
+- Ícone e favicon SVG próprios, marca em Space Grotesk e fundo de papel com navbar e rodapé no mesmo tom.
+- Contato usa e-mail e o rodapé deixou de oferecer inscrição que não funciona no Pages.
+- Instruções de agentes ficam em `.agents/`; documentação foi consolidada e releases são feitas somente a pedido.
 
 ## [0.10.0] - 2026-11-13
 
@@ -466,11 +444,7 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.13.0...HEAD
-[0.13.0]: https://github.com/AlexGalhardo/eletro/compare/v0.12.0...v0.13.0
-[0.12.0]: https://github.com/AlexGalhardo/eletro/compare/v0.11.1...v0.12.0
-[0.11.1]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...v0.11.1
-[0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...HEAD
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
 [0.9.0]: https://github.com/AlexGalhardo/eletro/compare/v0.8.0...v0.9.0
 [0.8.0]: https://github.com/AlexGalhardo/eletro/compare/v0.7.0...v0.8.0

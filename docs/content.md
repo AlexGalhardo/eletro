@@ -1,5 +1,11 @@
 # Conteúdo
 
+O conteúdo publicado pelo painel estático é salvo numa branch `cms/*` e revisado em PR. O build do PR valida posts, produtos e imagens antes do merge. O editor de `/admin` trabalha com MDX e JSON em texto.
+
+## Flags e prévias
+
+Os padrões do build ficam em `content/flags.json`. `/admin/flags` mostra o status dos posts e permite trocar flags de navegador apenas na aba local. `previewDrafts` gera `/preview/<slug>` para rascunhos; essas páginas têm `noindex` e não entram no sitemap. `showDrafts` pode exibir rascunhos no site, mas não os coloca na API pública nem no sitemap.
+
 ## Post
 
 Arquivo: `content/posts/<slug>.mdx`. O slug é o nome do arquivo e vira a URL `/<slug>`.
@@ -81,7 +87,7 @@ Arquivo: `content/products/<lista>.json`, um array de produtos.
 |---|---|
 | `<CardsTable list="<lista>" />` | Cartões dos produtos da lista. `shuffle={false}` mantém a ordem do arquivo |
 
-Com a flag `allStoreButtons` ligada no navegador ([feature-flags.md](feature-flags.md)), o `CardsTable` mostra os três botões mesmo com link `"#"`; o botão sem link real aponta para a oferta padrão.
+Com a flag `allStoreButtons` ligada no navegador ([content.md](content.md)), o `CardsTable` mostra os três botões mesmo com link `"#"`; o botão sem link real aponta para a oferta padrão.
 
 Para criar um componente novo: adicione o arquivo `.astro` em `src/lib/components/`, aceite o nome em `CONTENT_COMPONENTS` (`src/lib/content/validate-body.ts`) e documente nesta tabela. O `renderPostBody` é quem insere o componente no HTML.
 
@@ -108,4 +114,4 @@ Para criar um componente novo: adicione o arquivo `.astro` em `src/lib/component
 
 - `draft: true` e data futura ficam fora do site. Com `previewDrafts` ligado em `content/flags.json`, o build gera `/preview/<slug>` para eles: página com faixa "Prévia de rascunho", `noindex`, fora do sitemap, do `llms.txt`, da API pública e do dashboard de links.
 - Para revisar um rascunho, abra `/preview/<slug>`, ou escolha o post na lista de `/admin/flags`.
-- Detalhes das flags e como desligar a prévia: [feature-flags.md](feature-flags.md).
+- Detalhes das flags e como desligar a prévia: [content.md](content.md).

@@ -1,22 +1,18 @@
 ---
+import PagesCms from "#lib/admin/PagesCms.astro";
 import { site } from "#lib/site.config.ts";
 import Root from "../../layouts/Root.astro";
-import Login from "../../routes/admin/login/page.astro";
-import { load } from "../../routes/admin/login/page.server.ts";
 
 export function getStaticPaths() {
-	// GitHub Pages cannot run the session gate. Every admin screen stays behind the login page.
+	// Every route opens the same static editor on GitHub Pages.
 	return ["login", "posts", "products", "media", "newsletter", "import", "google"].map((path) => ({
 		params: { path },
 	}));
 }
 
-const data = load();
 const path = Astro.params.path ?? "login";
 ---
 
-<Root title={`Entrar - ${site.name}`} description="Acesso restrito ao painel." path={`/admin/${path}`} noindex>
-	<main class="mx-auto max-w-6xl px-4 py-8">
-		<Login data={data} />
-	</main>
+<Root title={`Painel editorial - ${site.name}`} description="Edite o conteúdo do site." path={`/admin/${path}`} noindex>
+	<PagesCms />
 </Root>

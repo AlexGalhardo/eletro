@@ -4,7 +4,7 @@
 !.env.example
 .data
 .svelte-kit
-.claude
+.agents
 node_modules
 graphify-out
 playwright-report

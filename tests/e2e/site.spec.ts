@@ -5,7 +5,7 @@ const POST = "/melhor-airfryer-8-litros";
 
 // Desktop filters with the sidebar buttons; below lg the categories live in the hamburger menu as links.
 async function chooseCategory(page: Page, isMobile: boolean, name: string): Promise<void> {
-	if (!isMobile) return page.getByRole("button", { name, exact: true }).click();
+	if (!isMobile) return page.getByRole("button", { name: new RegExp(`^${name}`) }).click();
 	await page.getByRole("button", { name: "Abrir menu" }).click();
 	await page.getByRole("dialog").getByRole("link", { name, exact: true }).click();
 }
@@ -13,13 +13,13 @@ async function chooseCategory(page: Page, isMobile: boolean, name: string): Prom
 test.describe("home", () => {
 	test("filters posts by category", async ({ page, isMobile }) => {
 		await page.goto("/");
-		const cards = page.locator("main a[href^='/']");
+		const cards = page.locator("main [data-post]:visible");
 		await expect(cards).toHaveCount(8);
 
 		await chooseCategory(page, isMobile, "Móveis");
 
 		if (!isMobile)
-			await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute(
+			await expect(page.getByRole("button", { name: /^Móveis/ })).toHaveAttribute(
 				"aria-pressed",
 				"true",
 			);
@@ -48,20 +48,22 @@ test.describe("home", () => {
 			await expect(dialog).toBeHidden();
 		} else {
 			const filters = page.locator("main button[aria-pressed]");
-			labels = (await filters.allTextContents()).map((label) => label.trim());
+			labels = await filters.evaluateAll((buttons) =>
+				buttons.map((button) => button.getAttribute("data-label") ?? ""),
+			);
 		}
 
 		expect(labels[0]).toBe("Todos");
 		for (const label of labels.slice(1)) {
 			await chooseCategory(page, isMobile, label);
-			await expect(page.locator("main a[href^='/']").first(), label).toBeVisible();
+			await expect(page.locator("main [data-post]:visible").first(), label).toBeVisible();
 		}
 		await expect(page.locator("footer nav[aria-label='Categorias'] a")).toHaveText(labels.slice(1));
 	});
 
 	test("loads more posts while scrolling", async ({ page }) => {
 		await page.goto("/");
-		const cards = page.locator("main a[href^='/']");
+		const cards = page.locator("main [data-post]:visible");
 		await expect(cards).toHaveCount(8);
 
 		await page.mouse.wheel(0, 20000);
@@ -73,12 +75,12 @@ test.describe("home", () => {
 		await page.goto("/?categoria=moveis");
 
 		if (!isMobile)
-			await expect(page.getByRole("button", { name: "Móveis" })).toHaveAttribute(
+			await expect(page.getByRole("button", { name: /^Móveis/ })).toHaveAttribute(
 				"aria-pressed",
 				"true",
 			);
 		else await expect(page.getByText("Categoria: Móveis")).toBeVisible();
-		await expect(page.locator("main a[href^='/']")).toHaveCount(3);
+		await expect(page.locator("main [data-post]:visible")).toHaveCount(3);
 	});
 
 	test("remembers the dark theme across visits", async ({ page }) => {
@@ -196,45 +198,16 @@ test.describe("post", () => {
 	});
 });
 
-test.describe("contact", () => {
-	test("rejects an incomplete form without sending", async ({ page }) => {
-		await page.goto("/contato");
-		await page.getByLabel("Seu nome").fill("Maria");
-		await page.getByLabel("Seu email").fill("nao-e-email");
-		await page.getByLabel("Mensagem").fill("curta");
-
-		await page.getByRole("button", { name: "Enviar Mensagem" }).click();
-
-		await expect(page.getByText("Email inválido")).toBeVisible();
-		await expect(page.getByText("A mensagem deve ter pelo menos 32 caracteres")).toBeVisible();
-		await expect(page.getByRole("status")).toHaveCount(0);
-	});
-
-	test("shows an error when the static host cannot send the message", async ({ page }) => {
-		await page.goto("/contato", { waitUntil: "networkidle" });
-		await page.getByLabel("Seu nome").fill("Maria Silva");
-		await page.getByLabel("Seu email").fill("maria@example.com");
-		await page
-			.getByLabel("Mensagem")
-			.fill("Olá, gostaria de sugerir uma análise de cafeteiras elétricas.");
-
-		await page.getByRole("button", { name: "Enviar Mensagem" }).click();
-
-		await expect(page.getByRole("status")).toHaveText(
-			"Erro ao enviar mensagem. Tente novamente mais tarde.",
-		);
-		await expect(page.getByLabel("Mensagem")).toHaveValue(
-			"Olá, gostaria de sugerir uma análise de cafeteiras elétricas.",
-		);
-	});
+test("contact provides a working mail link on the static host", async ({ page }) => {
+	await page.goto("/contato");
+	await expect(page.getByRole("link", { name: "Enviar e-mail" })).toHaveAttribute("href", /^mailto:/);
 });
 
 test("unknown pages render the 404 page", async ({ page }) => {
 	const response = await page.goto("/esta-pagina-nao-existe");
 
 	expect(response?.status()).toBe(404);
-	await expect(page.getByRole("heading", { level: 1, name: "404" })).toBeVisible();
-	await expect(page.getByText("Página Não Encontrada")).toBeVisible();
+	await expect(page.getByRole("heading", { level: 1, name: "Página não encontrada" })).toBeVisible();
 });
 
 test.describe("keyboard", () => {

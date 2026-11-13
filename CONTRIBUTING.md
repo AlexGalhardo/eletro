@@ -1,6 +1,6 @@
 # Contribuindo com o EletroRadar
 
-Obrigado por considerar contribuir. O EletroRadar é um CMS de blog de reviews feito com Astro 7.4, ilhas Svelte 5 e TypeScript, publicado no GitHub Pages.
+Obrigado por considerar contribuir. O EletroRadar é um CMS de blog de reviews feito com Astro 7.4 e TypeScript, publicado no GitHub Pages.
 
 ## Antes de começar
 
@@ -16,7 +16,7 @@ bash setups/setup-windows-local.sh   # Windows (Git Bash)
 bash setups/setup-unix-local.sh      # macOS, Linux, WSL
 ```
 
-Ou à mão: `bun install` e `bun run dev` (<http://localhost:5173>). O site público roda sem nenhuma variável de ambiente. O passo a passo completo está em [`docs/agent-setup.md`](docs/agent-setup.md) e [`docs/development.md`](docs/development.md).
+Ou à mão: `bun install` e `bun run dev` (<http://localhost:5173>). O site público roda sem nenhuma variável de ambiente. O passo a passo completo está em [`docs/development.md`](docs/development.md).
 
 | Comando | O que faz |
 | --- | --- |
@@ -48,7 +48,7 @@ bun run verify
 
 Use [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) em inglês: `tipo(escopo opcional): descrição no imperativo`. Tipos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert` e o extra `content`, reservado a posts, produtos e imagens (usado pelo painel `/admin`). O commitlint confere o cabeçalho no hook `commit-msg`. Nunca use `--no-verify`.
 
-Neste repositório, cada commit enviado é uma versão: a mudança, o `package.json` e o `CHANGELOG.md` entram no mesmo commit, e o mantenedor cuida da tag e do GitHub Release (detalhes em [`docs/workflows.md`](docs/workflows.md)).
+Todo commit entra por PR com CI verde. A versão, a tag e o GitHub Release só mudam quando o dono pedir uma release (detalhes em [`docs/ci-cd.md`](docs/ci-cd.md)).
 
 ## Pull requests
 
