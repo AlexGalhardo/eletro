@@ -126,7 +126,7 @@ Conferido em `src/lib/components/CardsTable.astro`:
 - `shopeeUrl: "#"` e `amazonUrl: "#"`: os botões não aparecem.
 - A foto e o nome do produto usam a primeira loja com endereço real; sem nenhuma, apontam para a oferta padrão.
 
-Com a flag `allStoreButtons` ligada no navegador ([feature-flags.md](feature-flags.md)), os três botões aparecem, e o que não tem link real aponta para a oferta padrão.
+Com a flag `allStoreButtons` ligada no navegador ([content.md](content.md)), os três botões aparecem, e o que não tem link real aponta para a oferta padrão.
 
 Desde a 1.3.0 todo link passa pelo dashboard de links: ver [affiliate-links.md](affiliate-links.md).
 

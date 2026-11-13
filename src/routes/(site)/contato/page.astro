@@ -1,115 +1,14 @@
 ---
-const label = "block text-sm font-semibold text-black dark:text-white";
-const field =
-	"w-full rounded-lg bg-white px-3.5 py-2.5 text-sm text-black border border-gray-300 placeholder:text-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/40 dark:border-zinc-700 dark:bg-zinc-900 dark:text-white";
+import { site } from "#lib/site.config.ts";
 ---
 
-<main class="mx-auto max-w-xl px-4 py-12 text-black dark:text-white">
-	<h1 class="mb-8 text-center text-4xl font-bold text-black dark:text-white">
-		Tem uma pergunta? <br />
-		Encontrou algum problema? <br />
-	</h1>
-	<p class="mb-8 text-center text-xl text-black dark:text-white">
-		Preencha o formulário abaixo e nos envie uma mensagem.
+<main class="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-24">
+	<h1 class="text-4xl font-bold tracking-tight text-gray-950 dark:text-white">Fale com a equipe</h1>
+	<p class="mt-5 max-w-2xl text-base leading-7 text-gray-600 dark:text-gray-300">
+		Encontrou uma informação incorreta, tem uma sugestão ou quer falar sobre uma parceria? Envie um e-mail para nossa equipe.
 	</p>
-
-	<form data-contact novalidate class="mx-auto max-w-2xl space-y-6">
-		<div class="space-y-2">
-			<label for="name" class={label}>Seu nome</label>
-			<input id="name" name="name" autocomplete="name" placeholder="Seu nome" class={field} />
-			<p data-error="name" hidden class="text-sm text-red-500">Nome é obrigatório</p>
-		</div>
-		<div class="space-y-2">
-			<label for="email" class={label}>Seu email</label>
-			<input
-				id="email"
-				name="email"
-				type="email"
-				autocomplete="email"
-				placeholder="seuemail@email.com"
-				class={field}
-			/>
-			<p data-error="email" hidden class="text-sm text-red-500">Email inválido</p>
-		</div>
-		<div class="space-y-2">
-			<label for="message" class={label}>Mensagem</label>
-			<textarea id="message" name="message" placeholder="Digite sua mensagem" rows="6" class={field}></textarea>
-			<p data-error="message" hidden class="text-sm text-red-500">A mensagem deve ter pelo menos 32 caracteres</p>
-		</div>
-		<button
-			type="submit"
-			class="w-full rounded-lg bg-green-700 py-2.5 font-semibold text-white transition-colors hover:bg-green-800 disabled:cursor-not-allowed disabled:opacity-60"
-		>
-			Enviar Mensagem
-		</button>
-		<div data-contact-status hidden role="status" class="w-full rounded-md border px-4 py-3 text-center text-sm"></div>
-	</form>
+	<a href={`mailto:${site.contactEmail}`} class="mt-8 inline-flex rounded-lg bg-blue-700 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-800">
+		Enviar e-mail
+	</a>
+	<p class="mt-4 text-sm text-gray-500 dark:text-gray-400">{site.contactEmail}</p>
 </main>
-
-<script>
-	import { contactSchema } from "#lib/contact.ts";
-
-	const form = document.querySelector<HTMLFormElement>("[data-contact]");
-	const status = form?.querySelector<HTMLElement>("[data-contact-status]");
-	const button = form?.querySelector("button");
-	let timer: ReturnType<typeof setTimeout> | undefined;
-
-	const good =
-		"w-full rounded-lg bg-white px-3.5 py-2.5 text-sm text-black border border-gray-300 placeholder:text-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/40 dark:border-zinc-700 dark:bg-zinc-900 dark:text-white";
-	const bad =
-		"w-full rounded-lg bg-white px-3.5 py-2.5 text-sm text-black border border-red-500 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500/40 dark:bg-zinc-900 dark:text-white";
-
-	form?.addEventListener("submit", async (event) => {
-		event.preventDefault();
-		if (!form || !button || !status) return;
-		const data = {
-			name: (form.querySelector<HTMLInputElement>("#name")?.value ?? ""),
-			email: (form.querySelector<HTMLInputElement>("#email")?.value ?? ""),
-			message: (form.querySelector<HTMLTextAreaElement>("#message")?.value ?? ""),
-		};
-		const parsed = contactSchema.safeParse(data);
-		const invalid = new Set(parsed.success ? [] : parsed.error.issues.map((issue) => String(issue.path[0])));
-		for (const name of ["name", "email", "message"]) {
-			const field = form.querySelector<HTMLElement>(`#${name}`);
-			const error = form.querySelector<HTMLElement>(`[data-error="${name}"]`);
-			if (field) {
-				field.className = invalid.has(name) ? bad : good;
-				field.setAttribute("aria-invalid", String(invalid.has(name)));
-			}
-			if (error) error.hidden = !invalid.has(name);
-		}
-		if (!parsed.success) return;
-
-		button.disabled = true;
-		button.textContent = "Enviando...";
-		try {
-			const response = await fetch("/api/v1/contact", {
-				method: "POST",
-				headers: { "Content-Type": "application/json" },
-				body: JSON.stringify(parsed.data),
-			});
-			if (!response.ok) throw new Error(`Contact request failed with ${response.status}`);
-			show("success", "Mensagem enviada com sucesso!");
-			form.reset();
-		} catch {
-			show("error", "Erro ao enviar mensagem. Tente novamente mais tarde.");
-		} finally {
-			button.disabled = false;
-			button.textContent = "Enviar Mensagem";
-		}
-	});
-
-	function show(type: "success" | "error", text: string): void {
-		if (!status) return;
-		clearTimeout(timer);
-		status.hidden = false;
-		status.textContent = text;
-		status.className =
-			type === "success"
-				? "w-full rounded-md border border-green-500 bg-green-100 px-4 py-3 text-center text-sm text-green-700 dark:border-green-600 dark:bg-green-900/30 dark:text-green-400"
-				: "w-full rounded-md border border-red-500 bg-red-100 px-4 py-3 text-center text-sm text-red-700 dark:border-red-600 dark:bg-red-900/30 dark:text-red-400";
-		timer = setTimeout(() => {
-			status.hidden = true;
-		}, 10000);
-	}
-</script>

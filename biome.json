@@ -11,7 +11,7 @@
 			"**",
 			"!static",
 			"!content",
-			"!.claude",
+			"!.agents",
 			"!drizzle/meta",
 			"!graphify-out",
 			"!bun.lock",

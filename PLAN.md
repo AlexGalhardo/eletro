@@ -1,5 +1,16 @@
 # PLAN.md — Astro 7.4 Blog CMS
 
+## Plano atual — GitHub Pages e fluxo por PR (2026-11-13)
+
+Esta seção substitui as decisões históricas abaixo quando houver conflito. A produção continua no GitHub Pages. O `/admin` estático usa token fine-grained do GitHub em memória, salva MDX, JSON e imagens numa branch `cms/*` e abre PR. A `main` é protegida por ruleset e recebe mudanças só por PR com CI verde. Versões e releases são criadas somente quando o dono pedir; a próxima planejada é `v0.11.0`. As instruções dos agentes ficam em `.agents/`.
+
+- [x] Editor estático e PR para o conteúdo; teste unitário do cliente e e2e com API simulada.
+- [x] Revisão visual das páginas principais, contato funcional no Pages, UI SDK, ícone SVG e fundo de papel integrados.
+- [x] Ruleset de PR ativo no GitHub e workflow de CI em `.github/workflows/ci.yml`.
+- [x] Releases e tags 0.11.x a 0.13.0 removidas; notas acumuladas em `Unreleased`.
+- [x] `.claude/` migrada para `.agents/` e documentação consolidada.
+- [ ] Conferir CI do PR e o deploy depois do merge. Nenhuma release será criada sem pedido.
+
 Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquivo e termina atualizando os checklists.
 
 - `[ ]` pendente · `[~]` em andamento · `[x]` entregue e verificado
@@ -41,9 +52,9 @@ Objetivo: o site atual rodando em SvelteKit, idêntico para o visitante.
 ### A1. Repositório e governança
 
 - [x] Git novo com `origin` em `sveltekit-blog-cms-claude-code` (histórico antigo em backup fora do projeto)
-- [x] Skills instaladas em `.claude/skills/` (agent-skills, karpathy-guidelines, ponytail, graphify)
+- [x] Skills instaladas em `.agents/skills/` (agent-skills, karpathy-guidelines, ponytail, graphify)
 - [x] `CLAUDE.md` e `AGENTS.md` com carga obrigatória das skills no início da sessão e links para `docs/`
-- [x] `.claude/rules/` (código, commits, testes, conteúdo, dependências)
+- [x] `.agents/rules/` (código, commits, testes, conteúdo, dependências)
 - [x] `.editorconfig` (tab, largura 4), Biome v2 e markdownlint alinhados
 - [x] `.gitignore` cobrindo `.env*`; `.env.example` só com placeholders
 - [x] Husky + commitlint (Conventional Commits)
@@ -322,8 +333,8 @@ Técnicas, sem bloqueio externo:
 
 ### R6. Setup do zero, scripts e Docker (1.5.1)
 
-- [x] `docs/agent-setup.md`: roteiro de um clone novo até a produção, com comando e verificação por passo (dependências, `.env`, banco, execução local, Docker, testes, conteúdo, GitHub e release, Vercel, dashboard de links)
-- [x] `docs/tooling.md` (ferramentas, configuração, hooks, Docker, ferramentas dos agentes) e `docs/workflows.md` (ordem de uma mudança, passos por tipo de tarefa, release, deploy), ligando aos documentos que já existiam
+- [x] `docs/development.md`: roteiro de um clone novo até a produção, com comando e verificação por passo (dependências, `.env`, banco, execução local, Docker, testes, conteúdo, GitHub e release, Vercel, dashboard de links)
+- [x] `docs/development.md` (ferramentas, configuração, hooks, Docker, ferramentas dos agentes) e `docs/workflows.md` (ordem de uma mudança, passos por tipo de tarefa, release, deploy), ligando aos documentos que já existiam
 - [x] `setups/` com quatro scripts: `setup-unix-local.sh`, `setup-windows-local.sh`, `setup-unix-with-docker.sh`, `setup-windows-with-docker.sh`, sobre as funções de `setups/_common.sh`. Não instalam nem encerram nada por conta própria: dizem o que falta, escolhem outra porta ou param
 - [x] `infra/Dockerfile` (`oven/bun:1.4.2-slim` com o Node `24.21.0`), `infra/docker-compose.yml` e `.dockerignore` na raiz
 - [x] `.env.example`: comentário que quebrava em duas linhas (a segunda sem `#`) corrigido; o Docker Compose recusava o `.env` gerado a partir dele
@@ -341,14 +352,14 @@ Técnicas, sem bloqueio externo:
 
 ---
 
-### R8. Revisão de `.claude/` (1.6.1)
+### R8. Revisão de `.agents/` (1.6.1)
 
 - [x] Regras e skills do projeto conferidas contra o código: links de afiliado pelo dashboard, id de produto, hooks do git, commit `content:` com release
-- [x] Um lugar por fato: `AGENTS.md` aponta para `.claude/rules/`, as regras apontam para `docs/` e para as skills `project-*`
-- [x] graphify opcional: hooks do Claude Code removidos (`.claude/settings.json`), `.claude/CLAUDE.md` removido, geração e atualização do grafo descritas no `AGENTS.md`
+- [x] Um lugar por fato: `AGENTS.md` aponta para `.agents/rules/`, as regras apontam para `docs/` e para as skills `project-*`
+- [x] graphify opcional: hooks do Claude Code removidos (`.agents/settings.json`), `.agents/CLAUDE.md` removido, geração e atualização do grafo descritas no `AGENTS.md`
 - [x] Skills, agentes e checklists de terceiros mantidos sem alteração: todos são citados pelo `using-agent-skills` ou por outra skill do mesmo pacote
 
-**Assert:** `.claude/settings.json` não existe e `git grep hook-guard` só encontra o `CHANGELOG.md` e este plano; `bun run check`, `bun run lint` e `bun run test` passam.
+**Assert:** `.agents/settings.json` não existe e `git grep hook-guard` só encontra o `CHANGELOG.md` e este plano; `bun run check`, `bun run lint` e `bun run test` passam.
 
 ---
 
@@ -400,7 +411,7 @@ Objetivo: remover o Svelte do projeto e ficar só com Astro e pacotes agnóstico
 - [x] Dependências `svelte`, `@astrojs/svelte`, `svelte-check` e `@lucide/svelte` removidas do `package.json` e do `bun.lock`
 - [x] `bun run check` usa `tsc --noEmit`
 - [x] MCP do Svelte em `.mcp.json` removido
-- [x] `docs/architecture.md`, `docs/development.md`, `docs/tooling.md` e `.claude/rules/code-style.md` atualizados (Astro, TypeScript, `#env`)
+- [x] `docs/architecture.md`, `docs/development.md`, `docs/development.md` e `.agents/rules/code-style.md` atualizados (Astro, TypeScript, `#env`)
 
 **Assert:** nenhum `.svelte` e nenhum import de `svelte`, `@sveltejs/*` ou `$app/*` em `src/` e `tests/`; `bun run check`, `bun run lint`, `bun run test` e `bun run test:e2e` verdes; o build gera as mesmas URLs de antes.
 
@@ -450,7 +461,7 @@ Problema conhecido: sob carga, uma navegação do Playwright para a home pode n�
 
 - [ ] Revogar no Resend a chave que estava no `.env.example` antigo, caso seja real
 - [ ] Revisar o texto novo da Política de Privacidade sobre o e-mail da newsletter
-- [x] Fazer o primeiro deploy seguindo `docs/setup-vercel.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
+- [x] Fazer o primeiro deploy seguindo `docs/deploy.md` (Vercel, passo a passo) ou `docs/deploy.md` (OAuth App, banco Neon, token do GitHub, Resend) e marcar a lista "Conferir depois do primeiro deploy"
 - [ ] Corrigir o billing do GitHub e ativar os workflows
 - [ ] Rascunho importado `melhor-lava-loucas-portatil`: trocar os links `#`, enviar a capa, reescrever o texto e decidir sobre o uso das fotos (vêm do CDN da Amazon)
 - [ ] Conferir na Vercel que `ADMIN_EMAILS` tem exatamente os e-mails que devem entrar e que `ADMIN_GITHUB_USERS` está vazia ou só com quem deve entrar (os valores não são lidos por agentes)
