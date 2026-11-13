@@ -21,7 +21,7 @@ const root = await vi.hoisted(async () => {
 	return mkdtemp(path.join(tmpdir(), "api-"));
 });
 
-vi.mock("$app/env/private", async () => {
+vi.mock("#env", async () => {
 	const { testEnv } = await import("./env.ts");
 	return testEnv({ CONTENT_ROOT: root });
 });

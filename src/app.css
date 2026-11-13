@@ -27,6 +27,16 @@
 
 html {
 	scroll-behavior: smooth;
+	scrollbar-width: none;
+}
+
+/* The owner asked for the native scrollbar chrome to stay off every page and every inner scroller. */
+* {
+	scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+	display: none;
 }
 @layer utilities {
 	.text-balance {

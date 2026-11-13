@@ -12,7 +12,7 @@ import {
 	GITHUB_CLIENT_SECRET,
 	GOOGLE_CLIENT_ID,
 	GOOGLE_CLIENT_SECRET,
-} from "$app/env/private";
+} from "#env";
 import { getDb } from "./db/index.ts";
 import { account, session, user, verification } from "./db/schema.ts";
 

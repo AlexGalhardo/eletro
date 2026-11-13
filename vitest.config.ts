@@ -1,8 +1,8 @@
 import { defineConfig } from "vitest/config";
-import { frameworkAliases } from "./src/shims/aliases.ts";
+import { aliases } from "./src/aliases.ts";
 
 export default defineConfig({
-	resolve: { alias: frameworkAliases },
+	resolve: { alias: aliases },
 	test: {
 		environment: "node",
 		include: [

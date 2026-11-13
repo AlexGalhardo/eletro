@@ -1,6 +1,6 @@
 import type { ReactElement } from "react";
 import { Resend } from "resend";
-import { RESEND_API_KEY, RESEND_FROM_EMAIL } from "$app/env/private";
+import { RESEND_API_KEY, RESEND_FROM_EMAIL } from "#env";
 import { site } from "../site.config.ts";
 
 export type Email = {

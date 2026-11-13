@@ -4,7 +4,7 @@ Aviso por e-mail de post novo, com confirmação da inscrição (double opt-in) 
 
 ## Fluxo
 
-1. **Inscrição:** o formulário do rodapé (`NewsletterForm.svelte`) chama `POST /api/v1/newsletter/subscribers`. O endereço entra como `pending` e recebe o e-mail de confirmação. A resposta é sempre a mesma (202), para o formulário não revelar quem já é assinante.
+1. **Inscrição:** o formulário do rodapé (`NewsletterForm.astro`) chama `POST /api/v1/newsletter/subscribers`. O endereço entra como `pending` e recebe o e-mail de confirmação. A resposta é sempre a mesma (202), para o formulário não revelar quem já é assinante.
 2. **Confirmação:** o link do e-mail abre `/newsletter/confirmar?token=...`. A página pede um clique no botão, que chama `POST /api/v1/newsletter/confirm` e marca o assinante como `confirmed`. Só quem confirmou recebe e-mail.
 3. **Aviso de post:** no editor do post, a opção "Avisar assinantes da newsletter quando o post estiver no ar" cria um envio `pending` para aquele post (`POST /api/v1/newsletter/dispatches`).
 4. **Envio:** `POST /api/v1/newsletter/dispatches/run` envia cada envio da fila cujo post já está publicado no deploy em execução. Quem chama: o botão "Enviar fila agora" em `/admin/newsletter`, ou um agendador com `Authorization: Bearer <CRON_SECRET>` (também aceita `GET`, que é como o Vercel Cron chama).

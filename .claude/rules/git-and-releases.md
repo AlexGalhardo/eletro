@@ -5,7 +5,8 @@
 - Conventional Commits, em inglês: `tipo(escopo opcional): descrição no imperativo`. O hook `commit-msg` (commitlint) recusa o que fugir.
 - Tipos aceitos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`, `content`.
 - `content` é reservado a posts, produtos e imagens (é o tipo usado pelo painel `/admin`).
-- Um commit por mudança lógica. Antes de commitar: `bun run check`, `bun run lint` e `bun run test` verdes.
+- Um microcommit por mudança lógica. Não esmague commit publicado: o changelog linka o hash. Antes de commitar: `bun run check`, `bun run lint` e `bun run test` verdes.
+- Cada linha nova do `CHANGELOG.md` termina com o link do microcommit: `([abcdef1](https://github.com/AlexGalhardo/eletro/commit/<hash completo>))`. O `scripts/release.ts` recusa a release sem esse link. Passo a passo em `docs/workflows.md`.
 - Os hooks do git repetem essa conferência: `pre-commit` roda o `check` e `pre-push` roda os três (tabela em `docs/tooling.md`). Hook que falha é corrigido na causa: nunca use `--no-verify` nem push forçado.
 - Nunca commite `.env`, chaves ou tokens.
 - Ao fim de cada grupo de tarefas do `PLAN.md`: atualize os checklists, faça o commit e o `git push` para `origin/main`.

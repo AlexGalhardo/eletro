@@ -1,0 +1,175 @@
+---
+import { slugify, ui } from "#lib/admin/api.ts";
+import Lucide from "#lib/components/Lucide.astro";
+import type { PostInput } from "#lib/content/schema.ts";
+import { jsonForScript } from "#lib/json-script.ts";
+import { site } from "#lib/site.config.ts";
+import DeployStatus from "./DeployStatus.astro";
+import ImageField from "./ImageField.astro";
+
+interface Props {
+	slug?: string;
+	sha?: string;
+	post: PostInput;
+	lists: string[];
+	covers: string[];
+	deployed?: boolean;
+	kind: "github" | "local";
+}
+
+const { slug, sha, post, lists, covers, deployed = false, kind } = Astro.props;
+const isNew = !slug;
+const authors = Object.entries(site.authors);
+---
+
+<form
+	data-post-editor
+	data-new={isNew ? "true" : "false"}
+	data-slug={slug}
+	data-sha={sha}
+	class="space-y-6"
+>
+	<script type="application/json" data-initial set:html={jsonForScript(post)} />
+	<div class="flex flex-wrap items-center justify-between gap-3">
+		<h1 class="text-2xl font-bold">{isNew ? "Novo post" : "Editar post"}</h1>
+		<div class="flex flex-wrap gap-2">
+			{!isNew && <a href={`/${slug}`} target="_blank" rel="noopener" class={ui.button}>Ver no site</a>}
+			{
+				!isNew && (
+					<button type="button" data-delete class={ui.danger}>
+						<Lucide name="trash-2" class="h-3.5 w-3.5" /> Excluir
+					</button>
+				)
+			}
+			<button type="submit" data-save class={ui.primary}>Salvar</button>
+		</div>
+	</div>
+
+	{!isNew && <DeployStatus deployed={deployed} kind={kind} />}
+	<div data-messages></div>
+
+	<div class:list={[ui.card, "grid gap-4 md:grid-cols-2"]}>
+		<div class="md:col-span-2">
+			<label for="title" class={ui.label}>Título</label>
+			<input id="title" value={post.title} required class={ui.input} />
+		</div>
+		<div class="md:col-span-2">
+			<label for="slug" class={ui.label}>Endereço (slug)</label>
+			{
+				isNew ? (
+					<input id="slug" value={slugify(post.title)} required pattern="[a-z0-9]+(-[a-z0-9]+)*" minlength="3" class={ui.input} />
+				) : (
+					<input id="slug" value={slug} disabled class={ui.input} />
+				)
+			}
+			{
+				isNew && (
+					<p class="mt-1 text-xs text-gray-500">
+						Vira a URL do post e não pode ser trocado depois. Minúsculas, números e hífens.
+					</p>
+				)
+			}
+		</div>
+		<div class="md:col-span-2">
+			<label for="description" class={ui.label}>Descrição</label>
+			<textarea id="description" rows="2" class={ui.input}>{post.description}</textarea>
+		</div>
+		<div>
+			<label for="date" class={ui.label}>Data de publicação</label>
+			<input id="date" type="date" value={post.date} required class={ui.input} />
+			<p class="mt-1 text-xs text-gray-500">Uma data futura agenda o post.</p>
+		</div>
+		<div>
+			<label for="category" class={ui.label}>Categoria</label>
+			<select id="category" required class={ui.input}>
+				{site.categories.map((category) => (
+					<option value={category.id} selected={category.id === post.category}>{category.label}</option>
+				))}
+			</select>
+		</div>
+		<div>
+			<label for="author" class={ui.label}>Autor</label>
+			<select id="author" class={ui.input}>
+				{authors.map(([id, author]) => (
+					<option value={id} selected={id === post.author}>{author.name}</option>
+				))}
+			</select>
+		</div>
+		<label class="flex items-center gap-2 self-end pb-2 text-sm font-semibold">
+			<input id="draft" type="checkbox" checked={post.draft} class="size-4" />
+			Rascunho (fica fora do site)
+		</label>
+		<label class="flex items-center gap-2 text-sm font-semibold md:col-span-2">
+			<input id="announce" type="checkbox" disabled={post.draft} class="size-4" />
+			Avisar assinantes da newsletter quando o post estiver no ar
+		</label>
+		<div class="md:col-span-2">
+			<ImageField id="cover" label="Capa" folder="covers" options={covers} value={post.cover} />
+		</div>
+	</div>
+
+	<div class:list={[ui.card, "space-y-3"]}>
+		<div class="flex flex-wrap items-end justify-between gap-3">
+			<label for="body" class={ui.label}>Conteúdo (Markdown)</label>
+			<div class="flex items-end gap-2">
+				<div>
+					<label for="list" class="block text-xs font-medium">Lista de produtos</label>
+					<select id="list" class={ui.input}>
+						<option value="">Escolha...</option>
+						{lists.map((name) => <option value={name}>{name}</option>)}
+					</select>
+				</div>
+				<button type="button" data-insert-list class={ui.button}>Inserir lista</button>
+			</div>
+		</div>
+		<div class="grid gap-4 lg:grid-cols-2">
+			<textarea id="body" required rows="24" spellcheck="true" class:list={[ui.input, "font-mono"]}>{post.body}</textarea>
+			<iframe
+				data-preview
+				title="Pré-visualização"
+				sandbox=""
+				class="mt-1 h-full min-h-96 w-full rounded-lg border border-gray-300 bg-white dark:border-zinc-700"
+			></iframe>
+		</div>
+		<p class="text-xs text-gray-500">
+			Não use chaves no texto. A pré-visualização mostra o Markdown; os cartões de produto aparecem no site.
+		</p>
+	</div>
+
+	<fieldset class:list={[ui.card, "space-y-3"]}>
+		<legend class="px-1 text-sm font-semibold">Perguntas frequentes (FAQ)</legend>
+		<div data-faq class="space-y-2">
+			{
+				post.faqData.map((item, index) => (
+					<div data-faq-row class="grid gap-2 md:grid-cols-[1fr_2fr_auto]">
+						<input aria-label={`Pergunta ${index + 1}`} placeholder="Pergunta" data-question value={item.question} required class={ui.input} />
+						<textarea aria-label={`Resposta ${index + 1}`} placeholder="Resposta" data-answer required rows="2" class={ui.input}>{item.answer}</textarea>
+						<button type="button" data-remove-faq aria-label={`Remover pergunta ${index + 1}`} class:list={[ui.button, "mt-1 self-start"]}>
+							<Lucide name="trash-2" class="h-3.5 w-3.5" />
+						</button>
+					</div>
+				))
+			}
+		</div>
+		<button type="button" data-add-faq class={ui.button}>
+			<Lucide name="plus" class="h-3.5 w-3.5" /> Adicionar pergunta
+		</button>
+	</fieldset>
+
+	<template id="faq-row">
+		<div data-faq-row class="grid gap-2 md:grid-cols-[1fr_2fr_auto]">
+			<input data-question placeholder="Pergunta" required class={ui.input} />
+			<textarea data-answer placeholder="Resposta" required rows="2" class={ui.input}></textarea>
+			<button type="button" data-remove-faq class:list={[ui.button, "mt-1 self-start"]}>
+				<Lucide name="trash-2" class="h-3.5 w-3.5" />
+			</button>
+		</div>
+	</template>
+</form>
+
+<script>
+	import { initPostEditor } from "#lib/client/post-editor.ts";
+
+	const form = document.querySelector<HTMLFormElement>("[data-post-editor]");
+	if (form) initPostEditor(form);
+</script>

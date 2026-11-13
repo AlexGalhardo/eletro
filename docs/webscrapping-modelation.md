@@ -71,7 +71,7 @@ webscrapping/            TypeScript puro, sem imports do SvelteKit
   fixture.ts             página sintética usada nos testes
 src/lib/server/post-import.ts          serviço importPost(store, url, author, now, mistralApiKey)
 src/routes/api/v1/imports/server.ts   POST /api/v1/imports (admin)
-src/routes/admin/import/page.svelte   tela "Importar"
+src/routes/admin/import/page.astro   tela "Importar"
 ```
 
 Fluxo: a tela chama `POST /api/v1/imports` com `{ "url": "..." }`. O serviço baixa a página, extrai os produtos, monta o rascunho, pede à Mistral a reescrita do resumo e do FAQ (quando há chave), confere se o slug já existe, baixa e envia cada foto com `uploadImage`, grava a lista com `saveProductList` e o post com `savePost`. Tudo passa pelas validações do `cms.ts`, as mesmas do editor.
@@ -120,7 +120,7 @@ Com `MISTRAL_API_KEY` no ambiente (o Bun lê o `.env`), os dois modos reescrevem
 
 ### Como um link `#` aparece no site
 
-Conferido em `src/lib/components/CardsTable.svelte`:
+Conferido em `src/lib/components/CardsTable.astro`:
 
 - `mercadolivreUrl: "#"`: o botão do Mercado Livre aparece e aponta para a oferta padrão (`site.fallbackAffiliateUrl`, pelo dashboard de links).
 - `shopeeUrl: "#"` e `amazonUrl: "#"`: os botões não aparecem.

@@ -1,9 +1,9 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { slugSchema } from "#lib/content/schema.ts";
 import { parseBody, parseQuery, requireAdmin, respond } from "#lib/server/api.ts";
 import { savePost } from "#lib/server/cms.ts";
 import { getPosts } from "#lib/server/content.ts";
+import { json } from "#lib/server/http.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 const querySchema = z.object({

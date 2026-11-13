@@ -1,4 +1,5 @@
-import { CONTENT_COMPONENTS } from "./mdx-preprocess.ts";
+/** The only component a post body may use. `renderPostBody` turns it into product cards. */
+const CONTENT_COMPONENTS = ["CardsTable"];
 
 /** Tags that run code, load something from elsewhere, submit data or redirect the page. */
 const FORBIDDEN_TAGS = [
@@ -66,17 +67,16 @@ const decoded = (body: string) =>
 		.replace(/[\t\n\r]/g, "");
 
 /**
- * Posts are compiled to Svelte components at build time, so a body that is not plain Markdown
- * can break the deploy or run code, in the build and in the visitor's browser.
- * This is the gate for everything saved through the dashboard.
+ * Post bodies are rendered as Markdown plus one component. Anything else can break the build
+ * or run in the visitor's browser. This is the gate for everything saved through the dashboard.
  * Returns the problems found, in Portuguese because they are shown to the editor.
  *
- * ponytail: it checks patterns, it does not compile. Markup that is merely malformed (an unclosed tag)
- * still passes and fails the build; compiling the body with mdsvex here would close that gap.
+ * ponytail: it checks patterns, it does not parse. Markup that is merely malformed (an unclosed tag)
+ * still passes and fails the build.
  */
 export function validateBody(body: string): string[] {
 	const problems: string[] = [];
-	// Fenced and inline code is still parsed by Svelte for braces, so nothing is exempt.
+	// Braces are rejected everywhere, including fenced code: the renderer does not treat them as text.
 	if (/[{}]/.test(body)) problems.push("O texto não pode conter chaves { }.");
 
 	// mdsvex decodes character references and percent-escapes before Svelte reads the markup,
@@ -104,7 +104,7 @@ export function validateBody(body: string): string[] {
 		problems.push("Links e imagens não podem usar endereços javascript:, vbscript: ou data:.");
 	}
 
-	const allowed = Object.keys(CONTENT_COMPONENTS);
+	const allowed = CONTENT_COMPONENTS;
 	for (const match of body.matchAll(/<\s*\/?\s*([A-Z][A-Za-z0-9]*)/g)) {
 		const name = match[1] as string;
 		if (!allowed.includes(name))

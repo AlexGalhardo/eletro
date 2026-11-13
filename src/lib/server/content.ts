@@ -3,6 +3,7 @@ import { buildCatalogue } from "../content/affiliate.ts";
 import { coverWidths as widthsOf } from "../content/cover.ts";
 import { isPublished, parsePost, referencedLists, visiblePosts } from "../content/parse.ts";
 import { type PostStatusRow, postStatusRow } from "../content/post-status.ts";
+import { recommendedPosts } from "../content/recommendations.ts";
 import { renderPostBody } from "../content/render-body.ts";
 import { type Post, type Product, productListSchema } from "../content/schema.ts";
 import { flagDefaults } from "../flags.ts";
@@ -72,6 +73,14 @@ export function postPageData({ post, body }: { post: Post; body: string }) {
 		coverWidths: coverWidths(post.cover),
 		productLists: lists,
 		segments: renderPostBody(body),
+		recommendations: recommendedPosts(getSitePosts(), post).map((item) => ({
+			slug: item.slug,
+			title: item.title,
+			description: item.description,
+			date: item.date,
+			cover: item.cover,
+			coverWidths: coverWidths(item.cover),
+		})),
 	};
 }
 

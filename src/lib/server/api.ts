@@ -1,6 +1,6 @@
 import { createHash, timingSafeEqual } from "node:crypto";
-import { json } from "@sveltejs/kit";
 import type { z } from "zod";
+import { json } from "#lib/server/http.ts";
 import { site } from "#lib/site.config.ts";
 import type { AdminUser } from "./auth.ts";
 import { type Author, NotFoundError, ValidationError } from "./cms.ts";

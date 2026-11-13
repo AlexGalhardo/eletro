@@ -1,10 +1,10 @@
-import { analyticsReport, googleCredentials, REPORT_DAYS, searchConsoleReport } from "#lib/server/google.ts";
 import {
 	GOOGLE_ANALYTICS_PROPERTY_ID,
 	GOOGLE_SEARCH_CONSOLE_SITE,
 	GOOGLE_SERVICE_ACCOUNT_EMAIL,
 	GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY,
-} from "$app/env/private";
+} from "#env";
+import { analyticsReport, googleCredentials, REPORT_DAYS, searchConsoleReport } from "#lib/server/google.ts";
 
 // One report failing (a missing permission, usually) must not hide the other.
 const settle = <T>(report: Promise<T>) =>

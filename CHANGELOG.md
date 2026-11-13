@@ -2,9 +2,24 @@
 
 Todas as mudanças relevantes deste projeto são registradas aqui.
 
-O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adota o [Versionamento Semântico](https://semver.org/lang/pt-BR/). As releases públicas são dez, de 0.1.0 a 0.10.0. Cada uma lista os commits que a compõem.
+O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adota o [Versionamento Semântico](https://semver.org/lang/pt-BR/). As releases públicas recomeçaram em 0.1.0. Cada uma lista os commits que a compõem.
 
 ## [Unreleased]
+
+### Added
+
+- A página do post mostra sete outras postagens numa coluna à direita. No celular a lista fica abaixo do texto.
+
+### Changed
+
+- O texto do post ocupa três quartos da largura e a coluna de outras postagens ocupa um quarto.
+- A newsletter e o aviso de afiliados ficam no centro do rodapé. As categorias do rodapé se dividem em duas colunas iguais.
+- A barra lateral da home mostra, à direita de cada categoria, quantos posts ela tem.
+- Os rótulos em negrito da ficha técnica dos produtos ficam menores.
+- As setas da busca acompanham o resultado destacado quando a lista passa da área visível.
+- A barra de rolagem padrão do navegador deixa de aparecer nas páginas.
+- O site e o painel passam a ser só Astro e TypeScript. O runtime Svelte saiu do projeto.
+- Cada mudança lógica fica no próprio commit. Uma linha nova do changelog só entra com o link do microcommit, e a release recusa linha sem esse link.
 
 ## [0.10.0] - 2026-11-13
 

@@ -1,5 +1,4 @@
-// Private environment, read at import time. `$app/env/private` is an alias of this module so the server
-// code and the integration tests keep their import specifiers after SvelteKit left the project.
+// Private environment, read at import time. Server code imports this module as `#env`.
 // Every variable stays optional: a fresh clone runs the public site with nothing set.
 
 const optional = (value: string | undefined) => value?.trim() || undefined;

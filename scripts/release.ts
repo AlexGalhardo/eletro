@@ -53,16 +53,84 @@ export function nextVersion(current: string, bump: Exclude<Bump, null>): string 
 	return `${major}.${minor}.${patch + 1}`;
 }
 
+export type Microcommit = { hash: string; short: string; subject: string };
+
+const COMMIT_LINK = /\(\[[0-9a-f]{7,40}\]\(https:\/\/github\.com\/[^)\s]+\/commit\/[0-9a-f]{7,40}\)\)/;
+
+/** The Vukem-style link: short hash in the label, full hash in the URL. */
+export function commitLink(commit: Microcommit, repo: string): string {
+	return `([${commit.short}](${repo}/commit/${commit.hash}))`;
+}
+
+/** One changelog line for a microcommit that had no sentence of its own. */
+export function microcommitLine(commit: Microcommit, repo: string): string {
+	const link = commitLink(commit, repo);
+	const parsed =
+		/^(feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert|content)(?:\(([^)]+)\))?(!)?: (.+)$/.exec(
+			commit.subject,
+		);
+	if (!parsed) return `- ${commit.subject} ${link}`;
+	const scope = parsed[2];
+	const breaking = parsed[3];
+	const subject = parsed[4] ?? commit.subject;
+	const sentence = subject.charAt(0).toUpperCase() + subject.slice(1);
+	const area = scope ?? parsed[1];
+	const prefix = `${breaking ? "**BREAKING:** " : ""}**${area}:** `;
+	return `- ${prefix}${sentence} ${link}`;
+}
+
+/**
+ * Every list line ends with the microcommit that introduced it.
+ * One commit covers every line. Several commits attach in order, and a commit with no line is added.
+ */
+export function linkChangelogLines(notes: string, commits: readonly Microcommit[], repo: string): string {
+	if (commits.length === 0) return notes;
+	const used = new Set<string>();
+	let cursor = 0;
+	const linked = notes.split("\n").map((line) => {
+		const already = /\/commit\/([0-9a-f]{7,40})\)/.exec(line);
+		if (already?.[1]) used.add(already[1]);
+		if (!line.startsWith("- ") || COMMIT_LINK.test(line)) return line;
+		const commit = commits[Math.min(cursor, commits.length - 1)];
+		cursor += 1;
+		if (!commit) return line;
+		used.add(commit.hash);
+		return `${line} ${commitLink(commit, repo)}`;
+	});
+	const extra = commits
+		.filter(
+			(commit) =>
+				![...used].some((hash) => hash.startsWith(commit.short) || commit.hash.startsWith(hash)),
+		)
+		.map((commit) => microcommitLine(commit, repo));
+	if (extra.length === 0) return linked.join("\n");
+	const body = linked.join("\n").trimEnd();
+	return `${body}\n${extra.join("\n")}`;
+}
+
+/** Release notes cannot ship a list line that does not open its microcommit. */
+export function assertMicrocommitLinks(notes: string): void {
+	const missing = notes.split("\n").find((line) => line.startsWith("- ") && !COMMIT_LINK.test(line));
+	if (missing) {
+		throw new Error(
+			`Each changelog line must link its microcommit as ([abcdef1](https://github.com/<owner>/<repo>/commit/<full>)). Missing on: ${missing}`,
+		);
+	}
+}
+
 /**
  * Moves what is under `## [Unreleased]` to a section of the new version and fixes the compare links.
  * Returns the new file and the notes of the version (the text that goes to the GitHub Release).
  * A commit with nothing visible to write (docs, chore) is noted by its `subject`.
+ * `commits` links each new list line to the microcommit that introduced it.
  */
 export function cutChangelog(
 	changelog: string,
 	version: string,
 	date: string,
 	subject?: string,
+	commits?: readonly Microcommit[],
+	repo?: string,
 ): { changelog: string; notes: string } {
 	const start = changelog.indexOf("## [Unreleased]");
 	if (start === -1) throw new Error('CHANGELOG.md has no "## [Unreleased]" section');
@@ -73,9 +141,11 @@ export function cutChangelog(
 	const ends = [nextSection, linkStart].filter((index) => index !== -1);
 	const bodyEnd = bodyStart + (ends.length > 0 ? Math.min(...ends) : changelog.length - bodyStart);
 
-	const notes = changelog.slice(bodyStart, bodyEnd).trim() || (subject ? `- ${subject}` : "");
-	if (!notes)
+	const written = changelog.slice(bodyStart, bodyEnd).trim() || (subject ? `- ${subject}` : "");
+	if (!written)
 		throw new Error("Nothing under [Unreleased]: add the changes to CHANGELOG.md before releasing");
+	const notes =
+		commits && commits.length > 0 && repo ? linkChangelogLines(written, commits, repo) : written;
 
 	let result = `${changelog.slice(0, bodyStart)}\n\n## [${version}] - ${date}\n\n${notes}\n\n${changelog.slice(bodyEnd)}`;
 
@@ -127,7 +197,19 @@ function main() {
 	const version = forced ?? nextVersion(pkg.version, bump);
 	const date = new Date().toISOString().slice(0, 10);
 	const subject = message?.trim().split("\n")[0];
-	const { changelog, notes } = cutChangelog(readFileSync("CHANGELOG.md", "utf8"), version, date, subject);
+	const current = readFileSync("CHANGELOG.md", "utf8");
+	const repo = /^\[Unreleased\]: (https:\/\/github\.com\/[^/]+\/[^/]+)\/compare\//m.exec(current)?.[1];
+	const commits: Microcommit[] = repo
+		? git("log", `${lastTag}..HEAD`, "--abbrev=7", "--format=%H%x09%h%x09%s")
+				.split(/\r?\n/)
+				.filter(Boolean)
+				.map((line) => {
+					const [hash = "", short = "", commitSubject = ""] = line.split("\t");
+					return { hash, short, subject: commitSubject };
+				})
+		: [];
+	const { changelog, notes } = cutChangelog(current, version, date, subject, commits, repo);
+	assertMicrocommitLinks(notes);
 
 	console.log(`${pkg.version} -> ${version} (${forced ? "forced" : bump}, after ${lastTag})`);
 	console.log(`\n${notes}\n`);

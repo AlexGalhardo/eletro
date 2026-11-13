@@ -82,7 +82,7 @@ docker compose --file infra/docker-compose.yml down                         # --
 | `bun run build` | Build de produção; falha se uma variável de ambiente, um post ou um produto for inválido |
 | `bun run check-env` | Só a conferência das variáveis de ambiente (a mesma do começo do build) |
 | `bun run preview` | Serve o build localmente |
-| `bun run check` | svelte-check e TypeScript |
+| `bun run check` | TypeScript (`tsc --noEmit`) |
 | `bun run lint` | Biome (código) e markdownlint (documentação) |
 | `bun run format` | Aplica as correções automáticas dos dois |
 | `bun run test` | Vitest: unitários e integração |
@@ -114,7 +114,7 @@ Declaradas em `src/env.ts`; modelo em `.env.example`. Fora do build de produçã
 
 Como abrir o painel na sua máquina: seção "Abrindo o painel" do [`README.md`](../README.md). Valores de produção: [`deploy.md`](deploy.md).
 
-Variável nova precisa ser declarada em `src/env.ts`. O código de servidor ainda importa `$app/env/private`, que aponta para esse arquivo. Se a variável tiver formato conhecido, entra também em `src/lib/env-check.ts`.
+Variável nova precisa ser declarada em `src/env.ts` e importada como `#env`. Se a variável tiver formato conhecido, entra também em `src/lib/env-check.ts`.
 
 ### Conferência no build
 
@@ -151,7 +151,7 @@ Build local, Docker, testes e preview não têm `VERCEL_ENV=production`, então 
 
 ## Astro 7.4
 
-O site público é gerado por `astro build` (`astro.config.ts`, `output: "static"`). Páginas em `src/pages`, casca em `src/layouts`. Ilhas interativas continuam em Svelte 5, com runes. Imports internos usam `#lib/...` e a extensão do arquivo. Não há `svelte.config.js` nem `vite.config.ts`: o Vitest usa `vitest.config.ts`.
+O site público é gerado por `astro build` (`astro.config.ts`, `output: "static"`). Páginas em `src/pages`, casca em `src/layouts`. Interação no navegador usa `<script>` TypeScript nos componentes `.astro`. Imports internos usam `#lib/...` e a extensão do arquivo. Não há `vite.config.ts`: o Vitest usa `vitest.config.ts`.
 
 ## Usando como template
 

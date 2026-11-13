@@ -1,11 +1,10 @@
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
+import { aliases } from "./src/aliases.ts";
 import { publishJsonForPages } from "./src/lib/pages-output.ts";
-import { frameworkAliases } from "./src/shims/aliases.ts";
 
 export default defineConfig({
 	site: "https://eletroradar.com.br",
@@ -16,7 +15,6 @@ export default defineConfig({
 	// The images and the verification files already live here.
 	publicDir: "static",
 	integrations: [
-		svelte(),
 		{
 			name: "github-pages",
 			hooks: {
@@ -32,6 +30,6 @@ export default defineConfig({
 	],
 	vite: {
 		plugins: [tailwindcss()],
-		resolve: { alias: frameworkAliases },
+		resolve: { alias: aliases },
 	},
 });

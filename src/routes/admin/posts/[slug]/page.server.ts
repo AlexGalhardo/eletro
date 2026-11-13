@@ -1,6 +1,6 @@
-import { error } from "@sveltejs/kit";
 import { getPost, listImages, listProductLists, ValidationError } from "#lib/server/cms.ts";
 import { isPostDeployed } from "#lib/server/deploy.ts";
+import { error } from "#lib/server/http.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 export async function load({ params }) {

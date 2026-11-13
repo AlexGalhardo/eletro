@@ -8,8 +8,8 @@ export const LOGIN_TOKEN = "e2e-login-token";
 export const CONTENT_ROOT = path.join(tmpdir(), "sveltekit-blog-cms-e2e");
 
 /**
- * Opens a page and waits until it is quiet, which is when Svelte has hydrated it.
- * A click that lands before hydration finds a button with no handler yet and does nothing.
+ * Opens a page and waits until it is quiet, which is when the page scripts have run.
+ * A click that lands before that finds a button with no handler yet and does nothing.
  */
 export const open = (page: import("@playwright/test").Page, url: string) =>
 	page.goto(url, { waitUntil: "networkidle" });

@@ -1,7 +1,7 @@
-import { error, json } from "@sveltejs/kit";
 import { z } from "zod";
 import { safeEqual } from "#lib/server/api.ts";
 import { testLogin, testLoginToken } from "#lib/server/auth.ts";
+import { error, json } from "#lib/server/http.ts";
 
 const bodySchema = z.object({ token: z.string().min(1), githubLogin: z.string().min(1) });
 

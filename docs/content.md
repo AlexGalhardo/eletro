@@ -48,7 +48,7 @@ Não use `{` nem `}` no texto: o mdsvex trata como expressão Svelte.
 - `ferramentas`, `limpeza`, `climatizacao`, `moveis`, `lavanderia`, `cozinha`, `cuidados-pessoais`
 - `banheiro`, `cama-mesa-banho`, `iluminacao`, `infantil`, `jardim`
 
-A categoria só aparece no rodapé quando tem post publicado. Categoria nova precisa de entrada em `site.categories` e de ícone Lucide em `src/lib/components/CategoryIcon.svelte`.
+A categoria só aparece no rodapé quando tem post publicado. Categoria nova precisa de entrada em `site.categories` e de ícone em `src/lib/components/CategoryIcon.astro` (`src/lib/icons/lucide.json`).
 
 ## Lista de produtos
 
@@ -83,7 +83,7 @@ Arquivo: `content/products/<lista>.json`, um array de produtos.
 
 Com a flag `allStoreButtons` ligada no navegador ([feature-flags.md](feature-flags.md)), o `CardsTable` mostra os três botões mesmo com link `"#"`; o botão sem link real aponta para a oferta padrão.
 
-Para criar um componente novo: adicione o arquivo em `src/lib/components/`, registre o nome em `CONTENT_COMPONENTS` (`src/lib/content/mdx-preprocess.ts`) e documente nesta tabela.
+Para criar um componente novo: adicione o arquivo `.astro` em `src/lib/components/`, aceite o nome em `CONTENT_COMPONENTS` (`src/lib/content/validate-body.ts`) e documente nesta tabela. O `renderPostBody` é quem insere o componente no HTML.
 
 ## Imagens
 

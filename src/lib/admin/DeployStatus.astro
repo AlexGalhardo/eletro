@@ -1,0 +1,35 @@
+---
+interface Props {
+	deployed: boolean;
+	kind: "github" | "local";
+}
+
+const { deployed, kind } = Astro.props;
+---
+
+<p
+	role="status"
+	data-deploy-status
+	data-deployed={deployed ? "true" : "false"}
+	data-kind={kind}
+	class="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400"
+>
+	<span
+		aria-hidden="true"
+		class:list={["size-2.5 rounded-full", deployed ? "bg-green-500" : "animate-pulse bg-amber-500"]}
+	></span>
+	{
+		deployed
+			? "No ar: o site publicado está com esta versão."
+			: kind === "github"
+				? "Publicando: o deploy leva de 1 a 2 minutos."
+				: "Salvo no disco local: aparece no site no próximo build."
+	}
+</p>
+
+<script>
+	const status = document.querySelector<HTMLElement>("[data-deploy-status]");
+	if (status && status.dataset.deployed !== "true" && status.dataset.kind === "github") {
+		window.setInterval(() => location.reload(), 20_000);
+	}
+</script>

@@ -1,7 +1,7 @@
 ---
 import { getPreviewPosts, postPageData } from "#lib/server/content.ts";
 import Site from "../../layouts/Site.astro";
-import PostPage from "../../routes/(site)/[slug]/page.svelte";
+import PostPage from "../../routes/(site)/[slug]/page.astro";
 
 // Drafts are already public in the repository; this page only lets the editor see them laid out. It is
 // noindex, blocked in robots.txt and left out of the sitemap, llms.txt, the API and the links dashboard.
@@ -26,5 +26,5 @@ const data = postPageData(entry);
 	>
 		Prévia de rascunho: esta página não está publicada. <a href="/admin/flags" class="underline">Feature flags</a>
 	</p>
-	<PostPage data={data} client:load />
+	<PostPage data={data} />
 </Site>

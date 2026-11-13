@@ -1,9 +1,9 @@
-import { json } from "@sveltejs/kit";
 import { z } from "zod";
 import { slugSchema } from "#lib/content/schema.ts";
 import { parseBody, requireAdmin, respond } from "#lib/server/api.ts";
 import { saveProductList } from "#lib/server/cms.ts";
 import { getProductListNames } from "#lib/server/content.ts";
+import { json } from "#lib/server/http.ts";
 import { getStore } from "#lib/server/store/index.ts";
 
 // The products are validated by the CMS service, which answers with messages meant for the editor.

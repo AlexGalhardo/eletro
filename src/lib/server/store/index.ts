@@ -1,4 +1,4 @@
-import { CONTENT_ROOT, GITHUB_BRANCH, GITHUB_REPO, GITHUB_TOKEN } from "$app/env/private";
+import { CONTENT_ROOT, GITHUB_BRANCH, GITHUB_REPO, GITHUB_TOKEN } from "#env";
 import { createGitHubStore } from "./github.ts";
 import { createLocalStore } from "./local.ts";
 import type { ContentStore } from "./types.ts";

@@ -1,0 +1,63 @@
+---
+import { site } from "#lib/site.config.ts";
+---
+
+<main data-confirm class="mx-auto max-w-xl px-4 py-16 text-center text-black dark:text-white">
+	<div data-confirm-form>
+		<h1 class="mb-4 text-3xl font-bold">Confirmar inscrição</h1>
+		<p>Confirme para receber um e-mail sempre que sair uma análise nova no {site.name}.</p>
+		<button
+			type="button"
+			data-confirm-button
+			class="mt-6 rounded-lg bg-green-700 px-5 py-2.5 font-semibold text-white transition-colors hover:bg-green-800 disabled:cursor-not-allowed disabled:opacity-60"
+		>
+			Confirmar minha inscrição
+		</button>
+		<p data-confirm-error hidden role="alert" class="mt-4 text-sm! text-red-600 dark:text-red-400"></p>
+	</div>
+	<div data-confirm-done hidden>
+		<h1 class="mb-4 text-3xl font-bold">Inscrição confirmada</h1>
+		<p role="status">Você vai receber um e-mail sempre que sair uma análise nova.</p>
+	</div>
+	<a href="/" class="mt-6 block text-sm font-semibold text-blue-600 hover:underline dark:text-blue-400">
+		Voltar para o início
+	</a>
+</main>
+
+<script>
+	const root = document.querySelector<HTMLElement>("[data-confirm]");
+	const form = root?.querySelector<HTMLElement>("[data-confirm-form]");
+	const done = root?.querySelector<HTMLElement>("[data-confirm-done]");
+	const button = root?.querySelector<HTMLButtonElement>("[data-confirm-button]");
+	const error = root?.querySelector<HTMLElement>("[data-confirm-error]");
+
+	button?.addEventListener("click", async () => {
+		if (!button || !error || !form || !done) return;
+		button.disabled = true;
+		button.textContent = "Confirmando...";
+		error.hidden = true;
+		let result: "done" | "invalid" | "error" = "done";
+		try {
+			const response = await fetch("/api/v1/newsletter/confirm", {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify({ token: new URLSearchParams(location.search).get("token") ?? "" }),
+			});
+			if (!response.ok) result = response.status >= 500 || response.status === 429 ? "error" : "invalid";
+		} catch {
+			result = "error";
+		}
+		button.disabled = false;
+		button.textContent = "Confirmar minha inscrição";
+		if (result === "done") {
+			form.hidden = true;
+			done.hidden = false;
+			return;
+		}
+		error.hidden = false;
+		error.textContent =
+			result === "invalid"
+				? "Este link de confirmação não vale mais. Faça a inscrição de novo pelo formulário no rodapé."
+				: "Não foi possível confirmar agora. Tente de novo em instantes.";
+	});
+</script>

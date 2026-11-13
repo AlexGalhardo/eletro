@@ -11,7 +11,7 @@ description: Publica a release de um commit - calcula a versão pela mensagem, c
 
 ## 1. Antes do commit
 
-Escreva a mudança em `## [Unreleased]` no `CHANGELOG.md`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`). Mudança sem efeito visível (`docs`, `chore`, `test`) pode ficar sem texto: o script usa o assunto do commit como nota.
+Escreva a mudança em `## [Unreleased]` no `CHANGELOG.md`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`). Cada linha nova linka o microcommit que a introduziu, no formato `([abcdef1](https://github.com/AlexGalhardo/eletro/commit/<hash completo>))`. O hash só existe depois do commit do código: esse microcommit entra primeiro. O script recusa cortar a versão se alguma linha de lista não tiver o link. Sem texto visível (`docs`, `chore`, `test`), a nota é o assunto do commit, também linkada. Um commit, uma mudança. Não esmague commit já publicado.
 
 Se `content/` mudou, rode `bun run post-status` e inclua `docs/post-status.md` no commit.
 

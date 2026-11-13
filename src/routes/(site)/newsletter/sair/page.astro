@@ -1,0 +1,60 @@
+---
+import { site } from "#lib/site.config.ts";
+---
+
+<main data-leave class="mx-auto max-w-xl px-4 py-16 text-center text-black dark:text-white">
+	<div data-leave-form>
+		<h1 class="mb-4 text-3xl font-bold">Cancelar inscrição</h1>
+		<p>Confirme para parar de receber os e-mails do {site.name}.</p>
+		<button
+			type="button"
+			data-leave-button
+			class="mt-6 rounded-lg bg-red-600 px-5 py-2.5 font-semibold text-white transition-colors hover:bg-red-700 disabled:cursor-not-allowed disabled:opacity-60"
+		>
+			Cancelar minha inscrição
+		</button>
+		<p data-leave-error hidden role="alert" class="mt-4 text-sm! text-red-600 dark:text-red-400"></p>
+	</div>
+	<div data-leave-done hidden>
+		<h1 class="mb-4 text-3xl font-bold">Inscrição cancelada</h1>
+		<p role="status">Você não vai mais receber e-mails do {site.name}.</p>
+	</div>
+</main>
+
+<script>
+	const root = document.querySelector<HTMLElement>("[data-leave]");
+	const form = root?.querySelector<HTMLElement>("[data-leave-form]");
+	const done = root?.querySelector<HTMLElement>("[data-leave-done]");
+	const button = root?.querySelector<HTMLButtonElement>("[data-leave-button]");
+	const error = root?.querySelector<HTMLElement>("[data-leave-error]");
+
+	button?.addEventListener("click", async () => {
+		if (!button || !error || !form || !done) return;
+		button.disabled = true;
+		button.textContent = "Cancelando...";
+		error.hidden = true;
+		let result: "done" | "invalid" | "error" = "done";
+		try {
+			const response = await fetch("/api/v1/newsletter/unsubscribe", {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify({ token: new URLSearchParams(location.search).get("token") ?? "" }),
+			});
+			if (!response.ok) result = response.status === 500 ? "error" : "invalid";
+		} catch {
+			result = "error";
+		}
+		button.disabled = false;
+		button.textContent = "Cancelar minha inscrição";
+		if (result === "done") {
+			form.hidden = true;
+			done.hidden = false;
+			return;
+		}
+		error.hidden = false;
+		error.textContent =
+			result === "invalid"
+				? "Este link não vale mais. Use o link do e-mail mais recente."
+				: "Não foi possível cancelar agora. Tente de novo em instantes.";
+	});
+</script>

@@ -8,7 +8,7 @@ O que cada ferramenta do projeto faz, onde está a configuração e qual comando
 |---|---|---|
 | Bun | Gerenciador de pacotes e executor dos scripts (`bun install`, `bun run`, `bunx`) | `bunfig.toml` (força versão exata), `bun.lock` |
 | Node 24 | Onde o Astro, o Vite e os testes rodam | `engines` no `package.json` |
-| Astro 7.4 | Servidor de desenvolvimento, build e preview | `astro.config.ts` (não existe `svelte.config.js` nem `vite.config.ts`) |
+| Astro 7.4 | Servidor de desenvolvimento, build e preview | `astro.config.ts` (não existe `vite.config.ts`) |
 
 Não use npm, yarn nem pnpm: o lockfile é o do Bun.
 
@@ -16,7 +16,7 @@ Não use npm, yarn nem pnpm: o lockfile é o do Bun.
 
 | Ferramenta | Verifica | Comando | Configuração |
 |---|---|---|---|
-| svelte-check e TypeScript 6 | Tipos em `.ts` e `.svelte` | `bun run check` | `tsconfig.json` |
+| TypeScript 6 | Tipos em `.ts` | `bun run check` | `tsconfig.json` |
 | Biome 2 | Formatação e lint do código | `bun run lint:code`, `bun run format` | `biome.json`, `.editorconfig` |
 | markdownlint-cli2 | Documentação, regras e skills do projeto | `bun run lint:md` | `.markdownlint-cli2.jsonc` |
 | Vitest | Testes unitários e de integração | `bun run test` | `vitest.config.ts` |

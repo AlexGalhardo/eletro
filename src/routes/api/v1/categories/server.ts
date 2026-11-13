@@ -1,5 +1,5 @@
-import { json } from "@sveltejs/kit";
 import { getPosts } from "#lib/server/content.ts";
+import { json } from "#lib/server/http.ts";
 import { site } from "#lib/site.config.ts";
 
 export function GET() {

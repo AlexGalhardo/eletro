@@ -1,7 +1,7 @@
 ---
-import Footer from "#lib/components/Footer.svelte";
-import Header from "#lib/components/Header.svelte";
-import LoadingBar from "#lib/components/LoadingBar.svelte";
+import Footer from "#lib/components/Footer.astro";
+import Header from "#lib/components/Header.astro";
+import LoadingBar from "#lib/components/LoadingBar.astro";
 import { coverVariant } from "#lib/content/cover.ts";
 import { coverWidths, getSitePosts } from "#lib/server/content.ts";
 import Root from "./Root.astro";
@@ -19,8 +19,8 @@ const searchIndex = posts.map(({ slug, title, date, cover, category }) => ({
 ---
 
 <Root {...Astro.props}>
-	<LoadingBar client:load />
-	<Header posts={searchIndex} client:load />
+	<LoadingBar />
+	<Header posts={searchIndex} />
 	<slot />
-	<Footer activeCategories={activeCategories} client:load />
+	<Footer activeCategories={activeCategories} />
 </Root>
