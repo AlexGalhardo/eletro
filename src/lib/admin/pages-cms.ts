@@ -1,5 +1,6 @@
 import { announce } from "@ui-sdk/core";
-import { decodeFile, PagesRepository, type RepoFile } from "./github-pages.ts";
+import { openCredential, type SealedCredential } from "./credential.ts";
+import { decodeFile, GithubError, PagesRepository, type RepoFile } from "./github-pages.ts";
 
 const folders = ["content/posts", "content/products", "content", "static/images"] as const;
 
@@ -7,6 +8,7 @@ export function initPagesCms(): void {
 	const root = document.querySelector<HTMLElement>("[data-pages-cms]");
 	if (!root) return;
 	const login = root.querySelector<HTMLElement>("[data-login]");
+	const workspaceHeader = root.querySelector<HTMLElement>("[data-workspace-header]");
 	const workspace = root.querySelector<HTMLElement>("[data-workspace]");
 	const message = root.querySelector<HTMLElement>("[data-message]");
 	const list = root.querySelector<HTMLUListElement>("[data-files]");
@@ -89,17 +91,24 @@ export function initPagesCms(): void {
 		event.preventDefault();
 		const form = event.currentTarget as HTMLFormElement;
 		const tokenInput = form.elements.namedItem("token") as HTMLInputElement;
-		const candidate = new PagesRepository(root.dataset.repo ?? "", tokenInput.value.trim());
 		try {
+			const sealed = await fetch("/admin-credential.json", { cache: "no-store" });
+			const token = sealed.ok
+				? await openCredential((await sealed.json()) as SealedCredential, tokenInput.value)
+				: tokenInput.value.trim();
+			const candidate = new PagesRepository(root.dataset.repo ?? "", token);
 			await candidate.connect();
 			repository = candidate;
 			tokenInput.value = "";
 			if (login) login.hidden = true;
+			if (workspaceHeader) workspaceHeader.hidden = false;
 			if (workspace) workspace.hidden = false;
 			if (logout) logout.hidden = false;
 			await openFolder(folder);
 		} catch (error) {
-			status(error instanceof Error ? error.message : "Não foi possível entrar.");
+			status(
+				error instanceof GithubError ? error.message : "Não foi possível entrar. Confira a senha.",
+			);
 		}
 	});
 
@@ -109,6 +118,7 @@ export function initPagesCms(): void {
 		files = [];
 		if (editor) editor.value = "";
 		if (login) login.hidden = false;
+		if (workspaceHeader) workspaceHeader.hidden = true;
 		if (workspace) workspace.hidden = true;
 		logout.hidden = true;
 		if (review) review.hidden = true;

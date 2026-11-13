@@ -6,6 +6,8 @@ Toda mudança de código ou conteúdo chega à `main` por PR. O ruleset ativo do
 
 O workflow [`.github/workflows/ci.yml`](../.github/workflows/ci.yml) roda em PR: instala dependências, faz lint, confere tipos, testa, compila e roda Playwright. O [workflow do Pages](../.github/workflows/pages.yml) publica a `main` depois do merge. O workflow automático de release continua em `.github/workflows-disabled/release.yml`.
 
+Para liberar a entrada no `/admin` apenas com senha, cadastre `ADMIN_GITHUB_TOKEN` e `ADMIN_PASSWORD` em **Settings → Secrets and variables → Actions**. O build do Pages produz somente a credencial criptografada. Os dois segredos precisam estar presentes e a senha deve ter pelo menos 20 caracteres. Reexecute o workflow do Pages após cadastrá-los ou alterá-los.
+
 O painel `/admin` também abre PR: o primeiro salvamento cria uma branch `cms/*`, faz commit e abre a revisão. Outros salvamentos na mesma aba atualizam o mesmo PR. O conteúdo só entra no site depois do merge e do build do Pages.
 
 ## Releases sob pedido
