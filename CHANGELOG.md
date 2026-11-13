@@ -29,6 +29,10 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - [87ba6b1](https://github.com/AlexGalhardo/eletro/commit/87ba6b1) — restauração dos prompts de conteúdo.
 - [bee9e9f](https://github.com/AlexGalhardo/eletro/commit/bee9e9f) — entrada com senha e credencial criptografada.
 
+### Fixed
+
+- URL de consulta ao repositório no login sem barra final, evitando falha de preflight CORS no GitHub.
+
 ## [0.10.0] - 2026-11-13
 
 Importação em lote, feature flags, home com barra lateral e rascunhos.
