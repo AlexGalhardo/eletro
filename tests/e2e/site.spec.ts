@@ -110,7 +110,16 @@ test.describe("search and navigation", () => {
 		await page.goto("/");
 		if (isMobile) await page.getByRole("button", { name: "Buscar" }).click();
 
-		await page.getByRole("textbox", { name: "Buscar" }).fill("maquina de lavar");
+		const search = page.getByRole("textbox", { name: "Buscar" });
+		await search.fill("maquina de lavar");
+		await search.blur();
+		await search.focus();
+		expect(
+			await search.evaluate(
+				(input: HTMLInputElement) =>
+					input.selectionStart === 0 && input.selectionEnd === input.value.length,
+			),
+		).toBe(true);
 		const option = page.getByRole("option").first();
 		await expect(option).toContainText(/máquina de lavar/i);
 		await option.click();
@@ -200,7 +209,10 @@ test.describe("post", () => {
 
 test("contact provides a working mail link on the static host", async ({ page }) => {
 	await page.goto("/contato");
-	await expect(page.getByRole("link", { name: "Enviar e-mail" })).toHaveAttribute("href", /^mailto:/);
+	await expect(page.getByRole("link", { name: "Enviar e-mail" })).toHaveAttribute(
+		"href",
+		"mailto:contato@example.com",
+	);
 });
 
 test("unknown pages render the 404 page", async ({ page }) => {

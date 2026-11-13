@@ -6,6 +6,16 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+### Added
+
+- No `/admin`, o post ganha campos de slug, data, título, descrição, categoria, autor, rascunho e capa, com prévia da capa, das imagens do texto e do upload.
+- O painel lista as listas vinculadas ao post e os posts que usam cada JSON, e permite escolher uma capa já enviada.
+
+### Changed
+
+- O e-mail de contato público passa a ser `contato@example.com`.
+- A busca da barra seleciona o texto ao receber foco. O `/admin` alterna o tema claro e escuro.
+
 ## [0.11.0] - 2026-11-13
 
 ### Added
