@@ -6,6 +6,12 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.13.0] - 2026-11-13
+
+### Changed
+
+- Os cards de outras postagens mostram a capa em cima e o texto embaixo. A data fica pequena, só com o dia, o mês e o ano, e a lista passa a ter cinco cards. ([2cd7b79](https://github.com/AlexGalhardo/eletro/commit/2cd7b79f45f957ad51eec78d891e6dd3cb026dbf))
+
 ## [0.12.0] - 2026-11-13
 
 ### Added
@@ -460,7 +466,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.12.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.13.0...HEAD
+[0.13.0]: https://github.com/AlexGalhardo/eletro/compare/v0.12.0...v0.13.0
 [0.12.0]: https://github.com/AlexGalhardo/eletro/compare/v0.11.1...v0.12.0
 [0.11.1]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...v0.11.1
 [0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
