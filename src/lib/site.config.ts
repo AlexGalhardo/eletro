@@ -9,6 +9,7 @@ export const site = {
 	domain: "eletroradar",
 	/** Production origin without trailing slash. Overridden by the PUBLIC_SITE_URL env var when set. */
 	url: "https://example.com",
+	githubRepo: "AlexGalhardo/eletro",
 	locale: "pt-BR",
 	title: "EletroRadar - Análises De Eletrodomésticos",
 	description: "Análises e recomendações de eletrodomésticos que cabem no seu bolso.",
@@ -25,7 +26,7 @@ export const site = {
 		"eletrodomésticos de qualidade",
 		"mercado livre",
 	],
-	logo: "/logo.png",
+	logo: "/icon.svg",
 	ogImage: "/logo.png",
 	contactEmail: "aleexgvieira@gmail.com",
 

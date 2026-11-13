@@ -34,14 +34,14 @@ vite.config.ts.timestamp-*
 /static/images/covers/w*/
 
 # Parallel worktrees created by agents
-/.claude/worktrees
+/.agents/worktrees
 
 # Knowledge graph cache (rebuild with `python -m graphify update .`)
 /graphify-out
 
 # Agent skills written by the Neon integration of the Vercel CLI
-/.agents
+/.agents/settings.local.json
 /skills-lock.json
-/.claude/skills/neon*
+/.agents/skills/neon*
 
 TODO.md

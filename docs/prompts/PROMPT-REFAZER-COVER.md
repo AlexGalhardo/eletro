@@ -1,1 +1,0 @@
-Dado essa primeira imagem com fundo todo claro, quero que você refaça essa segunda imagem, identificando a cor predominante que não seja preto no fundo, tornando ela claro e  mantendo o eletroradar com cor preta e negrito

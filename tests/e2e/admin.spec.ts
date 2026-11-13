@@ -2,22 +2,16 @@ import { expect, test } from "./test.ts";
 
 test.describe("admin access", () => {
 	for (const path of ["/admin", "/admin/posts", "/admin/login"]) {
-		test(`anonymous visitor on ${path} sees the login gate`, async ({ page }) => {
+		test(`anonymous visitor on ${path} sees the GitHub token form`, async ({ page }) => {
 			await page.goto(path);
-
-			await expect(page).toHaveURL(new RegExp(`${path}/?$`));
-			await expect(page.getByRole("heading", { level: 1 })).toContainText("Admin");
-			await expect(
-				page.getByText(
-					/O painel ainda não está configurado|O login pelo GitHub ou Google não está configurado/,
-				),
-			).toBeVisible();
+			await expect(page.getByRole("heading", { level: 1 })).toContainText("Painel editorial");
+			await expect(page.getByLabel("Token do GitHub")).toBeVisible();
+			await expect(page.getByRole("button", { name: "Salvar no GitHub" })).toBeHidden();
 		});
 	}
 
-	test("the login page is never indexable", async ({ request }) => {
+	test("the admin stays out of search engines", async ({ request }) => {
 		const response = await request.get("/admin/login");
-
 		expect(response.status()).toBe(200);
 		expect(await response.text()).toContain('content="noindex');
 	});
@@ -28,11 +22,9 @@ test.describe("REST API", () => {
 
 	test("public reads are JSON at the trailing-slash URL", async ({ request }) => {
 		const posts = await request.get("/api/v1/posts/index.json");
-
 		expect(posts.status()).toBe(200);
 		expect(posts.headers()["content-type"]).toContain("application/json");
 		expect((await posts.json()).data.length).toBeGreaterThan(0);
-
 		const products = await request.get("/api/v1/products/index.json");
 		expect(products.headers()["content-type"]).toContain("application/json");
 		expect((await products.json()).data.length).toBeGreaterThan(0);
@@ -43,13 +35,11 @@ test.describe("REST API", () => {
 			data: { slug: "novo-post" },
 			maxRedirects: 0,
 		});
-
 		expect(response.status()).toBe(404);
 	});
 
 	test("serves the OpenAPI document as JSON", async ({ request }) => {
 		const response = await request.get("/api/v1/openapi.json");
-
 		expect(response.status()).toBe(200);
 		expect(response.headers()["content-type"]).toContain("application/json");
 		const document = await response.json();

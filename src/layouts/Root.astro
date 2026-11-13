@@ -50,7 +50,7 @@ const analytics = [
 				if (localStorage.getItem("theme-preference") === "dark") document.documentElement.classList.add("dark");
 			} catch {}
 		</script>
-		<link rel="icon" href={site.logo} />
+		<link rel="icon" type="image/svg+xml" href={site.logo} />
 		<meta name="keywords" content={site.keywords.join(", ")} />
 		<meta name="author" content={site.domain} />
 		{googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}

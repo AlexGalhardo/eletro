@@ -1,14 +1,9 @@
 ---
+import PagesCms from "#lib/admin/PagesCms.astro";
 import { site } from "#lib/site.config.ts";
 import Root from "../../layouts/Root.astro";
-import Login from "../../routes/admin/login/page.astro";
-import { load } from "../../routes/admin/login/page.server.ts";
-
-const data = load();
 ---
 
-<Root title={`Entrar - ${site.name}`} description="Acesso restrito ao painel." path="/admin" noindex>
-	<main class="mx-auto max-w-6xl px-4 py-8">
-		<Login data={data} />
-	</main>
+<Root title={`Painel editorial - ${site.name}`} description="Edite o conteúdo do site." path="/admin" noindex>
+	<PagesCms />
 </Root>

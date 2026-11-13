@@ -9,7 +9,7 @@
 | Estilo | Tailwind CSS 4 |
 | Validação | zod |
 | Banco | Postgres (Neon) com Drizzle ORM; PGlite embutido em desenvolvimento e testes |
-| Autenticação | better-auth com login pelo GitHub |
+| Autenticação | Token fine-grained do GitHub no painel estático; better-auth preservado para o servidor antigo |
 | E-mail | Resend + react-email |
 | Importação | `fetch` + cheerio (`webscrapping/`) |
 | Imagens | sharp, só no build, para as cópias das capas |
@@ -18,10 +18,10 @@
 
 ## Duas metades
 
-- **Site público** (`src/pages/` + `src/routes/(site)/`): HTML estático gerado no build a partir dos arquivos de `content/`. O formulário de contato e a newsletter chamam a API no navegador; o GitHub Pages não executa essas rotas.
-- **Painel e API** (`src/routes/admin/`, `src/routes/api/`): o código segue no repositório e os testes chamam essas funções. No Pages, `/admin` entrega a tela de login estática. Leitura pública de posts e produtos sai como JSON no build. Escrita, sessão e e-mail não rodam no host.
+- **Site público** (`src/pages/` + `src/routes/(site)/`): HTML estático gerado no build a partir dos arquivos de `content/`. O contato abre o programa de e-mail; o Pages não executa rotas de envio ou newsletter.
+- **Painel e API** (`src/pages/admin/`, `src/lib/admin/`): `/admin` usa a API do GitHub no navegador para salvar numa branch e abrir PR. As rotas antigas de sessão e escrita em `src/routes/admin/` e `src/routes/api/` seguem no repositório e nos testes, mas não rodam no Pages.
 
-O elo entre as duas é o Git: o painel faz um commit, a plataforma refaz o build, e o site novo sai com o conteúdo novo.
+O elo entre as duas é o Git: o painel abre um PR, o merge dispara o build e o site novo sai com o conteúdo aprovado.
 
 ## Pastas
 
@@ -69,7 +69,8 @@ tests/
   unit/, integration/       Vitest
   e2e/                      Playwright (smoke e e2e)
 .github/workflows/pages.yml  deploy do site estático no GitHub Pages
-.github/workflows-disabled/ CI e release, inativos
+.github/workflows/          CI em PR e deploy do Pages
+.github/workflows-disabled/ release automático inativo
 docs/                       esta documentação
 ```
 
@@ -101,6 +102,6 @@ O resultado é HTML estático em `dist/`.
 
 - Post com data futura só aparece depois de um novo build nessa data.
 - O índice de busca (título e slug de todos os posts) é enviado em toda página. Adequado até algumas centenas de posts.
-- As páginas Sobre, Termos e Privacidade são rotas Svelte com texto próprio do EletroRadar; ainda não são conteúdo editável.
+- As páginas Sobre, Termos e Privacidade são páginas Astro com texto próprio do site; ainda não são conteúdo editável.
 - O painel depende de um deploy por commit: sem integração de deploy contínuo com o repositório, o conteúdo salvo não chega ao site.
 - Limites do painel, da API, da newsletter e da importação estão nos documentos de cada um.

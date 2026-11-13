@@ -4,12 +4,13 @@ import Root from "../layouts/Root.astro";
 ---
 
 <Root title={`404 - Página Não Encontrada`} description={site.description} path="/404.html" noindex>
-	<div class="flex min-h-screen items-center justify-center bg-white dark:bg-black">
-		<div class="text-center">
-			<h1 class="mb-4 text-4xl font-bold text-black dark:text-white">404</h1>
-			<p class="mb-4 text-black dark:text-white">Página Não Encontrada</p>
-			<a href="/" class="text-sm font-semibold text-blue-600 hover:underline dark:text-blue-400">
-				Voltar para o início
+	<div class="flex min-h-screen items-center justify-center bg-[#F6F4ED] px-4 dark:bg-black">
+		<div class="max-w-lg text-center">
+			<p class="text-sm font-semibold text-blue-700 dark:text-blue-400">Erro 404</p>
+			<h1 class="mt-3 text-4xl font-bold tracking-tight text-black dark:text-white">Página não encontrada</h1>
+			<p class="mt-4 text-base leading-7 text-gray-600 dark:text-gray-300">O endereço pode ter mudado. Volte ao início e encontre outras análises.</p>
+			<a href="/" class="mt-7 inline-flex rounded-lg bg-blue-700 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-800">
+				Ver publicações
 			</a>
 		</div>
 	</div>

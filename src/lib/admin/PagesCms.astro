@@ -1,0 +1,87 @@
+---
+import { site } from "#lib/site.config.ts";
+
+const repo = site.githubRepo;
+---
+
+<div data-pages-cms data-repo={repo} class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:py-12">
+	<header class="mb-8 flex flex-wrap items-center justify-between gap-4 border-b border-gray-200 pb-6 dark:border-zinc-800">
+		<div>
+			<a href="/" class="text-sm font-semibold text-blue-700 hover:underline dark:text-blue-400">← Voltar ao site</a>
+			<h1 class="mt-3 font-russo-one text-3xl tracking-tight">Painel editorial</h1>
+			<p class="mt-2 max-w-2xl text-sm text-gray-600 dark:text-gray-400">
+				Edite os arquivos do blog. O painel salva em uma branch e abre um PR para revisão antes da publicação.
+			</p>
+		</div>
+		<button type="button" data-logout hidden class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Sair</button>
+	</header>
+
+	<section data-login class="mx-auto max-w-lg rounded-2xl border border-gray-200 bg-white p-6 shadow-sm dark:border-zinc-800 dark:bg-zinc-950 sm:p-8">
+		<h2 class="text-xl font-bold">Entrar com GitHub</h2>
+		<p class="mt-3 text-sm leading-6 text-gray-600 dark:text-gray-400">
+			Use um token pessoal fine-grained com acesso apenas a <strong>{repo}</strong> e permissão{" "}
+			<strong>Contents: Read and write</strong> e <strong>Pull requests: Read and write</strong>. O token fica somente na memória desta aba e é esquecido ao sair ou recarregar.
+		</p>
+		<form data-login-form class="mt-6">
+			<label for="github-token" class="block text-sm font-semibold">Token do GitHub</label>
+			<input id="github-token" name="token" type="password" required autocomplete="off" spellcheck="false" class="mt-2 w-full rounded-lg border border-gray-300 bg-white px-3 py-3 text-sm focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-600/30 dark:border-zinc-700 dark:bg-zinc-900" />
+			<button type="submit" class="mt-4 w-full rounded-lg bg-blue-700 px-4 py-3 text-sm font-bold text-white hover:bg-blue-800">Abrir painel</button>
+		</form>
+		<a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer" class="mt-4 inline-block text-sm text-blue-700 underline dark:text-blue-400">Criar token no GitHub</a>
+	</section>
+
+	<section data-workspace hidden class="grid gap-6 lg:grid-cols-[18rem_minmax(0,1fr)]">
+		<aside class="rounded-2xl border border-gray-200 bg-white p-4 dark:border-zinc-800 dark:bg-zinc-950">
+			<h2 class="px-2 text-sm font-bold">Conteúdo</h2>
+			<nav aria-label="Tipos de conteúdo" class="mt-3 grid grid-cols-2 gap-2 lg:grid-cols-1">
+				<button type="button" data-folder="content/posts" class="rounded-lg px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-zinc-900">Posts</button>
+				<button type="button" data-folder="content/products" class="rounded-lg px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-zinc-900">Produtos</button>
+				<button type="button" data-folder="content" class="rounded-lg px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-zinc-900">Configuração JSON</button>
+				<button type="button" data-folder="static/images" class="rounded-lg px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-zinc-900">Imagens</button>
+			</nav>
+			<div class="mt-5 border-t border-gray-200 pt-4 dark:border-zinc-800">
+				<label for="file-search" class="text-xs font-semibold">Buscar arquivo</label>
+				<input id="file-search" type="search" placeholder="Nome do arquivo" class="mt-2 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm dark:border-zinc-700 dark:bg-zinc-900" />
+				<ul data-files class="mt-3 max-h-96 space-y-1 overflow-auto text-sm"></ul>
+			</div>
+		</aside>
+		<div class="min-w-0 space-y-6">
+			<section data-text-panel class="rounded-2xl border border-gray-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950 sm:p-7">
+				<div class="flex flex-wrap items-center justify-between gap-3">
+					<div>
+						<h2 class="text-xl font-bold">Editor de arquivos</h2>
+						<p data-path class="mt-1 break-all text-sm text-gray-500">Selecione um arquivo ou crie um novo.</p>
+					</div>
+					<button type="button" data-new class="rounded-lg border border-gray-300 px-3 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Novo arquivo</button>
+				</div>
+				<label for="editor" class="mt-6 block text-sm font-semibold">Conteúdo MDX ou JSON</label>
+				<textarea id="editor" data-editor rows="22" spellcheck="false" class="mt-2 w-full rounded-lg border border-gray-300 bg-gray-50 p-4 font-mono text-sm leading-6 focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-600/30 dark:border-zinc-700 dark:bg-zinc-900"></textarea>
+				<div class="mt-4 flex flex-wrap items-center gap-3">
+					<button type="button" data-save class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-bold text-white hover:bg-blue-800 disabled:opacity-50">Salvar no GitHub</button>
+					<span class="text-xs text-gray-500">Revise o conteúdo antes de publicar. O build valida MDX e JSON.</span>
+				</div>
+			</section>
+			<section class="rounded-2xl border border-gray-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950 sm:p-7">
+				<h2 class="text-xl font-bold">Enviar imagem</h2>
+				<p class="mt-2 text-sm text-gray-600 dark:text-gray-400">PNG, JPEG ou WebP até 4 MB. O arquivo é salvo em <code>static/images/</code>.</p>
+				<form data-upload-form class="mt-4 flex flex-wrap items-end gap-3">
+					<label class="text-sm font-semibold">Pasta
+						<select name="folder" class="mt-1 block rounded-lg border border-gray-300 bg-white px-3 py-2 dark:border-zinc-700 dark:bg-zinc-900"><option value="covers">Capas</option><option value="posts">Posts</option></select>
+					</label>
+					<label class="text-sm font-semibold">Arquivo
+						<input name="image" type="file" accept="image/png,image/jpeg,image/webp" required class="mt-1 block max-w-full text-sm" />
+					</label>
+					<button type="submit" class="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-900">Enviar</button>
+				</form>
+			</section>
+		</div>
+	</section>
+	<p data-message role="status" aria-live="polite" class="mx-auto mt-5 max-w-2xl text-center text-sm font-medium"></p>
+	<p class="mt-3 text-center"><a data-review href="https://github.com" hidden target="_blank" rel="noopener noreferrer" class="text-sm font-semibold text-blue-700 underline dark:text-blue-400">Abrir pull request no GitHub</a></p>
+</div>
+
+<script>
+	import { initPagesCms } from "#lib/admin/pages-cms.ts";
+
+	initPagesCms();
+</script>

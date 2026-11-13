@@ -12,8 +12,8 @@
 	"globs": [
 		"*.md",
 		"docs/**/*.md",
-		".claude/rules/**/*.md",
-		".claude/skills/project-*/**/*.md",
+		".agents/rules/**/*.md",
+		".agents/skills/project-*/**/*.md",
 		".github/**/*.md"
 	],
 	"ignores": ["node_modules", "PROMPT-CREATE-CMS.md", "docs/prompts"]
