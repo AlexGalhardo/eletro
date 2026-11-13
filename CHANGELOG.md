@@ -28,6 +28,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 - [9dcb638](https://github.com/AlexGalhardo/eletro/commit/9dcb638) — CMS estático, redesign, CI e fluxo por PR.
 - [87ba6b1](https://github.com/AlexGalhardo/eletro/commit/87ba6b1) — restauração dos prompts de conteúdo.
 - [bee9e9f](https://github.com/AlexGalhardo/eletro/commit/bee9e9f) — entrada com senha e credencial criptografada.
+- [6e5a7ff](https://github.com/AlexGalhardo/eletro/commit/6e5a7ff) — correção da URL de autenticação no GitHub.
 
 ### Fixed
 
