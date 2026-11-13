@@ -11,6 +11,7 @@ Esta seção substitui as decisões históricas abaixo quando houver conflito. A
 - [x] Releases e tags 0.11.x a 0.13.0 removidas; notas acumuladas em `Unreleased`.
 - [x] `.claude/` migrada para `.agents/` e documentação consolidada.
 - [x] CI dos PRs, deploy do Pages e release `v0.11.0` conferidos.
+- [x] Editor do `/admin` com campos do post, prévias de imagem, vínculos de listas e e-mail `contato@example.com`.
 
 Planejamento vivo do projeto. Toda sessão de trabalho começa lendo este arquivo e termina atualizando os checklists.
 

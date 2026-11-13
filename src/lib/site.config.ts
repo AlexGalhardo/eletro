@@ -28,7 +28,7 @@ export const site = {
 	],
 	logo: "/icon.svg",
 	ogImage: "/logo.png",
-	contactEmail: "aleexgvieira@gmail.com",
+	contactEmail: "contato@example.com",
 
 	footer: {
 		tagline: "O EletroRadar é um blog especializado em análises de eletrodomésticos.",
