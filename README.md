@@ -12,11 +12,11 @@
 
 ## Introdução
 
-Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://eletroradar.com.br>. O código é um CMS de blog em Astro 7.4, com ilhas Svelte 5, publicado no GitHub Pages.
+Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://eletroradar.com.br>. O código é um CMS de blog em Astro 7.4 e TypeScript, publicado no GitHub Pages.
 
 - **Conteúdo:** posts em Markdown (`content/posts/*.mdx`) e listas de produtos em JSON (`content/products/*.json`), no próprio repositório.
 - **Site público:** estático, gerado no build.
-- **Painel `/admin`:** login com GitHub ou Google, restrito a uma lista de usuários. Cada alteração vira um commit e entra no ar no deploy seguinte.
+- **Painel `/admin`:** token fine-grained do GitHub usado apenas na aba. Cada alteração cria um commit em uma branch e um PR; o merge publica no Pages.
 - **Links de afiliado:** gerenciados pelo dashboard de links (`links.lekzera.xyz`). O build registra os links lá e os botões passam pelo redirect dele. Ver [`docs/affiliate-links.md`](docs/affiliate-links.md).
 
 ## Sumário
@@ -52,7 +52,7 @@ bun install
 bun run dev        # http://localhost:5173
 ```
 
-Painel na sua máquina, variáveis de ambiente e roteiro completo: [`docs/agent-setup.md`](docs/agent-setup.md) e [`docs/development.md`](docs/development.md).
+Configuração e fluxo de trabalho: [`docs/development.md`](docs/development.md) e [`docs/workflows.md`](docs/workflows.md).
 
 ## Comandos
 
@@ -69,7 +69,7 @@ Painel na sua máquina, variáveis de ambiente e roteiro completo: [`docs/agent-
 
 ## Usar como template
 
-1. Edite `src/lib/site.config.ts`: nome, URL, autores, categorias, analytics.
+1. Edite `src/lib/site.config.ts`: nome, URL, repositório GitHub, autores, categorias e analytics.
 2. Troque o conteúdo de `content/` e as imagens de `static/images/`. Formato em [`docs/content.md`](docs/content.md).
 3. Reescreva Sobre, Contato, Termos e Privacidade em `src/routes/(site)/`.
 4. Ajuste em `tests/` os números e nomes que conferem o conteúdo de demonstração.
@@ -82,10 +82,10 @@ O índice completo está em [`docs/README.md`](docs/README.md). Os mais usados:
 
 | Documento | Assunto |
 |---|---|
-| [`docs/agent-setup.md`](docs/agent-setup.md) | Preparar o projeto do zero |
+| [`docs/development.md`](docs/development.md) | Instalar e rodar o projeto |
 | [`docs/architecture.md`](docs/architecture.md) | Pastas, fluxo de dados e decisões |
 | [`docs/content.md`](docs/content.md) | Formato de posts e produtos |
-| [`docs/cms.md`](docs/cms.md) | Painel, banco, autenticação e armazenamento |
+| [`docs/cms.md`](docs/cms.md) | Painel estático e gravação por PR |
 | [`docs/affiliate-links.md`](docs/affiliate-links.md) | Links de afiliado e o dashboard de links |
 | [`docs/workflows.md`](docs/workflows.md) | Commits, release e deploy |
 | [`AGENTS.md`](AGENTS.md) | Instruções para agentes de código |
@@ -93,7 +93,7 @@ O índice completo está em [`docs/README.md`](docs/README.md). Os mais usados:
 
 ## Estabilidade
 
-O projeto segue [SemVer](https://semver.org/lang/pt-BR/) e publica cada versão como tag `vX.Y.Z` com GitHub Release. O histórico está em [`CHANGELOG.md`](CHANGELOG.md), no formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
+O projeto segue [SemVer](https://semver.org/lang/pt-BR/). Versões são publicadas como tag `vX.Y.Z` e GitHub Release somente quando o dono pedir. As mudanças aguardam em `Unreleased` no [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Contribuindo
 

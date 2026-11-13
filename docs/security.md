@@ -1,5 +1,13 @@
 # Segurança
 
+## Painel estático no Pages (2026-11-13)
+
+O `/admin` publicado usa um token fine-grained do GitHub com acesso limitado ao repositório, guardado apenas em memória na aba. Um arquivo JSON público com email e senha não ofereceria autenticação segura. O navegador envia o token somente a `api.github.com`; o painel nunca o coloca em URL, HTML, `localStorage`, `sessionStorage` ou logs. O primeiro salvamento abre uma branch `cms/*` e um PR, que passa pelo CI antes de chegar à `main`. A proteção da `main` é um ruleset ativo no GitHub.
+
+Riscos restantes: um script malicioso na mesma origem poderia ler o token enquanto a aba está aberta; CSP continua pendente. Um token comprometido permite editar a branch, portanto o token deve ser limitado ao repositório e revogado no GitHub se houver suspeita. O editor textual valida sintaxe JSON e tamanho/tipo de imagem, enquanto o CI valida o conteúdo completo. O Pages não aplica os cabeçalhos de segurança dos handlers de servidor descritos abaixo.
+
+As seções seguintes documentam o servidor preservado no repositório, que não executa no host de produção.
+
 Relatório da revisão de 2026-10-06 (item R2 do [`PLAN.md`](../PLAN.md)) e modelo de ameaças do projeto. A revisão foi feita por um agente auditor independente, só com leitura, seguindo a skill `security-and-hardening` e a edição 2025 do [OWASP Top Ten](https://owasp.org/projects/top-ten).
 
 **Resultado:** nenhum achado crítico. Um achado alto, corrigido. Não há achado alto ou crítico em aberto. Ficam em aberto três médios e baixos, listados abaixo com o motivo.
@@ -84,7 +92,7 @@ Nenhuma tem correção disponível subindo uma dependência direta do projeto. R
 
 - Tag ou atributo novo liberado no corpo do post passa por `src/lib/content/validate-body.ts` e ganha teste em `validate-body.test.ts`.
 - Cabeçalho de resposta do servidor entra em `src/hooks.server.ts`. O GitHub Pages não aplica esses cabeçalhos nas páginas estáticas; a política de referrer também está no `<meta>` de `src/layouts/Root.astro`.
-- Página estática pública nova (como `/preview` e `/admin/flags`): não coloque segredo nem dado de assinante no build, e não trate flag de navegador como permissão. Detalhes em [feature-flags.md](feature-flags.md#segurança).
+- Página estática pública nova (como `/preview` e `/admin/flags`): não coloque segredo nem dado de assinante no build, e não trate flag de navegador como permissão. Detalhes em [content.md](content.mdça).
 - Endpoint novo que busca uma URL informada por alguém precisa de lista de hosts permitidos, só `https`, sem seguir redirecionamento para fora da lista, com limite de tempo e de tamanho.
 
 ## Robôs, scraping e IA

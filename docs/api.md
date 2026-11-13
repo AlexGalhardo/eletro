@@ -2,7 +2,7 @@
 
 A descrição completa, gerada dos mesmos schemas zod que validam o conteúdo, é servida em `/api/v1/openapi.json` (OpenAPI 3.1). Este documento resume as regras.
 
-No GitHub Pages cada leitura pública é um `index.json`. A URL que responde 200 com `Content-Type: application/json` leva barra no final (`/api/v1/health/`, `/api/v1/posts/`, `/api/v1/posts/{slug}/`, e o mesmo para produtos e categorias). O caminho sem a barra redireciona para ela. `openapi.json` já tem extensão. Contato, newsletter e o painel não rodam nesse host: os handlers continuam no repositório e nos testes de integração.
+No GitHub Pages cada leitura pública é um `index.json`. A URL que responde 200 com `Content-Type: application/json` leva barra no final (`/api/v1/health/`, `/api/v1/posts/`, `/api/v1/posts/{slug}/`, e o mesmo para produtos e categorias). O caminho sem a barra redireciona para ela. `openapi.json` já tem extensão. Os handlers de escrita, contato e newsletter continuam no repositório e nos testes, mas não rodam nesse host. O painel estático usa diretamente a API do GitHub.
 
 ## Endpoints
 
@@ -58,7 +58,7 @@ No GitHub Pages cada leitura pública é um `index.json`. A URL que responde 200
 - O limite de requisições fica na memória de cada instância do servidor. Em plataforma serverless cada instância conta separado; é uma barreira contra abuso simples, não uma garantia.
 - O GitHub Pages não executa `POST`, `PUT` nem `DELETE`. Esses handlers existem para os testes de integração e para um servidor que os rode.
 - Não há endpoint para excluir lista de produtos nem imagem.
-- `GET /newsletter/dispatches/run` altera estado apesar de ser `GET`, para um agendador poder chamá-lo. O GitHub Pages não dispara essa rota. Detalhes em [`newsletter.md`](newsletter.md).
+- `GET /newsletter/dispatches/run` altera estado apesar de ser `GET`, para um agendador poder chamá-lo. O GitHub Pages não dispara essa rota. Detalhes em [`cms.md`](cms.md).
 - As operações não têm `operationId` no `openapi.json`.
 
 ## Onde fica o código

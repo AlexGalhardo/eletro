@@ -21,7 +21,7 @@ Deixe explicito no claude/agents.md para carregar essas skills em todo inicio de
 ## Boas práticas
 
 - Use sember, keepachangelog, conventional commits e .editorconfig tab com 4 espaço na identação do código
-- Crie e atualize skills e .claude/rules/ para futuras sessões/agentes de trabalho usarem
+- Crie e atualize skills e .agents/rules/ para futuras sessões/agentes de trabalho usarem
 - Faça testes (unitarios, integração, smoke testes e e2e) para garantir qualidade -> use playwright e agent-browser quando necessário
 
 ## Features principais
