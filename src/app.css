@@ -176,7 +176,7 @@ html {
 		color-mix(in srgb, white 22%, var(--offer-bg)),
 		var(--offer-bg) 60%
 	);
-	color: var(--offer-fg);
+	color: var(--offer-fg) !important; /* beats the article link color (#blog-content-protected a) */
 	box-shadow:
 		0 4px 0 var(--offer-edge),
 		inset 0 1px 0 rgb(255 255 255 / 0.35);
