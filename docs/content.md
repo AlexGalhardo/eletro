@@ -69,7 +69,6 @@ Arquivo: `content/products/<lista>.json`, um array de produtos.
         "mercadolivreUrl": "https://meli.la/1qG3vci",
         "shopeeUrl": null,
         "amazonUrl": null,
-        "score": 9.1,
         "advantages": ["Dois cestos independentes"],
         "technicalDetails": [{ "label": "Capacidade", "value": "8,3 litros" }]
     }

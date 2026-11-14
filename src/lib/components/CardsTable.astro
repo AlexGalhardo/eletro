@@ -2,7 +2,6 @@
 import { isAffiliateUrl } from "#lib/affiliate-links.ts";
 import { offerTarget, specifiedDetails } from "#lib/content/review.ts";
 import type { Product } from "#lib/content/schema.ts";
-import ComparisonTable from "./ComparisonTable.astro";
 import Icon from "./Icon.astro";
 import OfferButton from "./OfferButton.astro";
 
@@ -32,7 +31,6 @@ const stores = [
 		</div>
 	) : (
 		<>
-		<ComparisonTable products={products} postSlug={postSlug} id={`compare-${list}`} />
 		<div class="my-2.5 flex flex-col gap-6" data-testid="cards-table" data-cards data-shuffle={shuffle ? "true" : "false"}>
 			{products.map((product) => {
 				const priority = offerTarget(postSlug, product);
