@@ -39,10 +39,10 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Commits
 
-- [9dcb638](https://github.com/AlexGalhardo/eletro/commit/9dcb638) — CMS estático, redesign, CI e fluxo por PR.
-- [87ba6b1](https://github.com/AlexGalhardo/eletro/commit/87ba6b1) — restauração dos prompts de conteúdo.
-- [bee9e9f](https://github.com/AlexGalhardo/eletro/commit/bee9e9f) — entrada com senha e credencial criptografada.
-- [6e5a7ff](https://github.com/AlexGalhardo/eletro/commit/6e5a7ff) — correção da URL de autenticação no GitHub.
+- [c6dfa23](https://github.com/AlexGalhardo/eletro/commit/c6dfa23) — CMS estático, redesign, CI e fluxo por PR.
+- [55c62d5](https://github.com/AlexGalhardo/eletro/commit/55c62d5) — restauração dos prompts de conteúdo.
+- [63bad22](https://github.com/AlexGalhardo/eletro/commit/63bad22) — entrada com senha e credencial criptografada.
+- [4c6775a](https://github.com/AlexGalhardo/eletro/commit/4c6775a) — correção da URL de autenticação no GitHub.
 
 ### Fixed
 
@@ -58,16 +58,16 @@ Importação em lote, feature flags, home com barra lateral e rascunhos.
 - Home: filtros de categoria numa barra lateral fixa à esquerda no desktop e posts em duas colunas; no celular e no tablet, as categorias ficam no menu.
 - Busca da barra de navegação: cada resultado mostra a capa, o título e a data do post.
 - Bordas menos arredondadas em todo o site, inclusive no campo de busca.
-- **docs:** List what to review in the imported drafts before publishing ([89d1d72](https://github.com/AlexGalhardo/eletro/commit/89d1d72d95020f71f96d84de25be8a3060552086))
-- **test:** Wait for the mobile menu to close before reopening it ([7f8d98f](https://github.com/AlexGalhardo/eletro/commit/7f8d98f19e16bd4c6fd335fdf64a248b2fb30db6))
-- **docs:** Document batch import, post status, feature flags and the Astro-only migration plan ([351ead2](https://github.com/AlexGalhardo/eletro/commit/351ead24747ee75e1e45be0bc7a15397f70f8f22))
+- **docs:** List what to review in the imported drafts before publishing ([44a3899](https://github.com/AlexGalhardo/eletro/commit/44a38997f36af079600aef333c6bb952ab747e99))
+- **test:** Wait for the mobile menu to close before reopening it ([6bb2623](https://github.com/AlexGalhardo/eletro/commit/6bb2623e57ef27c69affe2290a9fc1a38ff46989))
+- **docs:** Document batch import, post status, feature flags and the Astro-only migration plan ([0bc7706](https://github.com/AlexGalhardo/eletro/commit/0bc7706cc0644f1eb32c7fbdd696429fc705f9f1))
 
 ### Fixed
 
 - A busca da barra de navegação mostra os 6 resultados inteiros, sem cortar os 2 últimos.
 - O importador lia, em algumas páginas, a ficha técnica do produto seguinte junto com a do próprio produto.
-- **fix:** Show all six search results without cutting the last two ([ba7f711](https://github.com/AlexGalhardo/eletro/commit/ba7f711a718253430926f18dfc1773b8294626d2))
-- **fix:** Add the renamed photos and covers referenced by imported drafts ([160b531](https://github.com/AlexGalhardo/eletro/commit/160b531d8e2a437ea0562e3dad385091a1705885))
+- **fix:** Show all six search results without cutting the last two ([2df3cee](https://github.com/AlexGalhardo/eletro/commit/2df3ceeca0197f2ee6e6980a61591bd635a3d21b))
+- **fix:** Add the renamed photos and covers referenced by imported drafts ([8d4853b](https://github.com/AlexGalhardo/eletro/commit/8d4853bed6161516f2cc1a45cbe3ec40a154b445))
 
 ### Added
 
@@ -79,17 +79,17 @@ Importação em lote, feature flags, home com barra lateral e rascunhos.
 - Coluna "Links" e filtro "Links de afiliado" em `/admin/posts`.
 - Importação em lote dos posts que faltam (`bun webscrapping/batch.ts [--write] [--limit N]`): compara os sitemaps da origem com o `ref` dos posts e importa como rascunho, em sequência e com pausa, sem copiar texto.
 - Categorias Banheiro, Cama, Mesa e Banho, Iluminação, Infantil e Jardim.
-- **feat:** Show drafts on the site as if published behind the showDrafts flag ([dead5a7](https://github.com/AlexGalhardo/eletro/commit/dead5a725c0e19a0690ea82a84812f787130266d))
-- **content:** Add imported review drafts (6/6) ([9c29814](https://github.com/AlexGalhardo/eletro/commit/9c298142f1edfb2eaf916246bc00bfab2ae63b51))
-- **content:** Add imported review drafts (5/6) ([3e5f265](https://github.com/AlexGalhardo/eletro/commit/3e5f2655a65044e121229c11af1be2be0b3e1399))
-- **content:** Add imported review drafts (4/6) ([2d59ffe](https://github.com/AlexGalhardo/eletro/commit/2d59ffea99cab179b412320cadc434d65e05945b))
-- **content:** Add imported review drafts (3/6) ([5ea9466](https://github.com/AlexGalhardo/eletro/commit/5ea9466bfe2beff79a22a8c4aa1e1da44737898b))
-- **content:** Add imported review drafts (2/6) ([4fe4a0a](https://github.com/AlexGalhardo/eletro/commit/4fe4a0a532bd390d08ecb83b6b7a5909daa3725d))
-- **content:** Add imported review drafts (1/6) ([a41fc30](https://github.com/AlexGalhardo/eletro/commit/a41fc30b3ff5c9db8edc039b96abbdbd387e3ea2))
-- **feat:** Move home filters to a sidebar, show covers in search and soften corners ([6bd029d](https://github.com/AlexGalhardo/eletro/commit/6bd029d96e97717b35125b1d0869a856a834d0a0))
-- **feat:** Add feature flags and noindex draft previews ([c4c7149](https://github.com/AlexGalhardo/eletro/commit/c4c71498715425e278a627561b97a029f97953b1))
-- **feat:** Track post status and affiliate link counts ([c09f1bc](https://github.com/AlexGalhardo/eletro/commit/c09f1bc407e7429b40add12771a06dc511d769c9))
-- **feat:** Import missing source posts in batch and keep one spec sheet per product ([491c66f](https://github.com/AlexGalhardo/eletro/commit/491c66f44311bd9a2316772b1cb73e175cff2572))
+- **feat:** Show drafts on the site as if published behind the showDrafts flag ([6cf41cd](https://github.com/AlexGalhardo/eletro/commit/6cf41cd15823658cb83871d9a15804f748a074b1))
+- **content:** Add imported review drafts (6/6) ([438dde1](https://github.com/AlexGalhardo/eletro/commit/438dde1d7363bb1290b6f1315941b1f94129bda5))
+- **content:** Add imported review drafts (5/6) ([eb65985](https://github.com/AlexGalhardo/eletro/commit/eb6598580c81c1d77e3a00ea79d0614e4f2ddbba))
+- **content:** Add imported review drafts (4/6) ([995a12e](https://github.com/AlexGalhardo/eletro/commit/995a12e1c28cd33b85fd521e4b15182de312cffb))
+- **content:** Add imported review drafts (3/6) ([d5105e5](https://github.com/AlexGalhardo/eletro/commit/d5105e5f8f12543f43ceeb6d82707925fcdc2584))
+- **content:** Add imported review drafts (2/6) ([a486f05](https://github.com/AlexGalhardo/eletro/commit/a486f051e3b5060fa8a9911fba221d892757dcf7))
+- **content:** Add imported review drafts (1/6) ([fac278d](https://github.com/AlexGalhardo/eletro/commit/fac278d4116522a977a9eda9c7d246057890c117))
+- **feat:** Move home filters to a sidebar, show covers in search and soften corners ([b589fc9](https://github.com/AlexGalhardo/eletro/commit/b589fc985a40ac4a6eb388f66af08be50e4c0bd6))
+- **feat:** Add feature flags and noindex draft previews ([21cc153](https://github.com/AlexGalhardo/eletro/commit/21cc15378daa08d29bcd060458dfd4b6e4e3cdf3))
+- **feat:** Track post status and affiliate link counts ([83070f7](https://github.com/AlexGalhardo/eletro/commit/83070f77bb252756e84ec136d90c829617353f85))
+- **feat:** Import missing source posts in batch and keep one spec sheet per product ([97f4b8e](https://github.com/AlexGalhardo/eletro/commit/97f4b8e49995ebef45a68c13e17b16d0e4d3b04d))
 
 ## [0.9.0] - 2026-11-09
 
@@ -98,7 +98,7 @@ O site público passa a ser Astro 7.4 no GitHub Pages.
 ### Added
 
 - `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` e `SECURITY.md` na raiz do repositório.
-- **BREAKING:** **feat:** Build the public site with Astro 7.4 and host it on GitHub Pages ([890acb0](https://github.com/AlexGalhardo/eletro/commit/890acb063e322a6253c9c5e36c2e498358ddff59))
+- **BREAKING:** **feat:** Build the public site with Astro 7.4 and host it on GitHub Pages ([b2250a1](https://github.com/AlexGalhardo/eletro/commit/b2250a1dda47f76a5988f6c76103daac08a8921f))
 
 ### Changed
 
@@ -108,11 +108,11 @@ O site público passa a ser Astro 7.4 no GitHub Pages.
 - A produção passa a ser o GitHub Pages (`.github/workflows/pages.yml`). O Pages não executa painel, API de escrita, login, contato, newsletter nem cron; esse código continua coberto pelos testes.
 - O corpo dos posts é renderizado com `marked`. `<CardsTable>` continua uma ilha Svelte.
 - Uma URL desconhecida responde 404.
-- **docs:** Record the open source files and the package rename in the changelog ([320563a](https://github.com/AlexGalhardo/eletro/commit/320563adb9652db06cc06b4b0ab96dfdc52d5ec2))
-- **docs:** Restructure the README like the workspace reference ([f930ec8](https://github.com/AlexGalhardo/eletro/commit/f930ec87549f5729f1d0893a94e22ea5ee918bc0))
-- **docs:** Add contributing, code of conduct and security policy ([d5ccf6a](https://github.com/AlexGalhardo/eletro/commit/d5ccf6a6754ffd30ba7becd0f4c65fc373a791c1))
-- **chore:** Align the bun.lock workspace name with the package ([92e94b8](https://github.com/AlexGalhardo/eletro/commit/92e94b839086fff3fb9ce3bae7a973519442545c))
-- **chore:** Rename the package to astro-blog-cms ([66e36cb](https://github.com/AlexGalhardo/eletro/commit/66e36cb7309ed46c79bb64740112cdc993af25d9))
+- **docs:** Record the open source files and the package rename in the changelog ([3f84141](https://github.com/AlexGalhardo/eletro/commit/3f84141d4f8d3d93aca7d484c2abd37061fc5097))
+- **docs:** Restructure the README like the workspace reference ([16e6b84](https://github.com/AlexGalhardo/eletro/commit/16e6b847e3e9deb8ed7315fe9144ab2a8924c790))
+- **docs:** Add contributing, code of conduct and security policy ([f59716f](https://github.com/AlexGalhardo/eletro/commit/f59716f0b83986d7176c3d0d9eb63f31160f1e74))
+- **chore:** Align the bun.lock workspace name with the package ([885256b](https://github.com/AlexGalhardo/eletro/commit/885256b339c5c710a8e8340cea1aa5632ceae6ae))
+- **chore:** Rename the package to astro-blog-cms ([1664048](https://github.com/AlexGalhardo/eletro/commit/1664048a7eb5b8177e6de7822f722a1cccb6603e))
 
 ### Fixed
 
@@ -120,7 +120,7 @@ O site público passa a ser Astro 7.4 no GitHub Pages.
 - As leituras públicas da API são publicadas como `index.json`, servidas com `Content-Type: application/json` em `/api/v1/.../`.
 - A documentação de operação descreve Astro 7.4 no GitHub Pages.
 - Os testes e2e conferem o site estático: 404 no lugar do redirecionamento para a home, tela de login no painel e a API em JSON.
-- **fix:** Serve canonical URLs and JSON reads on GitHub Pages ([4c33fa8](https://github.com/AlexGalhardo/eletro/commit/4c33fa88f9193d8048bf9cb68a3d237886d59f1a))
+- **fix:** Serve canonical URLs and JSON reads on GitHub Pages ([df9d589](https://github.com/AlexGalhardo/eletro/commit/df9d5895eb7cd913e0abc0608f48abd3bd6259c6))
 
 ### Removed
 
@@ -143,9 +143,9 @@ Links de afiliado, fotos no painel, Docker e conferência do ambiente.
 - Hooks do git: `pre-commit` roda a checagem de tipos e `pre-push` roda tipos, lint e testes.
 - Os botões de loja, a foto e o nome do produto apontam para o redirect do dashboard de links, não mais direto para a loja.
 - A oferta padrão (`site.fallbackAffiliateUrl`) também passa pelo dashboard.
-- **docs:** Review .claude rules and skills and drop the graphify hooks ([7dba89a](https://github.com/AlexGalhardo/eletro/commit/7dba89ab124db5ba761f23e2f53e4f9171b43a16))
-- **docs:** Rewrite the README for the site as it runs today ([2440eb8](https://github.com/AlexGalhardo/eletro/commit/2440eb8401d897ab7d24a60b4649769d36c39bec))
-- **chore:** Add agent setup docs, Docker infra and the four setup scripts ([20bbf21](https://github.com/AlexGalhardo/eletro/commit/20bbf21b94c1cc374525a1410ec292f93de6e9b5))
+- **docs:** Review .claude rules and skills and drop the graphify hooks ([e7fb71e](https://github.com/AlexGalhardo/eletro/commit/e7fb71eb3de8348e1e859eb2cc07383edfcadf07))
+- **docs:** Rewrite the README for the site as it runs today ([630dcff](https://github.com/AlexGalhardo/eletro/commit/630dcffd6463370e0e875aac5268f00f2ff37374))
+- **chore:** Add agent setup docs, Docker infra and the four setup scripts ([e86d8c7](https://github.com/AlexGalhardo/eletro/commit/e86d8c7444bbfdd6f4dec420d6e29156b502e49b))
 
 ### Removed
 
@@ -166,13 +166,13 @@ Links de afiliado, fotos no painel, Docker e conferência do ambiente.
 - Editor de post e editor de lista de produtos: a capa e a foto de cada produto aparecem renderizadas abaixo do campo do endereço. Uma imagem recém-enviada é mostrada na hora, a partir do arquivo escolhido; se o endereço não carregar, o campo avisa.
 - `/admin/posts`: miniatura da capa de cada post e, na coluna "Produtos", um botão por lista que abre o editor da lista em outra aba.
 - `/admin/products`: cada lista mostra as fotos dos seus produtos.
-- **feat:** Validate environment variables at build time ([35c7743](https://github.com/AlexGalhardo/eletro/commit/35c7743003382d569fc0790e56104dc03807019a))
-- **feat:** Fall back to the store address when the links dashboard is down ([db70af3](https://github.com/AlexGalhardo/eletro/commit/db70af32a20819ba746931b42d6beb1024d6b679))
-- **admin:** Export the affiliate links as JSON or CSV for the links dashboard ([7cb3c64](https://github.com/AlexGalhardo/eletro/commit/7cb3c64f2eefe486f9b5e91be29f8f0371485675))
-- **feat:** Route affiliate links through the links dashboard and register them on every build ([ce36014](https://github.com/AlexGalhardo/eletro/commit/ce36014f062854e0657ef2c1d00a2ead709d7ec9))
-- **content:** Remove post melhor-aquecedor-a-oleo ([3cec300](https://github.com/AlexGalhardo/eletro/commit/3cec300ce4afc5d83a3382accf950937f2d4a246))
-- **admin:** Render the cover and the product photos in the editors ([6d77393](https://github.com/AlexGalhardo/eletro/commit/6d77393b3130cf5b9aa8e1c6346de8852e9e83d2))
-- **admin:** Show post covers, product photos and open a post's lists in a new tab ([095632c](https://github.com/AlexGalhardo/eletro/commit/095632cf792133caa6d872bb4dcb92d65fbdb95b))
+- **feat:** Validate environment variables at build time ([1960bd4](https://github.com/AlexGalhardo/eletro/commit/1960bd4ea5a24e8c1f6c30a3cd98419caea7482f))
+- **feat:** Fall back to the store address when the links dashboard is down ([95d5d06](https://github.com/AlexGalhardo/eletro/commit/95d5d060c6793bfe2e7c84b2136bcb21fef61303))
+- **admin:** Export the affiliate links as JSON or CSV for the links dashboard ([2d8cb01](https://github.com/AlexGalhardo/eletro/commit/2d8cb01245ba338651d0621ac34f59e2a93e8d49))
+- **feat:** Route affiliate links through the links dashboard and register them on every build ([508c8eb](https://github.com/AlexGalhardo/eletro/commit/508c8ebcb2a2021838d19c87c02022351e684c77))
+- **content:** Remove post melhor-aquecedor-a-oleo ([a2635cc](https://github.com/AlexGalhardo/eletro/commit/a2635ccbc082f334178fad511dd78a58e901c7a9))
+- **admin:** Render the cover and the product photos in the editors ([6894ec6](https://github.com/AlexGalhardo/eletro/commit/6894ec6a45ff336496c11b5d2040ea804261aa7d))
+- **admin:** Show post covers, product photos and open a post's lists in a new tab ([d563d83](https://github.com/AlexGalhardo/eletro/commit/d563d83f96745c26581d1ec53f7b352574a19440))
 
 ### Fixed
 
@@ -190,35 +190,35 @@ Correções da importação, da home e da gravação no GitHub.
 - Gravação pelo painel: um erro 5xx do GitHub é tentado de novo duas vezes; se persistir, a API responde 502 (`content_store_failed`) e a tela explica que a falha é do GitHub, em vez de "erro inesperado".
 - Importação (`/admin/import`): quando a conta da Mistral não tem cota para o `mistral-small-latest` (resposta 429 ou 403), a reescrita do resumo e do FAQ passa para o `ministral-8b-latest` em vez de cair no texto genérico.
 - Importação (`/admin/import`): fotos de produto hospedadas no servidor de imagens do Mercado Livre (`http2.mlstatic.com`) eram recusadas com "não está em um endereço permitido".
-- **home:** Hide categories without a published post from the filter and the footer ([e812d67](https://github.com/AlexGalhardo/eletro/commit/e812d6711a66931f9161162f7448b81393153214))
-- **home:** Keep the category filter inside the content width ([cd3e787](https://github.com/AlexGalhardo/eletro/commit/cd3e7871502960ea129297d0383083015c766b28))
-- **cms:** Retry GitHub server errors and report them as a GitHub failure ([f4e13f3](https://github.com/AlexGalhardo/eletro/commit/f4e13f3caf74119d872e555c64deba77f79fdb02))
-- **import:** Fall back to a smaller Mistral model when the plan has no quota ([83b0088](https://github.com/AlexGalhardo/eletro/commit/83b00880c8bb538d270652569d90612ba46dca0b))
-- **import:** Accept product photos hosted on the Mercado Livre image server ([70c70c0](https://github.com/AlexGalhardo/eletro/commit/70c70c07ebac70da8bfd12d359d187443f2b285c))
+- **home:** Hide categories without a published post from the filter and the footer ([d5f9b36](https://github.com/AlexGalhardo/eletro/commit/d5f9b364e5ac0b130eaa2603b67c5e7be7ad590e))
+- **home:** Keep the category filter inside the content width ([2f82f02](https://github.com/AlexGalhardo/eletro/commit/2f82f02277f5471a379efaed136335b1a20294f6))
+- **cms:** Retry GitHub server errors and report them as a GitHub failure ([8b6e3f2](https://github.com/AlexGalhardo/eletro/commit/8b6e3f232cc7931675a47ffe8f23965ff7f9b1c0))
+- **import:** Fall back to a smaller Mistral model when the plan has no quota ([880d590](https://github.com/AlexGalhardo/eletro/commit/880d5907d40b975035891d92316606ae941f8958))
+- **import:** Accept product photos hosted on the Mercado Livre image server ([95f71de](https://github.com/AlexGalhardo/eletro/commit/95f71de5c0d869f7933cf0cd372086330bce9716))
 
 ### Added
 
-- **content:** Add post melhor-aquecedor-a-oleo ([d238149](https://github.com/AlexGalhardo/eletro/commit/d23814965ab6641ad84038527c400edcf1736839))
-- **content:** Add product list melhor-aquecedor-a-oleo ([0ba2d81](https://github.com/AlexGalhardo/eletro/commit/0ba2d8111d7129d84e4d5a579462671bed872ca5))
-- **content:** Add image melhor-aquecedor-a-oleo-cover.webp ([ac1e9b8](https://github.com/AlexGalhardo/eletro/commit/ac1e9b8121b136f3272cfa0e28737bb2c02d05c1))
-- **content:** Add image melhor-aquecedor-a-oleo-7.jpg ([8360251](https://github.com/AlexGalhardo/eletro/commit/8360251ffd4f78f5e9a53d60fa5fcd9b5fcefe90))
-- **content:** Add image melhor-aquecedor-a-oleo-6.jpg ([73a200a](https://github.com/AlexGalhardo/eletro/commit/73a200ab68c6c95a81679cda9b6d80f06ce3c2e4))
-- **content:** Add image melhor-aquecedor-a-oleo-5.jpg ([3f3a204](https://github.com/AlexGalhardo/eletro/commit/3f3a2041dcdcc35baa1dcfc5ba058f28f8a2343e))
-- **content:** Add image melhor-aquecedor-a-oleo-4.jpg ([020c11c](https://github.com/AlexGalhardo/eletro/commit/020c11c721559f01aa74b38efdb56890de3b32f1))
-- **content:** Add image melhor-aquecedor-a-oleo-3.jpg ([4461a8c](https://github.com/AlexGalhardo/eletro/commit/4461a8c78a082cc9894d686d3e3970238920ba54))
-- **content:** Add image melhor-aquecedor-a-oleo-2.jpg ([c3a137e](https://github.com/AlexGalhardo/eletro/commit/c3a137e4e7cb56f283403fd00ea5c8ff70cced10))
-- **content:** Add image melhor-aquecedor-a-oleo-1.jpg ([c1bafaf](https://github.com/AlexGalhardo/eletro/commit/c1bafaf0653c82b354eca5df7b4d959be4c67443))
-- **content:** Add image melhor-lanterna-vonder-7.jpg ([c687a57](https://github.com/AlexGalhardo/eletro/commit/c687a57770d03ad5bf8c674191241121bac2fdcc))
-- **content:** Add image melhor-lanterna-vonder-6.jpg ([242bf17](https://github.com/AlexGalhardo/eletro/commit/242bf175bbf773c02618fc547e60ba8cb8dd87c2))
-- **content:** Add image melhor-lanterna-vonder-5.jpg ([d218eab](https://github.com/AlexGalhardo/eletro/commit/d218eab1795051b4edc30bc34d0cea722e9ca8c7))
-- **content:** Add image melhor-lanterna-vonder-4.jpg ([d945f1d](https://github.com/AlexGalhardo/eletro/commit/d945f1dca3bbee035e0f003722576caa7e64271b))
-- **content:** Add image melhor-lanterna-vonder-3.jpg ([a61555c](https://github.com/AlexGalhardo/eletro/commit/a61555cf607f45d44930fcbabf1d911b5feb128e))
-- **content:** Add image melhor-lanterna-vonder-2.jpg ([fc9af0c](https://github.com/AlexGalhardo/eletro/commit/fc9af0c04feb77ada1a51815f45ab467892981af))
-- **content:** Add image melhor-lanterna-vonder-1.jpg ([4d0cd0d](https://github.com/AlexGalhardo/eletro/commit/4d0cd0d0be3f100bddb53da64f9e67d59d0ebc7a))
+- **content:** Add post melhor-aquecedor-a-oleo ([a861c2d](https://github.com/AlexGalhardo/eletro/commit/a861c2dfebfb057598edefd1899ee5da50b31e6c))
+- **content:** Add product list melhor-aquecedor-a-oleo ([43a6f23](https://github.com/AlexGalhardo/eletro/commit/43a6f23d255242beafd6de41fa28f4e96b99de94))
+- **content:** Add image melhor-aquecedor-a-oleo-cover.webp ([0e3119d](https://github.com/AlexGalhardo/eletro/commit/0e3119d618b164671f561b8a1108697b13665b69))
+- **content:** Add image melhor-aquecedor-a-oleo-7.jpg ([32de69d](https://github.com/AlexGalhardo/eletro/commit/32de69d7bfb945dda4e50e3edb4561edbd4fe196))
+- **content:** Add image melhor-aquecedor-a-oleo-6.jpg ([5420640](https://github.com/AlexGalhardo/eletro/commit/542064036fd1a4b679be30c56662b538076578f2))
+- **content:** Add image melhor-aquecedor-a-oleo-5.jpg ([5be25ef](https://github.com/AlexGalhardo/eletro/commit/5be25ef9743c076c7af9d262cc492ed44a305305))
+- **content:** Add image melhor-aquecedor-a-oleo-4.jpg ([1b86de4](https://github.com/AlexGalhardo/eletro/commit/1b86de42976db2e103cbbcd69ce309db7d301cc9))
+- **content:** Add image melhor-aquecedor-a-oleo-3.jpg ([c4e3c1d](https://github.com/AlexGalhardo/eletro/commit/c4e3c1d4d2927280552cc35f8c0fbe5cc3949604))
+- **content:** Add image melhor-aquecedor-a-oleo-2.jpg ([877444e](https://github.com/AlexGalhardo/eletro/commit/877444ed996e632156645f117c59cde7ab203604))
+- **content:** Add image melhor-aquecedor-a-oleo-1.jpg ([ba03695](https://github.com/AlexGalhardo/eletro/commit/ba03695acf763a432f05a1d22746ddcf0bf9c616))
+- **content:** Add image melhor-lanterna-vonder-7.jpg ([a98e323](https://github.com/AlexGalhardo/eletro/commit/a98e323ddaf2241bacbb26a538499535631f6207))
+- **content:** Add image melhor-lanterna-vonder-6.jpg ([6c82459](https://github.com/AlexGalhardo/eletro/commit/6c82459579eed6714a32a29914ed5c2dedbbc5e3))
+- **content:** Add image melhor-lanterna-vonder-5.jpg ([0966070](https://github.com/AlexGalhardo/eletro/commit/09660702599f7e193ac3ed84d52847294d46d600))
+- **content:** Add image melhor-lanterna-vonder-4.jpg ([88ada80](https://github.com/AlexGalhardo/eletro/commit/88ada80fe8a31acd4ed54c445d0a31dd659a9045))
+- **content:** Add image melhor-lanterna-vonder-3.jpg ([6341764](https://github.com/AlexGalhardo/eletro/commit/6341764fb211f28ca48906b753da834c6e675b7d))
+- **content:** Add image melhor-lanterna-vonder-2.jpg ([d230d6f](https://github.com/AlexGalhardo/eletro/commit/d230d6f66a8b77273c2c5aabfcf2e37e5fef23d6))
+- **content:** Add image melhor-lanterna-vonder-1.jpg ([8964c71](https://github.com/AlexGalhardo/eletro/commit/8964c7174d1e6a9106520883d1198d978d057929))
 
 ### Changed
 
-- **style:** Build the closing script tag without string concatenation ([38b7e1b](https://github.com/AlexGalhardo/eletro/commit/38b7e1b26b1cbb3bac15b5defae5ca5c3484ffc8))
+- **style:** Build the closing script tag without string concatenation ([248561c](https://github.com/AlexGalhardo/eletro/commit/248561cec710ac6e6f98e43b4e6decee454c0ee6))
 
 ## [0.6.0] - 2026-10-07
 
@@ -229,9 +229,9 @@ Painel no celular, Search Console e a primeira versão estável.
 - Primeira versão estável: o projeto sai do release candidate. A partir daqui vale o SemVer comum (`feat` sobe a minor, `fix` e os demais tipos sobem a patch).
 - Excluir uma lista de produtos não é mais recusado quando um post a usa: os posts que mostram a lista perdem o `<CardsTable>` dela e viram rascunho, e a confirmação avisa quais são.
 - Painel `/admin` no celular: a navegação fica atrás de um menu hambúrguer, em vez de ocupar meia tela no topo.
-- **docs:** Leave the release candidate ([82a899c](https://github.com/AlexGalhardo/eletro/commit/82a899cf4451c41a7e85970af578137f3d6bd290))
-- Merge pull request #4 from AlexGalhardo/ccr-3e119613-1rgj9m-admin ([660bc12](https://github.com/AlexGalhardo/eletro/commit/660bc1296ba5442cc5d831074c5e076c5e151a5d))
-- Merge pull request #3 from AlexGalhardo/ccr-3e119613-1rgj9m ([2d2f1fb](https://github.com/AlexGalhardo/eletro/commit/2d2f1fb52a3fdb334d29afc06f755605e07f6de4))
+- **docs:** Leave the release candidate ([014a0ef](https://github.com/AlexGalhardo/eletro/commit/014a0ef191e8a06dbc56cba387ce68f80548cec2))
+- Merge pull request #4 from AlexGalhardo/ccr-3e119613-1rgj9m-admin ([2d70067](https://github.com/AlexGalhardo/eletro/commit/2d7006709c7f9dd803b1dd909244235408f2d65e))
+- Merge pull request #3 from AlexGalhardo/ccr-3e119613-1rgj9m ([2924eee](https://github.com/AlexGalhardo/eletro/commit/2924eee7a1980f6718fbc1f36eb695ad9021772b))
 
 ### Added
 
@@ -241,43 +241,43 @@ Painel no celular, Search Console e a primeira versão estável.
 - Tela `/admin/google`: cliques, impressões, CTR e posição do Google Search Console, usuários, sessões e visualizações do Google Analytics 4 (últimos 28 dias), a lista de sitemaps e o botão "Reenviar sitemap ao Google" (`POST /api/v1/google/sitemap`). A configuração da conta de serviço está em `docs/google-console-analytics-setup.md`.
 - Categoria "Cuidados Pessoais" (`cuidados-pessoais`).
 - Botão "Excluir lista" no editor de produtos e `DELETE /api/v1/products/{list}`: apaga a lista inteira de uma vez. A exclusão é recusada enquanto algum post mostra a lista com `<CardsTable>`, porque o build quebraria.
-- **seo:** Refuse training crawlers and state the content policy in robots.txt ([402238f](https://github.com/AlexGalhardo/eletro/commit/402238f5031532a80a9f7e759385af8bff8b145a))
-- **admin:** Link posts and product lists and unpublish posts of a deleted list ([f5a872f](https://github.com/AlexGalhardo/eletro/commit/f5a872f1c12dd13dba740007ec81062e549c32ea))
-- **admin:** Copy the full image link with clipboard.js and confirm it in a dialog ([0b08007](https://github.com/AlexGalhardo/eletro/commit/0b08007e4915a393f5f684af15e57f437d4421b8))
-- **admin:** Show Google Search Console and Analytics data and resubmit the sitemap ([a0adce3](https://github.com/AlexGalhardo/eletro/commit/a0adce3146695d46c620df5d0c15651926da24da))
-- **content:** Remove post melhor-lava-loucas-portatil ([f0af8c8](https://github.com/AlexGalhardo/eletro/commit/f0af8c8812e3e09e1a6d1526270426a2605b6615))
-- **content:** Remove post melhor-fogao-dako ([27a0d60](https://github.com/AlexGalhardo/eletro/commit/27a0d606dc4c3ab65b008e702c3ad3bebd135fd8))
-- **content:** Remove product list melhor-maquina-de-sorvete ([d683ba3](https://github.com/AlexGalhardo/eletro/commit/d683ba3ddf92bb5d39fded333439a46230e93ae4))
-- **admin:** Delete a whole product list at once ([37489f9](https://github.com/AlexGalhardo/eletro/commit/37489f9cb7632fdab92d21b1a147718d8a3b3fa0))
-- **admin:** Collapse the dashboard navigation into a hamburger menu on phones ([9a8cb2c](https://github.com/AlexGalhardo/eletro/commit/9a8cb2c6cc64724e7ee2aca226ae399bf58aea7f))
-- **content:** Add post melhor-fogao-dako ([86e6046](https://github.com/AlexGalhardo/eletro/commit/86e60463c6a7c44ec11f9c08143faf89d782dd30))
-- **content:** Add product list melhor-fogao-dako ([f55b976](https://github.com/AlexGalhardo/eletro/commit/f55b976c8c077131302cc732beab0b04cbadad2b))
-- **content:** Add image melhor-fogao-dako-7.jpg ([82f54b2](https://github.com/AlexGalhardo/eletro/commit/82f54b2fd51aef0efee175552413f062c41d2bb5))
-- **content:** Add image melhor-fogao-dako-6.jpg ([9d3b6ca](https://github.com/AlexGalhardo/eletro/commit/9d3b6caf76ab01da5382e45b02188cb5d8416c08))
-- **content:** Add image melhor-fogao-dako-5.jpg ([9c1c970](https://github.com/AlexGalhardo/eletro/commit/9c1c9700bb0e40f3e5f1a5b6f8a5fb1ecf78649b))
-- **content:** Add image melhor-fogao-dako-4.jpg ([f7d44a7](https://github.com/AlexGalhardo/eletro/commit/f7d44a75636ae8f338579cac6177bcb7f35dbbf9))
-- **content:** Add image melhor-fogao-dako-3.jpg ([221673c](https://github.com/AlexGalhardo/eletro/commit/221673cab59d9acbf5f3611e6d6a328acd4bcdb5))
-- **content:** Add image melhor-fogao-dako-2.jpg ([81db784](https://github.com/AlexGalhardo/eletro/commit/81db784f5cdbe3e78535d5816f0124898c2fffc4))
-- **content:** Add image melhor-fogao-dako-1.jpg ([7f2b3cb](https://github.com/AlexGalhardo/eletro/commit/7f2b3cbd62bcdbdbf801671a2716fbe25e3e02d5))
-- **content:** Remove post melhor-maquina-de-sorvete ([2fd10e1](https://github.com/AlexGalhardo/eletro/commit/2fd10e1ef428b74d2e16356303d92d2a0596fd00))
-- **content:** Remove post melhor-cafeteira-eletrica-mondial ([698bbaf](https://github.com/AlexGalhardo/eletro/commit/698bbaf0d1b94e6de4486afcf2ddeebb1086ec8c))
-- **content:** Add post melhor-maquina-de-sorvete ([4162899](https://github.com/AlexGalhardo/eletro/commit/41628992c21358cb42d8799e4648b0ae6eb31979))
-- **content:** Add product list melhor-maquina-de-sorvete ([b24e39b](https://github.com/AlexGalhardo/eletro/commit/b24e39b185a9c351e54d0a1490c7e780c69e34ae))
-- **content:** Add image melhor-maquina-de-sorvete-7.jpg ([05c15e4](https://github.com/AlexGalhardo/eletro/commit/05c15e4639d63bd1fa2222f6e21c4fd81d16f831))
-- **content:** Add image melhor-maquina-de-sorvete-6.jpg ([09a60bc](https://github.com/AlexGalhardo/eletro/commit/09a60bc5735426cb09c3f4e31dee956624c69129))
-- **content:** Add image melhor-maquina-de-sorvete-5.jpg ([2a3ae31](https://github.com/AlexGalhardo/eletro/commit/2a3ae31c5c0204c8d39475cc0a0910be630b842f))
-- **content:** Add image melhor-maquina-de-sorvete-4.jpg ([bcbba78](https://github.com/AlexGalhardo/eletro/commit/bcbba78962892579f4bcc3d0430bdbb9f130ee60))
-- **content:** Add image melhor-maquina-de-sorvete-3.jpg ([f8be2d7](https://github.com/AlexGalhardo/eletro/commit/f8be2d74d3fff880c9b89135afad6733503be7e7))
-- **content:** Add image melhor-maquina-de-sorvete-2.jpg ([8f2ce07](https://github.com/AlexGalhardo/eletro/commit/8f2ce078d3e9372875fc542c60c96edd3ddbdeb8))
-- **content:** Add image melhor-maquina-de-sorvete-1.jpg ([8a643da](https://github.com/AlexGalhardo/eletro/commit/8a643da9f1d60e22c3cb96349ea89b536b312578))
+- **seo:** Refuse training crawlers and state the content policy in robots.txt ([b6b107c](https://github.com/AlexGalhardo/eletro/commit/b6b107ce2985879e351d15f7a35d53d17147317d))
+- **admin:** Link posts and product lists and unpublish posts of a deleted list ([d69c0c7](https://github.com/AlexGalhardo/eletro/commit/d69c0c7ece5ac81ba3b7ca649bb5d566a98e7080))
+- **admin:** Copy the full image link with clipboard.js and confirm it in a dialog ([0e24d11](https://github.com/AlexGalhardo/eletro/commit/0e24d11524986dd0465349a68a3d249703cc8a6c))
+- **admin:** Show Google Search Console and Analytics data and resubmit the sitemap ([aae6c94](https://github.com/AlexGalhardo/eletro/commit/aae6c949f29f0c726aa5a1f6bd467e975ef4b6b5))
+- **content:** Remove post melhor-lava-loucas-portatil ([b2cb426](https://github.com/AlexGalhardo/eletro/commit/b2cb4269fe3e9e01a3f10402bc6b51ec73a4b2e2))
+- **content:** Remove post melhor-fogao-dako ([2bd659b](https://github.com/AlexGalhardo/eletro/commit/2bd659b791c608b2b651c81338fe8d70b14ad84c))
+- **content:** Remove product list melhor-maquina-de-sorvete ([369cee8](https://github.com/AlexGalhardo/eletro/commit/369cee807893a6a690c3a6d0359ca29ab1dbaf85))
+- **admin:** Delete a whole product list at once ([4106933](https://github.com/AlexGalhardo/eletro/commit/4106933f57a797b12f7de1e3a09c771031b1b87a))
+- **admin:** Collapse the dashboard navigation into a hamburger menu on phones ([8f2aa9e](https://github.com/AlexGalhardo/eletro/commit/8f2aa9ecce89c161b848277b52c5efffcd9b8058))
+- **content:** Add post melhor-fogao-dako ([b2b6a92](https://github.com/AlexGalhardo/eletro/commit/b2b6a9233b1e39bc6ba9f9bc319d5492221e88ee))
+- **content:** Add product list melhor-fogao-dako ([350ed59](https://github.com/AlexGalhardo/eletro/commit/350ed594c371ab85f945a12760294990055cad58))
+- **content:** Add image melhor-fogao-dako-7.jpg ([ed3cdcf](https://github.com/AlexGalhardo/eletro/commit/ed3cdcfb90c67bf46fa8575aa0d5571b836218b4))
+- **content:** Add image melhor-fogao-dako-6.jpg ([003d79f](https://github.com/AlexGalhardo/eletro/commit/003d79f56767ddba648d91f213d19aa5bfe2c11a))
+- **content:** Add image melhor-fogao-dako-5.jpg ([2f42f57](https://github.com/AlexGalhardo/eletro/commit/2f42f579c53ac1b7040ab0d4b884687143db46d7))
+- **content:** Add image melhor-fogao-dako-4.jpg ([b871b32](https://github.com/AlexGalhardo/eletro/commit/b871b3205096550c2c2124f2cd7520cf9578512e))
+- **content:** Add image melhor-fogao-dako-3.jpg ([e26bac3](https://github.com/AlexGalhardo/eletro/commit/e26bac3cd802f624f3f722b4cec87348906e785b))
+- **content:** Add image melhor-fogao-dako-2.jpg ([cb8465f](https://github.com/AlexGalhardo/eletro/commit/cb8465f9ee88eda464f3e349231a6480f08aca69))
+- **content:** Add image melhor-fogao-dako-1.jpg ([c0d92cc](https://github.com/AlexGalhardo/eletro/commit/c0d92cc39da848bfaaecf3204aa0d88a53845b0a))
+- **content:** Remove post melhor-maquina-de-sorvete ([28a58b5](https://github.com/AlexGalhardo/eletro/commit/28a58b5df05a2ccac3c35dbba5beeeb9336a5cf9))
+- **content:** Remove post melhor-cafeteira-eletrica-mondial ([5bdfdb0](https://github.com/AlexGalhardo/eletro/commit/5bdfdb06a746189677d334518cdaeee8ff60835c))
+- **content:** Add post melhor-maquina-de-sorvete ([7bf67ed](https://github.com/AlexGalhardo/eletro/commit/7bf67ed72ffccc213ef55a5505756bbad9a232a9))
+- **content:** Add product list melhor-maquina-de-sorvete ([d9246e3](https://github.com/AlexGalhardo/eletro/commit/d9246e39f42bb371da2cdcd40791da5536f42dea))
+- **content:** Add image melhor-maquina-de-sorvete-7.jpg ([55575ba](https://github.com/AlexGalhardo/eletro/commit/55575bae001ec9ca2e4e15d1fbf9c5766fb30684))
+- **content:** Add image melhor-maquina-de-sorvete-6.jpg ([58de667](https://github.com/AlexGalhardo/eletro/commit/58de66779610829286f1d769d8cc2850083750dd))
+- **content:** Add image melhor-maquina-de-sorvete-5.jpg ([148e946](https://github.com/AlexGalhardo/eletro/commit/148e946abbfa29c1cb53aeef93c24069660e1625))
+- **content:** Add image melhor-maquina-de-sorvete-4.jpg ([aa809d5](https://github.com/AlexGalhardo/eletro/commit/aa809d5891d8b3138506ebe2dafbd5c528317ed8))
+- **content:** Add image melhor-maquina-de-sorvete-3.jpg ([46960ec](https://github.com/AlexGalhardo/eletro/commit/46960ecbb148541c81539202d864badfc47b8a8c))
+- **content:** Add image melhor-maquina-de-sorvete-2.jpg ([c548cf8](https://github.com/AlexGalhardo/eletro/commit/c548cf8d86ba6c8a9a979dac90710e13faf16790))
+- **content:** Add image melhor-maquina-de-sorvete-1.jpg ([fa25e8f](https://github.com/AlexGalhardo/eletro/commit/fa25e8f1dbac3483e6d8ea412ed33afd6ec77fec))
 
 ### Fixed
 
 - Importação (`/admin/import`): reviews da seção `cuidados-pessoais` da origem eram recusadas porque o site não tinha a categoria.
 - Teste de integração da importação no Windows: a capa era aberta pelo caminho e ficava travada na limpeza.
 - Build na Vercel: o `opentype.js` (capa da importação) passou a ser importado pelo export padrão, porque o Node carrega a versão CommonJS do pacote, que não tem exports nomeados.
-- **import:** Accept the cuidados-pessoais category of the source site ([662d39c](https://github.com/AlexGalhardo/eletro/commit/662d39c19b422357a93b917a2837c0044263feeb))
-- **import:** Load opentype.js through its default export ([9ca7087](https://github.com/AlexGalhardo/eletro/commit/9ca7087b4fd5e085536e15bccf2c6dec5ea5650b))
+- **import:** Accept the cuidados-pessoais category of the source site ([1c49b00](https://github.com/AlexGalhardo/eletro/commit/1c49b00b1f5432717a73e40e6b1863976502b60b))
+- **import:** Load opentype.js through its default export ([38cf5c8](https://github.com/AlexGalhardo/eletro/commit/38cf5c8d29f89c5ddcfcba22ea385712735d5157))
 
 ## [0.5.0] - 2026-10-07
 
@@ -286,25 +286,25 @@ A importação reescreve o texto com a Mistral e monta a capa do post.
 ### Changed
 
 - Capa gerada na importação: os produtos aparecem recortados, sem o fundo branco das fotos e sem os cartões brancos, ocupando mais espaço.
-- Merge pull request #2 from AlexGalhardo/ccr-3e119613-1rgj9m-cover ([2ca64aa](https://github.com/AlexGalhardo/eletro/commit/2ca64aae2f6463a45616a579a81fa87e986579d7))
-- Merge pull request #1 from AlexGalhardo/ccr-3e119613-1rgj9m ([4bfc714](https://github.com/AlexGalhardo/eletro/commit/4bfc714c942c3683c86ee6769a160f21d314bbc2))
+- Merge pull request #2 from AlexGalhardo/ccr-3e119613-1rgj9m-cover ([6776df3](https://github.com/AlexGalhardo/eletro/commit/6776df3d0ca801211af19dcd094e40061419270b))
+- Merge pull request #1 from AlexGalhardo/ccr-3e119613-1rgj9m ([8bd7577](https://github.com/AlexGalhardo/eletro/commit/8bd7577a3477ffe5404172ac4a3a70053916a47b))
 
 ### Added
 
 - Importação (`/admin/import`): o rascunho já sai com capa, montada com 3 fotos dos produtos sobre um fundo de cor clara aleatória e o endereço do site em negrito no canto inferior direito.
 - Importação (`/admin/import`): o resumo e o FAQ da página de origem são reescritos pela API da Mistral (`MISTRAL_API_KEY`) e viram a descrição, a introdução e o FAQ do rascunho. Sem a chave, ou com falha da API, o rascunho fica com o texto genérico e a tela mostra o motivo.
-- **import:** Cut product photos out of their white background on the cover ([6737815](https://github.com/AlexGalhardo/eletro/commit/67378157815fe037fab158a90675295b38ebe051))
-- **import:** Generate the post cover from three product photos ([b823686](https://github.com/AlexGalhardo/eletro/commit/b8236862a4afdd5a2a7364d934cea85e9d783a70))
-- **import:** Rewrite source summary and FAQ with Mistral ([2fa1bef](https://github.com/AlexGalhardo/eletro/commit/2fa1bef7afe23cd3a099a9919fe86a772cf2f8eb))
-- **content:** Add post melhor-cafeteira-eletrica-mondial ([73352f7](https://github.com/AlexGalhardo/eletro/commit/73352f7524a75f95dc765bdde668b83d2f4b6803))
-- **content:** Add product list melhor-cafeteira-eletrica-mondial ([a8ea2ad](https://github.com/AlexGalhardo/eletro/commit/a8ea2ad205f3020a8b9618dc581df8fdceee1992))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-7.jpg ([34f7e2f](https://github.com/AlexGalhardo/eletro/commit/34f7e2f7cf085e67b327d29797a55f42cb280604))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-6.jpg ([96fa2f3](https://github.com/AlexGalhardo/eletro/commit/96fa2f32d3e1904c3f7c4076caeabc9ad12ae08f))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-5.jpg ([a737cac](https://github.com/AlexGalhardo/eletro/commit/a737cac5ee56566dee269f4c9fe9a6c6bfff8ea7))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-4.jpg ([8264d74](https://github.com/AlexGalhardo/eletro/commit/8264d7494fd5fb738135cca61315a94ff4ab1d3b))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-3.jpg ([a88969a](https://github.com/AlexGalhardo/eletro/commit/a88969acebe3ebb193eb531cf78cf86565c97a7d))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-2.jpg ([4256706](https://github.com/AlexGalhardo/eletro/commit/4256706f7f6a8e0f3399d081611f04e31b91f642))
-- **content:** Add image melhor-cafeteira-eletrica-mondial-1.jpg ([6f8176d](https://github.com/AlexGalhardo/eletro/commit/6f8176d1b142eebf7216a46766d9c9c5a0f080a9))
+- **import:** Cut product photos out of their white background on the cover ([65560c0](https://github.com/AlexGalhardo/eletro/commit/65560c0c1347c199af574f54d706bc5b2036385d))
+- **import:** Generate the post cover from three product photos ([72b9edf](https://github.com/AlexGalhardo/eletro/commit/72b9edf40ac2e820550d2fd29f59df19d75fe9c7))
+- **import:** Rewrite source summary and FAQ with Mistral ([40492e1](https://github.com/AlexGalhardo/eletro/commit/40492e1036170e636db30649c9a187b512b484ec))
+- **content:** Add post melhor-cafeteira-eletrica-mondial ([0f699de](https://github.com/AlexGalhardo/eletro/commit/0f699dea307ee18d1c1dbd283c33dc496bb1c16a))
+- **content:** Add product list melhor-cafeteira-eletrica-mondial ([0ef337a](https://github.com/AlexGalhardo/eletro/commit/0ef337a752bc5476ef0719ae556cc7b093b7ca78))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-7.jpg ([f2a700c](https://github.com/AlexGalhardo/eletro/commit/f2a700cf5f8f41b998d00a0490990d6f7ded4282))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-6.jpg ([e2c0f84](https://github.com/AlexGalhardo/eletro/commit/e2c0f843f7cce38012ed131e280814132b3140f1))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-5.jpg ([469cec4](https://github.com/AlexGalhardo/eletro/commit/469cec44757e1cefe9a79850d305b853964d026e))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-4.jpg ([4e6ee78](https://github.com/AlexGalhardo/eletro/commit/4e6ee78205b0bad87303dbcbb35ed4a60325e2a7))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-3.jpg ([94d43e2](https://github.com/AlexGalhardo/eletro/commit/94d43e2d0b95653da707fcdb34e45bb3013d0283))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-2.jpg ([3dffdbe](https://github.com/AlexGalhardo/eletro/commit/3dffdbe17f405aef2bdbced0bcfeb5363ddc28a8))
+- **content:** Add image melhor-cafeteira-eletrica-mondial-1.jpg ([11b60a9](https://github.com/AlexGalhardo/eletro/commit/11b60a9acf74acba30cccc9320f74b2b9e8d48af))
 
 ## [0.4.0] - 2026-10-06
 
@@ -314,18 +314,18 @@ Login com Google, tema do painel e o registro do deploy de produção.
 
 - Botão de tema claro/escuro no cabeçalho do painel, com a mesma preferência do site público.
 - Login do painel pelo Google, ao lado do GitHub. `ADMIN_EMAILS` lista os e-mails permitidos; só vale e-mail verificado pelo provedor.
-- **feat:** Add the light and dark theme toggle to the admin header ([2ec817d](https://github.com/AlexGalhardo/eletro/commit/2ec817dcfff93f3763861d2dd603dd62ff78c492))
-- **feat:** Add Google sign-in to the admin ([14421e3](https://github.com/AlexGalhardo/eletro/commit/14421e3c7544c0d6db49a40ea259251b028acc29))
+- **feat:** Add the light and dark theme toggle to the admin header ([54369b6](https://github.com/AlexGalhardo/eletro/commit/54369b66c6d68f58fb64c75f6f9ae4fa6ad2e043))
+- **feat:** Add Google sign-in to the admin ([9f9105d](https://github.com/AlexGalhardo/eletro/commit/9f9105d46eeb574729ec4d32fc8696273e0a82fa))
 
 ### Fixed
 
 - Salvar, enviar imagem ou importar em um deploy sem `GITHUB_TOKEN` respondia erro 500 genérico. Agora responde 503 `content_store_unavailable` e o painel diz quais variáveis faltam.
-- **fix:** Answer 503 with the missing variables when the content store cannot write ([6192824](https://github.com/AlexGalhardo/eletro/commit/61928245d3b98d763f9e033dc0deefb8ad805ff4))
+- **fix:** Answer 503 with the missing variables when the content store cannot write ([46f0bf6](https://github.com/AlexGalhardo/eletro/commit/46f0bf67d402ac45263178a251923aaf382b40d1))
 
 ### Changed
 
-- **docs:** Record the production deploy on Vercel in the plan ([e39b4bd](https://github.com/AlexGalhardo/eletro/commit/e39b4bdd6f78a62f14ca5461733181783ed31a2b))
-- **test:** Keep the e2e server away from the services of a local .env ([c6601af](https://github.com/AlexGalhardo/eletro/commit/c6601af05deb3d81a6bc7bb0ec30ce6ab7a2b7fa))
+- **docs:** Record the production deploy on Vercel in the plan ([f504f4c](https://github.com/AlexGalhardo/eletro/commit/f504f4c496cac827f6a34192b53c8038cd902683))
+- **test:** Keep the e2e server away from the services of a local .env ([f7c6b48](https://github.com/AlexGalhardo/eletro/commit/f7c6b488fa0ade73e920c85e563deb864fec0e9f))
 
 ## [0.3.0] - 2026-10-06
 
@@ -342,18 +342,18 @@ Deploy na Vercel, scripts de setup e uma release por commit.
 - Adaptador trocado de `@sveltejs/adapter-auto` para `@sveltejs/adapter-vercel` 7.0.0, usado só no build da Vercel. Publicar na Netlify passa a exigir a troca do adaptador.
 - `engines.node` fixado em `24.x` (era `>=22.17`); os scripts de setup exigem Node 24.
 - Documentação: achados do Lighthouse corrigidos e execução dos testes e2e em contêiner registrada.
-- **chore:** Ignore the agent skills installed by the Neon integration ([623e46b](https://github.com/AlexGalhardo/eletro/commit/623e46bf586a0df8cb062d486bc0770e08d415ee))
-- **docs:** Correct the Lighthouse findings and record the container e2e run ([d8af296](https://github.com/AlexGalhardo/eletro/commit/d8af296e639d69ed3dbcf63bd1255c488c56292a))
+- **chore:** Ignore the agent skills installed by the Neon integration ([afe261b](https://github.com/AlexGalhardo/eletro/commit/afe261baa9ab8f7f17975fff6f06219708d82d66))
+- **docs:** Correct the Lighthouse findings and record the container e2e run ([304a3ca](https://github.com/AlexGalhardo/eletro/commit/304a3cae8ef64511ce9ff64707eb9f8ad979956e))
 
 ### Fixed
 
 - Login pelo GitHub recusava todo mundo com `unable_to_create_user`: o `better-auth` descartava o login do perfil antes da conferência da lista de administradores.
 - Segundo build na Vercel falhava com `ERR_PACKAGE_PATH_NOT_EXPORTED` em `estree-walker`: o `adapter-auto` instalava o adaptador durante o build, por cima do cache.
 - `vercel.json` tinha um bloco de cabeçalhos aninhado fora do schema, que faria a Vercel recusar o deploy.
-- **fix:** Let GitHub sign-in create the admin account ([3e60d89](https://github.com/AlexGalhardo/eletro/commit/3e60d89e336bd312f41cfe6d8fb608b9ca2f4357))
-- **fix:** Keep long product spec labels from overlapping their values ([d2c7497](https://github.com/AlexGalhardo/eletro/commit/d2c749725b785888111131a5b32853de8cd32361))
-- **fix:** Build on Vercel with adapter-vercel and pin Node 24 ([0ade2fe](https://github.com/AlexGalhardo/eletro/commit/0ade2fe63e8f451d283629a78686c3c01aa8947d))
-- **fix:** Remove the nested header block that made vercel.json invalid ([1105c63](https://github.com/AlexGalhardo/eletro/commit/1105c63ac0374ee62fa85440a2a3e2c590f1949f))
+- **fix:** Let GitHub sign-in create the admin account ([2b9bc76](https://github.com/AlexGalhardo/eletro/commit/2b9bc76f8f93a80ffeb7fb002cab563473e883ca))
+- **fix:** Keep long product spec labels from overlapping their values ([946e4e7](https://github.com/AlexGalhardo/eletro/commit/946e4e76c437cd67ff1b121565d6cbad76e84458))
+- **fix:** Build on Vercel with adapter-vercel and pin Node 24 ([041f61c](https://github.com/AlexGalhardo/eletro/commit/041f61c5a1104de3544bba5f20f04ce2ca421c88))
+- **fix:** Remove the nested header block that made vercel.json invalid ([e19911f](https://github.com/AlexGalhardo/eletro/commit/e19911f09aea82e25794c622fe1f23aa9823738f))
 
 ### Added
 
@@ -361,10 +361,10 @@ Deploy na Vercel, scripts de setup e uma release por commit.
 - `.vercelignore`: `vercel deploy` a partir da pasta de trabalho não envia mais `.env`, `.data` nem pastas geradas.
 - Scripts `setups/setup-unix.sh` e `setups/setup-windows.sh`: conferem Node e Bun, instalam as dependências, criam o `.env` com os padrões do painel, liberam a porta e sobem o servidor de desenvolvimento.
 - `docs/setup-vercel.md`: passo a passo do deploy na Vercel, com conferência e problemas comuns.
-- **feat:** Make every commit a release ([8f68abd](https://github.com/AlexGalhardo/eletro/commit/8f68abdac81ff5461bfe0bf16639e1117d1ffa56))
-- **feat:** Run the newsletter queue every 15 minutes with a Vercel cron ([20be4a1](https://github.com/AlexGalhardo/eletro/commit/20be4a1a49ef8e026a6ec1f29472385cfe8d46b3))
-- **feat:** Redirect unknown pages to the home page ([a22bb56](https://github.com/AlexGalhardo/eletro/commit/a22bb56416cd1a9edff1bfe77668dc6d34fbce7d))
-- **feat:** Add setup scripts and the Vercel setup guide ([83e26bd](https://github.com/AlexGalhardo/eletro/commit/83e26bd41adaf48da98262bbc757bddd60b494a2))
+- **feat:** Make every commit a release ([96f4a0c](https://github.com/AlexGalhardo/eletro/commit/96f4a0c3a606a06720342b5cbc4a10800fc44488))
+- **feat:** Run the newsletter queue every 15 minutes with a Vercel cron ([939ec8f](https://github.com/AlexGalhardo/eletro/commit/939ec8f33b408b666eecf49cc822a4840b780f56))
+- **feat:** Redirect unknown pages to the home page ([814960d](https://github.com/AlexGalhardo/eletro/commit/814960d2dcfe552dce0c8b5fd30a90d3184a5888))
+- **feat:** Add setup scripts and the Vercel setup guide ([48e6d8b](https://github.com/AlexGalhardo/eletro/commit/48e6d8ba87be223e206d03c2f1590e5eefa83f95))
 
 ## [0.2.0] - 2026-10-06
 
@@ -390,14 +390,14 @@ Base do CMS: banco, autenticação, API, painel, newsletter, importação e segu
 - Workflows do GitHub Actions para CI (lint, tipos, testes, build, e2e) e release, escritos em `.github/workflows-disabled/` e ainda inativos; `scripts/release.ts` calcula a versão pelos Conventional Commits e corta o changelog.
 - Importação de posts por web scraping: tela `/admin/import`, endpoint `POST /api/v1/imports` e pasta `webscrapping/` (cheerio 1.2.0). Cria um rascunho com os 7 primeiros produtos de uma review de um site permitido, com links de afiliado e capa para preencher; relatório em `docs/webscrapping-modelation.md`.
 - Testes de integração do banco, da autenticação e da API, e testes e2e do acesso ao painel e da publicação de uma review pelo navegador.
-- **feat:** Import a draft post from the source site by web scraping ([4f99cc7](https://github.com/AlexGalhardo/eletro/commit/4f99cc705da9fb7fdffd733b9810550629b74813))
-- **feat:** Add post import by web scraping to the admin ([82795f3](https://github.com/AlexGalhardo/eletro/commit/82795f383c3b05b5cc8f2dc35a5b3becf34b3f9a))
-- **content:** Add draft post melhor-lava-loucas-portatil ([7757fff](https://github.com/AlexGalhardo/eletro/commit/7757fff5aa3adef935da865ceaaa7ba5099ce88b))
-- **feat:** Add the newsletter with double opt-in and post announcements ([84d3ac8](https://github.com/AlexGalhardo/eletro/commit/84d3ac8a25c44d13acd6b468d31b15b2ef8bfdb2))
-- **feat:** Add the admin dashboard for posts, products and media ([0b2e2ea](https://github.com/AlexGalhardo/eletro/commit/0b2e2eaed77119147701627d031e5a55995d7943))
-- **feat:** Add the /api/v1 REST API for posts, products and media ([d443b5f](https://github.com/AlexGalhardo/eletro/commit/d443b5f5c0dd24b693d2b581ac4ccbaae866348b))
-- **feat:** Add the admin login, panel layout and test login ([6639e70](https://github.com/AlexGalhardo/eletro/commit/6639e701f195229f95f65331eec2cdefe486909e))
-- **feat:** Add the server foundation for the admin CMS ([8fb0a0f](https://github.com/AlexGalhardo/eletro/commit/8fb0a0ff0dea56a64d683896965583e3093a1627))
+- **feat:** Import a draft post from the source site by web scraping ([d5673d2](https://github.com/AlexGalhardo/eletro/commit/d5673d2a7c5313262be978a67ac4e14238ba8726))
+- **feat:** Add post import by web scraping to the admin ([b570b7d](https://github.com/AlexGalhardo/eletro/commit/b570b7d44c66990d8adf8c843207b20741173ebb))
+- **content:** Add draft post melhor-lava-loucas-portatil ([a6cf2c6](https://github.com/AlexGalhardo/eletro/commit/a6cf2c62f6636fae8bc3ca39bd4a664f32cfe26a))
+- **feat:** Add the newsletter with double opt-in and post announcements ([fd69444](https://github.com/AlexGalhardo/eletro/commit/fd694443525451a23d5f1bf48ab46939ba6fd382))
+- **feat:** Add the admin dashboard for posts, products and media ([0ee71cf](https://github.com/AlexGalhardo/eletro/commit/0ee71cf608a4305c5c3e8246c394bc62e7836093))
+- **feat:** Add the /api/v1 REST API for posts, products and media ([443d836](https://github.com/AlexGalhardo/eletro/commit/443d836413ebe9d045fbd52d1b58f041967be393))
+- **feat:** Add the admin login, panel layout and test login ([6a43c33](https://github.com/AlexGalhardo/eletro/commit/6a43c338fd056a0b5e2ffc0b66c5cf70b0e8fdc1))
+- **feat:** Add the server foundation for the admin CMS ([7f84859](https://github.com/AlexGalhardo/eletro/commit/7f84859db7f93b7ecbb04a8a93cc4567f57c4abb))
 
 ### Changed
 
@@ -405,16 +405,16 @@ Base do CMS: banco, autenticação, API, painel, newsletter, importação e segu
 - Produto ainda sem foto (imagem `#`) não mostra mais uma imagem quebrada.
 - A Política de Privacidade passa a dizer que o e-mail é guardado para quem se inscreve na newsletter.
 - Páginas do painel não carregam os scripts de analytics.
-- **release:** V1.0.0-rc.1 ([0d1a16e](https://github.com/AlexGalhardo/eletro/commit/0d1a16e95e58447be54ab1a7edcc758c35e4db6f))
-- **docs:** Record the release candidate checks and what is left for 1.0.0 ([4ea5912](https://github.com/AlexGalhardo/eletro/commit/4ea5912ecfd367c06802ba127e9f0c67bf07d4d4))
-- **docs:** Use headings for the README feature groups ([624cf32](https://github.com/AlexGalhardo/eletro/commit/624cf32bb87db33cc05c389c46566c0f1057fa64))
-- **docs:** Write the README, the deploy guide and the project skills ([c85795e](https://github.com/AlexGalhardo/eletro/commit/c85795e434b76f0fa24632ff6d8a84a931b8248b))
-- **perf:** Serve covers in three widths and meet AA contrast ([70b97d7](https://github.com/AlexGalhardo/eletro/commit/70b97d723f98f274434281b20b2d616090325fcf))
-- **docs:** Record the local simulation of the CI and release workflows ([5d16e88](https://github.com/AlexGalhardo/eletro/commit/5d16e887d68b9c8798758709625880a74619f7af))
-- **test:** Serve the e2e build on an explicit IPv4 address ([4b2d78b](https://github.com/AlexGalhardo/eletro/commit/4b2d78b54c27eb8464e8bfabd65ba1ae18c40d3d))
-- **ci:** Add the CI and release workflows, still disabled ([6d090e1](https://github.com/AlexGalhardo/eletro/commit/6d090e11ad1b7a7200295c32db53d8604457bfb1))
-- **chore:** Stop tracking agent worktrees ([277ef0e](https://github.com/AlexGalhardo/eletro/commit/277ef0e47351a3b9e040666ef30e2b9c5085dba7))
-- **docs:** Check the current OWASP Top Ten in the security skill ([92fe8b6](https://github.com/AlexGalhardo/eletro/commit/92fe8b629063096b724281b94253475d9b7648cb))
+- **release:** V1.0.0-rc.1 ([17e3293](https://github.com/AlexGalhardo/eletro/commit/17e3293d56d7069263b0860787c85af264e8080b))
+- **docs:** Record the release candidate checks and what is left for 1.0.0 ([dc67c79](https://github.com/AlexGalhardo/eletro/commit/dc67c79aac43719efacc0dfb290ae0f730ef5c93))
+- **docs:** Use headings for the README feature groups ([3764b43](https://github.com/AlexGalhardo/eletro/commit/3764b43ac2fe78c352449f310d4b3ef2fb2fef57))
+- **docs:** Write the README, the deploy guide and the project skills ([6b0209c](https://github.com/AlexGalhardo/eletro/commit/6b0209c0023195848c2dcaf8f09f3181e7419bae))
+- **perf:** Serve covers in three widths and meet AA contrast ([0916722](https://github.com/AlexGalhardo/eletro/commit/09167221c4b3e533254c892cbfd2a701268c69c2))
+- **docs:** Record the local simulation of the CI and release workflows ([f85b411](https://github.com/AlexGalhardo/eletro/commit/f85b411b1f5428c9b76ad1ce7f8fc7fc7f2384dd))
+- **test:** Serve the e2e build on an explicit IPv4 address ([1069ed7](https://github.com/AlexGalhardo/eletro/commit/1069ed7f40cc5ba289b7d68f8140c0d02202716b))
+- **ci:** Add the CI and release workflows, still disabled ([c57b4c5](https://github.com/AlexGalhardo/eletro/commit/c57b4c5e9017ece0cea273e0a34447ccf28e4e1d))
+- **chore:** Stop tracking agent worktrees ([7a3cc69](https://github.com/AlexGalhardo/eletro/commit/7a3cc69b5d3509e220253db33019c5e47b6a0376))
+- **docs:** Check the current OWASP Top Ten in the security skill ([5abbfb4](https://github.com/AlexGalhardo/eletro/commit/5abbfb4531cbfd62d67c2ae4adeeee700696237e))
 
 ### Security
 
@@ -430,8 +430,8 @@ Base do CMS: banco, autenticação, API, painel, newsletter, importação e segu
 
 - O banco local (PGlite) não iniciava em um clone novo porque a pasta `.data/` não existia.
 - Na home, pular direto para o fim da página (tecla End ou rolagem rápida no celular) não carregava mais posts.
-- **fix:** Close the post body gate bypass and harden the admin and newsletter ([60de625](https://github.com/AlexGalhardo/eletro/commit/60de625ee2273865488083eaf60a51317730d12f))
-- **fix:** Load more posts after a jump to the end of the home page ([aa52727](https://github.com/AlexGalhardo/eletro/commit/aa52727c2daa8fd38833cd2c55130ec19da4befa))
+- **fix:** Close the post body gate bypass and harden the admin and newsletter ([f5c28aa](https://github.com/AlexGalhardo/eletro/commit/f5c28aaccef5722f1ed2930259f077c8f3ed3630))
+- **fix:** Load more posts after a jump to the end of the home page ([bb49da5](https://github.com/AlexGalhardo/eletro/commit/bb49da5dcb20b8ef1e948aeefb459608c642c6ca))
 
 ## [0.1.0] - 2026-10-06
 
@@ -454,7 +454,7 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 - Testes unitários e de integração (Vitest) e testes smoke e e2e (Playwright, desktop e celular).
 - Biome v2 e markdownlint para formatação e lint; Husky e commitlint para Conventional Commits.
 - `PLAN.md`, `AGENTS.md`, `CLAUDE.md`, regras em `.claude/rules/`, skills em `.claude/skills/` e documentação de onboarding em `docs/`.
-- **feat:** Rewrite the public site in SvelteKit 3 ([755c4aa](https://github.com/AlexGalhardo/eletro/commit/755c4aaadaa0f4bf571905a59ab4e38f92aed4f7))
+- **feat:** Rewrite the public site in SvelteKit 3 ([32e672f](https://github.com/AlexGalhardo/eletro/commit/32e672ffac58a28a94d18d8a3a7ef97113a64641))
 
 ### Changed
 
