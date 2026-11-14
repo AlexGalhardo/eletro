@@ -194,6 +194,27 @@ test.describe("post", () => {
 		await expect(page.getByRole("heading", { name: "Perguntas Frequentes" })).toBeVisible();
 	});
 
+	test("shows the verdict, the comparison table and sends affiliate_click on an offer click", async ({
+		page,
+	}) => {
+		await page.goto(POST);
+
+		await expect(page.getByRole("heading", { name: /Nossa escolha/ })).toBeVisible();
+		await expect(page.getByRole("region", { name: "Comparativo rápido" })).toBeVisible();
+		await page
+			.getByRole("link", { name: /Ver oferta no Mercado Livre/ })
+			.first()
+			.click({ modifiers: [] });
+		// gtag pushes its arguments object onto dataLayer.
+		const event = await page.evaluate(() =>
+			((window as unknown as { dataLayer: ArrayLike<unknown>[] }).dataLayer ?? [])
+				.map((entry) => Array.from(entry))
+				.find((entry) => entry[1] === "affiliate_click"),
+		);
+		expect(event?.[1]).toBe("affiliate_click");
+		expect(event?.[2]).toMatchObject({ post_slug: "melhor-airfryer-8-litros", store: "mercadolivre" });
+	});
+
 	test("navigating between posts swaps the content and its products", async ({ page, isMobile }) => {
 		await page.goto(POST);
 		if (isMobile) await page.getByRole("button", { name: "Buscar" }).click();

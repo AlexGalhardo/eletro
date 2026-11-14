@@ -1,6 +1,7 @@
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 import { aliases } from "./src/aliases.ts";
@@ -15,6 +16,7 @@ export default defineConfig({
 	// The images and the verification files already live here.
 	publicDir: "static",
 	integrations: [
+		react(),
 		{
 			name: "github-pages",
 			hooks: {

@@ -1,0 +1,19 @@
+---
+import { type AdminSection, AdminShell } from "#lib/admin-ui/AdminShell.tsx";
+import { site } from "#lib/site.config.ts";
+import Root from "./Root.astro";
+
+interface Props {
+	section: AdminSection;
+	path: string;
+	title?: string;
+}
+
+const { section, path, title = `Painel editorial - ${site.name}` } = Astro.props;
+---
+
+<Root title={title} description="Edite o conteúdo do site." path={path} noindex>
+	<AdminShell client:load current={section} siteName={site.name} logo={site.logo}>
+		<slot />
+	</AdminShell>
+</Root>

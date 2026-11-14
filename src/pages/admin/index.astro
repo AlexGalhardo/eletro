@@ -1,9 +1,8 @@
 ---
 import PagesCms from "#lib/admin/PagesCms.astro";
-import { site } from "#lib/site.config.ts";
-import Root from "../../layouts/Root.astro";
+import Admin from "../../layouts/Admin.astro";
 ---
 
-<Root title={`Painel editorial - ${site.name}`} description="Edite o conteúdo do site." path="/admin" noindex>
-	<PagesCms />
-</Root>
+<Admin section="posts" path="/admin">
+	<PagesCms folder="content/posts" />
+</Admin>

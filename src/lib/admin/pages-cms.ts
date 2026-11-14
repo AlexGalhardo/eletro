@@ -1,5 +1,4 @@
 import { announce } from "@ui-sdk/core";
-import { bindThemeToggles } from "#lib/theme.ts";
 import { openCredential, type SealedCredential } from "./credential.ts";
 import { decodeFile, GithubError, PagesRepository, type RepoFile } from "./github-pages.ts";
 import { contentImages, linkedProducts, type PostField, postField, setPostField } from "./post-fields.ts";
@@ -37,12 +36,11 @@ export function initPagesCms(): void {
 	const postLinks = JSON.parse(root.dataset.postLinks ?? "{}") as Record<string, string[]>;
 	const uploadedUrls = new Map<string, string>();
 	let repository: PagesRepository | undefined;
-	let folder = "content/posts";
+	let folder = root.dataset.folder ?? "content/posts";
 	let files: RepoFile[] = [];
 	let selected: RepoFile | undefined;
 	let selectedImagePath = "";
 	let pendingUploadUrl = "";
-	bindThemeToggles(root);
 
 	function field(name: string): HTMLInputElement | HTMLSelectElement | null {
 		return root?.querySelector(`[data-post-field="${name}"]`) ?? null;

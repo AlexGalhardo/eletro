@@ -149,7 +149,7 @@ test("the editor creates posts and previews linked products and images", async (
 	await page.getByLabel("Credencial de acesso").fill("test-token");
 	await page.getByRole("button", { name: "Login" }).click();
 	const darkBefore = await page.locator("html").evaluate((node) => node.classList.contains("dark"));
-	await page.locator("[data-workspace-header] [data-theme-toggle]").click();
+	await page.getByRole("button", { name: "Alternar tema" }).click();
 	expect(await page.locator("html").evaluate((node) => node.classList.contains("dark"))).toBe(!darkBefore);
 
 	await page.getByRole("button", { name: "Novo arquivo" }).click();
