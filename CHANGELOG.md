@@ -6,36 +6,40 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-11-14
+
 ### Added
 
-- `/admin/login` (`noindex`, sem sidebar) com o campo `Password`; todas as rotas `/admin/*` redirecionam para `/admin/login?next=<rota>` quando não há sessão, por um script no `<head>` do layout. A sessão dura 4 horas: o token fica cifrado com uma chave AES-GCM não extraível no IndexedDB, e o `sessionStorage` guarda só `{ iv, ciphertext, expires }`; o botão "Sair" da sidebar apaga os dois. As páginas do admin ganham uma CSP por meta (`default-src 'self'`, `connect-src` só para o próprio site e `api.github.com`, scripts inline por hash no build). `next` só aceita caminhos `/admin/...`.
-- Reviews: a coluna lateral de outras postagens vira uma lista com miniatura, categoria, "Há N dias" (atualizado no navegador) e título.
-- Redesign "papel de jornal": tokens shadcn (`--background`, `--primary`, `--radius` de 4px...) em `src/app.css`, acento neutro (preto no claro, branco no escuro), tema escuro em grafite quente que segue o sistema e pode ser alternado. `docs/design-system.md` documenta tokens, contraste, componentes e como adicionar shadcn.
-- `OfferButton`, o único botão de oferta do site, na cor de cada marketplace (Mercado Livre, Amazon e Shopee; demais em preto e branco) com sombra inferior sólida e efeito de afundar ao clicar; texto "Ver oferta no/na (loja)" com nome e artigo em `site.stores`.
-- Evento GA4 `affiliate_click` (`product_id`, `post_slug`, `store`) em todo link de afiliado.
-- `/admin` com sidebar recolhível (Produtos e links, Posts, Métricas, Flags, Newsletter) em ilhas React com shadcn/ui (`@astrojs/react`, `radix-ui`, `lucide-react`, `class-variance-authority`, `clsx`, `tailwind-merge`, `tw-animate-css`). Métricas explica por que o ranking não é lido no navegador e linka o GA4; Newsletter é um placeholder para o vukem-email.
-- Ícone de radar monocromático, sem fundo, com arcos e raio (`static/icon.svg`), PNGs 180/192/512 (`bun scripts/make-icons.ts`) e `manifest.webmanifest`.
-
-- `release.yml`: ao empurrar uma tag estável `vX.Y.Z`, publica o GitHub Release com as notas do CHANGELOG e a imagem multi-arquitetura em GHCR e Docker Hub (`X.Y.Z`, `X.Y`, `latest`), com SBOM, proveniência e assinatura cosign.
-- No `/admin`, o post ganha campos de slug, data, título, descrição, categoria, autor, rascunho e capa, com prévia da capa, das imagens do texto e do upload.
-- O painel lista as listas vinculadas ao post e os posts que usam cada JSON, e permite escolher uma capa já enviada.
-
-### Removed
-
-- Tabela "Comparativo rápido" e card "Veredito / Nossa escolha" dos reviews, com `pickTopProduct`, `comparisonColumns`, `formatScore` e o campo `score` dos produtos.
+- **admin:** `/admin/login` (`noindex`) com guarda em todas as rotas `/admin/*` e `next` restrito a `/admin/...` ([b7e8cee](https://github.com/AlexGalhardo/eletro/commit/b7e8ceecddbf93764247727b243dcb9ae2f0d399))
+- **admin:** Sidebar recolhível estilo Vercel com shadcn/ui (Produtos e links, Posts, Métricas, Flags, Newsletter) em ilhas React ([5b9cd0f](https://github.com/AlexGalhardo/eletro/commit/5b9cd0f2553de94cb7e898b942114114288470ab))
+- **admin:** Campos de slug, data, título, descrição, categoria, autor, rascunho e capa no post, com prévias e listas de produtos vinculadas ([a7c722f](https://github.com/AlexGalhardo/eletro/commit/a7c722f125155dbff4575804c914ff53b8dcea4e))
+- **ui:** Coluna de outras postagens em lista, com miniatura, categoria e data relativa ([53c9259](https://github.com/AlexGalhardo/eletro/commit/53c925908d1228eec5ef9114b07ab6eb22c76169))
+- **ui:** `OfferButton` na cor de cada marketplace (Mercado Livre, Amazon, Shopee) com efeito 3D ao clicar ([f2d9d8d](https://github.com/AlexGalhardo/eletro/commit/f2d9d8dbabfca47bbc8ea2f58b9419e3561f744e))
+- **ui:** Paleta "papel de jornal" sobre tokens shadcn (`--radius` de 4px) e tema que segue o sistema ([080f0bf](https://github.com/AlexGalhardo/eletro/commit/080f0bf5f7325d7862052c10863edfd6dc37311c))
+- **reviews:** Evento GA4 `affiliate_click` (`product_id`, `post_slug`, `store`) em todo link de afiliado ([9063442](https://github.com/AlexGalhardo/eletro/commit/9063442efe5f062332ed4cbe35619dfba9b28f41))
+- **brand:** Ícone de radar com arcos e raio, PNGs 180/192/512 e `manifest.webmanifest` ([c77cce0](https://github.com/AlexGalhardo/eletro/commit/c77cce0ab2c3b1ab7f59cd52ea106467f3d5c750))
+- **docker:** `release.yml` publica o GitHub Release e a imagem multi-arquitetura em GHCR e Docker Hub (`X.Y.Z`, `X.Y`, `latest`) com SBOM, proveniência e cosign ([92155f5](https://github.com/AlexGalhardo/eletro/commit/92155f5caf4ade45ba7e34172b0975d42d3c0e69))
+- **docs:** `docs/design-system.md` com tokens, contraste e componentes ([dae89e2](https://github.com/AlexGalhardo/eletro/commit/dae89e25ab44d304b7d4f416c8d3e59f0b0c8b82))
 
 ### Changed
 
-- Cor padrão neutra: o acento (`--primary`, links, foco, chips, banner, barra de leitura, `/admin`) é preto no claro e branco no escuro; todo o verde saiu (inclusive mensagens de sucesso e `theme_color`). O ícone passa a ser um traço de radar sem fundo colorido, com variante clara via `prefers-color-scheme`; o logo do header, do rodapé, do menu e do `/admin` usa o ícone como máscara (`LogoMark.astro`).
+- **ui:** Acento neutro (preto no claro, branco no escuro), sem verde nem azul, e ícone monocromático usado como máscara no logo ([f2d9d8d](https://github.com/AlexGalhardo/eletro/commit/f2d9d8dbabfca47bbc8ea2f58b9419e3561f744e))
+- **docker:** A imagem compila o site estático e o serve com Caddy 2.11.9; o compose publica só em `127.0.0.1` ([f672a3c](https://github.com/AlexGalhardo/eletro/commit/f672a3c09fef047df6df9d6b3e592708b13611e1))
+- **site:** O domínio sai dos arquivos: canonicais, sitemap e JSON-LD usam `SITE_URL`; e-mails de exemplo passam a `example.com` ([4a2bf6e](https://github.com/AlexGalhardo/eletro/commit/4a2bf6e09085535f42e18e6fcd6b620207fe1574))
+- **footer:** Aviso de afiliados no lugar de "Todos os direitos reservados." ([46916eb](https://github.com/AlexGalhardo/eletro/commit/46916eb691229eb55f3eb88de9d225c8c8561c84))
+- **ci:** Build com `SITE_URL` https para canonicais e e2e baterem com a produção ([7355928](https://github.com/AlexGalhardo/eletro/commit/7355928b8ecb7dd33bb4a411b0fe4de7762a3415))
 
-- Todo o azul saiu do site (menu, links, botões, foco, cartões de autor); os botões de compartilhar e de loja deixam de usar a cor da marca de cada rede ou loja. O campo `color` dos autores em `site.config.ts` foi removido.
-- O tema agora segue `prefers-color-scheme` e só guarda a escolha quando ela difere do sistema.
-- `/admin/google` passa a mostrar a tela de Métricas; `/admin/newsletter` é o placeholder.
-- A imagem Docker (`infra/Dockerfile`) passa a compilar o site estático e servi-lo com Caddy 2.11.9 (`infra/Caddyfile`), em vez de `astro preview`; o `docker-compose.yml` publica só em `127.0.0.1` e aceita `SITE_URL`. A imagem não executa o código de servidor (API, login, contato, newsletter).
-- O domínio deixa de estar escrito nos arquivos: `site`, canonicais, sitemap e JSON-LD usam a variável `SITE_URL` (padrão `http://localhost:4321`), que o `pages.yml` lê da variável de repositório `SITE_URL`. O build não cria mais o `CNAME`; o domínio próprio fica em Settings → Pages. E-mails e textos de exemplo passam a `example.com`.
-- O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.
-- O e-mail de contato público passa a ser `contato@example.com`.
-- A busca da barra seleciona o texto ao receber foco. O `/admin` alterna o tema claro e escuro.
+### Removed
+
+- **reviews:** Card de veredito, tabela comparativa e o campo `score` dos produtos ([259c3be](https://github.com/AlexGalhardo/eletro/commit/259c3beba672aa7f029345d50529afd52e56a343))
+
+### Fixed
+
+- **admin:** Sessão de 4 h cifrada com chave AES-GCM não extraível no IndexedDB e CSP estrita nas páginas do admin ([4e60f15](https://github.com/AlexGalhardo/eletro/commit/4e60f1567765612f4b5063fae929efc3932f18cd))
+- **ui:** Texto do botão de oferta mantém a cor sobre o estilo de link do artigo ([0b033f1](https://github.com/AlexGalhardo/eletro/commit/0b033f16f45b3da31357c83ad7cd8480edc73885))
+- **ui:** Acento único no banner de cookies, newsletter e barra de leitura ([413e29c](https://github.com/AlexGalhardo/eletro/commit/413e29cd7897149610889630712410d6d7aacce0))
+- **reviews:** Primeira lista de produtos lida dos segmentos de cards ([e0c595e](https://github.com/AlexGalhardo/eletro/commit/e0c595e048db7bd4b6ef51042b0df0b6e5c08b91))
+- **docker:** Cabeçalhos de segurança mantidos nos assets em cache ([91919e8](https://github.com/AlexGalhardo/eletro/commit/91919e85fde7db7452447fd9e630f61efc43026d))
 
 ## [0.11.0] - 2026-11-13
 
@@ -490,7 +494,8 @@ Primeira versão em SvelteKit: o site público do EletroRadar reescrito a partir
 
 - Arquivos `.env` deixam de ser versionados; `.env.example` contém apenas placeholders.
 
-[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/eletro/compare/v0.12.0...HEAD
+[0.12.0]: https://github.com/AlexGalhardo/eletro/compare/v0.11.0...v0.12.0
 [0.11.0]: https://github.com/AlexGalhardo/eletro/compare/v0.10.0...v0.11.0
 [0.10.0]: https://github.com/AlexGalhardo/eletro/compare/v0.9.0...v0.10.0
 [0.9.0]: https://github.com/AlexGalhardo/eletro/compare/v0.8.0...v0.9.0
