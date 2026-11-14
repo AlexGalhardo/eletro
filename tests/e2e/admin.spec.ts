@@ -1,30 +1,7 @@
-import type { Page } from "@playwright/test";
+import { login, mockGithub } from "./admin-session.ts";
 import { expect, test } from "./test.ts";
 
 const SESSION_KEY = "admin-session";
-
-async function withSession(page: Page): Promise<void> {
-	await page.addInitScript((key) => {
-		if (!sessionStorage.getItem(key))
-			sessionStorage.setItem(
-				key,
-				JSON.stringify({ token: "test-token", expires: Date.now() + 3_600_000 }),
-			);
-	}, SESSION_KEY);
-}
-
-async function mockGithub(page: Page): Promise<void> {
-	await page.route("https://api.github.com/**", (route) => {
-		const { pathname } = new URL(route.request().url());
-		const body =
-			pathname === "/user"
-				? {}
-				: pathname.includes("/contents/")
-					? []
-					: { permissions: { push: true } };
-		return route.fulfill({ json: body });
-	});
-}
 
 test.describe("admin access", () => {
 	for (const path of ["/admin", "/admin/posts", "/admin/flags", "/admin/metrics"]) {
@@ -54,12 +31,11 @@ test.describe("admin access", () => {
 		page,
 		isMobile,
 	}) => {
-		await mockGithub(page);
-		await page.goto("/admin/login?next=/admin/flags");
-		await page.getByPlaceholder("Password").fill("a-token");
-		await page.getByRole("button", { name: "Login" }).click();
-		await expect(page).toHaveURL(/\/admin\/flags$/);
+		await login(page, "/admin/flags");
 		await expect(page.getByRole("heading", { name: "Feature flags" })).toBeVisible();
+		const stored = await page.evaluate((key) => sessionStorage.getItem(key), SESSION_KEY);
+		expect(Object.keys(JSON.parse(stored ?? "{}")).sort()).toEqual(["ciphertext", "expires", "iv"]);
+		expect(stored).not.toContain("a-token");
 
 		if (isMobile) await page.getByRole("button", { name: "Recolher ou expandir o menu" }).click();
 		await page.getByRole("button", { name: "Sair" }).click();
@@ -74,22 +50,57 @@ test.describe("admin access", () => {
 		await page.goto("/admin/login?next=https://evil.example/admin/x");
 		await page.getByPlaceholder("Password").fill("a-token");
 		await page.getByRole("button", { name: "Login" }).click();
-		await expect(page).toHaveURL(/localhost:\d+\/admin\/?$|\/admin$/);
+		await expect(page).toHaveURL((url) => url.pathname === "/admin");
 	});
 
 	test("an expired session is sent to the login", async ({ page }) => {
 		await page.addInitScript((key) => {
-			sessionStorage.setItem(key, JSON.stringify({ token: "t", expires: 1 }));
+			sessionStorage.setItem(key, JSON.stringify({ iv: "AAAA", ciphertext: "AAAA", expires: 1 }));
 		}, SESSION_KEY);
 		await page.goto("/admin/flags");
 		await expect(page).toHaveURL(/\/admin\/login\?next=\/admin\/flags$/);
 	});
 
-	test("with a session, the editor opens on /admin/posts", async ({ page }) => {
-		await withSession(page);
-		await mockGithub(page);
-		await page.goto("/admin/posts");
+	test("a session whose key is gone is sent to the login", async ({ page }) => {
+		await login(page, "/admin/flags");
+		await page.evaluate(
+			() =>
+				new Promise<void>((resolve) => {
+					const request = indexedDB.deleteDatabase("admin-session");
+					request.onsuccess = () => resolve();
+					request.onblocked = () => resolve();
+				}),
+		);
+		await page.goto("/admin/flags");
+		await expect(page).toHaveURL(/\/admin\/login\?next=\/admin\/flags$/);
+		expect(await page.evaluate((key) => sessionStorage.getItem(key), SESSION_KEY)).toBeNull();
+	});
+
+	test("with a session, the editor opens on /admin/posts under the CSP, with no third-party request", async ({
+		page,
+	}) => {
+		const violations: string[] = [];
+		const hosts = new Set<string>();
+		page.on("console", (message) => {
+			if (/Content Security Policy/i.test(message.text())) violations.push(message.text());
+		});
+		page.on("request", (request) => {
+			const url = new URL(request.url());
+			if (url.protocol.startsWith("http")) hosts.add(url.host);
+		});
+		await login(page, "/admin/posts");
 		await expect(page.getByRole("heading", { name: "Painel editorial" })).toBeVisible();
+		await page.goto("/admin/flags");
+		await expect(page.getByRole("heading", { name: "Feature flags" })).toBeVisible();
+		await expect(page.locator('meta[http-equiv="Content-Security-Policy"]')).toHaveAttribute(
+			"content",
+			/connect-src 'self' https:\/\/api\.github\.com/,
+		);
+		await expect(page.getByText(/cookies/i)).toHaveCount(0);
+		expect(violations).toEqual([]);
+		expect(
+			[...hosts].filter((host) => host !== new URL(page.url()).host && host !== "api.github.com"),
+		).toEqual([]);
 	});
 
 	test("the admin stays out of search engines", async ({ request }) => {
@@ -132,8 +143,7 @@ test.describe("REST API", () => {
 
 test("the admin sidebar lists the sections and collapses", async ({ page, isMobile }) => {
 	test.skip(isMobile, "On mobile the sidebar is an off-canvas sheet");
-	await withSession(page);
-	await page.goto("/admin/metrics");
+	await login(page, "/admin/metrics");
 	const nav = page.getByRole("complementary").or(page.locator("[data-slot=sidebar]")).first();
 	for (const name of ["Produtos e links", "Posts", "Métricas", "Flags", "Newsletter"]) {
 		await expect(nav.getByRole("link", { name })).toBeVisible();

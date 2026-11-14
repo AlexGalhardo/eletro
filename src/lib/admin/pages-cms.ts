@@ -246,14 +246,14 @@ export function initPagesCms(): void {
 		}
 	}
 
-	function toLogin(): void {
-		clearSession();
+	async function toLogin(): Promise<void> {
+		await clearSession();
 		location.replace(`${LOGIN_PATH}?next=${encodeURIComponent(location.pathname.replace(/\/$/, ""))}`);
 	}
 
 	// The login page stored the token; every admin route reopens the workspace from the session.
 	async function start(): Promise<void> {
-		const token = readSession();
+		const token = await readSession();
 		if (!token) return toLogin();
 		try {
 			const candidate = new PagesRepository(root?.dataset.repo ?? "", token);

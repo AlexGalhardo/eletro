@@ -1,3 +1,4 @@
+import { login } from "./admin-session.ts";
 import { open } from "./env.ts";
 import { expect, test } from "./test.ts";
 
@@ -26,13 +27,7 @@ test("newsletter pages stay out of search engines", async ({ request }) => {
 });
 
 test("the newsletter screen is a placeholder until the vukem-email integration", async ({ page }) => {
-	await page.addInitScript(() =>
-		sessionStorage.setItem(
-			"admin-session",
-			JSON.stringify({ token: "t", expires: Date.now() + 3_600_000 }),
-		),
-	);
-	await page.goto("/admin/newsletter");
+	await login(page, "/admin/newsletter");
 
 	await expect(page.getByText("Em breve")).toBeVisible();
 	await expect(page.getByRole("button", { name: "Conectar ao vukem-email" })).toBeDisabled();

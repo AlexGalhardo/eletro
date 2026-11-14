@@ -1,10 +1,11 @@
-import { writeFile } from "node:fs/promises";
+import { readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 import { aliases } from "./src/aliases.ts";
+import { sealAdminHtml } from "./src/lib/admin/csp.ts";
 import { publishJsonForPages } from "./src/lib/pages-output.ts";
 
 export default defineConfig({
@@ -25,6 +26,12 @@ export default defineConfig({
 					const out = fileURLToPath(dir);
 					await writeFile(path.join(out, ".nojekyll"), "");
 					await publishJsonForPages(path.join(out, "api"));
+					const adminDir = path.join(out, "admin");
+					for (const entry of await readdir(adminDir, { recursive: true })) {
+						if (!entry.endsWith(".html")) continue;
+						const file = path.join(adminDir, entry);
+						await writeFile(file, sealAdminHtml(await readFile(file, "utf8")));
+					}
 				},
 			},
 		},
