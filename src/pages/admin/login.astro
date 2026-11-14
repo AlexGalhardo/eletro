@@ -1,0 +1,67 @@
+---
+import { site } from "#lib/site.config.ts";
+import Root from "../../layouts/Root.astro";
+---
+
+<Root title={`Entrar - ${site.name}`} description="Acesso ao painel editorial." path="/admin/login" noindex>
+	<main class="flex min-h-screen items-center justify-center px-4">
+		<section class="w-full max-w-sm rounded-2xl border border-border bg-card p-6 shadow-sm sm:p-8">
+			<form data-login-form>
+				<label for="password" class="sr-only">Credencial de acesso</label>
+				<input
+					id="password"
+					name="token"
+					type="password"
+					placeholder="Password"
+					required
+					autocomplete="off"
+					spellcheck="false"
+					data-repo={site.githubRepo}
+					class="w-full rounded-lg border border-input bg-card px-3 py-3 text-sm focus:border-primary focus:outline-none focus:ring-2 focus:ring-ring/30"
+				/>
+				<button
+					type="submit"
+					class="mt-4 w-full rounded-lg bg-primary px-4 py-3 text-sm font-bold text-primary-foreground hover:bg-primary/90 disabled:opacity-50"
+				>
+					Login
+				</button>
+			</form>
+			<p data-message role="status" aria-live="polite" class="mt-4 min-h-5 text-center text-sm font-medium"></p>
+		</section>
+	</main>
+</Root>
+
+<script>
+	import { openCredential, type SealedCredential } from "#lib/admin/credential.ts";
+	import { GithubError, PagesRepository } from "#lib/admin/github-pages.ts";
+	import { readSession, safeNext, saveSession } from "#lib/admin/session.ts";
+
+	const next = safeNext(new URLSearchParams(location.search).get("next"));
+	if (readSession()) location.replace(next);
+
+	const form = document.querySelector<HTMLFormElement>("[data-login-form]");
+	const message = document.querySelector<HTMLElement>("[data-message]");
+	const input = form?.elements.namedItem("token") as HTMLInputElement | undefined;
+	const submit = form?.querySelector<HTMLButtonElement>("button[type=submit]");
+
+	form?.addEventListener("submit", async (event) => {
+		event.preventDefault();
+		if (!input || !submit || !message) return;
+		submit.disabled = true;
+		message.textContent = "";
+		try {
+			const sealed = await fetch("/admin-credential.json", { cache: "no-store" });
+			const token = sealed.ok
+				? await openCredential((await sealed.json()) as SealedCredential, input.value)
+				: input.value.trim();
+			await new PagesRepository(input.dataset.repo ?? "", token).connect();
+			input.value = "";
+			saveSession(token);
+			location.replace(next);
+		} catch (error) {
+			message.textContent =
+				error instanceof GithubError ? error.message : "Não foi possível entrar. Confira a senha.";
+			submit.disabled = false;
+		}
+	});
+</script>

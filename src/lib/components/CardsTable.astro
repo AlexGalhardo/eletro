@@ -25,12 +25,12 @@ const stores = [
 ---
 
 {
+	
 	products.length === 0 ? (
 		<div class="my-2.5 rounded-lg bg-red-50 p-5 text-center text-red-600 dark:text-red-400">
 			Nenhum produto encontrado para a lista "{list}".
 		</div>
 	) : (
-		<>
 		<div class="my-2.5 flex flex-col gap-6" data-testid="cards-table" data-cards data-shuffle={shuffle ? "true" : "false"}>
 			{products.map((product) => {
 				const priority = offerTarget(postSlug, product);
@@ -126,7 +126,6 @@ const stores = [
 				);
 			})}
 		</div>
-		</>
 	)
 }
 

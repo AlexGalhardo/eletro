@@ -1,10 +1,11 @@
 import { sealCredential } from "../../src/lib/admin/credential.ts";
 import { expect, test } from "./test.ts";
 
-test("post, product and media routes render the static editor sign-in", async ({ page }) => {
+test("post, product and media routes send an anonymous visitor to the login", async ({ page }) => {
 	for (const path of ["/admin/posts", "/admin/products", "/admin/media"]) {
 		await page.goto(path);
-		await expect(page.getByLabel("Credencial de acesso")).toBeVisible();
+		await expect(page).toHaveURL(/\/admin\/login\?next=/);
+		await expect(page.getByPlaceholder("Password")).toBeVisible();
 		await expect(page.getByRole("button", { name: "Login" })).toBeVisible();
 	}
 });

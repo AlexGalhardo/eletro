@@ -22,17 +22,7 @@ const postLinks = Object.fromEntries(
 				Edite os arquivos do blog. O painel salva em uma branch e abre um PR para revisão antes da publicação.
 			</p>
 		</div>
-		<div class="flex items-center gap-2">
-			<button type="button" data-logout hidden class="rounded-lg border border-input px-4 py-2 text-sm font-semibold hover:bg-muted ">Sair</button>
-		</div>
 	</header>
-
-	<section data-login class="mx-auto mt-16 max-w-sm rounded-2xl border border-border bg-card p-6 shadow-sm sm:p-8">
-		<form data-login-form>
-			<input name="token" type="password" required autocomplete="off" spellcheck="false" aria-label="Credencial de acesso" class="w-full rounded-lg border border-input bg-card px-3 py-3 text-sm focus:border-primary focus:outline-none focus:ring-2 focus:ring-ring/30 " />
-			<button type="submit" class="mt-4 w-full rounded-lg bg-primary px-4 py-3 text-sm font-bold text-primary-foreground hover:bg-primary/90">Login</button>
-		</form>
-	</section>
 
 	<section data-workspace hidden class="grid gap-6 lg:grid-cols-[18rem_minmax(0,1fr)]">
 		<aside class="rounded-2xl border border-border bg-card p-4 ">
