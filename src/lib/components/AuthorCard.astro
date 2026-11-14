@@ -9,20 +9,9 @@ interface Props {
 const { id, class: className = "" } = Astro.props;
 const author = site.authors[id as AuthorId];
 
-const palettes = {
-	blue: {
-		card: "border-blue-200 bg-blue-50 dark:border-blue-900 dark:bg-blue-950/40",
-		avatar: "border-blue-400 dark:border-blue-600",
-		role: "text-blue-600 dark:text-blue-400",
-	},
-	pink: {
-		card: "border-pink-200 bg-pink-50 dark:border-pink-900 dark:bg-pink-950/40",
-		avatar: "border-pink-400 dark:border-pink-600",
-		role: "text-pink-600 dark:text-pink-400",
-	},
-} as const;
-
-const palette = author ? palettes[author.color] : undefined;
+const palette = author
+	? { card: "border-border bg-card", avatar: "border-primary", role: "text-primary" }
+	: undefined;
 ---
 
 {
@@ -38,10 +27,10 @@ const palette = author ? palettes[author.color] : undefined;
 			/>
 			<div>
 				<div class="flex items-center gap-2">
-					<span class="font-semibold text-gray-900 normal-case dark:text-white">{author.name}</span>
+					<span class="font-semibold text-foreground normal-case ">{author.name}</span>
 					<span class:list={["text-xs font-medium normal-case", palette.role]}>{author.role}</span>
 				</div>
-				<p class="mt-1 text-sm leading-relaxed text-gray-600 normal-case dark:text-gray-300">{author.bio}</p>
+				<p class="mt-1 text-sm leading-relaxed text-muted-foreground normal-case ">{author.bio}</p>
 			</div>
 		</div>
 	)

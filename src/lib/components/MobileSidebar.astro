@@ -28,15 +28,15 @@ const links = [
 <div
 	data-sidebar
 	hidden
-	class="fixed top-0 left-0 z-[70] flex h-full w-80 max-w-[85vw] flex-col overflow-hidden border-r border-gray-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-950"
+	class="fixed top-0 left-0 z-[70] flex h-full w-80 max-w-[85vw] flex-col overflow-hidden border-r border-border bg-card shadow-2xl "
 	role="dialog"
 	aria-modal="true"
 	aria-label="Menu"
 >
-	<div class="flex shrink-0 items-center justify-between border-b border-gray-200 p-4 dark:border-zinc-800">
+	<div class="flex shrink-0 items-center justify-between border-b border-border p-4 ">
 		<a href="/" data-close-menu class="flex items-center gap-2">
 			<img src={site.logo} alt="Logo" width="32" height="32" />
-			<span class="font-russo-one text-sm text-black uppercase dark:text-white">
+			<span class="font-russo-one text-sm text-foreground uppercase ">
 				{site.logoText.join(" ")}
 			</span>
 		</a>
@@ -44,7 +44,7 @@ const links = [
 			type="button"
 			data-close-menu
 			aria-label="Fechar menu"
-			class="inline-flex h-9 w-9 items-center justify-center rounded-lg text-gray-700 transition-colors hover:bg-gray-100 dark:text-white dark:hover:bg-zinc-900"
+			class="inline-flex h-9 w-9 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted "
 		>
 			<Lucide name="x" class="h-5 w-5" />
 		</button>
@@ -56,15 +56,15 @@ const links = [
 				<a
 					href={item.href}
 					data-close-menu
-					class="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold text-gray-800 transition-colors hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-zinc-900"
+					class="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-muted "
 				>
-					<Lucide name={item.icon} class="h-5 w-5 text-blue-600 dark:text-blue-500" />
+					<Lucide name={item.icon} class="h-5 w-5 text-primary " />
 					{item.label}
 				</a>
 			))
 		}
 
-		<h2 class="px-3 pt-5 pb-1 text-xs font-bold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+		<h2 class="px-3 pt-5 pb-1 text-xs font-bold tracking-wide text-muted-foreground uppercase ">
 			Categorias
 		</h2>
 		{
@@ -73,9 +73,9 @@ const links = [
 					href={category.href}
 					data-close-menu
 					data-nav={category.id}
-					class="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold text-gray-800 transition-colors hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-zinc-900"
+					class="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-muted "
 				>
-					<CategoryIcon name={category.icon} class="h-5 w-5 text-blue-600 dark:text-blue-500" />
+					<CategoryIcon name={category.icon} class="h-5 w-5 text-primary " />
 					{category.label}
 				</a>
 			))

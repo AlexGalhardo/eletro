@@ -26,9 +26,9 @@ const counts = new Map<string, number>([["all", data.posts.length]]);
 for (const post of data.posts) counts.set(post.category, (counts.get(post.category) ?? 0) + 1);
 
 const on =
-	"border-blue-600 bg-blue-600 text-white";
+	"border-primary bg-primary text-primary-foreground";
 const off =
-	"border-gray-200 text-gray-600 hover:border-blue-500 hover:text-blue-600 dark:border-zinc-700 dark:text-gray-300 dark:hover:text-blue-400";
+	"border-border text-muted-foreground hover:border-primary hover:text-primary ";
 const button =
 	"flex w-full cursor-pointer items-center gap-1.5 rounded-lg border px-3 py-2 text-xs font-semibold tracking-wide uppercase transition-colors duration-200";
 ---
@@ -36,14 +36,14 @@ const button =
 <ReadingProgress />
 <CookieBanner />
 
-<main data-home class="min-h-screen bg-[#F6F4ED] text-black dark:bg-black dark:text-white">
+<main data-home class="min-h-screen bg-background text-foreground ">
 	<h1 class="sr-only">{site.name}</h1>
 	<div class="mx-auto max-w-6xl px-3 sm:px-6 lg:grid lg:grid-cols-[14rem_1fr] lg:items-start lg:gap-8 lg:px-8 lg:py-8">
 		<aside
 			aria-label="Filtrar por categoria"
-			class="sticky top-24 hidden max-h-[calc(100vh-7rem)] overflow-y-auto rounded-2xl border border-gray-200 bg-white lg:block dark:border-zinc-800 dark:bg-zinc-950"
+			class="sticky top-24 hidden max-h-[calc(100vh-7rem)] overflow-y-auto rounded-2xl border border-border bg-card lg:block "
 		>
-			<h2 class="px-4 pt-4 text-xs font-bold tracking-wide text-gray-500 uppercase dark:text-gray-400">Categorias</h2>
+			<h2 class="px-4 pt-4 text-xs font-bold tracking-wide text-muted-foreground uppercase ">Categorias</h2>
 			<div class="flex flex-col gap-1.5 p-3">
 				{
 					categories.map((category) => (
@@ -64,10 +64,10 @@ const button =
 		</aside>
 
 		<div class="py-8 lg:py-0">
-			<p data-filter-banner hidden class="mb-4 text-sm text-gray-600 lg:hidden dark:text-gray-400" aria-live="polite">
-				Categoria: <strong data-filter-name class="text-gray-900 dark:text-white"></strong>
+			<p data-filter-banner hidden class="mb-4 text-sm text-muted-foreground lg:hidden " aria-live="polite">
+				Categoria: <strong data-filter-name class="text-foreground "></strong>
 				·
-				<button type="button" data-filter-clear class="cursor-pointer text-blue-600 underline dark:text-blue-400">
+				<button type="button" data-filter-clear class="cursor-pointer text-primary underline ">
 					Ver todas
 				</button>
 			</p>
@@ -79,10 +79,10 @@ const button =
 							data-post
 							data-category={post.category}
 							hidden={index >= POSTS_PER_LOAD}
-							class="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-shadow duration-200 hover:shadow-lg dark:border-zinc-800 dark:bg-zinc-950"
+							class="group flex flex-col overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition-shadow duration-200 hover:shadow-lg "
 						>
 							{post.cover && (
-								<div class="relative aspect-video w-full shrink-0 overflow-hidden bg-gray-100 dark:bg-zinc-900">
+								<div class="relative aspect-video w-full shrink-0 overflow-hidden bg-muted ">
 									<img
 										src={post.cover}
 										srcset={coverSrcset(post.cover, post.coverWidths)}
@@ -96,13 +96,13 @@ const button =
 								</div>
 							)}
 							<div class="flex flex-1 flex-col gap-2 p-4">
-								<span class="text-[11px] font-medium text-gray-600 dark:text-gray-400">
+								<span class="text-[11px] font-medium text-muted-foreground ">
 									POSTADO EM {formatDate(post.date).toUpperCase()}
 								</span>
-								<h3 class="line-clamp-2 text-base leading-snug font-bold text-gray-900 transition-colors duration-300 group-hover:text-blue-600 dark:text-white dark:group-hover:text-blue-400">
+								<h3 class="line-clamp-2 text-base leading-snug font-bold text-foreground transition-colors duration-300 group-hover:text-primary dark:group-hover:text-primary">
 									{post.title}
 								</h3>
-								<p class="line-clamp-2 flex-1 text-sm leading-relaxed text-gray-600 dark:text-gray-300">
+								<p class="line-clamp-2 flex-1 text-sm leading-relaxed text-muted-foreground ">
 									{post.description}
 								</p>
 							</div>
@@ -110,7 +110,7 @@ const button =
 					))
 				}
 				<div data-empty hidden={data.posts.length > 0} class="col-span-full py-20 text-center">
-					<p class="text-lg text-gray-700 dark:text-white">Nenhuma postagem encontrada nesta categoria.</p>
+					<p class="text-lg text-muted-foreground ">Nenhuma postagem encontrada nesta categoria.</p>
 				</div>
 			</div>
 			<div data-sentinel class="flex justify-center pt-8"></div>

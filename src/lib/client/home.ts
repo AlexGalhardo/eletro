@@ -2,9 +2,8 @@ const PER_LOAD = 8;
 
 const BASE =
 	"flex w-full cursor-pointer items-center gap-1.5 rounded-lg border px-3 py-2 text-xs font-semibold tracking-wide uppercase transition-colors duration-200 ";
-const ON = "border-blue-600 bg-blue-600 text-white";
-const OFF =
-	"border-gray-200 text-gray-600 hover:border-blue-500 hover:text-blue-600 dark:border-zinc-700 dark:text-gray-300 dark:hover:text-blue-400";
+const ON = "border-primary bg-primary text-primary-foreground";
+const OFF = "border-border text-muted-foreground hover:border-primary hover:text-primary ";
 
 /** Category filter and the "load more" sentinel on the home page. */
 export function initHome(): void {

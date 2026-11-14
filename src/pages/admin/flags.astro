@@ -16,7 +16,7 @@ const drafts = rows.filter((row) => row.draft).length;
 <Root title={`Feature flags - ${site.name}`} description="Feature flags do editor." path="/admin/flags" noindex>
 	<main class="mx-auto max-w-6xl px-4 py-8">
 		<h1 class="text-2xl font-bold">Feature flags</h1>
-		<p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+		<p class="mt-2 text-sm text-muted-foreground ">
 			As opções abaixo valem só neste navegador. Os valores padrão ficam em <code>content/flags.json</code>.
 			O site estático não tem login: nada aqui é secreto.
 		</p>
@@ -57,11 +57,11 @@ const drafts = rows.filter((row) => row.draft).length;
 			</div>
 		</div>
 
-		<p id="count" class="mt-4 text-sm text-gray-600 dark:text-gray-400" aria-live="polite">{rows.length} post(s)</p>
+		<p id="count" class="mt-4 text-sm text-muted-foreground " aria-live="polite">{rows.length} post(s)</p>
 
 		<div class={`${ui.card} mt-2 overflow-x-auto p-0`}>
 			<table class="w-full text-left text-sm">
-				<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+				<thead class="border-b border-border text-muted-foreground ">
 					<tr>
 						<th scope="col" class="px-4 py-2 font-medium">Post</th>
 						<th scope="col" class="px-4 py-2 font-medium">Categoria</th>
@@ -71,7 +71,7 @@ const drafts = rows.filter((row) => row.draft).length;
 						<th scope="col" class="px-4 py-2 font-medium">Pendentes (#)</th>
 					</tr>
 				</thead>
-				<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+				<tbody class="divide-y divide-border ">
 					{
 						rows.map((row) => {
 							const href = hrefOf(row.slug, row.draft);
@@ -85,7 +85,7 @@ const drafts = rows.filter((row) => row.draft).length;
 										) : (
 											<span class="font-medium">{row.title}</span>
 										)}
-										<span class="block text-xs text-gray-500">{row.slug}</span>
+										<span class="block text-xs text-muted-foreground">{row.slug}</span>
 									</td>
 									<td class="px-4 py-2">{row.category}</td>
 									<td class="px-4 py-2">{String(row.draft)}</td>

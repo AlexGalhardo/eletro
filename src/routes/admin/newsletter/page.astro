@@ -41,7 +41,7 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 	{
 		Object.entries(SUBSCRIBER).map(([status, label]) => (
 			<div class={ui.card}>
-				<dt class="text-sm text-gray-600 dark:text-gray-400">{label}</dt>
+				<dt class="text-sm text-muted-foreground ">{label}</dt>
 				<dd class="mt-1 text-3xl font-bold">{data.totals[status as keyof typeof SUBSCRIBER] ?? 0}</dd>
 			</div>
 		))
@@ -50,12 +50,12 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 
 <section class="mt-8">
 	<h2 class="text-lg font-bold">Envios</h2>
-	<p class="mt-1 text-sm text-gray-600 dark:text-gray-400">
+	<p class="mt-1 text-sm text-muted-foreground ">
 		Um envio sai da fila quando o post já está no ar. Cada assinante recebe um post uma única vez.
 	</p>
 	<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
 		<table class="w-full text-left text-sm">
-			<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+			<thead class="border-b border-border text-muted-foreground ">
 				<tr>
 					<th scope="col" class="px-4 py-2 font-medium">Post</th>
 					<th scope="col" class="px-4 py-2 font-medium">Status</th>
@@ -65,7 +65,7 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 					<th scope="col" class="px-4 py-2 font-medium"><span class="sr-only">Ações</span></th>
 				</tr>
 			</thead>
-			<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+			<tbody class="divide-y divide-border ">
 				{
 					data.dispatches.map((dispatch) => (
 						<tr>
@@ -88,7 +88,7 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 					))
 				}
 				{data.dispatches.length === 0 && (
-					<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum envio pedido.</td></tr>
+					<tr><td colspan="6" class="px-4 py-6 text-center text-muted-foreground">Nenhum envio pedido.</td></tr>
 				)}
 			</tbody>
 		</table>
@@ -99,14 +99,14 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 	<h2 class="text-lg font-bold">Assinantes</h2>
 	<div class:list={[ui.card, "mt-3 overflow-x-auto p-0"]}>
 		<table class="w-full text-left text-sm">
-			<thead class="border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400">
+			<thead class="border-b border-border text-muted-foreground ">
 				<tr>
 					<th scope="col" class="px-4 py-2 font-medium">E-mail</th>
 					<th scope="col" class="px-4 py-2 font-medium">Status</th>
 					<th scope="col" class="px-4 py-2 font-medium">Desde</th>
 				</tr>
 			</thead>
-			<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+			<tbody class="divide-y divide-border ">
 				{
 					data.subscribers.map((item) => (
 						<tr>
@@ -117,7 +117,7 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 					))
 				}
 				{data.subscribers.length === 0 && (
-					<tr><td colspan="3" class="px-4 py-6 text-center text-gray-500">Nenhum assinante ainda.</td></tr>
+					<tr><td colspan="3" class="px-4 py-6 text-center text-muted-foreground">Nenhum assinante ainda.</td></tr>
 				)}
 			</tbody>
 		</table>

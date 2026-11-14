@@ -44,8 +44,8 @@ const pathOf = (url: string): string => (URL.canParse(url) ? new URL(url).pathna
 const search = data.searchConsole?.data;
 const analytics = data.analytics?.data;
 const th = "px-4 py-2 font-medium";
-const thead = "border-b border-gray-200 text-gray-600 dark:border-zinc-800 dark:text-gray-400";
-const muted = "text-sm text-gray-600 dark:text-gray-400";
+const thead = "border-b border-border text-muted-foreground ";
+const muted = "text-sm text-muted-foreground ";
 const tables = search
 	? [
 			{ title: "Consultas", rows: search.queries },
@@ -94,7 +94,7 @@ const tables = search
 											<th scope="col" class={th}>Posição</th>
 										</tr>
 									</thead>
-									<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+									<tbody class="divide-y divide-border ">
 										{table.rows.map((row) => (
 											<tr>
 												<td class="px-4 py-2">{pathOf(row.key)}</td>
@@ -105,7 +105,7 @@ const tables = search
 											</tr>
 										))}
 										{table.rows.length === 0 && (
-											<tr><td colspan="5" class="px-4 py-6 text-center text-gray-500">Sem dados no período.</td></tr>
+											<tr><td colspan="5" class="px-4 py-6 text-center text-muted-foreground">Sem dados no período.</td></tr>
 										)}
 									</tbody>
 								</table>
@@ -128,7 +128,7 @@ const tables = search
 									<th scope="col" class={th}>Avisos</th>
 								</tr>
 							</thead>
-							<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+							<tbody class="divide-y divide-border ">
 								{search.sitemaps.map((sitemap) => (
 									<tr>
 										<td class="px-4 py-2">{sitemap.path}</td>
@@ -140,7 +140,7 @@ const tables = search
 									</tr>
 								))}
 								{search.sitemaps.length === 0 && (
-									<tr><td colspan="6" class="px-4 py-6 text-center text-gray-500">Nenhum sitemap enviado ainda.</td></tr>
+									<tr><td colspan="6" class="px-4 py-6 text-center text-muted-foreground">Nenhum sitemap enviado ainda.</td></tr>
 								)}
 							</tbody>
 						</table>
@@ -173,7 +173,7 @@ const tables = search
 									<th scope="col" class={th}>Usuários</th>
 								</tr>
 							</thead>
-							<tbody class="divide-y divide-gray-200 dark:divide-zinc-800">
+							<tbody class="divide-y divide-border ">
 								{analytics.pages.map((row) => (
 									<tr>
 										<td class="px-4 py-2">{row.path}</td>
@@ -182,7 +182,7 @@ const tables = search
 									</tr>
 								))}
 								{analytics.pages.length === 0 && (
-									<tr><td colspan="3" class="px-4 py-6 text-center text-gray-500">Sem dados no período.</td></tr>
+									<tr><td colspan="3" class="px-4 py-6 text-center text-muted-foreground">Sem dados no período.</td></tr>
 								)}
 							</tbody>
 						</table>

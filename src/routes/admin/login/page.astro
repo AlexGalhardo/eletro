@@ -10,15 +10,15 @@ const { data } = Astro.props;
 ---
 
 <div
-	class="mx-auto mt-16 max-w-sm rounded-xl border border-gray-200 bg-white p-8 text-center dark:border-zinc-800 dark:bg-zinc-950"
+	class="mx-auto mt-16 max-w-sm rounded-xl border border-border bg-card p-8 text-center "
 	data-login
 >
-	<h1 class="font-russo-one text-2xl">{site.name} <span class="text-blue-600">Admin</span></h1>
+	<h1 class="font-russo-one text-2xl">{site.name} <span class="text-primary">Admin</span></h1>
 
 	{
 		data.missing.length > 0 ? (
 			<>
-				<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">
+				<p class="mt-4 text-sm text-muted-foreground ">
 					O painel ainda não está configurado. Defina as variáveis de ambiente abaixo e reinicie o servidor.
 				</p>
 				<ul class="mt-4 space-y-1">
@@ -29,12 +29,12 @@ const { data } = Astro.props;
 			</>
 		) : data.github || data.google ? (
 			<>
-				<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">Acesso restrito a quem administra o site.</p>
+				<p class="mt-4 text-sm text-muted-foreground ">Acesso restrito a quem administra o site.</p>
 				{data.github && (
 					<button
 						type="button"
 						data-provider="github"
-						class="mt-6 w-full rounded-lg bg-black py-2.5 text-sm font-semibold text-white transition-colors hover:bg-zinc-800 disabled:cursor-not-allowed disabled:opacity-60 dark:bg-white dark:text-black dark:hover:bg-zinc-200"
+						class="mt-6 w-full rounded-lg bg-primary py-2.5 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-60 "
 					>
 						Entrar com GitHub
 					</button>
@@ -45,7 +45,7 @@ const { data } = Astro.props;
 						data-provider="google"
 						class:list={[
 							data.github ? "mt-3" : "mt-6",
-							"w-full rounded-lg border border-gray-300 bg-white py-2.5 text-sm font-semibold text-black transition-colors hover:bg-gray-100 disabled:cursor-not-allowed disabled:opacity-60 dark:border-zinc-700 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800",
+							"w-full rounded-lg border border-input bg-card py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-muted disabled:cursor-not-allowed disabled:opacity-60 ",
 						]}
 					>
 						Entrar com Google
@@ -53,14 +53,14 @@ const { data } = Astro.props;
 				)}
 			</>
 		) : (
-			<p class="mt-4 text-sm text-gray-600 dark:text-gray-400">O login pelo GitHub ou Google não está configurado.</p>
+			<p class="mt-4 text-sm text-muted-foreground ">O login pelo GitHub ou Google não está configurado.</p>
 		)
 	}
 
 	{
 		data.missing.length === 0 && data.local && (
-			<form data-local class="mt-6 space-y-3 border-t border-gray-200 pt-6 text-left dark:border-zinc-800">
-				<p class="text-xs text-gray-600 dark:text-gray-400">
+			<form data-local class="mt-6 space-y-3 border-t border-border pt-6 text-left ">
+				<p class="text-xs text-muted-foreground ">
 					Entrada local, para desenvolvimento: existe só com o banco embutido e com AUTH_TEST_LOGIN_TOKEN definido.
 				</p>
 				<div>

@@ -6,7 +6,7 @@ const host = site.postImport.sourceHosts[0] ?? "";
 ---
 
 <h1 class="text-2xl font-bold">Importar post</h1>
-<p class="mt-2 max-w-3xl text-sm text-gray-600 dark:text-gray-400">
+<p class="mt-2 max-w-3xl text-sm text-muted-foreground ">
 	Cole o endereço de uma review de {host}. O painel lê a página, copia os {site.postImport.maxProducts} primeiros
 	produtos (nome, foto e ficha técnica) e cria um rascunho com capa montada a partir de 3 fotos dos produtos. Com a
 	chave da Mistral configurada, o resumo e o FAQ da origem são reescritos por IA; sem ela, o texto é genérico,
@@ -93,7 +93,7 @@ const host = site.postImport.sourceHosts[0] ?? "";
 			post.textContent = "Abrir o rascunho";
 			const products = document.createElement("a");
 			products.href = `/admin/products/${imported.list}`;
-			products.className = "inline-flex items-center justify-center gap-1 rounded-lg border border-gray-300 px-3 py-2 text-sm font-medium hover:bg-gray-100 dark:border-zinc-700 dark:hover:bg-zinc-800";
+			products.className = "inline-flex items-center justify-center gap-1 rounded-lg border border-input px-3 py-2 text-sm font-medium hover:bg-muted ";
 			products.textContent = "Abrir a lista de produtos";
 			actions.append(post, products);
 			result.append(actions);

@@ -65,7 +65,7 @@ function blank(): Product {
 		!isNew && (
 			<>
 				<DeployStatus deployed={deployed} kind={kind} />
-				<p class="text-sm text-gray-600 dark:text-gray-400">
+				<p class="text-sm text-muted-foreground ">
 					{usedBy.length === 0 ? (
 						"Nenhum post usa esta lista."
 					) : (
@@ -90,12 +90,12 @@ function blank(): Product {
 			<div class={ui.card}>
 				<label for="list-name" class={ui.label}>Nome da lista</label>
 				<input id="list-name" required pattern="[a-z0-9]+(-[a-z0-9]+)*" minlength="3" placeholder="cafeteiras-expresso" class={ui.input} />
-				<p class="mt-1 text-xs text-gray-500">
+				<p class="mt-1 text-xs text-muted-foreground">
 					É o nome usado no post, em &lt;CardsTable list="..." /&gt;. Minúsculas, números e hífens.
 				</p>
 			</div>
 		) : (
-			<p class="text-sm text-gray-600 dark:text-gray-400">
+			<p class="text-sm text-muted-foreground ">
 				No post: <code class="font-mono">&lt;CardsTable list="{name}" /&gt;</code>
 			</p>
 		)
@@ -209,8 +209,8 @@ function blank(): Product {
 							<input data-image-file type="file" accept="image/webp,image/jpeg,image/png" class="sr-only" aria-label="Enviar imagem" />
 						</label>
 					</div>
-					<img data-image-preview alt="" hidden class="mt-2 h-32 w-32 rounded border border-gray-200 bg-white object-contain dark:border-zinc-800" />
-					<p data-image-broken hidden class="mt-1 text-xs text-gray-500">A imagem não carregou. Confira o endereço; um arquivo enviado há pouco só aparece depois do deploy.</p>
+					<img data-image-preview alt="" hidden class="mt-2 h-32 w-32 rounded border border-border bg-card object-contain " />
+					<p data-image-broken hidden class="mt-1 text-xs text-muted-foreground">A imagem não carregou. Confira o endereço; um arquivo enviado há pouco só aparece depois do deploy.</p>
 					<p data-image-error hidden role="alert" class="mt-1 text-sm text-red-600 dark:text-red-400"></p>
 				</div>
 				{stores.map(([key, label]) => (

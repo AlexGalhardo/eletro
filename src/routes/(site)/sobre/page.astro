@@ -5,13 +5,13 @@ import { site } from "#lib/site.config.ts";
 const authorIds = Object.keys(site.authors);
 ---
 
-<main class="bg-background mx-auto max-w-3xl px-4 py-16 text-gray-900 dark:bg-black dark:text-white sm:py-20">
+<main class="bg-background mx-auto max-w-3xl px-4 py-16 text-foreground sm:py-20">
 	<div>
-		<h1 class="mb-4 text-4xl font-bold tracking-tight text-black dark:text-white">Sobre o {site.name}</h1>
-		<p class="mb-10 text-base leading-7 text-gray-600 dark:text-gray-300">Como produzimos conteúdo para ajudar você a comparar produtos para sua casa.</p>
+		<h1 class="mb-4 text-4xl font-bold tracking-tight text-foreground ">Sobre o {site.name}</h1>
+		<p class="mb-10 text-base leading-7 text-muted-foreground ">Como produzimos conteúdo para ajudar você a comparar produtos para sua casa.</p>
 		<div class="space-y-10 leading-7">
 			<section>
-				<p class="text-black dark:text-white">
+				<p class="text-foreground ">
 					<strong>{site.name}.com.br</strong> é um portal editorial independente dedicado à produção de conteúdo
 					informativo sobre produtos eletrodomésticos em geral, como produtos físicos, eletrônicos, gadgets,
 					acessórios e muito mais.
@@ -21,8 +21,8 @@ const authorIds = Object.keys(site.authors);
 				</p>
 			</section>
 			<section>
-				<h2 class="mb-3 text-xl font-semibold text-black dark:text-white">Propósito e Compromisso</h2>
-				<p class="text-black dark:text-white">
+				<h2 class="mb-3 text-xl font-semibold text-foreground ">Propósito e Compromisso</h2>
+				<p class="text-foreground ">
 					O propósito do <strong>{site.name}.com.br</strong> é fornecer informações confiáveis e imparciais sobre
 					produtos eletrodomésticos, ajudando os consumidores a fazer escolhas mais informadas e conscientes.
 					<br /><br />
@@ -31,8 +31,8 @@ const authorIds = Object.keys(site.authors);
 				</p>
 			</section>
 			<section>
-				<h2 class="mb-3 text-xl font-semibold text-black dark:text-white">Política Editorial</h2>
-				<p class="text-black dark:text-white">
+				<h2 class="mb-3 text-xl font-semibold text-foreground ">Política Editorial</h2>
+				<p class="text-foreground ">
 					Todo o conteúdo publicado no <strong>{site.name}.com.br</strong> é produzido seguindo critérios editoriais
 					próprios, com foco em clareza, responsabilidade e transparência. Utilizamos fontes públicas e confiáveis,
 					testes práticos, análises comparativas e dados técnicos fornecidos por fabricantes, fontes oficiais e
@@ -42,22 +42,22 @@ const authorIds = Object.keys(site.authors);
 				</p>
 			</section>
 			<section>
-				<h2 class="mb-3 text-xl font-semibold text-black dark:text-white">Responsabilidade</h2>
-				<p class="text-black dark:text-white">
+				<h2 class="mb-3 text-xl font-semibold text-foreground ">Responsabilidade</h2>
+				<p class="text-foreground ">
 					Os conteúdos têm carater informativo e educacional e não substituem a orientação de profissionais
 					especializados, como técnicos, engenheiros, eletricistas ou assistências autorizadas.
 				</p>
 			</section>
 			<section>
-				<h2 class="mb-3 text-xl font-semibold text-black dark:text-white">Links de Afiliados</h2>
-				<p class="text-black dark:text-white">
+				<h2 class="mb-3 text-xl font-semibold text-foreground ">Links de Afiliados</h2>
+				<p class="text-foreground ">
 					Utilizamos links de afiliados em alguns conteúdos, o que significa que podemos receber uma comissão caso
 					você realize uma compra por meio desses links. Isso não afeta o preço do produto para você e nos ajuda a
 					manter o site ativo e a produzir mais conteúdo de qualidade.
 				</p>
 			</section>
 			<section>
-				<h2 class="mb-3 text-xl font-semibold text-black dark:text-white">Redatores</h2>
+				<h2 class="mb-3 text-xl font-semibold text-foreground ">Redatores</h2>
 				<div class="space-y-6">
 					{authorIds.map((id) => <AuthorCard id={id} />)}
 				</div>

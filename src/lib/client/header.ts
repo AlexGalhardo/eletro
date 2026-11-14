@@ -12,15 +12,14 @@ export type SearchItem = {
 
 const normalize = (value: string): string => value.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
-const ROW =
-	"cursor-pointer border-b border-gray-100 p-4 transition-colors duration-150 last:border-b-0 dark:border-zinc-900 ";
-const ROW_ON = `${ROW}bg-blue-50 text-blue-600 dark:bg-blue-950/40 dark:text-blue-400`;
-const ROW_OFF = `${ROW}text-gray-900 hover:bg-gray-50 dark:text-gray-100 dark:hover:bg-zinc-900`;
+const ROW = "cursor-pointer border-b border-border p-4 transition-colors duration-150 last:border-b-0 ";
+const ROW_ON = `${ROW}bg-primary/10 text-primary `;
+const ROW_OFF = `${ROW}text-foreground hover:bg-muted `;
 
 const CAT_ON =
-	"flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold transition-colors bg-blue-600 text-white";
+	"flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold transition-colors bg-primary text-primary-foreground";
 const CAT_OFF =
-	"flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold transition-colors text-gray-800 hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-zinc-900";
+	"flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-semibold transition-colors text-foreground hover:bg-muted ";
 
 function isSearchItem(value: unknown): value is SearchItem {
 	if (!value || typeof value !== "object") return false;
@@ -70,7 +69,7 @@ function suggestion(
 		img.alt = "";
 		img.loading = "lazy";
 		img.decoding = "async";
-		img.className = "aspect-video w-20 shrink-0 rounded bg-gray-100 object-cover dark:bg-zinc-900";
+		img.className = "aspect-video w-20 shrink-0 rounded bg-muted object-cover ";
 		wrap.append(img);
 	}
 	const text = document.createElement("div");
@@ -80,7 +79,7 @@ function suggestion(
 	title.textContent = post.title;
 	const time = document.createElement("time");
 	time.dateTime = post.date;
-	time.className = "text-xs text-gray-500 dark:text-gray-400";
+	time.className = "text-xs text-muted-foreground ";
 	time.textContent = formatDate(post.date);
 	text.append(title, time);
 	wrap.append(text);
@@ -146,7 +145,7 @@ export function initHeader(posts: SearchItem[]): void {
 				list = document.createElement("div");
 				list.dataset.suggestions = "";
 				list.className =
-					"absolute top-full right-0 left-0 z-50 mt-2 max-h-[calc(100vh-6rem)] overflow-y-auto rounded-xl border border-gray-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-950";
+					"absolute top-full right-0 left-0 z-50 mt-2 max-h-[calc(100vh-6rem)] overflow-y-auto rounded-xl border border-border bg-card shadow-2xl ";
 				list.setAttribute("role", "listbox");
 				root.append(list);
 			}
@@ -241,7 +240,7 @@ export function initHeader(posts: SearchItem[]): void {
 			link.setAttribute("aria-current", on ? "page" : "false");
 			if (!on) link.removeAttribute("aria-current");
 			const icon = link.querySelector<HTMLElement>("[data-cat-icon]");
-			if (icon) icon.className = on ? "h-5 w-5" : "h-5 w-5 text-blue-600 dark:text-blue-500";
+			if (icon) icon.className = on ? "h-5 w-5" : "h-5 w-5 text-primary ";
 		}
 	}
 

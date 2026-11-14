@@ -77,12 +77,11 @@ export function initPagesCms(): void {
 			img.src = src;
 			img.alt = "";
 			img.loading = "lazy";
-			img.className =
-				"aspect-square w-full rounded-lg border border-gray-200 bg-gray-50 object-contain dark:border-zinc-700 dark:bg-zinc-900";
+			img.className = "aspect-square w-full rounded-lg border border-border bg-muted object-contain ";
 			const caption = document.createElement("figcaption");
 			caption.textContent = path.split("/").at(-1) ?? path;
 			caption.title = path;
-			caption.className = "mt-1 truncate text-xs text-gray-600 dark:text-gray-400";
+			caption.className = "mt-1 truncate text-xs text-muted-foreground ";
 			figure.append(img, caption);
 			contentPreview.append(figure);
 		}
@@ -93,7 +92,7 @@ export function initPagesCms(): void {
 		button.type = "button";
 		button.textContent = label;
 		button.className =
-			"rounded-lg border border-gray-300 px-3 py-1.5 text-sm font-semibold text-blue-700 hover:bg-blue-50 dark:border-zinc-700 dark:text-blue-400 dark:hover:bg-zinc-900";
+			"rounded-lg border border-input px-3 py-1.5 text-sm font-semibold text-primary hover:bg-primary/10 ";
 		button.addEventListener("click", () => void openRelated(path));
 		return button;
 	}
@@ -180,15 +179,14 @@ export function initPagesCms(): void {
 			button.type = "button";
 			button.textContent = `${file.type === "dir" ? "📁 " : ""}${file.name}`;
 			button.className =
-				"flex w-full items-center gap-2 truncate rounded-lg px-2 py-2 text-left hover:bg-gray-100 focus-visible:outline-2 focus-visible:outline-blue-600 dark:hover:bg-zinc-900";
+				"flex w-full items-center gap-2 truncate rounded-lg px-2 py-2 text-left hover:bg-muted focus-visible:outline-2 focus-visible:outline-ring ";
 			if (file.path.startsWith("static/images/") && file.type === "file") {
 				const thumbnail = document.createElement("img");
 				thumbnail.src =
 					uploadedUrls.get(file.path) ?? file.download_url ?? file.path.replace(/^static/, "");
 				thumbnail.alt = "";
 				thumbnail.loading = "lazy";
-				thumbnail.className =
-					"h-12 w-12 shrink-0 rounded border border-gray-200 object-cover dark:border-zinc-700";
+				thumbnail.className = "h-12 w-12 shrink-0 rounded border border-border object-cover ";
 				button.prepend(thumbnail);
 			}
 			button.addEventListener("click", () => {
