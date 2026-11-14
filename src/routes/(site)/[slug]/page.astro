@@ -32,8 +32,8 @@ interface Props {
 const { data } = Astro.props;
 const post = data.post;
 const shareUrl = absoluteUrl(`/${post.slug}`);
-const firstList = data.segments.find((segment) => segment.kind === "list");
-const topProduct = firstList?.kind === "list" ? pickTopProduct(data.productLists[firstList.list] ?? []) : undefined;
+const firstList = data.segments.find((segment) => segment.kind === "cards");
+const topProduct = firstList?.kind === "cards" ? pickTopProduct(data.productLists[firstList.list] ?? []) : undefined;
 ---
 
 <ReadingProgress />
