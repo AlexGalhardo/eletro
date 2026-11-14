@@ -42,7 +42,7 @@ function show(form: HTMLFormElement, errors: string[], success: string): void {
 	node.className =
 		errors.length > 0
 			? "space-y-1 rounded-lg border border-red-300 bg-red-50 px-4 py-3 text-sm text-red-700 dark:border-red-900 dark:bg-red-950 dark:text-red-300"
-			: "rounded-lg border border-green-300 bg-green-50 px-4 py-3 text-sm text-green-800 dark:border-green-900 dark:bg-green-950 dark:text-green-300";
+			: "rounded-lg border border-border bg-muted px-4 py-3 text-sm text-foreground";
 	if (errors.length === 0) node.textContent = success;
 	else {
 		for (const message of errors) {

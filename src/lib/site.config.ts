@@ -73,6 +73,13 @@ export const site = {
 	},
 	defaultAuthor: "bruno",
 
+	/** Store names and the Portuguese article ("Ver oferta na Amazon"), keyed like `Store` in affiliate-links.ts. */
+	stores: {
+		mercadolivre: { name: "Mercado Livre", article: "no" },
+		amazon: { name: "Amazon", article: "na" },
+		shopee: { name: "Shopee", article: "na" },
+	},
+
 	/** Used when a product has no store link at all. */
 	fallbackAffiliateUrl: "https://meli.la/1gvsK3J",
 

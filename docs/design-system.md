@@ -1,10 +1,10 @@
 # Design system
 
-Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, **um único acento verde** em todo o site. Os tokens seguem os nomes do [shadcn/ui](https://ui.shadcn.com) e ficam em `src/app.css` (Tailwind 4: `:root`, `.dark` e `@theme inline`).
+Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, **acento neutro**: preto no tema claro, branco no escuro, sem cor de matiz. Os tokens seguem os nomes do [shadcn/ui](https://ui.shadcn.com) e ficam em `src/app.css` (Tailwind 4: `:root`, `.dark` e `@theme inline`).
 
 ## Regras
 
-- Um acento só: `--primary` (verde). Nenhum azul no código (`blue-`, `sky-`, `indigo-` e hex azuis). Vermelho e âmbar existem só para erro e aviso; o verde também marca sucesso.
+- Um acento só: `--primary`, preto (claro) ou branco (escuro). Sem verde, azul e afins no código (`green-`, `emerald-`, `blue-`, `sky-`, `indigo-` e hex equivalentes). Vermelho e âmbar existem só para erro e aviso; sucesso usa tokens neutros. A única exceção são as cores dos marketplaces nos botões de oferta (`.offer-btn` em `src/app.css`).
 - Claro: fundo `#F5F4F0`. Escuro: grafite quente, nunca preto puro. O tema segue o sistema (`color-scheme` e `prefers-color-scheme`) e o botão alterna; o valor só é salvo quando difere do sistema (`src/lib/theme.ts` e o script inline de `src/layouts/Root.astro`).
 - Use tokens (`bg-card`, `text-muted-foreground`, `border-border`, `bg-primary text-primary-foreground`), nunca `gray-*`, `zinc-*`, `black` ou `white`. As variantes `dark:` só entram para algo que o token não cobre.
 - `--radius` é `0.25rem`: campos e cards quase quadrados. `rounded-md` é o padrão.
@@ -18,8 +18,8 @@ Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, *
 | `--background` | `#F5F4F0` | `#1C1B19` |
 | `--foreground` | `#1A1917` | `#ECE9E1` |
 | `--card` / `--popover` | `#FCFBF8` | `#242320` |
-| `--primary` / `--ring` | `#166534` | `#4ADE80` |
-| `--primary-foreground` | `#FFFFFF` | `#0F1F14` |
+| `--primary` / `--ring` | `#1A1917` | `#FFFFFF` |
+| `--primary-foreground` | `#F5F4F0` | `#1C1B19` |
 | `--secondary` / `--muted` | `#EAE8E1` | `#2D2B28` |
 | `--muted-foreground` | `#5C5A52` | `#A8A59B` |
 | `--accent` | `#E3E1D8` | `#34322E` |
@@ -36,8 +36,8 @@ Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, *
 | `foreground` sobre `card` | 16,98 | 12,95 | 4,5 |
 | `muted-foreground` sobre `background` | 6,28 | 6,98 | 4,5 |
 | `muted-foreground` sobre `muted` | 5,64 | 5,73 | 4,5 |
-| `primary` (texto) sobre `background` | 6,48 | 9,88 | 4,5 |
-| `primary-foreground` sobre `primary` | 7,13 | 9,83 | 4,5 |
+| `primary` (texto) sobre `background` | 15,96 | 17,21 | 4,5 |
+| `primary-foreground` sobre `primary` | 15,96 | 17,21 | 4,5 |
 | `destructive` sobre `background` | 5,97 | 6,22 | 4,5 |
 | `input` (borda) sobre `background` | 3,28 | 3,84 | 3 |
 | `input` (borda) sobre `card` | 3,49 | 3,50 | 3 |
@@ -54,9 +54,7 @@ Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, *
 
 | Componente | Onde | Regra |
 |---|---|---|
-| Botão de oferta | `src/lib/components/OfferButton.astro` | Único CTA de afiliado do site. Mesmo visual no veredito, na tabela e nos cards; texto "Ver oferta no (loja)". Carrega `data-affiliate`, `data-product-id`, `data-post-slug` e `data-store`, e dispara o evento GA4 `affiliate_click` |
-| Veredito | `Verdict.astro` | No topo do review: "Nossa escolha", motivo, nota (se o produto tiver `score`), botão de oferta e aviso de comissão. O produto vem de `pickTopProduct` (`src/lib/content/review.ts`) |
-| Tabela comparativa | `ComparisonTable.astro` | Aparece com 2 ou mais produtos e ao menos uma ficha técnica em comum (até 5 colunas). `section` focável com `caption`, cabeçalho e primeira coluna fixos, rolagem horizontal |
+| Botão de oferta | `src/lib/components/OfferButton.astro` | Único CTA de afiliado do site. Cor da loja (Mercado Livre `#FFE600`, Amazon `#FFD814`, Shopee `#EE4D2D`, demais preto e branco) com sombra inferior sólida e efeito de afundar no `:active`; texto "Ver oferta no/na (loja)", com nome e artigo de `site.stores`. Carrega `data-affiliate`, `data-product-id`, `data-post-slug` e `data-store`, e dispara o evento GA4 `affiliate_click` |
 | Card de produto | `CardsTable.astro` | Imagem, nome, botões de oferta, vantagens e ficha |
 | Campo | `ui.input` em `src/lib/admin/api.ts`; `Input` shadcn no painel | Borda `border-input`, foco com `ring` |
 | Sidebar | `src/lib/admin-ui/AdminShell.tsx` | Recolhível para ícones, Ctrl+B, off-canvas no celular, estado salvo em `localStorage` |
@@ -77,6 +75,6 @@ Visual "papel de jornal": superfícies quentes e discretas, texto quase preto, *
 ## Faça e não faça
 
 - Faça: tokens, `rounded-md`, `aria-current="page"` no item ativo, `rel="noopener noreferrer sponsored"` nos links de loja.
-- Faça: edite o radar em `static/icon.svg` e gere os PNGs com `bun scripts/make-icons.ts`.
-- Não faça: cor de loja nos botões, um segundo acento, azul, sombra pesada, `dark:` repetindo o que o token já faz.
+- Faça: edite o radar monocromático em `static/icon.svg` (fundo transparente, traço claro no `prefers-color-scheme: dark`; no site o `LogoMark.astro` o usa como máscara com a cor do texto) e gere os PNGs com `bun scripts/make-icons.ts`.
+- Não faça: cor de loja fora de `.offer-btn`, um segundo acento, azul, sombra pesada, `dark:` repetindo o que o token já faz.
 - Não faça: texto de identidade (o nome do site) em componente; use `src/lib/site.config.ts`.

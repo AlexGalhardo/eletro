@@ -1,6 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
   <title id="title">EletroRadar</title>
-  <rect width="64" height="64" rx="14" fill="#166534"/>
-  <path d="M36.5 8.4A26 26 0 1 0 57.6 38.5M35 17.3A17 17 0 1 0 48.7 37" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
-  <path d="M35 22 25 35h6l-2 11 10-14h-6z" fill="#fff"/>
+  <style>
+    .mark { fill: none; stroke: #1a1917; stroke-linecap: round; stroke-width: 5; }
+    .dot { fill: #1a1917; stroke: none; }
+    @media (prefers-color-scheme: dark) {
+      .mark { stroke: #ffffff; }
+      .dot { fill: #ffffff; }
+    }
+  </style>
+  <path class="mark" d="M10 40A24 24 0 0 1 50 14"/>
+  <path class="mark" d="M20 40A14 14 0 0 1 40 22"/>
+  <path class="mark" d="M32 40 54 18"/>
+  <circle class="dot" cx="32" cy="40" r="4.5"/>
 </svg>

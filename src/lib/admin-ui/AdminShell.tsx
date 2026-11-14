@@ -49,12 +49,13 @@ export function AdminShell({ current, siteName, logo, children }: Props): ReactN
 							<SidebarMenuItem>
 								<SidebarMenuButton size="lg" asChild tooltip={siteName}>
 									<a href="/admin">
-										<img
-											src={logo}
-											alt=""
-											width="32"
-											height="32"
-											className="size-8 shrink-0"
+										<span
+											aria-hidden="true"
+											className="size-8 shrink-0 bg-foreground"
+											style={{
+												mask: `url(${logo}) center/contain no-repeat`,
+												WebkitMask: `url(${logo}) center/contain no-repeat`,
+											}}
 										/>
 										<span className="font-brand text-base font-bold">{siteName}</span>
 									</a>
