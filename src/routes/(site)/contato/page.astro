@@ -3,12 +3,12 @@ import { site } from "#lib/site.config.ts";
 ---
 
 <main class="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-24">
-	<h1 class="text-4xl font-bold tracking-tight text-gray-950 dark:text-white">Fale com a equipe</h1>
-	<p class="mt-5 max-w-2xl text-base leading-7 text-gray-600 dark:text-gray-300">
+	<h1 class="text-4xl font-bold tracking-tight text-foreground ">Fale com a equipe</h1>
+	<p class="mt-5 max-w-2xl text-base leading-7 text-muted-foreground ">
 		Encontrou uma informação incorreta, tem uma sugestão ou quer falar sobre uma parceria? Envie um e-mail para nossa equipe.
 	</p>
-	<a href={`mailto:${site.contactEmail}`} class="mt-8 inline-flex rounded-lg bg-blue-700 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-800">
+	<a href={`mailto:${site.contactEmail}`} class="mt-8 inline-flex rounded-lg bg-primary px-5 py-3 text-sm font-semibold text-primary-foreground hover:bg-primary/90">
 		Enviar e-mail
 	</a>
-	<p class="mt-4 text-sm text-gray-500 dark:text-gray-400">{site.contactEmail}</p>
+	<p class="mt-4 text-sm text-muted-foreground ">{site.contactEmail}</p>
 </main>

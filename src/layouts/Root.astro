@@ -45,12 +45,28 @@ const analytics = [
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="referrer" content="strict-origin-when-cross-origin" />
+		<meta name="color-scheme" content="light dark" />
 		<script is:inline>
-			try {
-				if (localStorage.getItem("theme-preference") === "dark") document.documentElement.classList.add("dark");
-			} catch {}
+			// Saved choice first, then the system. Must run before paint and also follow OS changes.
+			(() => {
+				var q = matchMedia("(prefers-color-scheme: dark)");
+				function apply() {
+					var saved = null;
+					try {
+						saved = localStorage.getItem("theme-preference");
+					} catch {}
+					document.documentElement.classList.toggle("dark", saved ? saved === "dark" : q.matches);
+				}
+				apply();
+				q.addEventListener("change", apply);
+				addEventListener("storage", apply);
+			})();
 		</script>
 		<link rel="icon" type="image/svg+xml" href={site.logo} />
+		<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<link rel="manifest" href="/manifest.webmanifest" />
+		<meta name="theme-color" content="#166534" />
 		<meta name="keywords" content={site.keywords.join(", ")} />
 		<meta name="author" content={site.domain} />
 		{googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}

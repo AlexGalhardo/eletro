@@ -44,11 +44,11 @@ const { value = "", label, folder, options = [], id } = Astro.props;
 		alt={`Pré-visualização: ${label}`}
 		hidden
 		class:list={[
-			"mt-2 rounded border border-gray-200 bg-white dark:border-zinc-800",
+			"mt-2 rounded border border-border bg-card ",
 			folder === "covers" ? "aspect-video w-full max-w-sm object-cover" : "h-32 w-32 object-contain",
 		]}
 	/>
-	<p data-image-broken hidden class="mt-1 text-xs text-gray-500">
+	<p data-image-broken hidden class="mt-1 text-xs text-muted-foreground">
 		A imagem não carregou. Confira o endereço; um arquivo enviado há pouco só aparece depois do deploy.
 	</p>
 	<p data-image-error hidden role="alert" class="mt-1 text-sm text-red-600 dark:text-red-400"></p>

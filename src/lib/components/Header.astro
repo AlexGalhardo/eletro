@@ -18,16 +18,16 @@ interface Props {
 
 const { posts } = Astro.props;
 const iconButton =
-	"inline-flex items-center justify-center w-9 h-9 rounded-lg text-gray-700 dark:text-white hover:bg-gray-100 dark:hover:bg-zinc-900 transition-colors";
+	"inline-flex items-center justify-center w-9 h-9 rounded-lg text-muted-foreground hover:bg-muted transition-colors";
 const field =
-	"w-full rounded-lg border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black transition-colors placeholder:text-gray-500 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/40 focus:outline-none dark:border-zinc-800 dark:bg-zinc-900 dark:text-white dark:placeholder:text-gray-400 dark:focus:border-blue-500";
+	"w-full rounded-lg border border-border bg-muted py-2.5 pr-4 pl-10 text-sm text-foreground transition-colors placeholder:text-muted-foreground focus:border-primary focus:ring-2 focus:ring-ring/40 focus:outline-none";
 ---
 
 <div
-	class="sticky top-0 z-50 border-b border-gray-200 bg-[#EEEADF]/90 backdrop-blur-xl dark:border-zinc-800 dark:bg-zinc-950/90"
+	class="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl "
 >
 	<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-		<header class="text-black dark:text-white">
+		<header class="text-foreground ">
 			<div class="flex items-center justify-between gap-3 py-3.5 sm:gap-4">
 				<button type="button" data-open-menu aria-label="Abrir menu" class:list={[iconButton, "shrink-0 lg:hidden"]}>
 					<Lucide name="menu" class="h-5 w-5" />
@@ -36,8 +36,8 @@ const field =
 				<div class="shrink-0">
 					<a href="/" class="flex items-center gap-2 transition-opacity hover:opacity-80">
 						<img src={site.logo} alt="" width="36" height="36" />
-						<span class="font-brand text-xl leading-none font-bold tracking-tight text-[#102D56] dark:text-[#B9DDF6]">
-							{site.logoText[0]}<span class="text-[#148A68] dark:text-[#8CE0BD]">{site.logoText[1]}</span>
+						<span class="font-brand text-xl leading-none font-bold tracking-tight text-foreground">
+							{site.logoText[0]}<span class="text-primary ">{site.logoText[1]}</span>
 						</span>
 					</a>
 				</div>
@@ -45,7 +45,7 @@ const field =
 				<div class="relative mx-2 hidden flex-1 lg:flex" data-search>
 					<Lucide
 						name="search"
-						class="pointer-events-none absolute top-1/2 left-3.5 z-10 h-4 w-4 -translate-y-1/2 text-gray-400"
+						class="pointer-events-none absolute top-1/2 left-3.5 z-10 h-4 w-4 -translate-y-1/2 text-muted-foreground"
 					/>
 					<input type="text" aria-label="Buscar" placeholder="Buscar postagem, produto, marca..." class={field} />
 				</div>
@@ -67,13 +67,13 @@ const field =
 				<div class="relative" data-search>
 					<Lucide
 						name="search"
-						class="pointer-events-none absolute top-1/2 left-3.5 z-10 h-4 w-4 -translate-y-1/2 text-gray-400"
+						class="pointer-events-none absolute top-1/2 left-3.5 z-10 h-4 w-4 -translate-y-1/2 text-muted-foreground"
 					/>
 					<input
 						type="text"
 						aria-label="Buscar"
 						placeholder="Buscar postagem, produto, marca..."
-						class="w-full rounded-lg border border-gray-200 bg-gray-100 py-2.5 pr-4 pl-10 text-sm text-black placeholder:text-gray-500 dark:border-zinc-800 dark:bg-zinc-900 dark:text-white"
+						class="w-full rounded-lg border border-border bg-muted py-2.5 pr-4 pl-10 text-sm text-foreground placeholder:text-muted-foreground "
 					/>
 				</div>
 			</div>

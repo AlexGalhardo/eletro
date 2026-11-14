@@ -1,11 +1,15 @@
 const STORAGE_KEY = "theme-preference";
+const query = "(prefers-color-scheme: dark)";
 
-/** Light/dark theme, persisted in localStorage and mirrored as the `dark` class on <html>. */
+/** Light/dark follows the system until the reader overrides it; the choice mirrors as the `dark` class on <html>. */
 export function toggleTheme(): void {
-	const dark = !document.documentElement.classList.contains("dark");
-	document.documentElement.classList.toggle("dark", dark);
+	const system = matchMedia(query).matches;
+	const target = !document.documentElement.classList.contains("dark");
+	document.documentElement.classList.toggle("dark", target);
 	try {
-		localStorage.setItem(STORAGE_KEY, dark ? "dark" : "light");
+		// Pinning the system value would freeze the page against later OS changes, so it clears the override instead.
+		if (target === system) localStorage.removeItem(STORAGE_KEY);
+		else localStorage.setItem(STORAGE_KEY, target ? "dark" : "light");
 	} catch {
 		// Storage can be unavailable (private mode); the theme still applies for this visit.
 	}
