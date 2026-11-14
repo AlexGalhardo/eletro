@@ -78,6 +78,7 @@ export function postPageData({ post, body }: { post: Post; body: string }) {
 			title: item.title,
 			description: item.description,
 			date: item.date,
+			category: item.category,
 			cover: item.cover,
 			coverWidths: coverWidths(item.cover),
 		})),

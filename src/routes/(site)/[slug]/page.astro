@@ -7,8 +7,9 @@ import ShareButtons from "#lib/components/ShareButtons.astro";
 import { coverSrcset } from "#lib/content/cover.ts";
 import type { BodySegment } from "#lib/content/render-body.ts";
 import type { Post, Product } from "#lib/content/schema.ts";
-import { formatDate, readingTimeLabel } from "#lib/format.ts";
+import { formatDate, readingTimeLabel, relativeDate } from "#lib/format.ts";
 import { absoluteUrl } from "#lib/seo/jsonld.ts";
+import { site } from "#lib/site.config.ts";
 
 interface Props {
 	data: {
@@ -21,6 +22,7 @@ interface Props {
 			title: string;
 			description: string;
 			date: string;
+			category: string;
 			cover: string;
 			coverWidths: number[];
 		}[];
@@ -123,31 +125,36 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 					<h2 id="outras-postagens" class="mb-3 text-xs font-bold tracking-wide text-muted-foreground uppercase ">
 						Outras Postagens
 					</h2>
-					<ul class="flex flex-col gap-4">
+					<ul class="flex flex-col">
 						{data.recommendations.map((item) => (
-							<li>
-								<a
-									href={`/${item.slug}`}
-									class="group flex flex-col overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl "
-								>
+							<li class="border-b border-border py-4 first:pt-0 last:border-b-0">
+								<a href={`/${item.slug}`} class="group flex items-start gap-3 no-underline hover:no-underline">
 									{item.cover && (
-										<div class="relative aspect-video w-full shrink-0 overflow-hidden bg-muted ">
+										<span class="size-24 shrink-0 overflow-hidden rounded-xl bg-muted">
 											<img
 												src={item.cover}
 												srcset={coverSrcset(item.cover, item.coverWidths)}
-												sizes="(min-width: 1024px) 280px, 100vw"
+												sizes="96px"
 												alt=""
+												width="96"
+												height="96"
 												loading="lazy"
 												decoding="async"
-												class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+												class="size-full object-cover"
 											/>
-										</div>
-									)}
-									<span class="flex flex-col gap-1 p-3">
-										<span class="text-[10px] leading-tight text-muted-foreground ">
-											{formatDate(item.date)}
 										</span>
-										<span class="line-clamp-2 text-xs leading-snug font-bold text-foreground group-hover:text-primary dark:group-hover:text-primary">
+									)}
+									<span class="flex min-w-0 flex-col gap-1">
+										<span class="text-xs leading-tight font-semibold text-muted-foreground">
+											<span class="text-foreground">
+												{site.categories.find((category) => category.id === item.category)?.label ?? item.category}
+											</span>
+											{" · "}
+											<time datetime={item.date} data-relative-date>
+												{relativeDate(item.date)}
+											</time>
+										</span>
+										<span class="line-clamp-3 text-sm leading-snug font-bold text-foreground group-hover:underline">
 											{item.title}
 										</span>
 									</span>
@@ -162,6 +169,12 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 </div>
 
 <script>
+	import { relativeDate } from "#lib/format.ts";
+
+	// The page is static: refresh the "Há N dias" labels so they do not age with the build.
+	for (const node of document.querySelectorAll<HTMLTimeElement>("[data-relative-date]"))
+		node.textContent = relativeDate(node.dateTime);
+
 	const node = document.getElementById("blog-content-protected");
 	if (node) {
 		const block = (event: Event): void => event.preventDefault();
