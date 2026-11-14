@@ -7,6 +7,8 @@ Esta seção substitui as decisões históricas abaixo quando houver conflito. A
 - [x] Editor estático e PR para o conteúdo; teste unitário do cliente e e2e com API simulada.
 - [x] Tela mínima e fluxo opcional de senha com credencial criptografada; teste unitário e e2e com API simulada.
 - [x] Revisão visual das páginas principais, contato funcional no Pages, UI SDK, ícone SVG e fundo de papel integrados.
+- [x] Redesign: paleta papel de jornal com um acento verde em tokens shadcn, tema que segue o sistema, ícone de radar, veredito, tabela comparativa, botão de oferta único com evento GA4 `affiliate_click` e `/admin` com sidebar shadcn (`docs/design-system.md`).
+- [ ] Métricas de cliques lidas no painel: exige backend ou conta de serviço do GA4 (hoje só link para o relatório); lista de inscritos da Newsletter via vukem-email.
 - [x] Ruleset de PR ativo no GitHub e workflow de CI em `.github/workflows/ci.yml`.
 - [x] Releases e tags 0.11.x a 0.13.0 removidas; notas acumuladas em `Unreleased`.
 - [x] `.claude/` migrada para `.agents/` e documentação consolidada.

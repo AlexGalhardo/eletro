@@ -57,6 +57,7 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/api.md`](docs/api.md) | API REST `/api/v1`: endpoints, formato de erro, regras de escrita |
 | [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/ui.md`](docs/ui.md) | Direção visual e uso do UI SDK no Astro |
+| [`docs/design-system.md`](docs/design-system.md) | Tokens claro/escuro, contraste, componentes (botão de oferta, veredito, tabela, sidebar), faça e não faça, como adicionar shadcn |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
 | [`docs/deploy.md`](docs/deploy.md) | GitHub Pages, DNS do domínio próprio, e o que o site estático não executa |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | CI em PR, proteção da main e release sob pedido |
@@ -100,4 +101,4 @@ bun run test:e2e     # Playwright: smoke e e2e
 - **Identidade do site:** nome, URL, autores, categorias e textos vêm de `src/lib/site.config.ts`. Não escreva "EletroRadar" em componentes.
 - **Idioma:** código, comentários e mensagens de commit em inglês; documentação e textos de interface em português do Brasil.
 - **Status dos posts:** depois de mudar `content/`, rode `bun run post-status` e commite `docs/post-status.md`; o teste falha se ele ficar velho.
-- **Sem Svelte:** o projeto é Astro e TypeScript. Código novo usa `.astro` e `.ts`. Não adicione `svelte`, `@astrojs/svelte` nem componentes `.svelte`.
+- **Sem Svelte:** o projeto é Astro e TypeScript. Código novo usa `.astro` e `.ts`; as ilhas React do `/admin` (shadcn/ui, `src/lib/admin-ui/`) são `.tsx`. Não adicione `svelte`, `@astrojs/svelte` nem componentes `.svelte`.
