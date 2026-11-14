@@ -1,0 +1,46 @@
+---
+import type { Store } from "#lib/affiliate-links.ts";
+
+// The only affiliate call to action of the site: same look on the verdict, the table and every product card.
+interface Props {
+	href: string;
+	direct: string;
+	store: Store;
+	productId: string;
+	postSlug: string;
+	size?: "default" | "sm";
+	hidden?: boolean;
+	extra?: boolean;
+	class?: string;
+}
+
+const STORE_NAMES: Record<Store, string> = { mercadolivre: "Mercado Livre", amazon: "Amazon", shopee: "Shopee" };
+const { href, direct, store, productId, postSlug, size = "default", hidden = false, extra = false, class: className = "" } =
+	Astro.props;
+---
+
+<a
+	href={href}
+	data-direct-href={direct}
+	data-extra-store={extra ? "" : undefined}
+	data-affiliate
+	data-product-id={productId}
+	data-post-slug={postSlug}
+	data-store={store}
+	hidden={hidden}
+	target="_blank"
+	rel="noopener noreferrer sponsored"
+	class:list={[
+		"inline-flex w-full items-center justify-center gap-2 rounded-md bg-primary font-semibold whitespace-nowrap text-primary-foreground no-underline transition-colors hover:bg-primary/90 hover:no-underline",
+		size === "sm" ? "px-3 py-1.5 text-xs" : "px-5 py-2.5 text-sm",
+		className,
+	]}
+>
+	Ver oferta no {STORE_NAMES[store]}<span class="sr-only"> (abre em nova aba)</span>
+</a>
+
+<script>
+	import { trackAffiliateClicks } from "#lib/client/affiliate-click.ts";
+
+	trackAffiliateClicks();
+</script>

@@ -4,8 +4,10 @@ import CardsTable from "#lib/components/CardsTable.astro";
 import Lucide from "#lib/components/Lucide.astro";
 import ReadingProgress from "#lib/components/ReadingProgress.astro";
 import ShareButtons from "#lib/components/ShareButtons.astro";
+import Verdict from "#lib/components/Verdict.astro";
 import { coverSrcset } from "#lib/content/cover.ts";
 import type { BodySegment } from "#lib/content/render-body.ts";
+import { pickTopProduct } from "#lib/content/review.ts";
 import type { Post, Product } from "#lib/content/schema.ts";
 import { formatDate, readingTimeLabel } from "#lib/format.ts";
 import { absoluteUrl } from "#lib/seo/jsonld.ts";
@@ -30,27 +32,29 @@ interface Props {
 const { data } = Astro.props;
 const post = data.post;
 const shareUrl = absoluteUrl(`/${post.slug}`);
+const firstList = data.segments.find((segment) => segment.kind === "list");
+const topProduct = firstList?.kind === "list" ? pickTopProduct(data.productLists[firstList.list] ?? []) : undefined;
 ---
 
 <ReadingProgress />
 
-<div class="min-h-screen dark:bg-black">
+<div class="min-h-screen ">
 	<div
 		class="mx-auto max-w-6xl px-4 sm:px-6 lg:grid lg:grid-cols-[minmax(0,3fr)_minmax(0,1fr)] lg:items-start lg:gap-8 lg:px-8"
 	>
 		<main class="mt-6 min-w-0">
-			<article class="bg-[#F6F4ED] py-6 dark:bg-black sm:px-6">
+			<article class="bg-background py-6 sm:px-6">
 				<header class="mb-8">
-					<h1 class="mb-4 text-3xl leading-tight font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-white">
+					<h1 class="mb-4 text-3xl leading-tight font-bold tracking-tight text-foreground sm:text-4xl ">
 						{post.title}
 					</h1>
 					{
 						post.description && (
-							<p class="mb-6 text-lg leading-relaxed text-gray-600 sm:text-xl dark:text-white">{post.description}</p>
+							<p class="mb-6 text-lg leading-relaxed text-muted-foreground sm:text-xl ">{post.description}</p>
 						)
 					}
 					<div
-						class="flex flex-wrap items-center justify-between gap-3 pb-6 text-sm text-gray-600 uppercase dark:text-white"
+						class="flex flex-wrap items-center justify-between gap-3 pb-6 text-sm text-muted-foreground uppercase "
 					>
 						<time datetime={post.date} class="flex items-center gap-1.5">
 							<Lucide name="calendar" class="h-4 w-4" />
@@ -63,17 +67,19 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 					</div>
 				</header>
 
+				{topProduct && <Verdict product={topProduct} postSlug={post.slug} />}
+
 				<div class="mb-8">
 					<div class="mb-4 flex items-center gap-2">
-						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-gray-700 dark:text-white" />
-						<span class="text-sm font-medium text-gray-700 dark:text-white">COMPARTILHE COM MAIS PESSOAS:</span>
+						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-muted-foreground " />
+						<span class="text-sm font-medium text-muted-foreground ">COMPARTILHE COM MAIS PESSOAS:</span>
 					</div>
 					<ShareButtons url={shareUrl} title={post.title} />
 				</div>
 
 				{
 					post.cover && (
-						<div class="relative mb-8 aspect-video w-full overflow-hidden bg-gray-100 dark:bg-black">
+						<div class="relative mb-8 aspect-video w-full overflow-hidden bg-muted ">
 							<img
 								src={post.cover}
 								srcset={coverSrcset(post.cover, data.coverWidths)}
@@ -104,10 +110,10 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 
 				<AuthorCard id={post.author} />
 
-				<div class="mt-6 border-gray-200 pt-6 dark:border-zinc-800">
+				<div class="mt-6 border-border pt-6 ">
 					<div class="mb-4 flex items-center gap-2">
-						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-gray-700 dark:text-white" />
-						<span class="text-sm font-medium text-gray-700 dark:text-white">COMPARTILHE COM MAIS PESSOAS:</span>
+						<Lucide name="share-2" class="h-5 w-5 shrink-0 text-muted-foreground " />
+						<span class="text-sm font-medium text-muted-foreground ">COMPARTILHE COM MAIS PESSOAS:</span>
 					</div>
 					<ShareButtons url={shareUrl} title={post.title} />
 				</div>
@@ -120,7 +126,7 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 					aria-labelledby="outras-postagens"
 					class="mt-8 min-w-0 pb-10 lg:sticky lg:top-24 lg:mt-6 lg:max-h-[calc(100dvh-7rem)] lg:self-start lg:overflow-y-auto lg:overscroll-y-contain lg:pb-6"
 				>
-					<h2 id="outras-postagens" class="mb-3 text-xs font-bold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+					<h2 id="outras-postagens" class="mb-3 text-xs font-bold tracking-wide text-muted-foreground uppercase ">
 						Outras Postagens
 					</h2>
 					<ul class="flex flex-col gap-4">
@@ -128,10 +134,10 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 							<li>
 								<a
 									href={`/${item.slug}`}
-									class="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl dark:border-zinc-800 dark:bg-zinc-950"
+									class="group flex flex-col overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl "
 								>
 									{item.cover && (
-										<div class="relative aspect-video w-full shrink-0 overflow-hidden bg-gray-100 dark:bg-zinc-900">
+										<div class="relative aspect-video w-full shrink-0 overflow-hidden bg-muted ">
 											<img
 												src={item.cover}
 												srcset={coverSrcset(item.cover, item.coverWidths)}
@@ -144,10 +150,10 @@ const shareUrl = absoluteUrl(`/${post.slug}`);
 										</div>
 									)}
 									<span class="flex flex-col gap-1 p-3">
-										<span class="text-[10px] leading-tight text-gray-600 dark:text-gray-400">
+										<span class="text-[10px] leading-tight text-muted-foreground ">
 											{formatDate(item.date)}
 										</span>
-										<span class="line-clamp-2 text-xs leading-snug font-bold text-gray-900 group-hover:text-blue-600 dark:text-white dark:group-hover:text-blue-400">
+										<span class="line-clamp-2 text-xs leading-snug font-bold text-foreground group-hover:text-primary dark:group-hover:text-primary">
 											{item.title}
 										</span>
 									</span>

@@ -58,6 +58,8 @@ export const productSchema = z.looseObject({
 	mercadolivreUrl: optionalUrl,
 	shopeeUrl: optionalUrl,
 	amazonUrl: optionalUrl,
+	/** Editorial score from 0 to 10, shown in the review verdict. Never filled in automatically. */
+	score: z.number().min(0).max(10).optional(),
 	advantages: z.array(z.string()).default([]),
 	technicalDetails: z.array(technicalDetailSchema).default([]),
 });
