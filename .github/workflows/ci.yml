@@ -13,6 +13,8 @@ concurrency:
 env:
   BUN_VERSION: 1.4.4
   NODE_VERSION: 24
+  # Canonicals, sitemap and the e2e checks need an https origin; forks get a placeholder.
+  SITE_URL: ${{ vars.SITE_URL || 'https://example.com' }}
 
 jobs:
   quality:
