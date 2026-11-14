@@ -4,10 +4,8 @@ import CardsTable from "#lib/components/CardsTable.astro";
 import Lucide from "#lib/components/Lucide.astro";
 import ReadingProgress from "#lib/components/ReadingProgress.astro";
 import ShareButtons from "#lib/components/ShareButtons.astro";
-import Verdict from "#lib/components/Verdict.astro";
 import { coverSrcset } from "#lib/content/cover.ts";
 import type { BodySegment } from "#lib/content/render-body.ts";
-import { pickTopProduct } from "#lib/content/review.ts";
 import type { Post, Product } from "#lib/content/schema.ts";
 import { formatDate, readingTimeLabel } from "#lib/format.ts";
 import { absoluteUrl } from "#lib/seo/jsonld.ts";
@@ -32,8 +30,6 @@ interface Props {
 const { data } = Astro.props;
 const post = data.post;
 const shareUrl = absoluteUrl(`/${post.slug}`);
-const firstList = data.segments.find((segment) => segment.kind === "cards");
-const topProduct = firstList?.kind === "cards" ? pickTopProduct(data.productLists[firstList.list] ?? []) : undefined;
 ---
 
 <ReadingProgress />
@@ -66,8 +62,6 @@ const topProduct = firstList?.kind === "cards" ? pickTopProduct(data.productList
 						</span>
 					</div>
 				</header>
-
-				{topProduct && <Verdict product={topProduct} postSlug={post.slug} />}
 
 				<div class="mb-8">
 					<div class="mb-4 flex items-center gap-2">

@@ -194,13 +194,9 @@ test.describe("post", () => {
 		await expect(page.getByRole("heading", { name: "Perguntas Frequentes" })).toBeVisible();
 	});
 
-	test("shows the verdict, the comparison table and sends affiliate_click on an offer click", async ({
-		page,
-	}) => {
+	test("sends affiliate_click on an offer click", async ({ page }) => {
 		await page.goto(POST);
 
-		await expect(page.getByRole("heading", { name: /Nossa escolha/ })).toBeVisible();
-		await expect(page.getByRole("region", { name: "Comparativo rápido" })).toBeVisible();
 		await page
 			.getByRole("link", { name: /Ver oferta no Mercado Livre/ })
 			.first()
