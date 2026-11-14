@@ -102,8 +102,8 @@ export function AdminShell({ current, siteName, logo, children }: Props): ReactN
 							<SidebarMenuItem>
 								<SidebarMenuButton
 									tooltip="Sair"
-									onClick={() => {
-										clearSession();
+									onClick={async () => {
+										await clearSession();
 										location.replace(LOGIN_PATH);
 									}}
 								>

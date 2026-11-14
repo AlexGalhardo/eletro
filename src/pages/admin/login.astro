@@ -1,9 +1,11 @@
 ---
+import { adminCsp } from "#lib/admin/csp.ts";
 import { site } from "#lib/site.config.ts";
 import Root from "../../layouts/Root.astro";
 ---
 
 <Root title={`Entrar - ${site.name}`} description="Acesso ao painel editorial." path="/admin/login" noindex>
+	<meta slot="head" http-equiv="Content-Security-Policy" content={adminCsp()} />
 	<main class="flex min-h-screen items-center justify-center px-4">
 		<section class="w-full max-w-sm rounded-2xl border border-border bg-card p-6 shadow-sm sm:p-8">
 			<form data-login-form>
@@ -37,7 +39,7 @@ import Root from "../../layouts/Root.astro";
 	import { readSession, safeNext, saveSession } from "#lib/admin/session.ts";
 
 	const next = safeNext(new URLSearchParams(location.search).get("next"));
-	if (readSession()) location.replace(next);
+	if (await readSession()) location.replace(next);
 
 	const form = document.querySelector<HTMLFormElement>("[data-login-form]");
 	const message = document.querySelector<HTMLElement>("[data-message]");
@@ -56,11 +58,13 @@ import Root from "../../layouts/Root.astro";
 				: input.value.trim();
 			await new PagesRepository(input.dataset.repo ?? "", token).connect();
 			input.value = "";
-			saveSession(token);
+			if (!(await saveSession(token))) throw new Error("Este navegador não permite guardar a sessão do painel.");
 			location.replace(next);
 		} catch (error) {
 			message.textContent =
-				error instanceof GithubError ? error.message : "Não foi possível entrar. Confira a senha.";
+				error instanceof GithubError || (error instanceof Error && error.message.includes("sessão"))
+					? error.message
+					: "Não foi possível entrar. Confira a senha.";
 			submit.disabled = false;
 		}
 	});

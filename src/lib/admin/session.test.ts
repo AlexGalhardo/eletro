@@ -1,5 +1,13 @@
 import { describe, expect, test } from "vitest";
-import { clearSession, GUARD_SCRIPT, readSession, SESSION_TTL_MS, safeNext, saveSession } from "./session.ts";
+import {
+	clearSession,
+	GUARD_SCRIPT,
+	type KeyStore,
+	readSession,
+	SESSION_TTL_MS,
+	safeNext,
+	saveSession,
+} from "./session.ts";
 
 function memory(initial: Record<string, string> = {}) {
 	const data = new Map(Object.entries(initial));
@@ -31,41 +39,89 @@ describe("safeNext", () => {
 	});
 });
 
+function memoryKeys(): KeyStore & { key?: CryptoKey } {
+	const store: KeyStore & { key?: CryptoKey } = {
+		get: async () => store.key,
+		put: async (key) => {
+			store.key = key;
+		},
+		delete: async () => {
+			store.key = undefined;
+		},
+	};
+	return store;
+}
+
 describe("session", () => {
 	const now = 1_000_000;
+	const setup = () => ({ storage: memory(), keys: memoryKeys() });
 
-	test("returns the token while valid and nothing after the expiry", () => {
-		const store = memory();
-		saveSession("tok", now, store);
-		expect(readSession(now + SESSION_TTL_MS - 1, store)).toBe("tok");
-		expect(readSession(now + SESSION_TTL_MS, store)).toBeNull();
-		expect(store.data.size).toBe(0);
+	test("keeps no raw token in web storage and the key is not extractable", async () => {
+		const ctx = setup();
+		expect(await saveSession("ghp_secret", { now, ...ctx })).toBe(true);
+		const stored = ctx.storage.data.get("admin-session") ?? "";
+		expect(stored).not.toContain("ghp_secret");
+		expect(Object.keys(JSON.parse(stored)).sort()).toEqual(["ciphertext", "expires", "iv"]);
+		expect(ctx.keys.key?.extractable).toBe(false);
+		await expect(crypto.subtle.exportKey("raw", ctx.keys.key as CryptoKey)).rejects.toThrow();
 	});
 
-	test("is null when absent", () => {
-		expect(readSession(now, memory())).toBeNull();
+	test("decrypts the token while valid and drops everything at the expiry", async () => {
+		const ctx = setup();
+		await saveSession("tok", { now, ...ctx });
+		expect(await readSession({ now: now + SESSION_TTL_MS - 1, ...ctx })).toBe("tok");
+		expect(await readSession({ now: now + SESSION_TTL_MS, ...ctx })).toBeNull();
+		expect(ctx.storage.data.size).toBe(0);
+		expect(ctx.keys.key).toBeUndefined();
+	});
+
+	test("the session lasts four hours", () => {
+		expect(SESSION_TTL_MS).toBe(4 * 60 * 60 * 1000);
+	});
+
+	test("is null when absent", async () => {
+		expect(await readSession({ now, ...setup() })).toBeNull();
+	});
+
+	test("a missing key means no session", async () => {
+		const ctx = setup();
+		await saveSession("tok", { now, ...ctx });
+		ctx.keys.key = undefined;
+		expect(await readSession({ now, ...ctx })).toBeNull();
+		expect(ctx.storage.data.size).toBe(0);
+	});
+
+	test("a key that cannot decrypt means no session", async () => {
+		const ctx = setup();
+		await saveSession("tok", { now, ...ctx });
+		ctx.keys.key = await crypto.subtle.generateKey({ name: "AES-GCM", length: 256 }, false, ["decrypt"]);
+		expect(await readSession({ now, ...ctx })).toBeNull();
+		expect(ctx.storage.data.size).toBe(0);
 	});
 
 	test.each([
 		"not json",
 		"null",
-		'{"token":"t"}',
-		'{"token":"","expires":9999999999999}',
-		'{"token":1,"expires":9999999999999}',
-	])("drops a corrupted entry: %s", (raw) => {
-		const store = memory({ "admin-session": raw });
-		expect(readSession(now, store)).toBeNull();
-		expect(store.data.size).toBe(0);
+		'{"iv":"a"}',
+		'{"iv":1,"ciphertext":"b","expires":9999999999999}',
+		'{"iv":"!!","ciphertext":"??","expires":9999999999999}',
+	])("drops a corrupted entry: %s", async (raw) => {
+		const ctx = setup();
+		ctx.storage.data.set("admin-session", raw);
+		expect(await readSession({ now, ...ctx })).toBeNull();
+		expect(ctx.storage.data.size).toBe(0);
 	});
 
-	test("clearSession removes it", () => {
-		const store = memory();
-		saveSession("tok", now, store);
-		clearSession(store);
-		expect(readSession(now, store)).toBeNull();
+	test("clearSession removes the item and the key", async () => {
+		const ctx = setup();
+		await saveSession("tok", { now, ...ctx });
+		await clearSession(ctx);
+		expect(ctx.storage.data.size).toBe(0);
+		expect(ctx.keys.key).toBeUndefined();
+		expect(await readSession({ now, ...ctx })).toBeNull();
 	});
 
-	test("never throws when storage is blocked", () => {
+	test("never throws when storage is blocked", async () => {
 		const blocked = {
 			getItem: () => {
 				throw new Error("denied");
@@ -77,41 +133,107 @@ describe("session", () => {
 				throw new Error("denied");
 			},
 		};
-		expect(() => saveSession("t", now, blocked)).not.toThrow();
-		expect(readSession(now, blocked)).toBeNull();
-		expect(() => clearSession(blocked)).not.toThrow();
-		expect(readSession(now, null)).toBeNull();
+		const keys = memoryKeys();
+		expect(await saveSession("t", { now, storage: blocked, keys })).toBe(false);
+		expect(await readSession({ now, storage: blocked, keys })).toBeNull();
+		await expect(clearSession({ storage: blocked, keys })).resolves.toBeUndefined();
+		expect(await saveSession("t", { now, storage: null, keys })).toBe(false);
 	});
 });
 
 describe("GUARD_SCRIPT", () => {
-	function run(stored: string | null, path = "/admin/flags", search = "") {
-		const replaced: string[] = [];
-		const style = { visibility: "" };
-		new Function("sessionStorage", "document", "location", "encodeURIComponent", GUARD_SCRIPT)(
-			{ getItem: () => stored },
-			{ documentElement: { style } },
-			{ pathname: path, search, replace: (url: string) => replaced.push(url) },
-			encodeURIComponent,
+	async function sealed(expires = Date.now() + 60_000) {
+		const key = await crypto.subtle.generateKey({ name: "AES-GCM", length: 256 }, false, [
+			"encrypt",
+			"decrypt",
+		]);
+		const iv = crypto.getRandomValues(new Uint8Array(12));
+		const data = new Uint8Array(
+			await crypto.subtle.encrypt({ name: "AES-GCM", iv }, key, new Uint8Array([1])),
 		);
-		return { replaced, hidden: style.visibility === "hidden" };
+		const b64 = (bytes: Uint8Array) => btoa(String.fromCharCode(...bytes));
+		return { key, item: JSON.stringify({ iv: b64(iv), ciphertext: b64(data), expires }) };
 	}
 
-	test("redirects to the login with the requested route and hides the page", () => {
-		expect(run(null)).toEqual({ replaced: ["/admin/login?next=/admin/flags"], hidden: true });
-		expect(run("garbage", "/admin/posts/")).toMatchObject({
-			replaced: ["/admin/login?next=/admin/posts"],
-		});
+	function run(stored: string | null, key: CryptoKey | undefined, path = "/admin/flags") {
+		const replaced: string[] = [];
+		const style = { visibility: "" };
+		const removed: string[] = [];
+		const request = <T>(result: T) => {
+			const req: { result: T; onsuccess?: () => void } = { result };
+			queueMicrotask(() => req.onsuccess?.());
+			return req;
+		};
+		const indexedDB = {
+			deleteDatabase: () => undefined,
+			open: () => {
+				const req: { result: unknown; onsuccess?: () => void; onerror?: () => void } = {
+					result: {
+						close: () => undefined,
+						transaction: () => ({ objectStore: () => ({ get: () => request(key) }) }),
+					},
+				};
+				queueMicrotask(() => req.onsuccess?.());
+				return req;
+			},
+		};
+		new Function(
+			"sessionStorage",
+			"indexedDB",
+			"crypto",
+			"document",
+			"location",
+			"encodeURIComponent",
+			GUARD_SCRIPT,
+		)(
+			{ getItem: () => stored, removeItem: (k: string) => removed.push(k) },
+			indexedDB,
+			crypto,
+			{ documentElement: { style } },
+			{ pathname: path, search: "", replace: (url: string) => replaced.push(url) },
+			encodeURIComponent,
+		);
+		return { replaced, style, removed };
+	}
+
+	const settle = () => new Promise((resolve) => setTimeout(resolve, 20));
+
+	test("without a session, hides the page and redirects with the requested route", () => {
+		const out = run(null, undefined);
+		expect(out.replaced).toEqual(["/admin/login?next=/admin/flags"]);
+		expect(out.style.visibility).toBe("hidden");
+		expect(run("garbage", undefined, "/admin/posts/").replaced).toEqual([
+			"/admin/login?next=/admin/posts",
+		]);
 	});
 
-	test("redirects when expired", () => {
-		expect(run(JSON.stringify({ token: "t", expires: 1 })).replaced).toHaveLength(1);
+	test("redirects when expired", async () => {
+		const { item, key } = await sealed(1);
+		expect(run(item, key).replaced).toHaveLength(1);
 	});
 
-	test("lets a valid session through", () => {
-		expect(run(JSON.stringify({ token: "t", expires: Date.now() + 60_000 }))).toEqual({
-			replaced: [],
-			hidden: false,
-		});
+	test("redirects when the key is missing", async () => {
+		const { item } = await sealed();
+		const out = run(item, undefined);
+		await settle();
+		expect(out.replaced).toHaveLength(1);
+		expect(out.removed).toEqual(["admin-session"]);
+	});
+
+	test("redirects when the key cannot decrypt", async () => {
+		const { item } = await sealed();
+		const other = await crypto.subtle.generateKey({ name: "AES-GCM", length: 256 }, false, ["decrypt"]);
+		const out = run(item, other);
+		await settle();
+		expect(out.replaced).toHaveLength(1);
+	});
+
+	test("reveals the page for a valid session", async () => {
+		const { item, key } = await sealed();
+		const out = run(item, key);
+		expect(out.style.visibility).toBe("hidden");
+		await settle();
+		expect(out.replaced).toEqual([]);
+		expect(out.style.visibility).toBe("");
 	});
 });

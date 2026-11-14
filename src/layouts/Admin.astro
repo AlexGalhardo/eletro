@@ -1,4 +1,5 @@
 ---
+import { adminCsp } from "#lib/admin/csp.ts";
 import { GUARD_SCRIPT } from "#lib/admin/session.ts";
 import { type AdminSection, AdminShell } from "#lib/admin-ui/AdminShell.tsx";
 import { site } from "#lib/site.config.ts";
@@ -14,6 +15,7 @@ const { section, path, title = `Painel editorial - ${site.name}` } = Astro.props
 ---
 
 <Root title={title} description="Edite o conteúdo do site." path={path} noindex>
+	<meta slot="head" http-equiv="Content-Security-Policy" content={adminCsp()} />
 	<script is:inline slot="head" set:html={GUARD_SCRIPT} />
 	<AdminShell client:load current={section} siteName={site.name} logo={site.logo}>
 		<slot />
