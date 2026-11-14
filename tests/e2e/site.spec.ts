@@ -164,7 +164,7 @@ test.describe("post", () => {
 		await page.route(HEALTH, (route) => route.fulfill({ status: 503, json: { status: "down" } }));
 		await page.goto(POST);
 
-		const store = page.getByRole("link", { name: /VER PREÇO MERCADOLIVRE/ }).first();
+		const store = page.getByRole("link", { name: /Ver oferta no Mercado Livre/ }).first();
 		await expect(store).toHaveAttribute("href", /^https:\/\/(meli\.la|www\.mercadolivre\.com\.br)\//);
 		await expect(page.locator('[data-testid="cards-table"] a[href*="/link?id="]')).toHaveCount(0);
 	});
@@ -181,7 +181,7 @@ test.describe("post", () => {
 			/wa\.me.*eletroradar\.com\.br%2Fmelhor-airfryer-8-litros/,
 		);
 
-		const store = page.getByRole("link", { name: /VER PREÇO MERCADOLIVRE/ }).first();
+		const store = page.getByRole("link", { name: /Ver oferta no Mercado Livre/ }).first();
 		await expect(store).toHaveAttribute("href", /^https:\/\//);
 		// Store buttons go through the links dashboard redirect while the dashboard answers.
 		await expect(store).toHaveAttribute(

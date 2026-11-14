@@ -1,0 +1,46 @@
+---
+import { formatScore, offerTarget, productScore } from "#lib/content/review.ts";
+import type { Product } from "#lib/content/schema.ts";
+import OfferButton from "./OfferButton.astro";
+
+interface Props {
+	product: Product;
+	postSlug: string;
+}
+
+const { product, postSlug } = Astro.props;
+const target = offerTarget(postSlug, product);
+const score = productScore(product);
+const reason = product.advantages[0];
+---
+
+<section aria-labelledby="veredito" class="mb-8 rounded-md border border-primary bg-card p-4 sm:p-5">
+	<div class="flex flex-wrap items-start justify-between gap-3">
+		<div class="min-w-0">
+			<p class="text-xs font-bold tracking-wide text-primary uppercase">Veredito</p>
+			<h2 id="veredito" class="mt-1 text-lg leading-snug font-bold text-foreground">Nossa escolha: {product.name}</h2>
+			{reason && <p class="mt-1 text-sm text-muted-foreground">{reason}</p>}
+		</div>
+		{
+			score !== null && (
+				<p class="shrink-0 rounded-md bg-primary px-3 py-2 text-center text-primary-foreground">
+					<span class="block text-xs font-semibold">Nota</span>
+					<span class="text-xl leading-none font-bold">{formatScore(score)}</span>
+					<span class="text-xs">/10</span>
+				</p>
+			)
+		}
+	</div>
+	<div class="mt-4 sm:max-w-xs">
+		<OfferButton
+			href={target.dashboard}
+			direct={target.direct}
+			store={target.store}
+			productId={product.id}
+			postSlug={postSlug}
+		/>
+	</div>
+	<p class="mt-3 text-xs text-muted-foreground">
+		Ao comprar pelos links desta página podemos receber uma comissão, sem custo extra para você.
+	</p>
+</section>
