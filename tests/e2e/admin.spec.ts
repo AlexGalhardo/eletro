@@ -49,3 +49,15 @@ test.describe("REST API", () => {
 		expect(Object.keys(document.paths)).toContain("/posts/{slug}");
 	});
 });
+
+test("the admin sidebar lists the sections and collapses", async ({ page, isMobile }) => {
+	test.skip(isMobile, "On mobile the sidebar is an off-canvas sheet");
+	await page.goto("/admin/metrics");
+	const nav = page.getByRole("complementary").or(page.locator("[data-slot=sidebar]")).first();
+	for (const name of ["Produtos e links", "Posts", "Métricas", "Flags", "Newsletter"]) {
+		await expect(nav.getByRole("link", { name })).toBeVisible();
+	}
+	await expect(nav.getByRole("link", { name: "Métricas" })).toHaveAttribute("aria-current", "page");
+	await page.getByRole("button", { name: "Recolher ou expandir o menu" }).click();
+	await expect(page.locator("[data-slot=sidebar][data-state=collapsed]")).toHaveCount(1);
+});

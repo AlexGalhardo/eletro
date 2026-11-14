@@ -1,0 +1,8 @@
+---
+import { MetricsPanel } from "#lib/admin-ui/MetricsPanel.tsx";
+import Admin from "../../layouts/Admin.astro";
+---
+
+<Admin section="metrics" path="/admin/google">
+	<MetricsPanel client:load analyticsUrl="https://analytics.google.com/analytics/web/" />
+</Admin>

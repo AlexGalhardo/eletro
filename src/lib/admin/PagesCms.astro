@@ -3,23 +3,26 @@ import { referencedLists } from "#lib/content/parse.ts";
 import { getBundledPostSources } from "#lib/server/content.ts";
 import { site } from "#lib/site.config.ts";
 
+interface Props {
+	folder: string;
+}
+
+const { folder } = Astro.props;
 const repo = site.githubRepo;
 const postLinks = Object.fromEntries(
 	[...getBundledPostSources()].map(([slug, raw]) => [slug, referencedLists(raw)]),
 );
 ---
 
-<div data-pages-cms data-repo={repo} data-post-links={JSON.stringify(postLinks)} class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:py-12">
+<div data-pages-cms data-repo={repo} data-folder={folder} data-post-links={JSON.stringify(postLinks)} class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:py-12">
 	<header data-workspace-header hidden class="mb-8 flex flex-wrap items-center justify-between gap-4 border-b border-border pb-6 ">
 		<div>
-			<a href="/" class="text-sm font-semibold text-primary hover:underline ">← Voltar ao site</a>
-			<h1 class="mt-3 font-russo-one text-3xl tracking-tight">Painel editorial</h1>
+			<h1 class="font-russo-one text-3xl tracking-tight">Painel editorial</h1>
 			<p class="mt-2 max-w-2xl text-sm text-muted-foreground ">
 				Edite os arquivos do blog. O painel salva em uma branch e abre um PR para revisão antes da publicação.
 			</p>
 		</div>
 		<div class="flex items-center gap-2">
-			<button type="button" data-theme-toggle aria-label="Alternar tema" class="rounded-lg border border-input px-4 py-2 text-sm font-semibold hover:bg-muted "><span class="dark:hidden">Tema escuro</span><span class="hidden dark:inline">Tema claro</span></button>
 			<button type="button" data-logout hidden class="rounded-lg border border-input px-4 py-2 text-sm font-semibold hover:bg-muted ">Sair</button>
 		</div>
 	</header>

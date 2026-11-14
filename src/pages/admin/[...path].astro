@@ -1,18 +1,16 @@
 ---
 import PagesCms from "#lib/admin/PagesCms.astro";
-import { site } from "#lib/site.config.ts";
-import Root from "../../layouts/Root.astro";
+import Admin from "../../layouts/Admin.astro";
 
 export function getStaticPaths() {
-	// Every route opens the same static editor on GitHub Pages.
-	return ["login", "posts", "products", "media", "newsletter", "import", "google"].map((path) => ({
-		params: { path },
-	}));
+	// Every route opens the same static editor on GitHub Pages; the folder it starts in follows the route.
+	return ["login", "posts", "products", "media", "import"].map((path) => ({ params: { path } }));
 }
 
 const path = Astro.params.path ?? "login";
+const folders: Record<string, string> = { products: "content/products", media: "static/images" };
 ---
 
-<Root title={`Painel editorial - ${site.name}`} description="Edite o conteúdo do site." path={`/admin/${path}`} noindex>
-	<PagesCms />
-</Root>
+<Admin section={path === "posts" ? "posts" : "products"} path={`/admin/${path}`}>
+	<PagesCms folder={folders[path] ?? "content/posts"} />
+</Admin>

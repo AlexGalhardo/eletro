@@ -25,9 +25,10 @@ test("newsletter pages stay out of search engines", async ({ request }) => {
 	expect(await (await request.get("/sitemap.xml")).text()).not.toContain("/newsletter");
 });
 
-test("the newsletter screen renders the login gate", async ({ page }) => {
+test("the newsletter screen is a placeholder until the vukem-email integration", async ({ page }) => {
 	await page.goto("/admin/newsletter");
 
-	await expect(page.getByRole("button", { name: "Login" })).toBeVisible();
+	await expect(page.getByText("Em breve")).toBeVisible();
+	await expect(page.getByRole("button", { name: "Conectar ao vukem-email" })).toBeDisabled();
 	await expect(page.getByRole("button", { name: "Enviar fila agora" })).toHaveCount(0);
 });
