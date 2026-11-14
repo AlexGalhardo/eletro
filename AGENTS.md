@@ -58,7 +58,7 @@ python -m graphify query "<pergunta>"     # também: path "<A>" "<B>" e explain 
 | [`docs/performance.md`](docs/performance.md) | Capas redimensionadas no build, cache, contraste, teclado e resultados do Lighthouse |
 | [`docs/ui.md`](docs/ui.md) | Direção visual e uso do UI SDK no Astro |
 | [`docs/security.md`](docs/security.md) | Modelo de ameaças, relatório da revisão de segurança e o que segue em aberto |
-| [`docs/deploy.md`](docs/deploy.md) | GitHub Pages, DNS de `eletroradar`, e o que o site estático não executa |
+| [`docs/deploy.md`](docs/deploy.md) | GitHub Pages, DNS do domínio próprio, e o que o site estático não executa |
 | [`docs/ci-cd.md`](docs/ci-cd.md) | CI em PR, proteção da main e release sob pedido |
 | [`docs/google-console-analytics-setup.md`](docs/google-console-analytics-setup.md) | Google Search Console e Analytics em `/admin/google`: conta de serviço, permissões, variáveis e problemas comuns |
 | [`docs/affiliate-links.md`](docs/affiliate-links.md) | Links de afiliado: registro no dashboard de links a cada build, id dos produtos, redirect nos botões |

@@ -1,3 +1,7 @@
+// import.meta.env.SITE is set by Astro (from SITE_URL) and is also what the browser bundle sees; process.env covers vitest and Bun scripts.
+const siteUrl = (import.meta.env?.SITE ?? process.env.SITE_URL ?? "http://localhost:4321").replace(/\/$/, "");
+const siteHost = new URL(siteUrl).host;
+
 /**
  * Single source of truth for the site identity.
  * To reuse this project as a template, edit this file and replace the files under `content/` and `static/`.
@@ -6,9 +10,9 @@ export const site = {
 	name: "EletroRadar",
 	/** Shown in the header: the second part is highlighted. */
 	logoText: ["Eletro", "Radar"],
-	domain: "eletroradar",
-	/** Production origin without trailing slash. Overridden by the PUBLIC_SITE_URL env var when set. */
-	url: "https://example.com",
+	domain: siteHost,
+	/** Public origin without trailing slash, from SITE_URL at build time. */
+	url: siteUrl,
 	githubRepo: "AlexGalhardo/eletro",
 	locale: "pt-BR",
 	title: "EletroRadar - Análises De Eletrodomésticos",
@@ -59,14 +63,14 @@ export const site = {
 			role: "Redator",
 			avatar: "/images/avatars/bruno-souza.jpg",
 			color: "blue",
-			bio: "Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, video game e cultura pop em geral. Co-criador do eletroradar junto com sua irmã, gosta de pesquisar e escrever sobre software e produtos de tecnologia em geral.",
+			bio: "Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, video game e cultura pop em geral. Co-criador do EletroRadar junto com sua irmã, gosta de pesquisar e escrever sobre software e produtos de tecnologia em geral.",
 		},
 		ana: {
 			name: "Ana Souza",
 			role: "Redatora",
 			avatar: "/images/avatars/ana-souza.jpg",
 			color: "pink",
-			bio: "Formada em Publicidade e Propaganda, apaixonada por livros, filmes, séries e um bom café. Co-criadora do eletroradar junto com seu irmão, freelancer de copywritting nas horas vagas, gosta de escrever sobre produtos domésticos em geral.",
+			bio: "Formada em Publicidade e Propaganda, apaixonada por livros, filmes, séries e um bom café. Co-criadora do EletroRadar junto com seu irmão, freelancer de copywritting nas horas vagas, gosta de escrever sobre produtos domésticos em geral.",
 		},
 	},
 	defaultAuthor: "bruno",
@@ -95,7 +99,7 @@ export const site = {
 		],
 		maxProducts: 7,
 		/** Written in bold at the bottom right of the generated cover. */
-		coverText: "eletroradar",
+		coverText: "EletroRadar",
 	},
 
 	/**

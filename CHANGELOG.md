@@ -13,6 +13,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Changed
 
+- O domínio deixa de estar escrito nos arquivos: `site`, canonicais, sitemap e JSON-LD usam a variável `SITE_URL` (padrão `http://localhost:4321`), que o `pages.yml` lê da variável de repositório `SITE_URL`. O build não cria mais o `CNAME`; o domínio próprio fica em Settings → Pages. E-mails e textos de exemplo passam a `example.com`.
 - O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.
 - O e-mail de contato público passa a ser `contato@example.com`.
 - A busca da barra seleciona o texto ao receber foco. O `/admin` alterna o tema claro e escuro.
@@ -102,7 +103,7 @@ O site público passa a ser Astro 7.4 no GitHub Pages.
 - O README segue o formato de referência do workspace.
 - O pacote passa a se chamar `astro-blog-cms` (antes `sveltekit-blog-cms`).
 - O site público passa a ser um build estático do Astro 7.4, com as mesmas páginas, o mesmo conteúdo e as ilhas Svelte 5. SvelteKit e o adaptador da Vercel saíram do projeto. A branch `legacy-sveltekit` guarda o código anterior.
-- A produção de `eletroradar` passa a ser o GitHub Pages (`.github/workflows/pages.yml`). O Pages não executa painel, API de escrita, login, contato, newsletter nem cron; esse código continua coberto pelos testes.
+- A produção passa a ser o GitHub Pages (`.github/workflows/pages.yml`). O Pages não executa painel, API de escrita, login, contato, newsletter nem cron; esse código continua coberto pelos testes.
 - O corpo dos posts é renderizado com `marked`. `<CardsTable>` continua uma ilha Svelte.
 - Uma URL desconhecida responde 404.
 - **docs:** Record the open source files and the package rename in the changelog ([320563a](https://github.com/AlexGalhardo/eletro/commit/320563adb9652db06cc06b4b0ab96dfdc52d5ec2))

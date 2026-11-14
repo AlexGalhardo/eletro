@@ -307,7 +307,7 @@ A `1.0.0` saiu em 2026-10-07 por decisão do dono. Os itens abertos abaixo não 
 
 Dependem do primeiro deploy (lista completa em `docs/deploy.md`):
 
-- [x] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend (Vercel, em 2026-10-06: `https://example.com`)
+- [x] Deploy na Vercel ou na Netlify com banco Neon, OAuth App, token de conteúdo e Resend (Vercel, em 2026-10-06)
 - [ ] Login real pelo GitHub e um post publicado pelo painel de ponta a ponta, com o commit e o deploy
 - [ ] Cabeçalhos de segurança de `static/_headers` conferidos em produção (os de `vercel.json` já foram, em 2026-10-06)
 - [ ] PageSpeed Insights na home e em um post (assert de R3)

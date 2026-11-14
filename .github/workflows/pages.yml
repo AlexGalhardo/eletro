@@ -28,6 +28,7 @@ jobs:
       - run: bun install --frozen-lockfile
       - run: bun run build
         env:
+          SITE_URL: ${{ vars.SITE_URL }}
           LINKS_DASHBOARD_TOKEN: ${{ secrets.LINKS_DASHBOARD_TOKEN }}
           ADMIN_GITHUB_TOKEN: ${{ secrets.ADMIN_GITHUB_TOKEN }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}

@@ -35,7 +35,7 @@ O mantenedor esclarece e aplica estes padrões. Ele pode remover ou editar comen
 
 ## Denúncias
 
-Denuncie pelo formulário de [vulnerabilidade privada](https://github.com/AlexGalhardo/eletroradar/security/advisories/new) do GitHub (escreva "Código de conduta" no título) ou pelo e-mail listado no [perfil do mantenedor](https://github.com/AlexGalhardo). As denúncias são tratadas com rapidez e sigilo, e quem denuncia não sofre retaliação.
+Denuncie pelo formulário de [vulnerabilidade privada](https://github.com/AlexGalhardo/eletro/security/advisories/new) do GitHub (escreva "Código de conduta" no título) ou pelo e-mail listado no [perfil do mantenedor](https://github.com/AlexGalhardo). As denúncias são tratadas com rapidez e sigilo, e quem denuncia não sofre retaliação.
 
 ## Atribuição
 

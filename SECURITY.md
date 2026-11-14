@@ -2,13 +2,13 @@
 
 ## Versões suportadas
 
-Somente a última versão `2.x` e a versão em produção em <https://example.com> recebem correções de segurança.
+Somente a última versão `2.x` e a versão em produção recebem correções de segurança.
 
 ## Como reportar uma vulnerabilidade
 
 Não abra issue, discussão ou pull request públicos para uma vulnerabilidade.
 
-Reporte em privado pelo formulário [Report a vulnerability](https://github.com/AlexGalhardo/eletroradar/security/advisories/new) do GitHub (aviso de segurança privado). Se não puder usar o GitHub, fale com o mantenedor pelo e-mail listado no [perfil dele](https://github.com/AlexGalhardo), com "Segurança" no assunto.
+Reporte em privado pelo formulário [Report a vulnerability](https://github.com/AlexGalhardo/eletro/security/advisories/new) do GitHub (aviso de segurança privado). Se não puder usar o GitHub, fale com o mantenedor pelo e-mail listado no [perfil dele](https://github.com/AlexGalhardo), com "Segurança" no assunto.
 
 Inclua o que encontrou, onde (URL, rota ou arquivo), como reproduzir e o impacto esperado. Provas de conceito são bem-vindas; não inclua dados de outras pessoas.
 
@@ -20,7 +20,7 @@ Inclua o que encontrou, onde (URL, rota ou arquivo), como reproduzir e o impacto
 
 ## Escopo
 
-Dentro do escopo: este repositório, <https://example.com>, o painel `/admin` e a API em `/api`.
+Dentro do escopo: este repositório, o site publicado, o painel `/admin` e a API em `/api`.
 
 Fora do escopo:
 

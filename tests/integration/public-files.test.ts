@@ -13,8 +13,8 @@ describe("public crawl files", () => {
 		if (!sample) throw new Error("no published post");
 
 		const sitemapBody = await (await sitemap()).text();
-		expect(sitemapBody).toContain(`https://example.com/${sample.slug}/</loc>`);
-		expect(sitemapBody).not.toContain(`https://example.com/${sample.slug}</loc>`);
+		expect(sitemapBody).toContain(`${site.url}/${sample.slug}/</loc>`);
+		expect(sitemapBody).not.toContain(`${site.url}/${sample.slug}</loc>`);
 		expect(sitemapBody).not.toContain("/admin");
 		expect(sitemapBody).not.toContain("/api");
 

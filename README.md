@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><strong><a href="https://example.com" target="_blank">EletroRadar</a></strong></h1>
+<h1><strong>EletroRadar</strong></h1>
 
 [![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
 [![Bun 1.4](https://img.shields.io/badge/bun-1.4-000000?logo=bun&logoColor=white)](package.json)
@@ -12,7 +12,7 @@
 
 ## Introdução
 
-Blog de reviews de eletrodomésticos com links de afiliado, em produção em <https://example.com>. O código é um CMS de blog em Astro 7.4 e TypeScript, publicado no GitHub Pages.
+Blog de reviews de eletrodomésticos com links de afiliado, em produção no GitHub Pages. O código é um CMS de blog em Astro 7.4 e TypeScript, publicado no GitHub Pages.
 
 - **Conteúdo:** posts em Markdown (`content/posts/*.mdx`) e listas de produtos em JSON (`content/products/*.json`), no próprio repositório.
 - **Site público:** estático, gerado no build.

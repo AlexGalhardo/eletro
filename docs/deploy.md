@@ -1,6 +1,6 @@
 # Deploy no GitHub Pages
 
-O [workflow `pages.yml`](../.github/workflows/pages.yml) compila `dist/` e publica o site depois de um merge na `main`. No repositório, configure Pages → Build and deployment → Source: GitHub Actions. O build cria `CNAME` para `eletroradar` e `.nojekyll`.
+O [workflow `pages.yml`](../.github/workflows/pages.yml) compila `dist/` e publica o site depois de um merge na `main`. No repositório, configure Pages → Build and deployment → Source: GitHub Actions. O domínio próprio é configurado em Settings → Pages, não por arquivo; o build cria só `.nojekyll`. Defina a variável de repositório `SITE_URL` (por exemplo `https://seu-dominio`): o `pages.yml` a passa ao build, e dela saem o `site` do Astro, os canonicais e o sitemap.
 
 Para o domínio apex, use os quatro registros A do [GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site): `185.199.108.153`, `185.199.109.153`, `185.199.110.153` e `185.199.111.153`. Aponte `www` para o domínio `github.io` da conta e confira o certificado HTTPS no Pages.
 

@@ -26,7 +26,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [performance.md](performance.md) | Mexer em imagens, fontes, carregamento ou acessibilidade; medir o Lighthouse |
 | [ui.md](ui.md) | Desenvolver UI com Astro e os comportamentos do UI SDK |
 | [security.md](security.md) | Mexer em autenticação, entrada de dados, conteúdo do post, cabeçalhos ou integrações |
-| [deploy.md](deploy.md) | Publicar no GitHub Pages e apontar o DNS de `eletroradar` |
+| [deploy.md](deploy.md) | Publicar no GitHub Pages e apontar o DNS do domínio próprio |
 | [google-console-analytics-setup.md](google-console-analytics-setup.md) | Ligar o painel ao Google Search Console e ao Analytics (`/admin/google`) ou mexer nessa integração |
 | [ci-cd.md](ci-cd.md) | Entender os workflows, ativar o CI ou lançar uma versão |
 | [affiliate-links.md](affiliate-links.md) | Entender como os links de afiliado são registrados no dashboard de links e renderizados (`scripts/sync-links.ts`, `LINKS_DASHBOARD_TOKEN`) |

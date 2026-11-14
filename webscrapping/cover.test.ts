@@ -20,7 +20,7 @@ const photo = async (background: string) =>
 describe("cover", () => {
 	it("composes a 1280x720 WebP from the photos", async () => {
 		const photos = await Promise.all(["#f00", "#0f0", "#00f", "#000"].map(photo));
-		const cover = await composeCover(photos, "eletroradar", () => 0.5);
+		const cover = await composeCover(photos, "EletroRadar", () => 0.5);
 		expect(await sharp(cover).metadata()).toMatchObject({
 			format: "webp",
 			width: COVER_WIDTH,

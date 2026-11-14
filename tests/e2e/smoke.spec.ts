@@ -1,5 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs";
 import { isPublished, parsePost } from "../../src/lib/content/parse.ts";
+import { site } from "../../src/lib/site.config.ts";
 import { expect, test } from "./test.ts";
 
 // Fast checks over HTTP only: every public URL answers and nothing private leaks into the indexes.
@@ -42,7 +43,7 @@ test.describe("smoke", () => {
 			const html = await response.text();
 
 			expect(response.status(), slug).toBe(200);
-			expect(html, slug).toContain(`https://example.com/${slug}/`);
+			expect(html, slug).toContain(`${site.url}/${slug}/`);
 			expect(html, slug).toContain('"@type":"BlogPosting"');
 			expect(html, slug).toContain('"@type":"FAQPage"');
 			expect(html, slug).toContain('data-testid="cards-table"');

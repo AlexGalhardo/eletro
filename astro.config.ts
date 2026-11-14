@@ -7,7 +7,7 @@ import { aliases } from "./src/aliases.ts";
 import { publishJsonForPages } from "./src/lib/pages-output.ts";
 
 export default defineConfig({
-	site: "https://example.com",
+	site: process.env.SITE_URL ?? "http://localhost:4321",
 	output: "static",
 	// Directory indexes on disk. Canonical URLs add the slash GitHub Pages returns 200 for.
 	// `never` keeps `astro preview` serving `/slug`. Pages 301s that bare path to `/slug/`.
@@ -22,7 +22,6 @@ export default defineConfig({
 				"astro:build:done": async ({ dir }) => {
 					const out = fileURLToPath(dir);
 					await writeFile(path.join(out, ".nojekyll"), "");
-					await writeFile(path.join(out, "CNAME"), "eletroradar\n");
 					await publishJsonForPages(path.join(out, "api"));
 				},
 			},

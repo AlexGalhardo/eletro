@@ -42,7 +42,7 @@ Se o Google recusar a criação da chave, a conta pertence a uma organização c
 
    | Tipo da propriedade | Valor |
    |---|---|
-   | Domínio | `sc-domain:eletroradar` |
+   | Domínio | `sc-domain:example.com` |
    | Prefixo do URL | `https://example.com/` (igual ao cadastrado, com a barra no fim) |
 
    O tipo aparece no seletor de propriedades, no canto superior esquerdo: propriedades de domínio mostram só o domínio, as de prefixo mostram o endereço completo.
@@ -60,7 +60,7 @@ No `.env` local, a chave fica em uma linha só, entre aspas, com os `\n` como v�
 ```bash
 GOOGLE_SERVICE_ACCOUNT_EMAIL=painel-blog@seu-projeto.iam.gserviceaccount.com
 GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nMIIEv...\n-----END PRIVATE KEY-----\n"
-GOOGLE_SEARCH_CONSOLE_SITE=sc-domain:eletroradar
+GOOGLE_SEARCH_CONSOLE_SITE=sc-domain:example.com
 GOOGLE_ANALYTICS_PROPERTY_ID=123456789
 ```
 
