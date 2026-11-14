@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
   <title id="title">EletroRadar</title>
-  <rect width="64" height="64" rx="16" fill="#102D56"/>
-  <path d="M14 45a25 25 0 0 1 31-31M20 45a19 19 0 0 1 25-25M26 45a13 13 0 0 1 19-19" fill="none" stroke="#B9DDF6" stroke-linecap="round" stroke-width="3"/>
-  <path d="M20 45h25V20" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
-  <circle cx="45" cy="20" r="6" fill="#8CE0BD"/>
+  <rect width="64" height="64" rx="14" fill="#166534"/>
+  <path d="M36.5 8.4A26 26 0 1 0 57.6 38.5M35 17.3A17 17 0 1 0 48.7 37" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  <path d="M35 22 25 35h6l-2 11 10-14h-6z" fill="#fff"/>
 </svg>
