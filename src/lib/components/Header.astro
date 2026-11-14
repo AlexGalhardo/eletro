@@ -1,6 +1,7 @@
 ---
 import { jsonForScript } from "#lib/json-script.ts";
 import { site } from "#lib/site.config.ts";
+import LogoMark from "./LogoMark.astro";
 import Lucide from "./Lucide.astro";
 import MobileSidebar from "./MobileSidebar.astro";
 
@@ -35,7 +36,7 @@ const field =
 
 				<div class="shrink-0">
 					<a href="/" class="flex items-center gap-2 transition-opacity hover:opacity-80">
-						<img src={site.logo} alt="" width="36" height="36" />
+						<LogoMark />
 						<span class="font-brand text-xl leading-none font-bold tracking-tight text-foreground">
 							{site.logoText[0]}<span class="text-primary ">{site.logoText[1]}</span>
 						</span>

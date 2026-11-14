@@ -5,7 +5,7 @@ import { site } from "../../site.config.ts";
 const text = { margin: "0 0 16px 0", fontSize: "16px", lineHeight: "24px" };
 const small = { margin: "24px 0 0 0", fontSize: "13px", lineHeight: "20px", color: "#666666" };
 const button = {
-	backgroundColor: "#16a34a",
+	backgroundColor: "#1a1917",
 	color: "#ffffff",
 	padding: "12px 20px",
 	borderRadius: "8px",

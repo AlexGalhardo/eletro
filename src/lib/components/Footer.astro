@@ -1,5 +1,6 @@
 ---
 import { site } from "#lib/site.config.ts";
+import LogoMark from "./LogoMark.astro";
 
 interface Props {
 	activeCategories?: string[];
@@ -26,7 +27,7 @@ const link =
 		<div class="grid grid-cols-2 gap-x-8 gap-y-10 py-12 md:grid-cols-12">
 			<div class="col-span-2 md:col-span-5">
 				<a href="/" class="inline-flex items-center gap-2 transition-opacity hover:opacity-80">
-					<img src={site.logo} alt="" width="36" height="36" loading="lazy" />
+					<LogoMark />
 					<span class="font-brand text-xl leading-none font-bold tracking-tight text-primary ">
 						{site.logoText[0]}<span class="text-primary ">{site.logoText[1]}</span>
 					</span>

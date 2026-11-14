@@ -16,7 +16,7 @@ const { deployed, kind } = Astro.props;
 >
 	<span
 		aria-hidden="true"
-		class:list={["size-2.5 rounded-full", deployed ? "bg-green-500" : "animate-pulse bg-amber-500"]}
+		class:list={["size-2.5 rounded-full", deployed ? "bg-foreground" : "animate-pulse bg-amber-500"]}
 	></span>
 	{
 		deployed

@@ -10,7 +10,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* shadcn/ui token names, "newspaper" palette. One green accent (--primary) for the whole site. */
+/* shadcn/ui token names, "newspaper" palette. The accent (--primary) is plain black in light and white in dark: no hue. */
 @theme inline {
 	--font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
 	--font-russo-one: "Russo One", sans-serif;
@@ -83,8 +83,8 @@ html {
 		--card-foreground: #1a1917;
 		--popover: #fcfbf8;
 		--popover-foreground: #1a1917;
-		--primary: #166534;
-		--primary-foreground: #ffffff;
+		--primary: #1a1917;
+		--primary-foreground: #f5f4f0;
 		--secondary: #eae8e1;
 		--secondary-foreground: #1a1917;
 		--muted: #eae8e1;
@@ -94,16 +94,16 @@ html {
 		--destructive: #b42318;
 		--border: #d9d6cc;
 		--input: #8a8779;
-		--ring: #166534;
+		--ring: #1a1917;
 		--radius: 0.25rem;
 		--sidebar: #efede7;
 		--sidebar-foreground: #1a1917;
-		--sidebar-primary: #166534;
-		--sidebar-primary-foreground: #ffffff;
+		--sidebar-primary: #1a1917;
+		--sidebar-primary-foreground: #f5f4f0;
 		--sidebar-accent: #e3e1d8;
 		--sidebar-accent-foreground: #1a1917;
 		--sidebar-border: #d9d6cc;
-		--sidebar-ring: #166534;
+		--sidebar-ring: #1a1917;
 		color-scheme: light;
 	}
 
@@ -114,8 +114,8 @@ html {
 		--card-foreground: #ece9e1;
 		--popover: #242320;
 		--popover-foreground: #ece9e1;
-		--primary: #4ade80;
-		--primary-foreground: #0f1f14;
+		--primary: #ffffff;
+		--primary-foreground: #1c1b19;
 		--secondary: #2d2b28;
 		--secondary-foreground: #ece9e1;
 		--muted: #2d2b28;
@@ -125,15 +125,15 @@ html {
 		--destructive: #f87171;
 		--border: #3a3834;
 		--input: #7a776c;
-		--ring: #4ade80;
+		--ring: #ffffff;
 		--sidebar: #201f1c;
 		--sidebar-foreground: #ece9e1;
-		--sidebar-primary: #4ade80;
-		--sidebar-primary-foreground: #0f1f14;
+		--sidebar-primary: #ffffff;
+		--sidebar-primary-foreground: #1c1b19;
 		--sidebar-accent: #34322e;
 		--sidebar-accent-foreground: #ece9e1;
 		--sidebar-border: #3a3834;
-		--sidebar-ring: #4ade80;
+		--sidebar-ring: #ffffff;
 		color-scheme: dark;
 	}
 }
@@ -163,6 +163,65 @@ html {
 	*::after {
 		animation-duration: 0.01ms !important;
 		transition-duration: 0.01ms !important;
+	}
+}
+
+/* Marketplace call to action: each store keeps its own color. A solid lower edge gives the 3D look and sinks on press. */
+.offer-btn {
+	--offer-bg: #111111;
+	--offer-fg: #ffffff;
+	--offer-edge: #000000;
+	background: linear-gradient(
+		to bottom,
+		color-mix(in srgb, white 22%, var(--offer-bg)),
+		var(--offer-bg) 60%
+	);
+	color: var(--offer-fg);
+	box-shadow:
+		0 4px 0 var(--offer-edge),
+		inset 0 1px 0 rgb(255 255 255 / 0.35);
+	margin-bottom: 4px;
+	transition:
+		transform 80ms ease-out,
+		box-shadow 80ms ease-out,
+		filter 120ms ease-out;
+}
+.offer-btn[data-store="mercadolivre"] {
+	--offer-bg: #ffe600;
+	--offer-fg: #000000;
+	--offer-edge: #b3a100;
+}
+.offer-btn[data-store="amazon"] {
+	--offer-bg: #ffd814;
+	--offer-fg: #000000;
+	--offer-edge: #b39800;
+}
+.offer-btn[data-store="shopee"] {
+	--offer-bg: #ee4d2d;
+	--offer-fg: #ffffff;
+	--offer-edge: #a8321a;
+}
+.dark .offer-btn:not([data-store="mercadolivre"], [data-store="amazon"], [data-store="shopee"]) {
+	--offer-bg: #ffffff;
+	--offer-fg: #000000;
+	--offer-edge: #8a8779;
+}
+.offer-btn:hover {
+	filter: brightness(1.05);
+}
+.offer-btn:active {
+	transform: translateY(3px);
+	box-shadow:
+		0 1px 0 var(--offer-edge),
+		inset 0 1px 0 rgb(255 255 255 / 0.2);
+}
+.offer-btn:focus-visible {
+	outline: 3px solid var(--ring);
+	outline-offset: 3px;
+}
+@media (prefers-reduced-motion: reduce) {
+	.offer-btn {
+		transition: none !important;
 	}
 }
 

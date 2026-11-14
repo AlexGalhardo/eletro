@@ -42,7 +42,7 @@
 			});
 			if (!response.ok) throw new Error(`Subscription request failed with ${response.status}`);
 			status.textContent = "Quase lá: confirme a inscrição pelo link que enviamos ao seu e-mail.";
-			status.className = "mt-3 text-sm! text-green-700 dark:text-green-400";
+			status.className = "mt-3 text-sm! text-foreground";
 			input.value = "";
 		} catch {
 			status.textContent = "Não foi possível inscrever agora. Confira o e-mail e tente de novo.";

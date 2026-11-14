@@ -8,17 +8,23 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Added
 
-- Redesign "papel de jornal": tokens shadcn (`--background`, `--primary`, `--radius` de 4px...) em `src/app.css`, um único acento verde, tema escuro em grafite quente que segue o sistema e pode ser alternado. `docs/design-system.md` documenta tokens, contraste, componentes e como adicionar shadcn.
-- Reviews: veredito no topo (produto de maior `score`, depois "nossa escolha", depois o primeiro), tabela comparativa com 2 ou mais produtos e `OfferButton`, o único botão de oferta do site. Campo opcional `score` (0 a 10) nos produtos.
+- Redesign "papel de jornal": tokens shadcn (`--background`, `--primary`, `--radius` de 4px...) em `src/app.css`, acento neutro (preto no claro, branco no escuro), tema escuro em grafite quente que segue o sistema e pode ser alternado. `docs/design-system.md` documenta tokens, contraste, componentes e como adicionar shadcn.
+- `OfferButton`, o único botão de oferta do site, na cor de cada marketplace (Mercado Livre, Amazon e Shopee; demais em preto e branco) com sombra inferior sólida e efeito de afundar ao clicar; texto "Ver oferta no/na (loja)" com nome e artigo em `site.stores`.
 - Evento GA4 `affiliate_click` (`product_id`, `post_slug`, `store`) em todo link de afiliado.
 - `/admin` com sidebar recolhível (Produtos e links, Posts, Métricas, Flags, Newsletter) em ilhas React com shadcn/ui (`@astrojs/react`, `radix-ui`, `lucide-react`, `class-variance-authority`, `clsx`, `tailwind-merge`, `tw-animate-css`). Métricas explica por que o ranking não é lido no navegador e linka o GA4; Newsletter é um placeholder para o vukem-email.
-- Ícone de radar com arcos e raio (`static/icon.svg`), PNGs 180/192/512 (`bun scripts/make-icons.ts`) e `manifest.webmanifest`.
+- Ícone de radar monocromático, sem fundo, com arcos e raio (`static/icon.svg`), PNGs 180/192/512 (`bun scripts/make-icons.ts`) e `manifest.webmanifest`.
 
 - `release.yml`: ao empurrar uma tag estável `vX.Y.Z`, publica o GitHub Release com as notas do CHANGELOG e a imagem multi-arquitetura em GHCR e Docker Hub (`X.Y.Z`, `X.Y`, `latest`), com SBOM, proveniência e assinatura cosign.
 - No `/admin`, o post ganha campos de slug, data, título, descrição, categoria, autor, rascunho e capa, com prévia da capa, das imagens do texto e do upload.
 - O painel lista as listas vinculadas ao post e os posts que usam cada JSON, e permite escolher uma capa já enviada.
 
+### Removed
+
+- Tabela "Comparativo rápido" e card "Veredito / Nossa escolha" dos reviews, com `pickTopProduct`, `comparisonColumns`, `formatScore` e o campo `score` dos produtos.
+
 ### Changed
+
+- Cor padrão neutra: o acento (`--primary`, links, foco, chips, banner, barra de leitura, `/admin`) é preto no claro e branco no escuro; todo o verde saiu (inclusive mensagens de sucesso e `theme_color`). O ícone passa a ser um traço de radar sem fundo colorido, com variante clara via `prefers-color-scheme`; o logo do header, do rodapé, do menu e do `/admin` usa o ícone como máscara (`LogoMark.astro`).
 
 - Todo o azul saiu do site (menu, links, botões, foco, cartões de autor); os botões de compartilhar e de loja deixam de usar a cor da marca de cada rede ou loja. O campo `color` dos autores em `site.config.ts` foi removido.
 - O tema agora segue `prefers-color-scheme` e só guarda a escolha quando ela difere do sistema.

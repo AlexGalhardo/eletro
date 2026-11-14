@@ -139,7 +139,7 @@ const day = (iso: string | null): string => (iso ? iso.slice(0, 10).split("-").r
 		box.replaceChildren();
 		if (errors.length === 0 && !success) return;
 		const node = document.createElement(errors.length > 0 ? "ul" : "p");
-		node.className = errors.length > 0 ? "text-sm text-red-700" : "text-sm text-green-800";
+		node.className = errors.length > 0 ? "text-sm text-red-700" : "text-sm text-foreground";
 		node.textContent = errors.length > 0 ? errors.join(" ") : success;
 		box.append(node);
 	}
