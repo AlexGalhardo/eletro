@@ -11,7 +11,7 @@ NODE_MAJOR=24
 MIN_BUN=1.4.0
 COMPOSE_FILE=infra/docker-compose.yml
 # Port the app listens on inside the container (infra/Dockerfile).
-CONTAINER_PORT=4173
+CONTAINER_PORT=80
 SCRIPT_NAME="setups/$(basename "$0")"
 
 step() { printf '\n\033[1m==> %s\033[0m\n' "$*"; }
@@ -266,9 +266,6 @@ setup_docker() {
 
 	step "Ready"
 	echo "  site:   http://localhost:$PORT"
-	echo "  admin:  http://localhost:$PORT/admin  (form \"Entrada local\")"
-	echo "  user:   $(env_get ADMIN_GITHUB_USERS | cut -d, -f1)"
-	echo "  token:  the value of AUTH_TEST_LOGIN_TOKEN in .env"
 	echo "  logs:   docker compose --file $COMPOSE_FILE logs --follow"
 	echo "  stop:   docker compose --file $COMPOSE_FILE down"
 }

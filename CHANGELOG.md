@@ -8,11 +8,13 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Added
 
+- `release.yml`: ao empurrar uma tag estável `vX.Y.Z`, publica o GitHub Release com as notas do CHANGELOG e a imagem multi-arquitetura em GHCR e Docker Hub (`X.Y.Z`, `X.Y`, `latest`), com SBOM, proveniência e assinatura cosign.
 - No `/admin`, o post ganha campos de slug, data, título, descrição, categoria, autor, rascunho e capa, com prévia da capa, das imagens do texto e do upload.
 - O painel lista as listas vinculadas ao post e os posts que usam cada JSON, e permite escolher uma capa já enviada.
 
 ### Changed
 
+- A imagem Docker (`infra/Dockerfile`) passa a compilar o site estático e servi-lo com nginx 1.30.6 (`infra/nginx.conf`), em vez de `astro preview`; o `docker-compose.yml` publica só em `127.0.0.1` e aceita `SITE_URL`. A imagem não executa o código de servidor (API, login, contato, newsletter).
 - O domínio deixa de estar escrito nos arquivos: `site`, canonicais, sitemap e JSON-LD usam a variável `SITE_URL` (padrão `http://localhost:4321`), que o `pages.yml` lê da variável de repositório `SITE_URL`. O build não cria mais o `CNAME`; o domínio próprio fica em Settings → Pages. E-mails e textos de exemplo passam a `example.com`.
 - O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.
 - O e-mail de contato público passa a ser `contato@example.com`.

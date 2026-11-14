@@ -69,7 +69,7 @@ tests/
   unit/, integration/       Vitest
   e2e/                      Playwright (smoke e e2e)
 .github/workflows/pages.yml  deploy do site estático no GitHub Pages
-.github/workflows/          CI em PR e deploy do Pages
+.github/workflows/          CI em PR, deploy do Pages e release (tag vX.Y.Z: GitHub Release e imagem Docker)
 .github/workflows-disabled/ release automático inativo
 docs/                       esta documentação
 ```

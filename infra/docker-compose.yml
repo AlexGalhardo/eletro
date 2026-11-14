@@ -1,25 +1,17 @@
-# Local run of the production build. Use it through setups/setup-*-with-docker.sh, or directly:
+# Static site served by nginx. Local, or on a VPS behind a TLS reverse proxy:
 #   docker compose --file infra/docker-compose.yml up --build --detach --wait
-name: sveltekit-blog-cms
+# SITE_URL is baked into the build (canonicals, sitemap); set it to the public origin before building for a VPS.
+name: eletro
 
 services:
   app:
     build:
       context: ..
       dockerfile: infra/Dockerfile
-    image: sveltekit-blog-cms:local
-    # Runtime configuration only: the image is built without any of these values.
-    env_file:
-      - path: ../.env
-        required: false
-    environment:
-      PGLITE_DIR: /app/.data/pglite
+      args:
+        SITE_URL: ${SITE_URL:-http://localhost:8080}
+    image: eletro:local
     ports:
-      # Published on this machine only: the local sign-in must not be reachable from the network.
-      - "127.0.0.1:${APP_PORT:-8080}:4173"
-    volumes:
-      - data:/app/.data
+      # Loopback only: put a reverse proxy with TLS in front on a VPS.
+      - "127.0.0.1:${APP_PORT:-8080}:80"
     restart: unless-stopped
-
-volumes:
-  data:

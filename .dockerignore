@@ -22,6 +22,7 @@ static/images/covers/w*/
 .agents
 docs
 infra
+!infra/nginx.conf
 setups
 tests
 test-results
