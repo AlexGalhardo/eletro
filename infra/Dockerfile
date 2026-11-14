@@ -1,4 +1,4 @@
-# Builds the static site and serves `dist/` with nginx. The site is static (`output: 'static'`), so the image
+# Builds the static site and serves `dist/` with Caddy. The site is static (`output: 'static'`), so the image
 # has no server code: the /admin panel talks to the GitHub API from the browser, and the API, login, contact,
 # newsletter and cron routes of the old server code are not served (docs/deploy.md).
 # Build context is the repository root: docker build --file infra/Dockerfile --build-arg SITE_URL=https://example.com .
@@ -19,9 +19,9 @@ ENV SITE_URL=$SITE_URL
 # No LINKS_DASHBOARD_TOKEN in the image: scripts/sync-links.ts only validates the catalogue.
 RUN bun run build
 
-FROM nginx:1.30.6-alpine AS runtime
-COPY infra/nginx.conf /etc/nginx/conf.d/default.conf
-COPY --from=build /app/dist /usr/share/nginx/html
+FROM caddy:2.11.9-alpine AS runtime
+COPY infra/Caddyfile /etc/caddy/Caddyfile
+COPY --from=build /app/dist /srv
 EXPOSE 80
 HEALTHCHECK --interval=5s --timeout=3s --start-period=5s --retries=12 \
 	CMD wget -q --spider http://127.0.0.1/ || exit 1

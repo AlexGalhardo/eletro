@@ -22,7 +22,7 @@ static/images/covers/w*/
 .agents
 docs
 infra
-!infra/nginx.conf
+!infra/Caddyfile
 setups
 tests
 test-results

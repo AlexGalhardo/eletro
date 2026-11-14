@@ -1,4 +1,4 @@
-# Static site served by nginx. Local, or on a VPS behind a TLS reverse proxy:
+# Static site served by Caddy. Local, or on a VPS behind a TLS reverse proxy:
 #   docker compose --file infra/docker-compose.yml up --build --detach --wait
 # SITE_URL is baked into the build (canonicals, sitemap); set it to the public origin before building for a VPS.
 name: eletro

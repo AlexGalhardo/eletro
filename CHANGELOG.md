@@ -14,7 +14,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Changed
 
-- A imagem Docker (`infra/Dockerfile`) passa a compilar o site estático e servi-lo com nginx 1.30.6 (`infra/nginx.conf`), em vez de `astro preview`; o `docker-compose.yml` publica só em `127.0.0.1` e aceita `SITE_URL`. A imagem não executa o código de servidor (API, login, contato, newsletter).
+- A imagem Docker (`infra/Dockerfile`) passa a compilar o site estático e servi-lo com Caddy 2.11.9 (`infra/Caddyfile`), em vez de `astro preview`; o `docker-compose.yml` publica só em `127.0.0.1` e aceita `SITE_URL`. A imagem não executa o código de servidor (API, login, contato, newsletter).
 - O domínio deixa de estar escrito nos arquivos: `site`, canonicais, sitemap e JSON-LD usam a variável `SITE_URL` (padrão `http://localhost:4321`), que o `pages.yml` lê da variável de repositório `SITE_URL`. O build não cria mais o `CNAME`; o domínio próprio fica em Settings → Pages. E-mails e textos de exemplo passam a `example.com`.
 - O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.
 - O e-mail de contato público passa a ser `contato@example.com`.
