@@ -13,6 +13,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Changed
 
+- O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.
 - O e-mail de contato público passa a ser `contato@example.com`.
 - A busca da barra seleciona o texto ao receber foco. O `/admin` alterna o tema claro e escuro.
 
