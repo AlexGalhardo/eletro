@@ -8,12 +8,21 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Added
 
+- Redesign "papel de jornal": tokens shadcn (`--background`, `--primary`, `--radius` de 4px...) em `src/app.css`, um único acento verde, tema escuro em grafite quente que segue o sistema e pode ser alternado. `docs/design-system.md` documenta tokens, contraste, componentes e como adicionar shadcn.
+- Reviews: veredito no topo (produto de maior `score`, depois "nossa escolha", depois o primeiro), tabela comparativa com 2 ou mais produtos e `OfferButton`, o único botão de oferta do site. Campo opcional `score` (0 a 10) nos produtos.
+- Evento GA4 `affiliate_click` (`product_id`, `post_slug`, `store`) em todo link de afiliado.
+- `/admin` com sidebar recolhível (Produtos e links, Posts, Métricas, Flags, Newsletter) em ilhas React com shadcn/ui (`@astrojs/react`, `radix-ui`, `lucide-react`, `class-variance-authority`, `clsx`, `tailwind-merge`, `tw-animate-css`). Métricas explica por que o ranking não é lido no navegador e linka o GA4; Newsletter é um placeholder para o vukem-email.
+- Ícone de radar com arcos e raio (`static/icon.svg`), PNGs 180/192/512 (`bun scripts/make-icons.ts`) e `manifest.webmanifest`.
+
 - `release.yml`: ao empurrar uma tag estável `vX.Y.Z`, publica o GitHub Release com as notas do CHANGELOG e a imagem multi-arquitetura em GHCR e Docker Hub (`X.Y.Z`, `X.Y`, `latest`), com SBOM, proveniência e assinatura cosign.
 - No `/admin`, o post ganha campos de slug, data, título, descrição, categoria, autor, rascunho e capa, com prévia da capa, das imagens do texto e do upload.
 - O painel lista as listas vinculadas ao post e os posts que usam cada JSON, e permite escolher uma capa já enviada.
 
 ### Changed
 
+- Todo o azul saiu do site (menu, links, botões, foco, cartões de autor); os botões de compartilhar e de loja deixam de usar a cor da marca de cada rede ou loja. O campo `color` dos autores em `site.config.ts` foi removido.
+- O tema agora segue `prefers-color-scheme` e só guarda a escolha quando ela difere do sistema.
+- `/admin/google` passa a mostrar a tela de Métricas; `/admin/newsletter` é o placeholder.
 - A imagem Docker (`infra/Dockerfile`) passa a compilar o site estático e servi-lo com Caddy 2.11.9 (`infra/Caddyfile`), em vez de `astro preview`; o `docker-compose.yml` publica só em `127.0.0.1` e aceita `SITE_URL`. A imagem não executa o código de servidor (API, login, contato, newsletter).
 - O domínio deixa de estar escrito nos arquivos: `site`, canonicais, sitemap e JSON-LD usam a variável `SITE_URL` (padrão `http://localhost:4321`), que o `pages.yml` lê da variável de repositório `SITE_URL`. O build não cria mais o `CNAME`; o domínio próprio fica em Settings → Pages. E-mails e textos de exemplo passam a `example.com`.
 - O rodapé mostra o aviso de afiliados no lugar de "Todos os direitos reservados." e perde o bloco centralizado repetido.

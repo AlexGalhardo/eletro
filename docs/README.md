@@ -25,6 +25,7 @@ Ponto de partida para pessoas e agentes que chegam ao projeto. Leia a visão ger
 | [api.md](api.md) | Usar ou alterar a API REST `/api/v1` |
 | [performance.md](performance.md) | Mexer em imagens, fontes, carregamento ou acessibilidade; medir o Lighthouse |
 | [ui.md](ui.md) | Desenvolver UI com Astro e os comportamentos do UI SDK |
+| [design-system.md](design-system.md) | Tokens, contraste, componentes e shadcn |
 | [security.md](security.md) | Mexer em autenticação, entrada de dados, conteúdo do post, cabeçalhos ou integrações |
 | [deploy.md](deploy.md) | Publicar no GitHub Pages e apontar o DNS do domínio próprio |
 | [google-console-analytics-setup.md](google-console-analytics-setup.md) | Ligar o painel ao Google Search Console e ao Analytics (`/admin/google`) ou mexer nessa integração |
