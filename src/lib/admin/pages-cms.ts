@@ -1,14 +1,13 @@
 import { announce } from "@ui-sdk/core";
-import { openCredential, type SealedCredential } from "./credential.ts";
 import { decodeFile, GithubError, PagesRepository, type RepoFile } from "./github-pages.ts";
 import { contentImages, linkedProducts, type PostField, postField, setPostField } from "./post-fields.ts";
+import { clearSession, LOGIN_PATH, readSession } from "./session.ts";
 
 const folders = ["content/posts", "content/products", "content", "static/images"] as const;
 
 export function initPagesCms(): void {
 	const root = document.querySelector<HTMLElement>("[data-pages-cms]");
 	if (!root) return;
-	const login = root.querySelector<HTMLElement>("[data-login]");
 	const workspaceHeader = root.querySelector<HTMLElement>("[data-workspace-header]");
 	const workspace = root.querySelector<HTMLElement>("[data-workspace]");
 	const message = root.querySelector<HTMLElement>("[data-message]");
@@ -16,7 +15,6 @@ export function initPagesCms(): void {
 	const editor = root.querySelector<HTMLTextAreaElement>("[data-editor]");
 	const pathLabel = root.querySelector<HTMLElement>("[data-path]");
 	const search = root.querySelector<HTMLInputElement>("#file-search");
-	const logout = root.querySelector<HTMLButtonElement>("[data-logout]");
 	const save = root.querySelector<HTMLButtonElement>("[data-save]");
 	const review = root.querySelector<HTMLAnchorElement>("[data-review]");
 	const postFields = root.querySelector<HTMLElement>("[data-post-fields]");
@@ -248,50 +246,31 @@ export function initPagesCms(): void {
 		}
 	}
 
-	root.querySelector<HTMLFormElement>("[data-login-form]")?.addEventListener("submit", async (event) => {
-		event.preventDefault();
-		const form = event.currentTarget as HTMLFormElement;
-		const tokenInput = form.elements.namedItem("token") as HTMLInputElement;
+	function toLogin(): void {
+		clearSession();
+		location.replace(`${LOGIN_PATH}?next=${encodeURIComponent(location.pathname.replace(/\/$/, ""))}`);
+	}
+
+	// The login page stored the token; every admin route reopens the workspace from the session.
+	async function start(): Promise<void> {
+		const token = readSession();
+		if (!token) return toLogin();
 		try {
-			const sealed = await fetch("/admin-credential.json", { cache: "no-store" });
-			const token = sealed.ok
-				? await openCredential((await sealed.json()) as SealedCredential, tokenInput.value)
-				: tokenInput.value.trim();
-			const candidate = new PagesRepository(root.dataset.repo ?? "", token);
+			const candidate = new PagesRepository(root?.dataset.repo ?? "", token);
 			await candidate.connect();
 			repository = candidate;
-			tokenInput.value = "";
-			if (login) login.hidden = true;
-			if (workspaceHeader) workspaceHeader.hidden = false;
-			if (workspace) workspace.hidden = false;
-			if (logout) logout.hidden = false;
-			await openFolder(folder);
-			setProductChoices(await repository.list("content/products"));
 		} catch (error) {
-			status(
-				error instanceof GithubError ? error.message : "Não foi possível entrar. Confira a senha.",
-			);
+			if (error instanceof GithubError && (error.status === 401 || error.status === 403))
+				return toLogin();
+			return status(error instanceof Error ? error.message : "Não foi possível conectar ao GitHub.");
 		}
-	});
+		if (workspaceHeader) workspaceHeader.hidden = false;
+		if (workspace) workspace.hidden = false;
+		await openFolder(folder);
+		setProductChoices(await repository.list("content/products"));
+	}
 
-	logout?.addEventListener("click", () => {
-		repository = undefined;
-		selected = undefined;
-		files = [];
-		if (editor) editor.value = "";
-		if (postFields) postFields.hidden = true;
-		if (imagePanel) imagePanel.hidden = true;
-		if (contentPreview) contentPreview.replaceChildren();
-		if (relations) relations.replaceChildren();
-		for (const url of uploadedUrls.values()) URL.revokeObjectURL(url);
-		uploadedUrls.clear();
-		if (login) login.hidden = false;
-		if (workspaceHeader) workspaceHeader.hidden = true;
-		if (workspace) workspace.hidden = true;
-		logout.hidden = true;
-		if (review) review.hidden = true;
-		status("Você saiu do painel.");
-	});
+	void start();
 
 	for (const button of root.querySelectorAll<HTMLButtonElement>("[data-folder]")) {
 		button.addEventListener("click", () => void openFolder(button.dataset.folder ?? ""));

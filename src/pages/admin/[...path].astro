@@ -4,10 +4,10 @@ import Admin from "../../layouts/Admin.astro";
 
 export function getStaticPaths() {
 	// Every route opens the same static editor on GitHub Pages; the folder it starts in follows the route.
-	return ["login", "posts", "products", "media", "import"].map((path) => ({ params: { path } }));
+	return ["posts", "products", "media", "import"].map((path) => ({ params: { path } }));
 }
 
-const path = Astro.params.path ?? "login";
+const path = Astro.params.path ?? "posts";
 const folders: Record<string, string> = { products: "content/products", media: "static/images" };
 ---
 

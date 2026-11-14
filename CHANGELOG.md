@@ -8,6 +8,7 @@ O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e 
 
 ### Added
 
+- `/admin/login` (`noindex`, sem sidebar) com o campo `Password`; todas as rotas `/admin/*` redirecionam para `/admin/login?next=<rota>` quando não há sessão, por um script no `<head>` do layout. A sessão (token) fica em `sessionStorage` por 8 horas e o botão "Sair" da sidebar a apaga. `next` só aceita caminhos `/admin/...`.
 - Reviews: a coluna lateral de outras postagens vira uma lista com miniatura, categoria, "Há N dias" (atualizado no navegador) e título.
 - Redesign "papel de jornal": tokens shadcn (`--background`, `--primary`, `--radius` de 4px...) em `src/app.css`, acento neutro (preto no claro, branco no escuro), tema escuro em grafite quente que segue o sistema e pode ser alternado. `docs/design-system.md` documenta tokens, contraste, componentes e como adicionar shadcn.
 - `OfferButton`, o único botão de oferta do site, na cor de cada marketplace (Mercado Livre, Amazon e Shopee; demais em preto e branco) com sombra inferior sólida e efeito de afundar ao clicar; texto "Ver oferta no/na (loja)" com nome e artigo em `site.stores`.

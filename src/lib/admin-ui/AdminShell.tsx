@@ -1,5 +1,6 @@
-import { ChartColumn, ExternalLink, FileText, Flag, Link2, Mail, Moon, Sun } from "lucide-react";
+import { ChartColumn, ExternalLink, FileText, Flag, Link2, LogOut, Mail, Moon, Sun } from "lucide-react";
 import type { ReactNode } from "react";
+import { clearSession, LOGIN_PATH } from "#lib/admin/session.ts";
 import { Button } from "#lib/admin-ui/ui/button.tsx";
 import { Separator } from "#lib/admin-ui/ui/separator.tsx";
 import {
@@ -96,6 +97,18 @@ export function AdminShell({ current, siteName, logo, children }: Props): ReactN
 										<ExternalLink />
 										<span>Ver o site</span>
 									</a>
+								</SidebarMenuButton>
+							</SidebarMenuItem>
+							<SidebarMenuItem>
+								<SidebarMenuButton
+									tooltip="Sair"
+									onClick={() => {
+										clearSession();
+										location.replace(LOGIN_PATH);
+									}}
+								>
+									<LogOut />
+									<span>Sair</span>
 								</SidebarMenuButton>
 							</SidebarMenuItem>
 						</SidebarMenu>
